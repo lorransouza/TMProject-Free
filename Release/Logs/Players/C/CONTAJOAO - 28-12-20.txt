@@ -1,0 +1,348 @@
+
+18:49:52 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 177.205.127.75 Mac: (57:97:A2:B8:71:46). ClientId: 3
+18:49:52 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+18:49:52 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+18:49:52 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:49:59 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:49:59 : Personagem foi desconectado. Permaneceu 00:00:07 minutos online
+18:51:02 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 177.205.127.75 Mac: (57:97:A2:B8:71:46). ClientId: 3
+18:51:02 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+18:51:02 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+18:51:10 : Solicitou ir ao mundo...
+18:51:10 : Recebido pedido para entrar no jogo
+18:51:10 : Recebido informação do personagem completa.
+18:51:10 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 824933878
+Level atual: 301
+Experiência atual: 632845130
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2087x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 0 0 0]
+[01] - Cythera_Arcana[3507] [43 253 0 0 0 0]
+[02] - Armadura_Flamejante[1221] [43 253 0 0 0 0]
+[03] - Calça_Flamejante[1222] [43 253 0 0 0 0]
+[04] - Manoplas_Flamejantes[1223] [43 253 0 0 0 0]
+[05] - Botas_Flamejantes[1224] [43 253 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Brinco_de_Titã[592] [43 234 0 0 0 0]
+[09] - Amuleto_Lendário_(Nv._5)[5154] [43 9 0 0 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[13] - Fada_Verde(7dias)[3906] [106 6 107 10 108 5]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedido_de_Caça(Armia)[3432] [61 97 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 94 0 0 0 0]
+[05] - Pedido_de_Caça(Dung)[3433] [61 100 0 0 0 0]
+[06] - Pedido_de_Caça(Kefra)[3436] [61 100 0 0 0 0]
+[10] - Pedido_de_Caça(SubM)[3434] [61 100 0 0 0 0]
+[11] - Pedido_de_Caça(Nipple)[3437] [61 100 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:51:10 : [28jdi] - Personagem 28jdi enviado ao mundo 2087x 2097y - Canal 2 - Cash da conta: 6403. OverPower: 1507
+18:51:10 : [28jdi] - Gold atual: 824933878. Classe: 0 Evolução: 0. Experiência: 632845130. Nível: 301. Info: 0. GuildID: 5. CP: 75. Pontos de Contribuição: 0. Limite: 0
+18:51:10 : [28jdi] - Resetado a contagem de entradas água! Day: 359-362. Total: 0
+18:51:10 : [28jdi] - Enviado informações do personagem
+18:51:11 : [28jdi] - Comando "/day "
+18:51:11 : [28jdi] - [Mensagem do servidor]> !#11 2
+18:51:23 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:53:22 : [28jdi] - Clicado no NPC [Gold Dragon]. Face 108. Race: 4. GenerateId: 3260. Posição do usuário: 2074x 2079y. Posição do NPC: 2068x 2068y
+18:53:40 : [28jdi] - Clicado no NPC [Gold Dragon]. Face 108. Race: 4. GenerateId: 3260. Posição do usuário: 2069x 2072y. Posição do NPC: 2068x 2068y
+18:53:44 : [28jdi] - Comando "/gm +azran"
+18:53:44 : [28jdi] - Teleportado para a posição 2482 1709
+18:53:52 : [28jdi] - Clicado no NPC [Dragao de Azran]. Face 109. Race: 14. GenerateId: 3824. Posição do usuário: 2486x 1691y. Posição do NPC: 2486x 1692y
+18:54:08 : [28jdi] - Comando "/gm +armia"
+18:54:08 : [28jdi] - Teleportado para a posição 2100 2100
+18:54:18 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2106x 2109y. Posição do NPC: 2110x 2110y
+18:54:27 : [28jdi] - Clicado no NPC de Imposto
+18:54:28 : [28jdi] - Clicado no NPC de Imposto
+18:54:30 : [28jdi] - Clicado no NPC de Imposto
+18:55:16 : [28jdi] - Clicado no NPC [Kibita]. Face 102. Race: 10. GenerateId: 3288. Posição do usuário: 2124x 2097y. Posição do NPC: 2135x 2105y
+18:55:22 : [28jdi] - Clicado no NPC [Perzen Mistico]. Face 11. Race: 8. GenerateId: 3277. Posição do usuário: 2116x 2084y. Posição do NPC: 2129x 2082y
+18:55:23 : [28jdi] - Clicado no NPC de Imposto
+18:55:47 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:55:47 : [28jdi] - 3 Personagem foi desconectado. Permaneceu 00:04:42 minutos online
+18:56:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 177.205.127.75 Mac: (57:97:A2:B8:71:46). ClientId: 3
+18:56:29 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+18:56:29 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+18:56:39 : Solicitou ir ao mundo...
+18:56:39 : Recebido pedido para entrar no jogo
+18:56:39 : Recebido informação do personagem completa.
+18:56:39 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 824933878
+Level atual: 301
+Experiência atual: 632845130
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2098x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 0 0 0]
+[01] - Cythera_Arcana[3507] [43 253 0 0 0 0]
+[02] - Armadura_Flamejante[1221] [43 253 0 0 0 0]
+[03] - Calça_Flamejante[1222] [43 253 0 0 0 0]
+[04] - Manoplas_Flamejantes[1223] [43 253 0 0 0 0]
+[05] - Botas_Flamejantes[1224] [43 253 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Brinco_de_Titã[592] [43 234 0 0 0 0]
+[09] - Amuleto_Lendário_(Nv._5)[5154] [43 9 0 0 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[13] - Fada_Verde(7dias)[3906] [106 6 107 10 108 1]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedido_de_Caça(Armia)[3432] [61 97 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 94 0 0 0 0]
+[05] - Pedido_de_Caça(Dung)[3433] [61 100 0 0 0 0]
+[06] - Pedido_de_Caça(Kefra)[3436] [61 100 0 0 0 0]
+[10] - Pedido_de_Caça(SubM)[3434] [61 100 0 0 0 0]
+[11] - Pedido_de_Caça(Nipple)[3437] [61 100 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:56:39 : [28jdi] - Personagem 28jdi enviado ao mundo 2098x 2097y - Canal 2 - Cash da conta: 6403. OverPower: 1507
+18:56:39 : [28jdi] - Gold atual: 824933878. Classe: 0 Evolução: 0. Experiência: 632845130. Nível: 301. Info: 0. GuildID: 5. CP: 75. Pontos de Contribuição: 0. Limite: 0
+18:56:39 : [28jdi] - Enviado informações do personagem
+18:56:41 : [28jdi] - Comando "/day "
+18:56:41 : [28jdi] - [Mensagem do servidor]> !#11 2
+18:56:47 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:57:14 : [28jdi] - [Mensagem do servidor]> Chegou no destino [Campo de Treino].
+18:57:14 : [28jdi] - Teleportado para a posição 2112 2051
+19:01:22 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2101x 2102y. Posição do NPC: 2110x 2110y
+19:04:45 : [28jdi] - err,action 1324883462 1324841531 15000 ms limit
+19:04:45 : [28jdi] - CrackError - Points: 1 type: 102
+19:04:45 : [28jdi] - err,action 1324884610 1324841531 15000 ms limit
+19:04:45 : [28jdi] - CrackError - Points: 1 type: 102
+19:04:45 : [28jdi] - err,action 1324886342 1324841531 15000 ms limit
+19:04:45 : [28jdi] - CrackError - Points: 1 type: 102
+19:04:45 : [28jdi] - err,action 1324887475 1324841531 15000 ms limit
+19:04:45 : [28jdi] - CrackError - Points: 1 type: 102
+19:04:45 : [28jdi] - err,action 1324888945 1324841531 15000 ms limit
+19:04:45 : [28jdi] - CrackError - Points: 1 type: 102
+19:11:59 : [28jdi] - Comando "/cmd +azran"
+19:11:59 : [28jdi] - [Mensagem do servidor]> Este personagem não está conectado.
+19:12:23 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:12:23 : [28jdi] - 3 Personagem foi desconectado. Permaneceu 00:12:23 minutos online
+19:12:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 177.205.127.75 Mac: (57:97:A2:B8:71:46). ClientId: 3
+19:12:40 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+19:12:40 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+19:12:46 : Solicitou ir ao mundo...
+19:12:46 : Recebido pedido para entrar no jogo
+19:12:46 : Recebido informação do personagem completa.
+19:12:46 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 824933878
+Level atual: 301
+Experiência atual: 632845130
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2099x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 0 0 0]
+[01] - Cythera_Arcana[3507] [43 253 0 0 0 0]
+[02] - Armadura_Flamejante[1221] [43 253 0 0 0 0]
+[03] - Calça_Flamejante[1222] [43 253 0 0 0 0]
+[04] - Manoplas_Flamejantes[1223] [43 253 0 0 0 0]
+[05] - Botas_Flamejantes[1224] [43 253 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Brinco_de_Titã[592] [43 234 0 0 0 0]
+[09] - Amuleto_Lendário_(Nv._5)[5154] [43 9 0 0 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[13] - Fada_Verde(7dias)[3906] [106 6 107 9 108 47]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedido_de_Caça(Armia)[3432] [61 97 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 94 0 0 0 0]
+[05] - Pedido_de_Caça(Dung)[3433] [61 100 0 0 0 0]
+[06] - Pedido_de_Caça(Kefra)[3436] [61 100 0 0 0 0]
+[10] - Pedido_de_Caça(SubM)[3434] [61 100 0 0 0 0]
+[11] - Pedido_de_Caça(Nipple)[3437] [61 100 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:12:46 : [28jdi] - Personagem 28jdi enviado ao mundo 2099x 2100y - Canal 2 - Cash da conta: 6403. OverPower: 1507
+19:12:46 : [28jdi] - Gold atual: 824933878. Classe: 0 Evolução: 0. Experiência: 632845130. Nível: 301. Info: 0. GuildID: 5. CP: 75. Pontos de Contribuição: 0. Limite: 0
+19:12:46 : [28jdi] - Enviado informações do personagem
+19:12:47 : [28jdi] - Comando "/day "
+19:12:47 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:13:00 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:14:53 : [28jdi] - [Mensagem do servidor]> Você não pode aprender skills de outras classes.
+19:20:33 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 177.205.127.75 Mac: (57:97:A2:B8:71:46). ClientId: 2
+19:20:33 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+19:20:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 177.205.127.75 Mac: (57:97:A2:B8:71:46). ClientId: 1
+19:20:36 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+19:20:36 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+19:20:36 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:20:42 : Solicitou ir ao mundo...
+19:20:42 : Recebido pedido para entrar no jogo
+19:20:42 : Recebido informação do personagem completa.
+19:20:42 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 824933878
+Level atual: 301
+Experiência atual: 632845130
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2093x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 0 0 0]
+[01] - Cythera_Arcana[3507] [43 253 0 0 0 0]
+[02] - Armadura_Flamejante[1221] [43 253 0 0 0 0]
+[03] - Calça_Flamejante[1222] [43 253 0 0 0 0]
+[04] - Manoplas_Flamejantes[1223] [43 253 0 0 0 0]
+[05] - Botas_Flamejantes[1224] [43 253 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Brinco_de_Titã[592] [43 234 0 0 0 0]
+[09] - Amuleto_Lendário_(Nv._5)[5154] [43 9 0 0 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[13] - Fada_Verde(7dias)[3906] [106 6 107 9 108 42]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedido_de_Caça(Armia)[3432] [61 97 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 94 0 0 0 0]
+[05] - Pedido_de_Caça(Dung)[3433] [61 100 0 0 0 0]
+[06] - Pedido_de_Caça(Kefra)[3436] [61 100 0 0 0 0]
+[10] - Pedido_de_Caça(SubM)[3434] [61 100 0 0 0 0]
+[11] - Pedido_de_Caça(Nipple)[3437] [61 100 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:20:42 : [28jdi] - Personagem 28jdi enviado ao mundo 2093x 2097y - Canal 2 - Cash da conta: 6403. OverPower: 1507
+19:20:42 : [28jdi] - Gold atual: 824933878. Classe: 0 Evolução: 0. Experiência: 632845130. Nível: 301. Info: 0. GuildID: 5. CP: 75. Pontos de Contribuição: 0. Limite: 0
+19:20:42 : [28jdi] - Enviado informações do personagem
+19:20:43 : [28jdi] - Comando "/day "
+19:20:43 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:20:53 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:21:01 : [28jdi] - Clicado no NPC [Kibita]. Face 102. Race: 10. GenerateId: 3288. Posição do usuário: 2118x 2104y. Posição do NPC: 2135x 2105y
+19:21:01 : [28jdi] - [Mensagem do servidor]> Você já possui uma cidadania
+19:21:53 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+19:22:05 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+19:26:07 : [28jdi] - Clicado no NPC [Kibita]. Face 102. Race: 10. GenerateId: 3288. Posição do usuário: 2128x 2102y. Posição do NPC: 2135x 2105y
+19:26:07 : [28jdi] - [Mensagem do servidor]> Você já possui uma cidadania
+19:26:52 : [28jdi] - [Mensagem do servidor]> Chegou no destino [Defensor da alma].
+19:26:52 : [28jdi] - Teleportado para a posição 2372 2099
+19:27:15 : [28jdi] - Matou o mob Krill. GenerID: 524
+19:27:18 : [28jdi] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3426. Posição do usuário: 2275x 2118y. Posição do NPC: 2278x 2119y

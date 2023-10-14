@@ -1,0 +1,61 @@
+
+11:13:59 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 5
+11:13:59 : Conta ADMIN5 logado na conta
+Status da conta: JOGANDO
+Personagem: PorraJoao
+
+11:13:59 : Usuário logou no jogo com clientId 5. - Servidor 2. Gold do banco: 0
+11:13:59 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+11:13:59 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+[ADMIN5]	USER_PLAY	[PorraJoao] (level: 15 ev: -1)	
+
+11:14:08 : Solicitou ir ao mundo...
+11:14:08 : Recebido pedido para entrar no jogo
+11:14:08 : Recebido informação do personagem completa.
+11:14:08 : [LALALA] - [INFORMAÇÕES DA CONTA]
+Personagem online: LALALA
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN5]	USER_PLAY	[PorraJoao] (level: 15 ev: -1)	
+
+11:14:08 : [LALALA] - Personagem LALALA enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 16
+11:14:08 : [LALALA] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+11:14:08 : [LALALA] - Resetado a contagem de entradas água! Day: 0-19. Total: 0
+11:14:08 : [LALALA] - Enviado informações do personagem
+11:14:09 : [LALALA] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+11:14:09 : [LALALA] - 5 Personagem foi desconectado. Permaneceu 00:00:11 minutos online

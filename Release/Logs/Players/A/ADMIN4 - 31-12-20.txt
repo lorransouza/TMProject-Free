@@ -1,0 +1,1617 @@
+
+13:12:27 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 2
+13:12:27 : Conta ADMIN6 logado na conta
+Status da conta: JOGANDO
+Personagem: Sharii
+
+13:12:27 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 112346412
+13:12:27 : [INFORMAÇÕES DO BANCO]
+Gold: 112346412
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Manoplas_de_Malha(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas_de_Malha(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo_de_Malha(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça_de_Malha(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura_de_Malha(M)[1123] [43 3 60 6 3 20]
+[  6] - Manoplas_Douradas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas_Douradas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo_Dourado(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça_Dourada(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura_Dourada(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla_Anã(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas_Anã(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo_Anão(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça_Anã(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura_Anã(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Gungnir[854] [43 6 60 16 0 0]
+[ 18] - Manoplas_Embutidas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas_Embutidas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo_Embutido(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça_Embutida(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura_Embutida(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura_Flamejante[1221] [43 6 0 0 0 0]
+[ 29] - Calça_Flamejante[1222] [43 6 0 0 0 0]
+[ 30] - Manoplas_Flamejantes[1223] [43 6 0 0 0 0]
+[ 31] - Botas_Flamejantes[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Gleipnir[856] [43 9 61 28 0 0]
+[ 36] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas_de_Águia(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo_de_Águia(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça_de_Águia(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Porco[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura_de_Águia(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Manoplas_de_Osso(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas_de_Osso(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo_de_Osso(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça_de_Osso(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura_de_Osso(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Manoplas_Aeon(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas_Aeon(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo_Aeon(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça_Aeon(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura_Aeon(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Lança_Relâmpago[884] [43 6 2 36 0 0]
+[ 84] - Manoplas_Elementais(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas_Elementais(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo_Elemental(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça_Elemental(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura_Elemental(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+
+13:12:28 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 399 ev: -1)	
+
+13:12:37 : Solicitou ir ao mundo...
+13:12:37 : Recebido pedido para entrar no jogo
+13:12:37 : Recebido informação do personagem completa.
+13:12:37 : [Czar] - [INFORMAÇÕES DA CONTA]
+Personagem online: Czar
+Gold atual: 741727200
+Level atual: 399
+Experiência atual: 4000000510
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2094x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Manto_de_Shiner[544] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedido_de_Caça(Kult)[3435] [61 98 0 0 0 0]
+[04] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[06] - Sleipnir[2388] [183 105 120 120 2 0]
+[09] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[10] - Svadilfari[2387] [131 53 120 120 100 0]
+[13] - Ração_de_Fênix[2439] [61 5 0 0 0 0]
+[14] - Pedido_de_Caça(Kult)[3435] [61 99 0 0 0 0]
+[36] - Safira[697] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 399 ev: -1)	
+
+13:12:37 : [Czar] - Personagem Czar enviado ao mundo 2094x 2094y - Canal 2 - Cash da conta: 66106. OverPower: 798
+13:12:37 : [Czar] - Gold atual: 741727200. Classe: 0 Evolução: 0. Experiência: 4000000510. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:12:37 : [Czar] - Logou no personagem Czar com poção divina ativo. Validade: 24/1/2021 14:19:7
+13:12:37 : [Czar] - Resetado a contagem de entradas água! Day: 364-365. Total: 0
+13:12:37 : [Czar] - Enviado informações do personagem
+13:12:38 : [Czar] - Comando "/day "
+13:12:38 : [Czar] - [Mensagem do servidor]> !#11 2
+13:12:44 : [Czar] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:17:52 : [Czar] - [Mensagem do servidor]> Você foi summonado por Sharii.
+13:18:02 : [Czar] - Comando "/relo Sharii"
+13:18:02 : [Czar] - [Mensagem do servidor]> Necessário Pergaminho Portal para dar relo
+13:18:13 : [Czar] - Teleportado para a posição 960 1761
+13:18:46 : [Czar] - [Mensagem do servidor]> Você foi summonado por Sharii.
+13:18:54 : [Czar] - Comando "/relo Sharii"
+13:18:54 : [Czar] - Teleportado para a posição 2113 2127
+13:18:54 : [Czar] - Relo no personagem Sharii 2114x 2128y
+13:19:18 : [Czar] - [Mensagem do servidor]> O outro jogador está com o modo PvP ativo
+13:19:22 : [Czar] - [Mensagem do servidor]> O outro jogador está com o modo PvP ativo
+13:19:38 : [Czar] - Trade com conta ADMIN6
+13:19:38 : [Czar] - Trade - 0 - Enviado Pergaminho_de_Portal(10) para Sharii [776] [61 9 0 0 0 0]
+13:19:38 : [Czar] - Trade - Recebido 0 de gold do usuário
+13:19:38 : [Czar] - Trade - Enviado 0 de gold para o usuário
+13:29:08 : [Czar] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+13:29:08 : [Czar] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+13:29:08 : [Czar] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+13:29:08 : [Czar] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+13:29:08 : [Czar] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+13:30:44 : [Czar] - Comprou uma skill Giro_da_Fúria. Learn antigo: 4440245452, Learn atual: 19134113663418369. Learn da skill: 1124.
+13:30:44 : [Czar] - [Mensagem do servidor]> Habilidade Giro_da_Fúria aprendida com sucesso
+13:30:44 : [Czar] - Comprou uma skill Toque_Sagrado. Learn antigo: 13030180044, Learn atual: 19134113663418370. Learn da skill: 1124.
+13:30:44 : [Czar] - [Mensagem do servidor]> Habilidade Toque_Sagrado aprendida com sucesso
+13:30:45 : [Czar] - Comprou uma skill Perseguição. Learn antigo: 30210049228, Learn atual: 19134113663418372. Learn da skill: 1124.
+13:30:45 : [Czar] - [Mensagem do servidor]> Habilidade Perseguição aprendida com sucesso
+13:30:45 : [Czar] - Comprou uma skill Samaritano. Learn antigo: 64569787596, Learn atual: 19134113663418376. Learn da skill: 1124.
+13:30:45 : [Czar] - [Mensagem do servidor]> Habilidade Samaritano aprendida com sucesso
+13:30:46 : [Czar] - Comprou uma skill Fanatismo. Learn antigo: 133289264332, Learn atual: 19134113663418384. Learn da skill: 1124.
+13:30:46 : [Czar] - [Mensagem do servidor]> Habilidade Fanatismo aprendida com sucesso
+13:30:47 : [Czar] - Comprou uma skill Aura_da_Vida. Learn antigo: 270728217804, Learn atual: 19134113663418400. Learn da skill: 1124.
+13:30:47 : [Czar] - [Mensagem do servidor]> Habilidade Aura_da_Vida aprendida com sucesso
+13:30:47 : [Czar] - Comprou uma skill Fúria_Divina. Learn antigo: 545606124748, Learn atual: 19134113663418432. Learn da skill: 1124.
+13:30:47 : [Czar] - [Mensagem do servidor]> Habilidade Fúria_Divina aprendida com sucesso
+13:30:48 : [Czar] - Comprou uma skill Destino. Learn antigo: 1095361938636, Learn atual: 19134113663418496. Learn da skill: 1124.
+13:30:48 : [Czar] - [Mensagem do servidor]> Habilidade Destino aprendida com sucesso
+13:32:24 : [Czar] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+13:32:24 : [Czar] - 2 Personagem foi desconectado. Permaneceu 00:19:40 minutos online
+13:32:32 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 2
+13:32:32 : Conta ADMIN6 logado na conta
+Status da conta: JOGANDO
+Personagem: Sharii
+
+13:32:32 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 112346412
+13:32:32 : [INFORMAÇÕES DO BANCO]
+Gold: 112346412
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Manoplas_de_Malha(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas_de_Malha(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo_de_Malha(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça_de_Malha(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura_de_Malha(M)[1123] [43 3 60 6 3 20]
+[  6] - Manoplas_Douradas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas_Douradas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo_Dourado(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça_Dourada(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura_Dourada(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla_Anã(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas_Anã(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo_Anão(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça_Anã(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura_Anã(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Gungnir[854] [43 6 60 16 0 0]
+[ 18] - Manoplas_Embutidas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas_Embutidas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo_Embutido(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça_Embutida(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura_Embutida(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura_Flamejante[1221] [43 6 0 0 0 0]
+[ 29] - Calça_Flamejante[1222] [43 6 0 0 0 0]
+[ 30] - Manoplas_Flamejantes[1223] [43 6 0 0 0 0]
+[ 31] - Botas_Flamejantes[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Gleipnir[856] [43 9 61 28 0 0]
+[ 36] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas_de_Águia(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo_de_Águia(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça_de_Águia(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Porco[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura_de_Águia(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Manoplas_de_Osso(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas_de_Osso(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo_de_Osso(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça_de_Osso(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura_de_Osso(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Manoplas_Aeon(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas_Aeon(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo_Aeon(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça_Aeon(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura_Aeon(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Lança_Relâmpago[884] [43 6 2 36 0 0]
+[ 84] - Manoplas_Elementais(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas_Elementais(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo_Elemental(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça_Elemental(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura_Elemental(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+
+13:32:37 : Solicitou ir ao mundo...
+13:32:37 : Recebido pedido para entrar no jogo
+13:32:37 : Recebido informação do personagem completa.
+13:32:37 : [Czar] - [INFORMAÇÕES DA CONTA]
+Personagem online: Czar
+Gold atual: 735286200
+Level atual: 399
+Experiência atual: 4000000510
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2097x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Manto_de_Shiner[544] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedido_de_Caça(Kult)[3435] [61 98 0 0 0 0]
+[01] - [S]Caixa_Poção_de_Cura[3322] [61 105 0 0 0 0]
+[02] - [S]Caixa_Poção_de_Cura[3322] [61 120 0 0 0 0]
+[03] - [S]Caixa_Poção_de_Cura[3322] [61 120 0 0 0 0]
+[04] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[05] - [S]Caixa_Poção_de_Cura[3322] [61 120 0 0 0 0]
+[06] - Sleipnir[2388] [183 105 120 120 2 0]
+[08] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[09] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[10] - Svadilfari[2387] [131 53 120 120 100 0]
+[13] - Ração_de_Fênix[2439] [61 5 0 0 0 0]
+[14] - Pedido_de_Caça(Kult)[3435] [61 99 0 0 0 0]
+[36] - Safira[697] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 399 ev: -1)	
+
+13:32:37 : [Czar] - Personagem Czar enviado ao mundo 2097x 2095y - Canal 2 - Cash da conta: 66106. OverPower: 798
+13:32:37 : [Czar] - Gold atual: 735286200. Classe: 0 Evolução: 0. Experiência: 4000000510. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:32:37 : [Czar] - Logou no personagem Czar com poção divina ativo. Validade: 24/1/2021 14:19:7
+13:32:37 : [Czar] - Enviado informações do personagem
+13:32:38 : [Czar] - Comando "/day "
+13:32:38 : [Czar] - [Mensagem do servidor]> !#11 2
+13:32:45 : [Czar] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:41:56 : [Czar] - Comprou uma skill Carga. Learn antigo: 2194873566412, Learn atual: 19134113663418624. Learn da skill: 1124.
+13:41:56 : [Czar] - [Mensagem do servidor]> Habilidade Carga aprendida com sucesso
+13:42:41 : [Czar] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+13:42:41 : [Czar] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+13:42:48 : [Czar] - Comprou uma skill Mestre_das_Armas. Learn antigo: 4393896821964, Learn atual: 19134113663418880. Learn da skill: 1124.
+13:42:48 : [Czar] - [Mensagem do servidor]> Habilidade Mestre_das_Armas aprendida com sucesso
+13:42:51 : [Czar] - Comprou uma skill Golpe_Mortal. Learn antigo: 8791943333068, Learn atual: 19134113663419392. Learn da skill: 1124.
+13:42:51 : [Czar] - [Mensagem do servidor]> Habilidade Golpe_Mortal aprendida com sucesso
+13:42:52 : [Czar] - Comprou uma skill Assalto. Learn antigo: 17588036355276, Learn atual: 19134113663420416. Learn da skill: 1124.
+13:42:52 : [Czar] - [Mensagem do servidor]> Habilidade Assalto aprendida com sucesso
+13:42:54 : [Czar] - Comprou uma skill Espada_da_Fênix. Learn antigo: 35180222399692, Learn atual: 19134113663422464. Learn da skill: 1124.
+13:42:54 : [Czar] - [Mensagem do servidor]> Habilidade Espada_da_Fênix aprendida com sucesso
+13:42:55 : [Czar] - Comprou uma skill Possuído. Learn antigo: 70364594488524, Learn atual: 19134113663426560. Learn da skill: 1124.
+13:42:55 : [Czar] - [Mensagem do servidor]> Habilidade Possuído aprendida com sucesso
+13:43:03 : [Czar] - Comprou uma skill Noção_de_Combate. Learn antigo: 140733338666188, Learn atual: 19134113663434752. Learn da skill: 1124.
+13:43:03 : [Czar] - [Mensagem do servidor]> Habilidade Noção_de_Combate aprendida com sucesso
+13:49:21 : [Czar] - Teleportado para a posição 2482 1717
+13:49:38 : [Czar] - Clicado no NPC [Shaman]. Face 53. Race: 13. GenerateId: 1260. Posição do usuário: 2505x 1728y. Posição do NPC: 2506x 1727y
+13:49:55 : [Czar] - Comando "/gm +item 693"
+13:49:55 : [Czar] - [Mensagem do servidor]> Criou o item Círculo_Divino_Comp_Puro
+13:49:55 : [Czar] - Czar criou o item Círculo_Divino_Comp_Puro [693] [0 0 0 0 0 0]
+13:50:01 : [Czar] - Moveu item Círculo_Divino_Comp_Puro [693] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 13
+13:50:03 : [Czar] - Clicado no NPC [Shaman]. Face 53. Race: 13. GenerateId: 1260. Posição do usuário: 2505x 1728y. Posição do NPC: 2506x 1727y
+13:50:03 : [Czar] - [Mensagem do servidor]> Pontos de skill foram resetados.
+13:50:09 : [Czar] - Teleportado para a posição 2117 2102
+13:53:41 : [Czar] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+13:53:41 : [Czar] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+13:53:41 : [Czar] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+13:53:41 : [Czar] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+13:53:41 : [Czar] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+13:53:50 : [Czar] - Comprou uma skill Golpe_Duplo. Learn antigo: 421113098716364, Learn atual: 19134113663483904. Learn da skill: 1124.
+13:53:50 : [Czar] - [Mensagem do servidor]> Habilidade Golpe_Duplo aprendida com sucesso
+13:53:50 : [Czar] - Comprou uma skill Espada_Flamejante. Learn antigo: 984063052137676, Learn atual: 19134113663549440. Learn da skill: 1124.
+13:53:50 : [Czar] - [Mensagem do servidor]> Habilidade Espada_Flamejante aprendida com sucesso
+13:53:51 : [Czar] - Comprou uma skill Contra_Ataque. Learn antigo: 2109962958980300, Learn atual: 19134113663680512. Learn da skill: 1124.
+13:53:51 : [Czar] - [Mensagem do servidor]> Habilidade Contra_Ataque aprendida com sucesso
+13:53:51 : [Czar] - Comprou uma skill Lamina_Congelada. Learn antigo: 4361762772665548, Learn atual: 19134113663942656. Learn da skill: 1124.
+13:53:51 : [Czar] - [Mensagem do servidor]> Habilidade Lamina_Congelada aprendida com sucesso
+13:53:52 : [Czar] - Comprou uma skill Ataque_da_Alma. Learn antigo: 8865362400036044, Learn atual: 19134113664466944. Learn da skill: 1124.
+13:53:52 : [Czar] - [Mensagem do servidor]> Habilidade Ataque_da_Alma aprendida com sucesso
+13:53:52 : [Czar] - Comprou uma skill Punhalada_Venenosa. Learn antigo: 17872561654777036, Learn atual: 19134113665515520. Learn da skill: 1124.
+13:53:52 : [Czar] - [Mensagem do servidor]> Habilidade Punhalada_Venenosa aprendida com sucesso
+13:53:53 : [Czar] - Comprou uma skill Exterminar. Learn antigo: 35886960164259020, Learn atual: 19134113667612672. Learn da skill: 1124.
+13:53:53 : [Czar] - [Mensagem do servidor]> Habilidade Exterminar aprendida com sucesso
+13:53:53 : [Czar] - Comprou uma skill Tempestade_de_Gelo. Learn antigo: 71915757183222988, Learn atual: 19134113671806976. Learn da skill: 1124.
+13:53:53 : [Czar] - [Mensagem do servidor]> Habilidade Tempestade_de_Gelo aprendida com sucesso
+13:55:23 : [Czar] - MSG_Attack, Skill Delay. SkillId: 17. Delay original: 3. Delay com reduções: 3. Tempo: 2350
+13:56:35 : [Czar] - MSG_Attack, Skill Delay. SkillId: 20. Delay original: 4. Delay com reduções: 4. Tempo: 2818
+14:00:10 : [Czar] - Personagem deu personagem
+14:00:20 : Solicitou ir ao mundo...
+14:00:20 : Recebido pedido para entrar no jogo
+14:00:20 : Recebido informação do personagem completa.
+14:00:20 : [ShariTEST] - [INFORMAÇÕES DA CONTA]
+Personagem online: ShariTEST
+Gold atual: 653359491
+Level atual: 399
+Experiência atual: 4000419952
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:27:16 horas
+Posição atual: 2088x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Wolf_Man[22] [43 9 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Dardo(Anct)[2751] [43 250 2 90 26 200]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 16]
+[15] - Manto_de_Shiner[544] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[57] - Safira[697] [0 0 0 0 0 0]
+[58] - Safira[697] [0 0 0 0 0 0]
+[59] - Safira[697] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 399 ev: -1)	
+
+14:00:20 : [ShariTEST] - Personagem ShariTEST enviado ao mundo 2088x 2102y - Canal 2 - Cash da conta: 66106. OverPower: 873
+14:00:20 : [ShariTEST] - Gold atual: 653359491. Classe: 2 Evolução: 0. Experiência: 4000419952. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:00:20 : [ShariTEST] - Logou no personagem ShariTEST com poção divina ativo. Validade: 24/1/2021 14:19:7
+14:00:20 : [ShariTEST] - Logou no personagem ShariTEST com baú de experiência ativo. Tempo: 569
+14:00:20 : [ShariTEST] - Logou no personagem ShariTEST com frango ativo. Tempo: 1470
+14:00:20 : [ShariTEST] - Enviado informações do personagem
+14:00:21 : [ShariTEST] - Comando "/day "
+14:00:21 : [ShariTEST] - [Mensagem do servidor]> !#11 2
+14:00:33 : [ShariTEST] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:00:57 : [ShariTEST] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:00:57 : [ShariTEST] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:00:57 : [ShariTEST] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:01:02 : [ShariTEST] - Comprou uma skill Homem_Urso. Learn antigo: 1970324982252748, Learn atual: 19134113663680512. Learn da skill: 1124.
+14:01:02 : [ShariTEST] - [Mensagem do servidor]> Habilidade Homem_Urso aprendida com sucesso
+14:01:03 : [ShariTEST] - Comprou uma skill Escudo_do_Tormento. Learn antigo: 4222124795937996, Learn atual: 19134113663942656. Learn da skill: 1124.
+14:01:03 : [ShariTEST] - [Mensagem do servidor]> Habilidade Escudo_do_Tormento aprendida com sucesso
+14:01:04 : [ShariTEST] - Comprou uma skill Astaroth. Learn antigo: 8725724423308492, Learn atual: 19134113664466944. Learn da skill: 1124.
+14:01:04 : [ShariTEST] - [Mensagem do servidor]> Habilidade Astaroth aprendida com sucesso
+14:01:05 : [ShariTEST] - Comprou uma skill Metamorfose_Superior. Learn antigo: 17732923678049484, Learn atual: 19134113665515520. Learn da skill: 1124.
+14:01:05 : [ShariTEST] - [Mensagem do servidor]> Habilidade Metamorfose_Superior aprendida com sucesso
+14:01:05 : [ShariTEST] - Comprou uma skill Titã. Learn antigo: 35747322187531468, Learn atual: 19134113667612672. Learn da skill: 1124.
+14:01:05 : [ShariTEST] - [Mensagem do servidor]> Habilidade Titã aprendida com sucesso
+14:01:06 : [ShariTEST] - Comprou uma skill Éden. Learn antigo: 71776119206495436, Learn atual: 19134113671806976. Learn da skill: 1124.
+14:01:06 : [ShariTEST] - [Mensagem do servidor]> Habilidade Éden aprendida com sucesso
+14:04:15 : [ShariTEST] - Moveu item Dardo(Anct) [2751] [43 250 2 90 26 200] do tipo EQUIPAMENTO do slot 6 para tipo INVENTÁRIO slot 0
+14:06:58 : [ShariTEST] - Teleportado para a posição 960 1761
+14:07:00 : [ShariTEST] - Teleportado para a posição 2482 1717
+14:07:20 : [ShariTEST] - Comando "/gm +item 695"
+14:07:20 : [ShariTEST] - [Mensagem do servidor]> Criou o item Círculo_Divino_Comp_Puro
+14:07:20 : [ShariTEST] - ShariTEST criou o item Círculo_Divino_Comp_Puro [695] [0 0 0 0 0 0]
+14:07:29 : [ShariTEST] - Moveu item Círculo_Divino_Comp_Puro [695] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 13
+14:07:32 : [ShariTEST] - Clicado no NPC [Shaman]. Face 53. Race: 13. GenerateId: 1260. Posição do usuário: 2505x 1728y. Posição do NPC: 2505x 1726y
+14:07:32 : [ShariTEST] - [Mensagem do servidor]> Pontos de skill foram resetados.
+14:07:38 : [ShariTEST] - Teleportado para a posição 2117 2102
+14:08:59 : [ShariTEST] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:08:59 : [ShariTEST] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:08:59 : [ShariTEST] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:09:16 : [ShariTEST] - Comprou uma skill Evocar_Condor. Learn antigo: 1099656905932, Learn atual: 19134113663418624. Learn da skill: 1124.
+14:09:16 : [ShariTEST] - [Mensagem do servidor]> Habilidade Evocar_Condor aprendida com sucesso
+14:09:17 : [ShariTEST] - [Mensagem do servidor]> Você ja aprendeu esta skill.
+14:09:17 : [ShariTEST] - Comprou uma skill Evocar_Lobo_Selvagem. Learn antigo: 5497703417036, Learn atual: 19134113663419392. Learn da skill: 1124.
+14:09:17 : [ShariTEST] - [Mensagem do servidor]> Habilidade Evocar_Lobo_Selvagem aprendida com sucesso
+14:09:18 : [ShariTEST] - Comprou uma skill Evocar_Urso_Selvagem. Learn antigo: 14293796439244, Learn atual: 19134113663420416. Learn da skill: 1124.
+14:09:18 : [ShariTEST] - [Mensagem do servidor]> Habilidade Evocar_Urso_Selvagem aprendida com sucesso
+14:09:18 : [ShariTEST] - Comprou uma skill Evocar_Grande_Tigre. Learn antigo: 31885982483660, Learn atual: 19134113663422464. Learn da skill: 1124.
+14:09:18 : [ShariTEST] - [Mensagem do servidor]> Habilidade Evocar_Grande_Tigre aprendida com sucesso
+14:09:19 : [ShariTEST] - [Mensagem do servidor]> Você ja aprendeu esta skill.
+14:09:20 : [ShariTEST] - Comprou uma skill Evocar_Dragão_Negro. Learn antigo: 102254726661324, Learn atual: 19134113663434752. Learn da skill: 1124.
+14:09:20 : [ShariTEST] - [Mensagem do servidor]> Habilidade Evocar_Dragão_Negro aprendida com sucesso
+14:09:20 : [ShariTEST] - [Mensagem do servidor]> Necessário todas as skills da linhagem.
+14:09:22 : [ShariTEST] - Comprou uma skill Evocar_Javali_Selvagem. Learn antigo: 104453749916876, Learn atual: 19134113663418880. Learn da skill: 1124.
+14:09:22 : [ShariTEST] - [Mensagem do servidor]> Habilidade Evocar_Javali_Selvagem aprendida com sucesso
+14:09:22 : [ShariTEST] - [Mensagem do servidor]> Você ja aprendeu esta skill.
+14:09:24 : [ShariTEST] - [Mensagem do servidor]> Você ja aprendeu esta skill.
+14:09:24 : [ShariTEST] - Comprou uma skill Evocar_Gorila_Gigante. Learn antigo: 139638122005708, Learn atual: 19134113663426560. Learn da skill: 1124.
+14:09:24 : [ShariTEST] - [Mensagem do servidor]> Habilidade Evocar_Gorila_Gigante aprendida com sucesso
+14:09:25 : [ShariTEST] - [Mensagem do servidor]> Você ja aprendeu esta skill.
+14:09:25 : [ShariTEST] - Comprou uma skill Evocar_Succubus. Learn antigo: 280375610361036, Learn atual: 19134113663451136. Learn da skill: 1124.
+14:09:25 : [ShariTEST] - [Mensagem do servidor]> Habilidade Evocar_Succubus aprendida com sucesso
+14:13:10 : [ShariTEST] - Teleportado para a posição 2482 1717
+14:13:19 : [ShariTEST] - Comando "/gm +item 694"
+14:13:19 : [ShariTEST] - [Mensagem do servidor]> Criou o item Círculo_Divino_Comp_Puro
+14:13:19 : [ShariTEST] - ShariTEST criou o item Círculo_Divino_Comp_Puro [694] [0 0 0 0 0 0]
+14:13:22 : [ShariTEST] - Moveu item Círculo_Divino_Comp_Puro [694] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 13
+14:13:23 : [ShariTEST] - Clicado no NPC [Shaman]. Face 53. Race: 13. GenerateId: 1260. Posição do usuário: 2503x 1727y. Posição do NPC: 2506x 1727y
+14:13:23 : [ShariTEST] - [Mensagem do servidor]> Pontos de skill foram resetados.
+14:13:29 : [ShariTEST] - Teleportado para a posição 2117 2102
+14:14:01 : [ShariTEST] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:14:01 : [ShariTEST] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:14:01 : [ShariTEST] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:14:07 : [ShariTEST] - Comprou uma skill Fera_Flamejante. Learn antigo: 4440245452, Learn atual: 19134113663418369. Learn da skill: 1124.
+14:14:07 : [ShariTEST] - [Mensagem do servidor]> Habilidade Fera_Flamejante aprendida com sucesso
+14:14:08 : [ShariTEST] - Comprou uma skill Chamas_Etéreas. Learn antigo: 13030180044, Learn atual: 19134113663418370. Learn da skill: 1124.
+14:14:08 : [ShariTEST] - [Mensagem do servidor]> Habilidade Chamas_Etéreas aprendida com sucesso
+14:14:08 : [ShariTEST] - Comprou uma skill Som_das_Fadas. Learn antigo: 30210049228, Learn atual: 19134113663418372. Learn da skill: 1124.
+14:14:08 : [ShariTEST] - [Mensagem do servidor]> Habilidade Som_das_Fadas aprendida com sucesso
+14:14:09 : [ShariTEST] - Comprou uma skill Enfraquecer. Learn antigo: 64569787596, Learn atual: 19134113663418376. Learn da skill: 1124.
+14:14:09 : [ShariTEST] - [Mensagem do servidor]> Habilidade Enfraquecer aprendida com sucesso
+14:14:09 : [ShariTEST] - Comprou uma skill Fúria_de_Gaia. Learn antigo: 133289264332, Learn atual: 19134113663418384. Learn da skill: 1124.
+14:14:09 : [ShariTEST] - [Mensagem do servidor]> Habilidade Fúria_de_Gaia aprendida com sucesso
+14:14:10 : [ShariTEST] - Comprou uma skill Proteção_Elemental. Learn antigo: 270728217804, Learn atual: 19134113663418400. Learn da skill: 1124.
+14:14:10 : [ShariTEST] - [Mensagem do servidor]> Habilidade Proteção_Elemental aprendida com sucesso
+14:14:10 : [ShariTEST] - Comprou uma skill Força_Elemental. Learn antigo: 545606124748, Learn atual: 19134113663418432. Learn da skill: 1124.
+14:14:10 : [ShariTEST] - [Mensagem do servidor]> Habilidade Força_Elemental aprendida com sucesso
+14:14:11 : [ShariTEST] - Comprou uma skill Espirito_Vingador. Learn antigo: 1095361938636, Learn atual: 19134113663418496. Learn da skill: 1124.
+14:14:11 : [ShariTEST] - [Mensagem do servidor]> Habilidade Espirito_Vingador aprendida com sucesso
+14:18:39 : [ShariTEST] - Personagem deu personagem
+14:18:45 : Solicitou ir ao mundo...
+14:18:45 : Recebido pedido para entrar no jogo
+14:18:45 : Recebido informação do personagem completa.
+14:18:45 : [ShariTEST] - [INFORMAÇÕES DA CONTA]
+Personagem online: ShariTEST
+Gold atual: 863392453
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:45:25 horas
+Posição atual: 2086x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 15360
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[29] [43 0 29 3 1 1]
+[02] - Armadura_da_Destruição[1506] [43 252 71 120 2 50]
+[03] - Calça_da_Destruição[1507] [43 252 2 50 71 100]
+[04] - Manoplas_da_Derstruição[1508] [43 252 2 50 0 0]
+[05] - Botas_da_Destruição[1509] [43 252 73 30 71 100]
+[06] - Skytalos(Anct)[2553] [43 252 2 99 26 200]
+[08] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[09] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[10] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[11] - Sephirot(TransKnight)[1760] [0 0 0 0 0 0]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 7 108 51]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedido_de_Caça(Kult)[3435] [61 87 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[02] - Manoplas_Acolchoadas(N)[1560] [43 0 72 20 59 0]
+[03] - Luvas_de_Mytril(M)[1351] [43 0 72 10 59 0]
+[04] - Elmo_Embutido(M)[1207] [43 0 60 4 59 0]
+[05] - Frango_Assado[3314] [61 1 0 0 0 0]
+[06] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[07] - Manoplas_Elementais(M)[1501] [43 0 72 20 2 6]
+[08] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[09] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[10] - Ração_de_Fenrir(P)[3383] [61 120 0 0 0 0]
+[11] - Ração_de_Cérberus[2438] [61 4 0 0 0 0]
+[12] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[13] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[14] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[15] - Armadura_da_Destruição[1506] [43 7 2 30 71 70]
+[16] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[17] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[18] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[19] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[20] - Chapéu_de_Mytril(M)[1342] [11 29 59 0 59 0]
+[21] - Luvas_de_Mytril(M)[1351] [43 0 72 10 74 6]
+[22] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[23] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[24] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[25] - Braçadeira_de_Teia(M)[1651] [43 0 72 10 54 9]
+[26] - Manoplas_Embutidas(M)[1216] [43 1 72 10 2 12]
+[27] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[30] - Chapéu_de_Mytril(M)[1342] [12 12 59 0 59 0]
+[31] - Chapéu_de_Teia(M)[1642] [43 1 59 0 59 0]
+[32] - Luvas_de_Mytril(M)[1351] [43 0 72 15 60 2]
+[33] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[34] - Elmo_Embutido(M)[1207] [43 0 59 0 59 0]
+[35] - Cérberus[2378] [0 0 120 119 0 0]
+[36] - Manoplas_Embutidas(M)[1216] [43 1 72 15 60 6]
+[37] - Braçadeira_de_Teia(M)[1651] [43 0 72 15 54 6]
+[38] - Luvas_de_Mytril(M)[1351] [43 0 72 15 59 0]
+[39] - Elmo_Embutido(M)[1207] [43 0 26 12 4 20]
+[40] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[41] - Manoplas_Elementais(M)[1501] [43 1 72 10 74 12]
+[42] - Elmo_Elemental(M)[1492] [43 0 59 0 59 0]
+[43] - Manoplas_Embutidas(M)[1216] [43 0 72 10 60 4]
+[44] - Braçadeira_de_Teia(M)[1651] [43 0 72 15 59 0]
+[45] - Manoplas_Embutidas(M)[1216] [43 0 72 20 59 0]
+[46] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[47] - Braçadeira_de_Teia(M)[1651] [10 14 72 15 74 9]
+[48] - Braçadeira_de_Teia(M)[1651] [43 0 72 20 59 0]
+[49] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[50] - Elmo_Embutido(M)[1207] [43 1 59 0 59 0]
+[51] - Braçadeira_de_Teia(M)[1651] [43 0 72 25 59 0]
+[52] - Braçadeira_de_Teia(M)[1651] [11 18 72 10 59 0]
+[53] - Chapéu_de_Mytril(M)[1342] [43 0 59 0 59 0]
+[54] - Manoplas_Elementais(M)[1501] [43 0 72 10 54 6]
+[55] - Elmo_Elemental(M)[1492] [54 6 60 8 4 20]
+[56] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[57] - Chapéu_de_Mytril(M)[1342] [43 1 26 6 4 20]
+[58] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[59] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 399 ev: -1)	
+
+14:18:45 : [ShariTEST] - Personagem ShariTEST enviado ao mundo 2086x 2100y - Canal 2 - Cash da conta: 66106. OverPower: 1948
+14:18:45 : [ShariTEST] - Gold atual: 863392453. Classe: 3 Evolução: 3. Experiência: 4000000000. Nível: 199. Info: 15360. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:18:45 : [ShariTEST] - Logou no personagem ShariTEST com poção divina ativo. Validade: 24/1/2021 14:19:7
+14:18:45 : [ShariTEST] - Logou no personagem ShariTEST com baú de experiência ativo. Tempo: 1597
+14:18:45 : [ShariTEST] - Evolução logada: 3
+14:18:45 : [ShariTEST] - Dados da capa um: [3199] [0 0 0 0 0 0]
+14:18:45 : [ShariTEST] - Dados da capa dois: [0] [0 0 0 0 0 0]
+14:18:45 : [ShariTEST] - Não foi efetuado a troca pois a refinação atual é maior
+14:18:45 : [ShariTEST] - Enviado informações do personagem
+14:18:45 : [ShariTEST] - Comando "/day "
+14:18:45 : [ShariTEST] - [Mensagem do servidor]> !#11 2
+14:18:58 : [ShariTEST] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:20:19 : [ShariTEST] - Item Pedido_de_Caça(Kult) [3435] [61 87 0 0 0 0] utilizado em 2120x 2143y
+14:20:19 : [ShariTEST] - Teleportado para a posição 1326 1896
+14:20:26 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 316. HP Atual: 31684
+14:20:27 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 322. HP Atual: 31362
+14:20:29 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 316. HP Atual: 31046
+14:20:31 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 352. HP Atual: 30694
+14:20:32 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 307. HP Atual: 30387
+14:20:35 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 158. HP Atual: 30229
+14:20:37 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 313. HP Atual: 29916
+14:20:38 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 316. HP Atual: 29600
+14:20:39 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 319. HP Atual: 29281
+14:20:41 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 312. HP Atual: 28969
+14:20:46 : [ShariTEST] - Personagem deu personagem
+14:20:46 : CrackError - Points: 3 type: 19
+14:20:52 : Solicitou ir ao mundo...
+14:20:52 : Recebido pedido para entrar no jogo
+14:20:52 : Recebido informação do personagem completa.
+14:20:52 : [ShariTEST] - [INFORMAÇÕES DA CONTA]
+Personagem online: ShariTEST
+Gold atual: 863392453
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:47:31 horas
+Posição atual: 2095x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 15360
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[29] [43 0 29 3 1 1]
+[02] - Armadura_da_Destruição[1506] [43 252 71 120 2 50]
+[03] - Calça_da_Destruição[1507] [43 252 2 50 71 100]
+[04] - Manoplas_da_Derstruição[1508] [43 252 2 50 0 0]
+[05] - Botas_da_Destruição[1509] [43 252 73 30 71 100]
+[06] - Skytalos(Anct)[2553] [43 252 2 99 26 200]
+[08] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[09] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[10] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[11] - Sephirot(TransKnight)[1760] [0 0 0 0 0 0]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 7 108 49]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedido_de_Caça(Kult)[3435] [61 86 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[02] - Manoplas_Acolchoadas(N)[1560] [43 0 72 20 59 0]
+[03] - Luvas_de_Mytril(M)[1351] [43 0 72 10 59 0]
+[04] - Elmo_Embutido(M)[1207] [43 0 60 4 59 0]
+[05] - Frango_Assado[3314] [61 1 0 0 0 0]
+[06] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[07] - Manoplas_Elementais(M)[1501] [43 0 72 20 2 6]
+[08] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[09] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[10] - Ração_de_Fenrir(P)[3383] [61 120 0 0 0 0]
+[11] - Ração_de_Cérberus[2438] [61 4 0 0 0 0]
+[12] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[13] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[14] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[15] - Armadura_da_Destruição[1506] [43 7 2 30 71 70]
+[16] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[17] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[18] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[19] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[20] - Chapéu_de_Mytril(M)[1342] [11 29 59 0 59 0]
+[21] - Luvas_de_Mytril(M)[1351] [43 0 72 10 74 6]
+[22] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[23] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[24] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[25] - Braçadeira_de_Teia(M)[1651] [43 0 72 10 54 9]
+[26] - Manoplas_Embutidas(M)[1216] [43 1 72 10 2 12]
+[27] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[30] - Chapéu_de_Mytril(M)[1342] [12 12 59 0 59 0]
+[31] - Chapéu_de_Teia(M)[1642] [43 1 59 0 59 0]
+[32] - Luvas_de_Mytril(M)[1351] [43 0 72 15 60 2]
+[33] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[34] - Elmo_Embutido(M)[1207] [43 0 59 0 59 0]
+[35] - Cérberus[2378] [0 0 120 119 0 0]
+[36] - Manoplas_Embutidas(M)[1216] [43 1 72 15 60 6]
+[37] - Braçadeira_de_Teia(M)[1651] [43 0 72 15 54 6]
+[38] - Luvas_de_Mytril(M)[1351] [43 0 72 15 59 0]
+[39] - Elmo_Embutido(M)[1207] [43 0 26 12 4 20]
+[40] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[41] - Manoplas_Elementais(M)[1501] [43 1 72 10 74 12]
+[42] - Elmo_Elemental(M)[1492] [43 0 59 0 59 0]
+[43] - Manoplas_Embutidas(M)[1216] [43 0 72 10 60 4]
+[44] - Braçadeira_de_Teia(M)[1651] [43 0 72 15 59 0]
+[45] - Manoplas_Embutidas(M)[1216] [43 0 72 20 59 0]
+[46] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[47] - Braçadeira_de_Teia(M)[1651] [10 14 72 15 74 9]
+[48] - Braçadeira_de_Teia(M)[1651] [43 0 72 20 59 0]
+[49] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[50] - Elmo_Embutido(M)[1207] [43 1 59 0 59 0]
+[51] - Braçadeira_de_Teia(M)[1651] [43 0 72 25 59 0]
+[52] - Braçadeira_de_Teia(M)[1651] [11 18 72 10 59 0]
+[53] - Chapéu_de_Mytril(M)[1342] [43 0 59 0 59 0]
+[54] - Manoplas_Elementais(M)[1501] [43 0 72 10 54 6]
+[55] - Elmo_Elemental(M)[1492] [54 6 60 8 4 20]
+[56] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[57] - Chapéu_de_Mytril(M)[1342] [43 1 26 6 4 20]
+[58] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[59] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 399 ev: -1)	
+
+14:20:52 : [ShariTEST] - Personagem ShariTEST enviado ao mundo 2095x 2094y - Canal 2 - Cash da conta: 66106. OverPower: 1948
+14:20:52 : [ShariTEST] - Gold atual: 863392453. Classe: 3 Evolução: 3. Experiência: 4000000000. Nível: 199. Info: 15360. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:20:52 : [ShariTEST] - Logou no personagem ShariTEST com poção divina ativo. Validade: 24/1/2021 14:19:7
+14:20:52 : [ShariTEST] - Logou no personagem ShariTEST com baú de experiência ativo. Tempo: 1582
+14:20:52 : [ShariTEST] - Evolução logada: 3
+14:20:52 : [ShariTEST] - Dados da capa um: [3199] [0 0 0 0 0 0]
+14:20:52 : [ShariTEST] - Dados da capa dois: [0] [0 0 0 0 0 0]
+14:20:52 : [ShariTEST] - Não foi efetuado a troca pois a refinação atual é maior
+14:20:52 : [ShariTEST] - Enviado informações do personagem
+14:20:53 : [ShariTEST] - Comando "/day "
+14:20:53 : [ShariTEST] - [Mensagem do servidor]> !#11 2
+14:20:58 : [ShariTEST] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:21:57 : [ShariTEST] - Item Pedido_de_Caça(Kult) [3435] [61 86 0 0 0 0] utilizado em 2119x 2145y
+14:21:57 : [ShariTEST] - Teleportado para a posição 1182 1714
+14:24:14 : [ShariTEST] - Personagem deu personagem
+14:24:19 : Solicitou ir ao mundo...
+14:24:19 : Recebido pedido para entrar no jogo
+14:24:19 : Recebido informação do personagem completa.
+14:24:19 : [ShariTEST] - [INFORMAÇÕES DA CONTA]
+Personagem online: ShariTEST
+Gold atual: 863392453
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:50:55 horas
+Posição atual: 2097x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 15360
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[29] [43 0 29 3 1 1]
+[02] - Armadura_da_Destruição[1506] [43 252 71 120 2 50]
+[03] - Calça_da_Destruição[1507] [43 252 2 50 71 100]
+[04] - Manoplas_da_Derstruição[1508] [43 252 2 50 0 0]
+[05] - Botas_da_Destruição[1509] [43 252 73 30 71 100]
+[06] - Skytalos(Anct)[2553] [43 252 2 99 26 200]
+[08] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[09] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[10] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[11] - Sephirot(TransKnight)[1760] [0 0 0 0 0 0]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 7 108 46]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedido_de_Caça(Kult)[3435] [61 85 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[02] - Manoplas_Acolchoadas(N)[1560] [43 0 72 20 59 0]
+[03] - Luvas_de_Mytril(M)[1351] [43 0 72 10 59 0]
+[04] - Elmo_Embutido(M)[1207] [43 0 60 4 59 0]
+[05] - Frango_Assado[3314] [61 1 0 0 0 0]
+[06] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[07] - Manoplas_Elementais(M)[1501] [43 0 72 20 2 6]
+[08] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[09] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[10] - Ração_de_Fenrir(P)[3383] [61 120 0 0 0 0]
+[11] - Ração_de_Cérberus[2438] [61 4 0 0 0 0]
+[12] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[13] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[14] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[15] - Armadura_da_Destruição[1506] [43 7 2 30 71 70]
+[16] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[17] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[18] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[19] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[20] - Chapéu_de_Mytril(M)[1342] [11 29 59 0 59 0]
+[21] - Luvas_de_Mytril(M)[1351] [43 0 72 10 74 6]
+[22] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[23] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[24] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[25] - Braçadeira_de_Teia(M)[1651] [43 0 72 10 54 9]
+[26] - Manoplas_Embutidas(M)[1216] [43 1 72 10 2 12]
+[27] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[30] - Chapéu_de_Mytril(M)[1342] [12 12 59 0 59 0]
+[31] - Chapéu_de_Teia(M)[1642] [43 1 59 0 59 0]
+[32] - Luvas_de_Mytril(M)[1351] [43 0 72 15 60 2]
+[33] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[34] - Elmo_Embutido(M)[1207] [43 0 59 0 59 0]
+[35] - Cérberus[2378] [0 0 120 119 0 0]
+[36] - Manoplas_Embutidas(M)[1216] [43 1 72 15 60 6]
+[37] - Braçadeira_de_Teia(M)[1651] [43 0 72 15 54 6]
+[38] - Luvas_de_Mytril(M)[1351] [43 0 72 15 59 0]
+[39] - Elmo_Embutido(M)[1207] [43 0 26 12 4 20]
+[40] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[41] - Manoplas_Elementais(M)[1501] [43 1 72 10 74 12]
+[42] - Elmo_Elemental(M)[1492] [43 0 59 0 59 0]
+[43] - Manoplas_Embutidas(M)[1216] [43 0 72 10 60 4]
+[44] - Braçadeira_de_Teia(M)[1651] [43 0 72 15 59 0]
+[45] - Manoplas_Embutidas(M)[1216] [43 0 72 20 59 0]
+[46] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[47] - Braçadeira_de_Teia(M)[1651] [10 14 72 15 74 9]
+[48] - Braçadeira_de_Teia(M)[1651] [43 0 72 20 59 0]
+[49] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[50] - Elmo_Embutido(M)[1207] [43 1 59 0 59 0]
+[51] - Braçadeira_de_Teia(M)[1651] [43 0 72 25 59 0]
+[52] - Braçadeira_de_Teia(M)[1651] [11 18 72 10 59 0]
+[53] - Chapéu_de_Mytril(M)[1342] [43 0 59 0 59 0]
+[54] - Manoplas_Elementais(M)[1501] [43 0 72 10 54 6]
+[55] - Elmo_Elemental(M)[1492] [54 6 60 8 4 20]
+[56] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[57] - Chapéu_de_Mytril(M)[1342] [43 1 26 6 4 20]
+[58] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[59] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 399 ev: -1)	
+
+14:24:19 : [ShariTEST] - Personagem ShariTEST enviado ao mundo 2097x 2103y - Canal 2 - Cash da conta: 66106. OverPower: 1948
+14:24:19 : [ShariTEST] - Gold atual: 863392453. Classe: 3 Evolução: 3. Experiência: 4000000000. Nível: 199. Info: 15360. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:24:19 : [ShariTEST] - Logou no personagem ShariTEST com poção divina ativo. Validade: 24/1/2021 14:19:7
+14:24:19 : [ShariTEST] - Logou no personagem ShariTEST com baú de experiência ativo. Tempo: 1557
+14:24:19 : [ShariTEST] - Evolução logada: 3
+14:24:19 : [ShariTEST] - Dados da capa um: [3199] [0 0 0 0 0 0]
+14:24:19 : [ShariTEST] - Dados da capa dois: [0] [0 0 0 0 0 0]
+14:24:19 : [ShariTEST] - Não foi efetuado a troca pois a refinação atual é maior
+14:24:19 : [ShariTEST] - Enviado informações do personagem
+14:24:20 : [ShariTEST] - Comando "/day "
+14:24:20 : [ShariTEST] - [Mensagem do servidor]> !#11 2
+14:24:32 : [ShariTEST] - Comprou uma skill Golpe_Felino. Learn antigo: 6928295441350575308, Learn atual: 19134113663418624. Learn da skill: 1124.
+14:24:32 : [ShariTEST] - [Mensagem do servidor]> Habilidade Golpe_Felino aprendida com sucesso
+14:24:34 : [ShariTEST] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:24:48 : [ShariTEST] - [Mensagem do servidor]> Guild Chatting : Off
+14:26:02 : [ShariTEST] - Comando "/gm +item 2731 43 9"
+14:26:02 : [ShariTEST] - [Mensagem do servidor]> Criou o item Caliburn(Anct)
+14:26:02 : [ShariTEST] - ShariTEST criou o item Caliburn(Anct) [2731] [43 9 0 0 0 0]
+14:26:03 : [ShariTEST] - Comando "/gm +item 2731 43 9"
+14:26:03 : [ShariTEST] - [Mensagem do servidor]> Criou o item Caliburn(Anct)
+14:26:03 : [ShariTEST] - ShariTEST criou o item Caliburn(Anct) [2731] [43 9 0 0 0 0]
+14:26:05 : [ShariTEST] - Moveu item Caliburn(Anct) [2731] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 28 para tipo EQUIPAMENTO slot 6
+14:26:07 : [ShariTEST] - Moveu item Caliburn(Anct) [2731] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 29 para tipo EQUIPAMENTO slot 7
+14:29:27 : [ShariTEST] - Teleportado para a posição 960 1761
+14:29:31 : [ShariTEST] - Teleportado para a posição 2482 1717
+14:29:52 : [ShariTEST] - Comando "/gm +item 695"
+14:29:52 : [ShariTEST] - [Mensagem do servidor]> Criou o item Círculo_Divino_Comp_Puro
+14:29:52 : [ShariTEST] - ShariTEST criou o item Círculo_Divino_Comp_Puro [695] [0 0 0 0 0 0]
+14:29:55 : [ShariTEST] - Moveu item Círculo_Divino_Comp_Puro [695] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 29 para tipo EQUIPAMENTO slot 13
+14:29:57 : [ShariTEST] - Clicado no NPC [Shaman]. Face 53. Race: 13. GenerateId: 1260. Posição do usuário: 2504x 1730y. Posição do NPC: 2505x 1726y
+14:29:57 : [ShariTEST] - [Mensagem do servidor]> Pontos de skill foram resetados.
+14:30:05 : [ShariTEST] - Teleportado para a posição 2117 2102
+14:30:36 : [ShariTEST] - Comando "/gm +item 695"
+14:30:36 : [ShariTEST] - [Mensagem do servidor]> Você não possui espaço livre no inventório.
+14:30:42 : [ShariTEST] - Item Gema_da_Siren deletado [658] [0 0 0 0 0 0]. Slot 56
+14:30:44 : [ShariTEST] - Item Elmo_Elemental(M) deletado [1492] [54 6 60 8 4 20]. Slot 55
+14:30:45 : [ShariTEST] - Comando "/gm +item 695"
+14:30:45 : [ShariTEST] - [Mensagem do servidor]> Criou o item Círculo_Divino_Comp_Puro
+14:30:45 : [ShariTEST] - ShariTEST criou o item Círculo_Divino_Comp_Puro [695] [0 0 0 0 0 0]
+14:30:53 : [ShariTEST] - Comando "/gm +item 693"
+14:30:53 : [ShariTEST] - [Mensagem do servidor]> Criou o item Círculo_Divino_Comp_Puro
+14:30:53 : [ShariTEST] - ShariTEST criou o item Círculo_Divino_Comp_Puro [693] [0 0 0 0 0 0]
+14:30:56 : [ShariTEST] - Moveu item Círculo_Divino_Comp_Puro [693] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 56 para tipo EQUIPAMENTO slot 13
+14:30:59 : [ShariTEST] - Teleportado para a posição 2482 1717
+14:31:04 : [ShariTEST] - Clicado no NPC [Shaman]. Face 53. Race: 13. GenerateId: 1260. Posição do usuário: 2503x 1717y. Posição do NPC: 2506x 1727y
+14:31:04 : [ShariTEST] - [Mensagem do servidor]> Pontos de skill foram resetados.
+14:31:13 : [ShariTEST] - Teleportado para a posição 2117 2102
+14:31:36 : [ShariTEST] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:31:36 : [ShariTEST] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:31:36 : [ShariTEST] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:31:44 : [ShariTEST] - Comprou uma skill Lâmina_das_Sombras. Learn antigo: 6917879771995620556, Learn atual: 19134113663483904. Learn da skill: 1124.
+14:31:44 : [ShariTEST] - [Mensagem do servidor]> Habilidade Lâmina_das_Sombras aprendida com sucesso
+14:31:46 : [ShariTEST] - Comprou uma skill Visão_de_Caçadora. Learn antigo: 6919005671902463180, Learn atual: 19134113663680512. Learn da skill: 1124.
+14:31:46 : [ShariTEST] - [Mensagem do servidor]> Habilidade Visão_de_Caçadora aprendida com sucesso
+14:31:46 : [ShariTEST] - Comprou uma skill Evasão_Aprimorada. Learn antigo: 6919568621855884492, Learn atual: 19134113663549440. Learn da skill: 1124.
+14:31:46 : [ShariTEST] - [Mensagem do servidor]> Habilidade Evasão_Aprimorada aprendida com sucesso
+14:31:47 : [ShariTEST] - Comprou uma skill Olhos_de_Aguia. Learn antigo: 6921820421669569740, Learn atual: 19134113663942656. Learn da skill: 1124.
+14:31:47 : [ShariTEST] - [Mensagem do servidor]> Habilidade Olhos_de_Aguia aprendida com sucesso
+14:31:48 : [ShariTEST] - Comprou uma skill Toxina_de_Serpente. Learn antigo: 6926324021296940236, Learn atual: 19134113664466944. Learn da skill: 1124.
+14:31:48 : [ShariTEST] - [Mensagem do servidor]> Habilidade Toxina_de_Serpente aprendida com sucesso
+14:31:49 : [ShariTEST] - Comprou uma skill Lamina_Aérea. Learn antigo: 6935331220551681228, Learn atual: 19134113665515520. Learn da skill: 1124.
+14:31:49 : [ShariTEST] - [Mensagem do servidor]> Habilidade Lamina_Aérea aprendida com sucesso
+14:31:49 : [ShariTEST] - Comprou uma skill Proteção_das_Sombras. Learn antigo: 6953345619061163212, Learn atual: 19134113667612672. Learn da skill: 1124.
+14:31:49 : [ShariTEST] - [Mensagem do servidor]> Habilidade Proteção_das_Sombras aprendida com sucesso
+14:31:50 : [ShariTEST] - Comprou uma skill Invisibilidade. Learn antigo: 6989374416080127180, Learn atual: 19134113671806976. Learn da skill: 1124.
+14:31:50 : [ShariTEST] - [Mensagem do servidor]> Habilidade Invisibilidade aprendida com sucesso
+14:32:21 : [ShariTEST] - Comando "/gm +item 2614 43 250"
+14:32:21 : [ShariTEST] - [Mensagem do servidor]> Criou o item Khyrius(Anct)
+14:32:21 : [ShariTEST] - ShariTEST criou o item Khyrius(Anct) [2614] [43 250 0 0 0 0]
+14:32:27 : [ShariTEST] - Item Círculo_Divino_Comp_Puro deletado [695] [0 0 0 0 0 0]. Slot 55
+14:32:29 : [ShariTEST] - Moveu item Caliburn(Anct) [2731] [43 9 0 0 0 0] do tipo EQUIPAMENTO do slot 7 para tipo INVENTÁRIO slot 55
+14:32:31 : [ShariTEST] - Moveu item Khyrius(Anct) [2614] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 56 para tipo EQUIPAMENTO slot 6
+14:37:20 : [ShariTEST] - Item Pedido_de_Caça(Kult) [3435] [61 85 0 0 0 0] utilizado em 2117x 2143y
+14:37:20 : [ShariTEST] - Teleportado para a posição 1326 1896
+14:37:22 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 279. HP Atual: 28690
+14:37:23 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 328. HP Atual: 28362
+14:37:24 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 328. HP Atual: 28034
+14:37:25 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 282. HP Atual: 27752
+14:37:26 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 293. HP Atual: 27459
+14:37:27 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 287. HP Atual: 27172
+14:37:28 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 301. HP Atual: 26871
+14:37:29 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 305. HP Atual: 26566
+14:37:30 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 325. HP Atual: 26241
+14:37:31 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 284. HP Atual: 25957
+14:37:32 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 307. HP Atual: 25650
+14:37:33 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 328. HP Atual: 25322
+14:37:35 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 300. HP Atual: 25022
+14:37:37 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 328. HP Atual: 24694
+14:37:38 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 335. HP Atual: 24359
+14:37:39 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 311. HP Atual: 24048
+14:37:40 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 319. HP Atual: 23729
+14:37:41 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 283. HP Atual: 23446
+14:37:42 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 307. HP Atual: 23139
+14:37:43 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 293. HP Atual: 22846
+14:37:44 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 313. HP Atual: 22533
+14:37:45 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 291. HP Atual: 22242
+14:37:46 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 294. HP Atual: 21948
+14:37:47 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 296. HP Atual: 21652
+14:37:49 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 279. HP Atual: 21373
+14:37:50 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 282. HP Atual: 21091
+14:37:51 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 310. HP Atual: 20781
+14:37:52 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 301. HP Atual: 20480
+14:37:53 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 298. HP Atual: 20182
+14:37:54 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 329. HP Atual: 19853
+14:37:55 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 304. HP Atual: 19549
+14:37:56 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 305. HP Atual: 19244
+14:37:57 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 301. HP Atual: 18943
+14:37:58 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 313. HP Atual: 18630
+14:37:59 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 310. HP Atual: 18320
+14:38:00 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 298. HP Atual: 18022
+14:38:01 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 314. HP Atual: 17708
+14:38:02 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 307. HP Atual: 17401
+14:38:03 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 319. HP Atual: 17082
+14:38:05 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 307. HP Atual: 16775
+14:38:06 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 298. HP Atual: 16477
+14:38:07 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 290. HP Atual: 16187
+14:38:08 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 316. HP Atual: 15871
+14:38:09 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 313. HP Atual: 15558
+14:38:10 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 287. HP Atual: 15271
+14:38:11 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 308. HP Atual: 14963
+14:38:12 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 310. HP Atual: 14653
+14:38:13 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 325. HP Atual: 14328
+14:38:14 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 304. HP Atual: 14024
+14:38:15 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 283. HP Atual: 13741
+14:38:16 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 293. HP Atual: 13448
+14:38:17 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 331. HP Atual: 13117
+14:38:18 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 314. HP Atual: 12803
+14:38:20 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 282. HP Atual: 12521
+14:38:21 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 323. HP Atual: 12198
+14:38:21 : [ShariTEST] - Item Gema_da_Siren deletado [658] [0 0 0 0 0 0]. Slot 58
+14:38:22 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 316. HP Atual: 11882
+14:38:22 : [ShariTEST] - Item Chapéu_de_Mytril(M) deletado [1342] [43 1 26 6 4 20]. Slot 57
+14:38:23 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 282. HP Atual: 11600
+14:38:24 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 300. HP Atual: 11300
+14:38:25 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 311. HP Atual: 10989
+14:38:26 : [ShariTEST] - Moveu item Khyrius(Anct) [2614] [43 250 0 0 0 0] do tipo EQUIPAMENTO do slot 6 para tipo INVENTÁRIO slot 57
+14:38:26 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 92. HP Atual: 10897
+14:38:27 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 106. HP Atual: 10791
+14:38:28 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 91. HP Atual: 10700
+14:38:29 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 184. HP Atual: 10516
+14:38:30 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 95. HP Atual: 10421
+14:38:31 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 95. HP Atual: 10326
+14:38:32 : [ShariTEST] - Moveu item Khyrius(Anct) [2614] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 57 para tipo EQUIPAMENTO slot 6
+14:38:32 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 323. HP Atual: 10003
+14:38:33 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 290. HP Atual: 9713
+14:38:34 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 322. HP Atual: 9391
+14:38:36 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 328. HP Atual: 9063
+14:38:37 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 298. HP Atual: 8765
+14:38:38 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 310. HP Atual: 8455
+14:38:39 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 291. HP Atual: 8164
+14:38:40 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 331. HP Atual: 7833
+14:38:41 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 314. HP Atual: 7519
+14:38:42 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 322. HP Atual: 7197
+14:38:43 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 322. HP Atual: 6875
+14:38:44 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 322. HP Atual: 6553
+14:38:45 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 297. HP Atual: 6256
+14:38:46 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 311. HP Atual: 5945
+14:38:47 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 313. HP Atual: 5632
+14:38:48 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 290. HP Atual: 5342
+14:38:49 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 287. HP Atual: 5055
+14:38:50 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 291. HP Atual: 4764
+14:38:51 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 334. HP Atual: 4430
+14:38:52 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 325. HP Atual: 4105
+14:38:53 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 325. HP Atual: 3780
+14:38:55 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 308. HP Atual: 3472
+14:38:56 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 279. HP Atual: 3193
+14:38:57 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 290. HP Atual: 2903
+14:38:58 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 310. HP Atual: 2593
+14:38:59 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 301. HP Atual: 2292
+14:39:00 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 307. HP Atual: 1985
+14:39:01 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 310. HP Atual: 1675
+14:39:02 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 328. HP Atual: 1347
+14:39:03 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 305. HP Atual: 1042
+14:39:04 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 314. HP Atual: 728
+14:39:05 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 328. HP Atual: 400
+14:39:06 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 308. HP Atual: 92
+14:39:07 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 304. HP Atual: 0
+14:39:07 : [ShariTEST] - Matou o mob Cav. Lugefer. GenerID: 4075
+14:39:23 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 293. HP Atual: 31707
+14:39:24 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 326. HP Atual: 31381
+14:39:25 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 293. HP Atual: 31088
+14:39:26 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 319. HP Atual: 30769
+14:39:27 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 334. HP Atual: 30435
+14:39:28 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 300. HP Atual: 30135
+14:39:29 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 320. HP Atual: 29815
+14:39:31 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 313. HP Atual: 29502
+14:39:32 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 305. HP Atual: 29197
+14:39:33 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 334. HP Atual: 28863
+14:39:34 : [ShariTEST] - Removido o Hp do mob Cav. Lugefer. HP removido: 319. HP Atual: 28544
+14:39:42 : [ShariTEST] - Personagem deu personagem
+14:39:46 : Solicitou ir ao mundo...
+14:39:46 : Recebido pedido para entrar no jogo
+14:39:46 : Recebido informação do personagem completa.
+14:39:46 : [ShariTEST] - [INFORMAÇÕES DA CONTA]
+Personagem online: ShariTEST
+Gold atual: 813384253
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 01:06:10 horas
+Posição atual: 2090x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 15360
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[29] [43 0 29 3 1 1]
+[02] - Armadura_da_Destruição[1506] [43 252 71 120 2 50]
+[03] - Calça_da_Destruição[1507] [43 252 2 50 71 100]
+[04] - Manoplas_da_Derstruição[1508] [43 252 2 50 0 0]
+[05] - Botas_da_Destruição[1509] [43 252 73 30 71 100]
+[06] - Khyrius(Anct)[2614] [43 250 0 0 0 0]
+[08] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[09] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[10] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[11] - Sephirot(TransKnight)[1760] [0 0 0 0 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedido_de_Caça(Kult)[3435] [61 84 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[02] - Manoplas_Acolchoadas(N)[1560] [43 0 72 20 59 0]
+[03] - Luvas_de_Mytril(M)[1351] [43 0 72 10 59 0]
+[04] - Elmo_Embutido(M)[1207] [43 0 60 4 59 0]
+[05] - Frango_Assado[3314] [61 1 0 0 0 0]
+[06] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[07] - Manoplas_Elementais(M)[1501] [43 0 72 20 2 6]
+[08] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[09] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[10] - Ração_de_Fenrir(P)[3383] [61 120 0 0 0 0]
+[11] - Ração_de_Cérberus[2438] [61 4 0 0 0 0]
+[12] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[13] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[14] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[15] - Armadura_da_Destruição[1506] [43 7 2 30 71 70]
+[16] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[17] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[18] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[19] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[20] - Chapéu_de_Mytril(M)[1342] [11 29 59 0 59 0]
+[21] - Luvas_de_Mytril(M)[1351] [43 0 72 10 74 6]
+[22] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[23] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[24] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[25] - Braçadeira_de_Teia(M)[1651] [43 0 72 10 54 9]
+[26] - Manoplas_Embutidas(M)[1216] [43 1 72 10 2 12]
+[27] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[28] - Skytalos(Anct)[2553] [43 252 2 99 26 200]
+[29] - Fada_Vermelha(3dias)[3902] [106 2 107 7 108 41]
+[30] - Chapéu_de_Mytril(M)[1342] [12 12 59 0 59 0]
+[31] - Chapéu_de_Teia(M)[1642] [43 1 59 0 59 0]
+[32] - Luvas_de_Mytril(M)[1351] [43 0 72 15 60 2]
+[33] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[34] - Elmo_Embutido(M)[1207] [43 0 59 0 59 0]
+[35] - Cérberus[2378] [0 0 120 119 0 0]
+[36] - Manoplas_Embutidas(M)[1216] [43 1 72 15 60 6]
+[37] - Braçadeira_de_Teia(M)[1651] [43 0 72 15 54 6]
+[38] - Luvas_de_Mytril(M)[1351] [43 0 72 15 59 0]
+[39] - Elmo_Embutido(M)[1207] [43 0 26 12 4 20]
+[40] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[41] - Manoplas_Elementais(M)[1501] [43 1 72 10 74 12]
+[42] - Elmo_Elemental(M)[1492] [43 0 59 0 59 0]
+[43] - Manoplas_Embutidas(M)[1216] [43 0 72 10 60 4]
+[44] - Braçadeira_de_Teia(M)[1651] [43 0 72 15 59 0]
+[45] - Manoplas_Embutidas(M)[1216] [43 0 72 20 59 0]
+[46] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[47] - Braçadeira_de_Teia(M)[1651] [10 14 72 15 74 9]
+[48] - Braçadeira_de_Teia(M)[1651] [43 0 72 20 59 0]
+[49] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[50] - Elmo_Embutido(M)[1207] [43 1 59 0 59 0]
+[51] - Braçadeira_de_Teia(M)[1651] [43 0 72 25 59 0]
+[52] - Braçadeira_de_Teia(M)[1651] [11 18 72 10 59 0]
+[53] - Chapéu_de_Mytril(M)[1342] [43 0 59 0 59 0]
+[54] - Manoplas_Elementais(M)[1501] [43 0 72 10 54 6]
+[55] - Caliburn(Anct)[2731] [43 9 0 0 0 0]
+[56] - Caliburn(Anct)[2731] [43 9 0 0 0 0]
+[59] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 399 ev: -1)	
+
+14:39:46 : [ShariTEST] - Personagem ShariTEST enviado ao mundo 2090x 2102y - Canal 2 - Cash da conta: 66106. OverPower: 1948
+14:39:46 : [ShariTEST] - Gold atual: 813384253. Classe: 3 Evolução: 3. Experiência: 4000000000. Nível: 199. Info: 15360. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:39:46 : [ShariTEST] - Logou no personagem ShariTEST com poção divina ativo. Validade: 24/1/2021 14:19:7
+14:39:46 : [ShariTEST] - Logou no personagem ShariTEST com baú de experiência ativo. Tempo: 1443
+14:39:46 : [ShariTEST] - Evolução logada: 3
+14:39:46 : [ShariTEST] - Dados da capa um: [3199] [0 0 0 0 0 0]
+14:39:46 : [ShariTEST] - Dados da capa dois: [0] [0 0 0 0 0 0]
+14:39:46 : [ShariTEST] - Não foi efetuado a troca pois a refinação atual é maior
+14:39:46 : [ShariTEST] - Enviado informações do personagem
+14:39:47 : [ShariTEST] - Comando "/day "
+14:39:47 : [ShariTEST] - [Mensagem do servidor]> !#11 2
+14:39:58 : [ShariTEST] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:40:16 : [ShariTEST] - MSG_Attack, Skill Delay. SkillId: 95. Delay original: 40. Delay com reduções: 39. Tempo: 26607
+14:40:24 : [ShariTEST] - MSG_Attack, Skill Delay. SkillId: 95. Delay original: 40. Delay com reduções: 39. Tempo: 34802
+14:40:55 : [ShariTEST] - MSG_Attack, Skill Delay. SkillId: 95. Delay original: 40. Delay com reduções: 39. Tempo: 21735
+14:41:02 : [ShariTEST] - MSG_Attack, Skill Delay. SkillId: 95. Delay original: 40. Delay com reduções: 39. Tempo: 29159
+14:41:09 : [ShariTEST] - MSG_Attack, Skill Delay. SkillId: 95. Delay original: 40. Delay com reduções: 39. Tempo: 36536
+14:42:49 : [ShariTEST] - Personagem deu personagem
+14:42:55 : Solicitou ir ao mundo...
+14:42:55 : Recebido pedido para entrar no jogo
+14:42:55 : Recebido informação do personagem completa.
+14:42:55 : [Czar] - [INFORMAÇÕES DA CONTA]
+Personagem online: Czar
+Gold atual: 735282600
+Level atual: 399
+Experiência atual: 4000000510
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:09:17 horas
+Posição atual: 2096x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Manto_de_Shiner[544] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedido_de_Caça(Kult)[3435] [61 98 0 0 0 0]
+[01] - [S]Caixa_Poção_de_Cura[3322] [61 105 0 0 0 0]
+[02] - [S]Caixa_Poção_de_Cura[3322] [61 120 0 0 0 0]
+[03] - [S]Caixa_Poção_de_Cura[3322] [61 120 0 0 0 0]
+[04] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[05] - [S]Caixa_Poção_de_Cura[3322] [61 120 0 0 0 0]
+[06] - Sleipnir[2388] [183 105 120 120 2 0]
+[08] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[09] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[10] - Svadilfari[2387] [131 53 120 120 100 0]
+[13] - Ração_de_Fênix[2439] [61 5 0 0 0 0]
+[14] - Pedido_de_Caça(Kult)[3435] [61 99 0 0 0 0]
+[36] - Safira[697] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 399 ev: -1)	
+
+14:42:55 : [Czar] - Personagem Czar enviado ao mundo 2096x 2095y - Canal 2 - Cash da conta: 66106. OverPower: 798
+14:42:55 : [Czar] - Gold atual: 735282600. Classe: 0 Evolução: 0. Experiência: 4000000510. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:42:55 : [Czar] - Logou no personagem Czar com poção divina ativo. Validade: 24/1/2021 14:19:7
+14:42:55 : [Czar] - Enviado informações do personagem
+14:42:56 : [Czar] - Comando "/day "
+14:42:56 : [Czar] - [Mensagem do servidor]> !#11 2
+14:43:03 : [Czar] - Teleportado para a posição 2482 1717
+14:43:11 : [Czar] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:43:16 : [Czar] - Comando "/gm +item 695"
+14:43:16 : [Czar] - [Mensagem do servidor]> Criou o item Círculo_Divino_Comp_Puro
+14:43:16 : [Czar] - Czar criou o item Círculo_Divino_Comp_Puro [695] [0 0 0 0 0 0]
+14:43:19 : [Czar] - Moveu item Círculo_Divino_Comp_Puro [695] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 13
+14:43:21 : [Czar] - Clicado no NPC [Shaman]. Face 53. Race: 13. GenerateId: 1260. Posição do usuário: 2504x 1726y. Posição do NPC: 2506x 1727y
+14:43:21 : [Czar] - [Mensagem do servidor]> Pontos de skill foram resetados.
+14:43:27 : [Czar] - Teleportado para a posição 2117 2102
+14:43:30 : [Czar] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:43:30 : [Czar] - 2 Personagem foi desconectado. Permaneceu 01:09:51 minutos online
+14:44:19 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 2
+14:44:19 : Conta ADMIN6 logado na conta
+Status da conta: JOGANDO
+Personagem: Sharii
+
+14:44:19 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 112346412
+14:44:19 : [INFORMAÇÕES DO BANCO]
+Gold: 112346412
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Manoplas_de_Malha(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas_de_Malha(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo_de_Malha(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça_de_Malha(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura_de_Malha(M)[1123] [43 3 60 6 3 20]
+[  6] - Manoplas_Douradas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas_Douradas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo_Dourado(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça_Dourada(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura_Dourada(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla_Anã(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas_Anã(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo_Anão(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça_Anã(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura_Anã(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Gungnir[854] [43 6 60 16 0 0]
+[ 18] - Manoplas_Embutidas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas_Embutidas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo_Embutido(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça_Embutida(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura_Embutida(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura_Flamejante[1221] [43 6 0 0 0 0]
+[ 29] - Calça_Flamejante[1222] [43 6 0 0 0 0]
+[ 30] - Manoplas_Flamejantes[1223] [43 6 0 0 0 0]
+[ 31] - Botas_Flamejantes[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Gleipnir[856] [43 9 61 28 0 0]
+[ 36] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas_de_Águia(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo_de_Águia(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça_de_Águia(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Porco[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura_de_Águia(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Manoplas_de_Osso(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas_de_Osso(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo_de_Osso(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça_de_Osso(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura_de_Osso(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Manoplas_Aeon(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas_Aeon(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo_Aeon(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça_Aeon(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura_Aeon(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Lança_Relâmpago[884] [43 6 2 36 0 0]
+[ 84] - Manoplas_Elementais(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas_Elementais(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo_Elemental(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça_Elemental(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura_Elemental(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+
+14:44:24 : Solicitou ir ao mundo...
+14:44:24 : Recebido pedido para entrar no jogo
+14:44:24 : Recebido informação do personagem completa.
+14:44:24 : [Czar] - [INFORMAÇÕES DA CONTA]
+Personagem online: Czar
+Gold atual: 735279000
+Level atual: 399
+Experiência atual: 4000000510
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2086x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Manto_de_Shiner[544] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedido_de_Caça(Kult)[3435] [61 98 0 0 0 0]
+[01] - [S]Caixa_Poção_de_Cura[3322] [61 105 0 0 0 0]
+[02] - [S]Caixa_Poção_de_Cura[3322] [61 120 0 0 0 0]
+[03] - [S]Caixa_Poção_de_Cura[3322] [61 120 0 0 0 0]
+[04] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[05] - [S]Caixa_Poção_de_Cura[3322] [61 120 0 0 0 0]
+[06] - Sleipnir[2388] [183 105 120 120 2 0]
+[08] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[09] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[10] - Svadilfari[2387] [131 53 120 120 100 0]
+[13] - Ração_de_Fênix[2439] [61 5 0 0 0 0]
+[14] - Pedido_de_Caça(Kult)[3435] [61 99 0 0 0 0]
+[36] - Safira[697] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 399 ev: -1)	
+
+14:44:25 : [Czar] - Personagem Czar enviado ao mundo 2086x 2094y - Canal 2 - Cash da conta: 66106. OverPower: 798
+14:44:25 : [Czar] - Gold atual: 735279000. Classe: 0 Evolução: 0. Experiência: 4000000510. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:44:25 : [Czar] - Logou no personagem Czar com poção divina ativo. Validade: 24/1/2021 14:19:7
+14:44:25 : [Czar] - Enviado informações do personagem
+14:44:25 : [Czar] - Comando "/day "
+14:44:25 : [Czar] - [Mensagem do servidor]> !#11 2
+14:44:35 : [Czar] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:44:36 : [Czar] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:44:36 : [Czar] - 2 Personagem foi desconectado. Permaneceu 00:00:17 minutos online
+14:44:52 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 2
+14:44:52 : Conta ADMIN6 logado na conta
+Status da conta: JOGANDO
+Personagem: Sharii
+
+14:44:52 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 112346412
+14:44:52 : [INFORMAÇÕES DO BANCO]
+Gold: 112346412
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Manoplas_de_Malha(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas_de_Malha(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo_de_Malha(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça_de_Malha(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura_de_Malha(M)[1123] [43 3 60 6 3 20]
+[  6] - Manoplas_Douradas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas_Douradas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo_Dourado(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça_Dourada(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura_Dourada(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla_Anã(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas_Anã(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo_Anão(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça_Anã(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura_Anã(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Gungnir[854] [43 6 60 16 0 0]
+[ 18] - Manoplas_Embutidas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas_Embutidas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo_Embutido(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça_Embutida(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura_Embutida(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura_Flamejante[1221] [43 6 0 0 0 0]
+[ 29] - Calça_Flamejante[1222] [43 6 0 0 0 0]
+[ 30] - Manoplas_Flamejantes[1223] [43 6 0 0 0 0]
+[ 31] - Botas_Flamejantes[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Gleipnir[856] [43 9 61 28 0 0]
+[ 36] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas_de_Águia(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo_de_Águia(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça_de_Águia(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Porco[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura_de_Águia(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Manoplas_de_Osso(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas_de_Osso(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo_de_Osso(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça_de_Osso(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura_de_Osso(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Manoplas_Aeon(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas_Aeon(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo_Aeon(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça_Aeon(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura_Aeon(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Lança_Relâmpago[884] [43 6 2 36 0 0]
+[ 84] - Manoplas_Elementais(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas_Elementais(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo_Elemental(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça_Elemental(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura_Elemental(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+
+14:44:57 : Solicitou ir ao mundo...
+14:44:57 : Recebido pedido para entrar no jogo
+14:44:57 : Recebido informação do personagem completa.
+14:44:57 : [Czar] - [INFORMAÇÕES DA CONTA]
+Personagem online: Czar
+Gold atual: 735279000
+Level atual: 399
+Experiência atual: 4000000510
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2088x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Manto_de_Shiner[544] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedido_de_Caça(Kult)[3435] [61 98 0 0 0 0]
+[01] - [S]Caixa_Poção_de_Cura[3322] [61 105 0 0 0 0]
+[02] - [S]Caixa_Poção_de_Cura[3322] [61 120 0 0 0 0]
+[03] - [S]Caixa_Poção_de_Cura[3322] [61 120 0 0 0 0]
+[04] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[05] - [S]Caixa_Poção_de_Cura[3322] [61 120 0 0 0 0]
+[06] - Sleipnir[2388] [183 105 120 120 2 0]
+[08] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[09] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[10] - Svadilfari[2387] [131 53 120 120 100 0]
+[13] - Ração_de_Fênix[2439] [61 5 0 0 0 0]
+[14] - Pedido_de_Caça(Kult)[3435] [61 99 0 0 0 0]
+[36] - Safira[697] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 399 ev: -1)	
+
+14:44:57 : [Czar] - Personagem Czar enviado ao mundo 2088x 2098y - Canal 2 - Cash da conta: 66106. OverPower: 798
+14:44:57 : [Czar] - Gold atual: 735279000. Classe: 0 Evolução: 0. Experiência: 4000000510. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:44:57 : [Czar] - Logou no personagem Czar com poção divina ativo. Validade: 24/1/2021 14:19:7
+14:44:57 : [Czar] - Enviado informações do personagem
+14:44:58 : [Czar] - Comando "/day "
+14:44:58 : [Czar] - [Mensagem do servidor]> !#11 2
+14:44:58 : [Czar] - Comando "/day "
+14:44:58 : [Czar] - [Mensagem do servidor]> !#11 2
+14:45:11 : [Czar] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:46:31 : [Czar] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:46:31 : [Czar] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:46:31 : [Czar] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:46:44 : [Czar] - Comprou uma skill Armadura_Crítica. Learn antigo: 280375610361036, Learn atual: 19134113663451136. Learn da skill: 1124.
+14:46:44 : [Czar] - [Mensagem do servidor]> Habilidade Armadura_Crítica aprendida com sucesso
+14:47:57 : [Czar] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:47:57 : [Czar] - 2 Personagem foi desconectado. Permaneceu 00:03:03 minutos online

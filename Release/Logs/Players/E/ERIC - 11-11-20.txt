@@ -1,0 +1,355 @@
+
+18:16:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.233.17.74 Mac: (EA:C9:7D:F2:29:49). ClientId: 1
+18:16:13 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+18:16:13 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 13] - Elixir_da_Coragem[647] [0 0 0 0 0 0]
+[ 79] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+
+18:16:14 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:16:17 : Solicitou ir ao mundo...
+18:16:17 : Recebido pedido para entrar no jogo
+18:16:17 : Recebido informação do personagem completa.
+18:16:17 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 310999300
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2096x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[26] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[14] - Dragão_Menor[2363] [120 120 120 120 0 0]
+
+[INVENTÁRIO]
+[00] - Seal_Master[5411] [0 0 0 0 0 0]
+[01] - Seal_Master[5411] [0 0 0 0 0 0]
+[02] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[03] - Trombeta_Mágica[3330] [61 3 0 0 0 0]
+[04] - Pergaminho_da_Água(M)LV1[777] [61 5 0 0 0 0]
+[05] - Seal_Master[5411] [0 0 0 0 0 0]
+[06] - [5382] [96 6 0 0 0 0]
+[07] - Dente_de_Sabre[2365] [120 120 120 120 0 0]
+[08] - Seal_Master[5411] [0 0 0 0 0 0]
+[09] - Seal_Master[5411] [0 0 0 0 0 0]
+[10] - Trombeta_Mágica[3330] [61 3 0 0 0 0]
+[11] - Seal_Master[5411] [0 0 0 0 0 0]
+[12] - Seal_Master[5411] [0 0 0 0 0 0]
+[13] - [5381] [96 0 61 6 0 0]
+[14] - [5382] [96 0 61 4 0 0]
+[15] - Seal_Master[5411] [0 0 0 0 0 0]
+[16] - Seal_Master[5411] [0 0 0 0 0 0]
+[17] - Trombeta_Mágica[3330] [61 3 0 0 0 0]
+[18] - Trombeta_Mágica[3330] [61 3 0 0 0 0]
+[19] - Seal_Master[5411] [0 0 0 0 0 0]
+[20] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[21] - Pantera_Negra[2389] [120 120 120 120 120 0]
+[23] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[24] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[25] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[26] - Seal_Master[5411] [0 0 0 0 0 0]
+[27] - Pesadelo_(Bilhete)[3327] [97 1 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:16:17 : [skewed] - Personagem skewed enviado ao mundo 2096x 2094y - Canal 1 - Cash da conta: 0. OverPower: 2360
+18:16:17 : [skewed] - Gold atual: 310999300. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+18:16:17 : [skewed] - Resetado a contagem de entradas água! Day: 309-315. Total: 0
+18:16:17 : [skewed] - Enviado informações do personagem
+18:16:18 : [skewed] - Comando "/day "
+18:16:18 : [skewed] - [Mensagem do servidor]> !#11 2
+18:16:32 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:17:04 : [skewed] - Comando "/gm +npccreate Necromante"
+18:17:10 : [skewed] - Comando "/gm +create Necromante"
+18:17:14 : [skewed] - Comando "/gm +item 413"
+18:17:14 : [skewed] - skewed criou o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+18:17:16 : [skewed] - Comando "/gm +item 413"
+18:17:16 : [skewed] - skewed criou o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+18:17:21 : [skewed] - Comando "/flamengo43 "
+18:17:21 : [skewed] - [Mensagem do servidor]> Este personagem não está conectado.
+18:17:22 : [skewed] - Comando "/gm +item 413"
+18:17:22 : [skewed] - skewed criou o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+18:17:24 : [skewed] - Item Dente_de_Sabre deletado [2365] [120 120 120 120 0 0]. Slot 7
+18:17:26 : [skewed] - Item  deletado [5381] [96 0 61 6 0 0]. Slot 13
+18:17:27 : [skewed] - Comando "/gm +item 413"
+18:17:27 : [skewed] - skewed criou o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+18:17:28 : [skewed] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 7
+18:17:31 : [skewed] - Comando "/gm +create Necromante"
+18:17:37 : [skewed] - Comando "/gm +generate Necromante"
+18:17:37 : [skewed] - [Mensagem do servidor]> Índice inválido
+18:19:50 : [skewed] - Comando "/gm +create Necromante"
+18:19:57 : [skewed] - Comando "/gm +create Necromante 1"
+18:20:02 : [skewed] - Comando "/gm +create Aki"
+18:20:07 : [skewed] - Comando "/gm +create Necromante 1"
+18:20:09 : [skewed] - Comando "/gm +create Necromante"
+18:20:12 : [skewed] - Comando "/gm +create Necro"
+18:21:57 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:21:57 : [skewed] - Personagem foi desconectado. Permaneceu 00:05:40 minutos online
+18:22:06 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.233.17.74 Mac: (EA:C9:7D:F2:29:49). ClientId: 1
+18:22:06 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+18:22:06 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 13] - Elixir_da_Coragem[647] [0 0 0 0 0 0]
+[ 79] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+
+18:22:09 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+18:22:11 : Solicitou ir ao mundo...
+18:22:11 : Recebido pedido para entrar no jogo
+18:22:11 : Recebido informação do personagem completa.
+18:22:11 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 310999300
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2087x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[26] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[14] - Dragão_Menor[2363] [120 120 120 120 0 0]
+
+[INVENTÁRIO]
+[00] - Seal_Master[5411] [0 0 0 0 0 0]
+[01] - Seal_Master[5411] [0 0 0 0 0 0]
+[02] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[03] - Trombeta_Mágica[3330] [61 3 0 0 0 0]
+[04] - Pergaminho_da_Água(M)LV1[777] [61 5 0 0 0 0]
+[05] - Seal_Master[5411] [0 0 0 0 0 0]
+[06] - [5382] [96 6 0 0 0 0]
+[08] - Seal_Master[5411] [0 0 0 0 0 0]
+[09] - Seal_Master[5411] [0 0 0 0 0 0]
+[10] - Trombeta_Mágica[3330] [61 3 0 0 0 0]
+[11] - Seal_Master[5411] [0 0 0 0 0 0]
+[12] - Seal_Master[5411] [0 0 0 0 0 0]
+[14] - [5382] [96 0 61 4 0 0]
+[15] - Seal_Master[5411] [0 0 0 0 0 0]
+[16] - Seal_Master[5411] [0 0 0 0 0 0]
+[17] - Trombeta_Mágica[3330] [61 3 0 0 0 0]
+[18] - Trombeta_Mágica[3330] [61 3 0 0 0 0]
+[19] - Seal_Master[5411] [0 0 0 0 0 0]
+[20] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[21] - Pantera_Negra[2389] [120 120 120 120 120 0]
+[22] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[23] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[24] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[25] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[26] - Seal_Master[5411] [0 0 0 0 0 0]
+[27] - Pesadelo_(Bilhete)[3327] [97 1 0 0 0 0]
+[28] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[29] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:22:11 : [skewed] - Personagem skewed enviado ao mundo 2087x 2104y - Canal 1 - Cash da conta: 0. OverPower: 2360
+18:22:11 : [skewed] - Gold atual: 310999300. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+18:22:11 : [skewed] - Enviado informações do personagem
+18:22:11 : [skewed] - Comando "/day "
+18:22:11 : [skewed] - [Mensagem do servidor]> !#11 2
+18:22:21 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:22:39 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:22:39 : [skewed] - Personagem foi desconectado. Permaneceu 00:00:32 minutos online
+18:23:00 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.233.17.74 Mac: (EA:C9:7D:F2:29:49). ClientId: 1
+18:23:00 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+18:23:00 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 13] - Elixir_da_Coragem[647] [0 0 0 0 0 0]
+[ 79] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+
+18:23:02 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+18:23:03 : Solicitou ir ao mundo...
+18:23:03 : Recebido pedido para entrar no jogo
+18:23:03 : Recebido informação do personagem completa.
+18:23:03 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 310999300
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2092x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[26] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[14] - Dragão_Menor[2363] [120 120 120 120 0 0]
+
+[INVENTÁRIO]
+[00] - Seal_Master[5411] [0 0 0 0 0 0]
+[01] - Seal_Master[5411] [0 0 0 0 0 0]
+[02] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[03] - Trombeta_Mágica[3330] [61 3 0 0 0 0]
+[04] - Pergaminho_da_Água(M)LV1[777] [61 5 0 0 0 0]
+[05] - Seal_Master[5411] [0 0 0 0 0 0]
+[06] - [5382] [96 6 0 0 0 0]
+[08] - Seal_Master[5411] [0 0 0 0 0 0]
+[09] - Seal_Master[5411] [0 0 0 0 0 0]
+[10] - Trombeta_Mágica[3330] [61 3 0 0 0 0]
+[11] - Seal_Master[5411] [0 0 0 0 0 0]
+[12] - Seal_Master[5411] [0 0 0 0 0 0]
+[14] - [5382] [96 0 61 4 0 0]
+[15] - Seal_Master[5411] [0 0 0 0 0 0]
+[16] - Seal_Master[5411] [0 0 0 0 0 0]
+[17] - Trombeta_Mágica[3330] [61 3 0 0 0 0]
+[18] - Trombeta_Mágica[3330] [61 3 0 0 0 0]
+[19] - Seal_Master[5411] [0 0 0 0 0 0]
+[20] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[21] - Pantera_Negra[2389] [120 120 120 120 120 0]
+[22] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[23] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[24] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[25] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[26] - Seal_Master[5411] [0 0 0 0 0 0]
+[27] - Pesadelo_(Bilhete)[3327] [97 1 0 0 0 0]
+[28] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[29] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:23:03 : [skewed] - Personagem skewed enviado ao mundo 2092x 2099y - Canal 1 - Cash da conta: 0. OverPower: 2360
+18:23:03 : [skewed] - Gold atual: 310999300. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+18:23:03 : [skewed] - Enviado informações do personagem
+18:23:04 : [skewed] - Comando "/day "
+18:23:04 : [skewed] - [Mensagem do servidor]> !#11 2
+18:23:09 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:23:11 : [skewed] - Comando "/gm +necromante"
+18:23:44 : [skewed] - Comando "/gm +item 5111"
+18:23:44 : [skewed] - skewed criou o item Uraz [5111] [0 0 0 0 0 0]
+18:23:46 : [skewed] - Comando "/gm "
+18:23:46 : [skewed] - [Mensagem do servidor]> Utilize /gm +command
+18:23:50 : [skewed] - Comando "/gm +limparinv"
+18:23:53 : [skewed] - Comando "/gm +clearinv"
+18:23:53 : [skewed] - [Mensagem do servidor]> CLEARINV
+18:23:56 : [skewed] - Comando "/gm +item 5111"
+18:23:56 : [skewed] - skewed criou o item Uraz [5111] [0 0 0 0 0 0]
+18:23:57 : [skewed] - Comando "/gm "
+18:23:57 : [skewed] - [Mensagem do servidor]> Utilize /gm +command
+18:24:03 : [skewed] - Comando "/gm +item 5112"
+18:24:03 : [skewed] - skewed criou o item Thurisaz [5112] [0 0 0 0 0 0]
+18:24:07 : [skewed] - Comando "/gm +item 5113"
+18:24:07 : [skewed] - skewed criou o item Fehu [5113] [0 0 0 0 0 0]
+18:24:08 : [skewed] - Comando "/gm +item 5113"
+18:24:08 : [skewed] - skewed criou o item Fehu [5113] [0 0 0 0 0 0]
+18:24:10 : [skewed] - Comando "/gm +item 5114"
+18:24:10 : [skewed] - skewed criou o item Raidho [5114] [0 0 0 0 0 0]
+18:24:13 : [skewed] - Comando "/gm +necromante"
+18:26:40 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:26:40 : [skewed] - Personagem foi desconectado. Permaneceu 00:03:38 minutos online
+18:30:20 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.233.17.74 Mac: (EA:C9:7D:F2:29:49). ClientId: 1
+18:30:20 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+18:30:20 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 13] - Elixir_da_Coragem[647] [0 0 0 0 0 0]
+[ 79] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+
+18:30:23 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+18:30:24 : Solicitou ir ao mundo...
+18:30:24 : Recebido pedido para entrar no jogo
+18:30:24 : Recebido informação do personagem completa.
+18:30:24 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 310999300
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2098x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[26] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[14] - Dragão_Menor[2363] [120 120 120 120 0 0]
+
+[INVENTÁRIO]
+[00] - Uraz[5111] [0 0 0 0 0 0]
+[01] - Thurisaz[5112] [0 0 0 0 0 0]
+[02] - Fehu[5113] [0 0 0 0 0 0]
+[03] - Fehu[5113] [0 0 0 0 0 0]
+[04] - Raidho[5114] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:30:24 : [skewed] - Personagem skewed enviado ao mundo 2098x 2097y - Canal 1 - Cash da conta: 0. OverPower: 2360
+18:30:24 : [skewed] - Gold atual: 310999300. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+18:30:24 : [skewed] - Enviado informações do personagem
+18:30:25 : [skewed] - Comando "/day "
+18:30:25 : [skewed] - [Mensagem do servidor]> !#11 2
+18:30:32 : [skewed] - Comando "/gm +necromante"
+18:30:33 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:30:46 : [skewed] - Comando "/gm +necromante"
+18:30:54 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:30:54 : [skewed] - Personagem foi desconectado. Permaneceu 00:00:34 minutos online

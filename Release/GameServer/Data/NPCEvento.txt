@@ -1,0 +1,206 @@
+# Novo NPC I
+itemRequired_0=4725 // Caveira_do_Bone_Demon_I
+amountRequired_0=1
+
+itemEarned_0=413
+itemRate_0=75
+
+itemEarned_1=412
+itemRate_1=150
+
+itemEarned_2=4026
+itemRate_2=225
+
+itemEarned_3=4726 // Caveira_do_Bone_Demon_II
+itemRate_3=300
+
+npcName=Espero que essa recompensa te ajude em sua jornada!
+
+# Novo NPC II
+itemRequired_0=4726 // Caveira_do_Bone_Demon_II
+amountRequired_0=1
+
+itemEarned_0=4027
+itemRate_0=50
+
+itemEarned_1=413 61 3
+itemRate_1=100
+
+itemEarned_2=4631
+itemRate_2=150
+
+itemEarned_3=4677 43 9
+itemRate_3=200
+
+itemEarned_4=4028
+itemRate_4=250
+
+itemEarned_5=4727 // Caveira_do_Bone_Demon_III
+itemRate_5=300
+
+npcName=A recompensa foi boa? Traga-me caveiras melhores.
+
+# Novo NPC III
+itemRequired_0=4727 // Caveira_do_Bone_Demon_III
+amountRequired_0=1
+
+itemEarned_0=4529
+itemRate_0=50
+
+itemEarned_1=4633
+itemRate_1=100
+
+itemEarned_2=2414 61 10
+itemRate_2=120
+
+itemEarned_3=2415 61 10
+itemRate_3=140
+
+itemEarned_4=2416 61 10
+itemRate_4=160
+
+itemEarned_5=3182 61 4
+itemRate_5=210
+
+itemEarned_6=4029
+itemRate_6=260
+
+itemEarned_7=4728 // Caveira_do_Bone_Demon_IV
+itemRate_7=300
+
+npcName=Você está avançando de nível, guerreiro.
+
+# Novo NPC IV
+itemRequired_0=4728 // Caveira_do_Bone_Demon_IV
+amountRequired_0=1
+goldRequired=100000000
+
+itemEarned_0_0=4043
+itemEarned_0_1=4043
+itemRate_0=60
+
+itemEarned_1=4610
+itemRate_1=120
+
+itemEarned_2_0=4717
+itemEarned_2_1=4717
+itemRate_2=180
+
+itemEarned_3=4676
+itemRate_3=240
+
+itemEarned_4=4729 // Caveira_do_Bone_Demon_V
+itemRate_4=300
+
+npcName=Mero mortal, você não é capaz de avançar desse jeito!
+
+# Novo NPC V
+itemRequired_0=4729 // Caveira_do_Bone_Demon_V
+amountRequired_0=1
+goldRequired=300000000
+
+itemEarned_0_0=4864
+itemEarned_0_1=4864
+itemRate_0=50
+
+itemEarned_1_0=4864 43 1
+itemEarned_1_1=4864 43 1
+itemRate_1=100
+
+itemEarned_2_0=3338
+itemEarned_2_1=3338
+itemRate_2=150
+
+itemEarned_3_0=3338 43 1
+itemEarned_3_1=3338 43 1
+itemRate_3=200
+
+itemEarned_4=792
+itemRate_4=250
+
+itemEarned_5=4730 // Caveira_do_Bone_Demon_VI
+itemRate_5=300
+
+npcName=Se você chegou até aqui, com certeza derrotou vários demônios...
+
+#Novo NPC V (Alternativo 1)
+itemRequired_0=4729 // Caveira_do_Bone_Demon_V
+amountRequired_0=1
+
+itemRequired_1=4728 // Caveira_do_Bone_Demon_IV
+amountRequired_1=2
+
+itemRequired_2=4727 // Caveira_do_Bone_Demon_III
+amountRequired_2=2
+
+itemEarned_0=762 // Netuno_(NÃ­vel:_0)
+itemRate_0=60
+
+itemEarned_1=763 // Urano (NÃ­vel:_0)
+itemRate_1=120
+
+itemEarned_2=764 // Venus (NÃ­vel:_0)
+itemRate_2=180
+
+itemEarned_3=765 // Marte (NÃ­vel:_0)
+itemRate_3=240
+
+itemEarned_4=4856
+itemRate_4=300
+
+npcName=Se você chegou até aqui, com certeza derrotou vários demônios...
+
+#Novo NPC V (Alternativo 2)
+itemRequired_0=4729 // Caveira_do_Bone_Demon_V
+amountRequired_0=1
+
+itemRequired_1=4728 // Caveira_do_Bone_Demon_IV
+amountRequired_1=3
+
+itemRequired_2=4011 // Barra de 1bi
+amountRequired_2=1
+
+itemEarned_0=2324 78 8
+itemRate_0=100
+
+itemEarned_1=2325 78 8
+itemRate_1=200
+
+itemEarned_2=2326 78 8
+itemRate_2=300
+
+npcName=Se você chegou até aqui, com certeza derrotou vários demônios...
+
+#Novo NPC VI
+itemRequired_0=4730 // Caveira_do_Bone_Demon_VI
+amountRequired_0=1
+
+itemRequired_1=4728 // Caveira_do_Bone_Demon_IV
+amountRequired_1=2
+
+itemRequired_2=4011 // Barra de 1bi
+amountRequired_2=2
+
+itemEarned_0=3026 87 11 60 44 4 120
+itemRate_0=60
+
+itemEarned_1=3026 87 11 2 99 4 120
+itemRate_1=120
+
+itemEarned_2=3026 87 11 2 99 42 35
+itemRate_2=180
+
+itemEarned_3=1711 43 231 3 80 4 100
+itemRate_3=240
+
+itemEarned_4=1711 43 231 54 10 4 100
+itemRate_4=300
+
+npcName=Você não vai se arrepender dessa recompensa épica!
+
+#Novo NPC (Drop global)
+itemRequired_0=4733
+amountRequired_0=3
+
+itemEarned_0=4725 // Caveira_do_Bone_Demon_I
+itemRate_0=300

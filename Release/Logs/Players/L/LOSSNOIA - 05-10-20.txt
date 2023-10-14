@@ -1,0 +1,897 @@
+
+13:17:18 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 47
+13:17:18 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+13:17:18 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+15:30:01 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 2
+15:30:01 : Usuário logou no jogo com clientId 2. - Servidor 1. Gold do banco: 0
+15:30:01 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:30:01 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:30:13 : Solicitou ir ao mundo...
+15:30:13 : Recebido pedido para entrar no jogo
+15:30:13 : Recebido informação do personagem completa.
+15:30:13 : [wdef] - [INFORMAÇÕES DA CONTA]
+Personagem online: wdef
+Gold atual: 999999052
+Level atual: 383
+Experiência atual: 4000008934
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:12 horas
+Posição atual: 2090x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Balmung(Anct)[2491] [43 250 2 120 2 120]
+[06] - Balmung(Anct)[2491] [43 255 0 0 0 0]
+[07] - Balmung(Anct)[2491] [2 120 2 120 43 250]
+[14] - Pantera_Negra[2389] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[01] - Svadilfari[2387] [0 0 0 0 0 0]
+[02] - Poeira_de_Fada[414] [61 109 0 0 0 0]
+[03] - Resto_de_Oriharucon[419] [59 77 59 95 59 62]
+[06] - Noção_de_Combate[5014] [0 0 0 0 0 0]
+[11] - Escudo_do_Tormento[5067] [0 0 0 0 0 0]
+[13] - Armadura_Elemental[5065] [0 0 0 0 0 0]
+[15] - Andaluz_N[2370] [0 0 0 0 0 0]
+[16] - Cavalo_s/Sela_B[2371] [0 0 0 0 0 0]
+[17] - Cavalo_Fantasm_B[2372] [0 0 0 0 0 0]
+[18] - Cavalo_Leve_B[2373] [0 0 0 0 0 0]
+[19] - Cavalo_Equip_B[2374] [0 0 0 0 0 0]
+[20] - Andaluz_B[2375] [0 0 0 0 0 0]
+[21] - Dragão[2377] [0 0 0 0 0 0]
+[22] - Fenrir_das_Sombras[2378] [0 0 0 0 0 0]
+[23] - Fenrir_das_Sombras[2378] [0 0 0 0 0 0]
+[24] - Fenrir_das_Sombras[2378] [10 10 10 0 0 0]
+[25] - Fenrir_das_Sombras[2378] [10 10 10 0 0 0]
+[26] - Fenrir_das_Sombras[2378] [10 10 10 0 0 0]
+[27] - Resto_de_Oriharucon[419] [59 115 59 24 59 7]
+[28] - Túnica_de_Concha(Le)[2197] [43 0 71 50 2 24]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:30:13 : [wdef] - Personagem wdef enviado ao mundo 2090x 2097y - Canal 1 - Cash da conta: 0. OverPower: 1081
+15:30:13 : [wdef] - Gold atual: 999999052. Classe: 2 Evolução: 0. Experiência: 4000008934. Nível: 383. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+15:30:13 : [wdef] - Resetado a contagem de entradas água! Day: 0-278. Total: 0
+15:30:13 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:30:13 : [wdef] - Enviado informações do personagem
+15:30:14 : [wdef] - Comando "/day "
+15:30:14 : [wdef] - [Mensagem do servidor]> !#11 2
+15:30:19 : [wdef] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:30:19 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:30:30 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:30:31 : [wdef] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+15:30:40 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:30:43 : [wdef] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+15:30:50 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:31:00 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:31:10 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:31:20 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:31:30 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:31:40 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:31:50 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:32:00 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:32:11 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:32:21 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:32:31 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:32:41 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:32:51 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:33:01 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:33:11 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:33:21 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:33:31 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:33:41 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:33:51 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:34:01 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:34:11 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:34:21 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:34:31 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:34:41 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:34:51 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:35:02 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:35:12 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:35:22 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:35:32 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:35:42 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:35:52 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:36:02 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:36:12 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:36:22 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:36:32 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:36:42 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:36:53 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:37:03 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:37:13 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:37:23 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:37:33 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:37:43 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:37:53 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:38:02 : [wdef] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+15:38:03 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:38:13 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:38:23 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:38:33 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:38:43 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:38:53 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:39:03 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:39:14 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:39:24 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:39:34 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:39:44 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:39:54 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:40:04 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:40:14 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:40:24 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:40:34 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:40:44 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:40:54 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:41:05 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:41:15 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:41:25 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:41:35 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:41:45 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:41:55 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:42:05 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:42:15 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:42:25 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:42:35 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:42:46 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:42:56 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:43:06 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:43:16 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:43:26 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:43:36 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:43:46 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:43:56 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:44:06 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:44:17 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:44:27 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:44:37 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:44:47 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:44:57 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:45:07 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:45:17 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:45:27 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:45:37 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:45:47 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:45:57 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:46:08 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:46:18 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:46:28 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:46:38 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:46:48 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:46:58 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:47:08 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:47:18 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:47:28 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:47:38 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:47:48 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:47:58 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:48:08 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:48:18 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:48:28 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:48:38 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:48:48 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:48:59 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:49:09 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:49:19 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:49:29 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:49:39 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:49:49 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:49:59 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:50:09 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:50:19 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:50:29 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:50:39 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:50:49 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:51:01 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:51:11 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:51:21 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:51:31 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:51:41 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:51:51 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:52:02 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:52:12 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:52:22 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:52:32 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:52:42 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:52:52 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:53:02 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:53:12 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:53:23 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:53:33 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:53:43 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:53:53 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:54:03 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:54:13 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:54:23 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:54:33 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:54:43 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:54:54 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:55:04 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:55:14 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:55:24 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:55:34 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:55:44 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:55:54 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:56:04 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:56:14 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:56:25 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:56:35 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:56:45 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:56:55 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:57:05 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:57:15 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:57:25 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:57:35 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:57:45 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:57:55 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:58:05 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:58:16 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:58:26 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:58:36 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:58:46 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:58:56 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:59:06 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:59:16 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:59:26 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:59:36 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:59:46 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:59:56 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:00:07 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:00:13 : [wdef] - [INFORMAÇÕES DA CONTA]
+Personagem online: wdef
+Gold atual: 999999052
+Level atual: 383
+Experiência atual: 4000008934
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:56 horas
+Posição atual: 2097x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Balmung(Anct)[2491] [43 250 2 120 2 120]
+[06] - Balmung(Anct)[2491] [43 255 0 0 0 0]
+[07] - Balmung(Anct)[2491] [2 120 2 120 43 250]
+[14] - Pantera_Negra[2389] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[01] - Svadilfari[2387] [0 0 0 0 0 0]
+[02] - Poeira_de_Fada[414] [61 109 0 0 0 0]
+[03] - Resto_de_Oriharucon[419] [59 77 59 95 59 62]
+[06] - Noção_de_Combate[5014] [0 0 0 0 0 0]
+[11] - Escudo_do_Tormento[5067] [0 0 0 0 0 0]
+[13] - Armadura_Elemental[5065] [0 0 0 0 0 0]
+[15] - Andaluz_N[2370] [0 0 0 0 0 0]
+[16] - Cavalo_s/Sela_B[2371] [0 0 0 0 0 0]
+[17] - Cavalo_Fantasm_B[2372] [0 0 0 0 0 0]
+[18] - Cavalo_Leve_B[2373] [0 0 0 0 0 0]
+[19] - Cavalo_Equip_B[2374] [0 0 0 0 0 0]
+[20] - Andaluz_B[2375] [0 0 0 0 0 0]
+[21] - Dragão[2377] [0 0 0 0 0 0]
+[22] - Fenrir_das_Sombras[2378] [0 0 0 0 0 0]
+[23] - Fenrir_das_Sombras[2378] [0 0 0 0 0 0]
+[24] - Fenrir_das_Sombras[2378] [10 10 10 0 0 0]
+[25] - Fenrir_das_Sombras[2378] [10 10 10 0 0 0]
+[26] - Fenrir_das_Sombras[2378] [10 10 10 0 0 0]
+[27] - Resto_de_Oriharucon[419] [59 115 59 24 59 7]
+[28] - Túnica_de_Concha(Le)[2197] [43 0 71 50 2 24]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:00:17 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:00:27 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:00:37 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:00:47 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:00:57 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:01:07 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:01:17 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:01:27 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:01:37 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:01:47 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:01:57 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:02:08 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:02:18 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:02:28 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:02:38 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:02:48 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:02:58 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:03:08 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:03:18 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:03:28 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:03:38 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:03:49 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:03:59 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:04:09 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:04:19 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:04:29 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:04:39 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:04:49 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:04:59 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:05:09 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:05:19 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:05:29 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:05:40 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:05:50 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:06:00 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:06:10 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:06:20 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:06:30 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:06:40 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:06:50 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:07:00 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:07:10 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:07:21 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:07:31 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:07:41 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:07:51 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:08:01 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:08:11 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:08:21 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:08:31 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:08:41 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:08:51 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:09:01 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:09:12 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:09:22 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:09:32 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:09:42 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:09:52 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:10:02 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:10:12 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:10:22 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:10:32 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:10:42 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:10:52 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:11:02 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:11:13 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:11:23 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:11:33 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:11:43 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:11:53 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:12:03 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:12:13 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:12:23 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:12:33 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:12:43 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:12:54 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:13:04 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:13:14 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:13:24 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:13:34 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:13:44 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:13:54 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:14:04 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:14:14 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:14:25 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:14:35 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:14:45 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:14:55 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:15:05 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:15:15 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:15:25 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:15:35 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:15:45 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:15:55 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:16:05 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:16:16 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:16:26 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:16:36 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:16:46 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:16:56 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:17:06 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:17:16 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:17:26 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:17:36 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:17:46 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:17:56 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:18:07 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:18:17 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:18:27 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:18:37 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:18:47 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:18:57 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:19:07 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:19:17 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:19:27 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:19:38 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:19:47 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:19:58 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:20:08 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:20:18 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:20:28 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:20:38 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:20:48 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:20:58 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:21:08 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:21:18 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:21:28 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:21:39 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:21:49 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:21:59 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:22:09 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:22:19 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:22:29 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:22:39 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:22:49 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:22:59 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:23:10 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:23:20 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:23:30 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:23:40 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:23:50 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:24:00 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:24:10 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:24:20 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:24:30 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:24:40 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:24:50 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:25:01 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:25:11 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:25:21 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:25:31 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:25:41 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:25:51 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:26:01 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:26:11 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:26:22 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:26:32 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:26:42 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:26:52 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:27:02 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:27:12 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:27:22 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:27:32 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:27:42 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:27:52 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:28:03 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:28:13 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:28:23 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:28:33 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:28:43 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:28:53 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:29:03 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:29:13 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:29:23 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:29:33 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:29:44 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:29:54 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:30:04 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:30:13 : [wdef] - [INFORMAÇÕES DA CONTA]
+Personagem online: wdef
+Gold atual: 999999052
+Level atual: 383
+Experiência atual: 4000008934
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:59:39 horas
+Posição atual: 2097x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Balmung(Anct)[2491] [43 250 2 120 2 120]
+[06] - Balmung(Anct)[2491] [43 255 0 0 0 0]
+[07] - Balmung(Anct)[2491] [2 120 2 120 43 250]
+[14] - Pantera_Negra[2389] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[01] - Svadilfari[2387] [0 0 0 0 0 0]
+[02] - Poeira_de_Fada[414] [61 109 0 0 0 0]
+[03] - Resto_de_Oriharucon[419] [59 77 59 95 59 62]
+[06] - Noção_de_Combate[5014] [0 0 0 0 0 0]
+[11] - Escudo_do_Tormento[5067] [0 0 0 0 0 0]
+[13] - Armadura_Elemental[5065] [0 0 0 0 0 0]
+[15] - Andaluz_N[2370] [0 0 0 0 0 0]
+[16] - Cavalo_s/Sela_B[2371] [0 0 0 0 0 0]
+[17] - Cavalo_Fantasm_B[2372] [0 0 0 0 0 0]
+[18] - Cavalo_Leve_B[2373] [0 0 0 0 0 0]
+[19] - Cavalo_Equip_B[2374] [0 0 0 0 0 0]
+[20] - Andaluz_B[2375] [0 0 0 0 0 0]
+[21] - Dragão[2377] [0 0 0 0 0 0]
+[22] - Fenrir_das_Sombras[2378] [0 0 0 0 0 0]
+[23] - Fenrir_das_Sombras[2378] [0 0 0 0 0 0]
+[24] - Fenrir_das_Sombras[2378] [10 10 10 0 0 0]
+[25] - Fenrir_das_Sombras[2378] [10 10 10 0 0 0]
+[26] - Fenrir_das_Sombras[2378] [10 10 10 0 0 0]
+[27] - Resto_de_Oriharucon[419] [59 115 59 24 59 7]
+[28] - Túnica_de_Concha(Le)[2197] [43 0 71 50 2 24]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:30:14 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:30:24 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:30:34 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:30:44 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:30:54 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:31:04 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:31:14 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:31:24 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:31:35 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:31:45 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:31:55 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:32:05 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:32:15 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:32:25 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:32:35 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:32:45 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:32:55 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:33:05 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:33:16 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:33:26 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:33:36 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:33:46 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:33:56 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:34:06 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:34:16 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:34:26 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:34:36 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:34:46 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:34:57 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:35:07 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:35:17 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:35:27 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:35:37 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:35:47 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:35:57 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:36:07 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:36:17 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:36:27 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:36:37 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:36:47 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:36:58 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:37:08 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:37:18 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:37:28 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:37:38 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:37:48 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:37:58 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:38:08 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:38:18 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:38:29 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:38:39 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:38:49 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:38:59 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:39:09 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:39:19 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:39:29 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:39:39 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:39:49 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:40:00 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:40:10 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:40:20 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:40:30 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:40:40 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:40:50 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:41:00 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:41:10 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:41:20 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:41:30 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:41:40 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:41:50 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:42:00 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:42:11 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:42:21 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:42:31 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:42:41 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:42:51 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:43:01 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:43:11 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:43:21 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:43:31 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:43:41 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:43:51 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:44:01 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:44:12 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:44:22 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:44:32 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:44:42 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:44:52 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:45:02 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:45:12 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:45:22 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:45:32 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:45:42 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:45:53 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:46:03 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:46:13 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:46:23 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:46:33 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:46:43 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:46:53 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:47:03 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:47:13 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:47:23 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:47:33 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:47:43 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:47:54 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:48:04 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:48:14 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:48:24 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:48:34 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:48:44 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:48:54 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:49:04 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:49:14 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:49:24 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:49:35 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:49:45 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:49:55 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:50:05 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:50:15 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:50:25 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:50:35 : [wdef] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:50:45 : [wdef] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:50:55 : [wdef] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:44:17 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+22:44:17 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+22:44:17 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+22:44:17 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:44:26 : Solicitou ir ao mundo...
+22:44:26 : Recebido pedido para entrar no jogo
+22:44:26 : Recebido informação do personagem completa.
+22:44:26 : [LossNoia] - [INFORMAÇÕES DA CONTA]
+Personagem online: LossNoia
+Gold atual: 999994400
+Level atual: 201
+Experiência atual: 78985354
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:09 horas
+Posição atual: 2088x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[01] - Astaroth[24] [0 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[13] - Javali[2361] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Calça_Pele_de_Animal(A)[1409] [43 0 71 70 60 10]
+[01] - Calça_Acolchoada(A)[1559] [43 0 71 50 59 0]
+[05] - Cavalo_Fantasm_N[2367] [10 10 10 0 0 0]
+[07] - Javali[2361] [0 0 0 0 0 0]
+[08] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[10] - Javali[2361] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [111 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:44:26 : [LossNoia] - Personagem LossNoia enviado ao mundo 2088x 2106y - Canal 1 - Cash da conta: 0. OverPower: 402
+22:44:26 : [LossNoia] - Gold atual: 999994400. Classe: 0 Evolução: 0. Experiência: 78985354. Nível: 201. Info: 0. GuildID: 0. CP: 36. Pontos de Contribuição: 0. Limite: 0
+22:44:26 : [LossNoia] - Resetado a contagem de entradas água! Day: 1095323470-278. Total: -16843264
+22:44:26 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:44:26 : [LossNoia] - Enviado informações do personagem
+22:44:28 : [LossNoia] - Comando "/day "
+22:44:28 : [LossNoia] - [Mensagem do servidor]> !#11 2
+22:44:29 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:44:36 : [LossNoia] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:44:40 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:44:43 : [LossNoia] - Comando "/gm +move 3240 690"
+22:44:43 : [LossNoia] - Teleportado para a posição 3240 690
+22:44:50 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:44:54 : [LossNoia] - Moveu item Javali [2361] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 14
+22:45:00 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:45:10 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:45:12 : [LossNoia] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+22:45:20 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:45:24 : [LossNoia] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+22:45:30 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:45:40 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:45:50 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:46:00 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:46:10 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:46:20 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:46:30 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:46:40 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:46:50 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:47:01 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:47:11 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:47:21 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:47:31 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:47:41 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:47:51 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:48:01 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:48:11 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:48:21 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:48:31 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:48:41 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:48:51 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:49:01 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:49:11 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:49:22 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:49:33 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:49:43 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:49:53 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:50:03 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:50:13 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:50:23 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:50:33 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:50:43 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:50:53 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:51:03 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:51:13 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:51:23 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:51:34 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:51:44 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:51:54 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:52:05 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:52:15 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:52:25 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:52:35 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:52:45 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:52:55 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:53:05 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:53:15 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:53:25 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:53:35 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:53:45 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:53:55 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:54:05 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:54:16 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:54:26 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:54:36 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:54:46 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:54:56 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:55:06 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:55:16 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:55:26 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:55:36 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:55:46 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:55:56 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:56:06 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:56:17 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:56:27 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:56:37 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:56:48 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:56:58 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:57:08 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:57:18 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:57:28 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:57:38 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:57:48 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:57:58 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:58:08 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:58:18 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:58:28 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:58:38 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:58:48 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:58:58 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:59:08 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:59:18 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:59:29 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:59:39 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:59:49 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:59:59 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:00:09 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:00:19 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:00:29 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:00:39 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:00:49 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:00:59 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:01:09 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:01:19 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:01:29 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:01:39 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:01:49 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:01:59 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:02:09 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:02:20 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:02:30 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:02:40 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:02:50 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:03:00 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:03:10 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:03:20 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:03:30 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:03:40 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:03:50 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:04:00 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:04:10 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:04:20 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:04:30 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:04:40 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:04:50 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:05:00 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:05:10 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:05:21 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:05:31 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:05:41 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:05:51 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:06:01 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:06:11 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:06:21 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:06:31 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:06:41 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:06:51 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:07:01 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:07:11 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:07:22 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:07:32 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:07:42 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:07:52 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:08:02 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:08:12 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:08:22 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:08:32 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+23:08:42 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+23:08:52 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+23:09:02 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II

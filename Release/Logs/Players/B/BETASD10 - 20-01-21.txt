@@ -1,0 +1,1481 @@
+
+21:04:50 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD10) - IP: 45.226.163.52 Mac: (3B:20:2D:CB:CE:46). ClientId: 6
+21:04:50 : [Mensagem do servidor]> Senha incorreta.
+21:04:50 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:05:00 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD10) - IP: 45.226.163.52 Mac: (3B:20:2D:CB:CE:46). ClientId: 6
+21:05:00 : Usuário logou no jogo com clientId 6. - Servidor 1. Gold do banco: 0
+21:05:00 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+21:05:42 : Solicitou ir ao mundo...
+21:05:42 : Recebido pedido para entrar no jogo
+21:05:42 : Recebido informação do personagem completa.
+21:05:42 : [Fulando] - [INFORMAÇÕES DA CONTA]
+Personagem online: Fulando
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:41 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 0 0 0 0 0]
+[03] - Calça(N)[1572] [43 0 0 0 0 0]
+[04] - Braçadeira(N)[1575] [43 0 0 0 0 0]
+[05] - Botas(N)[1578] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:05:42 : [Fulando] - Personagem Fulando enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. PowerLevel: 0
+21:05:42 : [Fulando] - Gold atual: 0. Classe: 3 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+21:05:42 : [Fulando] - Resetado a contagem de entradas água! Day: 0-19. Total: 0
+21:05:42 : [Fulando] - Enviado informações do personagem
+21:05:44 : [Fulando] - Comando "/day "
+21:05:44 : [Fulando] - [Mensagem do servidor]> !#11 2
+21:05:54 : [Fulando] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:05:54 : [Fulando] - [Mensagem do servidor]> Não possui gold para comprar este item
+21:05:58 : [Fulando] - [Mensagem do servidor]> Não possui gold para comprar este item
+21:06:06 : [Fulando] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 4610. Posição do usuário: 2112x 2043y. Posição do NPC: 2107x 2042y
+21:06:44 : [Fulando] - Matou o mob Porco de Guerra. GenerID: 4421
+21:06:44 : [Fulando] - Pontos CP subiu em 3. CP novo: 78
+21:06:44 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:06:44 : [Fulando] - Level UP para level 1. Ev: 0/0 - 2113x 2041y
+21:06:50 : [Fulando] - Matou o mob Porco de Guerra. GenerID: 4425
+21:06:50 : [Fulando] - Pontos CP subiu em 3. CP novo: 81
+21:06:50 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:06:50 : [Fulando] - Level UP para level 2. Ev: 0/0 - 2124x 2035y
+21:06:50 : [Fulando] - Pontos CP subiu em 3. CP novo: 84
+21:06:50 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:06:50 : [Fulando] - Level UP para level 3. Ev: 0/0 - 2124x 2035y
+21:06:56 : [Fulando] - Matou o mob Porco de Guerra. GenerID: 4426
+21:06:56 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:07:01 : [Fulando] - Matou o mob Porco de Guerra. GenerID: 4434
+21:07:01 : [Fulando] - Pontos CP subiu em 3. CP novo: 87
+21:07:01 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:07:01 : [Fulando] - Level UP para level 4. Ev: 0/0 - 2128x 2029y
+21:07:10 : [Fulando] - Matou o mob Porco de Guerra. GenerID: 4434
+21:07:10 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:07:10 : [Fulando] - Pontos CP subiu em 3. CP novo: 90
+21:07:10 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:07:10 : [Fulando] - Level UP para level 5. Ev: 0/0 - 2123x 2024y
+21:07:24 : [Fulando] - Matou o mob Porco de Guerra. GenerID: 4436
+21:07:24 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:07:37 : [Fulando] - Clicado no NPC [Treinador1]. Face 60. Race: 2. GenerateId: 4408. Posição do usuário: 2085x 2027y. Posição do NPC: 2084x 2019y
+21:07:57 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:07:57 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:08:14 : [Fulando] - Matou o mob Porco de Guerra. GenerID: 4425
+21:08:14 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:08:14 : [Fulando] - Pontos CP subiu em 3. CP novo: 93
+21:08:14 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:08:14 : [Fulando] - Level UP para level 6. Ev: 0/0 - 2132x 2034y
+21:08:59 : [Fulando] - Matou o mob Aguia. GenerID: 4433
+21:08:59 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:09:03 : [Fulando] - Matou o mob Porco de Guerra. GenerID: 4434
+21:09:03 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:09:16 : [Fulando] - Clicado no NPC [Treinador1]. Face 60. Race: 2. GenerateId: 4408. Posição do usuário: 2089x 2024y. Posição do NPC: 2084x 2019y
+21:09:23 : [Fulando] - [Mensagem do servidor]> Você não possui a chave.
+21:09:46 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:09:46 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:09:52 : [Fulando] - Matou o mob Krill. GenerID: 4442
+21:09:52 : [Fulando] - Pontos CP subiu em 3. CP novo: 96
+21:09:52 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:09:52 : [Fulando] - Level UP para level 7. Ev: 0/0 - 2084x 2026y
+21:09:57 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:09:57 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:10:01 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:10:01 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:10:05 : [Fulando] - Matou o mob Krill. GenerID: 4442
+21:10:05 : [Fulando] - Pontos CP subiu em 3. CP novo: 99
+21:10:05 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:10:05 : [Fulando] - Level UP para level 8. Ev: 0/0 - 2084x 2026y
+21:10:05 : [Fulando] - Dropado item Luvas(A) [1813] [43 0 72 20 2 6] em 2084x 2026y - Krill (1/89)
+21:10:05 : [Fulando] - Dropado item Calça(N) [1407] [43 0 71 40 59 0] em 2084x 2026y - Krill (1/300)
+21:10:09 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:10:12 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:10:12 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:10:17 : [Fulando] - Matou o mob Krill. GenerID: 4442
+21:10:17 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:10:17 : [Fulando] - Pontos CP subiu em 3. CP novo: 102
+21:10:17 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:10:17 : [Fulando] - Level UP para level 9. Ev: 0/0 - 2084x 2026y
+21:10:18 : [Fulando] - Matou o mob Krill. GenerID: 4443
+21:10:18 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:10:21 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:10:21 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:10:23 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:10:27 : [Fulando] - Matou o mob Krill. GenerID: 4442
+21:10:27 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:10:27 : [Fulando] - Pontos CP subiu em 3. CP novo: 105
+21:10:27 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:10:27 : [Fulando] - Level UP para level 10. Ev: 0/0 - 2084x 2026y
+21:10:32 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:10:35 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:10:39 : [Fulando] - Item Calça(N) deletado [1407] [43 0 71 40 59 0]. Slot 1
+21:10:39 : [Fulando] - Matou o mob Krill. GenerID: 4442
+21:10:39 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:10:40 : [Fulando] - Matou o mob Gremlin. GenerID: 4445
+21:10:40 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:10:43 : [Fulando] - Item Luvas(A) deletado [1813] [43 0 72 20 2 6]. Slot 0
+21:10:44 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:10:47 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:10:47 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:10:50 : [Fulando] - Matou o mob Krill. GenerID: 4442
+21:10:50 : [Fulando] - Pontos CP subiu em 3. CP novo: 108
+21:10:50 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:10:50 : [Fulando] - Level UP para level 11. Ev: 0/0 - 2084x 2026y
+21:10:54 : [Fulando] - Matou o mob Gremlin. GenerID: 4445
+21:10:57 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:11:00 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:11:00 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:11:03 : [Fulando] - Matou o mob Krill. GenerID: 4442
+21:11:06 : [Fulando] - Matou o mob Gremlin. GenerID: 4445
+21:11:06 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:11:09 : [Fulando] - Matou o mob Gremlin. GenerID: 4445
+21:11:11 : [Fulando] - Matou o mob Gremlin. GenerID: 4445
+21:11:11 : [Fulando] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2084x 2026y - Gremlin (1/30)
+21:11:15 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:11:15 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:11:15 : [Fulando] - Dropado item Luvas(N) [1560] [43 0 72 10 59 0] em 2084x 2026y - Gremlin (1/67)
+21:11:15 : [Fulando] - [Mensagem do servidor]> Limite máximo de pontos.
+21:11:15 : [Fulando] - [Mensagem do servidor]> Limite máximo de pontos.
+21:11:18 : [Fulando] - Matou o mob Krill. GenerID: 4445
+21:11:18 : [Fulando] - Pontos CP subiu em 3. CP novo: 111
+21:11:18 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:11:18 : [Fulando] - Level UP para level 12. Ev: 0/0 - 2084x 2026y
+21:11:22 : [Fulando] - Matou o mob Gremlin. GenerID: 4445
+21:11:25 : [Fulando] - Matou o mob Gremlin. GenerID: 4445
+21:11:26 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:11:30 : [Fulando] - Matou o mob Gremlin. GenerID: 4442
+21:11:30 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:11:34 : [Fulando] - Matou o mob Krill. GenerID: 4442
+21:11:36 : [Fulando] - Matou o mob Gremlin. GenerID: 4447
+21:11:36 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:11:40 : [Fulando] - Matou o mob Krill. GenerID: 4445
+21:11:42 : [Fulando] - Matou o mob Gremlin Artif. GenerID: 4449
+21:11:42 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:11:42 : [Fulando] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2078x 2021y - Gremlin Artif (1/1)
+21:11:45 : [Fulando] - Matou o mob Gremlin. GenerID: 4445
+21:11:46 : [Fulando] - Clicado no NPC [Treinador1]. Face 60. Race: 2. GenerateId: 4408. Posição do usuário: 2078x 2021y. Posição do NPC: 2084x 2019y
+21:11:46 : [Fulando] - [Mensagem do servidor]> Recebeu Poção de Cura como recompensa.
+21:11:49 : [Fulando] - Matou o mob Krill. GenerID: 4445
+21:11:49 : [Fulando] - Pontos CP subiu em 3. CP novo: 114
+21:11:49 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:11:49 : [Fulando] - Level UP para level 13. Ev: 0/0 - 2078x 2021y
+21:11:58 : [Fulando] - Matou o mob Krill. GenerID: 4452
+21:11:58 : [Fulando] - Dropado item Poção_de_Mana [405] [0 0 0 0 0 0] em 2083x 1999y - Krill (1/30)
+21:11:58 : [Fulando] - Dropado item Jaqueta(N) [1554] [43 1 71 30 2 6] em 2083x 1999y - Krill (1/67)
+21:11:59 : [Fulando] - Matou o mob Krill. GenerID: 4452
+21:11:59 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:12:00 : [Fulando] - Matou o mob Krill. GenerID: 4452
+21:12:01 : [Fulando] - Matou o mob Krill. GenerID: 4452
+21:12:01 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:12:04 : [Fulando] - Matou o mob Gremlin. GenerID: 4454
+21:12:06 : [Fulando] - Matou o mob Krill. GenerID: 4454
+21:12:07 : [Fulando] - Matou o mob Krill. GenerID: 4452
+21:12:07 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:12:11 : [Fulando] - Matou o mob Serpente. GenerID: 4461
+21:12:11 : [Fulando] - Pontos CP subiu em 3. CP novo: 117
+21:12:11 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:12:11 : [Fulando] - Level UP para level 14. Ev: 0/0 - 2109x 2000y
+21:12:13 : [Fulando] - Matou o mob Serpente. GenerID: 4460
+21:12:13 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:12:14 : [Fulando] - Matou o mob Serpente. GenerID: 4461
+21:12:18 : [Fulando] - Matou o mob Serpente. GenerID: 4463
+21:12:18 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:12:29 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4472
+21:12:29 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:12:38 : [Fulando] - Moveu item Jaqueta(N) [1554] [43 1 71 30 2 6] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 2
+21:12:41 : [Fulando] - Item Peitoral(N) deletado [1569] [43 0 0 0 0 0]. Slot 4
+21:12:45 : [Fulando] - Moveu item Luvas(N) [1560] [43 0 72 10 59 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 4
+21:12:49 : [Fulando] - Item Braçadeira(N) deletado [1575] [43 0 0 0 0 0]. Slot 1
+21:12:54 : [Fulando] - Matou o mob Krill Gigante. GenerID: 4476
+21:12:54 : [Fulando] - Pontos CP subiu em 3. CP novo: 120
+21:12:54 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:12:54 : [Fulando] - Level UP para level 15. Ev: 0/0 - 2140x 1998y
+21:12:54 : [Fulando] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2140x 1998y - Krill Gigante (1/1)
+21:12:56 : [Fulando] - Clicado no NPC [Treinador2]. Face 60. Race: 2. GenerateId: 4409. Posição do usuário: 2146x 1991y. Posição do NPC: 2142x 1990y
+21:12:56 : [Fulando] - [Mensagem do servidor]> Como recompensa foi atribuída uma opção adicional em sua arma.
+21:12:58 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4474
+21:12:58 : [Fulando] - Dropado item Armadura(A) [1115] [43 0 71 50 59 0] em 2144x 1988y - Rei Gremlin   (1/118)
+21:12:58 : [Fulando] - Dropado item Botas(A) [1301] [43 0 73 12 59 0] em 2144x 1988y - Rei Gremlin   (1/300)
+21:12:59 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4470
+21:12:59 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:13:04 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4478
+21:13:05 : [Fulando] - Matou o mob Krill. GenerID: 4477
+21:13:05 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:13:06 : [Fulando] - Matou o mob Krill. GenerID: 4477
+21:13:07 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4482
+21:13:07 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:13:37 : [Fulando] - Matou o mob Orc Sniper. GenerID: 4494
+21:13:37 : [Fulando] - Pontos CP subiu em 3. CP novo: 123
+21:13:37 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:13:37 : [Fulando] - Level UP para level 16. Ev: 0/0 - 2077x 1973y
+21:13:37 : [Fulando] - Dropado item Chave_da_Ultima_Porta [453] [0 0 0 0 0 0] em 2077x 1973y - Orc Sniper (1/1)
+21:13:38 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4492
+21:13:41 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4491
+21:13:41 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:13:42 : [Fulando] - Clicado no NPC [Treinador3]. Face 60. Race: 2. GenerateId: 4410. Posição do usuário: 2078x 1968y. Posição do NPC: 2078x 1966y
+21:13:42 : [Fulando] - [Mensagem do servidor]> Como recompensa a sua arma e armadura foram refinadas.
+21:13:43 : [Fulando] - Clicado no NPC [Treinador3]. Face 60. Race: 2. GenerateId: 4410. Posição do usuário: 2078x 1968y. Posição do NPC: 2078x 1966y
+21:13:46 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4491
+21:13:46 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:13:47 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4490
+21:13:48 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4490
+21:13:48 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:13:53 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4497
+21:13:54 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4496
+21:13:54 : [Fulando] - Pontos CP subiu em 3. CP novo: 126
+21:13:54 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:13:54 : [Fulando] - Level UP para level 17. Ev: 0/0 - 2086x 1948y
+21:13:57 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4496
+21:13:58 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4497
+21:13:58 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:14:08 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4506
+21:14:17 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4513
+21:14:17 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:14:18 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4513
+21:14:18 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:14:21 : [Fulando] - Matou o mob Orc Guerreiro  . GenerID: 4514
+21:14:21 : [Fulando] - Pontos CP subiu em 3. CP novo: 129
+21:14:21 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:14:21 : [Fulando] - Level UP para level 18. Ev: 0/0 - 2131x 1948y
+21:14:21 : [Fulando] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2131x 1948y - Orc Guerreiro   (1/1)
+21:14:22 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4512
+21:14:24 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4512
+21:14:24 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:14:30 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4512
+21:14:33 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4512
+21:14:33 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:14:40 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4513
+21:14:42 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4513
+21:14:42 : [Fulando] - Pontos CP subiu em 3. CP novo: 132
+21:14:42 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:14:42 : [Fulando] - Level UP para level 19. Ev: 0/0 - 2140x 1951y
+21:14:44 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4513
+21:14:45 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4512
+21:14:49 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4513
+21:14:49 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:14:50 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4512
+21:14:55 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4513
+21:14:55 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:14:58 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4513
+21:15:02 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4508
+21:15:02 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:15:10 : [Fulando] - Matou o mob Orc Guerreiro  . GenerID: 4514
+21:15:10 : [Fulando] - Pontos CP subiu em 3. CP novo: 135
+21:15:10 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:15:10 : [Fulando] - Level UP para level 20. Ev: 0/0 - 2133x 1950y
+21:15:10 : [Fulando] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2133x 1950y - Orc Guerreiro   (1/1)
+21:15:11 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4513
+21:15:14 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4512
+21:15:17 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4511
+21:15:17 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:15:24 : [Fulando] - Moveu item Aranha [2360] [88 27 1 20 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 14
+21:15:27 : [Fulando] - Matou o mob Orc Guerreiro  . GenerID: 4514
+21:15:27 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:15:27 : [Fulando] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2139x 1948y - Orc Guerreiro   (1/1)
+21:15:30 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4511
+21:15:30 : [Fulando] - Pontos CP subiu em 3. CP novo: 138
+21:15:30 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:15:30 : [Fulando] - Level UP para level 21. Ev: 0/0 - 2140x 1948y
+21:15:30 : [Fulando] - Dropado item Luvas(M) [1291] [8 7 72 10 59 0] em 2140x 1948y - Chefe Krill  (1/300)
+21:15:31 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4513
+21:15:33 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4512
+21:15:33 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:15:43 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4513
+21:15:44 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4513
+21:15:49 : [Fulando] - Matou o mob Orc Guerreiro  . GenerID: 4514
+21:15:49 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:15:49 : [Fulando] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2136x 1950y - Orc Guerreiro   (1/1)
+21:15:50 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4507
+21:15:53 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4507
+21:15:53 : [Fulando] - Pontos CP subiu em 3. CP novo: 141
+21:15:53 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:15:53 : [Fulando] - Level UP para level 22. Ev: 0/0 - 2136x 1950y
+21:16:01 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4513
+21:16:04 : [Fulando] - Matou o mob Orc Guerreiro  . GenerID: 4514
+21:16:04 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:16:04 : [Fulando] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2134x 1948y - Orc Guerreiro   (1/1)
+21:16:06 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4513
+21:16:06 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:16:09 : [Fulando] - Item Armadura(A) deletado [1115] [43 0 71 50 59 0]. Slot 4
+21:16:14 : [Fulando] - Matou o mob Orc Guerreiro  . GenerID: 4514
+21:16:14 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:16:14 : [Fulando] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2134x 1948y - Orc Guerreiro   (1/1)
+21:16:16 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4513
+21:16:17 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4513
+21:16:17 : [Fulando] - Pontos CP subiu em 3. CP novo: 144
+21:16:17 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:16:17 : [Fulando] - Level UP para level 23. Ev: 0/0 - 2134x 1948y
+21:16:26 : [Fulando] - Matou o mob Orc Guerreiro  . GenerID: 4514
+21:16:26 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:16:26 : [Fulando] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2134x 1948y - Orc Guerreiro   (1/1)
+21:16:27 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4513
+21:16:29 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4513
+21:16:30 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4508
+21:16:30 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:16:38 : [Fulando] - Matou o mob Orc Guerreiro  . GenerID: 4514
+21:16:38 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:16:38 : [Fulando] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2134x 1948y - Orc Guerreiro   (1/1)
+21:16:39 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4513
+21:16:41 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4513
+21:16:41 : [Fulando] - Pontos CP subiu em 3. CP novo: 147
+21:16:41 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:16:41 : [Fulando] - Level UP para level 24. Ev: 0/0 - 2134x 1948y
+21:16:41 : [Fulando] - Recebeu o item Lactolerium_100 [4141] [0 0 0 0 0 0]. STR: 29. INT: 9. DEX: 47. CON: 6
+21:16:50 : [Fulando] - Matou o mob Orc Guerreiro  . GenerID: 4514
+21:16:50 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:16:50 : [Fulando] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2134x 1948y - Orc Guerreiro   (1/1)
+21:16:51 : [Fulando] - Item Lactolerium_100 [4141] [0 0 0 0 0 0] utilizado em 0x 0y
+21:16:51 : [Fulando] - [Mensagem do servidor]> Refinação sucedida.
+21:16:51 : [Fulando] - Poeira 100 usado em Jaqueta(N) [1554] [43 43 9 71 30 2]
+21:16:51 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4513
+21:16:54 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4513
+21:17:02 : [Fulando] - Matou o mob Orc Guerreiro  . GenerID: 4514
+21:17:02 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:17:02 : [Fulando] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2134x 1948y - Orc Guerreiro   (1/1)
+21:17:03 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4513
+21:17:03 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:17:03 : [Fulando] - Dropado item Calça(A) [1127] [43 0 71 30 2 6] em 2134x 1948y - Rei Gremlin   (1/90)
+21:17:04 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4513
+21:17:07 : [Fulando] - Matou o mob Chefe Krill . GenerID: 4508
+21:17:16 : [Fulando] - Matou o mob Orc Guerreiro  . GenerID: 4514
+21:17:16 : [Fulando] - Pontos CP subiu em 3. CP novo: 150
+21:17:16 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:17:16 : [Fulando] - Level UP para level 25. Ev: 0/0 - 2134x 1948y
+21:17:16 : [Fulando] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2134x 1948y - Orc Guerreiro   (1/1)
+21:17:17 : [Fulando] - Matou o mob Rei Gremlin  . GenerID: 4513
+21:17:39 : [Fulando] - Moveu item Jaqueta(N) [1554] [43 9 71 30 2 6] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 26
+21:17:43 : [Fulando] - Moveu item Calça(N) [1572] [43 8 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 21
+21:17:48 : [Fulando] - Moveu item Luvas(N) [1560] [43 8 72 10 59 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 22
+21:17:58 : [Fulando] - Moveu item Aranha [2360] [149 26 1 20 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 20
+21:18:00 : [Fulando] - Moveu item Chapéu(A) [1553] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 25
+21:18:01 : [Fulando] - Moveu item Botas(N) [1578] [43 8 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 16
+21:18:30 : [Fulando] - Personagem deu personagem
+21:18:35 : Solicitou ir ao mundo...
+21:18:35 : Recebido pedido para entrar no jogo
+21:18:35 : Recebido informação do personagem completa.
+21:18:35 : [Fulando] - [INFORMAÇÕES DA CONTA]
+Personagem online: Fulando
+Gold atual: 0
+Level atual: 25
+Experiência atual: 75335
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:13:25 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[06] - Arco[816] [43 8 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Emblema_Orc[524] [0 0 0 0 0 0]
+[01] - Emblema_Orc[524] [0 0 0 0 0 0]
+[02] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[03] - Emblema_Orc[524] [0 0 0 0 0 0]
+[04] - Emblema_Orc[524] [0 0 0 0 0 0]
+[05] - Botas(A)[1301] [43 0 73 12 59 0]
+[06] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[07] - Luvas(M)[1291] [8 7 72 10 59 0]
+[08] - Emblema_Orc[524] [0 0 0 0 0 0]
+[09] - Emblema_Orc[524] [0 0 0 0 0 0]
+[10] - Emblema_Orc[524] [0 0 0 0 0 0]
+[11] - Emblema_Orc[524] [0 0 0 0 0 0]
+[12] - Emblema_Orc[524] [0 0 0 0 0 0]
+[13] - Emblema_Orc[524] [0 0 0 0 0 0]
+[14] - Calça(A)[1127] [43 0 71 30 2 6]
+[15] - Emblema_Orc[524] [0 0 0 0 0 0]
+[16] - Botas(N)[1578] [43 8 0 0 0 0]
+[20] - Aranha[2360] [149 26 1 20 0 0]
+[21] - Calça(N)[1572] [43 8 0 0 0 0]
+[22] - Luvas(N)[1560] [43 8 72 10 59 0]
+[25] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[26] - Jaqueta(N)[1554] [43 9 71 30 2 6]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:18:35 : [Fulando] - Personagem Fulando enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. PowerLevel: 17
+21:18:35 : [Fulando] - Gold atual: 0. Classe: 3 Evolução: 0. Experiência: 75335. Nível: 25. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+21:18:35 : [Fulando] - Enviado informações do personagem
+21:18:36 : [Fulando] - Comando "/day "
+21:18:36 : [Fulando] - [Mensagem do servidor]> !#11 2
+21:18:42 : [Fulando] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:18:52 : [Fulando] - Clicado no NPC [Mestre Grifo]. Face 21. Race: 2. GenerateId: 3418. Posição do usuário: 2116x 2075y. Posição do NPC: 2115x 2080y
+21:19:19 : [Fulando] - Moveu item Luvas(N) [1560] [43 8 72 10 59 0] do tipo INVENTÁRIO do slot 22 para tipo EQUIPAMENTO slot 4
+21:19:20 : [Fulando] - Moveu item Calça(N) [1572] [43 8 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo EQUIPAMENTO slot 3
+21:19:20 : [Fulando] - Moveu item Botas(N) [1578] [43 8 0 0 0 0] do tipo INVENTÁRIO do slot 16 para tipo EQUIPAMENTO slot 5
+21:19:21 : [Fulando] - Moveu item Aranha [2360] [149 26 1 20 0 0] do tipo INVENTÁRIO do slot 20 para tipo EQUIPAMENTO slot 14
+21:19:22 : [Fulando] - Moveu item Chapéu(A) [1553] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 25 para tipo EQUIPAMENTO slot 1
+21:19:22 : [Fulando] - Moveu item Jaqueta(N) [1554] [43 9 71 30 2 6] do tipo INVENTÁRIO do slot 26 para tipo EQUIPAMENTO slot 2
+21:19:31 : [Fulando] - [Mensagem do servidor]> Não possui gold para comprar este item
+21:19:38 : [Fulando] - Clicado no NPC [Treinador1]. Face 60. Race: 2. GenerateId: 4408. Posição do usuário: 2085x 2027y. Posição do NPC: 2084x 2019y
+21:20:06 : [Fulando] - Clicado no NPC [Troca1]. Face 60. Race: 2. GenerateId: 4786. Posição do usuário: 2111x 2110y. Posição do NPC: 2110x 2110y
+21:20:31 : [Fulando] - Clicado no NPC [Kibita]. Face 102. Race: 3. GenerateId: 3288. Posição do usuário: 2136x 2106y. Posição do NPC: 2135x 2105y
+21:20:31 : [Fulando] - [Mensagem do servidor]> Não possui gold para comprar este item
+21:20:43 : [Fulando] - Personagem deu personagem
+21:48:36 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:42:46 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:18:36 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 01:12:23 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:48:37 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 01:42:02 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:18:37 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 02:11:40 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:28:07 : Solicitou ir ao mundo...
+23:28:07 : Recebido pedido para entrar no jogo
+23:28:07 : Recebido informação do personagem completa.
+23:28:07 : [Fulando] - [INFORMAÇÕES DA CONTA]
+Personagem online: Fulando
+Gold atual: 0
+Level atual: 25
+Experiência atual: 75335
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 02:21:03 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Jaqueta(N)[1554] [43 9 71 30 2 6]
+[03] - Calça(N)[1572] [43 8 0 0 0 0]
+[04] - Luvas(N)[1560] [43 8 72 10 59 0]
+[05] - Botas(N)[1578] [43 8 0 0 0 0]
+[06] - Arco[816] [43 8 0 0 0 0]
+[14] - Aranha[2360] [149 26 1 20 0 0]
+
+[INVENTÁRIO]
+[00] - Emblema_Orc[524] [0 0 0 0 0 0]
+[01] - Emblema_Orc[524] [0 0 0 0 0 0]
+[02] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[03] - Emblema_Orc[524] [0 0 0 0 0 0]
+[04] - Emblema_Orc[524] [0 0 0 0 0 0]
+[05] - Botas(A)[1301] [43 0 73 12 59 0]
+[06] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[07] - Luvas(M)[1291] [8 7 72 10 59 0]
+[08] - Emblema_Orc[524] [0 0 0 0 0 0]
+[09] - Emblema_Orc[524] [0 0 0 0 0 0]
+[10] - Emblema_Orc[524] [0 0 0 0 0 0]
+[11] - Emblema_Orc[524] [0 0 0 0 0 0]
+[12] - Emblema_Orc[524] [0 0 0 0 0 0]
+[13] - Emblema_Orc[524] [0 0 0 0 0 0]
+[14] - Calça(A)[1127] [43 0 71 30 2 6]
+[15] - Emblema_Orc[524] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:28:07 : [Fulando] - Personagem Fulando enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. PowerLevel: 18
+23:28:07 : [Fulando] - Gold atual: 0. Classe: 3 Evolução: 0. Experiência: 75335. Nível: 25. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+23:28:07 : [Fulando] - Enviado informações do personagem
+23:28:09 : [Fulando] - Comando "/day "
+23:28:09 : [Fulando] - [Mensagem do servidor]> !#11 2
+23:28:17 : [Fulando] - [Mensagem do servidor]: Jogador Nettoco falhou a composição do item Calça(A) +10
+23:28:20 : [Fulando] - BETASD10 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+23:28:20 : [Fulando] - 6 Personagem foi desconectado. Permaneceu 02:21:16 minutos online
+23:30:48 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD10) - IP: 45.226.163.52 Mac: (3B:20:2D:CB:CE:46). ClientId: 4
+23:30:48 : Usuário logou no jogo com clientId 4. - Servidor 1. Gold do banco: 0
+23:30:48 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+23:31:03 : Solicitou ir ao mundo...
+23:31:03 : Recebido pedido para entrar no jogo
+23:31:03 : Recebido informação do personagem completa.
+23:31:03 : [Fulando] - [INFORMAÇÕES DA CONTA]
+Personagem online: Fulando
+Gold atual: 0
+Level atual: 25
+Experiência atual: 75335
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:14 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Jaqueta(N)[1554] [43 9 71 30 2 6]
+[03] - Calça(N)[1572] [43 8 0 0 0 0]
+[04] - Luvas(N)[1560] [43 8 72 10 59 0]
+[05] - Botas(N)[1578] [43 8 0 0 0 0]
+[06] - Arco[816] [43 8 0 0 0 0]
+[14] - Aranha[2360] [149 26 1 20 0 0]
+
+[INVENTÁRIO]
+[00] - Emblema_Orc[524] [0 0 0 0 0 0]
+[01] - Emblema_Orc[524] [0 0 0 0 0 0]
+[02] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[03] - Emblema_Orc[524] [0 0 0 0 0 0]
+[04] - Emblema_Orc[524] [0 0 0 0 0 0]
+[05] - Botas(A)[1301] [43 0 73 12 59 0]
+[06] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[07] - Luvas(M)[1291] [8 7 72 10 59 0]
+[08] - Emblema_Orc[524] [0 0 0 0 0 0]
+[09] - Emblema_Orc[524] [0 0 0 0 0 0]
+[10] - Emblema_Orc[524] [0 0 0 0 0 0]
+[11] - Emblema_Orc[524] [0 0 0 0 0 0]
+[12] - Emblema_Orc[524] [0 0 0 0 0 0]
+[13] - Emblema_Orc[524] [0 0 0 0 0 0]
+[14] - Calça(A)[1127] [43 0 71 30 2 6]
+[15] - Emblema_Orc[524] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:31:03 : [Fulando] - Personagem Fulando enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. PowerLevel: 18
+23:31:03 : [Fulando] - Gold atual: 0. Classe: 3 Evolução: 0. Experiência: 75335. Nível: 25. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+23:31:03 : [Fulando] - Enviado informações do personagem
+23:31:04 : [Fulando] - Comando "/day "
+23:31:04 : [Fulando] - [Mensagem do servidor]> !#11 2
+23:31:10 : [Fulando] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:31:47 : [Fulando] - Item Calça(A) deletado [1127] [43 0 71 30 2 6]. Slot 14
+23:32:04 : [Fulando] - [Mensagem do servidor]: Jogador Nettoco falhou a composição do item Luvas(A) +10
+23:32:21 : [Fulando] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:32:30 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:32:30 : [Fulando] - Gold atual: 0.
+23:32:33 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:32:33 : [Fulando] - Gold atual: 100000000.
+23:32:45 : [Fulando] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:32:49 : [Fulando] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:32:56 : [Fulando] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:32:59 : [Fulando] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:33:04 : [Fulando] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:33:10 : [Fulando] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:33:14 : [Fulando] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:33:17 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:33:17 : [Fulando] - Gold atual: 200000000.
+23:33:17 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:33:17 : [Fulando] - Gold atual: 300000000.
+23:33:18 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:33:18 : [Fulando] - Gold atual: 400000000.
+23:33:18 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:33:18 : [Fulando] - Gold atual: 500000000.
+23:33:18 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:33:18 : [Fulando] - Gold atual: 600000000.
+23:33:19 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:33:19 : [Fulando] - Gold atual: 700000000.
+23:33:19 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:33:19 : [Fulando] - Gold atual: 800000000.
+23:33:21 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:33:21 : [Fulando] - Gold atual: 900000000.
+23:33:21 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:33:21 : [Fulando] - Gold atual: 1000000000.
+23:33:29 : [Fulando] - Moveu item Emblema_Orc [524] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 15 para tipo INVENTÁRIO slot 0
+23:33:31 : [Fulando] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:33:35 : [Fulando] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:33:37 : [Fulando] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:33:39 : [Fulando] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:33:41 : [Fulando] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:33:44 : [Fulando] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:33:47 : [Fulando] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:33:53 : [Fulando] - [Mensagem do servidor]: Parabéns Begins pela criação do personagem Arch
+23:33:53 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:33:53 : [Fulando] - Gold atual: 1100000000.
+23:33:54 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:33:54 : [Fulando] - Gold atual: 1200000000.
+23:33:56 : [Fulando] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo INVENTÁRIO slot 13
+23:33:57 : [Fulando] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo INVENTÁRIO slot 12
+23:33:58 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:33:58 : [Fulando] - Gold atual: 1300000000.
+23:33:59 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:33:59 : [Fulando] - Gold atual: 1400000000.
+23:33:59 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:33:59 : [Fulando] - Gold atual: 1500000000.
+23:33:59 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:33:59 : [Fulando] - Gold atual: 1600000000.
+23:34:00 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:34:00 : [Fulando] - Gold atual: 1700000000.
+23:34:00 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:34:00 : [Fulando] - Gold atual: 1800000000.
+23:34:00 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:34:00 : [Fulando] - Gold atual: 1900000000.
+23:34:01 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:34:01 : [Fulando] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+23:34:01 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:34:01 : [Fulando] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+23:34:01 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:34:01 : [Fulando] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+23:34:06 : [Fulando] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2137x 2087y. Posição do NPC: 2144x 2080y
+23:34:13 : [Fulando] - Transferiu 2000000000 de gold para o banco. 2000000000 gold no banco. 0 no inventário
+23:34:15 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:34:15 : [Fulando] - Gold atual: 0.
+23:34:15 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:34:15 : [Fulando] - Gold atual: 100000000.
+23:34:16 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:34:16 : [Fulando] - Gold atual: 200000000.
+23:34:16 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:34:16 : [Fulando] - Gold atual: 300000000.
+23:34:17 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:34:17 : [Fulando] - Gold atual: 400000000.
+23:34:17 : [Fulando] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2087y
+23:34:17 : [Fulando] - Gold atual: 500000000.
+23:34:37 : [Fulando] - Clicado no NPC [Kibita]. Face 102. Race: 3. GenerateId: 3288. Posição do usuário: 2125x 2102y. Posição do NPC: 2135x 2105y
+23:34:37 : [Fulando] - [Mensagem do servidor]> Você agora é um cidadão
+23:34:51 : [Fulando] - Clicado no NPC [Troca1]. Face 60. Race: 2. GenerateId: 4786. Posição do usuário: 2112x 2113y. Posição do NPC: 2110x 2110y
+23:36:53 : [Fulando] - Item Frango_Assado [3314] [61 240 0 0 0 0] utilizado em 2120x 2108y
+23:37:14 : [Fulando] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2120x 2108y
+23:37:14 : [Fulando] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+23:37:14 : [Fulando] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2120x 2108y
+23:37:14 : [Fulando] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+23:38:08 : [Fulando] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2107x 2107y. Posição do NPC: 2102x 2113y
+23:38:22 : [Fulando] - Teleportado para a posição 2458 2017
+23:39:00 : [Fulando] - Clicado no NPC [Coveiro]. Face 58. Race: 2. GenerateId: 3282. Posição do usuário: 2370x 2102y. Posição do NPC: 2372x 2097y
+23:39:08 : [Fulando] - Matou o mob Rei Gremlin. GenerID: 603
+23:39:10 : [Fulando] - Matou o mob Javali. GenerID: 604
+23:39:10 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:39:13 : [Fulando] - Matou o mob Javali. GenerID: 604
+23:39:14 : [Fulando] - Matou o mob Rei Gremlin . GenerID: 604
+23:39:15 : [Fulando] - Matou o mob Rei Gremlin. GenerID: 603
+23:39:16 : [Fulando] - Matou o mob Rei Gremlin. GenerID: 587
+23:39:24 : [Fulando] - Matou o mob Chefe Krill. GenerID: 606
+23:39:25 : [Fulando] - Matou o mob Chefe Krill. GenerID: 613
+23:40:04 : [Fulando] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2462x 1998y. Posição do NPC: 2455x 2001y
+23:40:09 : [Fulando] - Clicado no NPC [Empis]. Face 60. Race: 2. GenerateId: 3272. Posição do usuário: 2460x 1993y. Posição do NPC: 2465x 1986y
+23:40:09 : [Fulando] - Clicado no NPC de Imposto
+23:40:12 : [Fulando] - Clicado no NPC [Guarda Carga ]. Face 106. Race: 2. GenerateId: 3271. Posição do usuário: 2460x 1993y. Posição do NPC: 2466x 1990y
+23:40:38 : [Fulando] - [Mensagem do servidor]> Compra concluída!
+23:40:41 : [Fulando] - Comando "/nig "
+23:40:41 : [Fulando] - [Mensagem do servidor]> !!234041
+23:40:44 : [Fulando] - [Mensagem do servidor]> Compra concluída!
+23:40:47 : [Fulando] - [Mensagem do servidor]> Compra concluída!
+23:41:07 : [Fulando] - Item Carta_de_Duelo_(N) [3172] [0 0 0 0 0 0] utilizado em 2460x 1993y
+23:41:07 : [Fulando] - [Mensagem do servidor]> Utilize no Altar de Thor!
+23:41:32 : [Fulando] - Teleportado para a posição 2482 1717
+23:41:51 : [Fulando] - Item Carta_de_Duelo_(N) [3172] [0 0 0 0 0 0] utilizado em 2482x 1717y
+23:41:51 : [Fulando] - [Mensagem do servidor]> Utilize no Altar de Thor!
+23:42:03 : [Fulando] - Teleportado para a posição 2117 2102
+23:42:19 : [Fulando] - Teleportado para a posição 2458 2017
+23:42:29 : [Fulando] - Teleportado para a posição 2482 1717
+23:42:33 : [Fulando] - Teleportado para a posição 3649 3110
+23:42:47 : [Fulando] - Teleportado para a posição 3638 2778
+23:42:54 : [Fulando] - Removido o Hp do mob Shamam Amald. HP removido: 100. HP Atual: 15240
+23:42:55 : [Fulando] - Removido o Hp do mob Shamam Amald. HP removido: 100. HP Atual: 15140
+23:42:56 : [Fulando] - Removido o Hp do mob Shamam Amald. HP removido: 100. HP Atual: 15040
+23:42:57 : [Fulando] - Removido o Hp do mob Shamam Amald. HP removido: 100. HP Atual: 14940
+23:42:58 : [Fulando] - Removido o Hp do mob Shamam Amald. HP removido: 100. HP Atual: 14840
+23:43:00 : [Fulando] - Removido o Hp do mob Shamam Amald. HP removido: 100. HP Atual: 14740
+23:43:01 : [Fulando] - Removido o Hp do mob Shamam Amald. HP removido: 100. HP Atual: 14640
+23:43:02 : [Fulando] - Removido o Hp do mob Templario Amald. HP removido: 100. HP Atual: 12800
+23:43:04 : [Fulando] - Removido o Hp do mob Shamam Amald. HP removido: 100. HP Atual: 14540
+23:43:09 : [Fulando] - Personagem deu personagem
+23:43:12 : Solicitou ir ao mundo...
+23:43:12 : Recebido pedido para entrar no jogo
+23:43:12 : Recebido informação do personagem completa.
+23:43:12 : [Fulando] - [INFORMAÇÕES DA CONTA]
+Personagem online: Fulando
+Gold atual: 548986355
+Level atual: 25
+Experiência atual: 76791
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:12:15 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Jaqueta(N)[1554] [43 9 71 30 2 6]
+[03] - Calça(N)[1572] [43 8 0 0 0 0]
+[04] - Luvas(N)[1560] [43 8 72 10 59 0]
+[05] - Botas(N)[1578] [43 8 0 0 0 0]
+[06] - Arco[816] [43 8 0 0 0 0]
+[14] - Aranha[2360] [189 20 1 20 0 0]
+
+[INVENTÁRIO]
+[00] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[02] - Frango_Assado[3314] [61 239 0 0 0 0]
+[03] - Baú_de_Experiência[4140] [61 5 0 0 0 0]
+[04] - Baú_de_Caça[4139] [61 2 0 0 0 0]
+[05] - Carta_de_Duelo_(N)[3172] [0 0 0 0 0 0]
+[06] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:43:12 : [Fulando] - Personagem Fulando enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 19288. PowerLevel: 18
+23:43:12 : [Fulando] - Gold atual: 548986355. Classe: 3 Evolução: 0. Experiência: 76791. Nível: 25. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+23:43:12 : [Fulando] - Logou no personagem Fulando com frango ativo. Tempo: 1754
+23:43:12 : [Fulando] - Enviado informações do personagem
+23:43:14 : [Fulando] - Comando "/day "
+23:43:14 : [Fulando] - [Mensagem do servidor]> !#11 2
+23:43:23 : [Fulando] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:43:38 : [Fulando] - Comando "/time "
+23:43:38 : [Fulando] - [Mensagem do servidor]> [Fulando] - 23:43:38 20-01-2021 2116x 2072y - Canal 1
+23:43:42 : [Fulando] - Comando "/time "
+23:43:42 : [Fulando] - [Mensagem do servidor]> [Fulando] - 23:43:42 20-01-2021 2116x 2072y - Canal 1
+23:43:58 : [Fulando] - Teleportado para a posição 960 1761
+23:44:04 : [Fulando] - Teleportado para a posição 2458 2017
+23:44:14 : [Fulando] - Item Baú_de_Experiência [4140] [61 5 0 0 0 0] utilizado em 2477x 2009y
+23:44:15 : [Fulando] - Item Baú_de_Experiência [4140] [61 4 0 0 0 0] utilizado em 2477x 2009y
+23:44:17 : [Fulando] - Item Baú_de_Experiência [4140] [61 3 0 0 0 0] utilizado em 2477x 2009y
+23:44:17 : [Fulando] - Item Baú_de_Experiência [4140] [61 2 0 0 0 0] utilizado em 2477x 2009y
+23:44:17 : [Fulando] - Item Baú_de_Experiência [4140] [61 1 0 0 0 0] utilizado em 2477x 2009y
+23:44:21 : [Fulando] - Matou o mob Meio Orc. GenerID: 873
+23:44:56 : [Fulando] - [Mensagem do servidor]> Compra concluída!
+23:45:29 : [Fulando] - Matou o mob Troll. GenerID: 878
+23:45:29 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:45:32 : [Fulando] - Matou o mob Meio Orc. GenerID: 876
+23:45:33 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 877
+23:45:33 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:45:36 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 876
+23:45:37 : [Fulando] - Matou o mob Meio Orc. GenerID: 876
+23:45:38 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:45:39 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:45:39 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:45:39 : [Fulando] - Level UP para level 26. Ev: 0/0 - 2503x 1999y
+23:45:41 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:45:42 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:45:46 : [Fulando] - Matou o mob Orc Cavaleiro . GenerID: 880
+23:45:46 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:45:47 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:45:50 : [Fulando] - Matou o mob Orc Cavaleiro . GenerID: 880
+23:45:51 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:45:57 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:45:57 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:45:58 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:46:05 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:46:06 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:46:08 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:46:08 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:46:09 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:46:10 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:46:17 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:46:17 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:46:17 : [Fulando] - Level UP para level 27. Ev: 0/0 - 2511x 1996y
+23:46:19 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:46:21 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:46:22 : [Fulando] - Matou o mob Troll. GenerID: 878
+23:46:23 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:46:24 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:46:25 : [Fulando] - Item Bolsa_do_Andarilho [3467] [0 0 0 0 0 0] utilizado em 2511x 1996y
+23:46:25 : [Fulando] - Bolsa do Andarilho usado. Até dia 19/02/2021
+23:46:25 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:46:26 : [Fulando] - Item Bolsa_do_Andarilho [3467] [0 0 0 0 0 0] utilizado em 2511x 1996y
+23:46:26 : [Fulando] - Bolsa do Andarilho usado. Até dia 19/02/2021
+23:46:26 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:46:27 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:46:29 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:46:29 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:46:30 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:46:31 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:46:33 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:46:35 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:46:36 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:46:36 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:46:37 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:46:38 : [Fulando] - Matou o mob Meio Orc . GenerID: 889
+23:46:39 : [Fulando] - Matou o mob Meio Orc . GenerID: 889
+23:46:39 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:46:39 : [Fulando] - Level UP para level 28. Ev: 0/0 - 2516x 1998y
+23:46:41 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:46:42 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:46:44 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:46:46 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:46:47 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 886
+23:46:47 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:46:48 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 886
+23:46:49 : [Fulando] - Matou o mob Meio Orc. GenerID: 886
+23:46:50 : [Fulando] - Matou o mob Orc Cavaleiro . GenerID: 889
+23:46:52 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:46:55 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:46:55 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:46:56 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:46:57 : [Fulando] - [Mensagem do servidor]> Limite máximo de pontos.
+23:46:57 : [Fulando] - [Mensagem do servidor]> Limite máximo de pontos.
+23:46:57 : [Fulando] - [Mensagem do servidor]> Limite máximo de pontos.
+23:46:57 : [Fulando] - [Mensagem do servidor]> Limite máximo de pontos.
+23:46:57 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:46:58 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:47:00 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:47:00 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:47:01 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:47:02 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:47:03 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:47:05 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:47:07 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:47:07 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:47:07 : [Fulando] - Level UP para level 29. Ev: 0/0 - 2515x 2003y
+23:47:07 : [Fulando] - Recebeu o item Braçadeira(M) [1606] [43 0 2 20 53 3]. STR: 29. INT: 9. DEX: 132. CON: 6
+23:47:08 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:47:09 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:47:10 : [Fulando] - Matou o mob Meio Orc . GenerID: 889
+23:47:11 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:47:13 : [Fulando] - Matou o mob Orc Cavaleiro . GenerID: 889
+23:47:13 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:47:14 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:47:15 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:47:17 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:47:18 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:47:22 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:47:22 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:47:23 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:47:24 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:47:32 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:47:34 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:47:35 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:47:35 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:47:37 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:47:38 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:47:40 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:47:41 : [Fulando] - Matou o mob Troll. GenerID: 878
+23:47:41 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:47:41 : [Fulando] - Level UP para level 30. Ev: 0/0 - 2507x 2002y
+23:47:43 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:47:44 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:47:46 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:47:47 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:47:49 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:47:50 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:47:50 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:47:51 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:47:53 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:47:55 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:47:56 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:47:58 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:47:58 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:47:59 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:48:00 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:48:01 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:48:02 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:48:04 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:48:05 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:48:05 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:48:06 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:48:07 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:48:11 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:48:13 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:48:14 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:48:21 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:48:21 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:48:21 : [Fulando] - Level UP para level 31. Ev: 0/0 - 2513x 1999y
+23:48:22 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:48:23 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:48:25 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:48:26 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:48:28 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:48:32 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:48:32 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:48:33 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:48:34 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:48:35 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:48:36 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:48:38 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:48:39 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:48:39 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:48:40 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:48:41 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:48:45 : [Fulando] - Matou o mob Meio Orc. GenerID: 886
+23:48:46 : [Fulando] - Matou o mob Meio Orc . GenerID: 889
+23:48:47 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:48:49 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:48:49 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:48:50 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:48:52 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:48:57 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:48:59 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:49:00 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:49:01 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:49:02 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:49:02 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:49:02 : [Fulando] - Level UP para level 32. Ev: 0/0 - 2515x 2000y
+23:49:04 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:49:06 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:49:08 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:49:09 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:49:11 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:49:13 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:49:13 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:49:14 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:49:16 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:49:19 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:49:21 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:49:22 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:49:23 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:49:25 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:49:25 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:49:26 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:49:27 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:49:28 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:49:29 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:49:33 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:49:35 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:49:36 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:49:36 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:49:37 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:49:38 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:49:40 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:49:41 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:49:42 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:49:47 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:49:48 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:49:48 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:49:48 : [Fulando] - Level UP para level 33. Ev: 0/0 - 2510x 1999y
+23:49:50 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:49:51 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:49:53 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:49:55 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:49:55 : [Fulando] - Dropado item Adaga [866] [43 0 74 12 74 12] em 2517x 1997y - Orc Cavaleiro (1/300)
+23:49:56 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:49:56 : [Fulando] - Dropado item Botas(A) [1819] [43 1 73 6 74 6] em 2517x 1997y - Meio Orc (1/135)
+23:49:59 : [Fulando] - Matou o mob Orc Cavaleiro . GenerID: 889
+23:50:01 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:50:02 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:50:02 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:50:06 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:50:08 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:50:10 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:50:11 : [Fulando] - Matou o mob Orc Cavaleiro . GenerID: 889
+23:50:12 : [Fulando] - Matou o mob Meio Orc . GenerID: 889
+23:50:14 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:50:15 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:50:17 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:50:17 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:50:18 : [Fulando] - Item Carta_de_Duelo_(N) [3172] [0 0 0 0 0 0] utilizado em 2519x 2009y
+23:50:18 : [Fulando] - [Mensagem do servidor]> Utilize no Altar de Thor!
+23:50:18 : [Fulando] - Matou o mob Meio Orc. GenerID: 869
+23:50:19 : [Fulando] - Item Carta_de_Duelo_(N) [3172] [0 0 0 0 0 0] utilizado em 2519x 2009y
+23:50:19 : [Fulando] - [Mensagem do servidor]> Utilize no Altar de Thor!
+23:50:20 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:50:20 : [Fulando] - Item Carta_de_Duelo_(N) [3172] [0 0 0 0 0 0] utilizado em 2519x 2009y
+23:50:20 : [Fulando] - [Mensagem do servidor]> Utilize no Altar de Thor!
+23:50:22 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:50:23 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:50:24 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:50:26 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:50:28 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:50:28 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:50:28 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:50:30 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:50:31 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 869
+23:50:32 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:50:35 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:50:37 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:50:39 : [Fulando] - Item Carta_de_Duelo_(N) deletado [3172] [0 0 0 0 0 0]. Slot 5
+23:50:42 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:50:44 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:50:44 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:50:44 : [Fulando] - Level UP para level 34. Ev: 0/0 - 2516x 2006y
+23:50:44 : [Fulando] - Recebeu o item Botas(M) [1609] [43 0 73 18 74 12]. STR: 29. INT: 9. DEX: 132. CON: 6
+23:50:45 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:50:46 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:50:46 : [Fulando] - Dropado item Dardo [881] [43 0 2 9 59 0] em 2516x 2006y - Orc Cavaleiro (1/300)
+23:50:47 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:50:48 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:50:50 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:50:51 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:50:53 : [Fulando] - Matou o mob Meio Orc . GenerID: 889
+23:50:55 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:50:55 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:50:56 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:50:56 : [Fulando] - [Mensagem do servidor]: Nettoco falhou na composição do item Machado para Ancient
+23:50:58 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 886
+23:50:59 : [Fulando] - Matou o mob Meio Orc. GenerID: 886
+23:50:59 : [Fulando] - [Mensagem do servidor]> Compra concluída!
+23:51:00 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 886
+23:51:00 : [Fulando] - Item Poção_Divina(30dias) [3381] [0 0 0 0 0 0] utilizado em 2523x 2013y
+23:51:01 : [Fulando] - Poção Divina utilizada até dia 19/02/2021 23:51:01
+23:51:01 : [Fulando] - Matou o mob Meio Orc. GenerID: 886
+23:51:02 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:51:04 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:51:05 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:51:06 : [Fulando] - [Mensagem do servidor]: Nettoco falhou na composição do item Machado para Ancient
+23:51:07 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 886
+23:51:07 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:51:09 : [Fulando] - Matou o mob Meio Orc. GenerID: 871
+23:51:11 : [Fulando] - Matou o mob Orc Cavaleiro . GenerID: 889
+23:51:12 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 886
+23:51:14 : [Fulando] - Matou o mob Meio Orc. GenerID: 886
+23:51:15 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:51:17 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:51:17 : [Fulando] - [Mensagem do servidor]> Compra concluída!
+23:51:23 : [Fulando] - [Mensagem do servidor]> Compra concluída!
+23:51:23 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:51:24 : [Fulando] - Item Pacote_de_Itens_(c/_Roleta) [5381] [96 8 0 0 0 0] utilizado em 2524x 2010y
+23:51:25 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:51:30 : [Fulando] - [Mensagem do servidor]: Jogador Nettoco obteve sucesso na composição de Martelo_Assassino(Anct)
+23:51:31 : [Fulando] - Matou o mob Meio Orc. GenerID: 886
+23:51:31 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:51:33 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 886
+23:51:35 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 871
+23:51:36 : [Fulando] - [Mensagem do servidor]> Recompensa retirada com sucesso
+23:51:37 : [Fulando] - Matou o mob Meio Orc. GenerID: 871
+23:51:38 : [Fulando] - Matou o mob Troll. GenerID: 870
+23:51:40 : [Fulando] - [Mensagem do servidor]> Selecione uma caixa para ser aberta
+23:51:42 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 871
+23:51:42 : [Fulando] - [Mensagem do servidor]> Selecione uma caixa para ser aberta
+23:51:45 : [Fulando] - Item Pacote_de_Itens_(c/_Roleta) [5381] [96 8 0 0 0 0] utilizado em 2530x 2016y
+23:51:49 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 886
+23:51:50 : [Fulando] - Matou o mob Meio Orc. GenerID: 886
+23:51:51 : [Fulando] - [Mensagem do servidor]: Jogador Nettoco obteve sucesso na composição de Martelo_Assassino(Anct)
+23:51:53 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:51:53 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:51:53 : [Fulando] - Level UP para level 35. Ev: 0/0 - 2524x 2012y
+23:51:53 : [Fulando] - Dropado item Botas(N) [1563] [43 0 73 12 59 0] em 2524x 2012y - Orc Cavaleiro (1/600)
+23:51:54 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:51:56 : [Fulando] - [Mensagem do servidor]> Recompensa retirada com sucesso
+23:51:56 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 886
+23:51:57 : [Fulando] - Matou o mob Meio Orc. GenerID: 886
+23:51:58 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:52:00 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 886
+23:52:01 : [Fulando] - Matou o mob Meio Orc. GenerID: 871
+23:52:03 : [Fulando] - Matou o mob Meio Orc. GenerID: 886
+23:52:04 : [Fulando] - [Mensagem do servidor]> Ative para poder utilizar
+23:52:05 : [Fulando] - Matou o mob Orc Cavaleiro . GenerID: 889
+23:52:06 : [Fulando] - Matou o mob Meio Orc . GenerID: 889
+23:52:06 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:52:08 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:52:09 : [Fulando] - [Mensagem do servidor]> Ativação concluída
+23:52:09 : [Fulando] - Aplicado tempo no item Conjunto_Militar(Branco) [4163] [96 23 1 21 2 0] - 23
+23:52:09 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:52:11 : [Fulando] - Matou o mob Orc Cavaleiro . GenerID: 889
+23:52:12 : [Fulando] - Matou o mob Meio Orc . GenerID: 889
+23:52:12 : [Fulando] - Moveu item Conjunto_Militar(Branco) [4163] [96 23 1 21 2 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 12
+23:52:13 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:52:15 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:52:19 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:52:23 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 886
+23:52:24 : [Fulando] - Matou o mob Meio Orc. GenerID: 886
+23:52:24 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:52:25 : [Fulando] - Item Dardo deletado [881] [43 0 2 9 59 0]. Slot 9
+23:52:25 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:52:26 : [Fulando] - Item Botas(A) deletado [1819] [43 1 73 6 74 6]. Slot 8
+23:52:27 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:52:28 : [Fulando] - Item Adaga deletado [866] [43 0 74 12 74 12]. Slot 7
+23:52:28 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:52:30 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:52:31 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:52:32 : [Fulando] - Item Botas(N) deletado [1563] [43 0 73 12 59 0]. Slot 10
+23:52:32 : [Fulando] - Matou o mob Meio Orc . GenerID: 889
+23:52:33 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:52:33 : [Fulando] - Item Botas(M) deletado [1609] [43 0 73 18 74 12]. Slot 5
+23:52:35 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 886
+23:52:35 : [Fulando] - Item Braçadeira(M) deletado [1606] [43 0 2 20 53 3]. Slot 3
+23:52:36 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:52:37 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:52:37 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:52:38 : [Fulando] - Matou o mob Meio Orc. GenerID: 886
+23:52:39 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:52:39 : [Fulando] - Item Conjunto_Militar(Preto) deletado [4164] [96 3 0 0 1 0]. Slot 11
+23:52:40 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:52:42 : [Fulando] - Matou o mob Orc Cavaleiro . GenerID: 889
+23:52:43 : [Fulando] - Matou o mob Meio Orc . GenerID: 889
+23:52:44 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:52:45 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:52:47 : [Fulando] - Matou o mob Orc Cavaleiro . GenerID: 889
+23:52:48 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:52:48 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:52:48 : [Fulando] - Level UP para level 36. Ev: 0/0 - 2521x 2001y
+23:52:49 : [Fulando] - [Mensagem do servidor]> Compra concluída!
+23:52:50 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:52:52 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:52:52 : [Fulando] - Item Pacote_de_Itens_(c/_Roleta) [5381] [96 8 0 0 0 0] utilizado em 2518x 2000y
+23:52:53 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:52:56 : [Fulando] - [Mensagem do servidor]> Recompensa retirada com sucesso
+23:52:59 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:53:00 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:53:04 : [Fulando] - Item Conjunto_Anfitriã deletado [4167] [96 3 0 0 1 0]. Slot 13
+23:53:04 : [Fulando] - Item Pacote_de_Itens_(c/_Roleta) [5381] [96 8 0 0 0 0] utilizado em 2515x 1997y
+23:53:04 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:53:05 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:53:07 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:53:07 : [Fulando] - [Mensagem do servidor]> Recompensa retirada com sucesso
+23:53:08 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:53:09 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:53:09 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:53:11 : [Fulando] - Item Conjunto_Militar(Branco) deletado [4163] [96 3 0 0 2 0]. Slot 11
+23:53:11 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:53:11 : [Fulando] - Item Pacote_de_Itens_(c/_Roleta) [5381] [96 8 0 0 0 0] utilizado em 2517x 1991y
+23:53:12 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:53:14 : [Fulando] - [Mensagem do servidor]> Recompensa retirada com sucesso
+23:53:15 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:53:16 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:53:18 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:53:19 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:53:19 : [Fulando] - Item Pacote_de_Itens_(c/_Roleta) [5381] [96 8 0 0 0 0] utilizado em 2512x 1995y
+23:53:21 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:53:22 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:53:23 : [Fulando] - [Mensagem do servidor]> Recompensa retirada com sucesso
+23:53:24 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:53:25 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:53:25 : [Fulando] - Dropado item Botas(A) [1839] [43 1 73 6 59 0] em 2507x 1992y - Meio Orc (1/135)
+23:53:26 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:53:26 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:53:27 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 888
+23:53:29 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:53:31 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:53:31 : [Fulando] - Dropado item Amuleto_de_Prata [554] [0 0 0 0 0 0] em 2512x 1993y - Orc Cavaleiro (1/2400)
+23:53:31 : [Fulando] - Item Pacote_de_Itens_(c/_Roleta) [5381] [96 8 0 0 0 0] utilizado em 2512x 1993y
+23:53:33 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:53:34 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:53:35 : [Fulando] - [Mensagem do servidor]> Recompensa retirada com sucesso
+23:53:36 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:53:38 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:53:42 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:53:44 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:53:45 : [Fulando] - Item Botas(A) deletado [1839] [43 1 73 6 59 0]. Slot 11
+23:53:46 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:53:46 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:53:47 : [Fulando] - Item Pacote_de_Itens_(c/_Roleta) [5381] [96 8 0 0 0 0] utilizado em 2509x 1997y
+23:53:47 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:53:49 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:53:50 : [Fulando] - [Mensagem do servidor]> Recompensa retirada com sucesso
+23:53:50 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:53:51 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:53:53 : [Fulando] - Matou o mob Meio Orc. GenerID: 876
+23:53:55 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:53:55 : [Fulando] - Item Pacote_de_Itens_(c/_Roleta) [5381] [96 8 0 0 0 0] utilizado em 2506x 2000y
+23:53:56 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:53:58 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:53:58 : [Fulando] - [Mensagem do servidor]> Recompensa retirada com sucesso
+23:54:00 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:54:01 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:54:01 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:54:01 : [Fulando] - Level UP para level 37. Ev: 0/0 - 2511x 2004y
+23:54:02 : [Fulando] - Item Pacote_de_Itens_(c/_Roleta) [5381] [96 8 0 0 0 0] utilizado em 2511x 2004y
+23:54:05 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:54:05 : [Fulando] - [Mensagem do servidor]> Recompensa retirada com sucesso
+23:54:06 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:54:08 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 876
+23:54:09 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:54:09 : [Fulando] - Item Conjunto_Anfitriã deletado [4167] [96 3 0 0 1 0]. Slot 3
+23:54:11 : [Fulando] - [Mensagem do servidor]> Ativação concluída
+23:54:11 : [Fulando] - Aplicado tempo no item  [4197] [96 27 1 21 3 0] - 27
+23:54:11 : [Fulando] - Matou o mob Meio Orc. GenerID: 885
+23:54:12 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 885
+23:54:14 : [Fulando] - [Mensagem do servidor]> Ativação concluída
+23:54:14 : [Fulando] - Aplicado tempo no item Conjunto_Militar(Preto) [4164] [96 27 1 21 3 0] - 27
+23:54:14 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:54:15 : [Fulando] - [Mensagem do servidor]> Ativação concluída
+23:54:15 : [Fulando] - Aplicado tempo no item Conjunto_Anfitriã [4167] [96 27 1 21 3 0] - 27
+23:54:15 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:54:17 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 876
+23:54:17 : [Fulando] - [Mensagem do servidor]> Ativação concluída
+23:54:17 : [Fulando] - Aplicado tempo no item Conjunto_Militar(Preto) [4164] [96 23 1 21 2 0] - 23
+23:54:17 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 876
+23:54:19 : [Fulando] - Matou o mob Troll. GenerID: 874
+23:54:19 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:54:21 : [Fulando] - Item  deletado [4198] [96 3 0 0 2 0]. Slot 10
+23:54:23 : [Fulando] - Matou o mob Meio Orc. GenerID: 876
+23:54:24 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:54:25 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:54:27 : [Fulando] - Matou o mob Troll. GenerID: 874
+23:54:27 : [Fulando] - Dropado item Dardo [992] [43 1 2 27 59 0] em 2503x 2008y - Troll (1/70)
+23:54:28 : [Fulando] - Matou o mob Meio Orc. GenerID: 875
+23:54:29 : [Fulando] - Matou o mob Meio Orc. GenerID: 876
+23:54:30 : [Fulando] - Item Dardo deletado [992] [43 1 2 27 59 0]. Slot 3
+23:54:31 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 876
+23:54:32 : [Fulando] - Matou o mob Meio Orc. GenerID: 875
+23:54:34 : [Fulando] - Matou o mob Meio Orc. GenerID: 876
+23:54:35 : [Fulando] - Moveu item Conjunto_Militar(Preto) [4164] [96 27 1 21 3 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 12
+23:54:35 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 873
+23:54:35 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:54:36 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 876
+23:54:37 : [Fulando] - Matou o mob Meio Orc. GenerID: 876
+23:54:38 : [Fulando] - Matou o mob Meio Orc. GenerID: 875
+23:54:39 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 875
+23:54:40 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 875
+23:54:42 : [Fulando] - Moveu item Conjunto_Anfitriã [4167] [96 27 1 21 3 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 12
+23:54:42 : [Fulando] - Matou o mob Meio Orc. GenerID: 877
+23:54:43 : [Fulando] - Matou o mob Meio Orc. GenerID: 877
+23:54:45 : [Fulando] - Matou o mob Meio Orc. GenerID: 873
+23:54:48 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 875
+23:54:49 : [Fulando] - Matou o mob Meio Orc. GenerID: 875
+23:54:51 : [Fulando] - Moveu item Conjunto_Militar(Preto) [4164] [96 23 1 21 2 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 12
+23:54:56 : [Fulando] - Moveu item Conjunto_Militar(Preto) [4164] [96 27 1 21 3 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 12
+23:54:58 : [Fulando] - Moveu item Conjunto_Militar(Branco) [4163] [96 23 1 21 2 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 12
+23:54:59 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 875
+23:54:59 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:55:00 : [Fulando] - Matou o mob Meio Orc. GenerID: 875
+23:55:02 : [Fulando] - Matou o mob Meio Orc. GenerID: 877
+23:55:06 : [Fulando] - [Mensagem do servidor]: Nettoco falhou na composição do item Machado para Ancient
+23:55:09 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 876
+23:55:10 : [Fulando] - Matou o mob Meio Orc. GenerID: 876
+23:55:11 : [Fulando] - Matou o mob Troll. GenerID: 874
+23:55:12 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 875
+23:55:13 : [Fulando] - Matou o mob Meio Orc. GenerID: 875
+23:55:14 : [Fulando] - Matou o mob Meio Orc. GenerID: 876
+23:55:15 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 877
+23:55:17 : [Fulando] - [Mensagem do servidor]: Nettoco falhou na composição do item Machado para Ancient
+23:55:17 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 877
+23:55:18 : [Fulando] - Matou o mob Meio Orc. GenerID: 877
+23:55:18 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:55:18 : [Fulando] - Level UP para level 38. Ev: 0/0 - 2489x 2002y
+23:55:20 : [Fulando] - Matou o mob Troll. GenerID: 878
+23:55:20 : [Fulando] - Dropado item Dardo [877] [43 1 2 36 59 0] em 2491x 2002y - Troll (1/300)
+23:55:24 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 877
+23:55:26 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 877
+23:55:28 : [Fulando] - Matou o mob Meio Orc. GenerID: 877
+23:55:30 : [Fulando] - Matou o mob Meio Orc . GenerID: 880
+23:55:31 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:55:32 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:55:32 : [Fulando] - Dropado item Luvas(A) [1835] [43 0 72 15 54 12] em 2498x 1997y - Meio Orc (1/135)
+23:55:35 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 876
+23:55:36 : [Fulando] - Matou o mob Troll. GenerID: 878
+23:55:37 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 877
+23:55:38 : [Fulando] - Matou o mob Meio Orc. GenerID: 877
+23:55:38 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:55:39 : [Fulando] - Matou o mob Meio Orc. GenerID: 875
+23:55:40 : [Fulando] - Matou o mob Meio Orc. GenerID: 876
+23:55:41 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:55:42 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 875
+23:55:43 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:55:45 : [Fulando] - Matou o mob Meio Orc. GenerID: 876
+23:55:46 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 876
+23:55:47 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:55:50 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:55:52 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:55:53 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:55:54 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:55:54 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:55:55 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:55:56 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:55:57 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:55:58 : [Fulando] - Matou o mob Meio Orc. GenerID: 876
+23:55:59 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 876
+23:56:00 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:56:02 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:56:02 : [Fulando] - Dropado item Botas(A) [2055] [43 1 73 12 59 0] em 2508x 2002y - Meio Orc (1/300)
+23:56:02 : [Fulando] - [Mensagem do servidor]: Nettoco falhou na composição do item Machado para Ancient
+23:56:04 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 876
+23:56:07 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:56:09 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:56:10 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:56:12 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:56:12 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:56:13 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:56:14 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:56:15 : [Fulando] - Item Botas(A) deletado [2055] [43 1 73 12 59 0]. Slot 11
+23:56:15 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:56:18 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:56:19 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:56:20 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:56:21 : [Fulando] - Moveu item Conjunto_Militar(Preto) [4164] [96 27 1 21 3 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 12
+23:56:23 : [Fulando] - Item  deletado [4197] [96 27 1 21 3 0]. Slot 9
+23:56:23 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:56:24 : [Fulando] - Item Conjunto_Militar(Branco) deletado [4163] [96 23 1 21 2 0]. Slot 8
+23:56:25 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:56:26 : [Fulando] - Item Conjunto_Militar(Preto) deletado [4164] [96 23 1 21 2 0]. Slot 7
+23:56:27 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:56:27 : [Fulando] - Item Conjunto_Anfitriã deletado [4167] [96 27 1 21 3 0]. Slot 5
+23:56:28 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:56:36 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:56:37 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:56:37 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:56:37 : [Fulando] - Level UP para level 39. Ev: 0/0 - 2514x 1987y
+23:56:37 : [Fulando] - Recebeu o item Chapéu(M) [1597] [43 0 4 20 0 0]. STR: 29. INT: 9. DEX: 132. CON: 6
+23:56:38 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:56:40 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:56:45 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:56:46 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:56:47 : [Fulando] - Matou o mob Meio Orc . GenerID: 889
+23:56:47 : [Fulando] - Dropado item Lança [986] [43 1 74 6 59 0] em 2517x 1993y - Meio Orc  (1/300)
+23:56:48 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 891
+23:56:49 : [Fulando] - Matou o mob Meio Orc. GenerID: 891
+23:56:52 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 890
+23:56:52 : [Fulando] - Dropado item Peitoral(A) [2052] [43 2 71 30 3 20] em 2513x 1997y - Orc Cavaleiro (1/300)
+23:56:53 : [Fulando] - Matou o mob Meio Orc. GenerID: 890
+23:56:54 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:56:55 : [Fulando] - Item Luvas(A) deletado [1835] [43 0 72 15 54 12]. Slot 10
+23:56:55 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:56:56 : [Fulando] - Item Amuleto_de_Prata deletado [554] [0 0 0 0 0 0]. Slot 13
+23:56:57 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:56:57 : [Fulando] - Item Peitoral(A) deletado [2052] [43 2 71 30 3 20]. Slot 8
+23:56:58 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:56:58 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:56:58 : [Fulando] - Item Dardo deletado [877] [43 1 2 36 59 0]. Slot 3
+23:57:00 : [Fulando] - Matou o mob Orc Cavaleiro. GenerID: 887
+23:57:00 : [Fulando] - Item Lança deletado [986] [43 1 74 6 59 0]. Slot 7
+23:57:01 : [Fulando] - Matou o mob Meio Orc. GenerID: 887
+23:57:02 : [Fulando] - Item Chapéu(M) deletado [1597] [43 0 4 20 0 0]. Slot 5
+23:57:05 : [Fulando] - Matou o mob Meio Orc. GenerID: 888
+23:57:14 : [Fulando] - Matou o mob Meio Orc. GenerID: 859
+23:57:15 : [Fulando] - Matou o mob Meio Orc . GenerID: 866
+23:57:16 : [Fulando] - Matou o mob Meio Orc. GenerID: 867
+23:57:18 : [Fulando] - Matou o mob Meio Orc . GenerID: 852
+23:57:23 : [Fulando] - Matou o mob Meio Orc. GenerID: 859
+23:57:28 : [Fulando] - Matou o mob Meio Orc . GenerID: 868
+23:57:29 : [Fulando] - Matou o mob Meio Orc. GenerID: 860
+23:57:40 : [Fulando] - [Mensagem do servidor]: Nettoco falhou na composição do item Machado para Ancient
+23:57:45 : [Fulando] - Matou o mob Orc Arqueiro. GenerID: 740
+23:57:51 : [Fulando] - Personagem deu personagem
+23:57:55 : Solicitou ir ao mundo...
+23:57:55 : Recebido pedido para entrar no jogo
+23:57:56 : Recebido informação do personagem completa.
+23:57:56 : [Fulando] - [INFORMAÇÕES DA CONTA]
+Personagem online: Fulando
+Gold atual: 548983755
+Level atual: 39
+Experiência atual: 280175
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:26:27 horas
+Posição atual: 2095x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Jaqueta(N)[1554] [43 9 71 30 2 6]
+[03] - Calça(N)[1572] [43 8 0 0 0 0]
+[04] - Luvas(N)[1560] [43 8 72 10 59 0]
+[05] - Botas(N)[1578] [43 8 0 0 0 0]
+[06] - Arco[816] [43 8 0 0 0 0]
+[12] - Conjunto_Militar(Preto)[4164] [96 27 1 21 3 0]
+[14] - Aranha[2360] [189 20 1 20 0 0]
+
+[INVENTÁRIO]
+[00] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[02] - Frango_Assado[3314] [61 239 0 0 0 0]
+[04] - Baú_de_Caça[4139] [61 2 0 0 0 0]
+[06] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:57:56 : [Fulando] - Personagem Fulando enviado ao mundo 2095x 2099y - Canal 1 - Cash da conta: 11588. PowerLevel: 127
+23:57:56 : [Fulando] - Gold atual: 548983755. Classe: 3 Evolução: 0. Experiência: 280175. Nível: 39. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+23:57:56 : [Fulando] - Logou no personagem Fulando com poção divina ativo. Validade: 19/2/2021 23:51:1
+23:57:56 : [Fulando] - Logou no personagem Fulando com baú de experiência ativo. Tempo: 4401
+23:57:56 : [Fulando] - Logou no personagem Fulando com frango ativo. Tempo: 1648
+23:57:56 : [Fulando] - Enviado informações do personagem
+23:57:57 : [Fulando] - Comando "/day "
+23:57:57 : [Fulando] - [Mensagem do servidor]> !#11 2
+23:58:10 : [Fulando] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2108x 2113y. Posição do NPC: 2102x 2113y
+23:58:11 : [Fulando] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:58:41 : [Fulando] - Clicado no NPC [Mestre Grifo]. Face 21. Race: 2. GenerateId: 3418. Posição do usuário: 2121x 2083y. Posição do NPC: 2115x 2080y
+23:59:20 : [Fulando] - [Mensagem do servidor]> Chegou no destino [Defensor da alma].
+23:59:20 : [Fulando] - Teleportado para a posição 2372 2099
+23:59:26 : [Fulando] - Clicado no NPC [Coveiro]. Face 58. Race: 2. GenerateId: 3282. Posição do usuário: 2372x 2099y. Posição do NPC: 2372x 2097y
+23:59:26 : [Fulando] - Teleportado para a posição 2397 2105
+23:59:26 : [Fulando] - Fulando entrou na quest [Coveiro].
+23:59:30 : [Fulando] - Matou o mob Aparicao. GenerID: 4234
+23:59:30 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:59:30 : [Fulando] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2397x 2105y - Aparicao (1/1)
+23:59:33 : [Fulando] - Matou o mob Esqueleto. GenerID: 4234
+23:59:33 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:59:33 : [Fulando] - Level UP para level 40. Ev: 0/0 - 2397x 2105y
+23:59:39 : [Fulando] - Matou o mob Esqueleto. GenerID: 4234
+23:59:39 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:59:39 : [Fulando] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2397x 2105y - Esqueleto (1/4)
+23:59:42 : [Fulando] - Matou o mob Aparicao. GenerID: 4236
+23:59:42 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:59:42 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:59:42 : [Fulando] - Level UP para level 41. Ev: 0/0 - 2397x 2105y
+23:59:42 : [Fulando] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2397x 2105y - Aparicao (1/1)
+23:59:45 : [Fulando] - Matou o mob Esqueleto. GenerID: 4238
+23:59:45 : [Fulando] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:59:50 : [Fulando] - Matou o mob Esqueleto. GenerID: 4234
+23:59:50 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:59:51 : [Fulando] - [Mensagem do servidor]: Jogador Nettoco obteve sucesso na composição de Martelo_Assassino(Anct)
+23:59:54 : [Fulando] - Matou o mob Esqueleto. GenerID: 4234
+23:59:54 : [Fulando] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:59:54 : [Fulando] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2395x 2104y - Esqueleto (1/4)
+23:59:54 : [Fulando] - Dropado item Luvas(M) [1297] [43 0 72 25 2 18] em 2395x 2104y - Esqueleto (1/300)
+23:59:57 : [Fulando] - Matou o mob Aparicao. GenerID: 4234
+23:59:57 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:59:57 : [Fulando] - Level UP para level 42. Ev: 0/0 - 2395x 2104y
+23:59:57 : [Fulando] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2395x 2104y - Aparicao (1/1)
+23:59:58 : [Fulando] - Matou o mob Esqueleto. GenerID: 4238
+23:59:58 : [Fulando] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:59:58 : [Fulando] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2395x 2104y - Esqueleto (1/4)
+23:59:59 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:59:59 : [Fulando] - Level UP para level 43. Ev: 0/0 - 2395x 2104y
+23:59:59 : [Fulando] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:59:59 : [Fulando] - Level UP para level 44. Ev: 0/0 - 2394x 2105y
+23:59:59 : [Fulando] - Recebeu o item Calça(M) [1603] [43 0 2 20 3 20]. STR: 29. INT: 9. DEX: 132. CON: 6

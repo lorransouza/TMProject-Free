@@ -1,0 +1,2179 @@
+
+00:39:54 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD12) - IP: 189.25.48.65 Mac: (9B:DC:08:D8:9F:47). ClientId: 1
+00:39:54 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 2000000000
+00:39:54 : [INFORMAÇÕES DO BANCO]
+Gold: 2000000000
+[  0] - Elmo(A)[1178] [43 237 26 18 4 60]
+[  1] - Elmo(A)[1208] [43 237 3 25 26 18]
+[  3] - Selo_do_Guerreiro[4146] [61 141 0 0 0 0]
+[  4] - Frango_Assado[3314] [61 222 0 0 0 0]
+[  5] - Armadura(A)[1181] [43 237 71 70 2 30]
+[  6] - Armadura[1221] [120 240 2 30 71 70]
+[  8] - Carta_de_Duelo_(N)[3172] [0 0 0 0 0 0]
+[  9] - Baú_de_Experiência[4140] [61 90 0 0 0 0]
+[ 10] - Calça(A)[1184] [43 237 71 70 2 30]
+[ 11] - Calça[1222] [120 240 2 30 71 70]
+[ 13] - Jóia_da_Proteção[3205] [61 10 0 0 0 0]
+[ 14] - Jóia_do_Poder[3206] [61 11 0 0 0 0]
+[ 15] - Botas(A)[1190] [43 237 73 24 74 18]
+[ 16] - Botas[1224] [120 240 73 30 74 18]
+[ 18] - Baú_de_Caça[4139] [61 239 0 0 0 0]
+[ 19] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 20] - Luvas(A)[1187] [43 237 72 30 2 24]
+[ 21] - Luvas[1223] [120 240 54 18 72 30]
+[ 23] - Pedaço_do_Círc_Div_Comp[692] [59 148 59 214 59 143]
+[ 24] - Pedaço_do_Círc_Div_Comp[692] [59 254 59 18 59 206]
+[ 25] - Skeleton_Dagger[939] [43 9 0 0 0 0]
+[ 26] - Balmung(Anct)[2493] [2 45 43 240 0 0]
+[ 28] - Pedido_de_Caça(Kefra)[3436] [61 7 0 0 0 0]
+[ 30] - Skeleton_Dagger[939] [43 9 0 0 0 0]
+[ 31] - Balmung(Anct)[2493] [2 45 43 240 0 0]
+[ 35] - Pedra_Espiritual[633] [43 9 42 100 0 0]
+[ 36] - Cythera_Mística[3502] [43 241 0 0 0 0]
+[ 40] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[ 41] - Elmo(A)[1178] [0 0 60 12 3 20]
+[ 42] - Elmo(A)[1178] [0 0 60 12 4 60]
+[ 45] - Garnet[2444] [0 0 0 0 0 0]
+[ 46] - Armadura(A)[1181] [0 0 3 30 60 10]
+[ 47] - Armadura(A)[1181] [0 0 3 30 60 10]
+[ 49] - Brinco_de_Titã[592] [0 0 0 0 0 0]
+[ 50] - Garnet[2444] [0 0 0 0 0 0]
+[ 51] - Calça(A)[1184] [0 0 3 30 60 10]
+[ 52] - Calça(A)[1184] [0 0 3 30 60 10]
+[ 54] - Resto_de_Lactolerium[420] [61 5 0 0 0 0]
+[ 55] - Garnet[2444] [0 0 0 0 0 0]
+[ 56] - Luvas(A)[1187] [0 0 72 30 60 10]
+[ 57] - Luvas(A)[1187] [0 0 72 30 60 10]
+[ 60] - Garnet[2444] [0 0 0 0 0 0]
+[ 61] - Botas(A)[1190] [0 0 73 24 60 10]
+[ 62] - Botas(A)[1190] [0 0 73 24 60 10]
+[ 64] - Resto_de_Oriharucon[419] [61 18 0 0 0 0]
+[ 69] - Aranha[2360] [46 22 65 20 0 0]
+[ 80] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[ 81] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[ 82] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[ 84] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 85] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[ 86] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[ 89] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 90] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[ 91] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[ 94] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 95] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[ 96] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[ 99] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[100] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[101] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[104] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[105] - Emblema_da_Proteção[4043] [0 0 0 0 0 0]
+[106] - Poção_Poderosa[3431] [61 13 0 0 0 0]
+[108] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[109] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[110] - Emblema_da_Proteção[4043] [0 0 0 0 0 0]
+[111] - Pergaminho_da_Água(M)LV1[777] [61 49 0 0 0 0]
+[112] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[113] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[114] - Classe_C[4018] [61 4 0 0 0 0]
+[115] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 49 0 0 0 0]
+[117] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[118] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[119] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+
+00:39:54 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+00:40:08 : Solicitou ir ao mundo...
+00:40:08 : Recebido pedido para entrar no jogo
+00:40:08 : Recebido informação do personagem completa.
+00:40:08 : [lFlymber-MG] - [INFORMAÇÕES DA CONTA]
+Personagem online: lFlymber-MG
+Gold atual: 1912287360
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:15 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1106] [43 0 60 8 3 25]
+[02] - Armadura(N)[1116] [43 0 0 0 0 0]
+[03] - Calça(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas(N)[1140] [43 0 0 0 0 0]
+[05] - Botas(N)[1152] [43 0 0 0 0 0]
+[06] - Skeleton_Hammer[941] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Amuleto_de_Prata[551] [43 9 60 28 0 0]
+[01] - Brinco_de_Hecate[594] [0 0 0 0 0 0]
+[02] - Ankh_da_Justiça[661] [43 9 0 0 0 0]
+[03] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[04] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe(A)[1406] [43 0 3 20 59 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+00:40:08 : [lFlymber-MG] - Personagem lFlymber-MG enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 2808. PowerLevel: 179
+00:40:08 : [lFlymber-MG] - Gold atual: 1912287360. Classe: 0 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+00:40:08 : [lFlymber-MG] - Logou no personagem lFlymber-MG com poção divina ativo. Validade: 25/2/2021 10:58:44
+00:40:08 : [lFlymber-MG] - Logou no personagem lFlymber-MG com frango ativo. Tempo: 1127
+00:40:08 : [lFlymber-MG] - Logou no personagem lFlymber-MG com baú de experiência ativo. Tempo: 227
+00:40:08 : [lFlymber-MG] - Resetado a contagem de entradas água! Day: 27-28. Total: 0
+00:40:08 : [lFlymber-MG] - Enviado informações do personagem
+00:40:10 : [lFlymber-MG] - Comando "/day "
+00:40:10 : [lFlymber-MG] - [Mensagem do servidor]> !#11 2
+00:40:17 : [lFlymber-MG] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+00:40:18 : [lFlymber-MG] - Matou o mob Porco de Guerra. GenerID: 4421
+00:40:20 : [lFlymber-MG] - Matou o mob Porco de Guerra. GenerID: 4422
+00:40:23 : [lFlymber-MG] - Matou o mob Porco de Guerra. GenerID: 4420
+00:40:26 : [lFlymber-MG] - BETASD12 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+00:40:26 : [lFlymber-MG] - 1 Personagem foi desconectado. Permaneceu 00:00:32 minutos online
+15:39:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD12) - IP: 189.25.48.65 Mac: (9B:DC:08:D8:9F:47). ClientId: 1
+15:39:03 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 2000000000
+15:39:03 : [INFORMAÇÕES DO BANCO]
+Gold: 2000000000
+[  0] - Elmo(A)[1178] [43 237 26 18 4 60]
+[  1] - Elmo(A)[1208] [43 237 3 25 26 18]
+[  3] - Selo_do_Guerreiro[4146] [61 141 0 0 0 0]
+[  4] - Frango_Assado[3314] [61 222 0 0 0 0]
+[  5] - Armadura(A)[1181] [43 237 71 70 2 30]
+[  6] - Armadura[1221] [120 240 2 30 71 70]
+[  8] - Carta_de_Duelo_(N)[3172] [0 0 0 0 0 0]
+[  9] - Baú_de_Experiência[4140] [61 90 0 0 0 0]
+[ 10] - Calça(A)[1184] [43 237 71 70 2 30]
+[ 11] - Calça[1222] [120 240 2 30 71 70]
+[ 13] - Jóia_da_Proteção[3205] [61 10 0 0 0 0]
+[ 14] - Jóia_do_Poder[3206] [61 11 0 0 0 0]
+[ 15] - Botas(A)[1190] [43 237 73 24 74 18]
+[ 16] - Botas[1224] [120 240 73 30 74 18]
+[ 18] - Baú_de_Caça[4139] [61 239 0 0 0 0]
+[ 19] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 20] - Luvas(A)[1187] [43 237 72 30 2 24]
+[ 21] - Luvas[1223] [120 240 54 18 72 30]
+[ 23] - Pedaço_do_Círc_Div_Comp[692] [59 148 59 214 59 143]
+[ 24] - Pedaço_do_Círc_Div_Comp[692] [59 254 59 18 59 206]
+[ 25] - Skeleton_Dagger[939] [43 9 0 0 0 0]
+[ 26] - Balmung(Anct)[2493] [2 45 43 240 0 0]
+[ 28] - Pedido_de_Caça(Kefra)[3436] [61 7 0 0 0 0]
+[ 30] - Skeleton_Dagger[939] [43 9 0 0 0 0]
+[ 31] - Balmung(Anct)[2493] [2 45 43 240 0 0]
+[ 35] - Pedra_Espiritual[633] [43 9 42 100 0 0]
+[ 36] - Cythera_Mística[3502] [43 241 0 0 0 0]
+[ 40] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[ 41] - Elmo(A)[1178] [0 0 60 12 3 20]
+[ 42] - Elmo(A)[1178] [0 0 60 12 4 60]
+[ 45] - Garnet[2444] [0 0 0 0 0 0]
+[ 46] - Armadura(A)[1181] [0 0 3 30 60 10]
+[ 47] - Armadura(A)[1181] [0 0 3 30 60 10]
+[ 49] - Brinco_de_Titã[592] [0 0 0 0 0 0]
+[ 50] - Garnet[2444] [0 0 0 0 0 0]
+[ 51] - Calça(A)[1184] [0 0 3 30 60 10]
+[ 52] - Calça(A)[1184] [0 0 3 30 60 10]
+[ 54] - Resto_de_Lactolerium[420] [61 5 0 0 0 0]
+[ 55] - Garnet[2444] [0 0 0 0 0 0]
+[ 56] - Luvas(A)[1187] [0 0 72 30 60 10]
+[ 57] - Luvas(A)[1187] [0 0 72 30 60 10]
+[ 60] - Garnet[2444] [0 0 0 0 0 0]
+[ 61] - Botas(A)[1190] [0 0 73 24 60 10]
+[ 62] - Botas(A)[1190] [0 0 73 24 60 10]
+[ 64] - Resto_de_Oriharucon[419] [61 18 0 0 0 0]
+[ 69] - Aranha[2360] [46 22 65 20 0 0]
+[ 80] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[ 81] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[ 82] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[ 84] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 85] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[ 86] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[ 89] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 90] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[ 91] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[ 94] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 95] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[ 96] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[ 99] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[100] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[101] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[104] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[105] - Emblema_da_Proteção[4043] [0 0 0 0 0 0]
+[106] - Poção_Poderosa[3431] [61 13 0 0 0 0]
+[108] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[109] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[110] - Emblema_da_Proteção[4043] [0 0 0 0 0 0]
+[111] - Pergaminho_da_Água(M)LV1[777] [61 49 0 0 0 0]
+[112] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[113] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[114] - Classe_C[4018] [61 4 0 0 0 0]
+[115] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 49 0 0 0 0]
+[117] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[118] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[119] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+
+15:39:13 : Solicitou ir ao mundo...
+15:39:13 : Recebido pedido para entrar no jogo
+15:39:13 : Recebido informação do personagem completa.
+15:39:13 : [lFlymber-MG] - [INFORMAÇÕES DA CONTA]
+Personagem online: lFlymber-MG
+Gold atual: 1912287360
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1106] [43 0 60 8 3 25]
+[02] - Armadura(N)[1116] [43 0 0 0 0 0]
+[03] - Calça(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas(N)[1140] [43 0 0 0 0 0]
+[05] - Botas(N)[1152] [43 0 0 0 0 0]
+[06] - Skeleton_Hammer[941] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Amuleto_de_Prata[551] [43 9 60 28 0 0]
+[01] - Brinco_de_Hecate[594] [0 0 0 0 0 0]
+[02] - Ankh_da_Justiça[661] [43 9 0 0 0 0]
+[03] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[04] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe(A)[1406] [43 0 3 20 59 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:39:13 : [lFlymber-MG] - Personagem lFlymber-MG enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 2808. PowerLevel: 179
+15:39:13 : [lFlymber-MG] - Gold atual: 1912287360. Classe: 0 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:39:13 : [lFlymber-MG] - Logou no personagem lFlymber-MG com poção divina ativo. Validade: 25/2/2021 10:58:44
+15:39:13 : [lFlymber-MG] - Logou no personagem lFlymber-MG com frango ativo. Tempo: 1125
+15:39:13 : [lFlymber-MG] - Logou no personagem lFlymber-MG com baú de experiência ativo. Tempo: 225
+15:39:13 : [lFlymber-MG] - Enviado informações do personagem
+15:39:15 : [lFlymber-MG] - Comando "/day "
+15:39:15 : [lFlymber-MG] - [Mensagem do servidor]> !#11 2
+15:39:24 : [lFlymber-MG] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:39:35 : [lFlymber-MG] - Matou o mob Porco de Guerra. GenerID: 4421
+15:39:44 : [lFlymber-MG] - BETASD12 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:39:44 : [lFlymber-MG] - 1 Personagem foi desconectado. Permaneceu 00:00:40 minutos online
+22:29:06 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD12) - IP: 189.25.48.65 Mac: (9B:DC:08:D8:9F:47). ClientId: 1
+22:29:06 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 2000000000
+22:29:06 : [INFORMAÇÕES DO BANCO]
+Gold: 2000000000
+[  0] - Elmo(A)[1178] [43 237 26 18 4 60]
+[  1] - Elmo(A)[1208] [43 237 3 25 26 18]
+[  3] - Selo_do_Guerreiro[4146] [61 141 0 0 0 0]
+[  4] - Frango_Assado[3314] [61 222 0 0 0 0]
+[  5] - Armadura(A)[1181] [43 237 71 70 2 30]
+[  6] - Armadura[1221] [120 240 2 30 71 70]
+[  8] - Carta_de_Duelo_(N)[3172] [0 0 0 0 0 0]
+[  9] - Baú_de_Experiência[4140] [61 90 0 0 0 0]
+[ 10] - Calça(A)[1184] [43 237 71 70 2 30]
+[ 11] - Calça[1222] [120 240 2 30 71 70]
+[ 13] - Jóia_da_Proteção[3205] [61 10 0 0 0 0]
+[ 14] - Jóia_do_Poder[3206] [61 11 0 0 0 0]
+[ 15] - Botas(A)[1190] [43 237 73 24 74 18]
+[ 16] - Botas[1224] [120 240 73 30 74 18]
+[ 18] - Baú_de_Caça[4139] [61 239 0 0 0 0]
+[ 19] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 20] - Luvas(A)[1187] [43 237 72 30 2 24]
+[ 21] - Luvas[1223] [120 240 54 18 72 30]
+[ 23] - Pedaço_do_Círc_Div_Comp[692] [59 148 59 214 59 143]
+[ 24] - Pedaço_do_Círc_Div_Comp[692] [59 254 59 18 59 206]
+[ 25] - Skeleton_Dagger[939] [43 9 0 0 0 0]
+[ 26] - Balmung(Anct)[2493] [2 45 43 240 0 0]
+[ 28] - Pedido_de_Caça(Kefra)[3436] [61 7 0 0 0 0]
+[ 30] - Skeleton_Dagger[939] [43 9 0 0 0 0]
+[ 31] - Balmung(Anct)[2493] [2 45 43 240 0 0]
+[ 35] - Pedra_Espiritual[633] [43 9 42 100 0 0]
+[ 36] - Cythera_Mística[3502] [43 241 0 0 0 0]
+[ 40] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[ 41] - Elmo(A)[1178] [0 0 60 12 3 20]
+[ 42] - Elmo(A)[1178] [0 0 60 12 4 60]
+[ 45] - Garnet[2444] [0 0 0 0 0 0]
+[ 46] - Armadura(A)[1181] [0 0 3 30 60 10]
+[ 47] - Armadura(A)[1181] [0 0 3 30 60 10]
+[ 49] - Brinco_de_Titã[592] [0 0 0 0 0 0]
+[ 50] - Garnet[2444] [0 0 0 0 0 0]
+[ 51] - Calça(A)[1184] [0 0 3 30 60 10]
+[ 52] - Calça(A)[1184] [0 0 3 30 60 10]
+[ 54] - Resto_de_Lactolerium[420] [61 5 0 0 0 0]
+[ 55] - Garnet[2444] [0 0 0 0 0 0]
+[ 56] - Luvas(A)[1187] [0 0 72 30 60 10]
+[ 57] - Luvas(A)[1187] [0 0 72 30 60 10]
+[ 60] - Garnet[2444] [0 0 0 0 0 0]
+[ 61] - Botas(A)[1190] [0 0 73 24 60 10]
+[ 62] - Botas(A)[1190] [0 0 73 24 60 10]
+[ 64] - Resto_de_Oriharucon[419] [61 18 0 0 0 0]
+[ 69] - Aranha[2360] [46 22 65 20 0 0]
+[ 80] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[ 81] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[ 82] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[ 84] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 85] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[ 86] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[ 89] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 90] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[ 91] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[ 94] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 95] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[ 96] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[ 99] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[100] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[101] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[104] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[105] - Emblema_da_Proteção[4043] [0 0 0 0 0 0]
+[106] - Poção_Poderosa[3431] [61 13 0 0 0 0]
+[108] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[109] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[110] - Emblema_da_Proteção[4043] [0 0 0 0 0 0]
+[111] - Pergaminho_da_Água(M)LV1[777] [61 49 0 0 0 0]
+[112] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[113] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[114] - Classe_C[4018] [61 4 0 0 0 0]
+[115] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 49 0 0 0 0]
+[117] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[118] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[119] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+
+22:29:06 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:29:18 : Solicitou ir ao mundo...
+22:29:18 : Recebido pedido para entrar no jogo
+22:29:18 : Recebido informação do personagem completa.
+22:29:18 : [lFlymber-MG] - [INFORMAÇÕES DA CONTA]
+Personagem online: lFlymber-MG
+Gold atual: 1912287360
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:12 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1106] [43 0 60 8 3 25]
+[02] - Armadura(N)[1116] [43 0 0 0 0 0]
+[03] - Calça(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas(N)[1140] [43 0 0 0 0 0]
+[05] - Botas(N)[1152] [43 0 0 0 0 0]
+[06] - Skeleton_Hammer[941] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Amuleto_de_Prata[551] [43 9 60 28 0 0]
+[01] - Brinco_de_Hecate[594] [0 0 0 0 0 0]
+[02] - Ankh_da_Justiça[661] [43 9 0 0 0 0]
+[03] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[04] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe(A)[1406] [43 0 3 20 59 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:29:18 : [lFlymber-MG] - Personagem lFlymber-MG enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 2808. PowerLevel: 179
+22:29:18 : [lFlymber-MG] - Gold atual: 1912287360. Classe: 0 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+22:29:18 : [lFlymber-MG] - Logou no personagem lFlymber-MG com poção divina ativo. Validade: 25/2/2021 10:58:44
+22:29:18 : [lFlymber-MG] - Logou no personagem lFlymber-MG com frango ativo. Tempo: 1121
+22:29:18 : [lFlymber-MG] - Logou no personagem lFlymber-MG com baú de experiência ativo. Tempo: 221
+22:29:18 : [lFlymber-MG] - Enviado informações do personagem
+22:29:19 : [lFlymber-MG] - Comando "/day "
+22:29:19 : [lFlymber-MG] - [Mensagem do servidor]> !#11 2
+22:29:26 : [lFlymber-MG] - Matou o mob Porco de Guerra. GenerID: 4421
+22:29:26 : [lFlymber-MG] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:29:27 : [lFlymber-MG] - Matou o mob Porco de Guerra. GenerID: 4419
+22:29:29 : [lFlymber-MG] - Matou o mob Porco de Guerra. GenerID: 4421
+22:29:30 : [lFlymber-MG] - Matou o mob Porco de Guerra. GenerID: 4420
+22:29:30 : [lFlymber-MG] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2121x 2043y - Porco de Guerra (1/30)
+22:29:32 : [lFlymber-MG] - Matou o mob Porco de Guerra. GenerID: 4422
+22:29:32 : [lFlymber-MG] - Dropado item Robe(A) [1406] [43 2 71 50 2 30] em 2122x 2044y - Porco de Guerra (1/67)
+22:29:38 : [lFlymber-MG] - BETASD12 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:29:38 : [lFlymber-MG] - 1 Personagem foi desconectado. Permaneceu 00:00:32 minutos online
+22:50:51 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD12) - IP: 189.25.48.65 Mac: (9B:DC:08:D8:9F:47). ClientId: 1
+22:50:51 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 2000000000
+22:50:51 : [INFORMAÇÕES DO BANCO]
+Gold: 2000000000
+[  0] - Elmo(A)[1178] [43 237 26 18 4 60]
+[  1] - Elmo(A)[1208] [43 237 3 25 26 18]
+[  3] - Selo_do_Guerreiro[4146] [61 141 0 0 0 0]
+[  4] - Frango_Assado[3314] [61 222 0 0 0 0]
+[  5] - Armadura(A)[1181] [43 237 71 70 2 30]
+[  6] - Armadura[1221] [120 240 2 30 71 70]
+[  8] - Carta_de_Duelo_(N)[3172] [0 0 0 0 0 0]
+[  9] - Baú_de_Experiência[4140] [61 90 0 0 0 0]
+[ 10] - Calça(A)[1184] [43 237 71 70 2 30]
+[ 11] - Calça[1222] [120 240 2 30 71 70]
+[ 13] - Jóia_da_Proteção[3205] [61 10 0 0 0 0]
+[ 14] - Jóia_do_Poder[3206] [61 11 0 0 0 0]
+[ 15] - Botas(A)[1190] [43 237 73 24 74 18]
+[ 16] - Botas[1224] [120 240 73 30 74 18]
+[ 18] - Baú_de_Caça[4139] [61 239 0 0 0 0]
+[ 19] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 20] - Luvas(A)[1187] [43 237 72 30 2 24]
+[ 21] - Luvas[1223] [120 240 54 18 72 30]
+[ 23] - Pedaço_do_Círc_Div_Comp[692] [59 148 59 214 59 143]
+[ 24] - Pedaço_do_Círc_Div_Comp[692] [59 254 59 18 59 206]
+[ 25] - Skeleton_Dagger[939] [43 9 0 0 0 0]
+[ 26] - Balmung(Anct)[2493] [2 45 43 240 0 0]
+[ 28] - Pedido_de_Caça(Kefra)[3436] [61 7 0 0 0 0]
+[ 30] - Skeleton_Dagger[939] [43 9 0 0 0 0]
+[ 31] - Balmung(Anct)[2493] [2 45 43 240 0 0]
+[ 35] - Pedra_Espiritual[633] [43 9 42 100 0 0]
+[ 36] - Cythera_Mística[3502] [43 241 0 0 0 0]
+[ 40] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[ 41] - Elmo(A)[1178] [0 0 60 12 3 20]
+[ 42] - Elmo(A)[1178] [0 0 60 12 4 60]
+[ 45] - Garnet[2444] [0 0 0 0 0 0]
+[ 46] - Armadura(A)[1181] [0 0 3 30 60 10]
+[ 47] - Armadura(A)[1181] [0 0 3 30 60 10]
+[ 49] - Brinco_de_Titã[592] [0 0 0 0 0 0]
+[ 50] - Garnet[2444] [0 0 0 0 0 0]
+[ 51] - Calça(A)[1184] [0 0 3 30 60 10]
+[ 52] - Calça(A)[1184] [0 0 3 30 60 10]
+[ 54] - Resto_de_Lactolerium[420] [61 5 0 0 0 0]
+[ 55] - Garnet[2444] [0 0 0 0 0 0]
+[ 56] - Luvas(A)[1187] [0 0 72 30 60 10]
+[ 57] - Luvas(A)[1187] [0 0 72 30 60 10]
+[ 60] - Garnet[2444] [0 0 0 0 0 0]
+[ 61] - Botas(A)[1190] [0 0 73 24 60 10]
+[ 62] - Botas(A)[1190] [0 0 73 24 60 10]
+[ 64] - Resto_de_Oriharucon[419] [61 18 0 0 0 0]
+[ 69] - Aranha[2360] [46 22 65 20 0 0]
+[ 80] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[ 81] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[ 82] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[ 84] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 85] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[ 86] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[ 89] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 90] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[ 91] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[ 94] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 95] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[ 96] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[ 99] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[100] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[101] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[104] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[105] - Emblema_da_Proteção[4043] [0 0 0 0 0 0]
+[106] - Poção_Poderosa[3431] [61 13 0 0 0 0]
+[108] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[109] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[110] - Emblema_da_Proteção[4043] [0 0 0 0 0 0]
+[111] - Pergaminho_da_Água(M)LV1[777] [61 49 0 0 0 0]
+[112] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[113] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[114] - Classe_C[4018] [61 4 0 0 0 0]
+[115] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 49 0 0 0 0]
+[117] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[118] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[119] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+
+22:51:06 : Solicitou ir ao mundo...
+22:51:06 : Recebido pedido para entrar no jogo
+22:51:06 : Recebido informação do personagem completa.
+22:51:06 : [lFlymber] - [INFORMAÇÕES DA CONTA]
+Personagem online: lFlymber
+Gold atual: 812386867
+Level atual: 102
+Experiência atual: 2042716320
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:14 horas
+Posição atual: 2502x 1711y
+
+Pontos NT: 12
+Entradas Hall: 21
+Info: 496
+Soul: 10
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 26/1/2021 11:23:25
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 2097107306
+SecLearn: 0
+Info: 515396076016
+Soul: 10
+
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 6 3 0 0]
+[02] - Armadura(A)[1211] [43 236 2 30 71 70]
+[03] - Calça(A)[1214] [43 236 2 30 71 70]
+[04] - Luvas(A)[1217] [43 236 54 18 72 30]
+[05] - Botas(A)[1220] [43 236 73 30 74 18]
+[06] - Martelo_Assassino(Anct)[2489] [2 45 43 236 0 0]
+[07] - Martelo_Assassino(Anct)[2489] [2 45 43 236 0 0]
+[08] - Brinco_de_Hercules[595] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 42 100 0 0]
+[11] - Pedra_Espiritual[633] [43 9 42 100 0 0]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 6 108 20]
+[14] - Grifo_Sangrento[2386] [192 84 100 60 10 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[45] - Conjunto_Kalintz(M)[4155] [96 25 2 21 0 32]
+[48] - Pergaminho_de_Portal(10)[776] [61 8 0 0 0 0]
+[49] - Poeira_de_Oriharucon[412] [61 45 0 0 0 0]
+[54] - Poeira_de_Lactolerium[413] [61 74 0 0 0 0]
+[55] - Pedra_Misteriosa[4148] [61 97 0 0 0 0]
+[59] - Ração_de_Grifo[2430] [96 1 61 97 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 25 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 25 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:51:06 : [lFlymber] - Personagem lFlymber enviado ao mundo 2502x 1711y - Canal 1 - Cash da conta: 2808. PowerLevel: 7810
+22:51:06 : [lFlymber] - Gold atual: 812386867. Classe: 0 Evolução: 3. Experiência: 2042716320. Nível: 102. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+22:51:06 : [lFlymber] - Logou no personagem lFlymber com poção divina ativo. Validade: 25/2/2021 10:58:44
+22:51:06 : [lFlymber] - Logou no personagem lFlymber com frango ativo. Tempo: 1771
+22:51:06 : [lFlymber] - Logou no personagem lFlymber com baú de experiência ativo. Tempo: 37980
+22:51:06 : [lFlymber] - Evolução logada: 3
+22:51:06 : [lFlymber] - Dados da capa um: [3199] [43 9 0 0 0 0]
+22:51:06 : [lFlymber] - Dados da capa dois: [0] [0 0 0 0 0 0]
+22:51:06 : [lFlymber] - Não foi efetuado a troca pois a refinação atual é maior
+22:51:06 : [lFlymber] - Enviado informações do personagem
+22:51:07 : [lFlymber] - Comando "/day "
+22:51:07 : [lFlymber] - [Mensagem do servidor]> !#11 2
+22:51:15 : [lFlymber] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:51:15 : [lFlymber] - Clicado no NPC [Tera]. Face 18. Race: 2. GenerateId: 1237. Posição do usuário: 2475x 1696y. Posição do NPC: 2475x 1687y
+22:51:28 : [lFlymber] - Moveu item Armadura(A) [1181] [0 0 3 30 60 10] do tipo BANCO do slot 46 para tipo INVENTÁRIO slot 0
+22:51:29 : [lFlymber] - Moveu item Armadura(A) [1181] [0 0 3 30 60 10] do tipo BANCO do slot 47 para tipo INVENTÁRIO slot 5
+22:51:29 : [lFlymber] - Moveu item Calça(A) [1184] [0 0 3 30 60 10] do tipo BANCO do slot 52 para tipo INVENTÁRIO slot 10
+22:51:30 : [lFlymber] - Moveu item Calça(A) [1184] [0 0 3 30 60 10] do tipo BANCO do slot 51 para tipo INVENTÁRIO slot 1
+22:51:30 : [lFlymber] - Moveu item Luvas(A) [1187] [0 0 72 30 60 10] do tipo BANCO do slot 56 para tipo INVENTÁRIO slot 6
+22:51:31 : [lFlymber] - Moveu item Luvas(A) [1187] [0 0 72 30 60 10] do tipo BANCO do slot 57 para tipo INVENTÁRIO slot 11
+22:51:31 : [lFlymber] - Moveu item Botas(A) [1190] [0 0 73 24 60 10] do tipo BANCO do slot 62 para tipo INVENTÁRIO slot 2
+22:51:31 : [lFlymber] - Moveu item Botas(A) [1190] [0 0 73 24 60 10] do tipo BANCO do slot 61 para tipo INVENTÁRIO slot 7
+22:51:37 : [lFlymber] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo BANCO do slot 108 para tipo INVENTÁRIO slot 12
+22:51:38 : [lFlymber] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo BANCO do slot 112 para tipo INVENTÁRIO slot 3
+22:51:38 : [lFlymber] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo BANCO do slot 117 para tipo INVENTÁRIO slot 8
+22:51:38 : [lFlymber] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo BANCO do slot 118 para tipo INVENTÁRIO slot 13
+22:51:39 : [lFlymber] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo BANCO do slot 113 para tipo INVENTÁRIO slot 4
+22:51:39 : [lFlymber] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo BANCO do slot 119 para tipo INVENTÁRIO slot 9
+22:51:41 : [lFlymber] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2475x 1696y
+22:51:41 : [lFlymber] - Gold atual: 812386867.
+22:51:41 : [lFlymber] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2475x 1696y
+22:51:41 : [lFlymber] - Gold atual: 912386867.
+22:51:41 : [lFlymber] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2475x 1696y
+22:51:41 : [lFlymber] - O usuário usou itens muito rapidamente. Tempo para usar o item: 164. Item: Barra_de_Prata(100Mi)
+22:51:41 : [lFlymber] - Gold atual: 1012386867.
+22:51:41 : [lFlymber] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2475x 1696y
+22:51:41 : [lFlymber] - Gold atual: 1112386867.
+22:51:42 : [lFlymber] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2475x 1696y
+22:51:42 : [lFlymber] - Gold atual: 1212386867.
+22:51:42 : [lFlymber] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2475x 1696y
+22:51:42 : [lFlymber] - Gold atual: 1312386867.
+22:51:50 : [lFlymber] - Moveu item Armadura [1221] [120 240 2 30 71 70] do tipo BANCO do slot 6 para tipo BANCO slot 7
+22:51:51 : [lFlymber] - Moveu item Calça [1222] [120 240 2 30 71 70] do tipo BANCO do slot 11 para tipo BANCO slot 12
+22:51:52 : [lFlymber] - Moveu item Botas [1224] [120 240 73 30 74 18] do tipo BANCO do slot 16 para tipo BANCO slot 17
+22:51:53 : [lFlymber] - Moveu item Luvas [1223] [120 240 54 18 72 30] do tipo BANCO do slot 21 para tipo BANCO slot 22
+22:51:55 : [lFlymber] - Moveu item Balmung(Anct) [2493] [2 45 43 240 0 0] do tipo BANCO do slot 26 para tipo BANCO slot 27
+22:51:56 : [lFlymber] - Moveu item Balmung(Anct) [2493] [2 45 43 240 0 0] do tipo BANCO do slot 31 para tipo BANCO slot 32
+22:51:58 : [lFlymber] - Moveu item Cythera_Mística [3502] [43 241 0 0 0 0] do tipo BANCO do slot 36 para tipo BANCO slot 2
+22:52:04 : [lFlymber] - Moveu item Armadura(A) [1211] [43 236 2 30 71 70] do tipo EQUIPAMENTO do slot 2 para tipo BANCO slot 6
+22:52:05 : [lFlymber] - Moveu item Luvas(A) [1217] [43 236 54 18 72 30] do tipo EQUIPAMENTO do slot 4 para tipo BANCO slot 11
+22:52:07 : [lFlymber] - Moveu item Calça(A) [1214] [43 236 2 30 71 70] do tipo EQUIPAMENTO do slot 3 para tipo BANCO slot 16
+22:52:09 : [lFlymber] - Moveu item Botas(A) [1220] [43 236 73 30 74 18] do tipo EQUIPAMENTO do slot 5 para tipo BANCO slot 21
+22:52:11 : [lFlymber] - Moveu item Martelo_Assassino(Anct) [2489] [2 45 43 236 0 0] do tipo EQUIPAMENTO do slot 7 para tipo BANCO slot 26
+22:52:13 : [lFlymber] - Moveu item Martelo_Assassino(Anct) [2489] [2 45 43 236 0 0] do tipo EQUIPAMENTO do slot 6 para tipo BANCO slot 31
+22:52:27 : [lFlymber] - Moveu item Poeira_de_Oriharucon [412] [61 45 0 0 0 0] do tipo INVENTÁRIO do slot 49 para tipo INVENTÁRIO slot 12
+22:52:29 : [lFlymber] - Moveu item Poeira_de_Lactolerium [413] [61 74 0 0 0 0] do tipo INVENTÁRIO do slot 54 para tipo INVENTÁRIO slot 13
+22:52:34 : [lFlymber] - Moveu item Armadura(A) [1181] [0 0 3 30 60 10] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 2
+22:52:39 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 45 0 0 0 0] utilizado em 0x 0y
+22:52:39 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:52:39 : [lFlymber] - Item Armadura(A) refinado com sucesso para 1 - [1181] [0 0 3 30 60 10] 28/100
+22:52:41 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 44 0 0 0 0] utilizado em 0x 0y
+22:52:41 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:52:41 : [lFlymber] - Item Armadura(A) refinado com sucesso para 2 - [1181] [43 1 3 30 60 10] 18/100
+22:52:43 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 43 0 0 0 0] utilizado em 0x 0y
+22:52:43 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:52:43 : [lFlymber] - Item Armadura(A) refinado com sucesso para 3 - [1181] [43 2 3 30 60 10] 27/95
+22:52:44 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 42 0 0 0 0] utilizado em 0x 0y
+22:52:44 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:52:44 : [lFlymber] - Item Armadura(A) refinado com sucesso para 4 - [1181] [43 3 3 30 60 10] 0/85
+22:52:46 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 41 0 0 0 0] utilizado em 0x 0y
+22:52:46 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:52:46 : [lFlymber] - Item Armadura(A) refinado com sucesso para 5 - [1181] [43 4 3 30 60 10] 38/80
+22:52:48 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 40 0 0 0 0] utilizado em 0x 0y
+22:52:48 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:52:48 : [lFlymber] - Item Armadura(A) refinado com sucesso para 6 - [1181] [43 5 3 30 60 10] 0/80
+22:52:50 : [lFlymber] - Moveu item Calça(A) [1184] [0 0 3 30 60 10] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 3
+22:52:51 : [lFlymber] - Moveu item Botas(A) [1190] [0 0 73 24 60 10] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 5
+22:52:51 : [lFlymber] - Moveu item Luvas(A) [1187] [0 0 72 30 60 10] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 4
+22:52:53 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 39 0 0 0 0] utilizado em 0x 0y
+22:52:53 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:52:53 : [lFlymber] - Item Luvas(A) refinado com sucesso para 1 - [1187] [0 0 72 30 60 10] 4/100
+22:52:54 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 38 0 0 0 0] utilizado em 0x 0y
+22:52:54 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:52:54 : [lFlymber] - Item Luvas(A) refinado com sucesso para 2 - [1187] [43 1 72 30 60 10] 31/100
+22:52:56 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 37 0 0 0 0] utilizado em 0x 0y
+22:52:56 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:52:56 : [lFlymber] - Item Luvas(A) refinado com sucesso para 3 - [1187] [43 2 72 30 60 10] 2/95
+22:52:57 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 36 0 0 0 0] utilizado em 0x 0y
+22:52:57 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:52:57 : [lFlymber] - Item Luvas(A) refinado com sucesso para 4 - [1187] [43 3 72 30 60 10] 69/85
+22:52:59 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 35 0 0 0 0] utilizado em 0x 0y
+22:52:59 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:52:59 : [lFlymber] - Item Luvas(A) refinado com sucesso para 5 - [1187] [43 4 72 30 60 10] 58/80
+22:53:00 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 34 0 0 0 0] utilizado em 0x 0y
+22:53:00 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:00 : [lFlymber] - Item Luvas(A) refinado com sucesso para 6 - [1187] [43 5 72 30 60 10] 29/80
+22:53:02 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 33 0 0 0 0] utilizado em 0x 0y
+22:53:02 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:02 : [lFlymber] - Item Calça(A) refinado com sucesso para 1 - [1184] [0 0 3 30 60 10] 71/100
+22:53:03 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 32 0 0 0 0] utilizado em 0x 0y
+22:53:03 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:03 : [lFlymber] - Item Calça(A) refinado com sucesso para 2 - [1184] [43 1 3 30 60 10] 31/100
+22:53:04 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 31 0 0 0 0] utilizado em 0x 0y
+22:53:04 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:04 : [lFlymber] - Item Calça(A) refinado com sucesso para 3 - [1184] [43 2 3 30 60 10] 27/95
+22:53:07 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 30 0 0 0 0] utilizado em 0x 0y
+22:53:07 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:53:07 : [lFlymber] - Falha na refinação de Calça(A) para 4 - [1184] [43 3 3 30 60 10] 91/85
+22:53:09 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 29 0 0 0 0] utilizado em 0x 0y
+22:53:09 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:53:09 : [lFlymber] - Falha na refinação de Calça(A) para 4 - [1184] [43 3 3 30 60 10] 99/85
+22:53:10 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 28 0 0 0 0] utilizado em 0x 0y
+22:53:10 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:10 : [lFlymber] - Item Calça(A) refinado com sucesso para 4 - [1184] [43 3 3 30 60 10] 45/85
+22:53:12 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 27 0 0 0 0] utilizado em 0x 0y
+22:53:12 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:12 : [lFlymber] - Item Calça(A) refinado com sucesso para 5 - [1184] [43 4 3 30 60 10] 58/80
+22:53:14 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 26 0 0 0 0] utilizado em 0x 0y
+22:53:14 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:14 : [lFlymber] - Item Calça(A) refinado com sucesso para 6 - [1184] [43 5 3 30 60 10] 78/80
+22:53:17 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 25 0 0 0 0] utilizado em 0x 0y
+22:53:17 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:17 : [lFlymber] - Item Botas(A) refinado com sucesso para 1 - [1190] [0 0 73 24 60 10] 15/100
+22:53:19 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 24 0 0 0 0] utilizado em 0x 0y
+22:53:19 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:19 : [lFlymber] - Item Botas(A) refinado com sucesso para 2 - [1190] [43 1 73 24 60 10] 41/100
+22:53:20 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 23 0 0 0 0] utilizado em 0x 0y
+22:53:20 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:53:20 : [lFlymber] - Falha na refinação de Botas(A) para 3 - [1190] [43 2 73 24 60 10] 98/95
+22:53:22 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 22 0 0 0 0] utilizado em 0x 0y
+22:53:22 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:22 : [lFlymber] - Item Botas(A) refinado com sucesso para 3 - [1190] [43 2 73 24 60 10] 39/95
+22:53:23 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 21 0 0 0 0] utilizado em 0x 0y
+22:53:23 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:53:23 : [lFlymber] - Falha na refinação de Botas(A) para 4 - [1190] [43 3 73 24 60 10] 89/85
+22:53:25 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 20 0 0 0 0] utilizado em 0x 0y
+22:53:25 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:25 : [lFlymber] - Item Botas(A) refinado com sucesso para 4 - [1190] [43 3 73 24 60 10] 83/85
+22:53:26 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 19 0 0 0 0] utilizado em 0x 0y
+22:53:26 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:26 : [lFlymber] - Item Botas(A) refinado com sucesso para 5 - [1190] [43 4 73 24 60 10] 0/80
+22:53:29 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 18 0 0 0 0] utilizado em 0x 0y
+22:53:29 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:29 : [lFlymber] - Item Botas(A) refinado com sucesso para 6 - [1190] [43 5 73 24 60 10] 30/80
+22:53:33 : [lFlymber] - Moveu item Poeira_de_Lactolerium [413] [61 74 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo INVENTÁRIO slot 0
+22:53:34 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 74 0 0 0 0] utilizado em 0x 0y
+22:53:34 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:34 : [lFlymber] - Item Armadura(A) refinado com sucesso para 7 - [1181] [43 6 3 30 60 10] 65/75
+22:53:36 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 73 0 0 0 0] utilizado em 0x 0y
+22:53:36 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:36 : [lFlymber] - Item Armadura(A) refinado com sucesso para 8 - [1181] [43 7 3 30 60 10] 26/50
+22:53:37 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 72 0 0 0 0] utilizado em 0x 0y
+22:53:37 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:53:37 : [lFlymber] - Falha na refinação de Armadura(A) para 9 - [1181] [43 8 3 30 60 10] 47/45
+22:53:39 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 71 0 0 0 0] utilizado em 0x 0y
+22:53:39 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:53:39 : [lFlymber] - Falha na refinação de Armadura(A) para 9 - [1181] [43 8 3 30 60 10] 99/45
+22:53:42 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 70 0 0 0 0] utilizado em 0x 0y
+22:53:42 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:42 : [lFlymber] - Item Armadura(A) refinado com sucesso para 9 - [1181] [43 8 3 30 60 10] 40/45
+22:53:44 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 69 0 0 0 0] utilizado em 0x 0y
+22:53:44 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:44 : [lFlymber] - Item Luvas(A) refinado com sucesso para 7 - [1187] [43 6 72 30 60 10] 19/75
+22:53:45 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 68 0 0 0 0] utilizado em 0x 0y
+22:53:45 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:53:45 : [lFlymber] - Falha na refinação de Luvas(A) para 8 - [1187] [43 7 72 30 60 10] 86/50
+22:53:47 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 67 0 0 0 0] utilizado em 0x 0y
+22:53:47 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:53:47 : [lFlymber] - Falha na refinação de Luvas(A) para 8 - [1187] [43 7 72 30 60 10] 89/50
+22:53:48 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 66 0 0 0 0] utilizado em 0x 0y
+22:53:48 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:48 : [lFlymber] - Item Luvas(A) refinado com sucesso para 8 - [1187] [43 7 72 30 60 10] 22/50
+22:53:50 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 65 0 0 0 0] utilizado em 0x 0y
+22:53:50 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:53:50 : [lFlymber] - Falha na refinação de Luvas(A) para 9 - [1187] [43 8 72 30 60 10] 73/45
+22:53:52 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 64 0 0 0 0] utilizado em 0x 0y
+22:53:52 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:52 : [lFlymber] - Item Luvas(A) refinado com sucesso para 9 - [1187] [43 8 72 30 60 10] 17/45
+22:53:54 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 63 0 0 0 0] utilizado em 0x 0y
+22:53:54 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:53:54 : [lFlymber] - Falha na refinação de Calça(A) para 7 - [1184] [43 6 3 30 60 10] 83/75
+22:53:56 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 62 0 0 0 0] utilizado em 0x 0y
+22:53:56 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:56 : [lFlymber] - Item Calça(A) refinado com sucesso para 7 - [1184] [43 6 3 30 60 10] 15/75
+22:53:57 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 61 0 0 0 0] utilizado em 0x 0y
+22:53:57 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:53:57 : [lFlymber] - Falha na refinação de Calça(A) para 8 - [1184] [43 7 3 30 60 10] 55/50
+22:53:58 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 60 0 0 0 0] utilizado em 0x 0y
+22:53:58 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:53:58 : [lFlymber] - Item Calça(A) refinado com sucesso para 8 - [1184] [43 7 3 30 60 10] 43/50
+22:54:00 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 59 0 0 0 0] utilizado em 0x 0y
+22:54:00 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:54:00 : [lFlymber] - Falha na refinação de Calça(A) para 9 - [1184] [43 8 3 30 60 10] 69/45
+22:54:02 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 58 0 0 0 0] utilizado em 0x 0y
+22:54:02 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:02 : [lFlymber] - Item Calça(A) refinado com sucesso para 9 - [1184] [43 8 3 30 60 10] 28/45
+22:54:05 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 57 0 0 0 0] utilizado em 0x 0y
+22:54:05 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:05 : [lFlymber] - Item Botas(A) refinado com sucesso para 7 - [1190] [43 6 73 24 60 10] 71/75
+22:54:06 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 56 0 0 0 0] utilizado em 0x 0y
+22:54:06 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:06 : [lFlymber] - Item Botas(A) refinado com sucesso para 8 - [1190] [43 7 73 24 60 10] 7/50
+22:54:08 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 55 0 0 0 0] utilizado em 0x 0y
+22:54:08 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:54:08 : [lFlymber] - Falha na refinação de Botas(A) para 9 - [1190] [43 8 73 24 60 10] 67/45
+22:54:09 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 54 0 0 0 0] utilizado em 0x 0y
+22:54:09 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:54:09 : [lFlymber] - Falha na refinação de Botas(A) para 9 - [1190] [43 8 73 24 60 10] 71/45
+22:54:12 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 53 0 0 0 0] utilizado em 0x 0y
+22:54:12 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:12 : [lFlymber] - Item Botas(A) refinado com sucesso para 9 - [1190] [43 8 73 24 60 10] 19/45
+22:54:15 : [lFlymber] - Moveu item Armadura(A) [1181] [0 0 3 30 60 10] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+22:54:15 : [lFlymber] - Moveu item Calça(A) [1184] [0 0 3 30 60 10] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 3
+22:54:16 : [lFlymber] - Moveu item Luvas(A) [1187] [0 0 72 30 60 10] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 4
+22:54:16 : [lFlymber] - Moveu item Botas(A) [1190] [0 0 73 24 60 10] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 5
+22:54:19 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 17 0 0 0 0] utilizado em 0x 0y
+22:54:19 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:19 : [lFlymber] - Item Armadura(A) refinado com sucesso para 1 - [1181] [0 0 3 30 60 10] 83/100
+22:54:20 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 16 0 0 0 0] utilizado em 0x 0y
+22:54:21 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:21 : [lFlymber] - Item Armadura(A) refinado com sucesso para 2 - [1181] [43 1 3 30 60 10] 71/100
+22:54:22 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 15 0 0 0 0] utilizado em 0x 0y
+22:54:22 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:22 : [lFlymber] - Item Armadura(A) refinado com sucesso para 3 - [1181] [43 2 3 30 60 10] 57/95
+22:54:23 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 14 0 0 0 0] utilizado em 0x 0y
+22:54:23 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:23 : [lFlymber] - Item Armadura(A) refinado com sucesso para 4 - [1181] [43 3 3 30 60 10] 25/85
+22:54:25 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 13 0 0 0 0] utilizado em 0x 0y
+22:54:25 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:54:25 : [lFlymber] - Falha na refinação de Armadura(A) para 5 - [1181] [43 4 3 30 60 10] 87/80
+22:54:27 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 12 0 0 0 0] utilizado em 0x 0y
+22:54:27 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:27 : [lFlymber] - Item Armadura(A) refinado com sucesso para 5 - [1181] [43 4 3 30 60 10] 45/80
+22:54:28 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 11 0 0 0 0] utilizado em 0x 0y
+22:54:28 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:28 : [lFlymber] - Item Armadura(A) refinado com sucesso para 6 - [1181] [43 5 3 30 60 10] 19/80
+22:54:31 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 10 0 0 0 0] utilizado em 0x 0y
+22:54:31 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:31 : [lFlymber] - Item Luvas(A) refinado com sucesso para 1 - [1187] [0 0 72 30 60 10] 63/100
+22:54:32 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 9 0 0 0 0] utilizado em 0x 0y
+22:54:32 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:32 : [lFlymber] - Item Luvas(A) refinado com sucesso para 2 - [1187] [43 1 72 30 60 10] 25/100
+22:54:33 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 8 0 0 0 0] utilizado em 0x 0y
+22:54:33 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:33 : [lFlymber] - Item Luvas(A) refinado com sucesso para 3 - [1187] [43 2 72 30 60 10] 61/95
+22:54:35 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 7 0 0 0 0] utilizado em 0x 0y
+22:54:35 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:35 : [lFlymber] - Item Luvas(A) refinado com sucesso para 4 - [1187] [43 3 72 30 60 10] 63/85
+22:54:36 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 6 0 0 0 0] utilizado em 0x 0y
+22:54:36 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:36 : [lFlymber] - Item Luvas(A) refinado com sucesso para 5 - [1187] [43 4 72 30 60 10] 24/80
+22:54:46 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 5 0 0 0 0] utilizado em 0x 0y
+22:54:46 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:54:46 : [lFlymber] - Falha na refinação de Luvas(A) para 6 - [1187] [43 5 72 30 60 10] 83/80
+22:54:49 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 4 0 0 0 0] utilizado em 0x 0y
+22:54:49 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:49 : [lFlymber] - Item Luvas(A) refinado com sucesso para 6 - [1187] [43 5 72 30 60 10] 4/80
+22:54:51 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 3 0 0 0 0] utilizado em 0x 0y
+22:54:51 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:51 : [lFlymber] - Item Calça(A) refinado com sucesso para 1 - [1184] [0 0 3 30 60 10] 76/100
+22:54:53 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 2 0 0 0 0] utilizado em 0x 0y
+22:54:53 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:53 : [lFlymber] - Item Calça(A) refinado com sucesso para 2 - [1184] [43 1 3 30 60 10] 2/100
+22:54:55 : [lFlymber] - Item Poeira_de_Oriharucon [412] [61 1 0 0 0 0] utilizado em 0x 0y
+22:54:55 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:55 : [lFlymber] - Item Calça(A) refinado com sucesso para 3 - [1184] [43 2 3 30 60 10] 90/95
+22:54:57 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 52 0 0 0 0] utilizado em 0x 0y
+22:54:57 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:57 : [lFlymber] - Item Calça(A) refinado com sucesso para 4 - [1184] [43 3 3 30 60 10] 36/100
+22:54:58 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 51 0 0 0 0] utilizado em 0x 0y
+22:54:58 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:58 : [lFlymber] - Item Calça(A) refinado com sucesso para 5 - [1184] [43 4 3 30 60 10] 36/100
+22:54:59 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 50 0 0 0 0] utilizado em 0x 0y
+22:54:59 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:54:59 : [lFlymber] - Item Calça(A) refinado com sucesso para 6 - [1184] [43 5 3 30 60 10] 37/100
+22:55:01 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 49 0 0 0 0] utilizado em 0x 0y
+22:55:01 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:55:01 : [lFlymber] - Item Calça(A) refinado com sucesso para 7 - [1184] [43 6 3 30 60 10] 22/75
+22:55:03 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 48 0 0 0 0] utilizado em 0x 0y
+22:55:03 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:55:03 : [lFlymber] - Item Calça(A) refinado com sucesso para 8 - [1184] [43 7 3 30 60 10] 44/50
+22:55:04 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 47 0 0 0 0] utilizado em 0x 0y
+22:55:04 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:55:04 : [lFlymber] - Falha na refinação de Calça(A) para 9 - [1184] [43 8 3 30 60 10] 98/45
+22:55:06 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 46 0 0 0 0] utilizado em 0x 0y
+22:55:06 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:55:06 : [lFlymber] - Falha na refinação de Calça(A) para 9 - [1184] [43 8 3 30 60 10] 51/45
+22:55:08 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 45 0 0 0 0] utilizado em 0x 0y
+22:55:08 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:55:08 : [lFlymber] - Item Calça(A) refinado com sucesso para 9 - [1184] [43 8 3 30 60 10] 11/45
+22:55:10 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 44 0 0 0 0] utilizado em 0x 0y
+22:55:10 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:55:10 : [lFlymber] - Item Botas(A) refinado com sucesso para 1 - [1190] [0 0 73 24 60 10] 71/100
+22:55:12 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 43 0 0 0 0] utilizado em 0x 0y
+22:55:12 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:55:12 : [lFlymber] - Item Botas(A) refinado com sucesso para 2 - [1190] [43 1 73 24 60 10] 23/100
+22:55:13 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 42 0 0 0 0] utilizado em 0x 0y
+22:55:13 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:55:13 : [lFlymber] - Item Botas(A) refinado com sucesso para 3 - [1190] [43 2 73 24 60 10] 4/100
+22:55:15 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 41 0 0 0 0] utilizado em 0x 0y
+22:55:15 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:55:15 : [lFlymber] - Item Botas(A) refinado com sucesso para 4 - [1190] [43 3 73 24 60 10] 16/100
+22:55:16 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 40 0 0 0 0] utilizado em 0x 0y
+22:55:16 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:55:16 : [lFlymber] - Item Botas(A) refinado com sucesso para 5 - [1190] [43 4 73 24 60 10] 35/100
+22:55:18 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 39 0 0 0 0] utilizado em 0x 0y
+22:55:18 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:55:18 : [lFlymber] - Item Botas(A) refinado com sucesso para 6 - [1190] [43 5 73 24 60 10] 53/100
+22:55:19 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 38 0 0 0 0] utilizado em 0x 0y
+22:55:19 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:55:19 : [lFlymber] - Falha na refinação de Botas(A) para 7 - [1190] [43 6 73 24 60 10] 77/75
+22:55:21 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 37 0 0 0 0] utilizado em 0x 0y
+22:55:21 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:55:21 : [lFlymber] - Item Botas(A) refinado com sucesso para 7 - [1190] [43 6 73 24 60 10] 26/75
+22:55:23 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 36 0 0 0 0] utilizado em 0x 0y
+22:55:23 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:55:23 : [lFlymber] - Item Botas(A) refinado com sucesso para 8 - [1190] [43 7 73 24 60 10] 38/50
+22:55:24 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 35 0 0 0 0] utilizado em 0x 0y
+22:55:24 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:55:24 : [lFlymber] - Falha na refinação de Botas(A) para 9 - [1190] [43 8 73 24 60 10] 50/45
+22:55:26 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 34 0 0 0 0] utilizado em 0x 0y
+22:55:26 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:55:26 : [lFlymber] - Falha na refinação de Botas(A) para 9 - [1190] [43 8 73 24 60 10] 90/45
+22:55:29 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 33 0 0 0 0] utilizado em 0x 0y
+22:55:29 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:55:29 : [lFlymber] - Falha na refinação de Botas(A) para 9 - [1190] [43 8 73 24 60 10] 56/45
+22:55:31 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 32 0 0 0 0] utilizado em 0x 0y
+22:55:31 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:55:31 : [lFlymber] - Item Botas(A) refinado com sucesso para 9 - [1190] [43 8 73 24 60 10] 18/45
+22:55:37 : [lFlymber] - Moveu item Botas(A) [1190] [43 9 73 24 60 10] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 50
+22:55:38 : [lFlymber] - Moveu item Calça(A) [1184] [43 9 3 30 60 10] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 51
+22:55:39 : [lFlymber] - Moveu item Luvas(A) [1187] [43 6 72 30 60 10] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 52
+22:55:41 : [lFlymber] - Moveu item Armadura(A) [1181] [43 6 3 30 60 10] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 54
+22:55:42 : [lFlymber] - Moveu item Armadura(A) [1181] [43 6 3 30 60 10] do tipo INVENTÁRIO do slot 54 para tipo INVENTÁRIO slot 53
+22:55:44 : [lFlymber] - Moveu item Pergaminho_de_Portal(10) [776] [61 8 0 0 0 0] do tipo INVENTÁRIO do slot 48 para tipo INVENTÁRIO slot 58
+22:55:45 : [lFlymber] - Moveu item Conjunto_Kalintz(M) [4155] [96 25 2 21 0 32] do tipo INVENTÁRIO do slot 45 para tipo INVENTÁRIO slot 56
+22:55:48 : [lFlymber] - Moveu item Armadura(A) [1181] [43 9 3 30 60 10] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 45
+22:55:50 : [lFlymber] - Moveu item Botas(A) [1190] [43 9 73 24 60 10] do tipo INVENTÁRIO do slot 7 para tipo INVENTÁRIO slot 46
+22:55:52 : [lFlymber] - Moveu item Calça(A) [1184] [43 9 3 30 60 10] do tipo INVENTÁRIO do slot 10 para tipo INVENTÁRIO slot 47
+22:55:54 : [lFlymber] - Moveu item Luvas(A) [1187] [43 9 72 30 60 10] do tipo INVENTÁRIO do slot 11 para tipo INVENTÁRIO slot 48
+22:55:55 : [lFlymber] - Moveu item Armadura(A) [1181] [43 9 3 30 60 10] do tipo INVENTÁRIO do slot 45 para tipo INVENTÁRIO slot 48
+22:55:57 : [lFlymber] - Moveu item Calça(A) [1184] [43 9 3 30 60 10] do tipo INVENTÁRIO do slot 47 para tipo INVENTÁRIO slot 46
+22:55:59 : [lFlymber] - Moveu item Luvas(A) [1187] [43 9 72 30 60 10] do tipo INVENTÁRIO do slot 45 para tipo INVENTÁRIO slot 47
+22:56:04 : [lFlymber] - Moveu item Poeira_de_Lactolerium [413] [61 31 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo INVENTÁRIO slot 54
+22:56:08 : [lFlymber] - Clicado no NPC [Tera]. Face 18. Race: 2. GenerateId: 1237. Posição do usuário: 2475x 1696y. Posição do NPC: 2476x 1688y
+22:56:13 : [lFlymber] - Moveu item Pedra_do_Sábio [1774] [0 0 0 0 0 0] do tipo BANCO do slot 40 para tipo INVENTÁRIO slot 0
+22:56:13 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo BANCO do slot 45 para tipo INVENTÁRIO slot 5
+22:56:15 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 1
+22:56:18 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo BANCO do slot 50 para tipo INVENTÁRIO slot 2
+22:56:19 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo BANCO do slot 55 para tipo INVENTÁRIO slot 3
+22:56:21 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo BANCO do slot 60 para tipo INVENTÁRIO slot 4
+22:56:29 : [lFlymber] - Teleportado para a posição 2117 2102
+22:56:43 : [lFlymber] - Moveu item Pedra_do_Sábio [1774] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo INVENTÁRIO slot 10
+22:56:53 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 15 para tipo INVENTÁRIO slot 16
+22:57:00 : [lFlymber] - Moveu item Pedra_do_Sábio [1774] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo INVENTÁRIO slot 25
+22:57:01 : [lFlymber] - Moveu item Pedra_do_Sábio [1774] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 18 para tipo INVENTÁRIO slot 20
+22:57:20 : [lFlymber] - Moveu item Pedra_do_Sábio [1774] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 32 para tipo INVENTÁRIO slot 40
+22:57:21 : [lFlymber] - Moveu item Pedra_do_Sábio [1774] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 31 para tipo INVENTÁRIO slot 35
+22:57:37 : [lFlymber] - Teleportado para a posição 960 1761
+22:57:41 : [lFlymber] - Teleportado para a posição 2482 1717
+22:57:50 : [lFlymber] - Clicado no NPC [Aylin]. Face 55. Race: 2. GenerateId: 3287. Posição do usuário: 2529x 1724y. Posição do NPC: 2529x 1725y
+22:57:57 : [lFlymber] - Aylin - Item 0 Botas(A) [1190] [43 9 73 24 60 10]
+22:57:57 : [lFlymber] - Aylin - Item 1 Botas(A) [1190] [43 9 73 24 60 10]
+22:57:57 : [lFlymber] - Aylin - Item 2 Pedra_do_Sábio [1774] [0 0 0 0 0 0]
+22:57:57 : [lFlymber] - Aylin - Item 3 Garnet [2444] [0 0 0 0 0 0]
+22:57:57 : [lFlymber] - Aylin - Item 4 Garnet [2444] [0 0 0 0 0 0]
+22:57:57 : [lFlymber] - Aylin - Item 5 Garnet [2444] [0 0 0 0 0 0]
+22:57:57 : [lFlymber] - Aylin - Item 6 Garnet [2444] [0 0 0 0 0 0]
+22:57:57 : [lFlymber] - Aylin - Sucesso na composição do item Botas(A) +10 - (1190) 43 233 73 24 60 10 - 14/45
+22:57:59 : [lFlymber] - Clicado no NPC [Aylin]. Face 55. Race: 2. GenerateId: 3287. Posição do usuário: 2529x 1724y. Posição do NPC: 2529x 1725y
+22:58:08 : [lFlymber] - Aylin - Item 0 Calça(A) [1184] [43 9 3 30 60 10]
+22:58:08 : [lFlymber] - Aylin - Item 1 Calça(A) [1184] [43 9 3 30 60 10]
+22:58:08 : [lFlymber] - Aylin - Item 2 Pedra_do_Sábio [1774] [0 0 0 0 0 0]
+22:58:08 : [lFlymber] - Aylin - Item 3 Garnet [2444] [0 0 0 0 0 0]
+22:58:08 : [lFlymber] - Aylin - Item 4 Garnet [2444] [0 0 0 0 0 0]
+22:58:08 : [lFlymber] - Aylin - Item 5 Garnet [2444] [0 0 0 0 0 0]
+22:58:08 : [lFlymber] - Aylin - Item 6 Garnet [2444] [0 0 0 0 0 0]
+22:58:08 : [lFlymber] - Aylin - Sucesso na composição do item Calça(A) +10 - (1184) 43 233 3 30 60 10 - 42/45
+22:58:10 : [lFlymber] - Clicado no NPC [Aylin]. Face 55. Race: 2. GenerateId: 3287. Posição do usuário: 2529x 1724y. Posição do NPC: 2529x 1725y
+22:58:31 : [lFlymber] - Moveu item Armadura(A) [1181] [43 6 3 30 60 10] do tipo INVENTÁRIO do slot 53 para tipo EQUIPAMENTO slot 2
+22:58:32 : [lFlymber] - Moveu item Luvas(A) [1187] [43 6 72 30 60 10] do tipo INVENTÁRIO do slot 52 para tipo EQUIPAMENTO slot 4
+22:58:34 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 31 0 0 0 0] utilizado em 0x 0y
+22:58:34 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:58:34 : [lFlymber] - Item Armadura(A) refinado com sucesso para 7 - [1181] [43 6 3 30 60 10] 66/75
+22:58:36 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 30 0 0 0 0] utilizado em 0x 0y
+22:58:36 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:58:36 : [lFlymber] - Item Armadura(A) refinado com sucesso para 8 - [1181] [43 7 3 30 60 10] 37/50
+22:58:38 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 29 0 0 0 0] utilizado em 0x 0y
+22:58:38 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:58:38 : [lFlymber] - Falha na refinação de Armadura(A) para 9 - [1181] [43 8 3 30 60 10] 67/45
+22:58:40 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 28 0 0 0 0] utilizado em 0x 0y
+22:58:40 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:58:40 : [lFlymber] - Falha na refinação de Armadura(A) para 9 - [1181] [43 8 3 30 60 10] 68/45
+22:58:42 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 27 0 0 0 0] utilizado em 0x 0y
+22:58:42 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:58:42 : [lFlymber] - Item Armadura(A) refinado com sucesso para 9 - [1181] [43 8 3 30 60 10] 11/45
+22:58:46 : [lFlymber] - Moveu item Armadura(A) [1181] [43 9 3 30 60 10] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 53
+22:58:48 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 26 0 0 0 0] utilizado em 0x 0y
+22:58:48 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:58:48 : [lFlymber] - Item Luvas(A) refinado com sucesso para 7 - [1187] [43 6 72 30 60 10] 64/75
+22:58:50 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 25 0 0 0 0] utilizado em 0x 0y
+22:58:50 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:58:50 : [lFlymber] - Item Luvas(A) refinado com sucesso para 8 - [1187] [43 7 72 30 60 10] 1/50
+22:58:52 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 24 0 0 0 0] utilizado em 0x 0y
+22:58:52 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:58:52 : [lFlymber] - Falha na refinação de Luvas(A) para 9 - [1187] [43 8 72 30 60 10] 80/45
+22:58:55 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 23 0 0 0 0] utilizado em 0x 0y
+22:58:55 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+22:58:55 : [lFlymber] - Item Luvas(A) refinado com sucesso para 9 - [1187] [43 8 72 30 60 10] 17/45
+22:58:58 : [lFlymber] - Moveu item Luvas(A) [1187] [43 9 72 30 60 10] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 52
+22:59:00 : [lFlymber] - Clicado no NPC [Aylin]. Face 55. Race: 2. GenerateId: 3287. Posição do usuário: 2529x 1724y. Posição do NPC: 2529x 1725y
+22:59:08 : [lFlymber] - Aylin - Item 0 Luvas(A) [1187] [43 9 72 30 60 10]
+22:59:08 : [lFlymber] - Aylin - Item 1 Luvas(A) [1187] [43 9 72 30 60 10]
+22:59:08 : [lFlymber] - Aylin - Item 2 Pedra_do_Sábio [1774] [0 0 0 0 0 0]
+22:59:08 : [lFlymber] - Aylin - Item 3 Garnet [2444] [0 0 0 0 0 0]
+22:59:08 : [lFlymber] - Aylin - Item 4 Garnet [2444] [0 0 0 0 0 0]
+22:59:08 : [lFlymber] - Aylin - Item 5 Garnet [2444] [0 0 0 0 0 0]
+22:59:08 : [lFlymber] - Aylin - Item 6 Garnet [2444] [0 0 0 0 0 0]
+22:59:08 : [lFlymber] - Aylin - Sucesso na composição do item Luvas(A) +10 - (1187) 43 233 72 30 60 10 - 4/45
+22:59:10 : [lFlymber] - Clicado no NPC [Aylin]. Face 55. Race: 2. GenerateId: 3287. Posição do usuário: 2529x 1724y. Posição do NPC: 2529x 1725y
+22:59:20 : [lFlymber] - Aylin - Item 0 Armadura(A) [1181] [43 9 3 30 60 10]
+22:59:20 : [lFlymber] - Aylin - Item 1 Armadura(A) [1181] [43 9 3 30 60 10]
+22:59:20 : [lFlymber] - Aylin - Item 2 Pedra_do_Sábio [1774] [0 0 0 0 0 0]
+22:59:20 : [lFlymber] - Aylin - Item 3 Garnet [2444] [0 0 0 0 0 0]
+22:59:20 : [lFlymber] - Aylin - Item 4 Garnet [2444] [0 0 0 0 0 0]
+22:59:20 : [lFlymber] - Aylin - Item 5 Garnet [2444] [0 0 0 0 0 0]
+22:59:20 : [lFlymber] - Aylin - Item 6 Garnet [2444] [0 0 0 0 0 0]
+22:59:20 : [lFlymber] - Aylin - Sucesso na composição do item Armadura(A) +10 - (1181) 43 233 3 30 60 10 - 30/45
+22:59:24 : [lFlymber] - Moveu item Botas(A) [1190] [43 233 73 24 60 10] do tipo INVENTÁRIO do slot 50 para tipo EQUIPAMENTO slot 5
+22:59:25 : [lFlymber] - Moveu item Calça(A) [1184] [43 233 3 30 60 10] do tipo INVENTÁRIO do slot 46 para tipo EQUIPAMENTO slot 3
+22:59:25 : [lFlymber] - Moveu item Luvas(A) [1187] [43 233 72 30 60 10] do tipo INVENTÁRIO do slot 47 para tipo EQUIPAMENTO slot 4
+22:59:26 : [lFlymber] - Moveu item Armadura(A) [1181] [43 233 3 30 60 10] do tipo INVENTÁRIO do slot 53 para tipo EQUIPAMENTO slot 2
+22:59:27 : [lFlymber] - Moveu item Poeira_de_Lactolerium [413] [61 22 0 0 0 0] do tipo INVENTÁRIO do slot 54 para tipo INVENTÁRIO slot 45
+22:59:31 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 22 0 0 0 0] utilizado em 0x 0y
+22:59:31 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:31 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+22:59:32 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 21 0 0 0 0] utilizado em 0x 0y
+22:59:32 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:32 : [lFlymber] - Falha na refinação de Luvas(A) para 11 - [1187] [43 233 72 30 60 10]
+22:59:34 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 20 0 0 0 0] utilizado em 0x 0y
+22:59:34 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:34 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+22:59:35 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 19 0 0 0 0] utilizado em 0x 0y
+22:59:35 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:35 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+22:59:37 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 18 0 0 0 0] utilizado em 0x 0y
+22:59:37 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:37 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+22:59:38 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 17 0 0 0 0] utilizado em 0x 0y
+22:59:38 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:38 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+22:59:40 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 16 0 0 0 0] utilizado em 0x 0y
+22:59:40 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:40 : [lFlymber] - Falha na refinação de Luvas(A) para 11 - [1187] [43 233 72 30 60 10]
+22:59:41 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 15 0 0 0 0] utilizado em 0x 0y
+22:59:41 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:41 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+22:59:42 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 14 0 0 0 0] utilizado em 0x 0y
+22:59:42 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:42 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+22:59:44 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 13 0 0 0 0] utilizado em 0x 0y
+22:59:44 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:44 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+22:59:45 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 12 0 0 0 0] utilizado em 0x 0y
+22:59:45 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:45 : [lFlymber] - Falha na refinação de Luvas(A) para 11 - [1187] [43 233 72 30 60 10]
+22:59:47 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 11 0 0 0 0] utilizado em 0x 0y
+22:59:47 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:47 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+22:59:48 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 10 0 0 0 0] utilizado em 0x 0y
+22:59:48 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:48 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+22:59:50 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 9 0 0 0 0] utilizado em 0x 0y
+22:59:50 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:50 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+22:59:51 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 8 0 0 0 0] utilizado em 0x 0y
+22:59:51 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:51 : [lFlymber] - Falha na refinação de Luvas(A) para 11 - [1187] [43 233 72 30 60 10]
+22:59:52 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 7 0 0 0 0] utilizado em 0x 0y
+22:59:52 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:52 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+22:59:54 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 6 0 0 0 0] utilizado em 0x 0y
+22:59:54 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:54 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+22:59:55 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 5 0 0 0 0] utilizado em 0x 0y
+22:59:55 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:55 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+22:59:56 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 4 0 0 0 0] utilizado em 0x 0y
+22:59:56 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:56 : [lFlymber] - Falha na refinação de Luvas(A) para 11 - [1187] [43 233 72 30 60 10]
+22:59:57 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 3 0 0 0 0] utilizado em 0x 0y
+22:59:57 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:57 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+22:59:59 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] utilizado em 0x 0y
+22:59:59 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+22:59:59 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:00:00 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 1 0 0 0 0] utilizado em 0x 0y
+23:00:00 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:00 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:00:14 : [lFlymber] - Teleportado para a posição 2117 2102
+23:00:36 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 240 0 0 0 0] utilizado em 0x 0y
+23:00:36 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:36 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:00:38 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 239 0 0 0 0] utilizado em 0x 0y
+23:00:38 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:38 : [lFlymber] - Falha na refinação de Luvas(A) para 11 - [1187] [43 233 72 30 60 10]
+23:00:39 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 238 0 0 0 0] utilizado em 0x 0y
+23:00:39 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:39 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:00:40 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 237 0 0 0 0] utilizado em 0x 0y
+23:00:40 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:40 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:00:42 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 236 0 0 0 0] utilizado em 0x 0y
+23:00:42 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:42 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:00:43 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 235 0 0 0 0] utilizado em 0x 0y
+23:00:43 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:43 : [lFlymber] - Falha na refinação de Luvas(A) para 11 - [1187] [43 233 72 30 60 10]
+23:00:44 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 234 0 0 0 0] utilizado em 0x 0y
+23:00:44 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:44 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:00:45 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 233 0 0 0 0] utilizado em 0x 0y
+23:00:45 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:45 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:00:47 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 232 0 0 0 0] utilizado em 0x 0y
+23:00:47 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:47 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:00:48 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 231 0 0 0 0] utilizado em 0x 0y
+23:00:48 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:48 : [lFlymber] - Falha na refinação de Luvas(A) para 11 - [1187] [43 233 72 30 60 10]
+23:00:49 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 230 0 0 0 0] utilizado em 0x 0y
+23:00:49 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:49 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:00:51 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 229 0 0 0 0] utilizado em 0x 0y
+23:00:51 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:51 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:00:52 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 228 0 0 0 0] utilizado em 0x 0y
+23:00:52 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:52 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:00:53 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 227 0 0 0 0] utilizado em 0x 0y
+23:00:53 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:53 : [lFlymber] - Falha na refinação de Luvas(A) para 11 - [1187] [43 233 72 30 60 10]
+23:00:55 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 226 0 0 0 0] utilizado em 0x 0y
+23:00:55 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:55 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:00:56 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 225 0 0 0 0] utilizado em 0x 0y
+23:00:56 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:56 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:00:57 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 224 0 0 0 0] utilizado em 0x 0y
+23:00:57 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:57 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:00:58 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 223 0 0 0 0] utilizado em 0x 0y
+23:00:58 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:58 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:00:59 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 222 0 0 0 0] utilizado em 0x 0y
+23:00:59 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:00:59 : [lFlymber] - Falha na refinação de Luvas(A) para 11 - [1187] [43 233 72 30 60 10]
+23:01:01 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 221 0 0 0 0] utilizado em 0x 0y
+23:01:01 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:01 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:01:02 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 220 0 0 0 0] utilizado em 0x 0y
+23:01:02 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:02 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:01:03 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 219 0 0 0 0] utilizado em 0x 0y
+23:01:03 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:03 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:01:05 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 218 0 0 0 0] utilizado em 0x 0y
+23:01:05 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:01:05 : [lFlymber] - Item Luvas(A) refinado com sucesso para 11 - [1187] [43 237 72 30 60 10]
+23:01:06 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 217 0 0 0 0] utilizado em 0x 0y
+23:01:06 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:06 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:01:07 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 216 0 0 0 0] utilizado em 0x 0y
+23:01:07 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:07 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:01:08 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 215 0 0 0 0] utilizado em 0x 0y
+23:01:08 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:08 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:01:10 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 214 0 0 0 0] utilizado em 0x 0y
+23:01:10 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:10 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:01:11 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 213 0 0 0 0] utilizado em 0x 0y
+23:01:11 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:11 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:01:13 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 212 0 0 0 0] utilizado em 0x 0y
+23:01:13 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:13 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:01:15 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 211 0 0 0 0] utilizado em 0x 0y
+23:01:15 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:15 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:01:16 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 210 0 0 0 0] utilizado em 0x 0y
+23:01:16 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:16 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:01:17 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 209 0 0 0 0] utilizado em 0x 0y
+23:01:17 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:17 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:01:18 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 208 0 0 0 0] utilizado em 0x 0y
+23:01:18 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:18 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:01:19 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 207 0 0 0 0] utilizado em 0x 0y
+23:01:19 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:19 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:01:21 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 206 0 0 0 0] utilizado em 0x 0y
+23:01:21 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:21 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:01:22 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 205 0 0 0 0] utilizado em 0x 0y
+23:01:22 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:22 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:01:23 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 204 0 0 0 0] utilizado em 0x 0y
+23:01:23 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:23 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:01:24 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 203 0 0 0 0] utilizado em 0x 0y
+23:01:24 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:24 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:01:26 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 202 0 0 0 0] utilizado em 0x 0y
+23:01:26 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:26 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:01:27 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 201 0 0 0 0] utilizado em 0x 0y
+23:01:27 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:27 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:01:28 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 200 0 0 0 0] utilizado em 0x 0y
+23:01:28 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:28 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:01:29 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 199 0 0 0 0] utilizado em 0x 0y
+23:01:29 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:29 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:01:30 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 198 0 0 0 0] utilizado em 0x 0y
+23:01:30 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:30 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:01:32 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 197 0 0 0 0] utilizado em 0x 0y
+23:01:32 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:32 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:01:33 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 196 0 0 0 0] utilizado em 0x 0y
+23:01:33 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:33 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:01:34 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 195 0 0 0 0] utilizado em 0x 0y
+23:01:34 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:34 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:01:35 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 194 0 0 0 0] utilizado em 0x 0y
+23:01:35 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:35 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:01:36 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 193 0 0 0 0] utilizado em 0x 0y
+23:01:36 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:36 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:01:38 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 192 0 0 0 0] utilizado em 0x 0y
+23:01:38 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:38 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:01:39 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 191 0 0 0 0] utilizado em 0x 0y
+23:01:39 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:39 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:01:41 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 190 0 0 0 0] utilizado em 0x 0y
+23:01:41 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:41 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:01:43 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 189 0 0 0 0] utilizado em 0x 0y
+23:01:43 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:43 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:01:45 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 188 0 0 0 0] utilizado em 0x 0y
+23:01:45 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:45 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:01:46 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 187 0 0 0 0] utilizado em 0x 0y
+23:01:46 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:46 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:01:47 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 186 0 0 0 0] utilizado em 0x 0y
+23:01:47 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:47 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:01:49 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 185 0 0 0 0] utilizado em 0x 0y
+23:01:49 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:49 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:01:50 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 184 0 0 0 0] utilizado em 0x 0y
+23:01:50 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:50 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:01:52 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 183 0 0 0 0] utilizado em 0x 0y
+23:01:52 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:52 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:01:53 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 182 0 0 0 0] utilizado em 0x 0y
+23:01:53 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:53 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:01:54 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 181 0 0 0 0] utilizado em 0x 0y
+23:01:54 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:54 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:01:56 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 180 0 0 0 0] utilizado em 0x 0y
+23:01:56 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:56 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:01:57 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 179 0 0 0 0] utilizado em 0x 0y
+23:01:57 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:57 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:01:58 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 178 0 0 0 0] utilizado em 0x 0y
+23:01:58 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:01:58 : [lFlymber] - Falha na refinação de Armadura(A) para 11 - [1181] [43 233 3 30 60 10]
+23:02:00 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 177 0 0 0 0] utilizado em 0x 0y
+23:02:00 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:02:00 : [lFlymber] - Item Armadura(A) refinado com sucesso para 11 - [1181] [43 237 3 30 60 10]
+23:02:01 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 176 0 0 0 0] utilizado em 0x 0y
+23:02:01 : [lFlymber] - [Mensagem do servidor]> Impossível refinar mais este item.
+23:02:03 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 176 0 0 0 0] utilizado em 0x 0y
+23:02:03 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:03 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:02:04 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 175 0 0 0 0] utilizado em 0x 0y
+23:02:04 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:04 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:02:05 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 174 0 0 0 0] utilizado em 0x 0y
+23:02:05 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:05 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:02:07 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 173 0 0 0 0] utilizado em 0x 0y
+23:02:07 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:07 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:08 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 172 0 0 0 0] utilizado em 0x 0y
+23:02:08 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:08 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:02:09 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 171 0 0 0 0] utilizado em 0x 0y
+23:02:09 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:09 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:10 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 170 0 0 0 0] utilizado em 0x 0y
+23:02:10 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:10 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:02:11 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 169 0 0 0 0] utilizado em 0x 0y
+23:02:11 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:11 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:12 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 168 0 0 0 0] utilizado em 0x 0y
+23:02:12 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:12 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:02:14 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 167 0 0 0 0] utilizado em 0x 0y
+23:02:14 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:14 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:16 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 166 0 0 0 0] utilizado em 0x 0y
+23:02:16 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:16 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:02:17 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 165 0 0 0 0] utilizado em 0x 0y
+23:02:17 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:17 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:19 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 164 0 0 0 0] utilizado em 0x 0y
+23:02:19 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:19 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:02:20 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 163 0 0 0 0] utilizado em 0x 0y
+23:02:20 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:20 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:02:21 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 162 0 0 0 0] utilizado em 0x 0y
+23:02:21 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:21 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:22 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 161 0 0 0 0] utilizado em 0x 0y
+23:02:22 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:22 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:02:24 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 160 0 0 0 0] utilizado em 0x 0y
+23:02:24 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:24 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:25 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 159 0 0 0 0] utilizado em 0x 0y
+23:02:25 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:25 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:02:26 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 158 0 0 0 0] utilizado em 0x 0y
+23:02:26 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:26 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:27 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 157 0 0 0 0] utilizado em 0x 0y
+23:02:27 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:27 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:02:29 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 156 0 0 0 0] utilizado em 0x 0y
+23:02:29 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:29 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:30 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 155 0 0 0 0] utilizado em 0x 0y
+23:02:30 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:30 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:02:31 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 154 0 0 0 0] utilizado em 0x 0y
+23:02:31 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:31 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:33 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 153 0 0 0 0] utilizado em 0x 0y
+23:02:33 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:33 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:02:34 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 152 0 0 0 0] utilizado em 0x 0y
+23:02:34 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:34 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:35 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 151 0 0 0 0] utilizado em 0x 0y
+23:02:35 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:35 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:02:37 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 150 0 0 0 0] utilizado em 0x 0y
+23:02:37 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:37 : [lFlymber] - Falha na refinação de Calça(A) para 11 - [1184] [43 233 3 30 60 10]
+23:02:39 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 149 0 0 0 0] utilizado em 0x 0y
+23:02:39 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:02:39 : [lFlymber] - Item Calça(A) refinado com sucesso para 11 - [1184] [43 237 3 30 60 10]
+23:02:40 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 148 0 0 0 0] utilizado em 0x 0y
+23:02:40 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:40 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:42 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 147 0 0 0 0] utilizado em 0x 0y
+23:02:42 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:42 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:44 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 146 0 0 0 0] utilizado em 0x 0y
+23:02:44 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:44 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:45 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 145 0 0 0 0] utilizado em 0x 0y
+23:02:45 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:45 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:46 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 144 0 0 0 0] utilizado em 0x 0y
+23:02:46 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:46 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:48 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 143 0 0 0 0] utilizado em 0x 0y
+23:02:48 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:48 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:50 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 142 0 0 0 0] utilizado em 0x 0y
+23:02:50 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:50 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:52 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 141 0 0 0 0] utilizado em 0x 0y
+23:02:52 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:52 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:54 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 140 0 0 0 0] utilizado em 0x 0y
+23:02:54 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:54 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:55 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 139 0 0 0 0] utilizado em 0x 0y
+23:02:55 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:55 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:57 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 138 0 0 0 0] utilizado em 0x 0y
+23:02:57 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:57 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:58 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 137 0 0 0 0] utilizado em 0x 0y
+23:02:58 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:58 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:02:59 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 136 0 0 0 0] utilizado em 0x 0y
+23:02:59 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:02:59 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:03:01 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 135 0 0 0 0] utilizado em 0x 0y
+23:03:01 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:03:01 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:03:02 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 134 0 0 0 0] utilizado em 0x 0y
+23:03:02 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:03:02 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:03:03 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 133 0 0 0 0] utilizado em 0x 0y
+23:03:03 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:03:03 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:03:05 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 132 0 0 0 0] utilizado em 0x 0y
+23:03:05 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:03:05 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:03:06 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 131 0 0 0 0] utilizado em 0x 0y
+23:03:06 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:03:06 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:03:07 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 130 0 0 0 0] utilizado em 0x 0y
+23:03:07 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:03:07 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:03:09 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 129 0 0 0 0] utilizado em 0x 0y
+23:03:09 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:03:09 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:22 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 128 0 0 0 0] utilizado em 0x 0y
+23:04:22 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:22 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:24 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 127 0 0 0 0] utilizado em 0x 0y
+23:04:24 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:24 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:25 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 126 0 0 0 0] utilizado em 0x 0y
+23:04:25 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:25 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:27 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 125 0 0 0 0] utilizado em 0x 0y
+23:04:27 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:27 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:28 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 124 0 0 0 0] utilizado em 0x 0y
+23:04:28 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:28 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:29 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 123 0 0 0 0] utilizado em 0x 0y
+23:04:29 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:29 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:31 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 122 0 0 0 0] utilizado em 0x 0y
+23:04:31 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:31 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:32 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 121 0 0 0 0] utilizado em 0x 0y
+23:04:32 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:32 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:33 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 120 0 0 0 0] utilizado em 0x 0y
+23:04:33 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:33 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:34 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 119 0 0 0 0] utilizado em 0x 0y
+23:04:34 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:34 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:36 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 118 0 0 0 0] utilizado em 0x 0y
+23:04:36 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:36 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:37 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 117 0 0 0 0] utilizado em 0x 0y
+23:04:37 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:37 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:38 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 116 0 0 0 0] utilizado em 0x 0y
+23:04:38 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:38 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:39 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 115 0 0 0 0] utilizado em 0x 0y
+23:04:39 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:39 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:40 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 114 0 0 0 0] utilizado em 0x 0y
+23:04:40 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:40 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:42 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 113 0 0 0 0] utilizado em 0x 0y
+23:04:42 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:42 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:44 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 112 0 0 0 0] utilizado em 0x 0y
+23:04:44 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:44 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:45 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 111 0 0 0 0] utilizado em 0x 0y
+23:04:45 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:45 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:47 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 110 0 0 0 0] utilizado em 0x 0y
+23:04:47 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:47 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:48 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 109 0 0 0 0] utilizado em 0x 0y
+23:04:48 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:48 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:49 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 108 0 0 0 0] utilizado em 0x 0y
+23:04:49 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:49 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:50 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 107 0 0 0 0] utilizado em 0x 0y
+23:04:50 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:50 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:04:53 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 106 0 0 0 0] utilizado em 0x 0y
+23:04:53 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:04:53 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:01 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 105 0 0 0 0] utilizado em 0x 0y
+23:05:01 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:01 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:03 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 104 0 0 0 0] utilizado em 0x 0y
+23:05:03 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:03 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:04 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 103 0 0 0 0] utilizado em 0x 0y
+23:05:04 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:04 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:06 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 102 0 0 0 0] utilizado em 0x 0y
+23:05:06 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:06 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:07 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 101 0 0 0 0] utilizado em 0x 0y
+23:05:07 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:07 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:08 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 100 0 0 0 0] utilizado em 0x 0y
+23:05:08 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:08 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:10 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 99 0 0 0 0] utilizado em 0x 0y
+23:05:10 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:10 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:11 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 98 0 0 0 0] utilizado em 0x 0y
+23:05:11 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:11 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:13 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 97 0 0 0 0] utilizado em 0x 0y
+23:05:13 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:13 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:14 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 96 0 0 0 0] utilizado em 0x 0y
+23:05:14 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:14 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:16 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 95 0 0 0 0] utilizado em 0x 0y
+23:05:16 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:16 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:16 : [lFlymber] - Moveu item Botas(A) [1190] [43 233 73 24 60 10] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 5
+23:05:17 : [lFlymber] - Moveu item Botas(A) [1190] [43 233 73 24 60 10] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 5
+23:05:18 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 94 0 0 0 0] utilizado em 0x 0y
+23:05:18 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:18 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:20 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 93 0 0 0 0] utilizado em 0x 0y
+23:05:20 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:20 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:21 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 92 0 0 0 0] utilizado em 0x 0y
+23:05:21 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:21 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:23 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 91 0 0 0 0] utilizado em 0x 0y
+23:05:23 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:23 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:24 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 90 0 0 0 0] utilizado em 0x 0y
+23:05:25 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:25 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:26 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 89 0 0 0 0] utilizado em 0x 0y
+23:05:26 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:26 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:28 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 88 0 0 0 0] utilizado em 0x 0y
+23:05:28 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:28 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:29 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 87 0 0 0 0] utilizado em 0x 0y
+23:05:29 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:29 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:30 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 86 0 0 0 0] utilizado em 0x 0y
+23:05:30 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:30 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:32 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 85 0 0 0 0] utilizado em 0x 0y
+23:05:32 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:32 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:33 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 84 0 0 0 0] utilizado em 0x 0y
+23:05:33 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:33 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:35 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 83 0 0 0 0] utilizado em 0x 0y
+23:05:35 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:35 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:37 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 82 0 0 0 0] utilizado em 0x 0y
+23:05:37 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:05:37 : [lFlymber] - Falha na refinação de Botas(A) para 11 - [1190] [43 233 73 24 60 10]
+23:05:38 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 81 0 0 0 0] utilizado em 0x 0y
+23:05:38 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:05:38 : [lFlymber] - Item Botas(A) refinado com sucesso para 11 - [1190] [43 237 73 24 60 10]
+23:05:52 : [lFlymber] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2107x 2114y. Posição do NPC: 2102x 2113y
+23:05:54 : [lFlymber] - Moveu item Poeira_de_Lactolerium [413] [61 80 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo BANCO slot 47
+23:05:56 : [lFlymber] - Moveu item Poeira_de_Lactolerium [413] [61 240 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo BANCO slot 46
+23:06:02 : [lFlymber] - Moveu item Elmo(A) [1178] [0 0 60 12 4 60] do tipo BANCO do slot 42 para tipo BANCO slot 79
+23:06:03 : [lFlymber] - Moveu item Elmo(A) [1178] [0 0 60 12 3 20] do tipo BANCO do slot 41 para tipo BANCO slot 74
+23:06:06 : [lFlymber] - Moveu item Poeira_de_Lactolerium [413] [61 240 0 0 0 0] do tipo BANCO do slot 46 para tipo BANCO slot 78
+23:06:07 : [lFlymber] - Moveu item Poeira_de_Lactolerium [413] [61 80 0 0 0 0] do tipo BANCO do slot 47 para tipo BANCO slot 77
+23:06:09 : [lFlymber] - Moveu item Brinco_de_Titã [592] [0 0 0 0 0 0] do tipo BANCO do slot 49 para tipo BANCO slot 76
+23:06:10 : [lFlymber] - Moveu item Resto_de_Lactolerium [420] [61 5 0 0 0 0] do tipo BANCO do slot 54 para tipo BANCO slot 75
+23:06:12 : [lFlymber] - Moveu item Pedra_do_Sábio [1774] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo BANCO slot 40
+23:06:13 : [lFlymber] - Moveu item Pedra_do_Sábio [1774] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 25 para tipo BANCO slot 45
+23:06:15 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo BANCO slot 41
+23:06:16 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 22 para tipo BANCO slot 42
+23:06:17 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 23 para tipo BANCO slot 43
+23:06:19 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 24 para tipo BANCO slot 44
+23:06:20 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 26 para tipo BANCO slot 46
+23:06:21 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 27 para tipo BANCO slot 47
+23:06:23 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 28 para tipo BANCO slot 48
+23:06:24 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 29 para tipo BANCO slot 49
+23:06:26 : [lFlymber] - Moveu item Pedra_do_Sábio [1774] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 30 para tipo BANCO slot 50
+23:06:27 : [lFlymber] - Moveu item Pedra_do_Sábio [1774] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 35 para tipo BANCO slot 55
+23:06:29 : [lFlymber] - Moveu item Pedra_do_Sábio [1774] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 40 para tipo BANCO slot 60
+23:06:30 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 31 para tipo BANCO slot 51
+23:06:31 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 32 para tipo BANCO slot 52
+23:06:32 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 33 para tipo BANCO slot 53
+23:06:34 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 34 para tipo BANCO slot 54
+23:06:35 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 36 para tipo BANCO slot 56
+23:06:36 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 37 para tipo BANCO slot 57
+23:06:37 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 38 para tipo BANCO slot 58
+23:06:39 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 39 para tipo BANCO slot 59
+23:06:40 : [lFlymber] - Moveu item Resto_de_Oriharucon [419] [61 18 0 0 0 0] do tipo BANCO do slot 64 para tipo BANCO slot 73
+23:06:42 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 41 para tipo BANCO slot 61
+23:06:44 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 42 para tipo BANCO slot 62
+23:06:46 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 43 para tipo BANCO slot 63
+23:06:47 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 44 para tipo BANCO slot 64
+23:06:54 : [lFlymber] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2107x 2113y. Posição do NPC: 2102x 2113y
+23:07:03 : [lFlymber] - Moveu item Armadura(A) [1181] [43 237 3 30 60 10] do tipo EQUIPAMENTO do slot 2 para tipo BANCO slot 29
+23:07:05 : [lFlymber] - Moveu item Luvas(A) [1187] [43 237 72 30 60 10] do tipo EQUIPAMENTO do slot 4 para tipo BANCO slot 34
+23:07:07 : [lFlymber] - Moveu item Calça(A) [1184] [43 237 3 30 60 10] do tipo EQUIPAMENTO do slot 3 para tipo BANCO slot 39
+23:07:10 : [lFlymber] - Moveu item Botas(A) [1190] [43 237 73 24 60 10] do tipo EQUIPAMENTO do slot 5 para tipo BANCO slot 38
+23:07:20 : [lFlymber] - Personagem deu personagem
+23:07:23 : Solicitou ir ao mundo...
+23:07:23 : Recebido pedido para entrar no jogo
+23:07:23 : Recebido informação do personagem completa.
+23:07:23 : [lFlymber] - [INFORMAÇÕES DA CONTA]
+Personagem online: lFlymber
+Gold atual: 1125703431
+Level atual: 399
+Experiência atual: 4000137950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:16:19 horas
+Posição atual: 2092x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1351] [43 1 72 15 60 2]
+[01] - Luvas(M)[1216] [43 1 72 15 60 2]
+[02] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[03] - Luvas(M)[1216] [43 0 72 20 59 0]
+[04] - Chapéu(M)[1642] [43 1 26 6 59 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:07:23 : [lFlymber] - Personagem lFlymber enviado ao mundo 2092x 2099y - Canal 1 - Cash da conta: 2808. PowerLevel: 451
+23:07:23 : [lFlymber] - Gold atual: 1125703431. Classe: 0 Evolução: 0. Experiência: 4000137950. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+23:07:23 : [lFlymber] - Logou no personagem lFlymber com frango ativo. Tempo: 229
+23:07:23 : [lFlymber] - Logou no personagem lFlymber com baú de experiência ativo. Tempo: 35327
+23:07:23 : [lFlymber] - Logou no personagem lFlymber com poção divina ativo. Validade: 25/2/2021 10:58:44
+23:07:23 : [lFlymber] - Enviado informações do personagem
+23:07:24 : [lFlymber] - Comando "/day "
+23:07:24 : [lFlymber] - [Mensagem do servidor]> !#11 2
+23:07:29 : [lFlymber] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2101x 2110y. Posição do NPC: 2102x 2113y
+23:07:34 : [lFlymber] - Moveu item Elmo(A) [1208] [43 237 3 25 26 18] do tipo BANCO do slot 1 para tipo INVENTÁRIO slot 5
+23:07:34 : [lFlymber] - Moveu item Armadura(A) [1211] [43 236 2 30 71 70] do tipo BANCO do slot 6 para tipo INVENTÁRIO slot 10
+23:07:35 : [lFlymber] - Moveu item Luvas(A) [1217] [43 236 54 18 72 30] do tipo BANCO do slot 11 para tipo INVENTÁRIO slot 6
+23:07:35 : [lFlymber] - Moveu item Calça(A) [1214] [43 236 2 30 71 70] do tipo BANCO do slot 16 para tipo INVENTÁRIO slot 11
+23:07:36 : [lFlymber] - Moveu item Botas(A) [1220] [43 236 73 30 74 18] do tipo BANCO do slot 21 para tipo INVENTÁRIO slot 7
+23:07:36 : [lFlymber] - Moveu item Martelo_Assassino(Anct) [2489] [2 45 43 236 0 0] do tipo BANCO do slot 26 para tipo INVENTÁRIO slot 12
+23:07:37 : [lFlymber] - Moveu item Martelo_Assassino(Anct) [2489] [2 45 43 236 0 0] do tipo BANCO do slot 31 para tipo INVENTÁRIO slot 8
+23:07:38 : [lFlymber] - Moveu item Martelo_Assassino(Anct) [2489] [2 45 43 236 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 7
+23:07:39 : [lFlymber] - Moveu item Martelo_Assassino(Anct) [2489] [2 45 43 236 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 7
+23:07:40 : [lFlymber] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:07:42 : [lFlymber] - Moveu item Elmo(A) [1208] [43 237 3 25 26 18] do tipo INVENTÁRIO do slot 5 para tipo BANCO slot 1
+23:07:44 : [lFlymber] - Moveu item Elmo(A) [1208] [43 237 3 25 26 18] do tipo BANCO do slot 1 para tipo INVENTÁRIO slot 5
+23:07:49 : [lFlymber] - Moveu item Calça(A) [1214] [43 236 2 30 71 70] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 3
+23:07:50 : [lFlymber] - Moveu item Armadura(A) [1211] [43 236 2 30 71 70] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 2
+23:07:50 : [lFlymber] - Moveu item Elmo(A) [1208] [43 237 3 25 26 18] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 1
+23:07:51 : [lFlymber] - Moveu item Luvas(A) [1217] [43 236 54 18 72 30] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 4
+23:07:52 : [lFlymber] - Moveu item Botas(A) [1220] [43 236 73 30 74 18] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 5
+23:07:57 : [lFlymber] - Item Luvas(M) deletado [1351] [43 1 72 15 60 2]. Slot 0
+23:07:58 : [lFlymber] - Item Luvas(M) deletado [1216] [43 1 72 15 60 2]. Slot 1
+23:08:00 : [lFlymber] - Item Chapéu(M) deletado [1642] [43 1 26 6 59 0]. Slot 4
+23:08:01 : [lFlymber] - Item Luvas(M) deletado [1216] [43 0 72 20 59 0]. Slot 3
+23:08:08 : [lFlymber] - Moveu item Armadura(A) [1181] [43 237 3 30 60 10] do tipo BANCO do slot 29 para tipo BANCO slot 6
+23:08:11 : [lFlymber] - Moveu item Luvas(A) [1187] [43 237 72 30 60 10] do tipo BANCO do slot 34 para tipo BANCO slot 21
+23:08:13 : [lFlymber] - Moveu item Calça(A) [1184] [43 237 3 30 60 10] do tipo BANCO do slot 39 para tipo BANCO slot 11
+23:08:15 : [lFlymber] - Moveu item Botas(A) [1190] [43 237 73 24 60 10] do tipo BANCO do slot 38 para tipo BANCO slot 16
+23:08:19 : [lFlymber] - Moveu item Elmo(A) [1178] [0 0 60 12 3 20] do tipo BANCO do slot 74 para tipo INVENTÁRIO slot 0
+23:08:20 : [lFlymber] - Moveu item Elmo(A) [1178] [0 0 60 12 4 60] do tipo BANCO do slot 79 para tipo INVENTÁRIO slot 5
+23:08:21 : [lFlymber] - Moveu item Poeira_de_Lactolerium [413] [61 240 0 0 0 0] do tipo BANCO do slot 78 para tipo INVENTÁRIO slot 10
+23:08:22 : [lFlymber] - Moveu item Poeira_de_Lactolerium [413] [61 80 0 0 0 0] do tipo BANCO do slot 77 para tipo INVENTÁRIO slot 1
+23:08:25 : [lFlymber] - Moveu item Elmo(A) [1208] [43 237 3 25 26 18] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 0
+23:08:27 : [lFlymber] - Item Poeira_de_Oriharucon [412] [0 0 0 0 0 0] utilizado em 0x 0y
+23:08:27 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:08:27 : [lFlymber] - Item Elmo(A) refinado com sucesso para 1 - [1178] [0 0 60 12 3 20] 48/100
+23:08:30 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 80 0 0 0 0] utilizado em 0x 0y
+23:08:30 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:08:30 : [lFlymber] - Item Elmo(A) refinado com sucesso para 2 - [1178] [43 1 60 12 3 20] 34/100
+23:08:32 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 79 0 0 0 0] utilizado em 0x 0y
+23:08:32 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:08:32 : [lFlymber] - Item Elmo(A) refinado com sucesso para 3 - [1178] [43 2 60 12 3 20] 44/100
+23:08:33 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 78 0 0 0 0] utilizado em 0x 0y
+23:08:33 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:08:33 : [lFlymber] - Item Elmo(A) refinado com sucesso para 4 - [1178] [43 3 60 12 3 20] 99/100
+23:08:35 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 77 0 0 0 0] utilizado em 0x 0y
+23:08:35 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:08:35 : [lFlymber] - Item Elmo(A) refinado com sucesso para 5 - [1178] [43 4 60 12 3 20] 58/100
+23:08:37 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 76 0 0 0 0] utilizado em 0x 0y
+23:08:37 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:08:37 : [lFlymber] - Item Elmo(A) refinado com sucesso para 6 - [1178] [43 5 60 12 3 20] 84/100
+23:08:39 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 75 0 0 0 0] utilizado em 0x 0y
+23:08:39 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:08:39 : [lFlymber] - Item Elmo(A) refinado com sucesso para 7 - [1178] [43 6 60 12 3 20] 56/75
+23:08:41 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 74 0 0 0 0] utilizado em 0x 0y
+23:08:41 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:08:41 : [lFlymber] - Item Elmo(A) refinado com sucesso para 8 - [1178] [43 7 60 12 3 20] 38/50
+23:08:42 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 73 0 0 0 0] utilizado em 0x 0y
+23:08:42 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:08:42 : [lFlymber] - Falha na refinação de Elmo(A) para 9 - [1178] [43 8 60 12 3 20] 64/45
+23:08:45 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 72 0 0 0 0] utilizado em 0x 0y
+23:08:45 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:08:45 : [lFlymber] - Falha na refinação de Elmo(A) para 9 - [1178] [43 8 60 12 3 20] 50/45
+23:08:48 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 71 0 0 0 0] utilizado em 0x 0y
+23:08:48 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:08:48 : [lFlymber] - Falha na refinação de Elmo(A) para 9 - [1178] [43 8 60 12 3 20] 70/45
+23:08:51 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 70 0 0 0 0] utilizado em 0x 0y
+23:08:51 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:08:51 : [lFlymber] - Item Elmo(A) refinado com sucesso para 9 - [1178] [43 8 60 12 3 20] 44/45
+23:08:55 : [lFlymber] - Moveu item Elmo(A) [1178] [43 9 60 12 3 20] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 5
+23:08:57 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 69 0 0 0 0] utilizado em 0x 0y
+23:08:57 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:08:57 : [lFlymber] - Item Elmo(A) refinado com sucesso para 1 - [1178] [0 0 60 12 4 60] 40/100
+23:08:59 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 68 0 0 0 0] utilizado em 0x 0y
+23:08:59 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:08:59 : [lFlymber] - Item Elmo(A) refinado com sucesso para 2 - [1178] [43 1 60 12 4 60] 72/100
+23:09:00 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 67 0 0 0 0] utilizado em 0x 0y
+23:09:01 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:09:01 : [lFlymber] - Item Elmo(A) refinado com sucesso para 3 - [1178] [43 2 60 12 4 60] 31/100
+23:09:02 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 66 0 0 0 0] utilizado em 0x 0y
+23:09:02 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:09:02 : [lFlymber] - Item Elmo(A) refinado com sucesso para 4 - [1178] [43 3 60 12 4 60] 15/100
+23:09:04 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 65 0 0 0 0] utilizado em 0x 0y
+23:09:04 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:09:04 : [lFlymber] - Item Elmo(A) refinado com sucesso para 5 - [1178] [43 4 60 12 4 60] 99/100
+23:09:06 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 64 0 0 0 0] utilizado em 0x 0y
+23:09:06 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:09:06 : [lFlymber] - Item Elmo(A) refinado com sucesso para 6 - [1178] [43 5 60 12 4 60] 2/100
+23:09:09 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 63 0 0 0 0] utilizado em 0x 0y
+23:09:09 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:09:09 : [lFlymber] - Item Elmo(A) refinado com sucesso para 7 - [1178] [43 6 60 12 4 60] 66/75
+23:09:11 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 62 0 0 0 0] utilizado em 0x 0y
+23:09:11 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:09:11 : [lFlymber] - Item Elmo(A) refinado com sucesso para 8 - [1178] [43 7 60 12 4 60] 1/50
+23:09:12 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 61 0 0 0 0] utilizado em 0x 0y
+23:09:12 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:09:12 : [lFlymber] - Falha na refinação de Elmo(A) para 9 - [1178] [43 8 60 12 4 60] 97/45
+23:09:15 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 60 0 0 0 0] utilizado em 0x 0y
+23:09:15 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:09:15 : [lFlymber] - Item Elmo(A) refinado com sucesso para 9 - [1178] [43 8 60 12 4 60] 21/45
+23:09:18 : [lFlymber] - Moveu item Elmo(A) [1178] [43 9 60 12 4 60] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 0
+23:09:26 : [lFlymber] - Moveu item Poeira_de_Lactolerium [413] [61 59 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo INVENTÁRIO slot 11
+23:09:27 : [lFlymber] - Moveu item Elmo(A) [1178] [43 9 60 12 3 20] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 12
+23:09:28 : [lFlymber] - Moveu item Elmo(A) [1178] [43 9 60 12 4 60] do tipo INVENTÁRIO do slot 0 para tipo INVENTÁRIO slot 13
+23:09:32 : [lFlymber] - Moveu item Pedra_do_Sábio [1774] [0 0 0 0 0 0] do tipo BANCO do slot 60 para tipo INVENTÁRIO slot 0
+23:09:33 : [lFlymber] - Moveu item Pedra_do_Sábio [1774] [0 0 0 0 0 0] do tipo BANCO do slot 55 para tipo INVENTÁRIO slot 5
+23:09:35 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo BANCO do slot 61 para tipo INVENTÁRIO slot 1
+23:09:36 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo BANCO do slot 56 para tipo INVENTÁRIO slot 6
+23:09:36 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo BANCO do slot 62 para tipo INVENTÁRIO slot 2
+23:09:37 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo BANCO do slot 57 para tipo INVENTÁRIO slot 7
+23:09:37 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo BANCO do slot 63 para tipo INVENTÁRIO slot 3
+23:09:37 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo BANCO do slot 58 para tipo INVENTÁRIO slot 8
+23:09:38 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo BANCO do slot 64 para tipo INVENTÁRIO slot 4
+23:09:39 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo BANCO do slot 59 para tipo INVENTÁRIO slot 9
+23:10:21 : [lFlymber] - Moveu item Skinfaxi [2371] [10 10 100 60 10 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 14
+23:10:26 : [lFlymber] - Teleportado para a posição 960 1761
+23:10:33 : [lFlymber] - Teleportado para a posição 2458 2017
+23:11:07 : [lFlymber] - Teleportado para a posição 2482 1717
+23:11:15 : [lFlymber] - Clicado no NPC [Aylin]. Face 55. Race: 2. GenerateId: 3287. Posição do usuário: 2527x 1721y. Posição do NPC: 2529x 1725y
+23:11:21 : [lFlymber] - Aylin - Item 0 Elmo(A) [1178] [43 9 60 12 4 60]
+23:11:21 : [lFlymber] - Aylin - Item 1 Elmo(A) [1178] [43 9 60 12 3 20]
+23:11:21 : [lFlymber] - Aylin - Item 2 Pedra_do_Sábio [1774] [0 0 0 0 0 0]
+23:11:21 : [lFlymber] - Aylin - Item 3 Garnet [2444] [0 0 0 0 0 0]
+23:11:21 : [lFlymber] - Aylin - Item 4 Garnet [2444] [0 0 0 0 0 0]
+23:11:21 : [lFlymber] - Aylin - Item 5 Garnet [2444] [0 0 0 0 0 0]
+23:11:21 : [lFlymber] - Aylin - Item 6 Garnet [2444] [0 0 0 0 0 0]
+23:11:21 : [lFlymber] - Aylin - Sucesso na composição do item Elmo(A) +10 - (1178) 43 233 60 12 3 20 - 34/45
+23:11:26 : [lFlymber] - Moveu item Elmo(A) [1178] [43 233 60 12 3 20] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 1
+23:11:33 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 59 0 0 0 0] utilizado em 0x 0y
+23:11:33 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:11:33 : [lFlymber] - Falha na refinação de Elmo(A) para 11 - [1178] [43 233 60 12 3 20]
+23:11:34 : [lFlymber] - Moveu item Poeira_de_Lactolerium [413] [61 58 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo INVENTÁRIO slot 0
+23:11:35 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 58 0 0 0 0] utilizado em 0x 0y
+23:11:35 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:11:35 : [lFlymber] - Falha na refinação de Elmo(A) para 11 - [1178] [43 233 60 12 3 20]
+23:11:35 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 57 0 0 0 0] utilizado em 0x 0y
+23:11:36 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:11:36 : [lFlymber] - Falha na refinação de Elmo(A) para 11 - [1178] [43 233 60 12 3 20]
+23:11:36 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 56 0 0 0 0] utilizado em 0x 0y
+23:11:36 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:11:36 : [lFlymber] - Falha na refinação de Elmo(A) para 11 - [1178] [43 233 60 12 3 20]
+23:11:37 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 55 0 0 0 0] utilizado em 0x 0y
+23:11:37 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:11:37 : [lFlymber] - Falha na refinação de Elmo(A) para 11 - [1178] [43 233 60 12 3 20]
+23:11:37 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 54 0 0 0 0] utilizado em 0x 0y
+23:11:37 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:11:37 : [lFlymber] - Falha na refinação de Elmo(A) para 11 - [1178] [43 233 60 12 3 20]
+23:11:38 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 53 0 0 0 0] utilizado em 0x 0y
+23:11:38 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:11:38 : [lFlymber] - Falha na refinação de Elmo(A) para 11 - [1178] [43 233 60 12 3 20]
+23:11:38 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 52 0 0 0 0] utilizado em 0x 0y
+23:11:38 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:11:38 : [lFlymber] - Falha na refinação de Elmo(A) para 11 - [1178] [43 233 60 12 3 20]
+23:11:39 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 51 0 0 0 0] utilizado em 0x 0y
+23:11:39 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:11:39 : [lFlymber] - Falha na refinação de Elmo(A) para 11 - [1178] [43 233 60 12 3 20]
+23:11:40 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 50 0 0 0 0] utilizado em 0x 0y
+23:11:40 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:11:40 : [lFlymber] - Falha na refinação de Elmo(A) para 11 - [1178] [43 233 60 12 3 20]
+23:11:40 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 49 0 0 0 0] utilizado em 0x 0y
+23:11:40 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:11:40 : [lFlymber] - Falha na refinação de Elmo(A) para 11 - [1178] [43 233 60 12 3 20]
+23:11:41 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 48 0 0 0 0] utilizado em 0x 0y
+23:11:41 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:11:41 : [lFlymber] - Falha na refinação de Elmo(A) para 11 - [1178] [43 233 60 12 3 20]
+23:11:41 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 47 0 0 0 0] utilizado em 0x 0y
+23:11:41 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:11:41 : [lFlymber] - Falha na refinação de Elmo(A) para 11 - [1178] [43 233 60 12 3 20]
+23:11:42 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 46 0 0 0 0] utilizado em 0x 0y
+23:11:42 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:11:42 : [lFlymber] - Item Elmo(A) refinado com sucesso para 11 - [1178] [43 237 60 12 3 20]
+23:11:42 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 45 0 0 0 0] utilizado em 0x 0y
+23:11:42 : [lFlymber] - [Mensagem do servidor]> Impossível refinar mais este item.
+23:11:46 : [lFlymber] - Moveu item Elmo(A) [1208] [43 237 3 25 26 18] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 1
+23:11:48 : [lFlymber] - Moveu item Poeira_de_Lactolerium [413] [61 45 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo INVENTÁRIO slot 11
+23:12:07 : [lFlymber] - Clicado no NPC [Tera]. Face 18. Race: 2. GenerateId: 1237. Posição do usuário: 2476x 1691y. Posição do NPC: 2476x 1688y
+23:12:13 : [lFlymber] - Moveu item Pedra_do_Sábio [1774] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo BANCO slot 55
+23:12:14 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo BANCO slot 56
+23:12:15 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo BANCO slot 57
+23:12:17 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo BANCO slot 58
+23:12:18 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo BANCO slot 58
+23:12:20 : [lFlymber] - Moveu item Garnet [2444] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo BANCO slot 59
+23:12:23 : [lFlymber] - Moveu item Elmo(A) [1178] [43 237 60 12 3 20] do tipo INVENTÁRIO do slot 13 para tipo BANCO slot 1
+23:12:28 : [lFlymber] - Moveu item Poeira_de_Lactolerium [413] [61 240 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo BANCO slot 29
+23:12:29 : [lFlymber] - Moveu item Poeira_de_Lactolerium [413] [61 45 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo BANCO slot 34
+23:12:46 : [lFlymber] - Personagem deu personagem
+23:12:52 : Solicitou ir ao mundo...
+23:12:52 : Recebido pedido para entrar no jogo
+23:12:52 : Recebido informação do personagem completa.
+23:12:52 : [lFlymber-MG] - [INFORMAÇÕES DA CONTA]
+Personagem online: lFlymber-MG
+Gold atual: 1912287360
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:21:43 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1106] [43 0 60 8 3 25]
+[02] - Armadura(N)[1116] [43 0 0 0 0 0]
+[03] - Calça(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas(N)[1140] [43 0 0 0 0 0]
+[05] - Botas(N)[1152] [43 0 0 0 0 0]
+[06] - Skeleton_Hammer[941] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Amuleto_de_Prata[551] [43 9 60 28 0 0]
+[01] - Brinco_de_Hecate[594] [0 0 0 0 0 0]
+[02] - Ankh_da_Justiça[661] [43 9 0 0 0 0]
+[03] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[04] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe(A)[1406] [43 0 3 20 59 0]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Robe(A)[1406] [43 2 71 50 2 30]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:12:52 : [lFlymber-MG] - Personagem lFlymber-MG enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 2808. PowerLevel: 179
+23:12:52 : [lFlymber-MG] - Gold atual: 1912287360. Classe: 0 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+23:12:52 : [lFlymber-MG] - Logou no personagem lFlymber-MG com poção divina ativo. Validade: 25/2/2021 10:58:44
+23:12:52 : [lFlymber-MG] - Logou no personagem lFlymber-MG com frango ativo. Tempo: 1119
+23:12:52 : [lFlymber-MG] - Logou no personagem lFlymber-MG com baú de experiência ativo. Tempo: 219
+23:12:52 : [lFlymber-MG] - Enviado informações do personagem
+23:12:53 : [lFlymber-MG] - Comando "/day "
+23:12:53 : [lFlymber-MG] - [Mensagem do servidor]> !#11 2
+23:12:57 : [lFlymber-MG] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 4610. Posição do usuário: 2112x 2042y. Posição do NPC: 2107x 2042y
+23:13:02 : [lFlymber-MG] - Moveu item Skeleton_Hammer [941] [43 9 0 0 0 0] do tipo EQUIPAMENTO do slot 6 para tipo BANCO slot 26
+23:13:04 : [lFlymber-MG] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:13:12 : [lFlymber-MG] - Personagem deu personagem
+23:13:14 : Solicitou ir ao mundo...
+23:13:14 : Recebido pedido para entrar no jogo
+23:13:14 : Recebido informação do personagem completa.
+23:13:14 : [lFlymber] - [INFORMAÇÕES DA CONTA]
+Personagem online: lFlymber
+Gold atual: 1075687522
+Level atual: 399
+Experiência atual: 4000137950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:22:05 horas
+Posição atual: 2503x 1713y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1208] [43 237 3 25 26 18]
+[02] - Armadura(A)[1211] [43 236 2 30 71 70]
+[03] - Calça(A)[1214] [43 236 2 30 71 70]
+[04] - Luvas(A)[1217] [43 236 54 18 72 30]
+[05] - Botas(A)[1220] [43 236 73 30 74 18]
+[06] - Martelo_Assassino(Anct)[2489] [2 45 43 236 0 0]
+[07] - Martelo_Assassino(Anct)[2489] [2 45 43 236 0 0]
+[14] - Skinfaxi[2371] [178 107 100 60 10 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:13:14 : [lFlymber] - Personagem lFlymber enviado ao mundo 2503x 1713y - Canal 1 - Cash da conta: 2808. PowerLevel: 4501
+23:13:14 : [lFlymber] - Gold atual: 1075687522. Classe: 0 Evolução: 0. Experiência: 4000137950. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+23:13:14 : [lFlymber] - Logou no personagem lFlymber com poção divina ativo. Validade: 25/2/2021 10:58:44
+23:13:14 : [lFlymber] - Logou no personagem lFlymber com baú de experiência ativo. Tempo: 35287
+23:13:14 : [lFlymber] - Logou no personagem lFlymber com frango ativo. Tempo: 189
+23:13:14 : [lFlymber] - Enviado informações do personagem
+23:13:15 : [lFlymber] - Comando "/day "
+23:13:15 : [lFlymber] - [Mensagem do servidor]> !#11 2
+23:13:22 : [lFlymber] - Teleportado para a posição 2117 2102
+23:13:28 : [lFlymber] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:13:47 : [lFlymber] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2104x 2106y. Posição do NPC: 2102x 2113y
+23:13:51 : [lFlymber] - Moveu item Skeleton_Hammer [941] [43 9 0 0 0 0] do tipo BANCO do slot 26 para tipo INVENTÁRIO slot 5
+23:13:55 : [lFlymber] - Teleportado para a posição 960 1761
+23:13:59 : [lFlymber] - Teleportado para a posição 2482 1717
+23:14:07 : [lFlymber] - Clicado no NPC [Aylin]. Face 55. Race: 2. GenerateId: 3287. Posição do usuário: 2530x 1723y. Posição do NPC: 2529x 1725y
+23:14:08 : [lFlymber] - Clicado no NPC [Compounder]. Face 54. Race: 2. GenerateId: 1262. Posição do usuário: 2530x 1727y. Posição do NPC: 2530x 1732y
+23:14:15 : [lFlymber] - Compounder - 0 - Skeleton_Hammer [941] [43 9 0 0 0 0] - 5
+23:14:15 : [lFlymber] - Compounder - 1 - Garnet [2444] [0 0 0 0 0 0] - 0
+23:14:15 : [lFlymber] - Compounder - 2 - Armadura(A) [1211] [43 9 3 30 60 10] - 1
+23:14:15 : [lFlymber] - Compounder - 3 - Armadura(A) [1211] [43 9 3 30 60 10] - 2
+23:14:15 : [lFlymber] - Compounder - 4 - Armadura(A) [1211] [43 9 3 30 60 10] - 3
+23:14:15 : [lFlymber] - Compounder - 5 - Armadura(A) [1211] [43 9 3 30 60 10] - 4
+23:14:15 : [lFlymber] - Compounder - 6 - Sem item
+
+23:14:15 : [lFlymber] - Compounder - 7 - Sem item
+
+23:14:15 : [lFlymber] - [Mensagem do servidor]> Composição incorreta
+23:14:20 : [lFlymber] - Compounder - 0 - Skeleton_Hammer [941] [43 9 0 0 0 0] - 5
+23:14:20 : [lFlymber] - Compounder - 1 - Garnet [2444] [0 0 0 0 0 0] - 0
+23:14:20 : [lFlymber] - Compounder - 2 - Armadura(A) [1211] [43 9 3 30 60 10] - 1
+23:14:20 : [lFlymber] - Compounder - 3 - Armadura(A) [1211] [43 9 3 30 60 10] - 2
+23:14:20 : [lFlymber] - Compounder - 4 - Armadura(A) [1211] [43 9 3 30 60 10] - 3
+23:14:20 : [lFlymber] - Compounder - 5 - Armadura(A) [1211] [43 9 3 30 60 10] - 4
+23:14:20 : [lFlymber] - Compounder - 6 - Sem item
+
+23:14:20 : [lFlymber] - Compounder - 7 - Sem item
+
+23:14:20 : [lFlymber] - [Mensagem do servidor]> Composição incorreta
+23:14:39 : [lFlymber] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:14:40 : [lFlymber] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:14:43 : [lFlymber] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:14:45 : [lFlymber] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:14:46 : [lFlymber] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+23:14:49 : [lFlymber] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2485x 1702y
+23:14:49 : [lFlymber] - Gold atual: 1075682880.
+23:14:49 : [lFlymber] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2485x 1702y
+23:14:49 : [lFlymber] - Gold atual: 1175682880.
+23:14:49 : [lFlymber] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2485x 1702y
+23:14:49 : [lFlymber] - Gold atual: 1275682880.
+23:14:50 : [lFlymber] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2485x 1702y
+23:14:50 : [lFlymber] - Gold atual: 1375682880.
+23:14:50 : [lFlymber] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2485x 1702y
+23:14:50 : [lFlymber] - Gold atual: 1475682880.
+23:14:54 : [lFlymber] - Clicado no NPC [Tera]. Face 18. Race: 2. GenerateId: 1237. Posição do usuário: 2476x 1687y. Posição do NPC: 2476x 1688y
+23:14:57 : [lFlymber] - Moveu item Skeleton_Hammer [941] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo BANCO slot 26
+23:15:06 : [lFlymber] - Moveu item Cythera_Mística [3502] [43 241 0 0 0 0] do tipo BANCO do slot 2 para tipo INVENTÁRIO slot 0
+23:15:10 : [lFlymber] - Moveu item Cythera_Mística [3502] [43 241 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo BANCO slot 2
+23:15:12 : [lFlymber] - Moveu item Selo_do_Guerreiro [4146] [61 141 0 0 0 0] do tipo BANCO do slot 3 para tipo INVENTÁRIO slot 0
+23:15:12 : [lFlymber] - Item Selo_do_Guerreiro [4146] [61 141 0 0 0 0] utilizado em 2476x 1687y
+23:15:14 : [lFlymber] - Moveu item Selo_do_Guerreiro [4146] [61 140 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo BANCO slot 3
+23:15:17 : [lFlymber] - Moveu item Poeira_de_Lactolerium [413] [61 45 0 0 0 0] do tipo BANCO do slot 34 para tipo INVENTÁRIO slot 10
+23:15:22 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 45 0 0 0 0] utilizado em 0x 0y
+23:15:23 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:15:23 : [lFlymber] - Item Elite_dos_Aventureiros refinado com sucesso para 1 - [3193] [0 0 0 0 0 0] 38/100
+23:15:23 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 44 0 0 0 0] utilizado em 0x 0y
+23:15:23 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:15:23 : [lFlymber] - Item Elite_dos_Aventureiros refinado com sucesso para 2 - [3193] [43 1 0 0 0 0] 39/100
+23:15:24 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 43 0 0 0 0] utilizado em 0x 0y
+23:15:24 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:15:24 : [lFlymber] - Item Elite_dos_Aventureiros refinado com sucesso para 3 - [3193] [43 2 0 0 0 0] 68/100
+23:15:24 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 42 0 0 0 0] utilizado em 0x 0y
+23:15:24 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:15:24 : [lFlymber] - Item Elite_dos_Aventureiros refinado com sucesso para 4 - [3193] [43 3 0 0 0 0] 51/100
+23:15:25 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 41 0 0 0 0] utilizado em 0x 0y
+23:15:25 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:15:25 : [lFlymber] - Item Elite_dos_Aventureiros refinado com sucesso para 5 - [3193] [43 4 0 0 0 0] 17/100
+23:15:26 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 40 0 0 0 0] utilizado em 0x 0y
+23:15:26 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:15:26 : [lFlymber] - Item Elite_dos_Aventureiros refinado com sucesso para 6 - [3193] [43 5 0 0 0 0] 32/100
+23:15:26 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 39 0 0 0 0] utilizado em 0x 0y
+23:15:26 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:15:26 : [lFlymber] - Falha na refinação de Elite_dos_Aventureiros para 7 - [3193] [43 6 0 0 0 0] 93/65
+23:15:27 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 38 0 0 0 0] utilizado em 0x 0y
+23:15:27 : [lFlymber] - [Mensagem do servidor]> Refinação NÃO sucedida.
+23:15:27 : [lFlymber] - Falha na refinação de Elite_dos_Aventureiros para 7 - [3193] [43 6 0 0 0 0] 82/65
+23:15:28 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 37 0 0 0 0] utilizado em 0x 0y
+23:15:28 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:15:28 : [lFlymber] - Item Elite_dos_Aventureiros refinado com sucesso para 7 - [3193] [43 6 0 0 0 0] 14/65
+23:15:28 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 36 0 0 0 0] utilizado em 0x 0y
+23:15:28 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:15:28 : [lFlymber] - Item Elite_dos_Aventureiros refinado com sucesso para 8 - [3193] [43 7 0 0 0 0] 3/50
+23:15:29 : [lFlymber] - Item Poeira_de_Lactolerium [413] [61 35 0 0 0 0] utilizado em 0x 0y
+23:15:29 : [lFlymber] - [Mensagem do servidor]> Refinação sucedida.
+23:15:29 : [lFlymber] - Item Elite_dos_Aventureiros refinado com sucesso para 9 - [3193] [43 8 0 0 0 0] 44/45
+23:15:34 : [lFlymber] - Clicado no NPC [Tera]. Face 18. Race: 2. GenerateId: 1237. Posição do usuário: 2476x 1687y. Posição do NPC: 2475x 1687y
+23:16:02 : [lFlymber] - Clicado no NPC [Tera]. Face 18. Race: 2. GenerateId: 1237. Posição do usuário: 2479x 1694y. Posição do NPC: 2475x 1687y
+23:16:10 : [lFlymber] - Moveu item Skinfaxi [2371] [178 107 100 60 10 0] do tipo EQUIPAMENTO do slot 14 para tipo BANCO slot 31
+23:16:40 : [lFlymber] - Personagem deu personagem
+23:16:48 : Solicitou ir ao mundo...
+23:16:48 : Recebido pedido para entrar no jogo
+23:16:48 : Recebido informação do personagem completa.
+23:16:48 : [lFlymber-MG] - [INFORMAÇÕES DA CONTA]
+Personagem online: lFlymber-MG
+Gold atual: 1912287360
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:25:37 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1106] [43 0 60 8 3 25]
+[02] - Armadura(N)[1116] [43 0 0 0 0 0]
+[03] - Calça(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas(N)[1140] [43 0 0 0 0 0]
+[05] - Botas(N)[1152] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Amuleto_de_Prata[551] [43 9 60 28 0 0]
+[01] - Brinco_de_Hecate[594] [0 0 0 0 0 0]
+[02] - Ankh_da_Justiça[661] [43 9 0 0 0 0]
+[03] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[04] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe(A)[1406] [43 0 3 20 59 0]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Robe(A)[1406] [43 2 71 50 2 30]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:16:48 : [lFlymber-MG] - Personagem lFlymber-MG enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 2808. PowerLevel: 5
+23:16:48 : [lFlymber-MG] - Gold atual: 1912287360. Classe: 0 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+23:16:48 : [lFlymber-MG] - Logou no personagem lFlymber-MG com poção divina ativo. Validade: 25/2/2021 10:58:44
+23:16:48 : [lFlymber-MG] - Logou no personagem lFlymber-MG com frango ativo. Tempo: 1116
+23:16:48 : [lFlymber-MG] - Logou no personagem lFlymber-MG com baú de experiência ativo. Tempo: 216
+23:16:48 : [lFlymber-MG] - Enviado informações do personagem
+23:16:49 : [lFlymber-MG] - Comando "/day "
+23:16:49 : [lFlymber-MG] - [Mensagem do servidor]> !#11 2
+23:16:54 : [lFlymber-MG] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 4610. Posição do usuário: 2118x 2038y. Posição do NPC: 2107x 2042y
+23:16:57 : [lFlymber-MG] - CrackError - Points: 2 type: 20
+23:17:01 : [lFlymber-MG] - Moveu item Skinfaxi [2371] [178 107 100 60 10 0] do tipo BANCO do slot 31 para tipo INVENTÁRIO slot 12
+23:17:04 : [lFlymber-MG] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:17:05 : [lFlymber-MG] - Moveu item Skeleton_Hammer [941] [43 9 0 0 0 0] do tipo BANCO do slot 26 para tipo INVENTÁRIO slot 10
+23:17:06 : [lFlymber-MG] - Moveu item Skeleton_Hammer [941] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 6
+23:17:09 : [lFlymber-MG] - Moveu item Skinfaxi [2371] [178 107 100 60 10 0] do tipo INVENTÁRIO do slot 12 para tipo BANCO slot 26
+23:17:15 : [lFlymber-MG] - Matou o mob Porco de Guerra. GenerID: 4421
+23:17:17 : [lFlymber-MG] - Matou o mob Porco de Guerra. GenerID: 4421
+23:18:03 : [lFlymber-MG] - Informações do pacote:
+MoveType: 0
+MoveSpeed: 4
+DestinyX: 2192
+DestinyY: 2101
+DestinyX: 2186
+DestinyY: 2101
+etc,diffrent movement. Speed que era para ser: 3
+23:18:06 : [lFlymber-MG] - Clicado no NPC [Helper    ]. Face 230. Race: 2. GenerateId: 3425. Posição do usuário: 2205x 2106y. Posição do NPC: 2204x 2106y
+23:18:14 : [lFlymber-MG] - Personagem deu personagem
+23:18:30 : Solicitou ir ao mundo...
+23:18:30 : Recebido pedido para entrar no jogo
+23:18:30 : Recebido informação do personagem completa.
+23:18:30 : [lFlymber] - [INFORMAÇÕES DA CONTA]
+Personagem online: lFlymber
+Gold atual: 1212380063
+Level atual: 102
+Experiência atual: 2042716320
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:27:17 horas
+Posição atual: 2090x 2101y
+
+Pontos NT: 12
+Entradas Hall: 21
+Info: 496
+Soul: 10
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 26/1/2021 11:23:25
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 2097107306
+SecLearn: 0
+Info: 515396076016
+Soul: 10
+
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 6 3 0 0]
+[08] - Brinco_de_Hercules[595] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 42 100 0 0]
+[11] - Pedra_Espiritual[633] [43 9 42 100 0 0]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 6 108 4]
+[14] - Grifo_Sangrento[2386] [48 117 100 60 10 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[55] - Pedra_Misteriosa[4148] [61 97 0 0 0 0]
+[56] - Conjunto_Kalintz(M)[4155] [96 25 2 21 0 32]
+[58] - Pergaminho_de_Portal(10)[776] [61 8 0 0 0 0]
+[59] - Ração_de_Grifo[2430] [96 1 61 96 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 25 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 25 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:18:30 : [lFlymber] - Personagem lFlymber enviado ao mundo 2090x 2101y - Canal 1 - Cash da conta: 2808. PowerLevel: 5506
+23:18:30 : [lFlymber] - Gold atual: 1212380063. Classe: 0 Evolução: 3. Experiência: 2042716320. Nível: 102. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+23:18:30 : [lFlymber] - Logou no personagem lFlymber com poção divina ativo. Validade: 25/2/2021 10:58:44
+23:18:30 : [lFlymber] - Logou no personagem lFlymber com frango ativo. Tempo: 1651
+23:18:30 : [lFlymber] - Logou no personagem lFlymber com baú de experiência ativo. Tempo: 37860
+23:18:30 : [lFlymber] - Evolução logada: 3
+23:18:30 : [lFlymber] - Dados da capa um: [3199] [43 9 0 0 0 0]
+23:18:30 : [lFlymber] - Dados da capa dois: [0] [0 0 0 0 0 0]
+23:18:30 : [lFlymber] - Não foi efetuado a troca pois a refinação atual é maior
+23:18:30 : [lFlymber] - Enviado informações do personagem
+23:18:31 : [lFlymber] - Comando "/day "
+23:18:31 : [lFlymber] - [Mensagem do servidor]> !#11 2
+23:18:36 : [lFlymber] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2103x 2115y. Posição do NPC: 2102x 2113y
+23:18:38 : [lFlymber] - CrackError - Points: 2 type: 20
+23:18:39 : [lFlymber] - Moveu item Cythera_Mística [3502] [43 241 0 0 0 0] do tipo BANCO do slot 2 para tipo INVENTÁRIO slot 30
+23:18:40 : [lFlymber] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:18:41 : [lFlymber] - Moveu item Cythera_Mística [3502] [43 241 0 0 0 0] do tipo INVENTÁRIO do slot 30 para tipo BANCO slot 2
+23:18:46 : [lFlymber] - Moveu item Balmung(Anct) [2493] [2 45 43 240 0 0] do tipo BANCO do slot 32 para tipo INVENTÁRIO slot 40
+23:18:50 : [lFlymber] - Moveu item Balmung(Anct) [2493] [2 45 43 240 0 0] do tipo INVENTÁRIO do slot 40 para tipo BANCO slot 32
+23:19:50 : [lFlymber] - Clicado no NPC [Troca1]. Face 60. Race: 2. GenerateId: 4786. Posição do usuário: 2110x 2106y. Posição do NPC: 2110x 2110y
+23:19:59 : [lFlymber] - Moveu item Conjunto_Kalintz(M) [4155] [96 25 2 21 0 32] do tipo INVENTÁRIO do slot 56 para tipo EQUIPAMENTO slot 12
+23:20:59 : [lFlymber] - BETASD12 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+23:20:59 : [lFlymber] - 1 Personagem foi desconectado. Permaneceu 00:29:44 minutos online

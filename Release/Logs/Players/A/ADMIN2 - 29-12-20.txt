@@ -1,0 +1,2228 @@
+
+14:49:43 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+14:49:43 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+14:49:43 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+14:49:52 : Solicitou ir ao mundo...
+14:49:52 : Recebido pedido para entrar no jogo
+14:49:52 : Recebido informação do personagem completa.
+14:49:52 : [TKzaoporra] - [INFORMAÇÕES DA CONTA]
+Personagem online: TKzaoporra
+Gold atual: 9952200
+Level atual: 1010
+Experiência atual: 30
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2098x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Cota_de_Couro_Batido(N)[1131] [0 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Pochard[988] [0 0 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 23 108 47]
+[14] - Cria_de_Porco[2330] [88 27 1 25 30 1]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Katana[939] [43 9 0 0 0 0]
+[01] - Machado[802] [0 0 0 0 0 0]
+[02] - Porrete_de_Espinhos[803] [0 0 0 0 0 0]
+[03] - Maça_Pesada[804] [0 0 0 0 0 0]
+[04] - Machado_de_Aço[805] [0 0 0 0 0 0]
+[05] - Machado_Duplo[806] [0 0 0 0 0 0]
+[06] - Maça_Gótica[807] [0 0 0 0 0 0]
+[07] - Martelo_Sagrado[808] [0 0 0 0 0 0]
+[08] - Machado_Sanguinário[809] [0 0 0 0 0 0]
+[09] - Balmung[811] [0 0 0 0 0 0]
+[10] - Lança_Invisível[837] [0 0 0 0 0 0]
+[11] - Porrete[801] [0 0 0 0 0 0]
+[12] - Gladius[862] [0 0 0 0 0 0]
+[13] - Adaga[861] [0 0 0 0 0 0]
+[14] - Dardo[876] [0 0 0 0 0 0]
+[15] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[16] - Lança_Relâmpago[884] [0 0 0 0 0 0]
+[17] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[18] - Lança_Mágica[918] [0 0 0 0 0 0]
+[19] - Javelin[922] [0 0 0 0 0 0]
+[20] - Katana[939] [0 0 0 0 0 0]
+[21] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[22] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[23] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[24] - Tsurugi[945] [0 0 0 0 0 0]
+[25] - Espada_Longa[863] [0 0 0 0 0 0]
+[26] - Martelo_de_Pedra[938] [43 9 0 0 0 0]
+[27] - Rapier[952] [0 0 0 0 0 0]
+[28] - Cimitarra[953] [0 0 0 0 0 0]
+[29] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[30] - Martelo[966] [0 0 0 0 0 0]
+[31] - Maça_Pesada[961] [0 0 0 0 0 0]
+[32] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[33] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[34] - Grande_Machado[969] [0 0 0 0 0 0]
+[35] - Stiletto[951] [0 0 0 0 0 0]
+[36] - Maça[962] [0 0 0 0 0 0]
+[37] - Kraika[963] [0 0 0 0 0 0]
+[38] - Martelo[966] [0 0 0 0 0 0]
+[39] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[40] - Maça_Gótica[965] [0 0 0 0 0 0]
+[41] - Machado_de_Batalha[968] [0 0 0 0 0 0]
+[42] - Maça_Gótica[965] [0 0 0 0 0 0]
+[43] - Machado_Duplo[964] [0 0 0 0 0 0]
+[44] - Grande_Machado[969] [0 0 0 0 0 0]
+[45] - Martelo_Sykik[970] [0 0 0 0 0 0]
+[46] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[47] - Classe_D[4019] [0 0 0 0 0 0]
+[48] - Manoplas_Embutidas(A)[1217] [0 0 0 0 0 0]
+[49] - Classe_A[4016] [0 0 0 0 0 0]
+[50] - Classe_B[4017] [0 0 0 0 0 0]
+[51] - Classe_C[4018] [0 0 0 0 0 0]
+[52] - Classe_D[4019] [0 0 0 0 0 0]
+[53] - Classe_E[4020] [0 0 0 0 0 0]
+[54] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[55] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[56] - Manoplas_Embutidas(N)[1215] [0 0 0 0 0 0]
+[57] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[58] - Ervas_de_Cura[415] [61 120 0 0 0 0]
+[59] - Poção_Poderosa[3431] [61 98 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:49:53 : [TKzaoporra] - Personagem TKzaoporra enviado ao mundo 2098x 2098y - Canal 2 - Cash da conta: 127426. OverPower: 2022
+14:49:53 : [TKzaoporra] - Gold atual: 9952200. Classe: 0 Evolução: 0. Experiência: 30. Nível: 1010. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:49:53 : [TKzaoporra] - Logou no personagem TKzaoporra com baú de experiência ativo. Tempo: 791
+14:49:53 : [TKzaoporra] - Resetado a contagem de entradas água! Day: 362-363. Total: 1
+14:49:53 : [TKzaoporra] - Enviado informações do personagem
+14:49:54 : [TKzaoporra] - Comando "/day "
+14:49:54 : [TKzaoporra] - [Mensagem do servidor]> !#11 2
+14:50:00 : [TKzaoporra] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+14:50:00 : [TKzaoporra] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:50:13 : [TKzaoporra] - Item Classe_D [4019] [0 0 0 0 0 0] utilizado em 0x 0y
+14:50:13 : [TKzaoporra] - Replation usado em Manoplas_Embutidas(N) [1215] [0 0 0 0 0 0]
+14:50:13 : [TKzaoporra] - Replation gerou o adicional [1215] [0 0 72 15 2 12]
+14:50:15 : [TKzaoporra] - Item Essência_Mithril_D [4024] [0 0 0 0 0 0] utilizado em 0x 0y
+14:50:15 : [TKzaoporra] - Essencia Mythril usado em Manoplas_Embutidas(N) [1215] [0 0 72 15 2 12]
+14:50:15 : [TKzaoporra] - [Mensagem do servidor]> Este item não pode ser aprimorado 2
+14:50:19 : [TKzaoporra] - Item Classe_D [4019] [0 0 0 0 0 0] utilizado em 0x 0y
+14:50:19 : [TKzaoporra] - Replation usado em Manoplas_Embutidas(N) [1215] [0 0 0 0 0 0]
+14:50:19 : [TKzaoporra] - Replation gerou o adicional [1215] [0 0 72 20 60 8]
+14:50:21 : [TKzaoporra] - Item Essência_Mithril_D [4024] [0 0 0 0 0 0] utilizado em 0x 0y
+14:50:21 : [TKzaoporra] - Essencia Mythril usado em Manoplas_Embutidas(N) [1215] [0 0 72 20 60 8]
+14:50:21 : [TKzaoporra] - [Mensagem do servidor]> Este item não pode ser aprimorado 2
+15:17:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 177.205.127.75 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:17:13 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+15:17:13 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:17:18 : Solicitou ir ao mundo...
+15:17:18 : Recebido pedido para entrar no jogo
+15:17:18 : Recebido informação do personagem completa.
+15:17:18 : [FoeFoe2] - [INFORMAÇÕES DA CONTA]
+Personagem online: FoeFoe2
+Gold atual: 950750350
+Level atual: 16
+Experiência atual: 26427
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[14] - Aranha[2360] [95 3 1 7 8 0]
+[15] - Capa_de_Hekalotia[736] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Ração_de_Aranha[2420] [61 1 0 0 0 0]
+[01] - Ração_de_Cérberus[2438] [61 5 0 0 0 0]
+[02] - Chave_da_Ultima_Porta[453] [0 0 0 0 0 0]
+[03] - Chave_Portão_Orc_Sul[465] [0 0 0 0 0 0]
+[04] - Chave_Portão_Orc_Leste[466] [0 0 0 0 0 0]
+[05] - Última_Chave_Orc[467] [0 0 0 0 0 0]
+[06] - Arco_de_Madeira[816] [43 0 0 0 0 0]
+[07] - Elmo_Aeon(N)[1476] [0 0 0 0 0 0]
+[08] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[09] - Fênix[2389] [1 1 1 10 0 0]
+[10] - Svadilfari[2387] [184 255 10 10 0 0]
+[12] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[13] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[14] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[15] - Manoplas_Acolchoadas(N)[1560] [43 1 72 20 60 4]
+[16] - Elmo_de_Couro(A)[1801] [43 0 60 8 59 0]
+[17] - Manoplas_Acolchoadas(N)[1560] [8 12 72 10 2 6]
+[18] - Chapéu_Pele_de_Animal(N)[1401] [43 0 60 8 3 10]
+[19] - Jaqueta_Acolchoada(N)[1554] [43 1 71 30 59 0]
+[20] - Calça_de_Couro(A)[1809] [7 7 71 40 2 12]
+[21] - Braçadeira_de_Ferro(M)[1576] [43 1 72 15 54 6]
+[22] - Braçadeira_de_Ferro(A)[2049] [43 0 72 10 54 9]
+[23] - Calça_Pele_de_Animal(A)[1409] [43 0 3 20 2 12]
+[24] - Botas_de_Couro_Duro(A)[1818] [43 0 73 12 59 0]
+[25] - Ração_de_Fênix[2439] [61 4 0 0 0 0]
+[26] - Armadura_Aeon(N)[1479] [0 0 0 0 0 0]
+[27] - [4190] [96 30 0 0 0 0]
+[28] - Conjunto_Yin-Yang[4150] [96 7 1 21 0 0]
+[29] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [120 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:17:18 : [FoeFoe2] - Personagem FoeFoe2 enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 127426. OverPower: 34
+15:17:18 : [FoeFoe2] - Gold atual: 950750350. Classe: 1 Evolução: 0. Experiência: 26427. Nível: 16. Info: 0. GuildID: 0. CP: 45. Pontos de Contribuição: 0. Limite: 0
+15:17:18 : [FoeFoe2] - Enviado informações do personagem
+15:17:19 : [FoeFoe2] - Comando "/day "
+15:17:19 : [FoeFoe2] - [Mensagem do servidor]> !#11 2
+15:17:30 : [FoeFoe2] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:17:36 : [FoeFoe2] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+15:17:36 : [FoeFoe2] - 1 Personagem foi desconectado. Permaneceu 00:00:23 minutos online
+15:28:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+15:28:22 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+15:28:22 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:28:26 : Solicitou ir ao mundo...
+15:28:26 : Recebido pedido para entrar no jogo
+15:28:26 : Recebido informação do personagem completa.
+15:28:26 : [TKzaoporra] - [INFORMAÇÕES DA CONTA]
+Personagem online: TKzaoporra
+Gold atual: 9952200
+Level atual: 1010
+Experiência atual: 30
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 10x 10y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Cota_de_Couro_Batido(N)[1131] [0 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Pochard[988] [0 0 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 23 108 46]
+[14] - Cria_de_Porco[2330] [0 0 1 25 30 1]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Katana[939] [43 9 0 0 0 0]
+[01] - Machado[802] [0 0 0 0 0 0]
+[02] - Porrete_de_Espinhos[803] [0 0 0 0 0 0]
+[03] - Maça_Pesada[804] [0 0 0 0 0 0]
+[04] - Machado_de_Aço[805] [0 0 0 0 0 0]
+[05] - Machado_Duplo[806] [0 0 0 0 0 0]
+[06] - Maça_Gótica[807] [0 0 0 0 0 0]
+[07] - Martelo_Sagrado[808] [0 0 0 0 0 0]
+[08] - Machado_Sanguinário[809] [0 0 0 0 0 0]
+[09] - Balmung[811] [0 0 0 0 0 0]
+[10] - Lança_Invisível[837] [0 0 0 0 0 0]
+[11] - Porrete[801] [0 0 0 0 0 0]
+[12] - Gladius[862] [0 0 0 0 0 0]
+[13] - Adaga[861] [0 0 0 0 0 0]
+[14] - Dardo[876] [0 0 0 0 0 0]
+[15] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[16] - Lança_Relâmpago[884] [0 0 0 0 0 0]
+[17] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[18] - Lança_Mágica[918] [0 0 0 0 0 0]
+[19] - Javelin[922] [0 0 0 0 0 0]
+[20] - Katana[939] [0 0 0 0 0 0]
+[21] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[22] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[23] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[24] - Tsurugi[945] [0 0 0 0 0 0]
+[25] - Espada_Longa[863] [0 0 0 0 0 0]
+[26] - Martelo_de_Pedra[938] [43 9 0 0 0 0]
+[27] - Rapier[952] [0 0 0 0 0 0]
+[28] - Cimitarra[953] [0 0 0 0 0 0]
+[29] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[30] - Martelo[966] [0 0 0 0 0 0]
+[31] - Maça_Pesada[961] [0 0 0 0 0 0]
+[32] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[33] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[34] - Grande_Machado[969] [0 0 0 0 0 0]
+[35] - Stiletto[951] [0 0 0 0 0 0]
+[36] - Maça[962] [0 0 0 0 0 0]
+[37] - Kraika[963] [0 0 0 0 0 0]
+[38] - Martelo[966] [0 0 0 0 0 0]
+[39] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[40] - Maça_Gótica[965] [0 0 0 0 0 0]
+[41] - Machado_de_Batalha[968] [0 0 0 0 0 0]
+[42] - Maça_Gótica[965] [0 0 0 0 0 0]
+[43] - Machado_Duplo[964] [0 0 0 0 0 0]
+[44] - Grande_Machado[969] [0 0 0 0 0 0]
+[45] - Martelo_Sykik[970] [0 0 0 0 0 0]
+[46] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[48] - Manoplas_Embutidas(A)[1217] [0 0 0 0 0 0]
+[49] - Classe_A[4016] [0 0 0 0 0 0]
+[50] - Classe_B[4017] [0 0 0 0 0 0]
+[51] - Classe_C[4018] [0 0 0 0 0 0]
+[53] - Classe_E[4020] [0 0 0 0 0 0]
+[54] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[55] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[56] - Manoplas_Embutidas(N)[1215] [0 0 0 0 0 0]
+[57] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[58] - Ervas_de_Cura[415] [61 120 0 0 0 0]
+[59] - Poção_Poderosa[3431] [61 98 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:28:26 : [TKzaoporra] - Personagem TKzaoporra enviado ao mundo 10x 10y - Canal 2 - Cash da conta: 127426. OverPower: 2022
+15:28:26 : [TKzaoporra] - Gold atual: 9952200. Classe: 0 Evolução: 0. Experiência: 30. Nível: 1010. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+15:28:26 : [TKzaoporra] - Logou no personagem TKzaoporra com baú de experiência ativo. Tempo: 779
+15:28:26 : [TKzaoporra] - Enviado informações do personagem
+15:28:27 : [TKzaoporra] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:28:27 : [TKzaoporra] - 1 Personagem foi desconectado. Permaneceu 00:00:05 minutos online
+16:26:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+16:26:23 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+16:26:23 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+16:26:23 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:26:27 : Solicitou ir ao mundo...
+16:26:27 : Recebido pedido para entrar no jogo
+16:26:27 : Recebido informação do personagem completa.
+16:26:27 : [TKzaoporra] - [INFORMAÇÕES DA CONTA]
+Personagem online: TKzaoporra
+Gold atual: 9952200
+Level atual: 1010
+Experiência atual: 30
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2098x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Cota_de_Couro_Batido(N)[1131] [0 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Pochard[988] [0 0 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 23 108 46]
+[14] - Cria_de_Porco[2330] [0 0 1 25 30 1]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Katana[939] [43 9 0 0 0 0]
+[01] - Machado[802] [0 0 0 0 0 0]
+[02] - Porrete_de_Espinhos[803] [0 0 0 0 0 0]
+[03] - Maça_Pesada[804] [0 0 0 0 0 0]
+[04] - Machado_de_Aço[805] [0 0 0 0 0 0]
+[05] - Machado_Duplo[806] [0 0 0 0 0 0]
+[06] - Maça_Gótica[807] [0 0 0 0 0 0]
+[07] - Martelo_Sagrado[808] [0 0 0 0 0 0]
+[08] - Machado_Sanguinário[809] [0 0 0 0 0 0]
+[09] - Balmung[811] [0 0 0 0 0 0]
+[10] - Lança_Invisível[837] [0 0 0 0 0 0]
+[11] - Porrete[801] [0 0 0 0 0 0]
+[12] - Gladius[862] [0 0 0 0 0 0]
+[13] - Adaga[861] [0 0 0 0 0 0]
+[14] - Dardo[876] [0 0 0 0 0 0]
+[15] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[16] - Lança_Relâmpago[884] [0 0 0 0 0 0]
+[17] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[18] - Lança_Mágica[918] [0 0 0 0 0 0]
+[19] - Javelin[922] [0 0 0 0 0 0]
+[20] - Katana[939] [0 0 0 0 0 0]
+[21] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[22] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[23] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[24] - Tsurugi[945] [0 0 0 0 0 0]
+[25] - Espada_Longa[863] [0 0 0 0 0 0]
+[26] - Martelo_de_Pedra[938] [43 9 0 0 0 0]
+[27] - Rapier[952] [0 0 0 0 0 0]
+[28] - Cimitarra[953] [0 0 0 0 0 0]
+[29] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[30] - Martelo[966] [0 0 0 0 0 0]
+[31] - Maça_Pesada[961] [0 0 0 0 0 0]
+[32] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[33] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[34] - Grande_Machado[969] [0 0 0 0 0 0]
+[35] - Stiletto[951] [0 0 0 0 0 0]
+[36] - Maça[962] [0 0 0 0 0 0]
+[37] - Kraika[963] [0 0 0 0 0 0]
+[38] - Martelo[966] [0 0 0 0 0 0]
+[39] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[40] - Maça_Gótica[965] [0 0 0 0 0 0]
+[41] - Machado_de_Batalha[968] [0 0 0 0 0 0]
+[42] - Maça_Gótica[965] [0 0 0 0 0 0]
+[43] - Machado_Duplo[964] [0 0 0 0 0 0]
+[44] - Grande_Machado[969] [0 0 0 0 0 0]
+[45] - Martelo_Sykik[970] [0 0 0 0 0 0]
+[46] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[48] - Manoplas_Embutidas(A)[1217] [0 0 0 0 0 0]
+[49] - Classe_A[4016] [0 0 0 0 0 0]
+[50] - Classe_B[4017] [0 0 0 0 0 0]
+[51] - Classe_C[4018] [0 0 0 0 0 0]
+[53] - Classe_E[4020] [0 0 0 0 0 0]
+[54] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[55] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[56] - Manoplas_Embutidas(N)[1215] [0 0 0 0 0 0]
+[57] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[58] - Ervas_de_Cura[415] [61 120 0 0 0 0]
+[59] - Poção_Poderosa[3431] [61 98 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:26:27 : [TKzaoporra] - Personagem TKzaoporra enviado ao mundo 2098x 2094y - Canal 2 - Cash da conta: 127426. OverPower: 2022
+16:26:27 : [TKzaoporra] - Gold atual: 9952200. Classe: 0 Evolução: 0. Experiência: 30. Nível: 1010. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+16:26:27 : [TKzaoporra] - Logou no personagem TKzaoporra com baú de experiência ativo. Tempo: 778
+16:26:27 : [TKzaoporra] - Enviado informações do personagem
+16:26:28 : [TKzaoporra] - Comando "/day "
+16:26:28 : [TKzaoporra] - [Mensagem do servidor]> !#11 2
+16:26:34 : [TKzaoporra] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:26:43 : [TKzaoporra] - Personagem deu personagem
+16:26:47 : Solicitou ir ao mundo...
+16:26:47 : Recebido pedido para entrar no jogo
+16:26:47 : Recebido informação do personagem completa.
+16:26:47 : [TKzaoporra] - [INFORMAÇÕES DA CONTA]
+Personagem online: TKzaoporra
+Gold atual: 9952200
+Level atual: 1010
+Experiência atual: 30
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:24 horas
+Posição atual: 2088x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Cota_de_Couro_Batido(N)[1131] [0 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Pochard[988] [0 0 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 23 108 46]
+[14] - Cria_de_Porco[2330] [0 0 1 25 30 1]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Katana[939] [43 9 0 0 0 0]
+[01] - Machado[802] [0 0 0 0 0 0]
+[02] - Porrete_de_Espinhos[803] [0 0 0 0 0 0]
+[03] - Maça_Pesada[804] [0 0 0 0 0 0]
+[04] - Machado_de_Aço[805] [0 0 0 0 0 0]
+[05] - Machado_Duplo[806] [0 0 0 0 0 0]
+[06] - Maça_Gótica[807] [0 0 0 0 0 0]
+[07] - Martelo_Sagrado[808] [0 0 0 0 0 0]
+[08] - Machado_Sanguinário[809] [0 0 0 0 0 0]
+[09] - Balmung[811] [0 0 0 0 0 0]
+[10] - Lança_Invisível[837] [0 0 0 0 0 0]
+[11] - Porrete[801] [0 0 0 0 0 0]
+[12] - Gladius[862] [0 0 0 0 0 0]
+[13] - Adaga[861] [0 0 0 0 0 0]
+[14] - Dardo[876] [0 0 0 0 0 0]
+[15] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[16] - Lança_Relâmpago[884] [0 0 0 0 0 0]
+[17] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[18] - Lança_Mágica[918] [0 0 0 0 0 0]
+[19] - Javelin[922] [0 0 0 0 0 0]
+[20] - Katana[939] [0 0 0 0 0 0]
+[21] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[22] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[23] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[24] - Tsurugi[945] [0 0 0 0 0 0]
+[25] - Espada_Longa[863] [0 0 0 0 0 0]
+[26] - Martelo_de_Pedra[938] [43 9 0 0 0 0]
+[27] - Rapier[952] [0 0 0 0 0 0]
+[28] - Cimitarra[953] [0 0 0 0 0 0]
+[29] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[30] - Martelo[966] [0 0 0 0 0 0]
+[31] - Maça_Pesada[961] [0 0 0 0 0 0]
+[32] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[33] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[34] - Grande_Machado[969] [0 0 0 0 0 0]
+[35] - Stiletto[951] [0 0 0 0 0 0]
+[36] - Maça[962] [0 0 0 0 0 0]
+[37] - Kraika[963] [0 0 0 0 0 0]
+[38] - Martelo[966] [0 0 0 0 0 0]
+[39] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[40] - Maça_Gótica[965] [0 0 0 0 0 0]
+[41] - Machado_de_Batalha[968] [0 0 0 0 0 0]
+[42] - Maça_Gótica[965] [0 0 0 0 0 0]
+[43] - Machado_Duplo[964] [0 0 0 0 0 0]
+[44] - Grande_Machado[969] [0 0 0 0 0 0]
+[45] - Martelo_Sykik[970] [0 0 0 0 0 0]
+[46] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[48] - Manoplas_Embutidas(A)[1217] [0 0 0 0 0 0]
+[49] - Classe_A[4016] [0 0 0 0 0 0]
+[50] - Classe_B[4017] [0 0 0 0 0 0]
+[51] - Classe_C[4018] [0 0 0 0 0 0]
+[53] - Classe_E[4020] [0 0 0 0 0 0]
+[54] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[55] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[56] - Manoplas_Embutidas(N)[1215] [0 0 0 0 0 0]
+[57] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[58] - Ervas_de_Cura[415] [61 120 0 0 0 0]
+[59] - Poção_Poderosa[3431] [61 98 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:26:47 : [TKzaoporra] - Personagem TKzaoporra enviado ao mundo 2088x 2101y - Canal 2 - Cash da conta: 127426. OverPower: 2022
+16:26:47 : [TKzaoporra] - Gold atual: 9952200. Classe: 0 Evolução: 0. Experiência: 30. Nível: 1010. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+16:26:47 : [TKzaoporra] - Logou no personagem TKzaoporra com baú de experiência ativo. Tempo: 777
+16:26:47 : [TKzaoporra] - Enviado informações do personagem
+16:26:48 : [TKzaoporra] - Comando "/day "
+16:26:48 : [TKzaoporra] - [Mensagem do servidor]> !#11 2
+16:26:58 : [TKzaoporra] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:27:13 : [TKzaoporra] - Item Classe_A [4016] [0 0 0 0 0 0] utilizado em 0x 0y
+16:27:13 : [TKzaoporra] - Replation usado em Calça_de_Couro_Duro(N) [1128] [43 0 0 0 0 0]
+16:27:13 : [TKzaoporra] - Replation gerou o adicional [1128] [43 0 71 50 3 25]
+16:27:32 : [TKzaoporra] - Comando "/gm +item 4019 61 120"
+16:27:32 : [TKzaoporra] - [Mensagem do servidor]> Criou o item Classe_D
+16:27:32 : [TKzaoporra] - TKzaoporra criou o item Classe_D [4019] [61 120 0 0 0 0]
+16:27:34 : [TKzaoporra] - Item Classe_D [4019] [61 120 0 0 0 0] utilizado em 0x 0y
+16:27:34 : [TKzaoporra] - Replation usado em Manoplas_Embutidas(A) [1217] [0 0 0 0 0 0]
+16:27:34 : [TKzaoporra] - Replation gerou o adicional [1217] [0 0 72 30 2 24]
+16:27:36 : [TKzaoporra] - Item Essência_Mithril_D [4024] [0 0 0 0 0 0] utilizado em 0x 0y
+16:27:36 : [TKzaoporra] - Essencia Mythril usado em Manoplas_Embutidas(A) [1217] [0 0 72 30 2 24]
+16:27:36 : [TKzaoporra] - [Mensagem do servidor]> 1217 0.0 0.0 0.0 - 0 0 0
+16:27:38 : [TKzaoporra] - Item Essência_Mithril_D [4024] [0 0 0 0 0 0] utilizado em 0x 0y
+16:27:38 : [TKzaoporra] - Essencia Mythril usado em Manoplas_Embutidas(A) [1217] [0 0 0 0 0 0]
+16:27:38 : [TKzaoporra] - [Mensagem do servidor]> 1217 0.0 0.0 0.0 - 0 0 0
+16:27:41 : [TKzaoporra] - Item Classe_D [4019] [61 119 0 0 0 0] utilizado em 0x 0y
+16:27:41 : [TKzaoporra] - Replation usado em Manoplas_Embutidas(A) [1217] [0 0 0 0 0 0]
+16:27:41 : [TKzaoporra] - Replation gerou o adicional [1217] [0 0 72 20 60 6]
+16:27:43 : [TKzaoporra] - Item Essência_Mithril_D [4024] [0 0 0 0 0 0] utilizado em 0x 0y
+16:27:43 : [TKzaoporra] - Essencia Mythril usado em Manoplas_Embutidas(A) [1217] [0 0 72 20 60 6]
+16:27:43 : [TKzaoporra] - [Mensagem do servidor]> 1217 0.0 0.0 0.0 - 0 0 0
+16:27:45 : [TKzaoporra] - Item Classe_D [4019] [61 118 0 0 0 0] utilizado em 0x 0y
+16:27:45 : [TKzaoporra] - Replation usado em Manoplas_Embutidas(A) [1217] [0 0 0 0 0 0]
+16:27:45 : [TKzaoporra] - Replation gerou o adicional [1217] [0 0 72 30 74 15]
+16:27:47 : [TKzaoporra] - Item Essência_Mithril_D [4024] [0 0 0 0 0 0] utilizado em 0x 0y
+16:27:47 : [TKzaoporra] - Essencia Mythril usado em Manoplas_Embutidas(A) [1217] [0 0 72 30 74 15]
+16:27:47 : [TKzaoporra] - [Mensagem do servidor]> 1217 0.0 0.0 0.0 - 0 0 0
+16:27:49 : [TKzaoporra] - Item Classe_D [4019] [61 117 0 0 0 0] utilizado em 0x 0y
+16:27:49 : [TKzaoporra] - Replation usado em Manoplas_Embutidas(A) [1217] [0 0 0 0 0 0]
+16:27:49 : [TKzaoporra] - Replation gerou o adicional [1217] [0 0 72 20 2 24]
+16:27:51 : [TKzaoporra] - Item Essência_Mithril_D [4024] [0 0 0 0 0 0] utilizado em 0x 0y
+16:27:51 : [TKzaoporra] - Essencia Mythril usado em Manoplas_Embutidas(A) [1217] [0 0 72 20 2 24]
+16:27:51 : [TKzaoporra] - [Mensagem do servidor]> 1217 0.0 0.0 0.0 - 0 0 0
+16:28:07 : [TKzaoporra] - Item Essência_Mithril_D [4024] [0 0 0 0 0 0] utilizado em 0x 0y
+16:28:07 : [TKzaoporra] - Essencia Mythril usado em Manoplas_Embutidas(A) [1217] [0 0 0 0 0 0]
+16:28:07 : [TKzaoporra] - [Mensagem do servidor]> 1217 0.0 0.0 0.0 - 0 0 0
+16:28:09 : [TKzaoporra] - Item Classe_D [4019] [61 116 0 0 0 0] utilizado em 0x 0y
+16:28:09 : [TKzaoporra] - Replation usado em Manoplas_Embutidas(A) [1217] [0 0 0 0 0 0]
+16:28:09 : [TKzaoporra] - Replation gerou o adicional [1217] [0 0 72 20 74 12]
+16:28:11 : [TKzaoporra] - Item Classe_D [4019] [61 115 0 0 0 0] utilizado em 0x 0y
+16:28:11 : [TKzaoporra] - Replation usado em Manoplas_Embutidas(A) [1217] [0 0 72 20 74 12]
+16:28:11 : [TKzaoporra] - Replation gerou o adicional [1217] [0 0 72 30 74 15]
+16:28:12 : [TKzaoporra] - Item Classe_D [4019] [61 114 0 0 0 0] utilizado em 0x 0y
+16:28:12 : [TKzaoporra] - Replation usado em Manoplas_Embutidas(A) [1217] [0 0 72 30 74 15]
+16:28:12 : [TKzaoporra] - Replation gerou o adicional [1217] [0 0 72 15 60 8]
+16:28:13 : [TKzaoporra] - Item Essência_Mithril_D [4024] [0 0 0 0 0 0] utilizado em 0x 0y
+16:28:13 : [TKzaoporra] - Essencia Mythril usado em Manoplas_Embutidas(A) [1217] [0 0 72 15 60 8]
+16:28:13 : [TKzaoporra] - [Mensagem do servidor]> 1217 0.0 0.0 0.0 - 0 0 0
+16:28:21 : [TKzaoporra] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:28:21 : [TKzaoporra] - 1 Personagem foi desconectado. Permaneceu 00:01:57 minutos online
+18:48:28 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+18:48:28 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+18:48:28 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+18:48:29 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:48:39 : Solicitou ir ao mundo...
+18:48:39 : Recebido pedido para entrar no jogo
+18:48:39 : Recebido informação do personagem completa.
+18:48:39 : [TKzaoporra] - [INFORMAÇÕES DA CONTA]
+Personagem online: TKzaoporra
+Gold atual: 9952200
+Level atual: 1010
+Experiência atual: 30
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2086x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Cota_de_Couro_Batido(N)[1131] [0 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Pochard[988] [0 0 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 23 108 44]
+[14] - Cria_de_Porco[2330] [0 0 1 25 30 1]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Katana[939] [43 9 0 0 0 0]
+[01] - Machado[802] [0 0 0 0 0 0]
+[02] - Porrete_de_Espinhos[803] [0 0 0 0 0 0]
+[03] - Maça_Pesada[804] [0 0 0 0 0 0]
+[04] - Machado_de_Aço[805] [0 0 0 0 0 0]
+[05] - Machado_Duplo[806] [0 0 0 0 0 0]
+[06] - Maça_Gótica[807] [0 0 0 0 0 0]
+[07] - Martelo_Sagrado[808] [0 0 0 0 0 0]
+[08] - Machado_Sanguinário[809] [0 0 0 0 0 0]
+[09] - Balmung[811] [0 0 0 0 0 0]
+[10] - Lança_Invisível[837] [0 0 0 0 0 0]
+[11] - Porrete[801] [0 0 0 0 0 0]
+[12] - Gladius[862] [0 0 0 0 0 0]
+[13] - Adaga[861] [0 0 0 0 0 0]
+[14] - Dardo[876] [0 0 0 0 0 0]
+[15] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[16] - Lança_Relâmpago[884] [0 0 0 0 0 0]
+[17] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[18] - Lança_Mágica[918] [0 0 0 0 0 0]
+[19] - Javelin[922] [0 0 0 0 0 0]
+[20] - Katana[939] [0 0 0 0 0 0]
+[21] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[22] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[23] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[24] - Tsurugi[945] [0 0 0 0 0 0]
+[25] - Espada_Longa[863] [0 0 0 0 0 0]
+[26] - Martelo_de_Pedra[938] [43 9 0 0 0 0]
+[27] - Rapier[952] [0 0 0 0 0 0]
+[28] - Cimitarra[953] [0 0 0 0 0 0]
+[29] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[30] - Martelo[966] [0 0 0 0 0 0]
+[31] - Maça_Pesada[961] [0 0 0 0 0 0]
+[32] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[33] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[34] - Grande_Machado[969] [0 0 0 0 0 0]
+[35] - Stiletto[951] [0 0 0 0 0 0]
+[36] - Maça[962] [0 0 0 0 0 0]
+[37] - Kraika[963] [0 0 0 0 0 0]
+[38] - Martelo[966] [0 0 0 0 0 0]
+[39] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[40] - Maça_Gótica[965] [0 0 0 0 0 0]
+[41] - Machado_de_Batalha[968] [0 0 0 0 0 0]
+[42] - Maça_Gótica[965] [0 0 0 0 0 0]
+[43] - Machado_Duplo[964] [0 0 0 0 0 0]
+[44] - Grande_Machado[969] [0 0 0 0 0 0]
+[45] - Martelo_Sykik[970] [0 0 0 0 0 0]
+[46] - Calça_de_Couro_Duro(N)[1128] [43 0 71 50 3 25]
+[47] - Classe_D[4019] [61 113 0 0 0 0]
+[48] - Manoplas_Embutidas(A)[1217] [0 0 0 0 0 0]
+[50] - Classe_B[4017] [0 0 0 0 0 0]
+[51] - Classe_C[4018] [0 0 0 0 0 0]
+[53] - Classe_E[4020] [0 0 0 0 0 0]
+[54] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[55] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[56] - Manoplas_Embutidas(N)[1215] [0 0 0 0 0 0]
+[57] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[58] - Ervas_de_Cura[415] [61 120 0 0 0 0]
+[59] - Poção_Poderosa[3431] [61 98 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:48:39 : [TKzaoporra] - Personagem TKzaoporra enviado ao mundo 2086x 2097y - Canal 2 - Cash da conta: 127426. OverPower: 2022
+18:48:39 : [TKzaoporra] - Gold atual: 9952200. Classe: 0 Evolução: 0. Experiência: 30. Nível: 1010. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+18:48:39 : [TKzaoporra] - Logou no personagem TKzaoporra com baú de experiência ativo. Tempo: 765
+18:48:39 : [TKzaoporra] - Enviado informações do personagem
+18:48:40 : [TKzaoporra] - Comando "/day "
+18:48:40 : [TKzaoporra] - [Mensagem do servidor]> !#11 2
+18:48:51 : [TKzaoporra] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:48:51 : [TKzaoporra] - 1 Personagem foi desconectado. Permaneceu 00:00:22 minutos online
+20:01:25 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+20:01:25 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+20:01:25 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+20:01:25 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:01:29 : Solicitou ir ao mundo...
+20:01:29 : Recebido pedido para entrar no jogo
+20:01:29 : Recebido informação do personagem completa.
+20:01:29 : [TKzaoporra] - [INFORMAÇÕES DA CONTA]
+Personagem online: TKzaoporra
+Gold atual: 9952200
+Level atual: 1010
+Experiência atual: 30
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2095x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Cota_de_Couro_Batido(N)[1131] [0 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Pochard[988] [0 0 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 23 108 43]
+[14] - Cria_de_Porco[2330] [0 0 1 25 30 1]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Katana[939] [43 9 0 0 0 0]
+[01] - Machado[802] [0 0 0 0 0 0]
+[02] - Porrete_de_Espinhos[803] [0 0 0 0 0 0]
+[03] - Maça_Pesada[804] [0 0 0 0 0 0]
+[04] - Machado_de_Aço[805] [0 0 0 0 0 0]
+[05] - Machado_Duplo[806] [0 0 0 0 0 0]
+[06] - Maça_Gótica[807] [0 0 0 0 0 0]
+[07] - Martelo_Sagrado[808] [0 0 0 0 0 0]
+[08] - Machado_Sanguinário[809] [0 0 0 0 0 0]
+[09] - Balmung[811] [0 0 0 0 0 0]
+[10] - Lança_Invisível[837] [0 0 0 0 0 0]
+[11] - Porrete[801] [0 0 0 0 0 0]
+[12] - Gladius[862] [0 0 0 0 0 0]
+[13] - Adaga[861] [0 0 0 0 0 0]
+[14] - Dardo[876] [0 0 0 0 0 0]
+[15] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[16] - Lança_Relâmpago[884] [0 0 0 0 0 0]
+[17] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[18] - Lança_Mágica[918] [0 0 0 0 0 0]
+[19] - Javelin[922] [0 0 0 0 0 0]
+[20] - Katana[939] [0 0 0 0 0 0]
+[21] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[22] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[23] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[24] - Tsurugi[945] [0 0 0 0 0 0]
+[25] - Espada_Longa[863] [0 0 0 0 0 0]
+[26] - Martelo_de_Pedra[938] [43 9 0 0 0 0]
+[27] - Rapier[952] [0 0 0 0 0 0]
+[28] - Cimitarra[953] [0 0 0 0 0 0]
+[29] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[30] - Martelo[966] [0 0 0 0 0 0]
+[31] - Maça_Pesada[961] [0 0 0 0 0 0]
+[32] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[33] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[34] - Grande_Machado[969] [0 0 0 0 0 0]
+[35] - Stiletto[951] [0 0 0 0 0 0]
+[36] - Maça[962] [0 0 0 0 0 0]
+[37] - Kraika[963] [0 0 0 0 0 0]
+[38] - Martelo[966] [0 0 0 0 0 0]
+[39] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[40] - Maça_Gótica[965] [0 0 0 0 0 0]
+[41] - Machado_de_Batalha[968] [0 0 0 0 0 0]
+[42] - Maça_Gótica[965] [0 0 0 0 0 0]
+[43] - Machado_Duplo[964] [0 0 0 0 0 0]
+[44] - Grande_Machado[969] [0 0 0 0 0 0]
+[45] - Martelo_Sykik[970] [0 0 0 0 0 0]
+[46] - Calça_de_Couro_Duro(N)[1128] [43 0 71 50 3 25]
+[47] - Classe_D[4019] [61 113 0 0 0 0]
+[48] - Manoplas_Embutidas(A)[1217] [0 0 0 0 0 0]
+[50] - Classe_B[4017] [0 0 0 0 0 0]
+[51] - Classe_C[4018] [0 0 0 0 0 0]
+[53] - Classe_E[4020] [0 0 0 0 0 0]
+[54] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[55] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[56] - Manoplas_Embutidas(N)[1215] [0 0 0 0 0 0]
+[57] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[58] - Ervas_de_Cura[415] [61 120 0 0 0 0]
+[59] - Poção_Poderosa[3431] [61 98 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:01:29 : [TKzaoporra] - Personagem TKzaoporra enviado ao mundo 2095x 2096y - Canal 2 - Cash da conta: 127426. OverPower: 2022
+20:01:29 : [TKzaoporra] - Gold atual: 9952200. Classe: 0 Evolução: 0. Experiência: 30. Nível: 1010. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+20:01:29 : [TKzaoporra] - Logou no personagem TKzaoporra com baú de experiência ativo. Tempo: 763
+20:01:29 : [TKzaoporra] - Enviado informações do personagem
+20:01:30 : [TKzaoporra] - Comando "/day "
+20:01:30 : [TKzaoporra] - [Mensagem do servidor]> !#11 2
+20:01:43 : [TKzaoporra] - Moveu item Pergaminho_da_Água(A)LV2 [3183] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 57 para tipo INVENTÁRIO slot 52
+20:01:44 : [TKzaoporra] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:01:46 : [TKzaoporra] - Moveu item Botas_de_Couro_Duro(N) [1152] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 57
+20:01:47 : [TKzaoporra] - Moveu item Botas_de_Couro_Duro(N) [1152] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 57 para tipo EQUIPAMENTO slot 5
+20:01:54 : [TKzaoporra] - Clicado no NPC [Kibita]. Face 102. Race: 10. GenerateId: 3288. Posição do usuário: 2136x 2102y. Posição do NPC: 2135x 2105y
+20:01:54 : [TKzaoporra] - [Mensagem do servidor]> Não possui gold para comprar este item
+20:02:19 : [TKzaoporra] - Clicado no NPC de Imposto
+20:02:48 : [TKzaoporra] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3425. Posição do usuário: 2210x 2109y. Posição do NPC: 2204x 2106y
+20:03:33 : [TKzaoporra] - Clicado no NPC [Coveiro]. Face 58. Race: 8. GenerateId: 3282. Posição do usuário: 2371x 2099y. Posição do NPC: 2372x 2097y
+20:03:42 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 603
+20:03:42 : [TKzaoporra] - Dropado item Sapatos_Pele_de_Animal(A) [1415] [43 0 73 6 59 0] em 2377x 2104y - Rei Gremlin (1/90)
+20:03:43 : [TKzaoporra] - Matou o mob Javali. GenerID: 602
+20:04:02 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 602
+20:04:03 : [TKzaoporra] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3289. Posição do usuário: 2376x 2104y. Posição do NPC: 2369x 2105y
+20:04:06 : [TKzaoporra] - Matou o mob Javali. GenerID: 603
+20:04:13 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 602
+20:04:15 : [TKzaoporra] - Matou o mob Javali. GenerID: 603
+20:04:16 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 603
+20:04:17 : [TKzaoporra] - Matou o mob Javali. GenerID: 602
+20:04:19 : [TKzaoporra] - Matou o mob Javali. GenerID: 602
+20:04:20 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 603
+20:04:21 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 588
+20:04:25 : [TKzaoporra] - Matou o mob Javali. GenerID: 604
+20:04:26 : [TKzaoporra] - Matou o mob Rei Gremlin . GenerID: 604
+20:04:28 : [TKzaoporra] - Matou o mob Javali. GenerID: 604
+20:04:50 : [TKzaoporra] - Matou o mob Chefe Krill. GenerID: 614
+20:04:51 : [TKzaoporra] - Matou o mob Chefe Krill . GenerID: 615
+20:05:06 : [TKzaoporra] - Matou o mob Chefe Krill. GenerID: 614
+20:05:11 : [TKzaoporra] - Matou o mob Chefe Krill. GenerID: 614
+20:05:24 : [TKzaoporra] - Comando "/gm +set level 39"
+20:05:25 : [TKzaoporra] - Clicado no NPC [Coveiro]. Face 58. Race: 8. GenerateId: 3282. Posição do usuário: 2374x 2095y. Posição do NPC: 2372x 2097y
+20:05:25 : [TKzaoporra] - Teleportado para a posição 2397 2105
+20:05:25 : [TKzaoporra] - TKzaoporra entrou na quest [Coveiro].
+20:05:26 : [TKzaoporra] - [Mensagem do servidor]> + + + LEVEL UP + + +
+20:05:26 : [TKzaoporra] - Level UP para level 40. Ev: 0 - 2397x 2105y
+20:06:23 : [TKzaoporra] - Comando "/gm +item 3207"
+20:06:23 : [TKzaoporra] - [Mensagem do servidor]> Criou o item Jóia_da_Armazenagem
+20:06:23 : [TKzaoporra] - TKzaoporra criou o item Jóia_da_Armazenagem [3207] [0 0 0 0 0 0]
+20:06:25 : [TKzaoporra] - Item Jóia_da_Armazenagem [3207] [0 0 0 0 0 0] utilizado em 2397x 2105y
+20:06:25 : [TKzaoporra] - [Mensagem do servidor]> Usou jóia do armazenamento
+20:06:52 : [TKzaoporra] - Enviado para a cidade através do ClearArea. Posição: 2397x 2105y - Quest Coveiro
+20:06:52 : [TKzaoporra] - DoRecall - Enviado para cidade: 2099x 2100y
+20:06:52 : [TKzaoporra] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 299. Distância 2: 300. Range: 2.
+20:08:39 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 419
+20:08:41 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 426
+20:08:43 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 427
+20:08:43 : [TKzaoporra] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2196x 2094y - Gremlin (1/30)
+20:10:48 : [TKzaoporra] - Comando "/gm +create Gargula"
+20:11:05 : [TKzaoporra] - Comando "/gm +gelo"
+20:11:05 : [TKzaoporra] - Teleportado para a posição 3648 3117
+20:11:21 : [TKzaoporra] - Item Ervas_de_Cura deletado [415] [61 120 0 0 0 0]. Slot 58
+20:11:25 : [TKzaoporra] - Comprou o item Ervas_de_Cura [415] [61 10 0 0 0 0] na loja de Martin . Preço total: 51750. Imposto: 6750. Gold: 9952200 anterior. Gold após a compra: 9900450
+20:11:28 : [TKzaoporra] - Item Ervas_de_Cura deletado [415] [61 10 0 0 0 0]. Slot 58
+20:11:32 : [TKzaoporra] - Comprou o item Pedido_de_Caça(SubM) [3434] [61 100 0 0 0 0] na loja de Martin . Preço total: 1265000. Imposto: 165000. Gold: 9900450 anterior. Gold após a compra: 8635450
+20:11:35 : [TKzaoporra] - Item Pedido_de_Caça(SubM) deletado [3434] [61 100 0 0 0 0]. Slot 58
+20:11:37 : [TKzaoporra] - Comprou o item Ervas_de_Cura [415] [61 10 0 0 0 0] na loja de Martin . Preço total: 51750. Imposto: 6750. Gold: 8635450 anterior. Gold após a compra: 8583700
+20:11:40 : [TKzaoporra] - Item Ervas_de_Cura deletado [415] [61 10 0 0 0 0]. Slot 58
+20:12:03 : [TKzaoporra] - Comprou o item Pedido_de_Caça(Kefra) [3436] [61 100 0 0 0 0] na loja de Martin . Preço total: 3795000. Imposto: 495000. Gold: 8583700 anterior. Gold após a compra: 4788700
+20:12:14 : [TKzaoporra] - Vendeu o item Pedido_de_Caça(Kefra) [3436] [61 100 0 0 0 0] por 350625. Gold atual: 5139325. Valor do imposto: 61875
+20:12:14 : [TKzaoporra] - Vendido item no NPC Martin 
+20:12:16 : [TKzaoporra] - Comprou o item Pedido_de_Caça(SubM) [3434] [61 100 0 0 0 0] na loja de Martin . Preço total: 1265000. Imposto: 165000. Gold: 5139325 anterior. Gold após a compra: 3874325
+20:12:31 : [TKzaoporra] - Item Poção_de_Cura deletado [400] [0 0 0 0 0 0]. Slot 57
+20:12:37 : [TKzaoporra] - Comprou o item Pedido_de_Caça(Dung) [3433] [61 100 0 0 0 0] na loja de Martin . Preço total: 1265000. Imposto: 165000. Gold: 3874325 anterior. Gold após a compra: 2609325
+20:12:54 : [TKzaoporra] - Item Pedido_de_Caça(SubM) [3434] [61 100 0 0 0 0] utilizado em 3646x 3115y
+20:12:54 : [TKzaoporra] - Teleportado para a posição 1437 3741
+20:15:43 : [TKzaoporra] - Comando "/gm +armia"
+20:15:43 : [TKzaoporra] - Teleportado para a posição 2100 2100
+20:16:02 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 425
+20:16:13 : [TKzaoporra] - Matou o mob Krill. GenerID: 494
+20:16:13 : [TKzaoporra] - Não dropou o item Calça_Pele_de_Animal(N) por falta de espaço [1407] [43 0 3 15 3 15] em 2265x 2105y - Krill (1/300)
+20:16:13 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+20:16:15 : [TKzaoporra] - Matou o mob Krill. GenerID: 508
+20:16:17 : [TKzaoporra] - Matou o mob Krill . GenerID: 515
+20:16:38 : [TKzaoporra] - Clicado no NPC [Coveiro]. Face 58. Race: 8. GenerateId: 3282. Posição do usuário: 2373x 2099y. Posição do NPC: 2372x 2097y
+20:16:38 : [TKzaoporra] - Teleportado para a posição 2397 2105
+20:16:38 : [TKzaoporra] - TKzaoporra entrou na quest [Coveiro].
+20:17:00 : [TKzaoporra] - Enviado para a cidade através do ClearArea. Posição: 2397x 2105y - Quest Coveiro
+20:17:00 : [TKzaoporra] - DoRecall - Enviado para cidade: 2094x 2095y
+20:31:29 : [TKzaoporra] - [INFORMAÇÕES DA CONTA]
+Personagem online: TKzaoporra
+Gold atual: 2609325
+Level atual: 40
+Experiência atual: 293453
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:40 horas
+Posição atual: 2094x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Cota_de_Couro_Batido(N)[1131] [0 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Pochard[988] [0 0 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 23 108 13]
+[14] - Cria_de_Porco[2330] [0 0 1 25 30 1]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Katana[939] [43 9 0 0 0 0]
+[01] - Machado[802] [0 0 0 0 0 0]
+[02] - Porrete_de_Espinhos[803] [0 0 0 0 0 0]
+[03] - Maça_Pesada[804] [0 0 0 0 0 0]
+[04] - Machado_de_Aço[805] [0 0 0 0 0 0]
+[05] - Machado_Duplo[806] [0 0 0 0 0 0]
+[06] - Maça_Gótica[807] [0 0 0 0 0 0]
+[07] - Martelo_Sagrado[808] [0 0 0 0 0 0]
+[08] - Machado_Sanguinário[809] [0 0 0 0 0 0]
+[09] - Balmung[811] [0 0 0 0 0 0]
+[10] - Lança_Invisível[837] [0 0 0 0 0 0]
+[11] - Porrete[801] [0 0 0 0 0 0]
+[12] - Gladius[862] [0 0 0 0 0 0]
+[13] - Adaga[861] [0 0 0 0 0 0]
+[14] - Dardo[876] [0 0 0 0 0 0]
+[15] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[16] - Lança_Relâmpago[884] [0 0 0 0 0 0]
+[17] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[18] - Lança_Mágica[918] [0 0 0 0 0 0]
+[19] - Javelin[922] [0 0 0 0 0 0]
+[20] - Katana[939] [0 0 0 0 0 0]
+[21] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[22] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[23] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[24] - Tsurugi[945] [0 0 0 0 0 0]
+[25] - Espada_Longa[863] [0 0 0 0 0 0]
+[26] - Martelo_de_Pedra[938] [43 9 0 0 0 0]
+[27] - Rapier[952] [0 0 0 0 0 0]
+[28] - Cimitarra[953] [0 0 0 0 0 0]
+[29] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[30] - Martelo[966] [0 0 0 0 0 0]
+[31] - Maça_Pesada[961] [0 0 0 0 0 0]
+[32] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[33] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[34] - Grande_Machado[969] [0 0 0 0 0 0]
+[35] - Stiletto[951] [0 0 0 0 0 0]
+[36] - Maça[962] [0 0 0 0 0 0]
+[37] - Kraika[963] [0 0 0 0 0 0]
+[38] - Martelo[966] [0 0 0 0 0 0]
+[39] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[40] - Maça_Gótica[965] [0 0 0 0 0 0]
+[41] - Machado_de_Batalha[968] [0 0 0 0 0 0]
+[42] - Maça_Gótica[965] [0 0 0 0 0 0]
+[43] - Machado_Duplo[964] [0 0 0 0 0 0]
+[44] - Grande_Machado[969] [0 0 0 0 0 0]
+[45] - Martelo_Sykik[970] [0 0 0 0 0 0]
+[46] - Calça_de_Couro_Duro(N)[1128] [43 0 71 50 3 25]
+[47] - Classe_D[4019] [61 113 0 0 0 0]
+[48] - Manoplas_Embutidas(A)[1217] [0 0 0 0 0 0]
+[49] - Sapatos_Pele_de_Animal(A)[1415] [43 0 73 6 59 0]
+[50] - Classe_B[4017] [0 0 0 0 0 0]
+[51] - Classe_C[4018] [0 0 0 0 0 0]
+[52] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[53] - Classe_E[4020] [0 0 0 0 0 0]
+[54] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[55] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[56] - Manoplas_Embutidas(N)[1215] [0 0 0 0 0 0]
+[57] - Pedido_de_Caça(Dung)[3433] [61 100 0 0 0 0]
+[58] - Pedido_de_Caça(SubM)[3434] [61 99 0 0 0 0]
+[59] - Poção_Poderosa[3431] [61 98 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:37:07 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+20:37:10 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+20:37:10 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+20:37:11 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+20:37:11 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+20:37:11 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+20:37:11 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:37:15 : Solicitou ir ao mundo...
+20:37:15 : Recebido pedido para entrar no jogo
+20:37:15 : Recebido informação do personagem completa.
+20:37:15 : [TKzaoporra] - [INFORMAÇÕES DA CONTA]
+Personagem online: TKzaoporra
+Gold atual: 2609325
+Level atual: 40
+Experiência atual: 293453
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2096x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Cota_de_Couro_Batido(N)[1131] [0 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Pochard[988] [0 0 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 23 108 9]
+[14] - Cria_de_Porco[2330] [0 0 1 25 30 1]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Katana[939] [43 9 0 0 0 0]
+[01] - Machado[802] [0 0 0 0 0 0]
+[02] - Porrete_de_Espinhos[803] [0 0 0 0 0 0]
+[03] - Maça_Pesada[804] [0 0 0 0 0 0]
+[04] - Machado_de_Aço[805] [0 0 0 0 0 0]
+[05] - Machado_Duplo[806] [0 0 0 0 0 0]
+[06] - Maça_Gótica[807] [0 0 0 0 0 0]
+[07] - Martelo_Sagrado[808] [0 0 0 0 0 0]
+[08] - Machado_Sanguinário[809] [0 0 0 0 0 0]
+[09] - Balmung[811] [0 0 0 0 0 0]
+[10] - Lança_Invisível[837] [0 0 0 0 0 0]
+[11] - Porrete[801] [0 0 0 0 0 0]
+[12] - Gladius[862] [0 0 0 0 0 0]
+[13] - Adaga[861] [0 0 0 0 0 0]
+[14] - Dardo[876] [0 0 0 0 0 0]
+[15] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[16] - Lança_Relâmpago[884] [0 0 0 0 0 0]
+[17] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[18] - Lança_Mágica[918] [0 0 0 0 0 0]
+[19] - Javelin[922] [0 0 0 0 0 0]
+[20] - Katana[939] [0 0 0 0 0 0]
+[21] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[22] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[23] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[24] - Tsurugi[945] [0 0 0 0 0 0]
+[25] - Espada_Longa[863] [0 0 0 0 0 0]
+[26] - Martelo_de_Pedra[938] [43 9 0 0 0 0]
+[27] - Rapier[952] [0 0 0 0 0 0]
+[28] - Cimitarra[953] [0 0 0 0 0 0]
+[29] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[30] - Martelo[966] [0 0 0 0 0 0]
+[31] - Maça_Pesada[961] [0 0 0 0 0 0]
+[32] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[33] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[34] - Grande_Machado[969] [0 0 0 0 0 0]
+[35] - Stiletto[951] [0 0 0 0 0 0]
+[36] - Maça[962] [0 0 0 0 0 0]
+[37] - Kraika[963] [0 0 0 0 0 0]
+[38] - Martelo[966] [0 0 0 0 0 0]
+[39] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[40] - Maça_Gótica[965] [0 0 0 0 0 0]
+[41] - Machado_de_Batalha[968] [0 0 0 0 0 0]
+[42] - Maça_Gótica[965] [0 0 0 0 0 0]
+[43] - Machado_Duplo[964] [0 0 0 0 0 0]
+[44] - Grande_Machado[969] [0 0 0 0 0 0]
+[45] - Martelo_Sykik[970] [0 0 0 0 0 0]
+[46] - Calça_de_Couro_Duro(N)[1128] [43 0 71 50 3 25]
+[47] - Classe_D[4019] [61 113 0 0 0 0]
+[48] - Manoplas_Embutidas(A)[1217] [0 0 0 0 0 0]
+[49] - Sapatos_Pele_de_Animal(A)[1415] [43 0 73 6 59 0]
+[50] - Classe_B[4017] [0 0 0 0 0 0]
+[51] - Classe_C[4018] [0 0 0 0 0 0]
+[52] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[53] - Classe_E[4020] [0 0 0 0 0 0]
+[54] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[55] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[56] - Manoplas_Embutidas(N)[1215] [0 0 0 0 0 0]
+[57] - Pedido_de_Caça(Dung)[3433] [61 100 0 0 0 0]
+[58] - Pedido_de_Caça(SubM)[3434] [61 99 0 0 0 0]
+[59] - Poção_Poderosa[3431] [61 98 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:37:15 : [TKzaoporra] - Personagem TKzaoporra enviado ao mundo 2096x 2100y - Canal 2 - Cash da conta: 127426. OverPower: 82
+20:37:15 : [TKzaoporra] - Gold atual: 2609325. Classe: 0 Evolução: 0. Experiência: 293453. Nível: 40. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+20:37:15 : [TKzaoporra] - Logou no personagem TKzaoporra com baú de experiência ativo. Tempo: 512
+20:37:15 : [TKzaoporra] - Enviado informações do personagem
+20:37:16 : [TKzaoporra] - Comando "/day "
+20:37:16 : [TKzaoporra] - [Mensagem do servidor]> !#11 2
+20:37:28 : [TKzaoporra] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:38:03 : [TKzaoporra] - Item Poção_Poderosa deletado [3431] [61 98 0 0 0 0]. Slot 59
+20:38:04 : [TKzaoporra] - Moveu item Cria_de_Porco [2330] [0 0 1 25 30 1] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 59
+20:38:05 : [TKzaoporra] - Item Cria_de_Porco deletado [2330] [0 0 1 25 30 1]. Slot 59
+20:38:16 : [TKzaoporra] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+20:38:28 : [TKzaoporra] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+20:40:58 : [TKzaoporra] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3425. Posição do usuário: 2200x 2104y. Posição do NPC: 2204x 2106y
+20:41:29 : [TKzaoporra] - Clicado no NPC [Coveiro]. Face 58. Race: 8. GenerateId: 3282. Posição do usuário: 2372x 2099y. Posição do NPC: 2372x 2097y
+20:41:29 : [TKzaoporra] - Teleportado para a posição 2397 2105
+20:41:29 : [TKzaoporra] - TKzaoporra entrou na quest [Coveiro].
+20:42:42 : [TKzaoporra] - Matou o mob Esqueleto. GenerID: 4256
+20:42:42 : [TKzaoporra] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+20:47:01 : [TKzaoporra] - Enviado para a cidade através do ClearArea. Posição: 2417x 2107y - Quest Coveiro
+20:47:01 : [TKzaoporra] - DoRecall - Enviado para cidade: 2088x 2100y
+20:52:59 : [TKzaoporra] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3425. Posição do usuário: 2197x 2104y. Posição do NPC: 2204x 2106y
+20:53:13 : [TKzaoporra] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3426. Posição do usuário: 2276x 2117y. Posição do NPC: 2278x 2119y
+20:53:17 : [TKzaoporra] - Matou o mob Krill. GenerID: 524
+20:53:25 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 519
+20:53:26 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 524
+20:53:28 : [TKzaoporra] - Matou o mob Krill. GenerID: 519
+20:53:32 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 519
+20:53:33 : [TKzaoporra] - Matou o mob Krill. GenerID: 519
+20:53:33 : [TKzaoporra] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+20:53:35 : [TKzaoporra] - Matou o mob Krill. GenerID: 524
+20:53:36 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 523
+20:53:36 : [TKzaoporra] - Dropado item Robe_Pele_de_Animal(N) [1404] [43 0 71 10 59 0] em 2299x 2117y - Gremlin  (1/300)
+20:53:37 : [TKzaoporra] - Matou o mob Krill . GenerID: 523
+20:53:38 : [TKzaoporra] - Matou o mob Krill . GenerID: 523
+20:53:42 : [TKzaoporra] - Matou o mob Javali. GenerID: 550
+20:53:45 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 556
+20:53:47 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 558
+20:53:49 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 563
+20:53:49 : [TKzaoporra] - Não dropou o item Armadura_de_Couro(A) por falta de espaço [1115] [43 1 71 30 59 0] em 2323x 2107y - Rei Gremlin (1/118)
+20:53:49 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+20:54:07 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 602
+20:54:08 : [TKzaoporra] - Matou o mob Javali. GenerID: 603
+20:54:12 : [TKzaoporra] - Matou o mob Javali. GenerID: 602
+20:54:14 : [TKzaoporra] - Matou o mob Javali. GenerID: 603
+20:54:15 : [TKzaoporra] - Matou o mob Javali. GenerID: 588
+20:54:18 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 588
+20:54:18 : [TKzaoporra] - Não dropou o item Botas_de_Pano(A) por falta de espaço [1301] [43 1 73 6 60 4] em 2362x 2104y - Rei Gremlin (1/300)
+20:54:18 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+20:54:20 : [TKzaoporra] - Matou o mob Javali. GenerID: 588
+20:54:44 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 602
+20:54:44 : [TKzaoporra] - Não dropou o item Bandana_de_Pano(A) por falta de espaço [1253] [43 1 59 0 59 0] em 2362x 2104y - Rei Gremlin (1/300)
+20:54:44 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+20:54:45 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 588
+20:54:46 : [TKzaoporra] - Matou o mob Javali. GenerID: 602
+20:54:47 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 603
+20:54:48 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 588
+20:54:48 : [TKzaoporra] - Não dropou o item Calça_de_Couro(A) por falta de espaço [1127] [43 1 71 30 59 0] em 2363x 2104y - Rei Gremlin (1/90)
+20:54:48 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+20:55:13 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 603
+20:55:14 : [TKzaoporra] - Matou o mob Rei Gremlin. GenerID: 588
+20:55:14 : [TKzaoporra] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+20:55:16 : [TKzaoporra] - Matou o mob Javali. GenerID: 588
+20:55:24 : [TKzaoporra] - Clicado no NPC [Coveiro]. Face 58. Race: 8. GenerateId: 3282. Posição do usuário: 2373x 2101y. Posição do NPC: 2372x 2097y
+20:55:24 : [TKzaoporra] - Teleportado para a posição 2397 2105
+20:55:24 : [TKzaoporra] - TKzaoporra entrou na quest [Coveiro].
+20:57:08 : [TKzaoporra] - Enviado para a cidade através do ClearArea. Posição: 2401x 2115y - Quest Coveiro
+20:57:08 : [TKzaoporra] - DoRecall - Enviado para cidade: 2095x 2097y
+20:58:01 : [TKzaoporra] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3289. Posição do usuário: 2366x 2104y. Posição do NPC: 2369x 2105y
+20:58:08 : [TKzaoporra] - Clicado no NPC [Coveiro]. Face 58. Race: 8. GenerateId: 3282. Posição do usuário: 2369x 2101y. Posição do NPC: 2372x 2097y
+20:58:08 : [TKzaoporra] - Teleportado para a posição 2397 2105
+20:58:08 : [TKzaoporra] - TKzaoporra entrou na quest [Coveiro].
+20:59:16 : [TKzaoporra] - Matou o mob Aparicao. GenerID: 4236
+20:59:16 : [TKzaoporra] - [Mensagem do servidor]> + + + LEVEL UP + + +
+20:59:16 : [TKzaoporra] - Level UP para level 41. Ev: 0 - 2404x 2111y
+20:59:16 : [TKzaoporra] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2404x 2111y - Aparicao (1/1)
+20:59:16 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+21:07:16 : [TKzaoporra] - [INFORMAÇÕES DA CONTA]
+Personagem online: TKzaoporra
+Gold atual: 2609325
+Level atual: 41
+Experiência atual: 322232
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:25 horas
+Posição atual: 2403x 2109y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Cota_de_Couro_Batido(N)[1131] [0 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Pochard[988] [0 0 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 22 108 39]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Katana[939] [43 9 0 0 0 0]
+[01] - Machado[802] [0 0 0 0 0 0]
+[02] - Porrete_de_Espinhos[803] [0 0 0 0 0 0]
+[03] - Maça_Pesada[804] [0 0 0 0 0 0]
+[04] - Machado_de_Aço[805] [0 0 0 0 0 0]
+[05] - Machado_Duplo[806] [0 0 0 0 0 0]
+[06] - Maça_Gótica[807] [0 0 0 0 0 0]
+[07] - Martelo_Sagrado[808] [0 0 0 0 0 0]
+[08] - Machado_Sanguinário[809] [0 0 0 0 0 0]
+[09] - Balmung[811] [0 0 0 0 0 0]
+[10] - Lança_Invisível[837] [0 0 0 0 0 0]
+[11] - Porrete[801] [0 0 0 0 0 0]
+[12] - Gladius[862] [0 0 0 0 0 0]
+[13] - Adaga[861] [0 0 0 0 0 0]
+[14] - Dardo[876] [0 0 0 0 0 0]
+[15] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[16] - Lança_Relâmpago[884] [0 0 0 0 0 0]
+[17] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[18] - Lança_Mágica[918] [0 0 0 0 0 0]
+[19] - Javelin[922] [0 0 0 0 0 0]
+[20] - Katana[939] [0 0 0 0 0 0]
+[21] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[22] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[23] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[24] - Tsurugi[945] [0 0 0 0 0 0]
+[25] - Espada_Longa[863] [0 0 0 0 0 0]
+[26] - Martelo_de_Pedra[938] [43 9 0 0 0 0]
+[27] - Rapier[952] [0 0 0 0 0 0]
+[28] - Cimitarra[953] [0 0 0 0 0 0]
+[29] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[30] - Martelo[966] [0 0 0 0 0 0]
+[31] - Maça_Pesada[961] [0 0 0 0 0 0]
+[32] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[33] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[34] - Grande_Machado[969] [0 0 0 0 0 0]
+[35] - Stiletto[951] [0 0 0 0 0 0]
+[36] - Maça[962] [0 0 0 0 0 0]
+[37] - Kraika[963] [0 0 0 0 0 0]
+[38] - Martelo[966] [0 0 0 0 0 0]
+[39] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[40] - Maça_Gótica[965] [0 0 0 0 0 0]
+[41] - Machado_de_Batalha[968] [0 0 0 0 0 0]
+[42] - Maça_Gótica[965] [0 0 0 0 0 0]
+[43] - Machado_Duplo[964] [0 0 0 0 0 0]
+[44] - Grande_Machado[969] [0 0 0 0 0 0]
+[45] - Martelo_Sykik[970] [0 0 0 0 0 0]
+[46] - Calça_de_Couro_Duro(N)[1128] [43 0 71 50 3 25]
+[47] - Classe_D[4019] [61 113 0 0 0 0]
+[48] - Manoplas_Embutidas(A)[1217] [0 0 0 0 0 0]
+[49] - Sapatos_Pele_de_Animal(A)[1415] [43 0 73 6 59 0]
+[50] - Classe_B[4017] [0 0 0 0 0 0]
+[51] - Classe_C[4018] [0 0 0 0 0 0]
+[52] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[53] - Classe_E[4020] [0 0 0 0 0 0]
+[54] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[55] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[56] - Manoplas_Embutidas(N)[1215] [0 0 0 0 0 0]
+[57] - Pedido_de_Caça(Dung)[3433] [61 100 0 0 0 0]
+[58] - Pedido_de_Caça(SubM)[3434] [61 99 0 0 0 0]
+[59] - Robe_Pele_de_Animal(N)[1404] [43 0 71 10 59 0]
+[60] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:07:34 : [TKzaoporra] - Enviado para a cidade através do ClearArea. Posição: 2403x 2109y - Quest Coveiro
+21:07:34 : [TKzaoporra] - DoRecall - Enviado para cidade: 2088x 2097y
+21:07:34 : [TKzaoporra] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 315. Distância 2: 316. Range: 2.
+21:09:42 : [TKzaoporra] - Matou o mob Porco de Guerra. GenerID: 4419
+21:09:43 : [TKzaoporra] - Matou o mob Porco de Guerra. GenerID: 4419
+21:09:43 : [TKzaoporra] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:09:45 : [TKzaoporra] - Matou o mob Porco de Guerra. GenerID: 4423
+21:10:04 : [TKzaoporra] - Matou o mob Gremlin Artif. GenerID: 4449
+21:10:04 : [TKzaoporra] - Não dropou o item Chave_da_Primeira_Porta por falta de espaço [451] [0 0 0 0 0 0] em 2080x 2023y - Gremlin Artif (1/1)
+21:10:04 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+21:10:16 : [TKzaoporra] - [Mensagem do servidor]> Você não possui a chave.
+21:10:22 : [TKzaoporra] - Item Pedido_de_Caça(SubM) deletado [3434] [61 99 0 0 0 0]. Slot 58
+21:10:25 : [TKzaoporra] - Item Robe_Pele_de_Animal(N) deletado [1404] [43 0 71 10 59 0]. Slot 59
+21:10:26 : [TKzaoporra] - Matou o mob Gremlin Artif. GenerID: 4449
+21:10:26 : [TKzaoporra] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2075x 2016y - Gremlin Artif (1/1)
+21:10:47 : [TKzaoporra] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3422. Posição do usuário: 2089x 1999y. Posição do NPC: 2087x 2001y
+21:11:23 : [TKzaoporra] - [Mensagem do servidor]> Guild Chatting : Off
+21:11:23 : [TKzaoporra] - Moveu item Martelo_de_Pedra [938] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 26 para tipo EQUIPAMENTO slot 6
+21:11:26 : [TKzaoporra] - Matou o mob Krill Gigante. GenerID: 4476
+21:11:26 : [TKzaoporra] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2145x 1998y - Krill Gigante (1/1)
+21:11:30 : [TKzaoporra] - Moveu item Katana [939] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 7
+21:11:34 : [TKzaoporra] - Matou o mob Rei Gremlin  . GenerID: 4474
+21:11:35 : [TKzaoporra] - Matou o mob Rei Gremlin  . GenerID: 4472
+21:11:35 : [TKzaoporra] - Dropado item Chapéu_Pele_de_Animal(A) [1403] [43 0 60 10 59 0] em 2145x 1998y - Rei Gremlin   (1/300)
+21:11:40 : [TKzaoporra] - Matou o mob Rei Gremlin  . GenerID: 4474
+21:11:47 : [TKzaoporra] - Matou o mob Krill Gigante. GenerID: 4476
+21:11:47 : [TKzaoporra] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2143x 1998y - Krill Gigante (1/1)
+21:11:54 : [TKzaoporra] - Matou o mob Rei Gremlin  . GenerID: 4474
+21:12:11 : [TKzaoporra] - Moveu item Luvas_de_Couro_Duro(N) [1140] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 29 para tipo EQUIPAMENTO slot 4
+21:12:12 : [TKzaoporra] - Moveu item Katana [939] [43 9 0 0 0 0] do tipo EQUIPAMENTO do slot 7 para tipo INVENTÁRIO slot 29
+21:12:13 : [TKzaoporra] - Moveu item Lança_de_Taurus [944] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 23 para tipo EQUIPAMENTO slot 6
+21:12:15 : [TKzaoporra] - Matou o mob Rei Gremlin  . GenerID: 4474
+21:12:39 : [TKzaoporra] - Matou o mob Krill Gigante. GenerID: 4476
+21:12:39 : [TKzaoporra] - Não dropou o item Chave_da_Segunda_Porta por falta de espaço [452] [0 0 0 0 0 0] em 2143x 2002y - Krill Gigante (1/1)
+21:12:39 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+21:12:48 : [TKzaoporra] - Comando "/gm +gelo"
+21:12:48 : [TKzaoporra] - Teleportado para a posição 3648 3117
+21:12:53 : [TKzaoporra] - Item Chave_da_Segunda_Porta deletado [452] [0 0 0 0 0 0]. Slot 59
+21:12:54 : [TKzaoporra] - Item Chave_da_Segunda_Porta deletado [452] [0 0 0 0 0 0]. Slot 58
+21:12:56 : [TKzaoporra] - [Mensagem do servidor]> Não possui gold para comprar este item
+21:13:01 : [TKzaoporra] - Comando "/gm +set coin 100000"
+21:13:01 : [TKzaoporra] - [Mensagem do servidor]> Gold setado para: 100000.
+21:13:04 : [TKzaoporra] - [Mensagem do servidor]> Não possui gold para comprar este item
+21:13:05 : [TKzaoporra] - [Mensagem do servidor]> Não possui gold para comprar este item
+21:13:09 : [TKzaoporra] - Comando "/gm +set coin 10000000"
+21:13:09 : [TKzaoporra] - [Mensagem do servidor]> Gold setado para: 10000000.
+21:13:12 : [TKzaoporra] - Comprou o item Pedido_de_Caça(Kefra) [3436] [61 100 0 0 0 0] na loja de Martin . Preço total: 3795000. Imposto: 495000. Gold: 10000000 anterior. Gold após a compra: 6205000
+21:13:25 : [TKzaoporra] - Item Pedido_de_Caça(Kefra) [3436] [61 100 0 0 0 0] utilizado em 3645x 3111y
+21:13:25 : [TKzaoporra] - Teleportado para a posição 2236 4044
+21:13:37 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:38 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:39 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:40 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:41 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:42 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:43 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:44 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:45 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:46 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:47 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:48 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:49 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:50 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:51 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:52 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:53 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:54 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:55 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:56 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:57 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:58 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:13:59 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:00 : [TKzaoporra] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+21:14:00 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:01 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:02 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:03 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:04 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:05 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:06 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:07 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:08 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:09 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:10 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:11 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:12 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:13 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:14 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:15 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:16 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:17 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:18 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:20 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:21 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:22 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:23 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:24 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:25 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:26 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:27 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:28 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:29 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:30 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:31 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:32 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:33 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:34 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:37 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:38 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:39 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:40 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:41 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:42 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:43 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:44 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:45 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:46 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:48 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:48 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:51 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:52 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:53 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:54 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:55 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:56 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:57 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:58 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:14:59 : [TKzaoporra] - Removido o Hp do mob FunerMomenter. HP removido: 0. HP Atual: 30000
+21:15:10 : [TKzaoporra] - Item Pedido_de_Caça(Kefra) [3436] [61 99 0 0 0 0] utilizado em 2231x 4028y
+21:15:10 : [TKzaoporra] - Teleportado para a posição 2269 3910
+21:15:45 : [TKzaoporra] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:15:45 : [TKzaoporra] - 2 Personagem foi desconectado. Permaneceu 00:37:47 minutos online
+21:17:04 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+21:17:04 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+21:17:04 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+21:17:09 : Solicitou ir ao mundo...
+21:17:09 : Recebido pedido para entrar no jogo
+21:17:09 : Recebido informação do personagem completa.
+21:17:09 : [TKzaoporra] - [INFORMAÇÕES DA CONTA]
+Personagem online: TKzaoporra
+Gold atual: 6205000
+Level atual: 41
+Experiência atual: 326797
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2086x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Cota_de_Couro_Batido(N)[1131] [0 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 22 108 30]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Chapéu_Pele_de_Animal(A)[1403] [43 0 60 10 59 0]
+[01] - Machado[802] [0 0 0 0 0 0]
+[02] - Porrete_de_Espinhos[803] [0 0 0 0 0 0]
+[03] - Maça_Pesada[804] [0 0 0 0 0 0]
+[04] - Machado_de_Aço[805] [0 0 0 0 0 0]
+[05] - Machado_Duplo[806] [0 0 0 0 0 0]
+[06] - Maça_Gótica[807] [0 0 0 0 0 0]
+[07] - Martelo_Sagrado[808] [0 0 0 0 0 0]
+[08] - Machado_Sanguinário[809] [0 0 0 0 0 0]
+[09] - Balmung[811] [0 0 0 0 0 0]
+[10] - Lança_Invisível[837] [0 0 0 0 0 0]
+[11] - Porrete[801] [0 0 0 0 0 0]
+[12] - Gladius[862] [0 0 0 0 0 0]
+[13] - Adaga[861] [0 0 0 0 0 0]
+[14] - Dardo[876] [0 0 0 0 0 0]
+[15] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[16] - Lança_Relâmpago[884] [0 0 0 0 0 0]
+[17] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[18] - Lança_Mágica[918] [0 0 0 0 0 0]
+[19] - Javelin[922] [0 0 0 0 0 0]
+[20] - Katana[939] [0 0 0 0 0 0]
+[21] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[22] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[23] - Martelo_de_Pedra[938] [43 9 0 0 0 0]
+[24] - Tsurugi[945] [0 0 0 0 0 0]
+[25] - Espada_Longa[863] [0 0 0 0 0 0]
+[26] - Pochard[988] [0 0 0 0 0 0]
+[27] - Rapier[952] [0 0 0 0 0 0]
+[28] - Cimitarra[953] [0 0 0 0 0 0]
+[29] - Katana[939] [43 9 0 0 0 0]
+[30] - Martelo[966] [0 0 0 0 0 0]
+[31] - Maça_Pesada[961] [0 0 0 0 0 0]
+[32] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[33] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[34] - Grande_Machado[969] [0 0 0 0 0 0]
+[35] - Stiletto[951] [0 0 0 0 0 0]
+[36] - Maça[962] [0 0 0 0 0 0]
+[37] - Kraika[963] [0 0 0 0 0 0]
+[38] - Martelo[966] [0 0 0 0 0 0]
+[39] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[40] - Maça_Gótica[965] [0 0 0 0 0 0]
+[41] - Machado_de_Batalha[968] [0 0 0 0 0 0]
+[42] - Maça_Gótica[965] [0 0 0 0 0 0]
+[43] - Machado_Duplo[964] [0 0 0 0 0 0]
+[44] - Grande_Machado[969] [0 0 0 0 0 0]
+[45] - Martelo_Sykik[970] [0 0 0 0 0 0]
+[46] - Calça_de_Couro_Duro(N)[1128] [43 0 71 50 3 25]
+[47] - Classe_D[4019] [61 113 0 0 0 0]
+[48] - Manoplas_Embutidas(A)[1217] [0 0 0 0 0 0]
+[49] - Sapatos_Pele_de_Animal(A)[1415] [43 0 73 6 59 0]
+[50] - Classe_B[4017] [0 0 0 0 0 0]
+[51] - Classe_C[4018] [0 0 0 0 0 0]
+[52] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[53] - Classe_E[4020] [0 0 0 0 0 0]
+[54] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[55] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[56] - Manoplas_Embutidas(N)[1215] [0 0 0 0 0 0]
+[57] - Pedido_de_Caça(Dung)[3433] [61 100 0 0 0 0]
+[58] - Pedido_de_Caça(Kefra)[3436] [61 98 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:17:09 : [TKzaoporra] - Personagem TKzaoporra enviado ao mundo 2086x 2102y - Canal 2 - Cash da conta: 127426. OverPower: 82
+21:17:09 : [TKzaoporra] - Gold atual: 6205000. Classe: 0 Evolução: 0. Experiência: 326797. Nível: 41. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+21:17:09 : [TKzaoporra] - Logou no personagem TKzaoporra com baú de experiência ativo. Tempo: 229
+21:17:09 : [TKzaoporra] - Enviado informações do personagem
+21:17:10 : [TKzaoporra] - Comando "/day "
+21:17:10 : [TKzaoporra] - [Mensagem do servidor]> !#11 2
+21:17:18 : [TKzaoporra] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:17:51 : [TKzaoporra] - Comando "/gm +item 3468"
+21:17:51 : [TKzaoporra] - [Mensagem do servidor]> Criou o item Bênção_de_Hades_I
+21:17:51 : [TKzaoporra] - TKzaoporra criou o item Bênção_de_Hades_I [3468] [0 0 0 0 0 0]
+21:17:52 : [TKzaoporra] - Item Bênção_de_Hades_I [3468] [0 0 0 0 0 0] utilizado em 2101x 2104y
+21:18:22 : [TKzaoporra] - Comando "/gm +item 3479"
+21:18:22 : [TKzaoporra] - [Mensagem do servidor]> Você não possui espaço livre no inventório.
+21:18:33 : [TKzaoporra] - Item Manoplas_Embutidas(N) deletado [1215] [0 0 0 0 0 0]. Slot 56
+21:18:34 : [TKzaoporra] - Comando "/gm +item 3479"
+21:18:34 : [TKzaoporra] - [Mensagem do servidor]> Criou o item Caixa_do_Andarilho
+21:18:34 : [TKzaoporra] - TKzaoporra criou o item Caixa_do_Andarilho [3479] [0 0 0 0 0 0]
+21:22:14 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 424
+21:22:16 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 425
+21:22:21 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 425
+21:22:24 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 424
+21:22:28 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 432
+21:22:29 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 441
+21:22:32 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 442
+21:22:33 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 441
+21:22:38 : [TKzaoporra] - Matou o mob Krill. GenerID: 477
+21:22:41 : [TKzaoporra] - Matou o mob Krill. GenerID: 478
+21:22:44 : [TKzaoporra] - Matou o mob Krill. GenerID: 477
+21:22:59 : [TKzaoporra] - Matou o mob Krill. GenerID: 477
+21:22:59 : [TKzaoporra] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:22:59 : [TKzaoporra] - Dropado item Calça_Acolchoada(N) [1557] [43 2 3 10 60 4] em 2239x 2097y - Krill (1/67)
+21:23:08 : [TKzaoporra] - Matou o mob Krill . GenerID: 482
+21:23:10 : [TKzaoporra] - Matou o mob Krill. GenerID: 483
+21:23:13 : [TKzaoporra] - Matou o mob Krill. GenerID: 478
+21:23:15 : [TKzaoporra] - Matou o mob Krill. GenerID: 484
+21:23:16 : [TKzaoporra] - Matou o mob Krill. GenerID: 480
+21:23:18 : [TKzaoporra] - Matou o mob Krill. GenerID: 479
+21:23:23 : [TKzaoporra] - Matou o mob Krill. GenerID: 480
+21:23:47 : [TKzaoporra] - Matou o mob Krill. GenerID: 478
+21:23:50 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 449
+21:23:54 : [TKzaoporra] - Matou o mob Krill. GenerID: 480
+21:23:57 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 449
+21:24:03 : [TKzaoporra] - Matou o mob Krill. GenerID: 478
+21:24:03 : [TKzaoporra] - Não dropou o item Poção_de_Mana por falta de espaço [405] [0 0 0 0 0 0] em 2234x 2092y - Krill (1/30)
+21:24:03 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+21:24:05 : [TKzaoporra] - Matou o mob Krill. GenerID: 477
+21:24:09 : [TKzaoporra] - Matou o mob Krill. GenerID: 479
+21:24:12 : [TKzaoporra] - Matou o mob Krill. GenerID: 478
+21:24:16 : [TKzaoporra] - Matou o mob Krill. GenerID: 480
+21:24:20 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 450
+21:24:23 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 443
+21:24:23 : [TKzaoporra] - Não dropou o item Manoplas_Acolchoadas(N) por falta de espaço [1560] [43 0 72 5 60 2] em 2220x 2081y - Gremlin  (1/300)
+21:24:23 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+21:24:30 : [TKzaoporra] - Matou o mob Krill. GenerID: 444
+21:24:31 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 436
+21:24:34 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 443
+21:24:35 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 435
+21:24:37 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 434
+21:24:40 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 433
+21:24:44 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 426
+21:24:46 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 433
+21:24:46 : [TKzaoporra] - Não dropou o item Poção_de_Cura por falta de espaço [400] [0 0 0 0 0 0] em 2203x 2097y - Gremlin (1/30)
+21:24:46 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+21:24:50 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 434
+21:24:57 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 433
+21:24:59 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 426
+21:24:59 : [TKzaoporra] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:25:01 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 434
+21:25:04 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 435
+21:25:06 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 436
+21:25:08 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 435
+21:25:09 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 436
+21:25:11 : [TKzaoporra] - Matou o mob Krill. GenerID: 444
+21:25:13 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 450
+21:25:13 : [TKzaoporra] - Não dropou o item Poção_de_Cura por falta de espaço [400] [0 0 0 0 0 0] em 2221x 2082y - Gremlin  (1/30)
+21:25:13 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+21:25:15 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 449
+21:25:19 : [TKzaoporra] - Matou o mob Krill. GenerID: 479
+21:25:19 : [TKzaoporra] - Não dropou o item Calça_de_Couro(A) por falta de espaço [1809] [43 0 71 40 59 0] em 2236x 2084y - Krill (1/67)
+21:25:19 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+21:25:21 : [TKzaoporra] - Matou o mob Krill. GenerID: 480
+21:25:32 : [TKzaoporra] - Matou o mob Krill. GenerID: 479
+21:25:34 : [TKzaoporra] - Matou o mob Krill. GenerID: 480
+21:25:37 : [TKzaoporra] - Matou o mob Krill. GenerID: 481
+21:25:45 : [TKzaoporra] - Matou o mob Krill. GenerID: 444
+21:25:46 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 450
+21:25:48 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 436
+21:25:48 : [TKzaoporra] - Não dropou o item Manoplas_Acolchoadas(N) por falta de espaço [1560] [13 16 72 10 74 6] em 2216x 2077y - Gremlin (1/67)
+21:25:48 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+21:25:50 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 443
+21:25:53 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 449
+21:26:01 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 449
+21:26:04 : [TKzaoporra] - Matou o mob Krill. GenerID: 444
+21:26:04 : [TKzaoporra] - Não dropou o item Maça por falta de espaço [962] [59 26 26 15 74 12] em 2219x 2085y - Krill (1/1200)
+21:26:04 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+21:26:05 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 436
+21:26:07 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 435
+21:26:08 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 436
+21:26:10 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 443
+21:26:12 : [TKzaoporra] - Matou o mob Krill. GenerID: 444
+21:26:15 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 450
+21:26:20 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 450
+21:26:26 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 449
+21:26:26 : [TKzaoporra] - Não dropou o item Poção_de_Cura por falta de espaço [400] [0 0 0 0 0 0] em 2221x 2089y - Gremlin  (1/30)
+21:26:26 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+21:26:27 : [TKzaoporra] - Matou o mob Krill. GenerID: 444
+21:26:30 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 436
+21:26:34 : [TKzaoporra] - Matou o mob Krill. GenerID: 444
+21:26:35 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 443
+21:26:37 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 435
+21:26:48 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 436
+21:26:51 : [TKzaoporra] - Matou o mob Krill. GenerID: 444
+21:26:51 : [TKzaoporra] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:26:51 : [TKzaoporra] - Level UP para level 42. Ev: 0 - 2211x 2080y
+21:27:09 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 436
+21:27:11 : [TKzaoporra] - Matou o mob Krill. GenerID: 444
+21:27:27 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 443
+21:27:32 : [TKzaoporra] - Matou o mob Krill. GenerID: 444
+21:27:34 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 436
+21:27:34 : [TKzaoporra] - Não dropou o item Poção_de_Cura por falta de espaço [400] [0 0 0 0 0 0] em 2215x 2078y - Gremlin (1/30)
+21:27:34 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+21:28:05 : [TKzaoporra] - Matou o mob Krill. GenerID: 480
+21:28:06 : [TKzaoporra] - Matou o mob Krill. GenerID: 481
+21:28:06 : [TKzaoporra] - Não dropou o item Túnica_de_Pano(N) por falta de espaço [1263] [43 0 71 50 2 12] em 2236x 2072y - Krill (1/300)
+21:28:06 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+21:28:08 : [TKzaoporra] - Matou o mob Krill. GenerID: 481
+21:28:10 : [TKzaoporra] - Matou o mob Krill. GenerID: 480
+21:29:03 : [TKzaoporra] - Matou o mob Krill. GenerID: 478
+21:29:04 : [TKzaoporra] - Matou o mob Krill. GenerID: 477
+21:29:07 : [TKzaoporra] - Matou o mob Gremlin . GenerID: 449
+21:29:09 : [TKzaoporra] - Matou o mob Krill. GenerID: 478
+21:29:11 : [TKzaoporra] - Matou o mob Krill. GenerID: 479
+21:29:14 : [TKzaoporra] - Matou o mob Krill. GenerID: 483
+21:29:17 : [TKzaoporra] - Matou o mob Krill . GenerID: 482
+21:29:20 : [TKzaoporra] - Matou o mob Krill . GenerID: 482
+21:29:22 : [TKzaoporra] - Matou o mob Krill. GenerID: 495
+21:29:24 : [TKzaoporra] - Matou o mob Krill. GenerID: 488
+21:29:25 : [TKzaoporra] - Matou o mob Krill. GenerID: 494
+21:29:27 : [TKzaoporra] - Matou o mob Krill. GenerID: 493
+21:29:29 : [TKzaoporra] - Matou o mob Krill . GenerID: 501
+21:29:32 : [TKzaoporra] - Matou o mob Krill. GenerID: 494
+21:29:34 : [TKzaoporra] - Matou o mob Krill. GenerID: 488
+21:29:44 : [TKzaoporra] - Matou o mob Krill. GenerID: 493
+21:29:48 : [TKzaoporra] - Matou o mob Krill. GenerID: 495
+21:29:52 : [TKzaoporra] - Matou o mob Krill. GenerID: 500
+21:29:52 : [TKzaoporra] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:29:54 : [TKzaoporra] - Matou o mob Krill . GenerID: 501
+21:29:55 : [TKzaoporra] - Matou o mob Krill. GenerID: 502
+21:29:57 : [TKzaoporra] - Matou o mob Krill . GenerID: 501
+21:29:59 : [TKzaoporra] - Matou o mob Krill. GenerID: 493
+21:30:00 : [TKzaoporra] - Matou o mob Krill. GenerID: 500
+21:30:11 : [TKzaoporra] - Matou o mob Krill. GenerID: 471
+21:30:15 : [TKzaoporra] - Matou o mob Krill. GenerID: 476
+21:30:21 : [TKzaoporra] - Matou o mob Krill. GenerID: 493
+21:30:22 : [TKzaoporra] - Matou o mob Krill. GenerID: 500
+21:30:23 : [TKzaoporra] - Matou o mob Krill . GenerID: 492
+21:31:20 : [TKzaoporra] - Matou o mob Krill . GenerID: 492
+21:31:23 : [TKzaoporra] - Matou o mob Krill. GenerID: 493
+21:31:25 : [TKzaoporra] - Matou o mob Krill. GenerID: 487
+21:31:27 : [TKzaoporra] - Matou o mob Krill. GenerID: 494
+21:31:30 : [TKzaoporra] - Matou o mob Krill. GenerID: 488
+21:31:31 : [TKzaoporra] - Matou o mob Krill. GenerID: 477
+21:31:33 : [TKzaoporra] - Matou o mob Krill. GenerID: 488
+21:31:37 : [TKzaoporra] - Matou o mob Krill. GenerID: 494
+21:31:38 : [TKzaoporra] - Matou o mob Krill. GenerID: 493
+21:31:41 : [TKzaoporra] - Matou o mob Krill. GenerID: 487
+21:31:44 : [TKzaoporra] - Matou o mob Krill. GenerID: 494
+21:31:46 : [TKzaoporra] - Matou o mob Krill. GenerID: 493
+21:31:54 : [TKzaoporra] - Matou o mob Krill. GenerID: 475
+21:31:58 : [TKzaoporra] - Matou o mob Krill. GenerID: 475
+21:32:11 : [TKzaoporra] - Matou o mob Krill . GenerID: 492
+21:32:11 : [TKzaoporra] - Não dropou o item Poção_de_Mana por falta de espaço [405] [0 0 0 0 0 0] em 2250x 2124y - Krill  (1/30)
+21:32:11 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+21:32:13 : [TKzaoporra] - Matou o mob Krill. GenerID: 493
+21:32:13 : [TKzaoporra] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:32:15 : [TKzaoporra] - Matou o mob Krill. GenerID: 487
+21:32:17 : [TKzaoporra] - Matou o mob Krill. GenerID: 494
+21:32:19 : [TKzaoporra] - Matou o mob Krill. GenerID: 488
+21:32:21 : [TKzaoporra] - Matou o mob Krill. GenerID: 487
+21:32:23 : [TKzaoporra] - Matou o mob Krill. GenerID: 494
+21:33:20 : [TKzaoporra] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3289. Posição do usuário: 2366x 2110y. Posição do NPC: 2369x 2105y
+21:33:23 : [TKzaoporra] - Clicado no NPC [Coveiro]. Face 58. Race: 8. GenerateId: 3282. Posição do usuário: 2369x 2102y. Posição do NPC: 2372x 2097y
+21:33:23 : [TKzaoporra] - Teleportado para a posição 2397 2105
+21:33:23 : [TKzaoporra] - TKzaoporra entrou na quest [Coveiro].
+21:33:48 : [TKzaoporra] - Matou o mob Aparicao. GenerID: 4234
+21:33:48 : [TKzaoporra] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:33:48 : [TKzaoporra] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2397x 2105y - Aparicao (1/1)
+21:33:48 : [TKzaoporra] - [Mensagem do servidor]> Seu inventário está cheio
+21:34:19 : [TKzaoporra] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:34:19 : [TKzaoporra] - 2 Personagem foi desconectado. Permaneceu 00:17:00 minutos online
+15:00:43 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+15:00:43 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+15:00:43 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:00:43 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:00:48 : Solicitou ir ao mundo...
+15:00:48 : Recebido pedido para entrar no jogo
+15:00:48 : Recebido informação do personagem completa.
+15:00:48 : [FoeFoe2] - [INFORMAÇÕES DA CONTA]
+Personagem online: FoeFoe2
+Gold atual: 950750350
+Level atual: 16
+Experiência atual: 26427
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[14] - Aranha[2360] [95 3 1 7 8 0]
+[15] - Capa_de_Hekalotia[736] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Ração_de_Aranha[2420] [61 1 0 0 0 0]
+[01] - Ração_de_Cérberus[2438] [61 5 0 0 0 0]
+[02] - Chave_da_Ultima_Porta[453] [0 0 0 0 0 0]
+[03] - Chave_Portão_Orc_Sul[465] [0 0 0 0 0 0]
+[04] - Chave_Portão_Orc_Leste[466] [0 0 0 0 0 0]
+[05] - Última_Chave_Orc[467] [0 0 0 0 0 0]
+[06] - Arco_de_Madeira[816] [43 0 0 0 0 0]
+[07] - Elmo_Aeon(N)[1476] [0 0 0 0 0 0]
+[08] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[09] - Fênix[2389] [1 1 1 10 0 0]
+[10] - Svadilfari[2387] [184 255 10 10 0 0]
+[12] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[13] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[14] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[15] - Manoplas_Acolchoadas(N)[1560] [43 1 72 20 60 4]
+[16] - Elmo_de_Couro(A)[1801] [43 0 60 8 59 0]
+[17] - Manoplas_Acolchoadas(N)[1560] [8 12 72 10 2 6]
+[18] - Chapéu_Pele_de_Animal(N)[1401] [43 0 60 8 3 10]
+[19] - Jaqueta_Acolchoada(N)[1554] [43 1 71 30 59 0]
+[20] - Calça_de_Couro(A)[1809] [7 7 71 40 2 12]
+[21] - Braçadeira_de_Ferro(M)[1576] [43 1 72 15 54 6]
+[22] - Braçadeira_de_Ferro(A)[2049] [43 0 72 10 54 9]
+[23] - Calça_Pele_de_Animal(A)[1409] [43 0 3 20 2 12]
+[24] - Botas_de_Couro_Duro(A)[1818] [43 0 73 12 59 0]
+[25] - Ração_de_Fênix[2439] [61 4 0 0 0 0]
+[26] - Armadura_Aeon(N)[1479] [0 0 0 0 0 0]
+[27] - [4190] [96 30 0 0 0 0]
+[28] - Conjunto_Yin-Yang[4150] [96 7 1 21 0 0]
+[29] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [120 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:00:48 : [FoeFoe2] - Personagem FoeFoe2 enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 127426. OverPower: 34
+15:00:48 : [FoeFoe2] - Gold atual: 950750350. Classe: 1 Evolução: 0. Experiência: 26427. Nível: 16. Info: 0. GuildID: 0. CP: 45. Pontos de Contribuição: 0. Limite: 0
+15:00:48 : [FoeFoe2] - Resetado a contagem de entradas água! Day: 364-363. Total: 0
+15:00:48 : [FoeFoe2] - Enviado informações do personagem
+15:00:49 : [FoeFoe2] - Comando "/day "
+15:00:49 : [FoeFoe2] - [Mensagem do servidor]> !#11 2
+15:01:05 : [FoeFoe2] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:01:22 : [FoeFoe2] - Comando "/srv 2"
+15:01:22 : [FoeFoe2] - [Mensagem do servidor]> Você já está neste canal
+15:01:28 : [FoeFoe2] - Comando "/srv 1"
+15:01:28 : [FoeFoe2] - Solicitou trocar para o servidor 1
+15:01:28 : [FoeFoe2] - 2 Personagem foi desconectado. Permaneceu 00:00:45 minutos online
+15:01:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+15:01:29 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+15:01:29 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:01:29 : Recebido informação do personagem completa.
+15:01:29 : [FoeFoe2] - [INFORMAÇÕES DA CONTA]
+Personagem online: FoeFoe2
+Gold atual: 950750350
+Level atual: 16
+Experiência atual: 26427
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:00 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 0 1 1]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[14] - Porco[2360] [95 3 1 7 8 0]
+[15] - Capa_de_Hekalotia[736] [0 0 0 0 0 0]
+[16] - [3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Ração_de_Porco[2420] [61 1 0 0 0 0]
+[01] - Ração_de_Fenrir_das_Sombras[2438] [61 5 0 0 0 0]
+[02] - Chave_da_Ultima_Porta[453] [0 0 0 0 0 0]
+[03] - Chave_Portão_Orc_Sul[465] [0 0 0 0 0 0]
+[04] - Chave_Portão_Orc_Leste[466] [0 0 0 0 0 0]
+[05] - Última_Chave_Orc[467] [0 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+[07] - Elmo_Aeon(N)[1476] [0 0 0 0 0 0]
+[08] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[09] - Fênix[2389] [1 1 1 10 0 0]
+[10] - Svadilfari[2387] [184 255 10 10 0 0]
+[12] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[13] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[14] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[15] - Manoplas_Acolchoadas(N)[1560] [43 1 72 20 60 4]
+[16] - Elmo_de_Couro(A)[1801] [43 0 60 8 59 0]
+[17] - Manoplas_Acolchoadas(N)[1560] [8 12 72 10 2 6]
+[18] - Chapéu_Pele_de_Animal(N)[1401] [43 0 60 8 3 10]
+[19] - Jaqueta_Acolchoada(N)[1554] [43 1 71 30 59 0]
+[20] - Calça_de_Couro(A)[1809] [7 7 71 40 2 12]
+[21] - Braçadeira_de_Ferro(M)[1576] [43 1 72 15 54 6]
+[22] - Braçadeira_de_Ferro(A)[2049] [43 0 72 10 54 9]
+[23] - Calça_Pele_de_Animal(A)[1409] [43 0 3 20 2 12]
+[24] - Botas_de_Couro_Duro(A)[1818] [43 0 73 12 59 0]
+[25] - Ração_de_Fênix[2439] [61 4 0 0 0 0]
+[26] - Armadura_Aeon(N)[1479] [0 0 0 0 0 0]
+[27] - [4190] [96 30 0 0 0 0]
+[28] - Conjunto_Yin-Yang[4150] [96 7 1 21 0 0]
+[29] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [120 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:01:29 : [FoeFoe2] - Personagem FoeFoe2 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 127426. OverPower: 34
+15:01:29 : [FoeFoe2] - Gold atual: 950750350. Classe: 1 Evolução: 0. Experiência: 26427. Nível: 16. Info: 0. GuildID: 0. CP: 45. Pontos de Contribuição: 0. Limite: 0
+15:01:30 : [FoeFoe2] - Comando "/day "
+15:01:30 : [FoeFoe2] - [Mensagem do servidor]> !#11 2
+15:01:42 : [FoeFoe2] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:08:04 : [FoeFoe2] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+15:12:33 : [FoeFoe2] - Comando "/srv 2"
+15:12:33 : [FoeFoe2] - Solicitou trocar para o servidor 2
+15:12:33 : [FoeFoe2] - 1 Personagem foi desconectado. Permaneceu 00:10:55 minutos online
+15:12:33 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+15:12:33 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+15:12:33 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:12:33 : Recebido informação do personagem completa.
+15:12:33 : [FoeFoe2] - [INFORMAÇÕES DA CONTA]
+Personagem online: FoeFoe2
+Gold atual: 950750350
+Level atual: 16
+Experiência atual: 26427
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:00 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[14] - Aranha[2360] [95 3 1 7 8 0]
+[15] - Capa_de_Hekalotia[736] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Ração_de_Aranha[2420] [61 1 0 0 0 0]
+[01] - Ração_de_Cérberus[2438] [61 5 0 0 0 0]
+[02] - Chave_da_Ultima_Porta[453] [0 0 0 0 0 0]
+[03] - Chave_Portão_Orc_Sul[465] [0 0 0 0 0 0]
+[04] - Chave_Portão_Orc_Leste[466] [0 0 0 0 0 0]
+[05] - Última_Chave_Orc[467] [0 0 0 0 0 0]
+[06] - Arco_de_Madeira[816] [43 0 0 0 0 0]
+[07] - Elmo_Aeon(N)[1476] [0 0 0 0 0 0]
+[08] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[09] - Fênix[2389] [1 1 1 10 0 0]
+[10] - Svadilfari[2387] [184 255 10 10 0 0]
+[12] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[13] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[14] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[15] - Manoplas_Acolchoadas(N)[1560] [43 1 72 20 60 4]
+[16] - Elmo_de_Couro(A)[1801] [43 0 60 8 59 0]
+[17] - Manoplas_Acolchoadas(N)[1560] [8 12 72 10 2 6]
+[18] - Chapéu_Pele_de_Animal(N)[1401] [43 0 60 8 3 10]
+[19] - Jaqueta_Acolchoada(N)[1554] [43 1 71 30 59 0]
+[20] - Calça_de_Couro(A)[1809] [7 7 71 40 2 12]
+[21] - Braçadeira_de_Ferro(M)[1576] [43 1 72 15 54 6]
+[22] - Braçadeira_de_Ferro(A)[2049] [43 0 72 10 54 9]
+[23] - Calça_Pele_de_Animal(A)[1409] [43 0 3 20 2 12]
+[24] - Botas_de_Couro_Duro(A)[1818] [43 0 73 12 59 0]
+[25] - Ração_de_Fênix[2439] [61 4 0 0 0 0]
+[26] - Armadura_Aeon(N)[1479] [0 0 0 0 0 0]
+[27] - [4190] [96 30 0 0 0 0]
+[28] - Conjunto_Yin-Yang[4150] [96 7 1 21 0 0]
+[29] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [120 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:12:33 : [FoeFoe2] - Personagem FoeFoe2 enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 127426. OverPower: 34
+15:12:33 : [FoeFoe2] - Gold atual: 950750350. Classe: 1 Evolução: 0. Experiência: 26427. Nível: 16. Info: 0. GuildID: 0. CP: 45. Pontos de Contribuição: 0. Limite: 0
+15:12:34 : [FoeFoe2] - Comando "/day "
+15:12:34 : [FoeFoe2] - [Mensagem do servidor]> !#11 2
+15:12:41 : [FoeFoe2] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:35:02 : [FoeFoe2] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+15:35:02 : [FoeFoe2] - 2 Personagem foi desconectado. Permaneceu 00:22:02 minutos online
+15:44:35 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+15:44:35 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+15:44:35 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:44:36 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:44:39 : Solicitou ir ao mundo...
+15:44:39 : Recebido pedido para entrar no jogo
+15:44:39 : Recebido informação do personagem completa.
+15:44:39 : [TKzaoporra] - [INFORMAÇÕES DA CONTA]
+Personagem online: TKzaoporra
+Gold atual: 4935000
+Level atual: 42
+Experiência atual: 368744
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 3655x 3132y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Cota_de_Couro_Batido(N)[1131] [0 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 22 108 10]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Chapéu_Pele_de_Animal(A)[1403] [43 0 60 10 59 0]
+[01] - Machado[802] [0 0 0 0 0 0]
+[02] - Porrete_de_Espinhos[803] [0 0 0 0 0 0]
+[03] - Maça_Pesada[804] [0 0 0 0 0 0]
+[04] - Machado_de_Aço[805] [0 0 0 0 0 0]
+[05] - Machado_Duplo[806] [0 0 0 0 0 0]
+[06] - Maça_Gótica[807] [0 0 0 0 0 0]
+[07] - Martelo_Sagrado[808] [0 0 0 0 0 0]
+[08] - Machado_Sanguinário[809] [0 0 0 0 0 0]
+[09] - Balmung[811] [0 0 0 0 0 0]
+[10] - Lança_Invisível[837] [0 0 0 0 0 0]
+[11] - Porrete[801] [0 0 0 0 0 0]
+[12] - Gladius[862] [0 0 0 0 0 0]
+[13] - Adaga[861] [0 0 0 0 0 0]
+[14] - Dardo[876] [0 0 0 0 0 0]
+[15] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[16] - Lança_Relâmpago[884] [0 0 0 0 0 0]
+[17] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[18] - Lança_Mágica[918] [0 0 0 0 0 0]
+[19] - Javelin[922] [0 0 0 0 0 0]
+[20] - Katana[939] [0 0 0 0 0 0]
+[21] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[22] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[23] - Martelo_de_Pedra[938] [43 9 0 0 0 0]
+[24] - Tsurugi[945] [0 0 0 0 0 0]
+[25] - Espada_Longa[863] [0 0 0 0 0 0]
+[26] - Pochard[988] [0 0 0 0 0 0]
+[27] - Rapier[952] [0 0 0 0 0 0]
+[28] - Cimitarra[953] [0 0 0 0 0 0]
+[29] - Katana[939] [43 9 0 0 0 0]
+[30] - Martelo[966] [0 0 0 0 0 0]
+[31] - Maça_Pesada[961] [0 0 0 0 0 0]
+[32] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[33] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[34] - Grande_Machado[969] [0 0 0 0 0 0]
+[35] - Stiletto[951] [0 0 0 0 0 0]
+[36] - Maça[962] [0 0 0 0 0 0]
+[37] - Kraika[963] [0 0 0 0 0 0]
+[38] - Martelo[966] [0 0 0 0 0 0]
+[39] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[40] - Maça_Gótica[965] [0 0 0 0 0 0]
+[41] - Machado_de_Batalha[968] [0 0 0 0 0 0]
+[42] - Maça_Gótica[965] [0 0 0 0 0 0]
+[43] - Machado_Duplo[964] [0 0 0 0 0 0]
+[44] - Grande_Machado[969] [0 0 0 0 0 0]
+[45] - Martelo_Sykik[970] [0 0 0 0 0 0]
+[46] - Calça_de_Couro_Duro(N)[1128] [43 0 71 50 3 25]
+[47] - Classe_D[4019] [61 113 0 0 0 0]
+[48] - Manoplas_Embutidas(A)[1217] [0 0 0 0 0 0]
+[49] - Sapatos_Pele_de_Animal(A)[1415] [43 0 73 6 59 0]
+[50] - Classe_B[4017] [0 0 0 0 0 0]
+[51] - Classe_C[4018] [0 0 0 0 0 0]
+[52] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[53] - Classe_E[4020] [0 0 0 0 0 0]
+[54] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[55] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[56] - Calça_Acolchoada(N)[1557] [43 2 3 10 60 4]
+[57] - Pedido_de_Caça(Dung)[3433] [61 100 0 0 0 0]
+[58] - Pedido_de_Caça(Kefra)[3436] [61 98 0 0 0 0]
+[59] - Pedido_de_Caça(Kult)[3435] [61 99 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:44:39 : [TKzaoporra] - Personagem TKzaoporra enviado ao mundo 3655x 3132y - Canal 2 - Cash da conta: 127426. OverPower: 84
+15:44:39 : [TKzaoporra] - Gold atual: 4935000. Classe: 0 Evolução: 0. Experiência: 368744. Nível: 42. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+15:44:39 : [TKzaoporra] - Logou no personagem TKzaoporra com baú de experiência ativo. Tempo: 77
+15:44:39 : [TKzaoporra] - Enviado informações do personagem
+15:44:40 : [TKzaoporra] - Comando "/day "
+15:44:40 : [TKzaoporra] - [Mensagem do servidor]> !#11 2
+15:44:54 : [TKzaoporra] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:45:05 : [TKzaoporra] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:45:05 : [TKzaoporra] - 2 Personagem foi desconectado. Permaneceu 00:00:29 minutos online
+17:09:32 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 3
+17:09:32 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+17:09:32 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:09:33 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:09:36 : Solicitou ir ao mundo...
+17:09:36 : Recebido pedido para entrar no jogo
+17:09:36 : Recebido informação do personagem completa.
+17:09:36 : [TKzaoporra] - [INFORMAÇÕES DA CONTA]
+Personagem online: TKzaoporra
+Gold atual: 4935000
+Level atual: 42
+Experiência atual: 368744
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2090x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Cota_de_Couro_Batido(N)[1131] [0 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 22 108 9]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Chapéu_Pele_de_Animal(A)[1403] [43 0 60 10 59 0]
+[01] - Machado[802] [0 0 0 0 0 0]
+[02] - Porrete_de_Espinhos[803] [0 0 0 0 0 0]
+[03] - Maça_Pesada[804] [0 0 0 0 0 0]
+[04] - Machado_de_Aço[805] [0 0 0 0 0 0]
+[05] - Machado_Duplo[806] [0 0 0 0 0 0]
+[06] - Maça_Gótica[807] [0 0 0 0 0 0]
+[07] - Martelo_Sagrado[808] [0 0 0 0 0 0]
+[08] - Machado_Sanguinário[809] [0 0 0 0 0 0]
+[09] - Balmung[811] [0 0 0 0 0 0]
+[10] - Lança_Invisível[837] [0 0 0 0 0 0]
+[11] - Porrete[801] [0 0 0 0 0 0]
+[12] - Gladius[862] [0 0 0 0 0 0]
+[13] - Adaga[861] [0 0 0 0 0 0]
+[14] - Dardo[876] [0 0 0 0 0 0]
+[15] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[16] - Lança_Relâmpago[884] [0 0 0 0 0 0]
+[17] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[18] - Lança_Mágica[918] [0 0 0 0 0 0]
+[19] - Javelin[922] [0 0 0 0 0 0]
+[20] - Katana[939] [0 0 0 0 0 0]
+[21] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[22] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[23] - Martelo_de_Pedra[938] [43 9 0 0 0 0]
+[24] - Tsurugi[945] [0 0 0 0 0 0]
+[25] - Espada_Longa[863] [0 0 0 0 0 0]
+[26] - Pochard[988] [0 0 0 0 0 0]
+[27] - Rapier[952] [0 0 0 0 0 0]
+[28] - Cimitarra[953] [0 0 0 0 0 0]
+[29] - Katana[939] [43 9 0 0 0 0]
+[30] - Martelo[966] [0 0 0 0 0 0]
+[31] - Maça_Pesada[961] [0 0 0 0 0 0]
+[32] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[33] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[34] - Grande_Machado[969] [0 0 0 0 0 0]
+[35] - Stiletto[951] [0 0 0 0 0 0]
+[36] - Maça[962] [0 0 0 0 0 0]
+[37] - Kraika[963] [0 0 0 0 0 0]
+[38] - Martelo[966] [0 0 0 0 0 0]
+[39] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[40] - Maça_Gótica[965] [0 0 0 0 0 0]
+[41] - Machado_de_Batalha[968] [0 0 0 0 0 0]
+[42] - Maça_Gótica[965] [0 0 0 0 0 0]
+[43] - Machado_Duplo[964] [0 0 0 0 0 0]
+[44] - Grande_Machado[969] [0 0 0 0 0 0]
+[45] - Martelo_Sykik[970] [0 0 0 0 0 0]
+[46] - Calça_de_Couro_Duro(N)[1128] [43 0 71 50 3 25]
+[47] - Classe_D[4019] [61 113 0 0 0 0]
+[48] - Manoplas_Embutidas(A)[1217] [0 0 0 0 0 0]
+[49] - Sapatos_Pele_de_Animal(A)[1415] [43 0 73 6 59 0]
+[50] - Classe_B[4017] [0 0 0 0 0 0]
+[51] - Classe_C[4018] [0 0 0 0 0 0]
+[52] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[53] - Classe_E[4020] [0 0 0 0 0 0]
+[54] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[55] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[56] - Calça_Acolchoada(N)[1557] [43 2 3 10 60 4]
+[57] - Pedido_de_Caça(Dung)[3433] [61 100 0 0 0 0]
+[58] - Pedido_de_Caça(Kefra)[3436] [61 98 0 0 0 0]
+[59] - Pedido_de_Caça(Kult)[3435] [61 99 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:09:36 : [TKzaoporra] - Personagem TKzaoporra enviado ao mundo 2090x 2093y - Canal 2 - Cash da conta: 127426. OverPower: 84
+17:09:36 : [TKzaoporra] - Gold atual: 4935000. Classe: 0 Evolução: 0. Experiência: 368744. Nível: 42. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:09:36 : [TKzaoporra] - Logou no personagem TKzaoporra com baú de experiência ativo. Tempo: 74
+17:09:36 : [TKzaoporra] - Enviado informações do personagem
+17:09:37 : [TKzaoporra] - Comando "/day "
+17:09:37 : [TKzaoporra] - [Mensagem do servidor]> !#11 2
+17:09:43 : [TKzaoporra] - Comando "/gm +armia"
+17:09:43 : [TKzaoporra] - Teleportado para a posição 2100 2100
+17:09:45 : [TKzaoporra] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:15:16 : [TKzaoporra] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:15:16 : [TKzaoporra] - 3 Personagem foi desconectado. Permaneceu 00:05:26 minutos online

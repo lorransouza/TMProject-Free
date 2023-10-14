@@ -1,0 +1,9 @@
+#15 - Tempo de espera pra nascer
+#10 - Tempo máximo que fica vivo
+#0 -> Index até 09
+#245 -> Gener
+#Todos os outros 0 em sequencia, são 9, sao outras possiveis geners
+#DARKSHADOW
+0 245 0 0 0 0 0 0 0 0 0 3600 0 
+#LICH AMALD
+1 315 316 317 0 0 0 0 0 0 0 3600 300

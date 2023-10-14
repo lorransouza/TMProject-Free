@@ -1,0 +1,922 @@
+
+01:19:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (NETTO93) - IP: 179.127.70.223 Mac: (BB:C6:0C:99:53:44). ClientId: 2
+01:19:55 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+01:19:55 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+01:20:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (NETTO93) - IP: 179.127.70.223 Mac: (BB:C6:0C:99:53:44). ClientId: 21
+01:20:03 : Usuário logou no jogo com clientId 21. - Servidor 1. Gold do banco: 0
+01:20:03 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Pedaço_do_Círc_Div_Comp[692] [59 199 59 241 59 145]
+[ 80] - Baú_de_Caça[4139] [61 232 0 0 0 0]
+[ 81] - Aranha[2360] [85 27 1 20 0 0]
+[ 83] - Âmago_de_Aranha[2390] [61 37 0 0 0 0]
+[ 84] - Esfera_da_Sorte(A)[4130] [0 0 0 0 0 0]
+[ 85] - Baú_de_Experiência[4140] [61 226 0 0 0 0]
+[ 86] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 89] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[ 90] - Frango_Assado[3314] [61 239 0 0 0 0]
+[ 94] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[ 99] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[100] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[104] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[105] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[110] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[115] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+
+01:20:03 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+01:20:12 : Enviou senha numérica correta. 
+01:20:13 : Solicitou ir ao mundo...
+01:20:13 : Recebido pedido para entrar no jogo
+01:20:13 : Recebido informação do personagem completa.
+01:20:13 : [-Nettoco-] - [INFORMAÇÕES DA CONTA]
+Personagem online: -Nettoco-
+Gold atual: 1543072471
+Level atual: 344
+Experiência atual: 1541088988
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:11 horas
+Posição atual: 2090x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Wolf_Man[22] [43 9 21 0 1 1]
+[01] - Elmo(A)[1493] [43 9 3 25 26 18]
+[02] - Armadura(A)[1496] [43 9 2 30 71 70]
+[03] - Calça(A)[1499] [43 9 2 30 71 70]
+[04] - Luvas(A)[1502] [43 9 54 18 72 30]
+[05] - Botas(A)[1505] [43 9 73 30 74 18]
+[06] - Machado[810] [2 45 43 9 0 0]
+[07] - Asa_Draconiana[3551] [43 9 2 36 0 0]
+[08] - Brinco_de_Hercules[595] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 14 3 21 0 0]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 21 108 7]
+[14] - Hrimfaxi[2366] [48 117 100 60 10 0]
+
+[INVENTÁRIO]
+[00] - Trombeta_Mágica[3330] [61 105 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 207 0 0 0 0]
+[02] - Ração_de_Cavalo[2426] [96 1 61 119 0 0]
+[03] - Selo_do_Guerreiro[4146] [61 237 0 0 0 0]
+[04] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[05] - Pergaminho_de_Portal(10)[776] [61 10 0 0 0 0]
+[06] - Pergaminho_de_Portal(10)[776] [61 8 0 0 0 0]
+[07] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[08] - Poção_Poderosa[3431] [61 20 0 0 0 0]
+[09] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[10] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[11] - Pergaminho_Retorno_10x[411] [61 8 0 0 0 0]
+[12] - Jóia_da_Armazenagem[3207] [61 11 0 0 0 0]
+[13] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[14] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[15] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[16] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[17] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[18] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[20] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[21] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[22] - Sephirot(Huntress)[1763] [0 0 0 0 0 0]
+[23] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[25] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[26] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+01:20:13 : [-Nettoco-] - Personagem -Nettoco- enviado ao mundo 2090x 2100y - Canal 1 - Cash da conta: 86321. PowerLevel: 3511
+01:20:13 : [-Nettoco-] - Gold atual: 1543072471. Classe: 2 Evolução: 0. Experiência: 1541088988. Nível: 344. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+01:20:13 : [-Nettoco-] - Logou no personagem -Nettoco- com poção divina ativo. Validade: 14/3/2021 0:37:24
+01:20:13 : [-Nettoco-] - Logou no personagem -Nettoco- com baú de experiência ativo. Tempo: 11331
+01:20:13 : [-Nettoco-] - Logou no personagem -Nettoco- com frango ativo. Tempo: 531
+01:20:13 : [-Nettoco-] - Resetado a contagem de entradas água! Day: 42-43. Total: 1
+01:20:13 : [-Nettoco-] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+01:20:13 : [-Nettoco-] - Enviado informações do personagem
+01:20:16 : [-Nettoco-] - Comando "/day "
+01:20:16 : [-Nettoco-] - [Mensagem do servidor]> !#11 2
+01:20:24 : [-Nettoco-] - [Mensagem do servidor]: DeathSavage falhou a refinação de Cythera_Mística para 13
+01:20:25 : [-Nettoco-] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+01:20:40 : [-Nettoco-] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +12
+01:20:56 : [-Nettoco-] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +13
+01:21:19 : [-Nettoco-] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +14
+01:21:50 : [-Nettoco-] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2099x 2110y. Posição do NPC: 2102x 2113y
+01:22:04 : [-Nettoco-] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2107x 2112y. Posição do NPC: 2102x 2113y
+01:22:26 : [-Nettoco-] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +15
+01:22:46 : [-Nettoco-] - NETTO93 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+01:22:46 : [-Nettoco-] - 21 Personagem foi desconectado. Permaneceu 00:02:41 minutos online
+02:02:43 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (NETTO93) - IP: 179.127.70.223 Mac: (BB:C6:0C:99:53:44). ClientId: 24
+02:02:43 : Usuário logou no jogo com clientId 24. - Servidor 1. Gold do banco: 0
+02:02:43 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Pedaço_do_Círc_Div_Comp[692] [59 199 59 241 59 145]
+[ 80] - Baú_de_Caça[4139] [61 232 0 0 0 0]
+[ 81] - Aranha[2360] [85 27 1 20 0 0]
+[ 83] - Âmago_de_Aranha[2390] [61 37 0 0 0 0]
+[ 84] - Esfera_da_Sorte(A)[4130] [0 0 0 0 0 0]
+[ 85] - Baú_de_Experiência[4140] [61 226 0 0 0 0]
+[ 86] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 89] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[ 90] - Frango_Assado[3314] [61 239 0 0 0 0]
+[ 94] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[ 99] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[100] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[104] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[105] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[110] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[115] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+
+02:02:43 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+02:02:49 : Enviou senha numérica correta. 
+02:02:50 : Solicitou ir ao mundo...
+02:02:50 : Recebido pedido para entrar no jogo
+02:02:50 : Recebido informação do personagem completa.
+02:02:50 : [-Nettoco-] - [INFORMAÇÕES DA CONTA]
+Personagem online: -Nettoco-
+Gold atual: 1543072471
+Level atual: 344
+Experiência atual: 1541088988
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2086x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Wolf_Man[22] [43 9 21 0 1 1]
+[01] - Elmo(A)[1493] [43 9 3 25 26 18]
+[02] - Armadura(A)[1496] [43 9 2 30 71 70]
+[03] - Calça(A)[1499] [43 9 2 30 71 70]
+[04] - Luvas(A)[1502] [43 9 54 18 72 30]
+[05] - Botas(A)[1505] [43 9 73 30 74 18]
+[06] - Machado[810] [2 45 43 9 0 0]
+[07] - Asa_Draconiana[3551] [43 9 2 36 0 0]
+[08] - Brinco_de_Hercules[595] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 14 3 21 0 0]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 21 108 5]
+[14] - Hrimfaxi[2366] [48 117 100 60 10 0]
+
+[INVENTÁRIO]
+[00] - Trombeta_Mágica[3330] [61 105 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 207 0 0 0 0]
+[02] - Ração_de_Cavalo[2426] [96 1 61 119 0 0]
+[03] - Selo_do_Guerreiro[4146] [61 237 0 0 0 0]
+[04] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[05] - Pergaminho_de_Portal(10)[776] [61 10 0 0 0 0]
+[06] - Pergaminho_de_Portal(10)[776] [61 8 0 0 0 0]
+[07] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[08] - Poção_Poderosa[3431] [61 20 0 0 0 0]
+[09] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[10] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[11] - Pergaminho_Retorno_10x[411] [61 8 0 0 0 0]
+[12] - Jóia_da_Armazenagem[3207] [61 11 0 0 0 0]
+[13] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[14] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[15] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[16] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[17] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[18] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[20] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[21] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[22] - Sephirot(Huntress)[1763] [0 0 0 0 0 0]
+[23] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[25] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[26] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+02:02:50 : [-Nettoco-] - Personagem -Nettoco- enviado ao mundo 2086x 2097y - Canal 1 - Cash da conta: 86321. PowerLevel: 3511
+02:02:50 : [-Nettoco-] - Gold atual: 1543072471. Classe: 2 Evolução: 0. Experiência: 1541088988. Nível: 344. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+02:02:50 : [-Nettoco-] - Logou no personagem -Nettoco- com poção divina ativo. Validade: 14/3/2021 0:37:24
+02:02:50 : [-Nettoco-] - Logou no personagem -Nettoco- com baú de experiência ativo. Tempo: 11312
+02:02:50 : [-Nettoco-] - Logou no personagem -Nettoco- com frango ativo. Tempo: 512
+02:02:50 : [-Nettoco-] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+02:02:50 : [-Nettoco-] - Enviado informações do personagem
+02:02:52 : [-Nettoco-] - Comando "/day "
+02:02:52 : [-Nettoco-] - [Mensagem do servidor]> !#11 2
+02:03:03 : [-Nettoco-] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+02:03:06 : [-Nettoco-] - Teleportado para a posição 3649 3110
+02:03:11 : [-Nettoco-] - Clicado no NPC [Tiny]. Face 68. Race: 2. GenerateId: 3420. Posição do usuário: 3650x 3112y. Posição do NPC: 3648x 3116y
+02:03:13 : [-Nettoco-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +15
+02:03:14 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +13
+02:03:14 : [-Nettoco-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +12
+02:03:28 : [-Nettoco-] - Item Pedido_de_Caça(Kult) [3435] [61 10 0 0 0 0] utilizado em 3641x 3112y
+02:03:28 : [-Nettoco-] - Teleportado para a posição 1182 1714
+02:03:29 : [-Nettoco-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +13
+02:03:31 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +14
+02:03:50 : [-Nettoco-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +14
+02:03:51 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +15
+02:03:58 : [-Nettoco-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +15
+02:03:58 : [-Nettoco-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +12
+02:04:18 : [-Nettoco-] - [Mensagem do servidor]: RhadamanthyS falhou a refinação de Neorion(Anct) para 12
+02:04:18 : [-Nettoco-] - [Mensagem do servidor]: ErenJaeger falhou a refinação de Caliburn(Anct) para 13
+02:04:29 : [-Nettoco-] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:04:29 : [-Nettoco-] - Level UP para level 345. Ev: 0/0 - 1185x 1719y
+02:04:31 : [-Nettoco-] - Comando "/nig "
+02:04:31 : [-Nettoco-] - [Mensagem do servidor]> !!020431
+02:04:37 : [-Nettoco-] - Item Pergaminho_Retorno_10x [411] [61 8 0 0 0 0] utilizado em 1185x 1719y
+02:04:37 : [-Nettoco-] - DoRecall - Enviado para cidade: 3663x 3125y
+02:04:39 : [-Nettoco-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +12
+02:04:49 : [-Nettoco-] - Clicado no NPC [Juli]. Face 11. Race: 3. GenerateId: 3279. Posição do usuário: 3648x 3143y. Posição do NPC: 3649x 3142y
+02:04:49 : [-Nettoco-] - Teleportado para a posição 2482 1652
+02:04:59 : [-Nettoco-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +13
+02:05:00 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +12
+02:05:10 : [-Nettoco-] - Comando "/spk Algum up?"
+02:05:10 : [-Nettoco-] - Trombeta: Algum up?
+02:05:23 : [-Nettoco-] - Comando "/tab GRUPO PESA / AGUA"
+02:05:23 : [-Nettoco-] - Tab setado para: GRUPO PESA / AGUA
+02:05:47 : [-Nettoco-] - Teleportado para a posição 1970 1711
+02:05:47 : [-Nettoco-] - Solicitado teleporte na posição 2453x 1716y e teleportado para 1970x 1711y
+02:05:52 : [-Nettoco-] - Comando "/spk Algum up?"
+02:05:52 : [-Nettoco-] - Trombeta: Algum up?
+02:06:22 : [-Nettoco-] - Comando "/tab Grupo Auto On"
+02:06:22 : [-Nettoco-] - Tab setado para: Grupo Auto On
+02:06:43 : [-Nettoco-] - Moveu item Botas(A) [1505] [43 9 73 30 74 18] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 27
+02:06:48 : [-Nettoco-] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+02:06:48 : [-Nettoco-] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+02:06:48 : [-Nettoco-] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+02:06:48 : [-Nettoco-] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+02:06:52 : [-Nettoco-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +14
+02:06:59 : [-Nettoco-] - Moveu item Botas(A) [1505] [43 9 73 30 74 18] do tipo INVENTÁRIO do slot 27 para tipo EQUIPAMENTO slot 5
+02:07:12 : [-Nettoco-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +15
+02:07:21 : [-Nettoco-] - Teleportado para a posição 1216 3649
+02:07:21 : [-Nettoco-] - Água 3182 - Grupo de I-Zoe-I. Entradas restantes: 1080
+02:07:41 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:07:47 : [-Nettoco-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +13
+02:07:48 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +13
+02:08:03 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:08:10 : [-Nettoco-] - [Mensagem do servidor]: ErenJaeger falhou a refinação de Cythera_Mística para 14
+02:08:23 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:08:32 : [-Nettoco-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +13
+02:08:33 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +14
+02:08:46 : [-Nettoco-] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:08:46 : [-Nettoco-] - Level UP para level 346. Ev: 0/0 - 1214x 3647y
+02:08:51 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +15
+02:09:15 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:09:24 : [-Nettoco-] - [Mensagem do servidor]: RhadamanthyS falhou a refinação de Botas(A) para 13
+02:09:27 : [-Nettoco-] - [Mensagem do servidor]: Jogador TriPeZao falhou a composição do item Cythera_Mística +10
+02:09:32 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:09:35 : [-Nettoco-] - [Mensagem do servidor]: Jogador TriPeZao falhou a composição do item Cythera_Mística +10
+02:09:47 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +12
+02:10:06 : [-Nettoco-] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1215x 3646y. Teleportado para ""
+02:10:06 : [-Nettoco-] - Teleportado para a posição 1964 1770
+02:11:08 : [-Nettoco-] - Teleportado para a posição 1212 3644
+02:11:08 : [-Nettoco-] - Água 3182 - Grupo de I-Zoe-I. Entradas restantes: 1079
+02:11:14 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:11:30 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +13
+02:11:48 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +14
+02:11:51 : [-Nettoco-] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:11:51 : [-Nettoco-] - Level UP para level 347. Ev: 0/0 - 1213x 3645y
+02:12:05 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +15
+02:12:13 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:12:25 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +13
+02:12:36 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:12:38 : [-Nettoco-] - Recebeu 20252 de gold em 10 mobs no total. Total de gold: 1539637723
+02:12:49 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Armadura(A) +10
+02:12:53 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:13:00 : [-Nettoco-] - [Mensagem do servidor]: RhadamanthyS falhou a refinação de Calça(A) para 14
+02:13:17 : [-Nettoco-] - [Mensagem do servidor]: RhadamanthyS falhou a refinação de Calça(A) para 13
+02:13:24 : [-Nettoco-] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:13:24 : [-Nettoco-] - Level UP para level 348. Ev: 0/0 - 1213x 3645y
+02:13:43 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +12
+02:13:49 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Calça(A) +10
+02:14:00 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +13
+02:14:00 : [-Nettoco-] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+02:14:09 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Calça(A) +10
+02:14:11 : [-Nettoco-] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1213x 3645y - Ladrao Tauron  (1/1)
+02:14:18 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +14
+02:14:23 : [-Nettoco-] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1213x 3645y. Teleportado para ""
+02:14:23 : [-Nettoco-] - Teleportado para a posição 1964 1770
+02:14:53 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +15
+02:14:59 : [-Nettoco-] - [Mensagem do servidor]: Mob foi derrotado por I-Zoe-I
+02:15:25 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +13
+02:16:00 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Calça(A) +10
+02:16:20 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Calça(A) +10
+02:16:39 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Calça(A) +10
+02:17:45 : [-Nettoco-] - Teleportado para a posição 1087 3520
+02:17:45 : [-Nettoco-] - Água 3182 - Grupo de I-Zoe-I. Entradas restantes: 1078
+02:18:08 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:18:11 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +14
+02:18:17 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Calça(A) +10
+02:18:31 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +15
+02:18:32 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:19:17 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +13
+02:19:27 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:20:00 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +14
+02:20:03 : [-Nettoco-] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:20:03 : [-Nettoco-] - Level UP para level 349. Ev: 0/0 - 1086x 3518y
+02:20:15 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +15
+02:20:21 : [-Nettoco-] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1086x 3518y - Assass. Tauron (1/1)
+02:20:36 : [-Nettoco-] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1086x 3518y. Teleportado para ""
+02:20:36 : [-Nettoco-] - Teleportado para a posição 1966 1769
+02:20:48 : [-Nettoco-] - Teleportado para a posição 1085 3520
+02:20:48 : [-Nettoco-] - Água 777 - Grupo de I-Zoe-I. Entradas restantes: 1077
+02:22:27 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Botas(A) +10
+02:22:37 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Botas(A) +10
+02:23:26 : [-Nettoco-] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1084x 3518y. Teleportado para ""
+02:23:26 : [-Nettoco-] - Teleportado para a posição 1966 1769
+02:23:31 : [-Nettoco-] - Teleportado para a posição 1086 3520
+02:23:31 : [-Nettoco-] - Água 3182 - Grupo de I-Zoe-I. Entradas restantes: 1076
+02:23:38 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Botas(A) +10
+02:23:54 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:23:56 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Botas(A) +10
+02:24:33 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:24:36 : [-Nettoco-] - Recebeu 18342 de gold em 10 mobs no total. Total de gold: 1539656065
+02:24:38 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:24:57 : [-Nettoco-] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:24:57 : [-Nettoco-] - Level UP para level 350. Ev: 0/0 - 1087x 3519y
+02:25:04 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS falhou a composição do item Luvas(A) +10
+02:25:17 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS falhou a composição do item Luvas(A) +10
+02:25:18 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:26:29 : [-Nettoco-] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1086x 3518y. Teleportado para ""
+02:26:29 : [-Nettoco-] - Teleportado para a posição 1965 1769
+02:26:50 : [-Nettoco-] - Teleportado para a posição 1214 3649
+02:26:50 : [-Nettoco-] - Água 3182 - Grupo de I-Zoe-I. Entradas restantes: 1075
+02:26:53 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:27:10 : [-Nettoco-] - [Mensagem do servidor]: Dark-Foema falhou na composição do item Cajado para Ancient
+02:27:13 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS falhou a composição do item Luvas(A) +10
+02:27:34 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:28:00 : [-Nettoco-] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:28:00 : [-Nettoco-] - Level UP para level 351. Ev: 0/0 - 1216x 3645y
+02:28:41 : [-Nettoco-] - [Mensagem do servidor]: Dark-Foema falhou na composição do item Cajado para Ancient
+02:28:52 : [-Nettoco-] - [Mensagem do servidor]: Dark-Foema falhou na composição do item Cajado para Ancient
+02:28:55 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:29:12 : [-Nettoco-] - [Mensagem do servidor]: Jogador Dark-Foema falhou a composição do item Chapéu(A) +10
+02:29:26 : [-Nettoco-] - [Mensagem do servidor]: Jogador Dark-Foema falhou a composição do item Túnica(A) +10
+02:29:27 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na composição de Thrasytes(Anct)
+02:29:49 : [-Nettoco-] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1216x 3646y. Teleportado para ""
+02:29:49 : [-Nettoco-] - Teleportado para a posição 1964 1770
+02:29:50 : [-Nettoco-] - [Mensagem do servidor]: Jogador Dark-Foema falhou a composição do item Chapéu(A) +10
+02:29:55 : [-Nettoco-] - [Mensagem do servidor]: -JalimRabei- falhou na composição do item Espada para Ancient
+02:30:24 : [-Nettoco-] - Teleportado para a posição 1210 179
+02:30:24 : [-Nettoco-] - O jogador -PECADOS-(FUSIONAUG) não entrará por conta do limite de nível
+O jogador yHuntress(DUDUX1398) foi adicionado a lista
+O jogador -Mikau-(LUCASMIKAU) foi adicionado a lista
+O jogador -Nettoco-(NETTO93) foi adicionado a lista
+O jogador Begins(ERFREITAS) não entrará por falta de NT
+O jogador I-Zoe-I(JOGANDO20) foi adicionado a lista
+[GRUPO]
+[Pesadelo A] - DUDUX1398 - yHuntress
+[Pesadelo A] - LUCASMIKAU - -Mikau-
+[Pesadelo A] - NETTO93 - -Nettoco-
+[Pesadelo A] - JOGANDO20 - I-Zoe-I
+
+02:31:52 : [-Nettoco-] - [Mensagem do servidor]: RhadamanthyS falhou a refinação de Luvas(A) para 12
+02:31:58 : [-Nettoco-] - [Mensagem do servidor]: -JalimRabei- falhou na composição do item Espada para Ancient
+02:32:23 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +12
+02:32:39 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +13
+02:32:50 : [-Nettoco-] - [INFORMAÇÕES DA CONTA]
+Personagem online: -Nettoco-
+Gold atual: 1539669188
+Level atual: 351
+Experiência atual: 1731414610
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:46 horas
+Posição atual: 1210x 179y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Wolf_Man[22] [43 9 21 0 1 1]
+[01] - Elmo(A)[1493] [43 9 3 25 26 18]
+[02] - Armadura(A)[1496] [43 9 2 30 71 70]
+[03] - Calça(A)[1499] [43 9 2 30 71 70]
+[04] - Luvas(A)[1502] [43 9 54 18 72 30]
+[05] - Botas(A)[1505] [43 9 73 30 74 18]
+[06] - Machado[810] [2 45 43 9 0 0]
+[07] - Asa_Draconiana[3551] [43 9 2 36 0 0]
+[08] - Brinco_de_Hercules[595] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 14 3 21 0 96]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 20 108 34]
+[14] - Hrimfaxi[2366] [242 98 100 60 10 0]
+
+[INVENTÁRIO]
+[00] - Trombeta_Mágica[3330] [61 103 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 207 0 0 0 0]
+[02] - Ração_de_Cavalo[2426] [96 1 61 119 0 0]
+[03] - Selo_do_Guerreiro[4146] [61 237 0 0 0 0]
+[04] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[05] - Pergaminho_de_Portal(10)[776] [61 10 0 0 0 0]
+[06] - Pergaminho_de_Portal(10)[776] [61 8 0 0 0 0]
+[07] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[08] - Poção_Poderosa[3431] [61 20 0 0 0 0]
+[09] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[10] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[11] - Pergaminho_Retorno_10x[411] [61 7 0 0 0 0]
+[12] - Jóia_da_Armazenagem[3207] [61 11 0 0 0 0]
+[13] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[14] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[15] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[16] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[17] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[18] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[19] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[20] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[21] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[22] - Sephirot(Huntress)[1763] [0 0 0 0 0 0]
+[23] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[24] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[25] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[26] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[27] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+02:33:19 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +14
+02:33:25 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na composição de Thrasytes(Anct)
+02:33:51 : [-Nettoco-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +15
+02:34:37 : [-Nettoco-] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 14. Distância 2: 12. Range: 4.
+02:34:50 : [-Nettoco-] - Recebeu 20338 de gold em 10 mobs no total. Total de gold: 1539676403
+02:34:50 : [-Nettoco-] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na composição de Fúria_Divina(Anct)
+02:34:55 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:35:07 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Thrasytes(Anct) +10
+02:35:18 : [-Nettoco-] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na composição de Fúria_Divina(Anct)
+02:35:33 : [-Nettoco-] - [Mensagem do servidor]: Dark-Foema falhou na composição do item Cajado para Ancient
+02:35:43 : [-Nettoco-] - [Mensagem do servidor]: Dark-Foema falhou na composição do item Cajado para Ancient
+02:35:53 : [-Nettoco-] - [Mensagem do servidor]: Dark-Foema falhou na composição do item Cajado para Ancient
+02:35:57 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:36:04 : [-Nettoco-] - [Mensagem do servidor]: Dark-Foema falhou na composição do item Cajado para Ancient
+02:37:04 : [-Nettoco-] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:37:04 : [-Nettoco-] - Level UP para level 352. Ev: 0/0 - 1198x 175y
+02:38:34 : [-Nettoco-] - Recebeu 16869 de gold em 10 mobs no total. Total de gold: 1539693272
+02:38:55 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:39:29 : [-Nettoco-] - [Mensagem do servidor]: Jogador Dark-Foema falhou a composição do item Luvas(A) +10
+02:39:41 : [-Nettoco-] - [Mensagem do servidor]: Jogador Dark-Foema falhou a composição do item Luvas(A) +10
+02:40:04 : [-Nettoco-] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 12. Distância 2: 12. Range: 4.
+02:40:31 : [-Nettoco-] - Recebeu 17761 de gold em 10 mobs no total. Total de gold: 1539711033
+02:40:43 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na composição de Basileus(Anct)
+02:40:46 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:41:06 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na composição de Basileus(Anct)
+02:41:36 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na composição de Basileus(Anct)
+02:41:46 : [-Nettoco-] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 13. Distância 2: 12. Range: 4.
+02:41:56 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na composição de Basileus(Anct)
+02:42:11 : [-Nettoco-] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 14. Distância 2: 11. Range: 4.
+02:42:22 : [-Nettoco-] - [Mensagem do servidor]: Parabéns EliteRubro pela criação do personagem Arch
+02:42:36 : [-Nettoco-] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 12. Distância 2: 12. Range: 4.
+02:42:54 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:43:09 : [-Nettoco-] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 12. Distância 2: 11. Range: 4.
+02:44:11 : [-Nettoco-] - [Mensagem do servidor]: Dark-Foema falhou a refinação de Túnica(A) para 12
+02:44:34 : [-Nettoco-] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +12
+02:44:42 : [-Nettoco-] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 12. Distância 2: 10. Range: 4.
+02:44:56 : [-Nettoco-] - Recebeu 17142 de gold em 10 mobs no total. Total de gold: 1539728175
+02:44:58 : [-Nettoco-] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +12
+02:45:09 : [-Nettoco-] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +12
+02:45:22 : [-Nettoco-] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:45:22 : [-Nettoco-] - Level UP para level 353. Ev: 0/0 - 1198x 175y
+02:45:47 : [-Nettoco-] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +12
+02:47:04 : [-Nettoco-] - Recebeu 17633 de gold em 10 mobs no total. Total de gold: 1539745808
+02:47:17 : [-Nettoco-] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 12. Distância 2: 10. Range: 4.
+02:47:32 : [-Nettoco-] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 12. Distância 2: 12. Range: 4.
+02:47:36 : [-Nettoco-] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +13
+02:47:57 : [-Nettoco-] - [Mensagem do servidor]: Jogador ancalagon obteve sucesso na refinação item +12
+02:48:22 : [-Nettoco-] - [Mensagem do servidor]: Jogador ancalagon obteve sucesso na refinação item +13
+02:48:30 : [-Nettoco-] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +14
+02:48:41 : [-Nettoco-] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 13. Distância 2: 12. Range: 4.
+02:48:44 : [-Nettoco-] - [Mensagem do servidor]: Jogador ancalagon obteve sucesso na refinação item +14
+02:48:54 : [-Nettoco-] - Teleportado para a posição 1344 3519
+02:48:54 : [-Nettoco-] - Água 3182 - Grupo de I-Zoe-I. Entradas restantes: 1074
+02:48:58 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:49:21 : [-Nettoco-] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +15
+02:49:51 : [-Nettoco-] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +13
+02:51:46 : [-Nettoco-] - NETTO93 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+02:51:46 : [-Nettoco-] - 24 Personagem foi desconectado. Permaneceu 00:48:27 minutos online
+02:51:46 : [-Nettoco-] - Recebeu 12101 de gold em 6 mobs no total. Total de gold: 1539757909
+02:59:15 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (NETTO93) - IP: 179.127.70.223 Mac: (BB:C6:0C:99:53:44). ClientId: 17
+02:59:15 : Usuário logou no jogo com clientId 17. - Servidor 1. Gold do banco: 0
+02:59:15 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Pedaço_do_Círc_Div_Comp[692] [59 199 59 241 59 145]
+[ 80] - Baú_de_Caça[4139] [61 232 0 0 0 0]
+[ 81] - Aranha[2360] [85 27 1 20 0 0]
+[ 83] - Âmago_de_Aranha[2390] [61 37 0 0 0 0]
+[ 84] - Esfera_da_Sorte(A)[4130] [0 0 0 0 0 0]
+[ 85] - Baú_de_Experiência[4140] [61 226 0 0 0 0]
+[ 86] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 89] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[ 90] - Frango_Assado[3314] [61 239 0 0 0 0]
+[ 94] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[ 99] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[100] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[104] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[105] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[110] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[115] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+
+02:59:25 : Enviou senha numérica correta. 
+02:59:26 : Solicitou ir ao mundo...
+02:59:26 : Recebido pedido para entrar no jogo
+02:59:26 : Recebido informação do personagem completa.
+02:59:26 : [-Nettoco-] - [INFORMAÇÕES DA CONTA]
+Personagem online: -Nettoco-
+Gold atual: 1539757909
+Level atual: 353
+Experiência atual: 1920896866
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2499x 1718y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Wolf_Man[22] [43 9 21 0 1 1]
+[01] - Elmo(A)[1493] [43 9 3 25 26 18]
+[02] - Armadura(A)[1496] [43 9 2 30 71 70]
+[03] - Calça(A)[1499] [43 9 2 30 71 70]
+[04] - Luvas(A)[1502] [43 9 54 18 72 30]
+[05] - Botas(A)[1505] [43 9 73 30 74 18]
+[06] - Machado[810] [2 45 43 9 0 0]
+[07] - Asa_Draconiana[3551] [43 9 2 36 0 0]
+[08] - Brinco_de_Hercules[595] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 14 3 21 0 96]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 20 108 16]
+[14] - Hrimfaxi[2366] [113 96 100 60 10 0]
+
+[INVENTÁRIO]
+[00] - Trombeta_Mágica[3330] [61 103 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 207 0 0 0 0]
+[02] - Ração_de_Cavalo[2426] [96 1 61 119 0 0]
+[03] - Selo_do_Guerreiro[4146] [61 237 0 0 0 0]
+[04] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[05] - Pergaminho_de_Portal(10)[776] [61 10 0 0 0 0]
+[06] - Pergaminho_de_Portal(10)[776] [61 8 0 0 0 0]
+[07] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[10] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[11] - Pergaminho_Retorno_10x[411] [61 7 0 0 0 0]
+[12] - Jóia_da_Armazenagem[3207] [61 11 0 0 0 0]
+[14] - Poção_Poderosa[3431] [61 66 0 0 0 0]
+[15] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[16] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[17] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[18] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[19] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[20] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[21] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[22] - Sephirot(Huntress)[1763] [0 0 0 0 0 0]
+[23] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[24] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[25] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[26] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[27] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+02:59:26 : [-Nettoco-] - Personagem -Nettoco- enviado ao mundo 2499x 1718y - Canal 1 - Cash da conta: 86321. PowerLevel: 3517
+02:59:26 : [-Nettoco-] - Gold atual: 1539757909. Classe: 2 Evolução: 0. Experiência: 1920896866. Nível: 353. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+02:59:26 : [-Nettoco-] - Logou no personagem -Nettoco- com poção divina ativo. Validade: 14/3/2021 0:37:24
+02:59:26 : [-Nettoco-] - Logou no personagem -Nettoco- com baú de experiência ativo. Tempo: 10950
+02:59:26 : [-Nettoco-] - Logou no personagem -Nettoco- com frango ativo. Tempo: 150
+02:59:26 : [-Nettoco-] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+02:59:26 : [-Nettoco-] - Enviado informações do personagem
+02:59:27 : [-Nettoco-] - Comando "/day "
+02:59:27 : [-Nettoco-] - [Mensagem do servidor]> !#11 2
+02:59:31 : [-Nettoco-] - Moveu item Poção_Poderosa [3431] [61 66 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo INVENTÁRIO slot 8
+02:59:34 : [-Nettoco-] - Item Selo_do_Guerreiro [4146] [61 237 0 0 0 0] utilizado em 2499x 1718y
+02:59:34 : [-Nettoco-] - Comando "/nig "
+02:59:34 : [-Nettoco-] - [Mensagem do servidor]> !!025934
+02:59:40 : [-Nettoco-] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+02:59:43 : [-Nettoco-] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +12
+02:59:51 : [-Nettoco-] - Item Pedido_de_Caça(Kult) [3435] [61 9 0 0 0 0] utilizado em 2482x 1711y
+02:59:51 : [-Nettoco-] - Teleportado para a posição 1182 1714
+02:59:54 : [-Nettoco-] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +13
+03:00:52 : [-Nettoco-] - Dropado item Braçadeira(M) [1651] [4 44 72 15 59 0] em 1196x 1713y - Tauron (1/252)
+03:00:55 : [-Nettoco-] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +14
+03:01:06 : [-Nettoco-] - Comando "/nig "
+03:01:06 : [-Nettoco-] - [Mensagem do servidor]> !!030106
+03:01:06 : [-Nettoco-] - Comando "/nig "
+03:01:06 : [-Nettoco-] - [Mensagem do servidor]> !!030106
+03:01:06 : [-Nettoco-] - Comando "/nig "
+03:01:06 : [-Nettoco-] - [Mensagem do servidor]> !!030106
+03:01:06 : [-Nettoco-] - Comando "/nig "
+03:01:06 : [-Nettoco-] - [Mensagem do servidor]> !!030106
+03:01:06 : [-Nettoco-] - Comando "/nig "
+03:01:06 : [-Nettoco-] - [Mensagem do servidor]> !!030106
+03:01:06 : [-Nettoco-] - Comando "/nig "
+03:01:06 : [-Nettoco-] - [Mensagem do servidor]> !!030106
+03:01:06 : [-Nettoco-] - Comando "/nig "
+03:01:06 : [-Nettoco-] - [Mensagem do servidor]> !!030106
+03:01:06 : [-Nettoco-] - Comando "/nig "
+03:01:06 : [-Nettoco-] - [Mensagem do servidor]> !!030106
+03:01:06 : [-Nettoco-] - Comando "/nig "
+03:01:06 : [-Nettoco-] - [Mensagem do servidor]> !!030106
+03:01:06 : [-Nettoco-] - Comando "/nig "
+03:01:06 : [-Nettoco-] - [Mensagem do servidor]> !!030106
+03:01:07 : [-Nettoco-] - Comando "/nig "
+03:01:07 : [-Nettoco-] - [Mensagem do servidor]> !!030107
+03:01:07 : [-Nettoco-] - Comando "/nig "
+03:01:07 : [-Nettoco-] - [Mensagem do servidor]> !!030107
+03:01:07 : [-Nettoco-] - Comando "/nig "
+03:01:07 : [-Nettoco-] - [Mensagem do servidor]> !!030107
+03:01:07 : [-Nettoco-] - Comando "/nig "
+03:01:07 : [-Nettoco-] - [Mensagem do servidor]> !!030107
+03:01:07 : [-Nettoco-] - Comando "/nig "
+03:01:07 : [-Nettoco-] - [Mensagem do servidor]> !!030107
+03:01:07 : [-Nettoco-] - Comando "/nig "
+03:01:07 : [-Nettoco-] - [Mensagem do servidor]> !!030107
+03:01:07 : [-Nettoco-] - Comando "/nig "
+03:01:07 : [-Nettoco-] - [Mensagem do servidor]> !!030107
+03:01:08 : [-Nettoco-] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +15
+03:01:09 : [-Nettoco-] - Item Braçadeira(M) deletado [1651] [4 44 72 15 59 0]. Slot 9
+03:01:16 : [-Nettoco-] - Item Pergaminho_Retorno_10x [411] [61 7 0 0 0 0] utilizado em 1196x 1713y
+03:01:16 : [-Nettoco-] - DoRecall - Enviado para cidade: 2501x 1707y
+03:01:28 : [-Nettoco-] - Teleportado para a posição 2117 2102
+03:01:35 : [-Nettoco-] - Comando "/ @alguem pesa?"
+03:01:35 : [-Nettoco-] - Mensagem enviada: @alguem pesa?
+03:02:08 : [-Nettoco-] - Teleportado para a posição 2482 1717
+03:02:20 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na refinação item +12
+03:02:25 : [-Nettoco-] - Comando "/tab Auto On"
+03:02:25 : [-Nettoco-] - Tab setado para: Auto On
+03:02:39 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na refinação item +13
+03:02:49 : [-Nettoco-] - Moveu item Botas(A) [1505] [43 9 73 30 74 18] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 13
+03:02:53 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na refinação item +14
+03:02:54 : [-Nettoco-] - Moveu item Botas(A) [1505] [43 9 73 30 74 18] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 5
+03:03:01 : [-Nettoco-] - Comando "/nig "
+03:03:01 : [-Nettoco-] - [Mensagem do servidor]> !!030301
+03:03:01 : [-Nettoco-] - Comando "/nig "
+03:03:01 : [-Nettoco-] - [Mensagem do servidor]> !!030301
+03:03:01 : [-Nettoco-] - Comando "/nig "
+03:03:01 : [-Nettoco-] - [Mensagem do servidor]> !!030301
+03:03:01 : [-Nettoco-] - Comando "/nig "
+03:03:01 : [-Nettoco-] - [Mensagem do servidor]> !!030301
+03:03:01 : [-Nettoco-] - Comando "/nig "
+03:03:01 : [-Nettoco-] - [Mensagem do servidor]> !!030301
+03:03:01 : [-Nettoco-] - Comando "/nig "
+03:03:01 : [-Nettoco-] - [Mensagem do servidor]> !!030301
+03:03:01 : [-Nettoco-] - Comando "/nig "
+03:03:01 : [-Nettoco-] - [Mensagem do servidor]> !!030301
+03:03:01 : [-Nettoco-] - Comando "/nig "
+03:03:01 : [-Nettoco-] - [Mensagem do servidor]> !!030301
+03:03:01 : [-Nettoco-] - Comando "/nig "
+03:03:01 : [-Nettoco-] - [Mensagem do servidor]> !!030301
+03:03:01 : [-Nettoco-] - Comando "/nig "
+03:03:01 : [-Nettoco-] - [Mensagem do servidor]> !!030301
+03:03:01 : [-Nettoco-] - Comando "/nig "
+03:03:01 : [-Nettoco-] - [Mensagem do servidor]> !!030301
+03:03:01 : [-Nettoco-] - Comando "/nig "
+03:03:01 : [-Nettoco-] - [Mensagem do servidor]> !!030301
+03:03:01 : [-Nettoco-] - Comando "/nig "
+03:03:01 : [-Nettoco-] - [Mensagem do servidor]> !!030301
+03:03:01 : [-Nettoco-] - Comando "/nig "
+03:03:01 : [-Nettoco-] - [Mensagem do servidor]> !!030301
+03:03:01 : [-Nettoco-] - Comando "/nig "
+03:03:01 : [-Nettoco-] - [Mensagem do servidor]> !!030301
+03:03:01 : [-Nettoco-] - Comando "/nig "
+03:03:01 : [-Nettoco-] - [Mensagem do servidor]> !!030301
+03:03:08 : [-Nettoco-] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na refinação item +15
+03:03:19 : [-Nettoco-] - Teleportado para a posição 2117 2102
+03:03:53 : [-Nettoco-] - Comprou uma skill Força_Elemental. Learn antigo: 4107001806223462124, Learn atual: 942059707252604992. Learn da skill: 219340368.
+03:03:53 : [-Nettoco-] - [Mensagem do servidor]> Habilidade Força_Elemental aprendida com sucesso
+03:04:31 : [-Nettoco-] - Comprou uma skill Evocar_Urso_Selvagem. Learn antigo: 4107010602316484332, Learn atual: 942059707252606976. Learn da skill: 219340368.
+03:04:31 : [-Nettoco-] - [Mensagem do servidor]> Habilidade Evocar_Urso_Selvagem aprendida com sucesso
+03:04:56 : [-Nettoco-] - [Mensagem do servidor]: Parabéns FANATICs pela criação do personagem Arch
+03:05:13 : [-Nettoco-] - Comando "/nig "
+03:05:13 : [-Nettoco-] - [Mensagem do servidor]> !!030513
+03:05:13 : [-Nettoco-] - Comando "/nig "
+03:05:13 : [-Nettoco-] - [Mensagem do servidor]> !!030513
+03:05:13 : [-Nettoco-] - Comando "/nig "
+03:05:13 : [-Nettoco-] - [Mensagem do servidor]> !!030513
+03:05:13 : [-Nettoco-] - Comando "/nig "
+03:05:13 : [-Nettoco-] - [Mensagem do servidor]> !!030513
+03:05:13 : [-Nettoco-] - Comando "/nig "
+03:05:13 : [-Nettoco-] - [Mensagem do servidor]> !!030513
+03:05:13 : [-Nettoco-] - Comando "/nig "
+03:05:13 : [-Nettoco-] - [Mensagem do servidor]> !!030513
+03:05:13 : [-Nettoco-] - Comando "/nig "
+03:05:13 : [-Nettoco-] - [Mensagem do servidor]> !!030513
+03:05:13 : [-Nettoco-] - Comando "/nig "
+03:05:13 : [-Nettoco-] - [Mensagem do servidor]> !!030513
+03:05:13 : [-Nettoco-] - Comando "/nig "
+03:05:13 : [-Nettoco-] - [Mensagem do servidor]> !!030513
+03:05:13 : [-Nettoco-] - Comando "/nig "
+03:05:13 : [-Nettoco-] - [Mensagem do servidor]> !!030513
+03:06:04 : [-Nettoco-] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2110x 2113y. Posição do NPC: 2102x 2113y
+03:06:08 : [-Nettoco-] - Moveu item Frango_Assado [3314] [61 239 0 0 0 0] do tipo BANCO do slot 90 para tipo INVENTÁRIO slot 13
+03:06:08 : [-Nettoco-] - Item Frango_Assado [3314] [61 239 0 0 0 0] utilizado em 2110x 2113y
+03:06:10 : [-Nettoco-] - Moveu item Frango_Assado [3314] [61 238 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo BANCO slot 90
+03:06:14 : [-Nettoco-] - Moveu item Baú_de_Experiência [4140] [61 226 0 0 0 0] do tipo BANCO do slot 85 para tipo INVENTÁRIO slot 13
+03:06:14 : [-Nettoco-] - Item Baú_de_Experiência [4140] [61 226 0 0 0 0] utilizado em 2110x 2113y
+03:06:15 : [-Nettoco-] - Item Baú_de_Experiência [4140] [61 225 0 0 0 0] utilizado em 2110x 2113y
+03:06:16 : [-Nettoco-] - Item Baú_de_Experiência [4140] [61 224 0 0 0 0] utilizado em 2110x 2113y
+03:06:16 : [-Nettoco-] - Item Baú_de_Experiência [4140] [61 223 0 0 0 0] utilizado em 2110x 2113y
+03:06:17 : [-Nettoco-] - Item Baú_de_Experiência [4140] [61 222 0 0 0 0] utilizado em 2110x 2113y
+03:06:17 : [-Nettoco-] - Item Baú_de_Experiência [4140] [61 221 0 0 0 0] utilizado em 2110x 2113y
+03:06:19 : [-Nettoco-] - Moveu item Baú_de_Experiência [4140] [61 220 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo BANCO slot 85
+03:06:20 : [-Nettoco-] - Moveu item Baú_de_Caça [4139] [61 232 0 0 0 0] do tipo BANCO do slot 80 para tipo INVENTÁRIO slot 13
+03:06:21 : [-Nettoco-] - Item Baú_de_Caça [4139] [61 232 0 0 0 0] utilizado em 2110x 2113y
+03:06:21 : [-Nettoco-] - Item Baú_de_Caça [4139] [61 231 0 0 0 0] utilizado em 2110x 2113y
+03:06:22 : [-Nettoco-] - Item Baú_de_Caça [4139] [61 230 0 0 0 0] utilizado em 2110x 2113y
+03:06:23 : [-Nettoco-] - Item Baú_de_Caça [4139] [61 229 0 0 0 0] utilizado em 2110x 2113y
+03:06:23 : [-Nettoco-] - Item Baú_de_Caça [4139] [61 228 0 0 0 0] utilizado em 2110x 2113y
+03:06:24 : [-Nettoco-] - Item Baú_de_Caça [4139] [61 227 0 0 0 0] utilizado em 2110x 2113y
+03:06:24 : [-Nettoco-] - Item Baú_de_Caça [4139] [61 226 0 0 0 0] utilizado em 2110x 2113y
+03:06:26 : [-Nettoco-] - Moveu item Baú_de_Caça [4139] [61 225 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo BANCO slot 80
+03:06:30 : [-Nettoco-] - Teleportado para a posição 960 1761
+03:06:31 : [-Nettoco-] - Teleportado para a posição 1340 3518
+03:06:31 : [-Nettoco-] - Água 3182 - Grupo de Dark-Foema. Entradas restantes: 1073
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:06:52 : [-Nettoco-] - Comando "/nig "
+03:06:52 : [-Nettoco-] - [Mensagem do servidor]> !!030652
+03:07:08 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+03:07:46 : [-Nettoco-] - [Mensagem do servidor]: Parabéns para Rabixo pela criação do seu Celestial
+03:08:31 : [-Nettoco-] - Comando "/nig "
+03:08:31 : [-Nettoco-] - [Mensagem do servidor]> !!030831
+03:08:31 : [-Nettoco-] - Comando "/nig "
+03:08:31 : [-Nettoco-] - [Mensagem do servidor]> !!030831
+03:08:31 : [-Nettoco-] - Comando "/nig "
+03:08:31 : [-Nettoco-] - [Mensagem do servidor]> !!030831
+03:08:31 : [-Nettoco-] - Comando "/nig "
+03:08:31 : [-Nettoco-] - [Mensagem do servidor]> !!030831
+03:08:31 : [-Nettoco-] - Comando "/nig "
+03:08:31 : [-Nettoco-] - [Mensagem do servidor]> !!030831
+03:08:31 : [-Nettoco-] - Comando "/nig "
+03:08:31 : [-Nettoco-] - [Mensagem do servidor]> !!030831
+03:08:31 : [-Nettoco-] - Comando "/nig "
+03:08:31 : [-Nettoco-] - [Mensagem do servidor]> !!030831
+03:08:36 : [-Nettoco-] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1342x 3516y - Assass. Tauron (1/1)
+03:08:53 : [-Nettoco-] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1342x 3516y. Teleportado para ""
+03:08:53 : [-Nettoco-] - Teleportado para a posição 1965 1769
+03:09:08 : [-Nettoco-] - Item Pergaminho_Retorno_10x [411] [61 6 0 0 0 0] utilizado em 1965x 1769y
+03:09:08 : [-Nettoco-] - DoRecall - Enviado para cidade: 2092x 2106y
+03:09:17 : [-Nettoco-] - Teleportado para a posição 2482 1717
+03:10:03 : [-Nettoco-] - Teleportado para a posição 1209 179
+03:10:03 : [-Nettoco-] - O jogador Cascao(LUGEFER) foi adicionado a lista
+O jogador -Nettoco-(NETTO93) foi adicionado a lista
+O jogador -Mikau-(LUCASMIKAU) foi adicionado a lista
+O jogador TriPeZao(TRIPEZAO) foi adicionado a lista
+O jogador Tauros(0100IGOR) foi adicionado a lista
+O jogador Dark-Foema(FLEGLER) foi adicionado a lista
+[GRUPO]
+[Pesadelo A] - LUGEFER - Cascao
+[Pesadelo A] - NETTO93 - -Nettoco-
+[Pesadelo A] - LUCASMIKAU - -Mikau-
+[Pesadelo A] - TRIPEZAO - TriPeZao
+[Pesadelo A] - 0100IGOR - Tauros
+[Pesadelo A] - FLEGLER - Dark-Foema
+
+03:14:00 : [-Nettoco-] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+03:14:36 : [-Nettoco-] - [Mensagem do servidor]: Mob foi derrotado por TicomicSuey
+03:15:32 : [-Nettoco-] - [Mensagem do servidor]> Compra concluída!
+03:15:40 : [-Nettoco-] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:16:07 : [-Nettoco-] - Recebeu 18342 de gold em 10 mobs no total. Total de gold: 1539768051
+03:18:06 : [-Nettoco-] - Comando "/nig "
+03:18:06 : [-Nettoco-] - [Mensagem do servidor]> !!031806
+03:18:06 : [-Nettoco-] - Comando "/nig "
+03:18:06 : [-Nettoco-] - [Mensagem do servidor]> !!031806
+03:18:28 : [-Nettoco-] - Recebeu 17303 de gold em 10 mobs no total. Total de gold: 1539785354
+03:18:50 : [-Nettoco-] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:18:50 : [-Nettoco-] - Level UP para level 354. Ev: 0/0 - 1215x 153y
+03:18:58 : [-Nettoco-] - Item Selo_do_Guerreiro [4146] [61 236 0 0 0 0] utilizado em 1212x 156y
+03:19:06 : [-Nettoco-] - Item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] utilizado em 0x 0y
+03:19:06 : [-Nettoco-] - [Mensagem do servidor]> Refinação sucedida.
+03:19:06 : [-Nettoco-] - Item Elite_dos_Aventureiros refinado com sucesso para 1 - [3193] [0 0 0 0 0 0] 90/100
+03:19:09 : [-Nettoco-] - Item Poeira_de_Lactolerium [413] [61 207 0 0 0 0] utilizado em 0x 0y
+03:19:09 : [-Nettoco-] - [Mensagem do servidor]> Refinação sucedida.
+03:19:09 : [-Nettoco-] - Item Elite_dos_Aventureiros refinado com sucesso para 2 - [3193] [43 1 0 0 0 0] 99/100
+03:19:11 : [-Nettoco-] - Item Poeira_de_Lactolerium [413] [61 206 0 0 0 0] utilizado em 0x 0y
+03:19:11 : [-Nettoco-] - [Mensagem do servidor]> Refinação sucedida.
+03:19:11 : [-Nettoco-] - Item Elite_dos_Aventureiros refinado com sucesso para 3 - [3193] [43 2 0 0 0 0] 48/100
+03:19:13 : [-Nettoco-] - Item Poeira_de_Lactolerium [413] [61 205 0 0 0 0] utilizado em 0x 0y
+03:19:13 : [-Nettoco-] - [Mensagem do servidor]> Refinação sucedida.
+03:19:13 : [-Nettoco-] - Item Elite_dos_Aventureiros refinado com sucesso para 4 - [3193] [43 3 0 0 0 0] 44/100
+03:19:15 : [-Nettoco-] - Item Poeira_de_Lactolerium [413] [61 204 0 0 0 0] utilizado em 0x 0y
+03:19:15 : [-Nettoco-] - [Mensagem do servidor]> Refinação sucedida.
+03:19:15 : [-Nettoco-] - Item Elite_dos_Aventureiros refinado com sucesso para 5 - [3193] [43 4 0 0 0 0] 70/100
+03:19:17 : [-Nettoco-] - Item Poeira_de_Lactolerium [413] [61 203 0 0 0 0] utilizado em 0x 0y
+03:19:17 : [-Nettoco-] - [Mensagem do servidor]> Refinação sucedida.
+03:19:17 : [-Nettoco-] - Item Elite_dos_Aventureiros refinado com sucesso para 6 - [3193] [43 5 0 0 0 0] 60/100
+03:19:20 : [-Nettoco-] - Item Poeira_de_Lactolerium [413] [61 202 0 0 0 0] utilizado em 0x 0y
+03:19:20 : [-Nettoco-] - [Mensagem do servidor]> Refinação sucedida.
+03:19:20 : [-Nettoco-] - Item Elite_dos_Aventureiros refinado com sucesso para 7 - [3193] [43 6 0 0 0 0] 18/65
+03:19:23 : [-Nettoco-] - Item Poeira_de_Lactolerium [413] [61 201 0 0 0 0] utilizado em 0x 0y
+03:19:23 : [-Nettoco-] - [Mensagem do servidor]> Refinação sucedida.
+03:19:23 : [-Nettoco-] - Item Elite_dos_Aventureiros refinado com sucesso para 8 - [3193] [43 7 0 0 0 0] 12/50
+03:19:25 : [-Nettoco-] - Item Poeira_de_Lactolerium [413] [61 200 0 0 0 0] utilizado em 0x 0y
+03:19:25 : [-Nettoco-] - [Mensagem do servidor]> Refinação NÃO sucedida.
+03:19:25 : [-Nettoco-] - Falha na refinação de Elite_dos_Aventureiros para 9 - [3193] [43 8 0 0 0 0] 95/45
+03:19:28 : [-Nettoco-] - Item Poeira_de_Lactolerium [413] [61 199 0 0 0 0] utilizado em 0x 0y
+03:19:28 : [-Nettoco-] - [Mensagem do servidor]> Refinação NÃO sucedida.
+03:19:28 : [-Nettoco-] - Falha na refinação de Elite_dos_Aventureiros para 9 - [3193] [43 8 0 0 0 0] 71/45
+03:19:32 : [-Nettoco-] - Item Poeira_de_Lactolerium [413] [61 198 0 0 0 0] utilizado em 0x 0y
+03:19:32 : [-Nettoco-] - [Mensagem do servidor]> Refinação NÃO sucedida.
+03:19:32 : [-Nettoco-] - Falha na refinação de Elite_dos_Aventureiros para 9 - [3193] [43 8 0 0 0 0] 60/45
+03:19:35 : [-Nettoco-] - Item Poeira_de_Lactolerium [413] [61 197 0 0 0 0] utilizado em 0x 0y
+03:19:35 : [-Nettoco-] - [Mensagem do servidor]> Refinação sucedida.
+03:19:35 : [-Nettoco-] - Item Elite_dos_Aventureiros refinado com sucesso para 9 - [3193] [43 8 0 0 0 0] 41/45
+03:19:45 : [-Nettoco-] - NETTO93 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+03:19:45 : [-Nettoco-] - 17 Personagem foi desconectado. Permaneceu 00:20:15 minutos online
+03:19:45 : [-Nettoco-] - Recebeu 11944 de gold em 7 mobs no total. Total de gold: 1539797298

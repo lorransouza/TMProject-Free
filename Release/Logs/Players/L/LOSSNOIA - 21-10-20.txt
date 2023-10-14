@@ -1,0 +1,485 @@
+
+10:44:26 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 158
+10:44:26 : Usuário logou no jogo com clientId 158. - Servidor 1. Gold do banco: 0
+10:44:26 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+10:44:26 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:46:38 : Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+10:46:38 : Personagem foi desconectado. Permaneceu 00:02:11 minutos online
+10:50:56 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 158
+10:50:56 : Usuário logou no jogo com clientId 158. - Servidor 1. Gold do banco: 0
+10:50:56 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+10:51:00 : Solicitou ir ao mundo...
+10:51:00 : Recebido pedido para entrar no jogo
+10:51:00 : Recebido informação do personagem completa.
+10:51:00 : [wefwef] - [INFORMAÇÕES DA CONTA]
+Personagem online: wefwef
+Gold atual: 1512962570
+Level atual: 1010
+Experiência atual: 2280
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2098x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Florete[917] [0 0 0 0 0 0]
+[07] - Florete[917] [0 0 0 0 0 0]
+[14] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+
+[INVENTÁRIO]
+[01] - Dragão_Menor[2363] [10 10 10 0 0 0]
+[02] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[03] - Fenrir_das_Sombras[2378] [10 10 10 0 0 0]
+[04] - Lobo[2362] [10 10 10 0 0 0]
+[05] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[06] - Porco[2360] [10 10 10 0 0 0]
+[07] - Dragão_Vermelho[2380] [0 0 0 0 0 0]
+[08] - Urso[2364] [10 10 10 0 0 0]
+[09] - Javali[2361] [10 10 10 0 0 0]
+[10] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:51:00 : [wefwef] - Personagem wefwef enviado ao mundo 2098x 2095y - Canal 1 - Cash da conta: 0. OverPower: 2040
+10:51:00 : [wefwef] - Gold atual: 1512962570. Classe: 2 Evolução: 0. Experiência: 2280. Nível: 1010. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+10:51:00 : [wefwef] - Resetado a contagem de entradas água! Day: 1095323470-294. Total: -16843264
+10:51:00 : [wefwef] - Enviado informações do personagem
+10:51:02 : [wefwef] - Comando "/day "
+10:51:02 : [wefwef] - [Mensagem do servidor]> !#11 2
+10:51:06 : [wefwef] - Moveu item Porco [2360] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 14
+10:51:08 : [wefwef] - Moveu item Dragão_Menor [2363] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 14
+10:51:14 : [wefwef] - Moveu item Urso [2364] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 14
+10:51:14 : [wefwef] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:51:15 : [wefwef] - Moveu item Porco [2360] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 14
+10:51:16 : [wefwef] - Moveu item Fenrir_das_Sombras [2378] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 14
+10:51:20 : [wefwef] - Moveu item Lobo [2362] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 14
+10:51:22 : [wefwef] - Moveu item Javali [2361] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 14
+10:51:25 : [wefwef] - Moveu item Dragão_Menor [2363] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 14
+10:51:26 : [wefwef] - Moveu item Lobo [2362] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 14
+10:51:29 : [wefwef] - Moveu item Porco [2360] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 14
+10:51:30 : [wefwef] - Moveu item Javali [2361] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 14
+10:51:30 : [wefwef] - Moveu item Dragão_Menor [2363] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 14
+10:51:31 : [wefwef] - Moveu item Fenrir_das_Sombras [2378] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 14
+10:51:31 : [wefwef] - Moveu item Dente_de_Sabre [2365] [0 0 10 0 4 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:35 : [wefwef] - Moveu item Urso [2364] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 14
+10:51:36 : [wefwef] - Moveu item Fenrir_das_Sombras [2378] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:36 : [wefwef] - Moveu item Urso [2364] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:37 : [wefwef] - Moveu item Fenrir_das_Sombras [2378] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:37 : [wefwef] - Moveu item Urso [2364] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:37 : [wefwef] - Moveu item Fenrir_das_Sombras [2378] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:37 : [wefwef] - Moveu item Urso [2364] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:38 : [wefwef] - Moveu item Fenrir_das_Sombras [2378] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:38 : [wefwef] - Moveu item Urso [2364] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:38 : [wefwef] - Moveu item Fenrir_das_Sombras [2378] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:38 : [wefwef] - Moveu item Urso [2364] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:38 : [wefwef] - Moveu item Fenrir_das_Sombras [2378] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:39 : [wefwef] - Moveu item Urso [2364] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:39 : [wefwef] - Moveu item Fenrir_das_Sombras [2378] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:39 : [wefwef] - Moveu item Urso [2364] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:39 : [wefwef] - Moveu item Fenrir_das_Sombras [2378] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:39 : [wefwef] - Moveu item Urso [2364] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:39 : [wefwef] - Moveu item Fenrir_das_Sombras [2378] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:39 : [wefwef] - Moveu item Urso [2364] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:40 : [wefwef] - Moveu item Fenrir_das_Sombras [2378] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+10:51:40 : [wefwef] - Moveu item Lobo [2362] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 14
+10:52:11 : [wefwef] - Matou o mob Gremlin. GenerID: 417
+10:52:13 : [wefwef] - Moveu item Fenrir_das_Sombras [2378] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 14
+10:52:15 : [wefwef] - Moveu item Dragão_Menor [2363] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 14
+10:52:20 : [wefwef] - Matou o mob Gremlin. GenerID: 420
+10:52:22 : [wefwef] - Matou o mob Gremlin. GenerID: 421
+10:52:22 : [wefwef] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2192x 2076y - Gremlin (1/30)
+10:52:29 : [wefwef] - Matou o mob Gremlin. GenerID: 420
+11:02:02 : [wefwef] - Matou o mob Gremlin. GenerID: 420
+11:21:01 : [wefwef] - [INFORMAÇÕES DA CONTA]
+Personagem online: wefwef
+Gold atual: 1512962570
+Level atual: 1010
+Experiência atual: 2430
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:44 horas
+Posição atual: 2191x 2076y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Florete[917] [0 0 0 0 0 0]
+[07] - Florete[917] [0 0 0 0 0 0]
+[14] - Dragão_Menor[2363] [10 10 10 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[02] - Urso[2364] [10 10 10 0 0 0]
+[03] - Lobo[2362] [10 10 10 0 0 0]
+[04] - Fenrir_das_Sombras[2378] [10 10 10 0 0 0]
+[05] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[06] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[07] - Dragão_Vermelho[2380] [0 0 0 0 0 0]
+[08] - Porco[2360] [10 10 10 0 0 0]
+[09] - Javali[2361] [10 10 10 0 0 0]
+[10] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:35:10 : [wefwef] - Matou o mob Gremlin. GenerID: 420
+11:35:12 : [wefwef] - Ataque mais rápido que 900ms. Diferença 85
+11:51:01 : [wefwef] - [INFORMAÇÕES DA CONTA]
+Personagem online: wefwef
+Gold atual: 1512962570
+Level atual: 1010
+Experiência atual: 2460
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:59:22 horas
+Posição atual: 2191x 2076y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Florete[917] [0 0 0 0 0 0]
+[07] - Florete[917] [0 0 0 0 0 0]
+[14] - Dragão_Menor[2363] [10 10 10 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[02] - Urso[2364] [10 10 10 0 0 0]
+[03] - Lobo[2362] [10 10 10 0 0 0]
+[04] - Fenrir_das_Sombras[2378] [10 10 10 0 0 0]
+[05] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[06] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[07] - Dragão_Vermelho[2380] [0 0 0 0 0 0]
+[08] - Porco[2360] [10 10 10 0 0 0]
+[09] - Javali[2361] [10 10 10 0 0 0]
+[10] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:51:44 : [wefwef] - [Mensagem do servidor]> Sua montaria morreu.
+11:51:44 : [wefwef] - Montaria Dragão_Menor [2363] [0 0 10 0 4 0] morreu por falta de ração
+12:21:02 : [wefwef] - [INFORMAÇÕES DA CONTA]
+Personagem online: wefwef
+Gold atual: 1512962570
+Level atual: 1010
+Experiência atual: 2460
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:29:00 horas
+Posição atual: 2191x 2078y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Florete[917] [0 0 0 0 0 0]
+[07] - Florete[917] [0 0 0 0 0 0]
+[14] - Dragão_Menor[2363] [0 0 10 0 4 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[02] - Urso[2364] [10 10 10 0 0 0]
+[03] - Lobo[2362] [10 10 10 0 0 0]
+[04] - Fenrir_das_Sombras[2378] [10 10 10 0 0 0]
+[05] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[06] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[07] - Dragão_Vermelho[2380] [0 0 0 0 0 0]
+[08] - Porco[2360] [10 10 10 0 0 0]
+[09] - Javali[2361] [10 10 10 0 0 0]
+[10] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:28:33 : [wefwef] - Matou o mob Gremlin. GenerID: 420
+12:28:42 : [wefwef] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:28:42 : [wefwef] - Personagem foi desconectado. Permaneceu 01:36:34 minutos online
+12:39:47 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 159
+12:39:47 : Usuário logou no jogo com clientId 159. - Servidor 1. Gold do banco: 0
+12:39:47 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:39:48 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:42:55 : Solicitou ir ao mundo...
+12:42:55 : Recebido pedido para entrar no jogo
+12:42:55 : Recebido informação do personagem completa.
+12:42:55 : [wefwef] - [INFORMAÇÕES DA CONTA]
+Personagem online: wefwef
+Gold atual: 1512962570
+Level atual: 1010
+Experiência atual: 2490
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:03:06 horas
+Posição atual: 2088x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Florete[917] [0 0 0 0 0 0]
+[07] - Florete[917] [0 0 0 0 0 0]
+[14] - Dragão_Menor[2363] [0 0 10 0 4 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[02] - Urso[2364] [10 10 10 0 0 0]
+[03] - Lobo[2362] [10 10 10 0 0 0]
+[04] - Fenrir_das_Sombras[2378] [10 10 10 0 0 0]
+[05] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[06] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[07] - Dragão_Vermelho[2380] [0 0 0 0 0 0]
+[08] - Porco[2360] [10 10 10 0 0 0]
+[09] - Javali[2361] [10 10 10 0 0 0]
+[10] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:42:55 : [wefwef] - Personagem wefwef enviado ao mundo 2088x 2093y - Canal 1 - Cash da conta: 0. OverPower: 2040
+12:42:55 : [wefwef] - Gold atual: 1512962570. Classe: 2 Evolução: 0. Experiência: 2490. Nível: 1010. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+12:42:55 : [wefwef] - Resetado a contagem de entradas água! Day: 1095323470-294. Total: -16843264
+12:42:55 : [wefwef] - Enviado informações do personagem
+12:42:56 : [wefwef] - Comando "/day "
+12:42:56 : [wefwef] - [Mensagem do servidor]> !#11 2
+12:43:05 : [wefwef] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:56:09 : [wefwef] - Comando "/gm +armia"
+12:56:09 : [wefwef] - Teleportado para a posição 2100 2100
+12:56:45 : [wefwef] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:56:45 : [wefwef] - Personagem foi desconectado. Permaneceu 00:16:46 minutos online
+18:22:04 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 178
+18:22:04 : [Mensagem do servidor]> Senha incorreta.
+18:22:04 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:22:11 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 178
+18:22:11 : Usuário logou no jogo com clientId 178. - Servidor 1. Gold do banco: 0
+18:22:11 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+18:22:11 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:22:17 : Solicitou ir ao mundo...
+18:22:17 : Recebido pedido para entrar no jogo
+18:22:17 : Recebido informação do personagem completa.
+18:22:17 : [wefwef] - [INFORMAÇÕES DA CONTA]
+Personagem online: wefwef
+Gold atual: 1512962570
+Level atual: 1010
+Experiência atual: 2490
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2093x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Florete[917] [0 0 0 0 0 0]
+[07] - Florete[917] [0 0 0 0 0 0]
+[14] - Dragão_Menor[2363] [0 0 10 0 4 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[02] - Urso[2364] [10 10 10 0 0 0]
+[03] - Lobo[2362] [10 10 10 0 0 0]
+[04] - Fenrir_das_Sombras[2378] [10 10 10 0 0 0]
+[05] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[06] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[07] - Dragão_Vermelho[2380] [0 0 0 0 0 0]
+[08] - Porco[2360] [10 10 10 0 0 0]
+[09] - Javali[2361] [10 10 10 0 0 0]
+[10] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:22:17 : [wefwef] - Personagem wefwef enviado ao mundo 2093x 2094y - Canal 1 - Cash da conta: 0. OverPower: 2040
+18:22:17 : [wefwef] - Gold atual: 1512962570. Classe: 2 Evolução: 0. Experiência: 2490. Nível: 1010. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+18:22:17 : [wefwef] - Resetado a contagem de entradas água! Day: 1095323470-294. Total: -16843264
+18:22:17 : [wefwef] - Enviado informações do personagem
+18:22:18 : [wefwef] - Comando "/day "
+18:22:18 : [wefwef] - [Mensagem do servidor]> !#11 2
+18:22:28 : [wefwef] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:23:22 : [wefwef] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:23:22 : [wefwef] - Personagem foi desconectado. Permaneceu 00:01:10 minutos online
+19:12:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 179
+19:12:40 : Usuário logou no jogo com clientId 179. - Servidor 1. Gold do banco: 0
+19:12:40 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:12:41 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:14:19 : Solicitou ir ao mundo...
+19:14:19 : Recebido pedido para entrar no jogo
+19:14:19 : Recebido informação do personagem completa.
+19:14:19 : [wefwef] - [INFORMAÇÕES DA CONTA]
+Personagem online: wefwef
+Gold atual: 1512962570
+Level atual: 1010
+Experiência atual: 2490
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:37 horas
+Posição atual: 2091x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Florete[917] [0 0 0 0 0 0]
+[07] - Florete[917] [0 0 0 0 0 0]
+[14] - Dragão_Menor[2363] [0 0 10 0 4 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[02] - Urso[2364] [10 10 10 0 0 0]
+[03] - Lobo[2362] [10 10 10 0 0 0]
+[04] - Fenrir_das_Sombras[2378] [10 10 10 0 0 0]
+[05] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[06] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[07] - Dragão_Vermelho[2380] [0 0 0 0 0 0]
+[08] - Porco[2360] [10 10 10 0 0 0]
+[09] - Javali[2361] [10 10 10 0 0 0]
+[10] - Dente_de_Sabre[2365] [0 0 10 0 4 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:14:19 : [wefwef] - Personagem wefwef enviado ao mundo 2091x 2098y - Canal 1 - Cash da conta: 0. OverPower: 2040
+19:14:19 : [wefwef] - Gold atual: 1512962570. Classe: 2 Evolução: 0. Experiência: 2490. Nível: 1010. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+19:14:19 : [wefwef] - Resetado a contagem de entradas água! Day: 1095323470-294. Total: -16843264
+19:14:19 : [wefwef] - Enviado informações do personagem
+19:14:20 : [wefwef] - Comando "/day "
+19:14:20 : [wefwef] - [Mensagem do servidor]> !#11 2
+19:14:30 : [wefwef] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:14:47 : [wefwef] - Moveu item Urso [2364] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+19:14:48 : [wefwef] - Moveu item Porco [2360] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 14
+19:14:48 : [wefwef] - Moveu item Lobo [2362] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 14
+19:14:49 : [wefwef] - Moveu item Porco [2360] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 14
+19:14:50 : [wefwef] - Moveu item Fenrir_das_Sombras [2378] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 14
+19:14:50 : [wefwef] - Moveu item Javali [2361] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 14
+19:16:56 : [wefwef] - Moveu item Lobo [2362] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 14
+19:16:57 : [wefwef] - Moveu item Porco [2360] [10 10 10 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 14
+19:24:29 : [wefwef] - Desconectado por inatividade... Last: 843108. Counter: 843858. Status: 22
+19:24:29 : [wefwef] - Personagem foi desconectado. Permaneceu 00:11:40 minutos online

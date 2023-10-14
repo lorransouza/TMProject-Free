@@ -1,0 +1,148 @@
+
+16:32:26 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 127.0.0.1 Mac: (F8:AC:68:4B:44:4F). ClientId: 2
+16:32:26 : Conta LPFFC logado na conta
+Status da conta: JOGANDO
+Personagem: SkyDrive
+
+16:32:26 : Usuário logou no jogo com clientId 2. - Servidor 1. Gold do banco: 0
+16:32:26 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 30] - Frango_Assado[3314] [61 2 200 1 0 0]
+
+16:32:26 : A próxima missão acontecerá em aproximadamente 33 minutos
+16:32:27 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+[LPFFC]	USER_PLAY	[SkyDrive] (level: 399 ev: 2)	
+
+16:32:32 : Solicitou ir ao mundo...
+16:32:32 : Recebido pedido para entrar no jogo
+16:32:32 : Recebido informação do personagem completa.
+16:32:33 : [test] - [INFORMAÇÕES DA CONTA]
+Personagem online: test
+Gold atual: 1994998600
+Level atual: 399
+Experiência atual: 4000000000
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2095x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Ã‰den[32] [43 9 21 1 98 21]
+[01] - ChapÃ©u_Pele_de_Animal(A)[1403] [0 0 0 0 0 0]
+[02] - Robe_Pele_de_Animal(A)[1406] [0 0 0 0 0 0]
+[03] - CalÃ§a_Pele_de_Animal(A)[1409] [0 0 0 0 0 0]
+[04] - Luvas_Pele_de_Animal(A)[1412] [0 0 0 0 0 0]
+[05] - Sapatos_Pele_de_Animal(A)[1415] [0 0 0 0 0 0]
+[06] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[07] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[08] - Pedra_Espiritual[633] [43 250 42 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 54 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 42 100 0 0]
+[14] - Tigre_de_Fogo[2379] [120 120 120 120 21 12]
+[15] - Tigre_de_Fogo[2379] [12 120 120 120 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[LPFFC]	USER_PLAY	[SkyDrive] (level: 399 ev: 2)	
+
+16:32:33 : [test] - Personagem test enviado ao mundo 2095x 2105y - Canal 1 - Cash da conta: 200. OverPower: 1483
+16:32:33 : [test] - Gold atual: 1994998600. Classe: 2 Evolução: 1. Experiência: 4000000000. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+16:32:33 : [test] - Resetado a contagem de entradas água! Day: 42-43. Total: 0
+16:32:33 : [test] - Enviado informações do personagem
+16:32:33 : [test] - Foi atualizado o LastUpdate da missão diária para 13/02/2023 16:32:33
+16:32:33 : [test] - [Mensagem do servidor]> !Chegou uma nova missão!
+16:32:33 : [test] - Recebeu a missão Deslizamento de pedra! (14)
+16:32:35 : [test] - Comando "/day "
+16:32:35 : [test] - [Mensagem do servidor]> !#11 2
+16:32:35 : [test] - [Mensagem do servidor]> Este personagem não está conectado.
+16:32:49 : [test] - O usuário não enviou o pacote de integridade de macaddress
+16:33:15 : [test] - Teleportado para a posição 1047 1725
+16:33:15 : [test] - Solicitado teleporte na posição 2116x 2103y e teleportado para 1047x 1725y
+16:33:44 : [test] - Ataque mais rápido que 900ms. Diferença 1
+16:33:44 : [test] - Ataque mais rápido que 900ms. Diferença 13
+16:33:44 : [test] - Ataque mais rápido que 900ms. Diferença 17
+16:33:44 : [test] - Ataque mais rápido que 900ms. Diferença 19
+16:33:44 : [test] - Ataque mais rápido que 900ms. Diferença 21
+16:33:44 : [test] - Ataque mais rápido que 900ms. Diferença 26
+16:33:44 : [test] - Ataque mais rápido que 900ms. Diferença 27
+16:33:44 : [test] - Ataque mais rápido que 900ms. Diferença 379
+16:35:06 : [test] - Moveu item Pedra_Espiritual [633] [43 250 42 100 0 0] do tipo EQUIPAMENTO do slot 11 para tipo INVENTÁRIO slot 2
+16:35:08 : [test] - Moveu item Pedra_Espiritual [633] [43 250 42 100 0 0] do tipo EQUIPAMENTO do slot 8 para tipo INVENTÁRIO slot 1
+16:35:10 : [test] - Moveu item Pedra_Espiritual [633] [43 250 54 100 0 0] do tipo EQUIPAMENTO do slot 9 para tipo INVENTÁRIO slot 3
+16:35:30 : [test] - Personagem deu personagem
+16:35:35 : Solicitou ir ao mundo...
+16:35:35 : Recebido pedido para entrar no jogo
+16:35:35 : Recebido informação do personagem completa.
+16:35:35 : [test] - [INFORMAÇÕES DA CONTA]
+Personagem online: test
+Gold atual: 1994997900
+Level atual: 399
+Experiência atual: 4000000000
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:03:02 horas
+Posição atual: 2095x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Ã‰den[32] [43 9 21 1 98 21]
+[01] - ChapÃ©u_Pele_de_Animal(A)[1403] [0 0 0 0 0 0]
+[02] - Robe_Pele_de_Animal(A)[1406] [0 0 0 0 0 0]
+[03] - CalÃ§a_Pele_de_Animal(A)[1409] [0 0 0 0 0 0]
+[04] - Luvas_Pele_de_Animal(A)[1412] [0 0 0 0 0 0]
+[05] - Sapatos_Pele_de_Animal(A)[1415] [0 0 0 0 0 0]
+[06] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[07] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[14] - Tigre_de_Fogo[2379] [120 120 120 120 21 12]
+[15] - Tigre_de_Fogo[2379] [12 120 120 120 0 0]
+
+[INVENTÁRIO]
+[01] - Pedra_Espiritual[633] [43 250 42 100 0 0]
+[02] - Pedra_Espiritual[633] [43 250 42 100 0 0]
+[03] - Pedra_Espiritual[633] [43 250 54 100 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[LPFFC]	USER_PLAY	[SkyDrive] (level: 399 ev: 2)	
+
+16:35:35 : [test] - Personagem test enviado ao mundo 2095x 2096y - Canal 1 - Cash da conta: 200. OverPower: 1258
+16:35:35 : [test] - Gold atual: 1994997900. Classe: 2 Evolução: 1. Experiência: 4000000000. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+16:35:35 : [test] - Enviado informações do personagem
+16:35:37 : [test] - Comando "/day "
+16:35:37 : [test] - [Mensagem do servidor]> !#11 2
+16:35:37 : [test] - [Mensagem do servidor]> Este personagem não está conectado.
+16:35:44 : [test] - Teleportado para a posição 1046 1726
+16:35:44 : [test] - Solicitado teleporte na posição 2117x 2102y e teleportado para 1046x 1726y
+16:35:49 : [test] - O usuário não enviou o pacote de integridade de macaddress
+16:35:49 : [test] - Moveu item Tigre_de_Fogo [2379] [120 120 120 120 21 12] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+16:36:05 : [test] - Morreu para SkyDrive 1086x 1712y
+16:36:05 : [test] - [Mensagem do servidor]> Você perdeu 0 de experiência
+16:36:05 : [test] - Perdeu 0 de experiência.
+16:36:12 : [test] - DoRecall - Enviado para cidade: 2092x 2102y
+16:36:12 : [test] - Usuário reviveu
+16:36:30 : [test] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:36:30 : [test] - Personagem foi desconectado. Permaneceu 00:03:57 minutos online

@@ -1,0 +1,272 @@
+<?xml version="1.0"?>
+<scheduled>
+	<command>
+        <month>8</month>
+        <day>7</day>
+        <hour>19</hour>
+        <min>59</min>
+        <commandline>+boss bossname BoneDemon</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>7</day>
+        <hour>19</hour>
+        <min>59</min>
+        <commandline>+boss npcname Teleportador</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>7</day>
+        <hour>19</hour>
+        <min>59</min>
+        <commandline>+boss item 4725</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>7</day>
+        <hour>19</hour>
+        <min>59</min>
+        <commandline>+boss medalid 4732</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>7</day>
+        <hour>19</hour>
+        <min>59</min>
+        <commandline>+evta 0 0 0 4096 4096 4732 50 0</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>7</day>
+        <hour>19</hour>
+        <min>59</min>
+        <commandline>+set lojaitem 4725</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>7</day>
+        <hour>19</hour>
+        <min>59</min>
+        <commandline>+boss status 1</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>7</day>
+        <hour>19</hour>
+        <min>59</min>
+        <commandline>+eventarea status 1</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>7</day>
+        <hour>19</hour>
+        <min>59</min>
+        <commandline>+set lojastatus 1</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>7</day>
+        <hour>19</hour>
+        <min>59</min>
+        <commandline>+not ![EVENTO] O Demônio de Ossos foi ativado.</commandline>
+    </command>
+		<command>
+        <month>8</month>
+        <day>11</day>
+        <hour>20</hour>
+        <min>0</min>
+        <commandline>+boss status 0</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>11</day>
+        <hour>20</hour>
+        <min>0</min>
+        <commandline>+eventarea status 0</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>11</day>
+        <hour>20</hour>
+        <min>0</min>
+        <commandline>+set lojastatus 0</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>11</day>
+        <hour>20</hour>
+        <min>0</min>
+        <commandline>+not ![EVENTO] O Demônio de Ossos foi desativado.</commandline>
+    </command>
+		<command>
+        <month>8</month>
+        <day>08</day>
+        <hour>10</hour>
+        <min>0</min>
+        <commandline>+set donate available 0 1 100</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>08</day>
+        <hour>10</hour>
+        <min>0</min>
+        <commandline>+not ![OverStore] O item Caveira do Bone Demon IV está disponível em quantidades limitadas.</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>08</day>
+        <hour>15</hour>
+        <min>0</min>
+        <commandline>+set donate available 0 1 200</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>08</day>
+        <hour>15</hour>
+        <min>0</min>
+        <commandline>+not ![OverStore] O item Caveira do Bone Demon IV está disponível em quantidades limitadas.</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>08</day>
+        <hour>20</hour>
+        <min>0</min>
+        <commandline>+set donate available 0 1 300</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>08</day>
+        <hour>20</hour>
+        <min>0</min>
+        <commandline>+not ![OverStore] O item Caveira do Bone Demon IV está disponível em quantidades limitadas.</commandline>
+    </command>
+	
+    <command>
+        <month>8</month>
+        <day>9</day>
+        <hour>10</hour>
+        <min>30</min>
+        <commandline>+set donate available 0 1 200</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>9</day>
+        <hour>10</hour>
+        <min>30</min>
+        <commandline>+not ![OverStore] O item Caveira do Bone Demon IV está disponível em quantidades limitadas.</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>9</day>
+        <hour>15</hour>
+        <min>0</min>
+        <commandline>+set donate available 0 1 200</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>9</day>
+        <hour>15</hour>
+        <min>0</min>
+        <commandline>+not ![OverStore] O item Caveira do Bone Demon IV está disponível em quantidades limitadas.</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>9</day>
+        <hour>20</hour>
+        <min>45</min>
+        <commandline>+set donate available 0 1 300</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>9</day>
+        <hour>20</hour>
+        <min>45</min>
+        <commandline>+not ![OverStore] O item Caveira do Bone Demon IV está disponível em quantidades limitadas.</commandline>
+    </command>
+    
+    <command>
+        <month>8</month>
+        <day>10</day>
+        <hour>10</hour>
+        <min>0</min>
+        <commandline>+set donate available 0 1 100</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>10</day>
+        <hour>10</hour>
+        <min>0</min>
+        <commandline>+not ![OverStore] O item Caveira do Bone Demon IV está disponível em quantidades limitadas.</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>10</day>
+        <hour>15</hour>
+        <min>0</min>
+        <commandline>+set donate available 0 1 200</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>10</day>
+        <hour>15</hour>
+        <min>0</min>
+        <commandline>+not ![OverStore] O item Caveira do Bone Demon IV está disponível em quantidades limitadas.</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>10</day>
+        <hour>20</hour>
+        <min>0</min>
+        <commandline>+set donate available 0 1 300</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>10</day>
+        <hour>20</hour>
+        <min>0</min>
+        <commandline>+not ![OverStore] O item Caveira do Bone Demon IV está disponível em quantidades limitadas.</commandline>
+    </command>
+	
+	<command>
+        <month>8</month>
+        <day>11</day>
+        <hour>10</hour>
+        <min>0</min>
+        <commandline>+set donate available 0 1 200</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>11</day>
+        <hour>10</hour>
+        <min>0</min>
+        <commandline>+not ![OverStore] O item Caveira do Bone Demon IV está disponível em quantidades limitadas.</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>11</day>
+        <hour>15</hour>
+        <min>0</min>
+        <commandline>+set donate available 0 1 200</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>11</day>
+        <hour>15</hour>
+        <min>0</min>
+        <commandline>+not ![OverStore] O item Caveira do Bone Demon IV está disponível em quantidades limitadas.</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>11</day>
+        <hour>20</hour>
+        <min>0</min>
+        <commandline>+set donate available 0 1 300</commandline>
+    </command>
+	<command>
+        <month>8</month>
+        <day>11</day>
+        <hour>20</hour>
+        <min>0</min>
+        <commandline>+not ![OverStore] O item Caveira do Bone Demon IV está disponível em quantidades limitadas.</commandline>
+    </command>
+</scheduled>

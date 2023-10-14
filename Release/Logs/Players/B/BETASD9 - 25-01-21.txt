@@ -1,0 +1,567 @@
+
+11:04:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD9) - IP: 45.187.161.141 Mac: (00:C3:FE:CD:0F:4A). ClientId: 1
+11:04:37 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+11:04:37 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Jóia_da_Magia[3209] [61 8 0 0 0 0]
+[  5] - Jóia_da_Precisão[3208] [61 8 0 0 0 0]
+[ 10] - Jóia_do_Poder[3206] [61 8 0 0 0 0]
+[ 15] - Jóia_da_Absorção[3204] [61 8 0 0 0 0]
+[ 20] - Jóia_da_Proteção[3205] [61 8 0 0 0 0]
+[ 25] - Jóia_da_Resistência[3201] [61 8 0 0 0 0]
+[ 30] - Jóia_da_Sagacidade[3200] [61 8 0 0 0 0]
+[ 35] - Jóia_da_Armazenagem[3207] [61 10 0 0 0 0]
+
+11:04:43 : Solicitou ir ao mundo...
+11:04:43 : Recebido pedido para entrar no jogo
+11:04:43 : Recebido informação do personagem completa.
+11:04:43 : [Eredin] - [INFORMAÇÕES DA CONTA]
+Personagem online: Eredin
+Gold atual: 1785916481
+Level atual: 369
+Experiência atual: 2585066732
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 3654x 3137y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215104
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[7] [43 0 7 1 1 1]
+[02] - Armadura[1221] [43 236 3 30 60 10]
+[03] - Calça[1222] [43 9 0 0 0 0]
+[04] - Luvas[1223] [43 236 60 10 72 30]
+[05] - Botas[1224] [43 236 73 30 60 10]
+[06] - Eirenus(Anct)[2865] [43 9 0 0 0 0]
+[08] - Brinco_de_Hecate[594] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 60 28 0 0]
+[12] - Conjunto_Militar(Branco)[4163] [96 30 1 21 3 32]
+[14] - Fenrir[2376] [68 65 100 60 10 0]
+[15] - Elite_dos_Aventureiros[3193] [0 0 54 10 0 0]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Lactolerium[413] [61 71 0 0 0 0]
+[01] - Frango_Assado[3314] [61 235 0 0 0 0]
+[02] - Arco[826] [43 9 0 0 0 0]
+[03] - Eirenus(Anct)[2865] [43 9 0 0 0 0]
+[04] - Ração_de_Fenrir[2436] [96 1 61 114 0 0]
+[05] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[06] - Pedido_de_Caça(Kult)[3435] [61 1 0 0 0 0]
+[07] - Pergaminho_Retorno_10x[411] [61 6 0 0 0 0]
+[08] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[09] - Poção_Poderosa[3431] [61 51 0 0 0 0]
+[10] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[11] - Pergaminho_da_Água(A)LV1[3182] [61 239 0 0 0 0]
+[12] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[13] - Pedido_de_Caça(Kefra)[3436] [61 6 0 0 0 0]
+[14] - Selo_do_Guerreiro[4146] [61 200 0 0 0 0]
+[15] - Skinfaxi[2371] [10 10 100 60 10 0]
+[16] - Luvas(M)[1216] [43 0 72 15 59 0]
+[17] - Elmo(M)[1492] [43 0 60 6 59 0]
+[18] - Elmo(A)[1208] [43 0 59 0 59 0]
+[19] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[20] - Cristal_Noas[4109] [0 0 0 0 0 0]
+[30] - Luvas(M)[1351] [43 1 72 20 54 6]
+[31] - Chapéu(M)[1642] [43 1 26 6 59 0]
+[32] - Braçadeira(M)[1651] [8 16 72 10 59 0]
+[33] - Coral[2443] [0 0 0 0 0 0]
+[34] - Coral[2443] [0 0 0 0 0 0]
+[35] - Luvas(M)[1501] [43 1 72 10 59 0]
+[38] - Coral[2443] [0 0 0 0 0 0]
+[39] - Coral[2443] [0 0 0 0 0 0]
+[40] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[41] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[42] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[43] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[45] - Coral[2443] [0 0 0 0 0 0]
+[46] - Coral[2443] [0 0 0 0 0 0]
+[47] - Coral[2443] [0 0 0 0 0 0]
+[48] - Coral[2443] [0 0 0 0 0 0]
+[49] - Coral[2443] [0 0 0 0 0 0]
+[50] - Coral[2443] [0 0 0 0 0 0]
+[51] - Coral[2443] [0 0 0 0 0 0]
+[52] - Coral[2443] [0 0 0 0 0 0]
+[54] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[55] - Coral[2443] [0 0 0 0 0 0]
+[56] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[57] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[58] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[59] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 21 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 21 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:04:43 : [Eredin] - Personagem Eredin enviado ao mundo 3654x 3137y - Canal 1 - Cash da conta: 83249. PowerLevel: 4134
+11:04:43 : [Eredin] - Gold atual: 1785916481. Classe: 1 Evolução: 1. Experiência: 2585066732. Nível: 369. Info: 103079215104. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+11:04:43 : [Eredin] - Logou no personagem Eredin com poção divina ativo. Validade: 19/2/2021 22:18:11
+11:04:43 : [Eredin] - Logou no personagem Eredin com baú de experiência ativo. Tempo: 108293
+11:04:43 : [Eredin] - Logou no personagem Eredin com frango ativo. Tempo: 1200
+11:04:43 : [Eredin] - Resetado a contagem de entradas água! Day: 22-24. Total: 6
+11:04:43 : [Eredin] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+11:04:43 : [Eredin] - Enviado informações do personagem
+11:04:45 : [Eredin] - Comando "/day "
+11:04:45 : [Eredin] - [Mensagem do servidor]> !#11 2
+11:04:57 : [Eredin] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+11:05:09 : [Eredin] - Item Pedido_de_Caça(Kefra) [3436] [61 6 0 0 0 0] utilizado em 3654x 3137y
+11:05:09 : [Eredin] - Teleportado para a posição 2489 3919
+11:05:58 : [Eredin] - Removido o Hp do mob Simio. HP removido: 3627. HP Atual: 26373
+11:06:00 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2828. HP Atual: 29172
+11:06:01 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2849. HP Atual: 26323
+11:06:02 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2793. HP Atual: 23530
+11:06:03 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2380. HP Atual: 21150
+11:06:06 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2729. HP Atual: 18421
+11:06:07 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2517. HP Atual: 15904
+11:06:08 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2815. HP Atual: 13089
+11:06:09 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2761. HP Atual: 10328
+11:06:12 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2853. HP Atual: 7475
+11:06:13 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2730. HP Atual: 4745
+11:06:14 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2825. HP Atual: 1920
+11:06:15 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2545. HP Atual: 0
+11:06:15 : [Eredin] - Matou o mob SimioBleg. GenerID: 3730
+11:06:20 : [Eredin] - Removido o Hp do mob Simio. HP removido: 3369. HP Atual: 23004
+11:06:24 : [Eredin] - Removido o Hp do mob Simio. HP removido: 3787. HP Atual: 19217
+11:06:25 : [Eredin] - Removido o Hp do mob Simio. HP removido: 3518. HP Atual: 15699
+11:06:26 : [Eredin] - Removido o Hp do mob Simio. HP removido: 3749. HP Atual: 11950
+11:06:27 : [Eredin] - Removido o Hp do mob Simio. HP removido: 4039. HP Atual: 7911
+11:06:28 : [Eredin] - Removido o Hp do mob Simio. HP removido: 3307. HP Atual: 4604
+11:06:29 : [Eredin] - Removido o Hp do mob Simio. HP removido: 3819. HP Atual: 785
+11:06:30 : [Eredin] - Removido o Hp do mob Simio. HP removido: 3303. HP Atual: 0
+11:06:30 : [Eredin] - Matou o mob Simio. GenerID: 3715
+11:06:34 : [Eredin] - Removido o Hp do mob Batorero. HP removido: 1420. HP Atual: 28580
+11:06:35 : [Eredin] - Removido o Hp do mob Batorero. HP removido: 1748. HP Atual: 26832
+11:06:36 : [Eredin] - Removido o Hp do mob Batorero. HP removido: 1466. HP Atual: 25366
+11:06:37 : [Eredin] - Removido o Hp do mob Batorero. HP removido: 1615. HP Atual: 23751
+11:06:38 : [Eredin] - Removido o Hp do mob Batorero. HP removido: 1438. HP Atual: 22313
+11:06:38 : [Eredin] - Morreu para SimioBleg 2517x 4054y
+11:06:45 : [Eredin] - DoRecall - Enviado para cidade: 3660x 3134y
+11:06:45 : [Eredin] - Falhou ao renascer usando Ressurreição. Voltando para a cidade.
+11:07:01 : [Eredin] - Item Pedido_de_Caça(Kefra) [3436] [61 5 0 0 0 0] utilizado em 3660x 3134y
+11:07:01 : [Eredin] - Teleportado para a posição 2489 3919
+11:07:24 : [Eredin] - Removido o Hp do mob Funer Sickler. HP removido: 3680. HP Atual: 16874
+11:07:25 : [Eredin] - Removido o Hp do mob Funer Sickler. HP removido: 3592. HP Atual: 13282
+11:07:26 : [Eredin] - Removido o Hp do mob Funer Sickler. HP removido: 3702. HP Atual: 9580
+11:07:27 : [Eredin] - Removido o Hp do mob Funer Sickler. HP removido: 3291. HP Atual: 6289
+11:07:28 : [Eredin] - Removido o Hp do mob Funer Sickler. HP removido: 4245. HP Atual: 2044
+11:07:29 : [Eredin] - Removido o Hp do mob Funer Sickler. HP removido: 3493. HP Atual: 0
+11:07:29 : [Eredin] - Matou o mob Funer Sickler. GenerID: 3758
+11:07:29 : [Eredin] - Dropado item Cristal_Sylphed [4107] [0 0 0 0 0 0] em 2523x 4008y - Funer Sickler (1/4)
+11:07:49 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2707. HP Atual: 29293
+11:07:50 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2680. HP Atual: 26613
+11:07:51 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2559. HP Atual: 24054
+11:07:52 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2828. HP Atual: 21226
+11:07:53 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2684. HP Atual: 18542
+11:07:55 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2944. HP Atual: 15598
+11:07:57 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2716. HP Atual: 12882
+11:07:58 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 3052. HP Atual: 9830
+11:07:59 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2752. HP Atual: 7078
+11:08:00 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2920. HP Atual: 4158
+11:08:01 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2455. HP Atual: 1703
+11:08:02 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2671. HP Atual: 0
+11:08:02 : [Eredin] - Matou o mob SimioBleg. GenerID: 3730
+11:08:25 : [Eredin] - Removido o Hp do mob HorizonCropper. HP removido: 5982. HP Atual: 1764
+11:08:26 : [Eredin] - Removido o Hp do mob HorizonCropper. HP removido: 5578. HP Atual: 0
+11:08:26 : [Eredin] - Matou o mob HorizonCropper. GenerID: 3693
+11:08:39 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2548. HP Atual: 29452
+11:08:40 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2825. HP Atual: 26627
+11:08:43 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2365. HP Atual: 24262
+11:08:44 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2716. HP Atual: 21546
+11:08:45 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2978. HP Atual: 18568
+11:08:46 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2707. HP Atual: 15861
+11:08:47 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2517. HP Atual: 13344
+11:08:48 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2477. HP Atual: 10867
+11:08:49 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2693. HP Atual: 8174
+11:08:51 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2704. HP Atual: 5470
+11:08:52 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2707. HP Atual: 2763
+11:08:53 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2636. HP Atual: 127
+11:08:54 : [Eredin] - Removido o Hp do mob SimioBleg. HP removido: 2590. HP Atual: 0
+11:08:54 : [Eredin] - Matou o mob SimioBleg. GenerID: 3731
+11:09:26 : [Eredin] - Item Pedido_de_Caça(Kefra) [3436] [61 4 0 0 0 0] utilizado em 2488x 4000y
+11:09:26 : [Eredin] - Teleportado para a posição 2269 3910
+11:11:28 : [Eredin] - Removido o Hp do mob FunerSicker. HP removido: 5882. HP Atual: 0
+11:11:28 : [Eredin] - Matou o mob FunerSicker. GenerID: 3655
+11:12:04 : [Eredin] - Removido o Hp do mob FunerSicker. HP removido: 2555. HP Atual: 6445
+11:12:38 : [Eredin] - Removido o Hp do mob Simio. HP removido: 3369. HP Atual: 0
+11:12:38 : [Eredin] - Matou o mob Simio. GenerID: 3659
+11:12:40 : [Eredin] - Removido o Hp do mob Simio . HP removido: 3369. HP Atual: 26631
+11:12:41 : [Eredin] - Removido o Hp do mob Simio . HP removido: 3527. HP Atual: 23104
+11:12:42 : [Eredin] - Removido o Hp do mob Simio . HP removido: 3303. HP Atual: 19801
+11:12:43 : [Eredin] - Removido o Hp do mob Simio . HP removido: 3811. HP Atual: 15990
+11:12:44 : [Eredin] - Removido o Hp do mob Simio . HP removido: 4176. HP Atual: 11814
+11:12:45 : [Eredin] - Removido o Hp do mob Simio . HP removido: 3369. HP Atual: 8445
+11:12:47 : [Eredin] - Removido o Hp do mob Simio . HP removido: 3579. HP Atual: 4866
+11:12:48 : [Eredin] - Removido o Hp do mob Simio . HP removido: 3749. HP Atual: 1117
+11:12:50 : [Eredin] - Removido o Hp do mob Simio . HP removido: 4039. HP Atual: 0
+11:12:50 : [Eredin] - Matou o mob Simio . GenerID: 3761
+11:12:50 : [Eredin] - Dropado item Cristal_Thelion [4108] [0 0 0 0 0 0] em 2243x 3888y - Simio  (1/4)
+11:12:59 : [Eredin] - Item Pergaminho_Retorno_10x [411] [61 6 0 0 0 0] utilizado em 2243x 3888y
+11:12:59 : [Eredin] - DoRecall - Enviado para cidade: 3656x 3132y
+11:13:06 : [Eredin] - Clicado no NPC [Guarda Carga ]. Face 106. Race: 2. GenerateId: 3280. Posição do usuário: 3661x 3126y. Posição do NPC: 3660x 3125y
+11:13:11 : [Eredin] - Moveu item Jóia_da_Sagacidade [3200] [61 8 0 0 0 0] do tipo BANCO do slot 30 para tipo INVENTÁRIO slot 25
+11:13:11 : [Eredin] - Moveu item Jóia_da_Resistência [3201] [61 8 0 0 0 0] do tipo BANCO do slot 25 para tipo INVENTÁRIO slot 26
+11:13:12 : [Eredin] - Moveu item Jóia_da_Proteção [3205] [61 8 0 0 0 0] do tipo BANCO do slot 20 para tipo INVENTÁRIO slot 27
+11:13:12 : [Eredin] - Moveu item Jóia_da_Absorção [3204] [61 8 0 0 0 0] do tipo BANCO do slot 15 para tipo INVENTÁRIO slot 23
+11:13:13 : [Eredin] - Moveu item Jóia_do_Poder [3206] [61 8 0 0 0 0] do tipo BANCO do slot 10 para tipo INVENTÁRIO slot 23
+11:13:13 : [Eredin] - Moveu item Jóia_da_Precisão [3208] [61 8 0 0 0 0] do tipo BANCO do slot 5 para tipo INVENTÁRIO slot 28
+11:13:14 : [Eredin] - Moveu item Jóia_da_Magia [3209] [61 8 0 0 0 0] do tipo BANCO do slot 0 para tipo INVENTÁRIO slot 24
+11:13:14 : [Eredin] - Moveu item Jóia_da_Absorção [3204] [61 8 0 0 0 0] do tipo BANCO do slot 10 para tipo INVENTÁRIO slot 29
+11:13:15 : [Eredin] - Item Jóia_do_Poder [3206] [61 8 0 0 0 0] utilizado em 3661x 3126y
+11:13:16 : [Eredin] - Item Jóia_da_Magia [3209] [61 8 0 0 0 0] utilizado em 3661x 3126y
+11:13:16 : [Eredin] - Item Jóia_da_Absorção [3204] [61 8 0 0 0 0] utilizado em 3661x 3126y
+11:13:17 : [Eredin] - Item Jóia_da_Precisão [3208] [61 8 0 0 0 0] utilizado em 3661x 3126y
+11:13:17 : [Eredin] - Item Jóia_da_Proteção [3205] [61 8 0 0 0 0] utilizado em 3661x 3126y
+11:13:18 : [Eredin] - Item Jóia_da_Resistência [3201] [61 8 0 0 0 0] utilizado em 3661x 3126y
+11:13:18 : [Eredin] - Item Jóia_da_Sagacidade [3200] [61 8 0 0 0 0] utilizado em 3661x 3126y
+11:13:18 : [Eredin] - Moveu item Jóia_da_Sagacidade [3200] [61 7 0 0 0 0] do tipo INVENTÁRIO do slot 25 para tipo BANCO slot 0
+11:13:19 : [Eredin] - Moveu item Jóia_da_Resistência [3201] [61 7 0 0 0 0] do tipo INVENTÁRIO do slot 26 para tipo BANCO slot 0
+11:13:20 : [Eredin] - Moveu item Jóia_da_Proteção [3205] [61 7 0 0 0 0] do tipo INVENTÁRIO do slot 27 para tipo BANCO slot 5
+11:13:20 : [Eredin] - Moveu item Jóia_da_Absorção [3204] [61 7 0 0 0 0] do tipo INVENTÁRIO do slot 29 para tipo BANCO slot 10
+11:13:21 : [Eredin] - Moveu item Jóia_da_Precisão [3208] [61 7 0 0 0 0] do tipo INVENTÁRIO do slot 28 para tipo BANCO slot 15
+11:13:21 : [Eredin] - Moveu item Jóia_da_Sagacidade [3200] [61 7 0 0 0 0] do tipo INVENTÁRIO do slot 26 para tipo BANCO slot 20
+11:13:22 : [Eredin] - Moveu item Jóia_do_Poder [3206] [61 7 0 0 0 0] do tipo INVENTÁRIO do slot 23 para tipo BANCO slot 25
+11:13:22 : [Eredin] - Moveu item Jóia_da_Magia [3209] [61 7 0 0 0 0] do tipo INVENTÁRIO do slot 24 para tipo BANCO slot 30
+11:13:30 : [Eredin] - Moveu item Pedido_de_Caça(Kult) [3435] [61 1 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo INVENTÁRIO slot 23
+11:13:44 : [Eredin] - Item Pedido_de_Caça(Kult) [3435] [61 1 0 0 0 0] utilizado em 3648x 3113y
+11:13:44 : [Eredin] - Teleportado para a posição 1182 1714
+11:13:53 : [Eredin] - Matou o mob Tauron. GenerID: 4372
+11:13:53 : [Eredin] - Dropado item Luvas(M) [1501] [43 0 72 15 60 4] em 1182x 1714y - Tauron (1/300)
+11:13:55 : [Eredin] - Matou o mob Tauron. GenerID: 4372
+11:13:55 : [Eredin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:13:58 : [Eredin] - Matou o mob Tauron Bandido. GenerID: 4372
+11:13:59 : [Eredin] - Matou o mob Tauron. GenerID: 4372
+11:14:00 : [Eredin] - Matou o mob Tauron. GenerID: 4372
+11:14:00 : [Eredin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:14:01 : [Eredin] - Matou o mob Tauron. GenerID: 4372
+11:14:02 : [Eredin] - Matou o mob Tauron. GenerID: 4372
+11:14:02 : [Eredin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:14:04 : [Eredin] - Matou o mob Tauron Bandido. GenerID: 4372
+11:14:09 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:14:09 : [Eredin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:14:09 : [Eredin] - Level UP para level 370. Ev: 1/1 - 1163x 1722y
+11:14:13 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:14:15 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:14:15 : [Eredin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:14:16 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:14:16 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:14:16 : [Eredin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:14:17 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:14:18 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:14:18 : [Eredin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:14:20 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:14:21 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:14:21 : [Eredin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:14:21 : [Eredin] - Level UP para level 371. Ev: 1/1 - 1162x 1723y
+11:14:23 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:14:23 : [Eredin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:14:24 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:14:25 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:14:25 : [Eredin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:14:28 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:14:30 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:14:30 : [Eredin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:14:32 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:14:33 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:14:33 : [Eredin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:14:33 : [Eredin] - Level UP para level 372. Ev: 1/1 - 1162x 1723y
+11:14:36 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:14:36 : [Eredin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:14:38 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:14:40 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:14:40 : [Eredin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:14:43 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:14:45 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:14:45 : [Eredin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:14:49 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:14:51 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:14:51 : [Eredin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:14:51 : [Eredin] - Level UP para level 373. Ev: 1/1 - 1162x 1723y
+11:14:55 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:14:58 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:14:58 : [Eredin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:14:58 : [Eredin] - Recebeu 19799 de gold em 10 mobs no total. Total de gold: 1782486280
+11:15:00 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:15:00 : [Eredin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:15:02 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:15:04 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:15:04 : [Eredin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:15:05 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:15:07 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:15:07 : [Eredin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:15:07 : [Eredin] - Level UP para level 374. Ev: 1/1 - 1162x 1723y
+11:15:09 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:15:11 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:15:11 : [Eredin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:15:13 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:15:13 : [Eredin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:15:14 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:15:15 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:15:15 : [Eredin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:15:15 : [Eredin] - Dropado item Gema_da_Siren [658] [0 0 0 0 0 0] em 1162x 1723y - Tauron (1/300)
+11:15:16 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:15:19 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:15:19 : [Eredin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:15:19 : [Eredin] - Level UP para level 375. Ev: 1/1 - 1162x 1723y
+11:15:21 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:15:24 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:15:24 : [Eredin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:15:25 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:15:27 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:15:27 : [Eredin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:15:28 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:15:28 : [Eredin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:15:28 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:15:30 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:15:30 : [Eredin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:15:30 : [Eredin] - Level UP para level 376. Ev: 1/1 - 1162x 1723y
+11:15:31 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:15:36 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:15:36 : [Eredin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:15:37 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:15:39 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:15:39 : [Eredin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:15:40 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:15:42 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:15:42 : [Eredin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:15:43 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:15:43 : [Eredin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:15:43 : [Eredin] - Level UP para level 377. Ev: 1/1 - 1162x 1723y
+11:15:44 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:15:47 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:15:47 : [Eredin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:15:48 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:15:49 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:15:49 : [Eredin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:15:50 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:15:52 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:15:52 : [Eredin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:15:52 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:15:54 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:15:54 : [Eredin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:15:54 : [Eredin] - Level UP para level 378. Ev: 1/1 - 1162x 1723y
+11:15:57 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:15:59 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:16:01 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:16:01 : [Eredin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:16:03 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:16:04 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:16:07 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:16:07 : [Eredin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:16:08 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:16:09 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:16:12 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:16:12 : [Eredin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:16:13 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:16:14 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:16:15 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:16:15 : [Eredin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:16:15 : [Eredin] - Level UP para level 379. Ev: 1/1 - 1162x 1723y
+11:16:18 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:16:18 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:16:18 : [Eredin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:16:19 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:16:20 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:16:20 : [Eredin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:16:24 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:16:25 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:16:25 : [Eredin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:16:26 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:16:27 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:16:27 : [Eredin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:16:27 : [Eredin] - Level UP para level 380. Ev: 1/1 - 1162x 1723y
+11:16:31 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:16:34 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:16:34 : [Eredin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:16:37 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:16:39 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:16:39 : [Eredin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:16:40 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:16:41 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:16:41 : [Eredin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:16:43 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:16:45 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:16:45 : [Eredin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:16:45 : [Eredin] - Level UP para level 381. Ev: 1/1 - 1162x 1723y
+11:16:47 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:16:50 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:16:50 : [Eredin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:16:52 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:16:55 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:16:55 : [Eredin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:16:57 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:16:59 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:16:59 : [Eredin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:16:59 : [Eredin] - Dropado item Luvas(M) [1501] [54 6 72 10 54 9] em 1162x 1723y - Tauron (1/300)
+11:17:00 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:17:01 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:17:01 : [Eredin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:17:01 : [Eredin] - Level UP para level 382. Ev: 1/1 - 1162x 1723y
+11:17:03 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:17:04 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:17:04 : [Eredin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:17:06 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:17:06 : [Eredin] - Recebeu 18372 de gold em 10 mobs no total. Total de gold: 1782504652
+11:17:07 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:17:07 : [Eredin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:17:08 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:17:11 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:17:11 : [Eredin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:17:11 : [Eredin] - Dropado item Luvas(M) [1216] [43 0 72 15 59 0] em 1162x 1723y - Tauron (1/300)
+11:17:11 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:17:12 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:17:12 : [Eredin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:17:12 : [Eredin] - Level UP para level 383. Ev: 1/1 - 1162x 1723y
+11:17:13 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:17:14 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:17:14 : [Eredin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:17:16 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:17:16 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:17:16 : [Eredin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:17:16 : [Eredin] - Dropado item Luvas(M) [1216] [43 1 72 10 2 12] em 1162x 1723y - Tauron (1/300)
+11:17:17 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:17:18 : [Eredin] - Matou o mob Tauron. GenerID: 3988
+11:17:18 : [Eredin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:17:24 : [Eredin] - Matou o mob Tauron. GenerID: 3991
+11:17:25 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:17:25 : [Eredin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:17:25 : [Eredin] - Level UP para level 384. Ev: 1/1 - 1162x 1723y
+11:17:27 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:17:29 : [Eredin] - Matou o mob Tauron. GenerID: 3990
+11:17:29 : [Eredin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:17:31 : [Eredin] - Matou o mob Tauron. GenerID: 3989
+11:17:36 : [Eredin] - O pacote recebido esperava tamanho 72 e recebemos 56
+11:17:40 : [Eredin] - MSG_Attack, Skill Delay. SkillId: 39. Delay original: 7. Delay com reduções: 5. Tempo: 4393
+11:17:46 : [Eredin] - O pacote recebido esperava tamanho 168 e recebemos 24
+11:17:51 : [Eredin] - BETASD9 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+11:17:51 : [Eredin] - 1 Personagem foi desconectado. Permaneceu 00:13:03 minutos online
+11:17:51 : [Eredin] - Recebeu 3424 de gold em 2 mobs no total. Total de gold: 1782508076
+11:22:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD9) - IP: 45.187.161.141 Mac: (00:C3:FE:CD:0F:4A). ClientId: 1
+11:22:55 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+11:22:55 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Jóia_da_Resistência[3201] [61 7 0 0 0 0]
+[  5] - Jóia_da_Proteção[3205] [61 7 0 0 0 0]
+[ 10] - Jóia_da_Absorção[3204] [61 7 0 0 0 0]
+[ 15] - Jóia_da_Precisão[3208] [61 7 0 0 0 0]
+[ 20] - Jóia_da_Sagacidade[3200] [61 7 0 0 0 0]
+[ 25] - Jóia_do_Poder[3206] [61 7 0 0 0 0]
+[ 30] - Jóia_da_Magia[3209] [61 7 0 0 0 0]
+[ 35] - Jóia_da_Armazenagem[3207] [61 10 0 0 0 0]
+
+11:23:01 : Solicitou ir ao mundo...
+11:23:01 : Recebido pedido para entrar no jogo
+11:23:01 : Recebido informação do personagem completa.
+11:23:01 : [Eredin] - [INFORMAÇÕES DA CONTA]
+Personagem online: Eredin
+Gold atual: 1782508076
+Level atual: 384
+Experiência atual: 3234732724
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 3657x 3131y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215104
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[7] [43 0 7 1 1 1]
+[02] - Armadura[1221] [43 236 3 30 60 10]
+[03] - Calça[1222] [43 9 0 0 0 0]
+[04] - Luvas[1223] [43 236 60 10 72 30]
+[05] - Botas[1224] [43 236 73 30 60 10]
+[06] - Eirenus(Anct)[2865] [43 9 0 0 0 0]
+[08] - Brinco_de_Hecate[594] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 60 28 0 0]
+[12] - Conjunto_Militar(Branco)[4163] [96 30 1 21 3 32]
+[14] - Fenrir[2376] [104 76 100 60 10 0]
+[15] - Elite_dos_Aventureiros[3193] [0 0 54 10 0 0]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Lactolerium[413] [61 71 0 0 0 0]
+[01] - Frango_Assado[3314] [61 235 0 0 0 0]
+[02] - Arco[826] [43 9 0 0 0 0]
+[03] - Eirenus(Anct)[2865] [43 9 0 0 0 0]
+[04] - Ração_de_Fenrir[2436] [96 1 61 113 0 0]
+[05] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[06] - Pedido_de_Caça(Kult)[3435] [61 10 0 0 0 0]
+[07] - Pergaminho_Retorno_10x[411] [61 5 0 0 0 0]
+[08] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[09] - Poção_Poderosa[3431] [61 24 0 0 0 0]
+[10] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[11] - Pergaminho_da_Água(A)LV1[3182] [61 239 0 0 0 0]
+[12] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[13] - Pedido_de_Caça(Kefra)[3436] [61 3 0 0 0 0]
+[14] - Selo_do_Guerreiro[4146] [61 200 0 0 0 0]
+[15] - Skinfaxi[2371] [10 10 100 60 10 0]
+[16] - Luvas(M)[1216] [43 0 72 15 59 0]
+[17] - Elmo(M)[1492] [43 0 60 6 59 0]
+[18] - Elmo(A)[1208] [43 0 59 0 59 0]
+[19] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[20] - Cristal_Noas[4109] [0 0 0 0 0 0]
+[21] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[22] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[23] - Luvas(M)[1501] [43 0 72 15 60 4]
+[24] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[25] - Luvas(M)[1501] [54 6 72 10 54 9]
+[26] - Luvas(M)[1216] [43 0 72 15 59 0]
+[27] - Luvas(M)[1216] [43 1 72 10 2 12]
+[30] - Luvas(M)[1351] [43 1 72 20 54 6]
+[31] - Chapéu(M)[1642] [43 1 26 6 59 0]
+[32] - Braçadeira(M)[1651] [8 16 72 10 59 0]
+[33] - Coral[2443] [0 0 0 0 0 0]
+[34] - Coral[2443] [0 0 0 0 0 0]
+[35] - Luvas(M)[1501] [43 1 72 10 59 0]
+[38] - Coral[2443] [0 0 0 0 0 0]
+[39] - Coral[2443] [0 0 0 0 0 0]
+[40] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[41] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[42] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[43] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[45] - Coral[2443] [0 0 0 0 0 0]
+[46] - Coral[2443] [0 0 0 0 0 0]
+[47] - Coral[2443] [0 0 0 0 0 0]
+[48] - Coral[2443] [0 0 0 0 0 0]
+[49] - Coral[2443] [0 0 0 0 0 0]
+[50] - Coral[2443] [0 0 0 0 0 0]
+[51] - Coral[2443] [0 0 0 0 0 0]
+[52] - Coral[2443] [0 0 0 0 0 0]
+[54] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[55] - Coral[2443] [0 0 0 0 0 0]
+[56] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[57] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[58] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[59] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 21 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 21 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:23:01 : [Eredin] - Personagem Eredin enviado ao mundo 3657x 3131y - Canal 1 - Cash da conta: 83249. PowerLevel: 4149
+11:23:01 : [Eredin] - Gold atual: 1782508076. Classe: 1 Evolução: 1. Experiência: 3234732724. Nível: 384. Info: 103079215104. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+11:23:01 : [Eredin] - Logou no personagem Eredin com poção divina ativo. Validade: 19/2/2021 22:18:11
+11:23:01 : [Eredin] - Logou no personagem Eredin com baú de experiência ativo. Tempo: 108197
+11:23:01 : [Eredin] - Logou no personagem Eredin com frango ativo. Tempo: 1104
+11:23:01 : [Eredin] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+11:23:01 : [Eredin] - Enviado informações do personagem
+11:23:02 : [Eredin] - BETASD9 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+11:23:02 : [Eredin] - 1 Personagem foi desconectado. Permaneceu 00:00:08 minutos online

@@ -1,0 +1,1541 @@
+
+16:37:43 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 127.0.0.1 Mac: (F8:AC:68:4B:44:4F). ClientId: 1
+16:37:43 : [Mensagem do servidor]> Esta conta não foi encontrada.
+16:37:43 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+16:38:18 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 127.0.0.1 Mac: (F8:AC:68:4B:44:4F). ClientId: 1
+16:38:18 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+16:38:18 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+16:38:18 : A próxima missão acontecerá em aproximadamente 26 minutos
+16:38:19 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:38:32 : Solicitou ir ao mundo...
+16:38:32 : Recebido pedido para entrar no jogo
+16:38:32 : Recebido informação do personagem completa.
+16:38:32 : [SkyDrive] - [INFORMAÇÕES DA CONTA]
+Personagem online: SkyDrive
+Gold atual: 0
+Level atual: 0
+Experiência atual: 269695
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:13 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 1 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Adaga[861] [43 6 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[02] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[03] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[04] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[05] - Florete[917] [43 6 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:38:32 : [SkyDrive] - Personagem SkyDrive enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 255
+16:38:32 : [SkyDrive] - Gold atual: 0. Classe: 0 Evolução: 1. Experiência: 269695. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+16:38:32 : [SkyDrive] - Resetado a contagem de entradas água! Day: 0-6. Total: 0
+16:38:32 : [SkyDrive] - [Mensagem do servidor]> A guild [] derrotou Kefra
+16:38:32 : [SkyDrive] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+16:38:32 : [SkyDrive] - Enviado informações do personagem
+16:38:33 : [SkyDrive] - Comando "/day "
+16:38:33 : [SkyDrive] - [Mensagem do servidor]> !#11 2
+16:38:39 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 78
+16:38:39 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:38:39 : [SkyDrive] - Level UP para level 1. Ev: 1 - 2118x 2041y
+16:38:41 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 81
+16:38:41 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:38:41 : [SkyDrive] - Level UP para level 2. Ev: 1 - 2118x 2038y
+16:38:42 : [SkyDrive] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+16:38:42 : [SkyDrive] - O usuário não enviou o pacote de integridade de macaddress
+16:38:42 : [SkyDrive] - Matou o mob Porco de Guerra. GenerID: 4421
+16:38:42 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 84
+16:38:42 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:38:42 : [SkyDrive] - Level UP para level 3. Ev: 1 - 2118x 2038y
+16:38:42 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 87
+16:38:42 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:38:42 : [SkyDrive] - Level UP para level 4. Ev: 1 - 2118x 2038y
+16:38:45 : [SkyDrive] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 4407. Posição do usuário: 2131x 2036y. Posição do NPC: 2133x 2032y
+16:38:47 : [SkyDrive] - Matou o mob Porco de Guerra. GenerID: 4426
+16:38:47 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 90
+16:38:47 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:38:47 : [SkyDrive] - Level UP para level 5. Ev: 1 - 2127x 2032y
+16:38:47 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 93
+16:38:47 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:38:47 : [SkyDrive] - Level UP para level 6. Ev: 1 - 2127x 2032y
+16:38:51 : [SkyDrive] - Comando "/novato "
+16:38:51 : [SkyDrive] - [Mensagem do servidor]> !Chegou um item: [Urso_Zumbi(3dias)]
+16:38:51 : [SkyDrive] - [Mensagem do servidor]> !Chegou um item: [Frango_Assado]
+16:38:51 : [SkyDrive] - [Mensagem do servidor]> !Chegou um item: [Panqueca]
+16:38:51 : [SkyDrive] - Digitou o comando /novato. Novato.
+16:38:54 : [SkyDrive] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+16:38:56 : [SkyDrive] - Moveu item Urso_Zumbi(3dias) [3998] [200 1 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 14
+16:38:56 : [SkyDrive] - Aplicado tempo no item Urso_Zumbi(3dias) [3998] [106 10 110 1 109 23] - 10/1/2023
+16:38:57 : [SkyDrive] - Item Frango_Assado [3314] [61 3 200 1 0 0] utilizado em 2125x 2028y
+16:39:10 : [SkyDrive] - Comprou o item Katana [939] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 0. Imposto: 0. Gold: 0 anterior. Gold após a compra: 0
+16:39:11 : [SkyDrive] - Comprou o item Katana [939] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 0. Imposto: 0. Gold: 0 anterior. Gold após a compra: 0
+16:39:12 : [SkyDrive] - Moveu item Katana [939] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 6
+16:39:14 : [SkyDrive] - Moveu item Katana [939] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 7
+16:39:16 : [SkyDrive] - Item Adaga deletado [861] [43 6 0 0 0 0]. Slot 6
+16:39:17 : [SkyDrive] - Item Florete deletado [917] [43 6 0 0 0 0]. Slot 5
+16:39:22 : [SkyDrive] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 6. Distância 2: 7. Range: 2.
+16:39:22 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 96
+16:39:22 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:39:22 : [SkyDrive] - Level UP para level 7. Ev: 1 - 2084x 2020y
+16:39:25 : [SkyDrive] - Matou o mob Gremlin Artif. GenerID: 4449
+16:39:25 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 99
+16:39:25 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:39:25 : [SkyDrive] - Level UP para level 8. Ev: 1 - 2077x 2023y
+16:39:25 : [SkyDrive] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2077x 2023y - Gremlin Artif (1/1)
+16:39:25 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 102
+16:39:25 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:39:25 : [SkyDrive] - Level UP para level 9. Ev: 1 - 2077x 2023y
+16:39:28 : [SkyDrive] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2081x 2020y. Posição do NPC: 2080x 2018y
+16:39:28 : [SkyDrive] - [Mensagem do servidor]> Recebeu Poção de Cura como recompensa.
+16:39:34 : [SkyDrive] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3422. Posição do usuário: 2088x 1999y. Posição do NPC: 2087x 2001y
+16:39:43 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 105
+16:39:43 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:39:43 : [SkyDrive] - Level UP para level 10. Ev: 1 - 2141x 2000y
+16:39:44 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 108
+16:39:44 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:39:44 : [SkyDrive] - Level UP para level 11. Ev: 1 - 2142x 1999y
+16:39:45 : [SkyDrive] - Matou o mob Krill Gigante. GenerID: 4476
+16:39:45 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 111
+16:39:45 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:39:45 : [SkyDrive] - Level UP para level 12. Ev: 1 - 2142x 1999y
+16:39:45 : [SkyDrive] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2142x 1999y - Krill Gigante (1/1)
+16:39:45 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 114
+16:39:45 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:39:45 : [SkyDrive] - Level UP para level 13. Ev: 1 - 2142x 1999y
+16:39:46 : [SkyDrive] - Clicado no NPC [Treinador2]. Face 60. Race: 8. GenerateId: 4409. Posição do usuário: 2143x 1991y. Posição do NPC: 2142x 1990y
+16:39:46 : [SkyDrive] - [Mensagem do servidor]> Como recompensa foi atribuída uma opção adicional em sua arma.
+16:40:01 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 117
+16:40:01 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:01 : [SkyDrive] - Level UP para level 14. Ev: 1 - 2075x 1977y
+16:40:02 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 120
+16:40:02 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:02 : [SkyDrive] - Level UP para level 15. Ev: 1 - 2075x 1977y
+16:40:03 : [SkyDrive] - Matou o mob Orc Sniper. GenerID: 4494
+16:40:03 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 123
+16:40:03 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:03 : [SkyDrive] - Level UP para level 16. Ev: 1 - 2075x 1977y
+16:40:03 : [SkyDrive] - Dropado item Chave_da_Ultima_Porta [453] [0 0 0 0 0 0] em 2075x 1977y - Orc Sniper (1/1)
+16:40:03 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 126
+16:40:03 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:03 : [SkyDrive] - Level UP para level 17. Ev: 1 - 2075x 1977y
+16:40:05 : [SkyDrive] - Matou o mob Rei Gremlin  . GenerID: 4491
+16:40:05 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 129
+16:40:05 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:05 : [SkyDrive] - Level UP para level 18. Ev: 1 - 2075x 1977y
+16:40:05 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 132
+16:40:05 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:05 : [SkyDrive] - Level UP para level 19. Ev: 1 - 2075x 1977y
+16:40:06 : [SkyDrive] - Matou o mob Rei Gremlin  . GenerID: 4492
+16:40:06 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 135
+16:40:06 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:06 : [SkyDrive] - Level UP para level 20. Ev: 1 - 2075x 1977y
+16:40:06 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 138
+16:40:06 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:06 : [SkyDrive] - Level UP para level 21. Ev: 1 - 2075x 1977y
+16:40:08 : [SkyDrive] - Matou o mob Chefe Krill . GenerID: 4491
+16:40:08 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 141
+16:40:08 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:08 : [SkyDrive] - Level UP para level 22. Ev: 1 - 2073x 1975y
+16:40:08 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 144
+16:40:08 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:08 : [SkyDrive] - Level UP para level 23. Ev: 1 - 2073x 1975y
+16:40:09 : [SkyDrive] - Matou o mob Rei Gremlin  . GenerID: 4491
+16:40:09 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 147
+16:40:09 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:09 : [SkyDrive] - Level UP para level 24. Ev: 1 - 2072x 1975y
+16:40:09 : [SkyDrive] - Recebeu o item Ovo_do_Iniciante [4615] [0 0 0 0 0 0]. STR: 8. INT: 4. DEX: 7. CON: 6
+16:40:09 : [SkyDrive] - [Mensagem do servidor]> Chegou um item: [ Ovo_do_Iniciante ]
+16:40:09 : [SkyDrive] - Pontos CP subiu em 3. CP novo: 150
+16:40:09 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:09 : [SkyDrive] - Level UP para level 25. Ev: 1 - 2072x 1975y
+16:40:12 : [SkyDrive] - Clicado no NPC [Treinador3]. Face 60. Race: 8. GenerateId: 4410. Posição do usuário: 2078x 1965y. Posição do NPC: 2078x 1966y
+16:40:12 : [SkyDrive] - [Mensagem do servidor]> Como recompensa a sua arma e armadura foram refinadas.
+16:40:16 : [SkyDrive] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3423. Posição do usuário: 2082x 1948y. Posição do NPC: 2080x 1945y
+16:40:23 : [SkyDrive] - Moveu item Botas_de_Couro_Duro(N) [1152] [43 9 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 12
+16:40:24 : [SkyDrive] - Item Classe_A [4016] [61 5 0 0 0 0] utilizado em 0x 0y
+16:40:24 : [SkyDrive] - [Mensagem do servidor]> Somente em itens menor ou igual a +6.
+16:40:25 : [SkyDrive] - Item Panqueca deletado [4639] [200 1 0 0 0 0]. Slot 8
+16:40:27 : [SkyDrive] - Item Ovo_do_Iniciante deletado [4615] [0 0 0 0 0 0]. Slot 9
+16:40:31 : [SkyDrive] - Item Classe_A [4016] [61 5 0 0 0 0] utilizado em 0x 0y
+16:40:31 : [SkyDrive] - [Mensagem do servidor]> Somente em itens menor ou igual a +6.
+16:40:36 : [SkyDrive] - Matou o mob Chefe Krill . GenerID: 4501
+16:40:36 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:36 : [SkyDrive] - Level UP para level 26. Ev: 1 - 2111x 1943y
+16:40:36 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:36 : [SkyDrive] - Level UP para level 27. Ev: 1 - 2111x 1943y
+16:40:44 : [SkyDrive] - Matou o mob Orc Guerreiro  . GenerID: 4514
+16:40:44 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:44 : [SkyDrive] - Level UP para level 28. Ev: 1 - 2141x 1949y
+16:40:44 : [SkyDrive] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2141x 1949y - Orc Guerreiro   (1/1)
+16:40:44 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:44 : [SkyDrive] - Level UP para level 29. Ev: 1 - 2141x 1949y
+16:40:44 : [SkyDrive] - Recebeu o item Manoplas_de_Malha(M) [1147] [43 3 2 20 53 3]. STR: 8. INT: 4. DEX: 7. CON: 6
+16:40:44 : [SkyDrive] - [Mensagem do servidor]> Chegou um item: [ Manoplas_de_Malha(M) ]
+16:40:46 : [SkyDrive] - Matou o mob Chefe Krill . GenerID: 4512
+16:40:46 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:46 : [SkyDrive] - Level UP para level 30. Ev: 1 - 2141x 1949y
+16:40:46 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:46 : [SkyDrive] - Level UP para level 31. Ev: 1 - 2141x 1949y
+16:40:47 : [SkyDrive] - Matou o mob Rei Gremlin  . GenerID: 4512
+16:40:47 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:47 : [SkyDrive] - Level UP para level 32. Ev: 1 - 2141x 1949y
+16:40:47 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:47 : [SkyDrive] - Level UP para level 33. Ev: 1 - 2141x 1949y
+16:40:48 : [SkyDrive] - Matou o mob Chefe Krill . GenerID: 4513
+16:40:48 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:48 : [SkyDrive] - Level UP para level 34. Ev: 1 - 2140x 1948y
+16:40:48 : [SkyDrive] - Recebeu o item Botas_de_Malha(M) [1159] [43 3 73 18 74 12]. STR: 8. INT: 4. DEX: 7. CON: 6
+16:40:48 : [SkyDrive] - [Mensagem do servidor]> Chegou um item: [ Botas_de_Malha(M) ]
+16:40:48 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:48 : [SkyDrive] - Level UP para level 35. Ev: 1 - 2140x 1948y
+16:40:49 : [SkyDrive] - Matou o mob Rei Gremlin  . GenerID: 4513
+16:40:49 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:49 : [SkyDrive] - Level UP para level 36. Ev: 1 - 2139x 1947y
+16:40:49 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:40:49 : [SkyDrive] - Level UP para level 37. Ev: 1 - 2139x 1947y
+16:41:10 : [SkyDrive] - Moveu item Botas_de_Couro_Duro(N) [1152] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 5
+16:41:16 : [SkyDrive] - Personagem deu personagem
+16:41:20 : Solicitou ir ao mundo...
+16:41:20 : Recebido pedido para entrar no jogo
+16:41:20 : Recebido informação do personagem completa.
+16:41:20 : [SkyDrive] - [INFORMAÇÕES DA CONTA]
+Personagem online: SkyDrive
+Gold atual: 0
+Level atual: 37
+Experiência atual: 293959
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:03:01 horas
+Posição atual: 2093x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 1 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Katana[939] [43 9 2 18 59 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+[14] - Urso_Zumbi(3dias)[3998] [106 10 110 1 109 23]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[02] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[03] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[04] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[05] - Emblema_Orc[524] [0 0 0 0 0 0]
+[06] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[07] - Frango_Assado[3314] [61 2 200 1 0 0]
+[08] - Manoplas_de_Malha(M)[1147] [43 3 2 20 53 3]
+[09] - Botas_de_Malha(M)[1159] [43 3 73 18 74 12]
+[10] - Classe_A[4016] [61 5 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:41:20 : [SkyDrive] - Personagem SkyDrive enviado ao mundo 2093x 2105y - Canal 1 - Cash da conta: 0. OverPower: 609
+16:41:20 : [SkyDrive] - Gold atual: 0. Classe: 0 Evolução: 1. Experiência: 293959. Nível: 37. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+16:41:20 : [SkyDrive] - Logou no personagem SkyDrive com frango ativo. Tempo: 1783
+16:41:20 : [SkyDrive] - [Mensagem do servidor]> A guild [] derrotou Kefra
+16:41:20 : [SkyDrive] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+16:41:20 : [SkyDrive] - Enviado informações do personagem
+16:41:21 : [SkyDrive] - Comando "/day "
+16:41:21 : [SkyDrive] - [Mensagem do servidor]> !#11 2
+16:41:30 : [SkyDrive] - O usuário não enviou o pacote de integridade de macaddress
+16:48:48 : [SkyDrive] - Matou o mob Gremlin. GenerID: 424
+16:48:48 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:48:48 : [SkyDrive] - Level UP para level 38. Ev: 1 - 2197x 2113y
+16:48:48 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:48:48 : [SkyDrive] - Level UP para level 39. Ev: 1 - 2197x 2113y
+16:48:48 : [SkyDrive] - Recebeu o item Elmo_de_Malha(M) [1111] [43 3 4 20 0 0]. STR: 8. INT: 4. DEX: 7. CON: 6
+16:48:48 : [SkyDrive] - [Mensagem do servidor]> Chegou um item: [ Elmo_de_Malha(M) ]
+16:48:50 : [SkyDrive] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3425. Posição do usuário: 2201x 2110y. Posição do NPC: 2204x 2106y
+16:48:54 : [SkyDrive] - Matou o mob Gremlin. GenerID: 433
+16:48:54 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:48:54 : [SkyDrive] - Level UP para level 40. Ev: 1 - 2201x 2102y
+16:48:55 : [SkyDrive] - Matou o mob Gremlin. GenerID: 425
+16:48:56 : [SkyDrive] - Matou o mob Gremlin. GenerID: 433
+16:48:58 : [SkyDrive] - Matou o mob Gremlin . GenerID: 434
+16:48:58 : [SkyDrive] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2205x 2096y - Gremlin  (1/30)
+16:48:59 : [SkyDrive] - Matou o mob Gremlin. GenerID: 426
+16:49:01 : [SkyDrive] - Matou o mob Gremlin. GenerID: 420
+16:49:03 : [SkyDrive] - Matou o mob Gremlin. GenerID: 427
+16:49:04 : [SkyDrive] - Matou o mob Gremlin. GenerID: 419
+16:49:09 : [SkyDrive] - Matou o mob Gremlin. GenerID: 419
+16:49:12 : [SkyDrive] - Matou o mob Gremlin. GenerID: 420
+16:49:13 : [SkyDrive] - Matou o mob Gremlin. GenerID: 426
+16:49:15 : [SkyDrive] - Matou o mob Gremlin. GenerID: 427
+16:49:17 : [SkyDrive] - Matou o mob Gremlin. GenerID: 425
+16:49:19 : [SkyDrive] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 7. Distância 2: 12. Range: 2.
+16:49:20 : [SkyDrive] - Matou o mob Gremlin . GenerID: 434
+16:49:23 : [SkyDrive] - Matou o mob Gremlin. GenerID: 433
+16:49:26 : [SkyDrive] - Matou o mob Gremlin. GenerID: 426
+16:49:26 : [SkyDrive] - Dropado item Armadura_de_Couro(A) [1805] [43 0 71 30 60 4] em 2203x 2094y - Gremlin (1/67)
+16:49:27 : [SkyDrive] - Matou o mob Gremlin. GenerID: 435
+16:49:28 : [SkyDrive] - Matou o mob Gremlin. GenerID: 436
+16:49:30 : [SkyDrive] - Matou o mob Gremlin. GenerID: 427
+16:49:33 : [SkyDrive] - Matou o mob Gremlin . GenerID: 434
+16:49:36 : [SkyDrive] - Matou o mob Gremlin. GenerID: 435
+16:49:59 : [SkyDrive] - Matou o mob Rei Gremlin. GenerID: 603
+16:50:00 : [SkyDrive] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3289. Posição do usuário: 2369x 2098y. Posição do NPC: 2369x 2105y
+16:50:01 : [SkyDrive] - Clicado no NPC [Coveiro]. Face 58. Race: 8. GenerateId: 3282. Posição do usuário: 2369x 2098y. Posição do NPC: 2372x 2097y
+16:50:01 : [SkyDrive] - Teleportado para a posição 2397 2105
+16:50:01 : [SkyDrive] - SkyDrive entrou na quest [Coveiro].
+16:50:03 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4234
+16:50:03 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:50:03 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2397x 2105y - Esqueleto (1/4)
+16:50:05 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4234
+16:50:05 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+16:50:05 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:50:05 : [SkyDrive] - Level UP para level 41. Ev: 1 - 2397x 2105y
+16:50:05 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2397x 2105y - Aparicao (1/1)
+16:50:07 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4234
+16:50:07 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+16:50:11 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4236
+16:50:11 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:50:11 : [SkyDrive] - Level UP para level 42. Ev: 1 - 2401x 2109y
+16:50:11 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2401x 2109y - Aparicao (1/1)
+16:50:13 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4236
+16:50:13 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+16:50:13 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2401x 2109y - Aparicao (1/1)
+16:50:14 : [SkyDrive] - Item Armadura_de_Couro(A) deletado [1805] [43 0 71 30 60 4]. Slot 13
+16:50:15 : [SkyDrive] - Item Manoplas_de_Malha(M) deletado [1147] [43 3 2 20 53 3]. Slot 8
+16:50:16 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:50:16 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:50:16 : [SkyDrive] - Level UP para level 43. Ev: 1 - 2405x 2105y
+16:50:16 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2105y - Esqueleto (1/4)
+16:50:16 : [SkyDrive] - Item Botas_de_Malha(M) deletado [1159] [43 3 73 18 74 12]. Slot 9
+16:50:17 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:50:17 : [SkyDrive] - Level UP para level 44. Ev: 1 - 2405x 2105y
+16:50:17 : [SkyDrive] - Recebeu o item Calça_de_Malha(M) [1135] [43 3 2 20 3 20]. STR: 8. INT: 4. DEX: 7. CON: 6
+16:50:17 : [SkyDrive] - [Mensagem do servidor]> Chegou um item: [ Calça_de_Malha(M) ]
+16:50:17 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:50:17 : [SkyDrive] - Level UP para level 45. Ev: 1 - 2405x 2105y
+16:50:18 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4235
+16:50:18 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:50:18 : [SkyDrive] - Level UP para level 46. Ev: 1 - 2405x 2105y
+16:50:18 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2105y - Aparicao (1/1)
+16:50:18 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:50:18 : [SkyDrive] - Level UP para level 47. Ev: 1 - 2405x 2105y
+16:50:18 : [SkyDrive] - Item Calça_de_Malha(M) deletado [1135] [43 3 2 20 3 20]. Slot 9
+16:50:19 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:50:19 : [SkyDrive] - Level UP para level 48. Ev: 1 - 2405x 2105y
+16:50:20 : [SkyDrive] - Item Elmo_de_Malha(M) deletado [1111] [43 3 4 20 0 0]. Slot 11
+16:50:20 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:50:20 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:50:20 : [SkyDrive] - Level UP para level 49. Ev: 1 - 2405x 2105y
+16:50:20 : [SkyDrive] - Recebeu o item Armadura_de_Malha(M) [1123] [43 3 2 20 3 20]. STR: 8. INT: 4. DEX: 7. CON: 6
+16:50:20 : [SkyDrive] - [Mensagem do servidor]> Chegou um item: [ Armadura_de_Malha(M) ]
+16:50:23 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:50:23 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:50:23 : [SkyDrive] - Level UP para level 50. Ev: 1 - 2411x 2103y
+16:50:23 : [SkyDrive] - Item Armadura_de_Malha(M) deletado [1123] [43 3 2 20 3 20]. Slot 9
+16:50:23 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:50:23 : [SkyDrive] - Level UP para level 51. Ev: 1 - 2411x 2103y
+16:50:24 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:50:24 : [SkyDrive] - Level UP para level 52. Ev: 1 - 2411x 2103y
+16:50:25 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:50:25 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:50:25 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2411x 2103y - Esqueleto (1/4)
+16:50:26 : [SkyDrive] - Item Emblema_Orc deletado [524] [0 0 0 0 0 0]. Slot 5
+16:50:27 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:50:27 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+16:50:27 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:50:27 : [SkyDrive] - Level UP para level 53. Ev: 1 - 2412x 2104y
+16:50:28 : [SkyDrive] - Item Classe_A deletado [4016] [61 5 0 0 0 0]. Slot 10
+16:50:29 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:50:29 : [SkyDrive] - Level UP para level 54. Ev: 1 - 2417x 2104y
+16:50:30 : [SkyDrive] - Moveu item Kit_de_Cura_(20_M.) [682] [61 20 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo INVENTÁRIO slot 0
+16:50:30 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:50:30 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:50:30 : [SkyDrive] - Level UP para level 55. Ev: 1 - 2417x 2104y
+16:50:30 : [SkyDrive] - Moveu item Frango_Assado [3314] [61 2 200 1 0 0] do tipo INVENTÁRIO do slot 7 para tipo INVENTÁRIO slot 1
+16:50:33 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:50:35 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:50:35 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+16:50:35 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2418x 2103y - Esqueleto (1/4)
+16:50:37 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4260
+16:50:37 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:50:39 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4260
+16:50:39 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2420x 2098y - Esqueleto (1/4)
+16:50:39 : [SkyDrive] - Dropado item Peitoral_de_Metal(M) [1600] [43 1 71 50 2 18] em 2420x 2098y - Esqueleto (1/300)
+16:50:41 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4260
+16:50:41 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+16:50:44 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:50:44 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:50:44 : [SkyDrive] - Level UP para level 56. Ev: 1 - 2415x 2103y
+16:50:46 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:50:46 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2415x 2103y - Esqueleto (1/4)
+16:50:48 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:50:48 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+16:50:48 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2415x 2103y - Esqueleto (1/4)
+16:50:54 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:50:54 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:50:56 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:50:57 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4235
+16:50:57 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+16:50:57 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2410x 2104y - Aparicao (1/1)
+16:51:00 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4236
+16:51:00 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:51:00 : [SkyDrive] - Level UP para level 57. Ev: 1 - 2405x 2109y
+16:51:00 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2109y - Aparicao (1/1)
+16:51:02 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4236
+16:51:02 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+16:51:02 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2109y - Aparicao (1/1)
+16:51:16 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4237
+16:51:16 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:51:18 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4237
+16:51:19 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4237
+16:51:19 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+16:51:19 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2101y - Aparicao (1/1)
+16:51:22 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:51:22 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:51:22 : [SkyDrive] - Level UP para level 58. Ev: 1 - 2407x 2104y
+16:51:22 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2407x 2104y - Esqueleto (1/4)
+16:51:24 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:51:26 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4235
+16:51:26 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+16:51:26 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2407x 2104y - Aparicao (1/1)
+16:51:28 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:51:28 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:51:30 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:51:32 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:51:32 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+16:51:35 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:51:37 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:51:37 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:51:37 : [SkyDrive] - Level UP para level 59. Ev: 1 - 2419x 2105y
+16:51:39 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:51:39 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2419x 2105y - Esqueleto (1/4)
+16:51:43 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:51:43 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+16:51:45 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:51:45 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:51:47 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:51:56 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:51:56 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+16:51:56 : [SkyDrive] - Dropado item Luvas_Sombrias(M) [1297] [43 0 72 20 54 15] em 2414x 2102y - Esqueleto (1/300)
+16:51:58 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:51:59 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:51:59 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:51:59 : [SkyDrive] - Level UP para level 60. Ev: 1 - 2414x 2102y
+16:51:59 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2414x 2102y - Esqueleto (1/4)
+16:52:02 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:52:02 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2409x 2104y - Esqueleto (1/4)
+16:52:04 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:52:04 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+16:52:04 : [SkyDrive] - Dropado item Luvas_Sombrias(M) [1297] [43 0 72 15 60 4] em 2409x 2104y - Esqueleto (1/300)
+16:52:06 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4235
+16:52:06 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2409x 2104y - Aparicao (1/1)
+16:52:09 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4236
+16:52:09 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:52:09 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2109y - Aparicao (1/1)
+16:52:11 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4236
+16:52:11 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+16:52:11 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2109y - Aparicao (1/1)
+16:52:14 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4234
+16:52:14 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:52:14 : [SkyDrive] - Level UP para level 61. Ev: 1 - 2400x 2105y
+16:52:14 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2105y - Aparicao (1/1)
+16:52:16 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4234
+16:52:16 : [SkyDrive] - Dropado item Robe_Sombrio(M) [1273] [43 0 71 40 2 12] em 2400x 2105y - Esqueleto (1/300)
+16:52:18 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4234
+16:52:18 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2105y - Esqueleto (1/4)
+16:52:21 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4234
+16:52:21 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+16:52:22 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4234
+16:52:24 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4234
+16:52:24 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:52:24 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2399x 2104y - Aparicao (1/1)
+16:52:27 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4237
+16:52:27 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+16:52:29 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4237
+16:52:31 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4237
+16:52:31 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:52:31 : [SkyDrive] - Level UP para level 62. Ev: 1 - 2402x 2101y
+16:52:31 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2402x 2101y - Aparicao (1/1)
+16:52:33 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:52:35 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:52:35 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+16:52:35 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2103y - Esqueleto (1/4)
+16:52:37 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4235
+16:52:37 : [SkyDrive] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2405x 2103y - Aparicao (1/1)
+16:52:37 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:52:54 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:52:54 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:52:56 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4237
+16:52:59 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4237
+16:52:59 : [SkyDrive] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2404x 2099y - Esqueleto (1/4)
+16:52:59 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:53:01 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4237
+16:53:01 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+16:53:01 : [SkyDrive] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2404x 2099y - Aparicao (1/1)
+16:53:01 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:53:03 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:53:03 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:53:03 : [SkyDrive] - Level UP para level 63. Ev: 1 - 2404x 2099y
+16:53:08 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4234
+16:53:08 : [SkyDrive] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2400x 2103y - Esqueleto (1/4)
+16:53:08 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:53:09 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4234
+16:53:10 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4234
+16:53:10 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+16:53:10 : [SkyDrive] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2400x 2103y - Aparicao (1/1)
+16:53:10 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:53:15 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4236
+16:53:15 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:53:15 : [SkyDrive] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2402x 2107y - Aparicao (1/1)
+16:53:15 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:53:18 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:53:19 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:53:22 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4235
+16:53:22 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+16:53:22 : [SkyDrive] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2402x 2107y - Aparicao (1/1)
+16:53:22 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:53:25 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4236
+16:53:25 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:53:25 : [SkyDrive] - Level UP para level 64. Ev: 1 - 2403x 2108y
+16:53:25 : [SkyDrive] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2403x 2108y - Aparicao (1/1)
+16:53:25 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:53:32 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4234
+16:53:32 : [SkyDrive] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2400x 2106y - Esqueleto (1/4)
+16:53:32 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:53:34 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4234
+16:53:34 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+16:53:34 : [SkyDrive] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2400x 2106y - Aparicao (1/1)
+16:53:34 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:53:36 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4234
+16:53:39 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4237
+16:53:39 : [SkyDrive] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2403x 2101y - Esqueleto (1/4)
+16:53:39 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:53:41 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4237
+16:53:41 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:53:43 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4237
+16:53:43 : [SkyDrive] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2403x 2101y - Aparicao (1/1)
+16:53:43 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:53:45 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:53:45 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+16:53:47 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:53:47 : [SkyDrive] - Não dropou o item Chapéu_Sombrio(M) por falta de espaço [1261] [43 1 59 0 4 50] em 2405x 2103y - Esqueleto (1/300)
+16:53:47 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:53:49 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4235
+16:53:49 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:53:49 : [SkyDrive] - Level UP para level 65. Ev: 1 - 2405x 2103y
+16:53:49 : [SkyDrive] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2405x 2103y - Aparicao (1/1)
+16:53:49 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:53:52 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:53:54 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:53:57 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:53:57 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+16:53:57 : [SkyDrive] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2411x 2103y - Esqueleto (1/4)
+16:53:57 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:53:59 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:54:10 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:54:10 : [SkyDrive] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2417x 2102y - Esqueleto (1/4)
+16:54:10 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:54:11 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:54:11 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:54:13 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:54:13 : [SkyDrive] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2417x 2102y - Esqueleto (1/4)
+16:54:13 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:54:16 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4260
+16:54:16 : [SkyDrive] - Não dropou o item Manoplas_de_Aço(M) por falta de espaço [1171] [43 1 72 20 2 18] em 2419x 2098y - Esqueleto (1/300)
+16:54:16 : [SkyDrive] - [Mensagem do servidor]> Seu inventário está cheio
+16:54:16 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:16 : [SkyDrive] - Level UP para level 66. Ev: 1 - 2419x 2098y
+16:54:16 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:16 : [SkyDrive] - Level UP para level 67. Ev: 1 - 2419x 2098y
+16:54:17 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:17 : [SkyDrive] - Level UP para level 68. Ev: 1 - 2419x 2098y
+16:54:17 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:17 : [SkyDrive] - Level UP para level 69. Ev: 1 - 2419x 2098y
+16:54:17 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:17 : [SkyDrive] - Level UP para level 70. Ev: 1 - 2419x 2098y
+16:54:17 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:17 : [SkyDrive] - Level UP para level 71. Ev: 1 - 2419x 2098y
+16:54:17 : [SkyDrive] - Foi atualizado o LastUpdate da missão diária para 07/01/2023 16:54:17
+16:54:17 : [SkyDrive] - [Mensagem do servidor]> !Chegou uma nova missão!
+16:54:17 : [SkyDrive] - Recebeu a missão Gremlins Malditos. (1)
+16:54:18 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:18 : [SkyDrive] - Level UP para level 72. Ev: 1 - 2419x 2098y
+16:54:18 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4260
+16:54:18 : [SkyDrive] - Dropado item Resto_de_Lactolerium [420] [59 73 59 100 59 95] em 2419x 2098y - Esqueleto (1/297)
+16:54:18 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:18 : [SkyDrive] - Level UP para level 73. Ev: 1 - 2419x 2098y
+16:54:18 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:18 : [SkyDrive] - Level UP para level 74. Ev: 1 - 2419x 2098y
+16:54:18 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:18 : [SkyDrive] - Level UP para level 75. Ev: 1 - 2419x 2098y
+16:54:20 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4260
+16:54:21 : [SkyDrive] - Item Luvas_Sombrias(M) deletado [1297] [43 0 72 20 54 15]. Slot 14
+16:54:22 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:22 : [SkyDrive] - Level UP para level 76. Ev: 1 - 2414x 2103y
+16:54:22 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:54:22 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2414x 2103y - Esqueleto (1/4)
+16:54:23 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:23 : [SkyDrive] - Level UP para level 77. Ev: 1 - 2414x 2103y
+16:54:23 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:23 : [SkyDrive] - Level UP para level 78. Ev: 1 - 2414x 2103y
+16:54:23 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:23 : [SkyDrive] - Level UP para level 79. Ev: 1 - 2414x 2103y
+16:54:24 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:24 : [SkyDrive] - Level UP para level 80. Ev: 1 - 2414x 2103y
+16:54:25 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:54:26 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:26 : [SkyDrive] - Level UP para level 81. Ev: 1 - 2414x 2103y
+16:54:26 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:26 : [SkyDrive] - Level UP para level 82. Ev: 1 - 2414x 2103y
+16:54:27 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:54:27 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:54:27 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:27 : [SkyDrive] - Level UP para level 83. Ev: 1 - 2414x 2103y
+16:54:27 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:27 : [SkyDrive] - Level UP para level 84. Ev: 1 - 2414x 2103y
+16:54:27 : [SkyDrive] - Recebeu o item Manoplas_Douradas(M) [1186] [43 3 2 20 53 3]. STR: 8. INT: 4. DEX: 7. CON: 6
+16:54:27 : [SkyDrive] - [Mensagem do servidor]> Chegou um item: [ Manoplas_Douradas(M) ]
+16:54:29 : [SkyDrive] - Item Luvas_Sombrias(M) deletado [1297] [43 0 72 15 60 4]. Slot 20
+16:54:29 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:54:29 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2409x 2105y - Esqueleto (1/4)
+16:54:30 : [SkyDrive] - Item Robe_Sombrio(M) deletado [1273] [43 0 71 40 2 12]. Slot 25
+16:54:31 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:31 : [SkyDrive] - Level UP para level 85. Ev: 1 - 2409x 2105y
+16:54:31 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4235
+16:54:31 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+16:54:31 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2409x 2105y - Aparicao (1/1)
+16:54:33 : [SkyDrive] - Item Resto_de_Lactolerium deletado [420] [59 73 59 100 59 95]. Slot 5
+16:54:34 : [SkyDrive] - Item Manoplas_Douradas(M) deletado [1186] [43 3 2 20 53 3]. Slot 3
+16:54:34 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4236
+16:54:34 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2109y - Aparicao (1/1)
+16:54:35 : [SkyDrive] - Item Peitoral_de_Metal(M) deletado [1600] [43 1 71 50 2 18]. Slot 4
+16:54:36 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:54:36 : [SkyDrive] - Level UP para level 86. Ev: 1 - 2405x 2109y
+16:54:37 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4236
+16:54:37 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2109y - Aparicao (1/1)
+16:54:39 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:54:51 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4234
+16:54:51 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2399x 2106y - Aparicao (1/1)
+16:54:53 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4234
+16:54:55 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4234
+16:54:57 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4237
+16:54:59 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4237
+16:54:59 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:54:59 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2402x 2102y - Esqueleto (1/4)
+16:55:01 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:55:04 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:55:06 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4235
+16:55:06 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2402x 2102y - Aparicao (1/1)
+16:55:08 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4237
+16:55:08 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2402x 2102y - Aparicao (1/1)
+16:55:08 : [SkyDrive] - Dropado item Resto_de_Oriharucon [419] [59 58 59 44 59 5] em 2402x 2102y - Aparicao (1/225)
+16:55:10 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:55:10 : [SkyDrive] - Level UP para level 87. Ev: 1 - 2402x 2102y
+16:55:11 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:55:11 : [SkyDrive] - Level UP para level 88. Ev: 1 - 2402x 2102y
+16:55:13 : [SkyDrive] - Moveu item Resto_de_Oriharucon [419] [59 58 59 44 59 5] do tipo INVENTÁRIO do slot 7 para tipo INVENTÁRIO slot 2
+16:55:17 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4238
+16:55:17 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2390x 2105y - Esqueleto (1/4)
+16:55:17 : [SkyDrive] - Dropado item Calça_Sombria(M) [1285] [8 12 71 60 60 6] em 2390x 2105y - Esqueleto (1/300)
+16:55:19 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4238
+16:55:21 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4238
+16:55:21 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:55:21 : [SkyDrive] - Level UP para level 89. Ev: 1 - 2390x 2105y
+16:55:21 : [SkyDrive] - Recebeu o item Botas_Douradas(M) [1189] [43 3 73 18 74 12]. STR: 8. INT: 4. DEX: 7. CON: 6
+16:55:21 : [SkyDrive] - [Mensagem do servidor]> Chegou um item: [ Botas_Douradas(M) ]
+16:55:24 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4234
+16:55:26 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4234
+16:55:29 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4234
+16:55:29 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2396x 2104y - Aparicao (1/1)
+16:55:31 : [SkyDrive] - Item Calça_Sombria(M) deletado [1285] [8 12 71 60 60 6]. Slot 4
+16:55:32 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:55:32 : [SkyDrive] - Moveu item Botas_Douradas(M) [1189] [43 3 73 18 74 12] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 3
+16:55:34 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+16:55:36 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4235
+16:55:36 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:55:36 : [SkyDrive] - Level UP para level 90. Ev: 1 - 2406x 2104y
+16:55:36 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2406x 2104y - Aparicao (1/1)
+16:55:39 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:55:41 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:55:43 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4256
+16:55:47 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:55:50 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:55:51 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:55:51 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2417x 2104y - Esqueleto (1/4)
+16:55:54 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4260
+16:55:54 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2420x 2099y - Esqueleto (1/4)
+16:55:56 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4260
+16:55:58 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4260
+16:56:00 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:56:00 : [SkyDrive] - Level UP para level 91. Ev: 1 - 2419x 2100y
+16:56:00 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:56:02 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:56:02 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2419x 2100y - Esqueleto (1/4)
+16:56:04 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4255
+16:56:04 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:56:04 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2419x 2100y - Esqueleto (1/4)
+16:56:07 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4261
+16:56:07 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2415x 2096y - Esqueleto (1/4)
+16:56:09 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4261
+16:56:09 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2415x 2096y - Esqueleto (1/4)
+16:56:11 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4261
+16:56:11 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2415x 2096y - Esqueleto (1/4)
+16:56:13 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4262
+16:56:13 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2411x 2091y - Esqueleto (1/4)
+16:56:15 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4262
+16:56:17 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4262
+16:56:17 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2411x 2091y - Esqueleto (1/4)
+16:56:20 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4263
+16:56:20 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2416x 2089y - Aparicao (1/1)
+16:56:23 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4263
+16:56:23 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2416x 2089y - Aparicao (1/1)
+16:56:26 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4263
+16:56:26 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2416x 2089y - Aparicao (1/1)
+16:56:28 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4263
+16:56:28 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+16:56:28 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2416x 2089y - Aparicao (1/1)
+16:56:31 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4258
+16:56:35 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4264
+16:56:35 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2413x 2086y - Aparicao (1/1)
+16:56:36 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4264
+16:56:36 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2413x 2086y - Aparicao (1/1)
+16:56:38 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4259
+16:56:40 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4259
+16:56:40 : [SkyDrive] - Dropado item Chapéu_de_Metal(M) [1597] [43 1 59 0 3 15] em 2413x 2086y - Esqueleto (1/300)
+16:56:47 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4262
+16:56:49 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4262
+16:56:52 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4262
+16:56:52 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2413x 2086y - Esqueleto (1/4)
+16:56:53 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4259
+16:56:55 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4259
+16:56:55 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:56:55 : [SkyDrive] - Level UP para level 92. Ev: 1 - 2413x 2086y
+16:56:57 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4259
+16:57:07 : [SkyDrive] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3289. Posição do usuário: 2380x 2106y. Posição do NPC: 2369x 2105y
+16:57:08 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4233
+16:57:08 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2380x 2104y - Aparicao (1/1)
+16:57:10 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4233
+16:57:12 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:57:12 : [SkyDrive] - Level UP para level 93. Ev: 1 - 2380x 2104y
+16:57:13 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4233
+16:57:13 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2380x 2104y - Esqueleto (1/4)
+16:57:13 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:57:13 : [SkyDrive] - Level UP para level 94. Ev: 1 - 2380x 2104y
+16:57:13 : [SkyDrive] - Recebeu o item Elmo_Dourado(M) [1177] [43 3 4 20 0 0]. STR: 8. INT: 4. DEX: 313. CON: 6
+16:57:13 : [SkyDrive] - [Mensagem do servidor]> Chegou um item: [ Elmo_Dourado(M) ]
+16:57:13 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:57:13 : [SkyDrive] - Level UP para level 95. Ev: 1 - 2380x 2104y
+16:57:14 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:57:14 : [SkyDrive] - Level UP para level 96. Ev: 1 - 2380x 2104y
+16:57:15 : [SkyDrive] - Enviado para a cidade através do ClearArea. Posição: 2380x 2104y - Quest Coveiro
+16:57:15 : [SkyDrive] - DoRecall - Enviado para cidade: 2088x 2101y
+16:57:34 : [SkyDrive] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3425. Posição do usuário: 2197x 2104y. Posição do NPC: 2204x 2106y
+16:57:35 : [SkyDrive] - Matou o mob Gremlin. GenerID: 426
+16:58:03 : [SkyDrive] - Matou o mob Javali. GenerID: 602
+16:58:39 : [SkyDrive] - Matou o mob Rei Gremlin. GenerID: 603
+17:00:28 : [SkyDrive] - Personagem deu personagem
+17:00:31 : Solicitou ir ao mundo...
+17:00:31 : Recebido pedido para entrar no jogo
+17:00:31 : Recebido informação do personagem completa.
+17:00:31 : [SkyDrive] - [INFORMAÇÕES DA CONTA]
+Personagem online: SkyDrive
+Gold atual: 324000
+Level atual: 96
+Experiência atual: 6969779
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:22:08 horas
+Posição atual: 2098x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 1 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Katana[939] [43 9 2 18 59 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+[14] - Urso_Zumbi(3dias)[3998] [106 10 110 1 109 23]
+
+[INVENTÁRIO]
+[00] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[01] - Frango_Assado[3314] [61 2 200 1 0 0]
+[02] - Resto_de_Oriharucon[419] [59 58 59 44 59 5]
+[03] - Botas_Douradas(M)[1189] [43 3 73 18 74 12]
+[08] - Elmo_Dourado(M)[1177] [43 3 4 20 0 0]
+[15] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[16] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[17] - Chapéu_de_Metal(M)[1597] [43 1 59 0 3 15]
+[18] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[19] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:00:31 : [SkyDrive] - Personagem SkyDrive enviado ao mundo 2098x 2095y - Canal 1 - Cash da conta: 0. OverPower: 727
+17:00:31 : [SkyDrive] - Gold atual: 324000. Classe: 0 Evolução: 1. Experiência: 6969779. Nível: 96. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:00:31 : [SkyDrive] - Logou no personagem SkyDrive com frango ativo. Tempo: 1640
+17:00:31 : [SkyDrive] - [Mensagem do servidor]> A guild [] derrotou Kefra
+17:00:31 : [SkyDrive] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+17:00:31 : [SkyDrive] - Enviado informações do personagem
+17:00:32 : [SkyDrive] - Comando "/day "
+17:00:32 : [SkyDrive] - [Mensagem do servidor]> !#11 2
+17:00:42 : [SkyDrive] - O usuário não enviou o pacote de integridade de macaddress
+17:05:04 : [SkyDrive] - Teleportado para a posição 1047 1726
+17:05:04 : [SkyDrive] - Solicitado teleporte na posição 2118x 2103y e teleportado para 1047x 1726y
+17:05:10 : [SkyDrive] - [Mensagem do servidor]> Somente às 22:00hrs de segunda à sábado.
+17:05:41 : [SkyDrive] - Matou o mob Tauron. GenerID: 3991
+17:05:41 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+17:05:41 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+17:05:41 : [SkyDrive] - Level UP para level 97. Ev: 1 - 1164x 1726y
+17:05:57 : [SkyDrive] - Matou o mob Tauron Bandido. GenerID: 3990
+17:05:57 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+17:05:57 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+17:05:57 : [SkyDrive] - Level UP para level 98. Ev: 1 - 1164x 1726y
+17:06:21 : [SkyDrive] - Matou o mob Tauron. GenerID: 3991
+17:06:21 : [SkyDrive] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+17:08:10 : [SkyDrive] - Matou o mob Tauron. GenerID: 3991
+17:08:10 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+17:08:10 : [SkyDrive] - Level UP para level 99. Ev: 1 - 1164x 1726y
+17:08:10 : [SkyDrive] - Recebeu o item Calça_Dourada(M) [1183] [43 3 2 20 3 20]. STR: 8. INT: 4. DEX: 313. CON: 6
+17:08:10 : [SkyDrive] - [Mensagem do servidor]> Chegou um item: [ Calça_Dourada(M) ]
+17:17:00 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 127.0.0.1 Mac: (F8:AC:68:4B:44:4F). ClientId: 1
+17:17:00 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+17:17:00 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:17:00 : A próxima missão acontecerá em aproximadamente 34 minutos
+17:17:00 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:17:05 : Solicitou ir ao mundo...
+17:17:05 : Recebido pedido para entrar no jogo
+17:17:05 : Recebido informação do personagem completa.
+17:17:05 : [SkyDrive] - [INFORMAÇÕES DA CONTA]
+Personagem online: SkyDrive
+Gold atual: 326167
+Level atual: 99
+Experiência atual: 7960019
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2090x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 1 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Katana[939] [43 9 2 18 59 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+[14] - Urso_Zumbi(3dias)[3998] [106 10 110 1 109 23]
+
+[INVENTÁRIO]
+[00] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[01] - Frango_Assado[3314] [61 2 200 1 0 0]
+[02] - Resto_de_Oriharucon[419] [59 58 59 44 59 5]
+[03] - Botas_Douradas(M)[1189] [43 3 73 18 74 12]
+[04] - Calça_Dourada(M)[1183] [43 3 2 20 3 20]
+[08] - Elmo_Dourado(M)[1177] [43 3 4 20 0 0]
+[15] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[16] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[17] - Chapéu_de_Metal(M)[1597] [43 1 59 0 3 15]
+[18] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[19] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:17:05 : [SkyDrive] - Personagem SkyDrive enviado ao mundo 2090x 2094y - Canal 1 - Cash da conta: 0. OverPower: 733
+17:17:05 : [SkyDrive] - Gold atual: 326167. Classe: 0 Evolução: 1. Experiência: 7960019. Nível: 99. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:17:05 : [SkyDrive] - Logou no personagem SkyDrive com frango ativo. Tempo: 1549
+17:17:05 : [SkyDrive] - [Mensagem do servidor]> A guild [] derrotou Kefra
+17:17:05 : [SkyDrive] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+17:17:05 : [SkyDrive] - Enviado informações do personagem
+17:17:06 : [SkyDrive] - Comando "/day "
+17:17:06 : [SkyDrive] - [Mensagem do servidor]> !#11 2
+17:17:13 : [SkyDrive] - O usuário não enviou o pacote de integridade de macaddress
+17:18:25 : [SkyDrive] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+17:18:37 : [SkyDrive] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+17:19:41 : [SkyDrive] - Teleportado para a posição 1047 1725
+17:19:41 : [SkyDrive] - Solicitado teleporte na posição 2116x 2102y e teleportado para 1047x 1725y
+17:20:15 : [SkyDrive] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:20:15 : [SkyDrive] - Personagem foi desconectado. Permaneceu 00:03:16 minutos online
+17:23:54 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 127.0.0.1 Mac: (F8:AC:68:4B:44:4F). ClientId: 1
+17:23:54 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+17:23:54 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:23:54 : A próxima missão acontecerá em aproximadamente 25 minutos
+17:23:54 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:23:59 : Solicitou ir ao mundo...
+17:23:59 : Recebido pedido para entrar no jogo
+17:23:59 : Recebido informação do personagem completa.
+17:23:59 : [SkyDrive] - [INFORMAÇÕES DA CONTA]
+Personagem online: SkyDrive
+Gold atual: 325467
+Level atual: 99
+Experiência atual: 7960019
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2090x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 1 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Katana[939] [43 9 2 18 59 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+[14] - Urso_Zumbi(3dias)[3998] [106 10 110 1 109 23]
+
+[INVENTÁRIO]
+[00] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[01] - Frango_Assado[3314] [61 2 200 1 0 0]
+[02] - Resto_de_Oriharucon[419] [59 58 59 44 59 5]
+[03] - Botas_Douradas(M)[1189] [43 3 73 18 74 12]
+[04] - Calça_Dourada(M)[1183] [43 3 2 20 3 20]
+[08] - Elmo_Dourado(M)[1177] [43 3 4 20 0 0]
+[15] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[16] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[17] - Chapéu_de_Metal(M)[1597] [43 1 59 0 3 15]
+[18] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[19] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:23:59 : [SkyDrive] - Personagem SkyDrive enviado ao mundo 2090x 2103y - Canal 1 - Cash da conta: 0. OverPower: 733
+17:23:59 : [SkyDrive] - Gold atual: 325467. Classe: 0 Evolução: 1. Experiência: 7960019. Nível: 99. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:23:59 : [SkyDrive] - Logou no personagem SkyDrive com frango ativo. Tempo: 1525
+17:23:59 : [SkyDrive] - [Mensagem do servidor]> A guild [] derrotou Kefra
+17:23:59 : [SkyDrive] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+17:23:59 : [SkyDrive] - Enviado informações do personagem
+17:24:00 : [SkyDrive] - Comando "/day "
+17:24:00 : [SkyDrive] - [Mensagem do servidor]> !#11 2
+17:24:13 : [SkyDrive] - O usuário não enviou o pacote de integridade de macaddress
+17:24:52 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 127.0.0.1 Mac: (F8:AC:68:4B:44:4F). ClientId: 1
+17:24:54 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+17:24:54 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+17:24:54 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 127.0.0.1 Mac: (F8:AC:68:4B:44:4F). ClientId: 1
+17:24:54 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+17:24:54 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:24:54 : A próxima missão acontecerá em aproximadamente 14 minutos
+17:24:55 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:24:58 : Solicitou ir ao mundo...
+17:24:58 : Recebido pedido para entrar no jogo
+17:24:58 : Recebido informação do personagem completa.
+17:24:58 : [SkyDrive] - [INFORMAÇÕES DA CONTA]
+Personagem online: SkyDrive
+Gold atual: 325467
+Level atual: 99
+Experiência atual: 7960019
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2099x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 1 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Katana[939] [43 9 2 18 59 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+[14] - Urso_Zumbi(3dias)[3998] [106 10 110 1 109 23]
+
+[INVENTÁRIO]
+[00] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[01] - Frango_Assado[3314] [61 2 200 1 0 0]
+[02] - Resto_de_Oriharucon[419] [59 58 59 44 59 5]
+[03] - Botas_Douradas(M)[1189] [43 3 73 18 74 12]
+[04] - Calça_Dourada(M)[1183] [43 3 2 20 3 20]
+[08] - Elmo_Dourado(M)[1177] [43 3 4 20 0 0]
+[15] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[16] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[17] - Chapéu_de_Metal(M)[1597] [43 1 59 0 3 15]
+[18] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[19] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:24:58 : [SkyDrive] - Personagem SkyDrive enviado ao mundo 2099x 2105y - Canal 1 - Cash da conta: 0. OverPower: 733
+17:24:58 : [SkyDrive] - Gold atual: 325467. Classe: 0 Evolução: 1. Experiência: 7960019. Nível: 99. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:24:58 : [SkyDrive] - Logou no personagem SkyDrive com frango ativo. Tempo: 1523
+17:24:58 : [SkyDrive] - [Mensagem do servidor]> A guild [] derrotou Kefra
+17:24:58 : [SkyDrive] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+17:24:58 : [SkyDrive] - Enviado informações do personagem
+17:24:59 : [SkyDrive] - Comando "/day "
+17:24:59 : [SkyDrive] - [Mensagem do servidor]> !#11 2
+17:25:05 : [SkyDrive] - O usuário não enviou o pacote de integridade de macaddress
+17:26:30 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 127.0.0.1 Mac: (F8:AC:68:4B:44:4F). ClientId: 1
+17:26:33 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+17:26:33 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+17:26:33 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 127.0.0.1 Mac: (F8:AC:68:4B:44:4F). ClientId: 1
+17:26:33 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+17:26:33 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:26:33 : A próxima missão acontecerá em aproximadamente 30 minutos
+17:26:34 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:26:38 : Solicitou ir ao mundo...
+17:26:38 : Recebido pedido para entrar no jogo
+17:26:38 : Recebido informação do personagem completa.
+17:26:38 : [SkyDrive] - [INFORMAÇÕES DA CONTA]
+Personagem online: SkyDrive
+Gold atual: 325467
+Level atual: 99
+Experiência atual: 7960019
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2099x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 1 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Katana[939] [43 9 2 18 59 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+[14] - Urso_Zumbi(3dias)[3998] [106 10 110 1 109 23]
+
+[INVENTÁRIO]
+[00] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[01] - Frango_Assado[3314] [61 2 200 1 0 0]
+[02] - Resto_de_Oriharucon[419] [59 58 59 44 59 5]
+[03] - Botas_Douradas(M)[1189] [43 3 73 18 74 12]
+[04] - Calça_Dourada(M)[1183] [43 3 2 20 3 20]
+[08] - Elmo_Dourado(M)[1177] [43 3 4 20 0 0]
+[15] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[16] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[17] - Chapéu_de_Metal(M)[1597] [43 1 59 0 3 15]
+[18] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[19] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:26:38 : [SkyDrive] - Personagem SkyDrive enviado ao mundo 2099x 2105y - Canal 1 - Cash da conta: 0. OverPower: 733
+17:26:38 : [SkyDrive] - Gold atual: 325467. Classe: 0 Evolução: 1. Experiência: 7960019. Nível: 99. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:26:38 : [SkyDrive] - Logou no personagem SkyDrive com frango ativo. Tempo: 1518
+17:26:38 : [SkyDrive] - [Mensagem do servidor]> A guild [] derrotou Kefra
+17:26:38 : [SkyDrive] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+17:26:38 : [SkyDrive] - Enviado informações do personagem
+17:26:39 : [SkyDrive] - Comando "/day "
+17:26:39 : [SkyDrive] - [Mensagem do servidor]> !#11 2
+17:26:54 : [SkyDrive] - Clicado no NPC [Perzen Mistico]. Face 11. Race: 8. GenerateId: 3277. Posição do usuário: 2137x 2083y. Posição do NPC: 2133x 2084y
+17:26:54 : [SkyDrive] - O usuário não enviou o pacote de integridade de macaddress
+17:27:54 : [SkyDrive] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+17:28:06 : [SkyDrive] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+17:33:16 : [SkyDrive] - Clicado no NPC de Imposto
+17:33:17 : [SkyDrive] - Clicado no NPC de Imposto
+17:33:22 : [SkyDrive] - Clicado no NPC [Odin]. Face 51. Race: 8. GenerateId: 4772. Posição do usuário: 2114x 2146y. Posição do NPC: 2122x 2149y
+17:33:25 : [SkyDrive] - Clicado no NPC [Odin]. Face 51. Race: 8. GenerateId: 4772. Posição do usuário: 2121x 2146y. Posição do NPC: 2122x 2149y
+17:33:28 : [SkyDrive] - Clicado no NPC [ArenaStore]. Face 66. Race: 10. GenerateId: 4774. Posição do usuário: 2117x 2144y. Posição do NPC: 2122x 2141y
+17:33:28 : [SkyDrive] - Teleportado para a posição 2242 1577
+17:33:31 : [SkyDrive] - Matou o mob Taurus Maligno . GenerID: 3356
+17:33:33 : [SkyDrive] - Matou o mob Taurus Maligno . GenerID: 3358
+17:33:36 : [SkyDrive] - Matou o mob Taurus Maligno. GenerID: 3354
+17:33:39 : [SkyDrive] - Matou o mob Taurus Maligno. GenerID: 3359
+17:33:42 : [SkyDrive] - Matou o mob Taurus Maligno . GenerID: 3353
+17:33:45 : [SkyDrive] - Matou o mob Taurus Maligno. GenerID: 3360
+17:33:49 : [SkyDrive] - Matou o mob Taurus Maligno . GenerID: 3352
+17:33:53 : [SkyDrive] - Matou o mob Taurus Maligno . GenerID: 3358
+17:33:53 : [SkyDrive] - Dropado item Emblema_da_Aprendizagem [4080] [0 0 0 0 0 0] em 2240x 1572y - Taurus Maligno  (1/100)
+17:33:56 : [SkyDrive] - Clicado no NPC [Chefe Treino]. Face 1. Race: 8. GenerateId: 3411. Posição do usuário: 2238x 1571y. Posição do NPC: 2234x 1566y
+17:33:57 : [SkyDrive] - Clicado no NPC [Chefe Treino]. Face 1. Race: 8. GenerateId: 3411. Posição do usuário: 2234x 1567y. Posição do NPC: 2234x 1566y
+17:34:06 : [SkyDrive] - Clicado no NPC [Chefe Treino]. Face 1. Race: 8. GenerateId: 3411. Posição do usuário: 2234x 1567y. Posição do NPC: 2234x 1566y
+17:34:12 : [SkyDrive] - Matou o mob Taurus Maligno. GenerID: 3357
+17:34:16 : [SkyDrive] - Matou o mob Taurus Maligno. GenerID: 3354
+17:34:19 : [SkyDrive] - Matou o mob Taurus Maligno. GenerID: 3359
+17:34:33 : [SkyDrive] - Personagem deu personagem
+17:34:39 : Solicitou ir ao mundo...
+17:34:39 : Recebido pedido para entrar no jogo
+17:34:39 : Recebido informação do personagem completa.
+17:34:39 : [SkyDrive] - [INFORMAÇÕES DA CONTA]
+Personagem online: SkyDrive
+Gold atual: 325467
+Level atual: 99
+Experiência atual: 7988487
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:08:03 horas
+Posição atual: 2096x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 1 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Katana[939] [43 9 2 18 59 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+[14] - Urso_Zumbi(3dias)[3998] [106 10 110 1 109 23]
+
+[INVENTÁRIO]
+[00] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[01] - Frango_Assado[3314] [61 2 200 1 0 0]
+[02] - Resto_de_Oriharucon[419] [59 58 59 44 59 5]
+[03] - Botas_Douradas(M)[1189] [43 3 73 18 74 12]
+[04] - Calça_Dourada(M)[1183] [43 3 2 20 3 20]
+[05] - Emblema_da_Aprendizagem[4080] [0 0 0 0 0 0]
+[08] - Elmo_Dourado(M)[1177] [43 3 4 20 0 0]
+[15] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[16] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[17] - Chapéu_de_Metal(M)[1597] [43 1 59 0 3 15]
+[18] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[19] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:34:39 : [SkyDrive] - Personagem SkyDrive enviado ao mundo 2096x 2106y - Canal 1 - Cash da conta: 0. OverPower: 733
+17:34:39 : [SkyDrive] - Gold atual: 325467. Classe: 0 Evolução: 1. Experiência: 7988487. Nível: 99. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:34:39 : [SkyDrive] - Logou no personagem SkyDrive com frango ativo. Tempo: 1459
+17:34:39 : [SkyDrive] - [Mensagem do servidor]> A guild [] derrotou Kefra
+17:34:39 : [SkyDrive] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+17:34:39 : [SkyDrive] - Enviado informações do personagem
+17:34:40 : [SkyDrive] - Comando "/day "
+17:34:40 : [SkyDrive] - [Mensagem do servidor]> !#11 2
+17:34:54 : [SkyDrive] - O usuário não enviou o pacote de integridade de macaddress
+17:40:21 : [SkyDrive] - Matou o mob Gremlin . GenerID: 440
+17:40:25 : [SkyDrive] - Matou o mob Gremlin. GenerID: 433
+17:40:28 : [SkyDrive] - Matou o mob Gremlin. GenerID: 441
+17:40:29 : [SkyDrive] - Matou o mob Gremlin. GenerID: 442
+17:40:58 : [SkyDrive] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3289. Posição do usuário: 2370x 2105y. Posição do NPC: 2369x 2105y
+17:41:00 : [SkyDrive] - Clicado no NPC [Coveiro]. Face 58. Race: 8. GenerateId: 3282. Posição do usuário: 2373x 2100y. Posição do NPC: 2372x 2097y
+17:41:00 : [SkyDrive] - Teleportado para a posição 2397 2105
+17:41:00 : [SkyDrive] - SkyDrive entrou na quest [Coveiro].
+17:41:02 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4234
+17:41:04 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4234
+17:41:04 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2397x 2105y - Aparicao (1/1)
+17:41:06 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4234
+17:41:09 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4236
+17:41:09 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2401x 2109y - Aparicao (1/1)
+17:41:10 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+17:41:10 : [SkyDrive] - Level UP para level 100. Ev: 1 - 2401x 2109y
+17:41:11 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4236
+17:41:11 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2401x 2109y - Aparicao (1/1)
+17:41:14 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+17:41:15 : [SkyDrive] - Moveu item Emblema_da_Aprendizagem [4080] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 13
+17:41:16 : [SkyDrive] - Matou o mob Esqueleto. GenerID: 4235
+17:41:19 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4235
+17:41:19 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2406x 2106y - Aparicao (1/1)
+17:41:22 : [SkyDrive] - Matou o mob Aparicao. GenerID: 4236
+17:41:22 : [SkyDrive] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2108y - Aparicao (1/1)
+17:41:24 : [SkyDrive] - [Mensagem do servidor]> + + + LEVEL UP + + +
+17:41:24 : [SkyDrive] - Level UP para level 101. Ev: 1 - 2404x 2108y
+17:41:31 : [SkyDrive] - Personagem deu personagem
+17:41:35 : Solicitou ir ao mundo...
+17:41:35 : Recebido pedido para entrar no jogo
+17:41:35 : Recebido informação do personagem completa.
+17:41:35 : [SkyDrive] - [INFORMAÇÕES DA CONTA]
+Personagem online: SkyDrive
+Gold atual: 355467
+Level atual: 101
+Experiência atual: 8545987
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:14:58 horas
+Posição atual: 2096x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 1 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Katana[939] [43 9 2 18 59 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+[13] - Emblema_da_Aprendizagem[4080] [0 0 0 0 0 0]
+[14] - Urso_Zumbi(3dias)[3998] [106 10 110 1 109 23]
+
+[INVENTÁRIO]
+[00] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[01] - Frango_Assado[3314] [61 2 200 1 0 0]
+[02] - Resto_de_Oriharucon[419] [59 58 59 44 59 5]
+[03] - Botas_Douradas(M)[1189] [43 3 73 18 74 12]
+[04] - Calça_Dourada(M)[1183] [43 3 2 20 3 20]
+[08] - Elmo_Dourado(M)[1177] [43 3 4 20 0 0]
+[15] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[16] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[17] - Chapéu_de_Metal(M)[1597] [43 1 59 0 3 15]
+[18] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[19] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:41:35 : [SkyDrive] - Personagem SkyDrive enviado ao mundo 2096x 2103y - Canal 1 - Cash da conta: 0. OverPower: 737
+17:41:35 : [SkyDrive] - Gold atual: 355467. Classe: 0 Evolução: 1. Experiência: 8545987. Nível: 101. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:41:35 : [SkyDrive] - Logou no personagem SkyDrive com frango ativo. Tempo: 1407
+17:41:35 : [SkyDrive] - [Mensagem do servidor]> A guild [] derrotou Kefra
+17:41:35 : [SkyDrive] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+17:41:35 : [SkyDrive] - Enviado informações do personagem
+17:41:36 : [SkyDrive] - Comando "/day "
+17:41:36 : [SkyDrive] - [Mensagem do servidor]> !#11 2
+17:41:42 : [SkyDrive] - O usuário não enviou o pacote de integridade de macaddress
+17:41:45 : [SkyDrive] - Clicado no NPC [ArenaStore]. Face 66. Race: 10. GenerateId: 4774. Posição do usuário: 2121x 2140y. Posição do NPC: 2122x 2141y
+17:41:45 : [SkyDrive] - Teleportado para a posição 2242 1577
+17:41:47 : [SkyDrive] - Matou o mob Taurus Maligno . GenerID: 3356
+17:41:49 : [SkyDrive] - Clicado no NPC [Chefe Treino]. Face 1. Race: 8. GenerateId: 3411. Posição do usuário: 2239x 1573y. Posição do NPC: 2234x 1566y
+17:41:49 : [SkyDrive] - SkyDrive finalizou a quest da capa verde.
+17:41:53 : [SkyDrive] - Matou o mob Taurus Maligno. GenerID: 3354
+17:41:56 : [SkyDrive] - Matou o mob Taurus Maligno. GenerID: 3359
+17:45:27 : [SkyDrive] - Matou o mob Taurus Maligno . GenerID: 3356
+17:45:30 : [SkyDrive] - Matou o mob Taurus Maligno . GenerID: 3358
+17:45:33 : [SkyDrive] - Matou o mob Taurus Maligno. GenerID: 3359
+17:45:37 : [SkyDrive] - Matou o mob Taurus Maligno. GenerID: 3357
+17:46:26 : [SkyDrive] - Enviado para a cidade através do ClearArea. Posição: 2240x 1574y - Quest Capa Verde
+17:46:26 : [SkyDrive] - DoRecall - Enviado para cidade: 2096x 2100y
+17:58:35 : [SkyDrive] - Item Resto_de_Oriharucon deletado [419] [59 58 59 44 59 5]. Slot 2
+18:11:35 : [SkyDrive] - [INFORMAÇÕES DA CONTA]
+Personagem online: SkyDrive
+Gold atual: 355467
+Level atual: 101
+Experiência atual: 8563767
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:44:51 horas
+Posição atual: 2118x 2118y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 1 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Katana[939] [43 9 2 18 59 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+[14] - Urso_Zumbi(3dias)[3998] [106 10 110 1 109 23]
+[15] - Manto_do_Aprendiz[4006] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[01] - Frango_Assado[3314] [61 2 200 1 0 0]
+[03] - Botas_Douradas(M)[1189] [43 3 73 18 74 12]
+[04] - Calça_Dourada(M)[1183] [43 3 2 20 3 20]
+[08] - Elmo_Dourado(M)[1177] [43 3 4 20 0 0]
+[15] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[16] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[17] - Chapéu_de_Metal(M)[1597] [43 1 59 0 3 15]
+[18] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[19] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:41:36 : [SkyDrive] - [INFORMAÇÕES DA CONTA]
+Personagem online: SkyDrive
+Gold atual: 355467
+Level atual: 101
+Experiência atual: 8563767
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 01:14:44 horas
+Posição atual: 2118x 2118y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 1 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Katana[939] [43 9 2 18 59 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+[14] - Urso_Zumbi(3dias)[3998] [106 10 110 1 109 23]
+[15] - Manto_do_Aprendiz[4006] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[01] - Frango_Assado[3314] [61 2 200 1 0 0]
+[03] - Botas_Douradas(M)[1189] [43 3 73 18 74 12]
+[04] - Calça_Dourada(M)[1183] [43 3 2 20 3 20]
+[08] - Elmo_Dourado(M)[1177] [43 3 4 20 0 0]
+[15] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[16] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[17] - Chapéu_de_Metal(M)[1597] [43 1 59 0 3 15]
+[18] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[19] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:56:23 : [SkyDrive] - [Mensagem do servidor]: Boss Dark_Shadow renasceu
+19:11:37 : [SkyDrive] - [INFORMAÇÕES DA CONTA]
+Personagem online: SkyDrive
+Gold atual: 355467
+Level atual: 101
+Experiência atual: 8563767
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 01:44:38 horas
+Posição atual: 2110x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 1 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Katana[939] [43 9 2 18 59 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+[14] - Urso_Zumbi(3dias)[3998] [106 10 110 1 109 23]
+[15] - Manto_do_Aprendiz[4006] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[01] - Frango_Assado[3314] [61 2 200 1 0 0]
+[03] - Botas_Douradas(M)[1189] [43 3 73 18 74 12]
+[04] - Calça_Dourada(M)[1183] [43 3 2 20 3 20]
+[08] - Elmo_Dourado(M)[1177] [43 3 4 20 0 0]
+[15] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[16] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[17] - Chapéu_de_Metal(M)[1597] [43 1 59 0 3 15]
+[18] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[19] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:41:37 : [SkyDrive] - [INFORMAÇÕES DA CONTA]
+Personagem online: SkyDrive
+Gold atual: 355467
+Level atual: 101
+Experiência atual: 8563767
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 02:14:31 horas
+Posição atual: 2110x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 1 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Katana[939] [43 9 2 18 59 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+[14] - Urso_Zumbi(3dias)[3998] [106 10 110 1 109 23]
+[15] - Manto_do_Aprendiz[4006] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[01] - Frango_Assado[3314] [61 2 200 1 0 0]
+[03] - Botas_Douradas(M)[1189] [43 3 73 18 74 12]
+[04] - Calça_Dourada(M)[1183] [43 3 2 20 3 20]
+[08] - Elmo_Dourado(M)[1177] [43 3 4 20 0 0]
+[15] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[16] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[17] - Chapéu_de_Metal(M)[1597] [43 1 59 0 3 15]
+[18] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[19] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:06:08 : [SkyDrive] - Teleportado para a posição 1046 1726
+20:06:08 : [SkyDrive] - Solicitado teleporte na posição 2117x 2102y e teleportado para 1046x 1726y
+20:06:08 : [SkyDrive] - Comando "/day "
+20:06:08 : [SkyDrive] - [Mensagem do servidor]> !#11 2

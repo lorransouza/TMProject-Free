@@ -1,0 +1,2453 @@
+
+13:37:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:37:23 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+13:37:23 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+13:37:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 2
+13:37:23 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+13:37:23 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+13:37:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:37:23 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:37:23 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+13:37:23 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:37:23 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+13:37:23 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:37:27 : Solicitou ir ao mundo...
+13:37:27 : Recebido pedido para entrar no jogo
+13:37:27 : Recebido informação do personagem completa.
+13:37:27 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192409000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2086x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[13] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 53]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo_do_Corvo[1510] [0 0 0 0 0 0]
+[01] - Unicórnio[2381] [175 254 120 60 0 0]
+[02] - Shire(3dias)[3980] [106 30 0 0 0 0]
+[05] - Pedido_de_Caça(Armia)[3432] [61 98 0 0 0 0]
+[10] - Pedido_de_Caça(Dung)[3433] [61 100 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:37:27 : [28jdi] - Personagem 28jdi enviado ao mundo 2086x 2098y - Canal 2 - Cash da conta: 0. OverPower: 1048
+13:37:27 : [28jdi] - Gold atual: 1192409000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+13:37:27 : [28jdi] - Resetado a contagem de entradas água! Day: 331-332. Total: 0
+13:37:27 : [28jdi] - Enviado informações do personagem
+13:37:28 : [28jdi] - Comando "/day "
+13:37:28 : [28jdi] - [Mensagem do servidor]> !#11 2
+13:37:37 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:37:47 : [28jdi] - Comando "/gm +item 5110"
+13:37:47 : [28jdi] - 28jdi criou o item Ansuz [5110] [0 0 0 0 0 0]
+13:37:49 : [28jdi] - Comando "/gm +item 5111"
+13:37:49 : [28jdi] - 28jdi criou o item Uraz [5111] [0 0 0 0 0 0]
+13:37:50 : [28jdi] - Comando "/gm +item 5112"
+13:37:50 : [28jdi] - 28jdi criou o item Thurisaz [5112] [0 0 0 0 0 0]
+13:37:51 : [28jdi] - Comando "/gm +item 5113"
+13:37:51 : [28jdi] - 28jdi criou o item Fehu [5113] [0 0 0 0 0 0]
+13:37:53 : [28jdi] - Comando "/gm +item 5114"
+13:37:53 : [28jdi] - 28jdi criou o item Raidho [5114] [0 0 0 0 0 0]
+13:37:54 : [28jdi] - Comando "/gm +item 5115"
+13:37:54 : [28jdi] - 28jdi criou o item Kenaz [5115] [0 0 0 0 0 0]
+13:37:55 : [28jdi] - Comando "/gm +item 5116"
+13:37:55 : [28jdi] - 28jdi criou o item Naudhiz [5116] [0 0 0 0 0 0]
+13:38:00 : [28jdi] - Comando "/gm +necromante"
+13:38:07 : [28jdi] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+13:38:07 : [28jdi] - [Mensagem do servidor]> Você invocou o monstro "Tauron"
+13:38:12 : [28jdi] - Comando "/gm +level 1010"
+13:38:15 : [28jdi] - Comando "/gm +set level 1010"
+13:38:23 : [28jdi] - Comando "/gm +set dex 10000"
+13:38:28 : [28jdi] - [Mensagem do servidor]: Mob foi derrotado por 28jdi
+13:38:28 : [28jdi] - Teleportado para a posição 2100 2100
+13:38:28 : [28jdi] - Matou o mob Tauron. GenerID: -1
+13:38:37 : [28jdi] - Comando "/gm +necromante"
+13:38:37 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+13:38:44 : [28jdi] - Comando "/gm +item 5110"
+13:38:44 : [28jdi] - 28jdi criou o item Ansuz [5110] [0 0 0 0 0 0]
+13:38:44 : [28jdi] - Comando "/gm +item 5111"
+13:38:44 : [28jdi] - 28jdi criou o item Uraz [5111] [0 0 0 0 0 0]
+13:38:46 : [28jdi] - Comando "/gm +item 5112"
+13:38:46 : [28jdi] - 28jdi criou o item Thurisaz [5112] [0 0 0 0 0 0]
+13:38:47 : [28jdi] - Comando "/gm +item 5113"
+13:38:47 : [28jdi] - 28jdi criou o item Fehu [5113] [0 0 0 0 0 0]
+13:38:48 : [28jdi] - Comando "/gm +item 5114"
+13:38:48 : [28jdi] - 28jdi criou o item Raidho [5114] [0 0 0 0 0 0]
+13:38:49 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+13:38:49 : [28jdi] - Comando "/gm +item 5115"
+13:38:49 : [28jdi] - 28jdi criou o item Kenaz [5115] [0 0 0 0 0 0]
+13:38:50 : [28jdi] - Comando "/gm +item 5116"
+13:38:50 : [28jdi] - 28jdi criou o item Naudhiz [5116] [0 0 0 0 0 0]
+13:39:00 : [28jdi] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+13:39:00 : [28jdi] - [Mensagem do servidor]> Você invocou o monstro "Tauron"
+13:40:23 : [28jdi] - Comando "/gm +necromante"
+13:40:25 : [28jdi] - Comando "/gm +item 5110"
+13:40:25 : [28jdi] - 28jdi criou o item Ansuz [5110] [0 0 0 0 0 0]
+13:40:27 : [28jdi] - Comando "/gm +item 5111"
+13:40:27 : [28jdi] - 28jdi criou o item Uraz [5111] [0 0 0 0 0 0]
+13:40:28 : [28jdi] - Comando "/gm +item 5112"
+13:40:28 : [28jdi] - 28jdi criou o item Thurisaz [5112] [0 0 0 0 0 0]
+13:40:29 : [28jdi] - Comando "/gm +item 5113"
+13:40:29 : [28jdi] - 28jdi criou o item Fehu [5113] [0 0 0 0 0 0]
+13:40:30 : [28jdi] - Comando "/gm +item 5114"
+13:40:30 : [28jdi] - 28jdi criou o item Raidho [5114] [0 0 0 0 0 0]
+13:40:31 : [28jdi] - Comando "/gm +item 5115"
+13:40:31 : [28jdi] - 28jdi criou o item Kenaz [5115] [0 0 0 0 0 0]
+13:40:32 : [28jdi] - Comando "/gm +item 5116"
+13:40:32 : [28jdi] - 28jdi criou o item Naudhiz [5116] [0 0 0 0 0 0]
+13:40:43 : [28jdi] - Comando "/gm +necromante"
+13:40:52 : [28jdi] - [Mensagem do servidor]> Ocorreu um erro ao invocar o monstro
+13:45:11 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:45:11 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:07:42 minutos online
+13:49:34 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:49:34 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:49:34 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+13:49:35 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:49:56 : Solicitou ir ao mundo...
+13:49:56 : Recebido pedido para entrar no jogo
+13:49:56 : Recebido informação do personagem completa.
+13:49:56 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192409000
+Level atual: 1010
+Experiência atual: 30
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:22 horas
+Posição atual: 2094x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[13] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 46]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo_do_Corvo[1510] [0 0 0 0 0 0]
+[01] - Unicórnio[2381] [175 254 120 60 0 0]
+[02] - Shire(3dias)[3980] [106 30 0 0 0 0]
+[05] - Pedido_de_Caça(Armia)[3432] [61 98 0 0 0 0]
+[10] - Pedido_de_Caça(Dung)[3433] [61 100 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:49:56 : [28jdi] - Personagem 28jdi enviado ao mundo 2094x 2105y - Canal 2 - Cash da conta: 0. OverPower: 2270
+13:49:56 : [28jdi] - Gold atual: 1192409000. Classe: 0 Evolução: 0. Experiência: 30. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+13:49:56 : [28jdi] - Enviado informações do personagem
+13:49:58 : [28jdi] - Comando "/day "
+13:49:58 : [28jdi] - [Mensagem do servidor]> !#11 2
+13:50:11 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:50:37 : [28jdi] - Comando "/gm +necromante"
+13:50:39 : [28jdi] - Comando "/gm +item 5110"
+13:50:39 : [28jdi] - 28jdi criou o item Ansuz [5110] [0 0 0 0 0 0]
+13:50:41 : [28jdi] - Comando "/gm +item 5111"
+13:50:41 : [28jdi] - 28jdi criou o item Uraz [5111] [0 0 0 0 0 0]
+13:50:42 : [28jdi] - Comando "/gm +item 5112"
+13:50:42 : [28jdi] - 28jdi criou o item Thurisaz [5112] [0 0 0 0 0 0]
+13:50:43 : [28jdi] - Comando "/gm +item 5113"
+13:50:43 : [28jdi] - 28jdi criou o item Fehu [5113] [0 0 0 0 0 0]
+13:50:44 : [28jdi] - Comando "/gm +item 5114"
+13:50:44 : [28jdi] - 28jdi criou o item Raidho [5114] [0 0 0 0 0 0]
+13:50:45 : [28jdi] - Comando "/gm +item 5115"
+13:50:45 : [28jdi] - 28jdi criou o item Kenaz [5115] [0 0 0 0 0 0]
+13:50:46 : [28jdi] - Comando "/gm +item 5116"
+13:50:46 : [28jdi] - 28jdi criou o item Naudhiz [5116] [0 0 0 0 0 0]
+13:50:47 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+13:50:55 : [28jdi] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+13:50:55 : [28jdi] - [Mensagem do servidor]> Você invocou o monstro "Tauron"
+13:50:59 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+13:51:02 : [28jdi] - [Mensagem do servidor]: Mob foi derrotado por 28jdi
+13:51:02 : [28jdi] - Teleportado para a posição 2100 2100
+13:51:02 : [28jdi] - Matou o mob Tauron. GenerID: -1
+13:51:14 : [28jdi] - Comando "/gm +necromante"
+13:51:16 : [28jdi] - Comando "/gm +item 5110"
+13:51:16 : [28jdi] - 28jdi criou o item Ansuz [5110] [0 0 0 0 0 0]
+13:51:17 : [28jdi] - Comando "/gm +item 5111"
+13:51:17 : [28jdi] - 28jdi criou o item Uraz [5111] [0 0 0 0 0 0]
+13:51:18 : [28jdi] - Comando "/gm +item 5112"
+13:51:18 : [28jdi] - 28jdi criou o item Thurisaz [5112] [0 0 0 0 0 0]
+13:51:19 : [28jdi] - Comando "/gm +item 5113"
+13:51:19 : [28jdi] - 28jdi criou o item Fehu [5113] [0 0 0 0 0 0]
+13:51:20 : [28jdi] - Comando "/gm +item 5114"
+13:51:20 : [28jdi] - 28jdi criou o item Raidho [5114] [0 0 0 0 0 0]
+13:51:21 : [28jdi] - Comando "/gm +item 5115"
+13:51:21 : [28jdi] - 28jdi criou o item Kenaz [5115] [0 0 0 0 0 0]
+13:51:22 : [28jdi] - Comando "/gm +item 5116"
+13:51:22 : [28jdi] - 28jdi criou o item Naudhiz [5116] [0 0 0 0 0 0]
+13:51:32 : [28jdi] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+13:51:32 : [28jdi] - [Mensagem do servidor]> Você invocou o monstro "Tauron"
+13:51:44 : [28jdi] - Comando "/gm +necromante"
+13:51:45 : [28jdi] - Comando "/gm +item 5110"
+13:51:45 : [28jdi] - 28jdi criou o item Ansuz [5110] [0 0 0 0 0 0]
+13:51:46 : [28jdi] - Comando "/gm +item 5111"
+13:51:46 : [28jdi] - 28jdi criou o item Uraz [5111] [0 0 0 0 0 0]
+13:51:47 : [28jdi] - Comando "/gm +item 5112"
+13:51:47 : [28jdi] - 28jdi criou o item Thurisaz [5112] [0 0 0 0 0 0]
+13:51:49 : [28jdi] - Comando "/gm +item 5113"
+13:51:49 : [28jdi] - 28jdi criou o item Fehu [5113] [0 0 0 0 0 0]
+13:51:50 : [28jdi] - Comando "/gm +item 5114"
+13:51:50 : [28jdi] - 28jdi criou o item Raidho [5114] [0 0 0 0 0 0]
+13:51:51 : [28jdi] - Comando "/gm +item 5115"
+13:51:51 : [28jdi] - 28jdi criou o item Kenaz [5115] [0 0 0 0 0 0]
+13:51:52 : [28jdi] - Comando "/gm +item 5116"
+13:51:52 : [28jdi] - 28jdi criou o item Naudhiz [5116] [0 0 0 0 0 0]
+13:51:59 : [28jdi] - [Mensagem do servidor]> Você invocou o monstro "Tauron"
+13:52:14 : [28jdi] - Comando "/gm +necromante"
+13:52:16 : [28jdi] - Comando "/gm +item 5110"
+13:52:16 : [28jdi] - 28jdi criou o item Ansuz [5110] [0 0 0 0 0 0]
+13:52:17 : [28jdi] - Comando "/gm +item 5111"
+13:52:17 : [28jdi] - 28jdi criou o item Uraz [5111] [0 0 0 0 0 0]
+13:52:18 : [28jdi] - Comando "/gm +item 5112"
+13:52:18 : [28jdi] - 28jdi criou o item Thurisaz [5112] [0 0 0 0 0 0]
+13:52:19 : [28jdi] - Comando "/gm +item 5113"
+13:52:19 : [28jdi] - 28jdi criou o item Fehu [5113] [0 0 0 0 0 0]
+13:52:20 : [28jdi] - Comando "/gm +item 5114"
+13:52:20 : [28jdi] - 28jdi criou o item Raidho [5114] [0 0 0 0 0 0]
+13:52:22 : [28jdi] - Comando "/gm +item 5115"
+13:52:22 : [28jdi] - 28jdi criou o item Kenaz [5115] [0 0 0 0 0 0]
+13:52:22 : [28jdi] - Comando "/gm +item 5116"
+13:52:22 : [28jdi] - 28jdi criou o item Naudhiz [5116] [0 0 0 0 0 0]
+13:52:29 : [28jdi] - [Mensagem do servidor]> Você invocou o monstro "Tauron"
+13:55:33 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:55:39 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+13:55:39 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+13:55:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:55:40 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:55:40 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+13:55:40 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:55:44 : Solicitou ir ao mundo...
+13:55:44 : Recebido pedido para entrar no jogo
+13:55:44 : Recebido informação do personagem completa.
+13:55:44 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2093x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[13] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 42]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo_do_Corvo[1510] [0 0 0 0 0 0]
+[01] - Unicórnio[2381] [175 254 120 60 0 0]
+[02] - Shire(3dias)[3980] [106 30 0 0 0 0]
+[05] - Pedido_de_Caça(Armia)[3432] [61 98 0 0 0 0]
+[10] - Pedido_de_Caça(Dung)[3433] [61 100 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:55:44 : [28jdi] - Personagem 28jdi enviado ao mundo 2093x 2100y - Canal 2 - Cash da conta: 0. OverPower: 2270
+13:55:44 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+13:55:44 : [28jdi] - Enviado informações do personagem
+13:55:45 : [28jdi] - Comando "/day "
+13:55:45 : [28jdi] - [Mensagem do servidor]> !#11 2
+13:55:49 : [28jdi] - Comando "/gm +clearinv"
+13:55:49 : [28jdi] - [Mensagem do servidor]> CLEARINV
+13:55:51 : [28jdi] - Comando "/gm +necromante"
+13:55:53 : [28jdi] - Comando "/gm +item 5110"
+13:55:53 : [28jdi] - 28jdi criou o item Ansuz [5110] [0 0 0 0 0 0]
+13:55:55 : [28jdi] - Comando "/gm +item 5111"
+13:55:55 : [28jdi] - 28jdi criou o item Uraz [5111] [0 0 0 0 0 0]
+13:55:56 : [28jdi] - Comando "/gm +item 5112"
+13:55:56 : [28jdi] - 28jdi criou o item Thurisaz [5112] [0 0 0 0 0 0]
+13:55:57 : [28jdi] - Comando "/gm +item 5113"
+13:55:57 : [28jdi] - 28jdi criou o item Fehu [5113] [0 0 0 0 0 0]
+13:55:58 : [28jdi] - Comando "/gm +item 5114"
+13:55:58 : [28jdi] - 28jdi criou o item Raidho [5114] [0 0 0 0 0 0]
+13:55:59 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:56:01 : [28jdi] - Comando "/gm +item 5115"
+13:56:01 : [28jdi] - 28jdi criou o item Kenaz [5115] [0 0 0 0 0 0]
+13:56:02 : [28jdi] - Comando "/gm +item 5116"
+13:56:02 : [28jdi] - 28jdi criou o item Naudhiz [5116] [0 0 0 0 0 0]
+13:56:13 : [28jdi] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+13:56:13 : [28jdi] - [Mensagem do servidor]> Você invocou o monstro "Tauron"
+13:56:29 : [28jdi] - Comando "/gm +necromante"
+13:56:32 : [28jdi] - Comando "/gm +item 5110"
+13:56:32 : [28jdi] - 28jdi criou o item Ansuz [5110] [0 0 0 0 0 0]
+13:56:32 : [28jdi] - Comando "/gm +item 5111"
+13:56:32 : [28jdi] - 28jdi criou o item Uraz [5111] [0 0 0 0 0 0]
+13:56:34 : [28jdi] - Comando "/gm +item 5112"
+13:56:34 : [28jdi] - 28jdi criou o item Thurisaz [5112] [0 0 0 0 0 0]
+13:56:35 : [28jdi] - Comando "/gm +item 5113"
+13:56:35 : [28jdi] - 28jdi criou o item Fehu [5113] [0 0 0 0 0 0]
+13:56:36 : [28jdi] - Comando "/gm +item 5114"
+13:56:36 : [28jdi] - 28jdi criou o item Raidho [5114] [0 0 0 0 0 0]
+13:56:38 : [28jdi] - Comando "/gm +item 5115"
+13:56:38 : [28jdi] - 28jdi criou o item Kenaz [5115] [0 0 0 0 0 0]
+13:56:39 : [28jdi] - Comando "/gm +item 5116"
+13:56:39 : [28jdi] - 28jdi criou o item Naudhiz [5116] [0 0 0 0 0 0]
+13:56:47 : [28jdi] - [Mensagem do servidor]> Este monstro já está vivo
+13:56:47 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+13:56:59 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+14:59:02 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:05:14 : Desconectado por inatividade... Last: 1. Counter: 736. Status: 2
+15:05:14 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+15:19:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 2
+15:19:29 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+15:19:29 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+15:19:29 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:19:55 : Solicitou ir ao mundo...
+15:19:55 : Recebido pedido para entrar no jogo
+15:19:55 : Recebido informação do personagem completa.
+15:19:55 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:26 horas
+Posição atual: 2088x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[13] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 34]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:19:55 : [28jdi] - Personagem 28jdi enviado ao mundo 2088x 2103y - Canal 2 - Cash da conta: 0. OverPower: 2270
+15:19:55 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+15:19:55 : [28jdi] - Enviado informações do personagem
+15:19:56 : [28jdi] - Comando "/day "
+15:19:56 : [28jdi] - [Mensagem do servidor]> !#11 2
+15:20:04 : [28jdi] - Comando "/gm +set 12 4300"
+15:20:06 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:20:10 : [28jdi] - Comando "/gm +set 12 4200"
+15:20:12 : [28jdi] - Comando "/gm +set 12 4201"
+15:20:13 : [28jdi] - Comando "/gm +set 12 4202"
+15:20:14 : [28jdi] - Comando "/gm +set 12 4203"
+15:21:44 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:21:44 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+15:21:44 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+15:21:44 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 2
+15:21:45 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+15:21:45 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+15:21:45 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:21:46 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+15:21:46 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+15:21:46 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:21:51 : Solicitou ir ao mundo...
+15:21:51 : Recebido pedido para entrar no jogo
+15:21:51 : Recebido informação do personagem completa.
+15:21:51 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2090x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[13] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 33]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:21:51 : [28jdi] - Personagem 28jdi enviado ao mundo 2090x 2098y - Canal 2 - Cash da conta: 0. OverPower: 2270
+15:21:51 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+15:21:51 : [28jdi] - Enviado informações do personagem
+15:21:52 : [28jdi] - Comando "/day "
+15:21:52 : [28jdi] - [Mensagem do servidor]> !#11 2
+15:22:05 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:23:03 : [28jdi] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+15:23:05 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+15:23:17 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+15:23:50 : [28jdi] - Moveu item Fada_Vermelha(5dias) [3905] [106 2 107 23 108 31] do tipo EQUIPAMENTO do slot 13 para tipo INVENTÁRIO slot 0
+15:24:03 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:24:03 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:02:16 minutos online
+15:24:20 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:24:20 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+15:24:20 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+15:24:26 : Solicitou ir ao mundo...
+15:24:26 : Recebido pedido para entrar no jogo
+15:24:26 : Recebido informação do personagem completa.
+15:24:26 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2090x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:24:26 : [28jdi] - Personagem 28jdi enviado ao mundo 2090x 2094y - Canal 2 - Cash da conta: 0. OverPower: 2270
+15:24:26 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+15:24:26 : [28jdi] - Enviado informações do personagem
+15:24:27 : [28jdi] - Comando "/day "
+15:24:27 : [28jdi] - [Mensagem do servidor]> !#11 2
+15:24:34 : [28jdi] - Moveu item Traje_Mont:_Sombra_da_Morte(?) [4203] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 5
+15:24:41 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:25:48 : [28jdi] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+15:25:58 : [28jdi] - [Mensagem do servidor]: Mob foi derrotado por Guerreiro2
+15:27:34 : [28jdi] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+15:27:43 : [28jdi] - [Mensagem do servidor]: Mob foi derrotado por Guerreiro2
+15:31:09 : [28jdi] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+15:31:18 : [28jdi] - [Mensagem do servidor]: Mob foi derrotado por Guerreiro2
+15:36:07 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:36:07 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:11:34 minutos online
+15:36:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:36:30 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+15:36:30 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+15:36:33 : Solicitou ir ao mundo...
+15:36:33 : Recebido pedido para entrar no jogo
+15:36:33 : Recebido informação do personagem completa.
+15:36:33 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2089x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:36:33 : [28jdi] - Personagem 28jdi enviado ao mundo 2089x 2106y - Canal 2 - Cash da conta: 0. OverPower: 2270
+15:36:33 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+15:36:33 : [28jdi] - Enviado informações do personagem
+15:36:35 : [28jdi] - Comando "/day "
+15:36:35 : [28jdi] - [Mensagem do servidor]> !#11 2
+15:36:41 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:36:47 : [28jdi] - Comando "/gm +set 12 4200"
+15:40:32 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:40:32 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:03:59 minutos online
+15:40:38 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:40:38 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+15:40:38 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+15:40:41 : Solicitou ir ao mundo...
+15:40:41 : Recebido pedido para entrar no jogo
+15:40:41 : Recebido informação do personagem completa.
+15:40:41 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2088x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Traje_Mont:_Sombra_Dourada[4200] [0 0 0 0 0 0]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:40:41 : [28jdi] - Personagem 28jdi enviado ao mundo 2088x 2103y - Canal 2 - Cash da conta: 0. OverPower: 2270
+15:40:41 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+15:40:41 : [28jdi] - Enviado informações do personagem
+15:40:42 : [28jdi] - Comando "/day "
+15:40:42 : [28jdi] - [Mensagem do servidor]> !#11 2
+15:40:51 : [28jdi] - Comando "/gm +set 12 4200"
+15:40:53 : [28jdi] - Comando "/gm +set 12 4201"
+15:40:53 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:40:54 : [28jdi] - Comando "/gm +set 12 4202"
+15:40:55 : [28jdi] - Comando "/gm +set 12 4203"
+15:40:56 : [28jdi] - Comando "/gm +set 12 4204"
+15:50:17 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:50:17 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:09:32 minutos online
+15:50:28 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:50:28 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+15:50:28 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+15:50:32 : Solicitou ir ao mundo...
+15:50:32 : Recebido pedido para entrar no jogo
+15:50:32 : Recebido informação do personagem completa.
+15:50:32 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2095x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Traje_Mont:_Fenrir_do_Rei_Caveira[4204] [0 0 0 0 0 0]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:50:32 : [28jdi] - Personagem 28jdi enviado ao mundo 2095x 2106y - Canal 2 - Cash da conta: 0. OverPower: 2270
+15:50:32 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+15:50:32 : [28jdi] - Enviado informações do personagem
+15:50:33 : [28jdi] - Comando "/day "
+15:50:33 : [28jdi] - [Mensagem do servidor]> !#11 2
+15:50:41 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:51:05 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:51:05 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:00:36 minutos online
+15:51:35 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:51:35 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+15:51:35 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+15:51:39 : Solicitou ir ao mundo...
+15:51:39 : Recebido pedido para entrar no jogo
+15:51:39 : Recebido informação do personagem completa.
+15:51:39 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2089x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Traje_Mont:_Fenrir_do_Rei_Caveira[4204] [0 0 0 0 0 0]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:51:39 : [28jdi] - Personagem 28jdi enviado ao mundo 2089x 2097y - Canal 2 - Cash da conta: 0. OverPower: 2270
+15:51:39 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+15:51:39 : [28jdi] - Enviado informações do personagem
+15:51:40 : [28jdi] - Comando "/day "
+15:51:40 : [28jdi] - [Mensagem do servidor]> !#11 2
+15:51:44 : [28jdi] - Comando "/gm +Set 12 "
+15:51:49 : [28jdi] - Comando "/gm +set 12 0"
+15:51:52 : [28jdi] - Comando "/gm +set 12 4150"
+15:51:54 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:51:54 : [28jdi] - Comando "/gm +set 12 4151"
+15:51:55 : [28jdi] - Comando "/gm +set 12 4152"
+15:51:57 : [28jdi] - Comando "/gm +set 12 4200"
+15:51:59 : [28jdi] - Comando "/gm +set 12 4199"
+15:52:01 : [28jdi] - Comando "/gm +set 12 4198"
+15:52:02 : [28jdi] - Comando "/gm +set 12 4160"
+15:52:04 : [28jdi] - Comando "/gm +set 12 4180"
+15:52:06 : [28jdi] - Comando "/gm +set 12 4190"
+15:52:08 : [28jdi] - Comando "/gm +set 12 4191"
+15:52:09 : [28jdi] - Comando "/gm +set 12 4196"
+15:52:11 : [28jdi] - Comando "/gm +set 12 4195"
+15:52:12 : [28jdi] - Comando "/gm +set 12 4194"
+15:52:14 : [28jdi] - Comando "/gm +set 12 4195"
+15:55:32 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:55:32 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:03:54 minutos online
+15:55:43 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:55:43 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+15:55:43 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+15:55:47 : Solicitou ir ao mundo...
+15:55:47 : Recebido pedido para entrar no jogo
+15:55:47 : Recebido informação do personagem completa.
+15:55:47 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2099x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Traje_Mont:_Pogobol(Azul)[4195] [0 0 0 0 0 0]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:55:47 : [28jdi] - Personagem 28jdi enviado ao mundo 2099x 2104y - Canal 2 - Cash da conta: 0. OverPower: 2270
+15:55:47 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+15:55:47 : [28jdi] - Enviado informações do personagem
+15:55:48 : [28jdi] - Comando "/day "
+15:55:48 : [28jdi] - [Mensagem do servidor]> !#11 2
+15:55:54 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:56:29 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:56:29 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:00:45 minutos online
+15:56:38 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:56:38 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+15:56:38 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+15:56:42 : Solicitou ir ao mundo...
+15:56:42 : Recebido pedido para entrar no jogo
+15:56:42 : Recebido informação do personagem completa.
+15:56:42 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2098x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Traje_Mont:_Pogobol(Azul)[4195] [0 0 0 0 0 0]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:56:42 : [28jdi] - Personagem 28jdi enviado ao mundo 2098x 2099y - Canal 2 - Cash da conta: 0. OverPower: 2270
+15:56:42 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+15:56:42 : [28jdi] - Enviado informações do personagem
+15:56:43 : [28jdi] - Comando "/day "
+15:56:43 : [28jdi] - [Mensagem do servidor]> !#11 2
+15:56:49 : [28jdi] - Comando "/gm +set 12 4151"
+15:56:51 : [28jdi] - Comando "/gm +set 12 4150"
+15:56:53 : [28jdi] - Comando "/gm +set 12 4149"
+15:56:54 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:56:55 : [28jdi] - Comando "/gm +set 12 0"
+15:57:00 : [28jdi] - Comando "/gm +set 12 4151"
+15:57:01 : [28jdi] - Comando "/gm +set 12 4152"
+15:57:03 : [28jdi] - Comando "/gm +set 12 0"
+15:59:01 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:59:01 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:02:22 minutos online
+15:59:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:59:13 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+15:59:13 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+15:59:17 : Solicitou ir ao mundo...
+15:59:17 : Recebido pedido para entrar no jogo
+15:59:17 : Recebido informação do personagem completa.
+15:59:17 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2087x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:59:17 : [28jdi] - Personagem 28jdi enviado ao mundo 2087x 2104y - Canal 2 - Cash da conta: 0. OverPower: 2270
+15:59:17 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+15:59:17 : [28jdi] - Enviado informações do personagem
+15:59:18 : [28jdi] - Comando "/day "
+15:59:18 : [28jdi] - [Mensagem do servidor]> !#11 2
+15:59:21 : [28jdi] - Comando "/gm +set 12 4151"
+15:59:26 : [28jdi] - Comando "/gm +set 12 4150"
+15:59:30 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:03:09 : [28jdi] - Moveu item Conjunto_Yin-Yang(30dias) [4150] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 10
+16:03:11 : [28jdi] - Moveu item Conjunto_Yin-Yang(30dias) [4150] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 12
+16:12:23 : [28jdi] - Personagem deu personagem
+16:12:27 : Solicitou ir ao mundo...
+16:12:27 : Recebido pedido para entrar no jogo
+16:12:27 : Recebido informação do personagem completa.
+16:12:27 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:13:04 horas
+Posição atual: 2096x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [0 0 0 0 0 0]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:12:27 : [28jdi] - Personagem 28jdi enviado ao mundo 2096x 2102y - Canal 2 - Cash da conta: 0. OverPower: 2270
+16:12:27 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+16:12:27 : [28jdi] - Enviado informações do personagem
+16:12:28 : [28jdi] - Comando "/day "
+16:12:28 : [28jdi] - [Mensagem do servidor]> !#11 2
+16:12:42 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:12:52 : [28jdi] - Personagem deu personagem
+16:12:56 : Solicitou ir ao mundo...
+16:12:56 : Recebido pedido para entrar no jogo
+16:12:56 : Recebido informação do personagem completa.
+16:12:56 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:13:33 horas
+Posição atual: 2097x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [0 0 0 0 0 0]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:12:56 : [28jdi] - Personagem 28jdi enviado ao mundo 2097x 2098y - Canal 2 - Cash da conta: 0. OverPower: 2270
+16:12:56 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+16:12:56 : [28jdi] - Enviado informações do personagem
+16:12:57 : [28jdi] - Comando "/day "
+16:12:57 : [28jdi] - [Mensagem do servidor]> !#11 2
+16:13:06 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:14:00 : [28jdi] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+16:17:48 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:17:48 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:18:21 minutos online
+16:20:10 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+16:20:10 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+16:20:10 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+16:20:11 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:20:14 : Solicitou ir ao mundo...
+16:20:14 : Recebido pedido para entrar no jogo
+16:20:14 : Recebido informação do personagem completa.
+16:20:14 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2093x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [0 0 0 0 0 0]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:20:14 : [28jdi] - Personagem 28jdi enviado ao mundo 2093x 2098y - Canal 2 - Cash da conta: 0. OverPower: 2270
+16:20:14 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+16:20:14 : [28jdi] - Enviado informações do personagem
+16:20:15 : [28jdi] - Comando "/day "
+16:20:15 : [28jdi] - [Mensagem do servidor]> !#11 2
+16:20:24 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:20:36 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+16:20:40 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:20:40 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:00:30 minutos online
+16:21:02 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+16:21:02 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+16:21:02 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+16:21:06 : Solicitou ir ao mundo...
+16:21:06 : Recebido pedido para entrar no jogo
+16:21:06 : Recebido informação do personagem completa.
+16:21:06 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2086x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [0 0 0 0 0 96]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:21:06 : [28jdi] - Personagem 28jdi enviado ao mundo 2086x 2105y - Canal 2 - Cash da conta: 0. OverPower: 2270
+16:21:06 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+16:21:06 : [28jdi] - Enviado informações do personagem
+16:21:08 : [28jdi] - Comando "/day "
+16:21:08 : [28jdi] - [Mensagem do servidor]> !#11 2
+16:21:12 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:23:11 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:23:11 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:02:08 minutos online
+16:23:24 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+16:23:24 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+16:23:24 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+16:23:27 : Solicitou ir ao mundo...
+16:23:27 : Recebido pedido para entrar no jogo
+16:23:27 : Recebido informação do personagem completa.
+16:23:27 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2089x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [0 0 0 0 0 96]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:23:27 : [28jdi] - Personagem 28jdi enviado ao mundo 2089x 2098y - Canal 2 - Cash da conta: 0. OverPower: 2270
+16:23:27 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+16:23:27 : [28jdi] - Enviado informações do personagem
+16:23:29 : [28jdi] - Comando "/day "
+16:23:29 : [28jdi] - [Mensagem do servidor]> !#11 2
+16:23:36 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:24:16 : [28jdi] - Moveu item Conjunto_Yin-Yang(30dias) [4150] [0 0 0 0 0 96] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 10
+16:24:17 : [28jdi] - Moveu item Conjunto_Yin-Yang(30dias) [4150] [0 0 0 0 0 96] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 12
+16:26:02 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:26:02 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:02:37 minutos online
+16:26:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+16:26:13 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+16:26:13 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+16:26:16 : Solicitou ir ao mundo...
+16:26:16 : Recebido pedido para entrar no jogo
+16:26:16 : Recebido informação do personagem completa.
+16:26:16 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2092x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [0 0 0 0 0 96]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:26:16 : [28jdi] - Personagem 28jdi enviado ao mundo 2092x 2100y - Canal 2 - Cash da conta: 0. OverPower: 2270
+16:26:16 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+16:26:16 : [28jdi] - Enviado informações do personagem
+16:26:17 : [28jdi] - Comando "/day "
+16:26:17 : [28jdi] - [Mensagem do servidor]> !#11 2
+16:26:24 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:26:26 : [28jdi] - Moveu item Conjunto_Yin-Yang(30dias) [4150] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 10
+16:26:27 : [28jdi] - Moveu item Conjunto_Yin-Yang(30dias) [4150] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 12
+16:26:42 : [28jdi] - Comando "/gm +porto"
+16:26:42 : [28jdi] - Teleportado para a posição 201 1314
+16:28:23 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:28:23 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:02:08 minutos online
+16:28:35 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+16:28:35 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+16:28:35 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+16:28:39 : Solicitou ir ao mundo...
+16:28:39 : Recebido pedido para entrar no jogo
+16:28:39 : Recebido informação do personagem completa.
+16:28:39 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2099x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [0 0 0 0 0 0]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:28:39 : [28jdi] - Personagem 28jdi enviado ao mundo 2099x 2093y - Canal 2 - Cash da conta: 0. OverPower: 2270
+16:28:39 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+16:28:39 : [28jdi] - Enviado informações do personagem
+16:28:41 : [28jdi] - Comando "/day "
+16:28:41 : [28jdi] - [Mensagem do servidor]> !#11 2
+16:28:48 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:28:58 : [28jdi] - Comando "/gm +porto"
+16:28:58 : [28jdi] - Teleportado para a posição 201 1314
+16:30:36 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:30:36 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:01:59 minutos online
+16:32:01 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+16:32:01 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+16:32:01 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+16:32:09 : Solicitou ir ao mundo...
+16:32:09 : Recebido pedido para entrar no jogo
+16:32:09 : Recebido informação do personagem completa.
+16:32:09 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2093x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [0 0 0 0 0 0]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:32:09 : [28jdi] - Personagem 28jdi enviado ao mundo 2093x 2093y - Canal 2 - Cash da conta: 0. OverPower: 2270
+16:32:09 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+16:32:09 : [28jdi] - Enviado informações do personagem
+16:32:10 : [28jdi] - Comando "/day "
+16:32:10 : [28jdi] - [Mensagem do servidor]> !#11 2
+16:32:24 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:32:27 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:32:27 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:00:27 minutos online
+16:34:21 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+16:34:22 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+16:34:22 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+16:34:22 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:34:41 : Solicitou ir ao mundo...
+16:34:41 : Recebido pedido para entrar no jogo
+16:34:41 : Recebido informação do personagem completa.
+16:34:41 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:19 horas
+Posição atual: 2097x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [0 0 0 0 0 64]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:34:41 : [28jdi] - Personagem 28jdi enviado ao mundo 2097x 2103y - Canal 2 - Cash da conta: 0. OverPower: 2270
+16:34:41 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+16:34:41 : [28jdi] - Enviado informações do personagem
+16:34:42 : [28jdi] - Comando "/day "
+16:34:42 : [28jdi] - [Mensagem do servidor]> !#11 2
+16:34:50 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:35:01 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:35:01 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:00:39 minutos online
+16:35:14 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+16:35:14 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+16:35:14 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+16:35:19 : Solicitou ir ao mundo...
+16:35:19 : Recebido pedido para entrar no jogo
+16:35:19 : Recebido informação do personagem completa.
+16:35:19 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2098x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [0 0 0 0 0 64]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:35:19 : [28jdi] - Personagem 28jdi enviado ao mundo 2098x 2098y - Canal 2 - Cash da conta: 0. OverPower: 2270
+16:35:19 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+16:35:19 : [28jdi] - Enviado informações do personagem
+16:35:20 : [28jdi] - Comando "/day "
+16:35:20 : [28jdi] - [Mensagem do servidor]> !#11 2
+16:35:26 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:35:38 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+16:35:50 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+16:36:54 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:36:54 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:01:39 minutos online
+16:37:06 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+16:37:06 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+16:37:06 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+16:37:09 : Solicitou ir ao mundo...
+16:37:09 : Recebido pedido para entrar no jogo
+16:37:09 : Recebido informação do personagem completa.
+16:37:09 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2095x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [0 0 0 0 0 96]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:37:09 : [28jdi] - Personagem 28jdi enviado ao mundo 2095x 2103y - Canal 2 - Cash da conta: 0. OverPower: 2270
+16:37:09 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+16:37:09 : [28jdi] - Enviado informações do personagem
+16:37:10 : [28jdi] - Comando "/day "
+16:37:10 : [28jdi] - [Mensagem do servidor]> !#11 2
+16:37:26 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:40:33 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:40:33 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:03:23 minutos online
+16:40:46 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+16:40:46 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+16:40:46 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+16:40:50 : Solicitou ir ao mundo...
+16:40:50 : Recebido pedido para entrar no jogo
+16:40:50 : Recebido informação do personagem completa.
+16:40:50 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2094x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [0 0 0 0 0 96]
+[14] - Shire(3dias)[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[05] - Traje_Mont:_Sombra_da_Morte(?)[4203] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:40:50 : [28jdi] - Personagem 28jdi enviado ao mundo 2094x 2093y - Canal 2 - Cash da conta: 0. OverPower: 2270
+16:40:50 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+16:40:50 : [28jdi] - Enviado informações do personagem
+16:40:52 : [28jdi] - Comando "/day "
+16:40:52 : [28jdi] - [Mensagem do servidor]> !#11 2
+16:41:02 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:41:30 : [28jdi] - Item Traje_Mont:_Sombra_da_Morte(?) deletado [4203] [0 0 0 0 0 0]. Slot 5
+16:44:19 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+16:44:47 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+16:44:47 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+16:44:47 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+16:44:48 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+16:44:48 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+16:44:48 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:44:52 : Solicitou ir ao mundo...
+16:44:52 : Recebido pedido para entrar no jogo
+16:44:52 : Recebido informação do personagem completa.
+16:44:52 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2097x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 96]
+[14] - Lobo_Polar[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:44:52 : [28jdi] - Personagem 28jdi enviado ao mundo 2097x 2100y - Canal 2 - Cash da conta: 0. OverPower: 2240
+16:44:52 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+16:44:52 : [28jdi] - Enviado informações do personagem
+16:44:53 : [28jdi] - Comando "/day "
+16:44:53 : [28jdi] - [Mensagem do servidor]> !#11 2
+16:45:05 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:45:41 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+16:45:53 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+16:51:25 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:51:25 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:06:32 minutos online
+16:51:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+16:51:37 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+16:51:37 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+16:51:41 : Solicitou ir ao mundo...
+16:51:41 : Recebido pedido para entrar no jogo
+16:51:41 : Recebido informação do personagem completa.
+16:51:41 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2094x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 96]
+[14] - Lobo_Polar[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:51:41 : [28jdi] - Personagem 28jdi enviado ao mundo 2094x 2098y - Canal 2 - Cash da conta: 0. OverPower: 2240
+16:51:41 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+16:51:41 : [28jdi] - Enviado informações do personagem
+16:51:42 : [28jdi] - Comando "/day "
+16:51:42 : [28jdi] - [Mensagem do servidor]> !#11 2
+16:51:53 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:52:19 : [28jdi] - Personagem deu personagem
+16:56:09 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:56:09 : Personagem foi desconectado. Permaneceu 00:04:29 minutos online
+16:57:11 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+16:57:11 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+16:57:11 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+16:57:14 : Solicitou ir ao mundo...
+16:57:14 : Recebido pedido para entrar no jogo
+16:57:14 : Recebido informação do personagem completa.
+16:57:14 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2086x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 96]
+[14] - Lobo_Polar[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:57:14 : [28jdi] - Personagem 28jdi enviado ao mundo 2086x 2100y - Canal 2 - Cash da conta: 0. OverPower: 2240
+16:57:14 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+16:57:14 : [28jdi] - Enviado informações do personagem
+16:57:16 : [28jdi] - Comando "/day "
+16:57:16 : [28jdi] - [Mensagem do servidor]> !#11 2
+16:57:29 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:59:21 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:59:21 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:02:09 minutos online
+18:56:56 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 2
+18:56:56 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+18:56:56 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+18:56:56 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:57:04 : Solicitou ir ao mundo...
+18:57:04 : Recebido pedido para entrar no jogo
+18:57:04 : Recebido informação do personagem completa.
+18:57:04 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2093x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 96]
+[14] - Lobo_Polar[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:57:04 : [28jdi] - Personagem 28jdi enviado ao mundo 2093x 2097y - Canal 2 - Cash da conta: 0. OverPower: 2240
+18:57:04 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+18:57:04 : [28jdi] - Enviado informações do personagem
+18:57:05 : [28jdi] - Comando "/day "
+18:57:05 : [28jdi] - [Mensagem do servidor]> !#11 2
+18:57:09 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:59:21 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:59:21 : [28jdi] - 2 Personagem foi desconectado. Permaneceu 00:02:23 minutos online
+18:59:46 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 2
+18:59:46 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+18:59:46 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+18:59:53 : Solicitou ir ao mundo...
+18:59:53 : Recebido pedido para entrar no jogo
+18:59:53 : Recebido informação do personagem completa.
+18:59:53 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2086x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 96]
+[14] - Lobo_Polar[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:59:53 : [28jdi] - Personagem 28jdi enviado ao mundo 2086x 2099y - Canal 2 - Cash da conta: 0. OverPower: 2240
+18:59:53 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+18:59:53 : [28jdi] - Enviado informações do personagem
+19:00:01 : [28jdi] - Comando "/day "
+19:00:01 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:00:09 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:06:46 : [28jdi] - Personagem deu personagem
+19:06:50 : Solicitou ir ao mundo...
+19:06:50 : Recebido pedido para entrar no jogo
+19:06:50 : Recebido informação do personagem completa.
+19:06:50 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:06:59 horas
+Posição atual: 2090x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 96]
+[14] - Lobo_Polar[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:06:50 : [28jdi] - Personagem 28jdi enviado ao mundo 2090x 2095y - Canal 2 - Cash da conta: 0. OverPower: 2240
+19:06:50 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:06:50 : [28jdi] - Enviado informações do personagem
+19:06:51 : [28jdi] - Comando "/day "
+19:06:51 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:06:57 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:08:55 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:08:55 : [28jdi] - 2 Personagem foi desconectado. Permaneceu 00:09:02 minutos online
+19:09:12 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 2
+19:09:12 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+19:09:12 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+19:09:16 : Solicitou ir ao mundo...
+19:09:16 : Recebido pedido para entrar no jogo
+19:09:16 : Recebido informação do personagem completa.
+19:09:16 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2090x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 96]
+[14] - Lobo_Polar[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:09:16 : [28jdi] - Personagem 28jdi enviado ao mundo 2090x 2096y - Canal 2 - Cash da conta: 0. OverPower: 2240
+19:09:16 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:09:16 : [28jdi] - Enviado informações do personagem
+19:09:17 : [28jdi] - Comando "/day "
+19:09:17 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:09:22 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:09:25 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:09:25 : [28jdi] - 2 Personagem foi desconectado. Permaneceu 00:00:13 minutos online
+19:09:42 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 2
+19:09:42 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+19:09:42 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+19:09:46 : Solicitou ir ao mundo...
+19:09:46 : Recebido pedido para entrar no jogo
+19:09:46 : Recebido informação do personagem completa.
+19:09:46 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2095x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 96]
+[14] - Lobo_Polar[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:09:46 : [28jdi] - Personagem 28jdi enviado ao mundo 2095x 2101y - Canal 2 - Cash da conta: 0. OverPower: 2240
+19:09:46 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:09:46 : [28jdi] - Enviado informações do personagem
+19:09:47 : [28jdi] - Comando "/day "
+19:09:47 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:09:58 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:11:10 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:11:10 : [28jdi] - 2 Personagem foi desconectado. Permaneceu 00:01:26 minutos online
+19:11:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 2
+19:11:22 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+19:11:22 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+19:11:40 : Solicitou ir ao mundo...
+19:11:40 : Recebido pedido para entrar no jogo
+19:11:40 : Recebido informação do personagem completa.
+19:11:40 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:19 horas
+Posição atual: 2099x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 96]
+[14] - Lobo_Polar[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:11:40 : [28jdi] - Personagem 28jdi enviado ao mundo 2099x 2104y - Canal 2 - Cash da conta: 0. OverPower: 2240
+19:11:40 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:11:40 : [28jdi] - Enviado informações do personagem
+19:11:42 : [28jdi] - Comando "/day "
+19:11:42 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:11:46 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:12:40 : [28jdi] - Informações dos itens da loja
+Nome da loja: 123123
+Posição criada: 2101x 2101
+Total de itens com valor superior a 10 milhões: 0
+[ITENS]
+Slot [10] - Eirenus(Anct) [2864] [43 251 0 0 0 0]. Preço de 123123
+
+19:12:48 : [28jdi] - O AutoTrade foi fechado
+19:14:40 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:14:40 : [28jdi] - 2 Personagem foi desconectado. Permaneceu 00:03:16 minutos online
+19:14:48 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 2
+19:14:48 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+19:14:48 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+19:15:15 : Solicitou ir ao mundo...
+19:15:15 : Recebido pedido para entrar no jogo
+19:15:15 : Recebido informação do personagem completa.
+19:15:15 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:25 horas
+Posição atual: 2094x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 96]
+[14] - Lobo_Polar[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:15:15 : [28jdi] - Personagem 28jdi enviado ao mundo 2094x 2100y - Canal 2 - Cash da conta: 0. OverPower: 2240
+19:15:15 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:15:15 : [28jdi] - Enviado informações do personagem
+19:15:16 : [28jdi] - Comando "/day "
+19:15:16 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:15:22 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:17:06 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:17:06 : [28jdi] - 2 Personagem foi desconectado. Permaneceu 00:02:16 minutos online
+19:17:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 2
+19:17:22 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+19:17:22 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+19:17:29 : Solicitou ir ao mundo...
+19:17:29 : Recebido pedido para entrar no jogo
+19:17:29 : Recebido informação do personagem completa.
+19:17:29 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2098x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 64]
+[14] - Lobo_Polar[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:17:29 : [28jdi] - Personagem 28jdi enviado ao mundo 2098x 2096y - Canal 2 - Cash da conta: 0. OverPower: 2240
+19:17:29 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:17:29 : [28jdi] - Enviado informações do personagem
+19:17:31 : [28jdi] - Comando "/day "
+19:17:31 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:17:46 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:19:13 : [28jdi] - Comando "/gm +set 12 4200"
+19:19:31 : [28jdi] - Comando "/gm +set 12 4150"
+19:27:34 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:27:34 : [28jdi] - 2 Personagem foi desconectado. Permaneceu 00:10:04 minutos online
+19:27:45 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 2
+19:27:45 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+19:27:45 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+19:27:50 : Solicitou ir ao mundo...
+19:27:50 : Recebido pedido para entrar no jogo
+19:27:50 : Recebido informação do personagem completa.
+19:27:50 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2097x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 64]
+[14] - Lobo_Polar[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:27:50 : [28jdi] - Personagem 28jdi enviado ao mundo 2097x 2105y - Canal 2 - Cash da conta: 0. OverPower: 2240
+19:27:50 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:27:50 : [28jdi] - Enviado informações do personagem
+19:27:51 : [28jdi] - Comando "/day "
+19:27:51 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:27:57 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:27:57 : [28jdi] - 2 Personagem foi desconectado. Permaneceu 00:00:12 minutos online
+19:28:17 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 2
+19:28:17 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+19:28:17 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+19:28:21 : Solicitou ir ao mundo...
+19:28:21 : Recebido pedido para entrar no jogo
+19:28:21 : Recebido informação do personagem completa.
+19:28:21 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1192410755
+Level atual: 1010
+Experiência atual: 60
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2086x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 64]
+[14] - Lobo_Polar[3980] [106 30 110 11 109 20]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(5dias)[3905] [106 2 107 23 108 31]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:28:21 : [28jdi] - Personagem 28jdi enviado ao mundo 2086x 2099y - Canal 2 - Cash da conta: 0. OverPower: 2240
+19:28:21 : [28jdi] - Gold atual: 1192410755. Classe: 0 Evolução: 0. Experiência: 60. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:28:21 : [28jdi] - Enviado informações do personagem
+19:28:23 : [28jdi] - Comando "/day "
+19:28:23 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:28:34 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:30:09 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:30:09 : [28jdi] - 2 Personagem foi desconectado. Permaneceu 00:01:51 minutos online

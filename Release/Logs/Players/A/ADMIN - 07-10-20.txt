@@ -1,0 +1,516 @@
+
+16:00:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 29
+16:00:03 : Usuário logou no jogo com clientId 29. - Servidor 1. Gold do banco: 0
+16:00:03 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+16:00:04 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:00:16 : Solicitou ir ao mundo...
+16:00:16 : Recebido pedido para entrar no jogo
+16:00:16 : Recebido informação do personagem completa.
+16:00:16 : [teste] - [INFORMAÇÕES DA CONTA]
+Personagem online: teste
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:12 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Huntress[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 0 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 0 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 0 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:00:16 : [teste] - Personagem teste enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+16:00:16 : [teste] - Gold atual: 0. Classe: 3 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+16:00:16 : [teste] - Resetado a contagem de entradas água! Day: 0-280. Total: 0
+16:00:16 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:00:16 : [teste] - Enviado informações do personagem
+16:00:17 : [teste] - Comando "/day "
+16:00:17 : [teste] - [Mensagem do servidor]> !#11 2
+16:00:18 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:00:21 : [teste] - Comando "/gm +setlevel 1010"
+16:00:21 : [teste] - [Mensagem do servidor]> Comando inválido
+16:00:25 : [teste] - Comando "/gm +set level 1010"
+16:00:28 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:00:29 : [teste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:00:38 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:00:41 : [teste] - [Mensagem do servidor]> Não possui gold suficiente
+16:00:46 : [teste] - Comando "/gm +item 4011"
+16:00:46 : [teste] - teste criou o item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0]
+16:00:47 : [teste] - Item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0] utilizado em 2118x 2102y
+16:00:47 : [teste] - Gold atual: 0.
+16:00:48 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:00:58 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:01:08 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:01:18 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:01:21 : [teste] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:01:21 : [teste] - Personagem foi desconectado. Permaneceu 00:01:17 minutos online
+16:01:49 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 30
+16:01:49 : Usuário logou no jogo com clientId 30. - Servidor 1. Gold do banco: 0
+16:01:49 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+16:01:50 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:01:55 : Solicitou ir ao mundo...
+16:01:55 : Recebido pedido para entrar no jogo
+16:01:55 : Recebido informação do personagem completa.
+16:01:55 : [teste] - [INFORMAÇÕES DA CONTA]
+Personagem online: teste
+Gold atual: 1000000000
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2096x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Huntress[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 0 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 0 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 0 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:01:55 : [teste] - Personagem teste enviado ao mundo 2096x 2099y - Canal 1 - Cash da conta: 0. OverPower: 2020
+16:01:55 : [teste] - Gold atual: 1000000000. Classe: 3 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+16:01:55 : [teste] - Resetado a contagem de entradas água! Day: -16908210-280. Total: -16843010
+16:01:55 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:01:55 : [teste] - Enviado informações do personagem
+16:01:56 : [teste] - Comando "/day "
+16:01:56 : [teste] - [Mensagem do servidor]> !#11 2
+16:01:59 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:02:03 : [teste] - Comando "/gm +item 4011"
+16:02:03 : [teste] - teste criou o item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0]
+16:02:04 : [teste] - Item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0] utilizado em 2106x 2105y
+16:02:04 : [teste] - Gold atual: 1000000000.
+16:02:05 : [teste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:02:09 : [teste] - Teleportado para a posição 1047 1726
+16:02:09 : [teste] - Solicitado teleporte na posição 2117x 2102y e teleportado para 1047x 1726y
+16:02:09 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:02:19 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:02:29 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:02:39 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:02:49 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:02:49 : [teste] - Comando "/gm +item 3435"
+16:02:49 : [teste] - teste criou o item Pedido_de_Caça(Kult) [3435] [0 0 0 0 0 0]
+16:02:59 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:03:07 : [teste] - Comando "/gm +goto 1200 1700"
+16:03:09 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:03:11 : [teste] - Comando "/gm +move 1200 1700"
+16:03:11 : [teste] - Teleportado para a posição 1200 1700
+16:03:19 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:03:23 : [teste] - Comando "/gm +move 1292 1776"
+16:03:23 : [teste] - Teleportado para a posição 1292 1776
+16:03:29 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:03:33 : [teste] - Removido o Hp do mob Manticora. HP removido: 0. HP Atual: 32000
+16:03:34 : [teste] - Removido o Hp do mob Manticora. HP removido: 0. HP Atual: 32000
+16:03:40 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:03:50 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:04:00 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:04:10 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:04:20 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:04:30 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:04:40 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:04:47 : [teste] - Comando "/gm +move 1292 1776"
+16:04:47 : [teste] - Teleportado para a posição 1292 1776
+16:04:50 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:05:00 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:05:10 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:05:13 : [teste] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:05:13 : [teste] - Personagem foi desconectado. Permaneceu 00:03:22 minutos online
+16:27:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 42
+16:27:22 : Usuário logou no jogo com clientId 42. - Servidor 1. Gold do banco: 0
+16:27:22 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+16:27:22 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:27:27 : Solicitou ir ao mundo...
+16:27:27 : Recebido pedido para entrar no jogo
+16:27:27 : Recebido informação do personagem completa.
+16:27:27 : [teste] - [INFORMAÇÕES DA CONTA]
+Personagem online: teste
+Gold atual: 1999999300
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2089x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Huntress[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 0 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 0 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 0 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedido_de_Caça(Kult)[3435] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:27:27 : [teste] - Personagem teste enviado ao mundo 2089x 2104y - Canal 1 - Cash da conta: 0. OverPower: 2020
+16:27:27 : [teste] - Gold atual: 1999999300. Classe: 3 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+16:27:27 : [teste] - Resetado a contagem de entradas água! Day: -16908210-280. Total: -16843010
+16:27:27 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:27:27 : [teste] - Enviado informações do personagem
+16:27:28 : [teste] - Comando "/day "
+16:27:28 : [teste] - [Mensagem do servidor]> !#11 2
+16:27:34 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:27:41 : [teste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:27:42 : [teste] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:27:42 : [teste] - Personagem foi desconectado. Permaneceu 00:00:20 minutos online
+16:28:19 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 44
+16:28:19 : Usuário logou no jogo com clientId 44. - Servidor 1. Gold do banco: 0
+16:28:19 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+16:28:20 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:28:24 : Solicitou ir ao mundo...
+16:28:24 : Recebido pedido para entrar no jogo
+16:28:24 : Recebido informação do personagem completa.
+16:28:24 : [teste] - [INFORMAÇÕES DA CONTA]
+Personagem online: teste
+Gold atual: 1999999300
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2086x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Huntress[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 0 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 0 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 0 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedido_de_Caça(Kult)[3435] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:28:24 : [teste] - Personagem teste enviado ao mundo 2086x 2095y - Canal 1 - Cash da conta: 0. OverPower: 2020
+16:28:24 : [teste] - Gold atual: 1999999300. Classe: 3 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+16:28:24 : [teste] - Resetado a contagem de entradas água! Day: -16908210-280. Total: -16843010
+16:28:24 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:28:24 : [teste] - Enviado informações do personagem
+16:28:24 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:28:25 : [teste] - Comando "/day "
+16:28:25 : [teste] - [Mensagem do servidor]> !#11 2
+16:28:29 : [teste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:28:34 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:28:38 : [teste] - Moveu item Pedido_de_Caça(Kult) [3435] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo INVENTÁRIO slot 5
+16:28:44 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:28:50 : [teste] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:28:50 : [teste] - Personagem foi desconectado. Permaneceu 00:00:31 minutos online
+17:31:02 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 52
+17:31:02 : [Mensagem do servidor]> Senha incorreta.
+17:31:02 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+17:31:04 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 52
+17:31:04 : Usuário logou no jogo com clientId 52. - Servidor 1. Gold do banco: 0
+17:31:04 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:31:05 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:31:10 : Solicitou ir ao mundo...
+17:31:10 : Recebido pedido para entrar no jogo
+17:31:10 : Recebido informação do personagem completa.
+17:31:10 : [teste] - [INFORMAÇÕES DA CONTA]
+Personagem online: teste
+Gold atual: 1999999300
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2087x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Huntress[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 0 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 0 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 0 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[05] - Pedido_de_Caça(Kult)[3435] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:31:10 : [teste] - Personagem teste enviado ao mundo 2087x 2101y - Canal 1 - Cash da conta: 0. OverPower: 2020
+17:31:10 : [teste] - Gold atual: 1999999300. Classe: 3 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:31:10 : [teste] - Resetado a contagem de entradas água! Day: -16908210-280. Total: -16843010
+17:31:10 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:31:10 : [teste] - Enviado informações do personagem
+17:31:11 : [teste] - Comando "/day "
+17:31:11 : [teste] - [Mensagem do servidor]> !#11 2
+17:31:17 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:31:19 : [teste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:31:27 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:31:38 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:31:48 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:31:55 : [teste] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:31:55 : [teste] - Personagem foi desconectado. Permaneceu 00:00:50 minutos online
+17:32:24 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 53
+17:32:24 : Usuário logou no jogo com clientId 53. - Servidor 1. Gold do banco: 0
+17:32:24 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:32:25 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:32:29 : Solicitou ir ao mundo...
+17:32:29 : Recebido pedido para entrar no jogo
+17:32:29 : Recebido informação do personagem completa.
+17:32:29 : [teste] - [INFORMAÇÕES DA CONTA]
+Personagem online: teste
+Gold atual: 1999999300
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2095x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Huntress[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 0 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 0 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 0 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[05] - Pedido_de_Caça(Kult)[3435] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:32:29 : [teste] - Personagem teste enviado ao mundo 2095x 2106y - Canal 1 - Cash da conta: 0. OverPower: 2020
+17:32:29 : [teste] - Gold atual: 1999999300. Classe: 3 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:32:29 : [teste] - Resetado a contagem de entradas água! Day: -16908210-280. Total: -16843010
+17:32:29 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:32:29 : [teste] - Enviado informações do personagem
+17:32:30 : [teste] - Comando "/day "
+17:32:30 : [teste] - [Mensagem do servidor]> !#11 2
+17:32:38 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:32:43 : [teste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:32:48 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:32:58 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:33:08 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:33:18 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:33:29 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:33:39 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:33:46 : [teste] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:33:46 : [teste] - Personagem foi desconectado. Permaneceu 00:01:21 minutos online
+17:36:21 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 54
+17:36:21 : Usuário logou no jogo com clientId 54. - Servidor 1. Gold do banco: 0
+17:36:21 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:36:22 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:36:26 : Solicitou ir ao mundo...
+17:36:26 : Recebido pedido para entrar no jogo
+17:36:26 : Recebido informação do personagem completa.
+17:36:26 : [teste] - [INFORMAÇÕES DA CONTA]
+Personagem online: teste
+Gold atual: 1999999300
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2086x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Huntress[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 0 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 0 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 0 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[05] - Pedido_de_Caça(Kult)[3435] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:36:26 : [teste] - Personagem teste enviado ao mundo 2086x 2104y - Canal 1 - Cash da conta: 0. OverPower: 2020
+17:36:26 : [teste] - Gold atual: 1999999300. Classe: 3 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:36:26 : [teste] - Resetado a contagem de entradas água! Day: -16908210-280. Total: -16843010
+17:36:26 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:36:26 : [teste] - Enviado informações do personagem
+17:36:27 : [teste] - Comando "/day "
+17:36:27 : [teste] - [Mensagem do servidor]> !#11 2
+17:36:30 : [teste] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:36:40 : [teste] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:36:43 : [teste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:36:50 : [teste] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:36:57 : [teste] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+17:36:57 : [teste] - Personagem foi desconectado. Permaneceu 00:00:36 minutos online
+17:37:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 55
+17:37:16 : Usuário logou no jogo com clientId 55. - Servidor 1. Gold do banco: 0
+17:37:16 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:37:16 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:37:22 : Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:37:22 : Personagem foi desconectado. Permaneceu 00:00:06 minutos online

@@ -1,0 +1,1206 @@
+
+09:39:14 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 1
+09:39:14 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+09:39:14 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+09:39:14 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:39:18 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+09:39:25 : [Mensagem do servidor]> Desequipe todos os itens do personagem para excluir
+09:39:26 : Solicitou ir ao mundo...
+09:39:26 : Recebido pedido para entrar no jogo
+09:39:26 : Recebido informação do personagem completa.
+09:39:26 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 0
+Level atual: 17
+Experiência atual: 30450
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:13 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[02] - Luvas_de_Seda(A)[1292] [43 1 72 20 54 12]
+[03] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[04] - Botas_Acolchoadas(A)[1565] [43 0 73 18 74 15]
+[05] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[06] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[07] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[08] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [126 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:39:26 : [Joao] - Personagem Joao enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 34
+09:39:26 : [Joao] - Gold atual: 0. Classe: 1 Evolução: 1. Experiência: 30450. Nível: 17. Info: 0. GuildID: 0. CP: 51. Pontos de Contribuição: 0. Limite: 0
+09:39:26 : [Joao] - Resetado a contagem de entradas água! Day: 245-246. Total: 0
+09:39:26 : [Joao] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+09:39:26 : [Joao] - Enviado informações do personagem
+09:39:27 : [Joao] - Comando "/day "
+09:39:27 : [Joao] - [Mensagem do servidor]> !#11 2
+09:39:30 : [Joao] - Moveu item Saia_de_Seda(N) [1278] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 10
+09:39:31 : [Joao] - Moveu item Luvas_de_Seda(N) [1290] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 11
+09:39:31 : [Joao] - Moveu item Robe_de_Seda(N) [1266] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 12
+09:39:32 : [Joao] - Moveu item Bandana_de_Seda(N) [1254] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 13
+09:39:32 : [Joao] - Moveu item Botas_de_Seda(N) [1302] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 9
+09:39:33 : [Joao] - Moveu item Arco_Curto [816] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 6 para tipo INVENTÁRIO slot 14
+09:39:36 : [Joao] - Moveu item Saia_de_Seda(N) [1278] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 3
+09:39:36 : [Joao] - O usuário não enviou o pacote de integridade de macaddress
+09:39:38 : [Joao] - Moveu item Saia_de_Seda(N) [1278] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 10
+09:39:45 : [Joao] - Personagem deu personagem
+09:39:56 : Solicitado deletar personagem Joao
+09:39:58 : Solicitou ir ao mundo...
+09:39:58 : Recebido pedido para entrar no jogo
+09:39:58 : Recebido informação do personagem completa.
+09:39:58 : [Mensagem do servidor]> Esfera / Traje expirou...
+09:39:58 : Traje / Esfera expirado. Expira em: 3/9/20
+09:39:58 : [Foema] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foema
+Gold atual: 2300641
+Level atual: 67
+Experiência atual: 1754236
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:44 horas
+Posição atual: 2098x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 16777216
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Chapéu_Sombrio(M)[1261] [43 3 4 20 0 0]
+[02] - Robe_Sombrio(M)[1273] [43 4 2 20 3 20]
+[03] - Calça_Sombria(M)[1285] [43 4 60 6 3 20]
+[04] - Luvas_Sombrias(M)[1297] [43 4 2 20 53 3]
+[05] - Botas_Sombrias(M)[1309] [43 3 60 6 74 12]
+[06] - Arco_de_Caveira[943] [43 9 74 9 2 18]
+[09] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[11] - Rubi_do_Carbunkle[652] [0 0 0 0 0 0]
+[13] - Pedaço_do_Círc_Div_Comp[692] [59 234 59 175 59 18]
+
+[INVENTÁRIO]
+[00] - Âmago_de_Dragão_Menor[2393] [0 0 0 0 0 0]
+[01] - Bastão_Serpente[977] [43 0 59 0 59 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:39:58 : [Foema] - Personagem Foema enviado ao mundo 2098x 2094y - Canal 1 - Cash da conta: 0. OverPower: 269
+09:39:58 : [Foema] - Gold atual: 2300641. Classe: 1 Evolução: 1. Experiência: 1754236. Nível: 67. Info: 16777216. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+09:39:58 : [Foema] - Logou no personagem Foema com frango ativo. Tempo: 206
+09:39:58 : [Foema] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+09:39:58 : [Foema] - Enviado informações do personagem
+09:39:59 : [Foema] - Comando "/day "
+09:39:59 : [Foema] - [Mensagem do servidor]> !#11 2
+09:40:03 : [Foema] - Derrubou o item Âmago_de_Dragão_Menor [2393] [0 0 0 0 0 0] em 2098x 2094y - InvType: 1 - InvSlot: 0
+09:40:05 : [Foema] - Derrubou o item Bastão_Serpente [977] [43 0 59 0 59 0] em 2098x 2094y - InvType: 1 - InvSlot: 1
+09:40:06 : [Foema] - Pegou o item Âmago_de_Dragão_Menor [2393] [0 0 0 0 0 0] do chão
+09:40:08 : [Foema] - Pegou o item Bastão_Serpente [977] [43 0 59 0 59 0] do chão
+09:40:12 : [Foema] - O usuário não enviou o pacote de integridade de macaddress
+09:40:13 : [Foema] - Moveu item Âmago_de_Dragão_Menor [2393] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo INVENTÁRIO slot 6
+09:40:13 : [Foema] - CrackError - Points: 2 type: 20
+09:40:13 : [Foema] - Derrubou o item Bastão_Serpente [977] [43 0 59 0 59 0] em 2098x 2094y - InvType: 1 - InvSlot: 1
+09:40:14 : [Foema] - Pegou o item Bastão_Serpente [977] [43 0 59 0 59 0] do chão
+09:40:16 : [Foema] - Moveu item Âmago_de_Dragão_Menor [2393] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo INVENTÁRIO slot 1
+09:40:16 : [Foema] - CrackError - Points: 2 type: 20
+09:40:17 : [Foema] - Moveu item Bastão_Serpente [977] [43 0 59 0 59 0] do tipo INVENTÁRIO do slot 0 para tipo INVENTÁRIO slot 1
+09:40:17 : [Foema] - CrackError - Points: 2 type: 20
+09:40:23 : [Foema] - Derrubou o item Bastão_Serpente [977] [43 0 59 0 59 0] em 2093x 2098y - InvType: 1 - InvSlot: 1
+09:40:24 : [Foema] - Pegou o item Bastão_Serpente [977] [43 0 59 0 59 0] do chão
+09:40:52 : [Foema] - Teleportado para a posição 1047 1726
+09:40:52 : [Foema] - Solicitado teleporte na posição 2117x 2101y e teleportado para 1047x 1726y
+09:41:05 : [Foema] - Teleportado para a posição 2457 2019
+09:41:05 : [Foema] - Solicitado teleporte na posição 1045x 1709y e teleportado para 2457x 2019y
+09:41:09 : [Foema] - Clicado no NPC [Mount Master]. Face 18. Race: 10. GenerateId: 3269. Posição do usuário: 2460x 2010y. Posição do NPC: 2456x 2010y
+09:41:09 : [Foema] - [Mensagem do servidor]> Você não possui uma montaria
+09:41:16 : [Foema] - Matou o mob Meio Orc. GenerID: 875
+09:41:17 : [Foema] - Matou o mob Meio Orc. GenerID: 873
+09:41:19 : [Foema] - Matou o mob Troll. GenerID: 874
+09:41:20 : [Foema] - Matou o mob Meio Orc. GenerID: 873
+09:41:21 : [Foema] - Matou o mob Meio Orc. GenerID: 875
+09:41:23 : [Foema] - Matou o mob Orc Cavaleiro. GenerID: 873
+09:41:25 : [Foema] - Matou o mob Orc Cavaleiro. GenerID: 875
+09:41:26 : [Foema] - Matou o mob Meio Orc. GenerID: 875
+09:41:27 : [Foema] - Matou o mob Meio Orc. GenerID: 873
+09:41:29 : [Foema] - Matou o mob Orc Cavaleiro. GenerID: 873
+09:41:32 : [Foema] - Matou o mob Orc Cavaleiro. GenerID: 873
+09:41:42 : [Foema] - Personagem deu personagem
+09:41:51 : Solicitou ir ao mundo...
+09:41:51 : Recebido pedido para entrar no jogo
+09:41:51 : Recebido informação do personagem completa.
+09:41:51 : [SeeThat] - [INFORMAÇÕES DA CONTA]
+Personagem online: SeeThat
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:02:37 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Huntress[31] [43 0 31 1 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 0 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 0 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 0 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:41:51 : [SeeThat] - Personagem SeeThat enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+09:41:51 : [SeeThat] - Gold atual: 0. Classe: 3 Evolução: 1. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+09:41:51 : [SeeThat] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+09:41:51 : [SeeThat] - Enviado informações do personagem
+09:41:52 : [SeeThat] - Comando "/day "
+09:41:52 : [SeeThat] - [Mensagem do servidor]> !#11 2
+09:41:56 : [SeeThat] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 4407. Posição do usuário: 2128x 2037y. Posição do NPC: 2133x 2032y
+09:42:00 : [SeeThat] - O usuário não enviou o pacote de integridade de macaddress
+09:42:10 : [SeeThat] - Matou o mob Gremlin Artif. GenerID: 4449
+09:42:10 : [SeeThat] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+09:42:10 : [SeeThat] - Pontos CP subiu em 3. CP novo: 78
+09:42:10 : [SeeThat] - [Mensagem do servidor]> + + + LEVEL UP + + +
+09:42:10 : [SeeThat] - Level UP para level 1. Ev: 1 - 2078x 2022y
+09:42:10 : [SeeThat] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2078x 2022y - Gremlin Artif (1/1)
+09:42:12 : [SeeThat] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2077x 2019y. Posição do NPC: 2080x 2018y
+09:42:12 : [SeeThat] - [Mensagem do servidor]> Recebeu Poção de Cura como recompensa.
+09:42:28 : [SeeThat] - Matou o mob Krill. GenerID: 4451
+09:42:28 : [SeeThat] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+09:42:28 : [SeeThat] - Pontos CP subiu em 3. CP novo: 81
+09:42:28 : [SeeThat] - [Mensagem do servidor]> + + + LEVEL UP + + +
+09:42:28 : [SeeThat] - Level UP para level 2. Ev: 1 - 2075x 2006y
+09:42:28 : [SeeThat] - Pontos CP subiu em 3. CP novo: 84
+09:42:28 : [SeeThat] - [Mensagem do servidor]> + + + LEVEL UP + + +
+09:42:28 : [SeeThat] - Level UP para level 3. Ev: 1 - 2075x 2006y
+09:42:43 : [SeeThat] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3422. Posição do usuário: 2090x 2001y. Posição do NPC: 2087x 2001y
+09:42:44 : [SeeThat] - Matou o mob Gremlin. GenerID: 4455
+09:42:44 : [SeeThat] - Pontos CP subiu em 3. CP novo: 87
+09:42:44 : [SeeThat] - [Mensagem do servidor]> + + + LEVEL UP + + +
+09:42:44 : [SeeThat] - Level UP para level 4. Ev: 1 - 2089x 2001y
+09:42:47 : [SeeThat] - Matou o mob Krill. GenerID: 4459
+09:42:47 : [SeeThat] - Pontos CP subiu em 3. CP novo: 90
+09:42:47 : [SeeThat] - [Mensagem do servidor]> + + + LEVEL UP + + +
+09:42:47 : [SeeThat] - Level UP para level 5. Ev: 1 - 2100x 1999y
+09:42:47 : [SeeThat] - Pontos CP subiu em 3. CP novo: 93
+09:42:47 : [SeeThat] - [Mensagem do servidor]> + + + LEVEL UP + + +
+09:42:47 : [SeeThat] - Level UP para level 6. Ev: 1 - 2100x 1999y
+09:43:21 : [SeeThat] - [Mensagem do servidor]: Boss Imperador_Amon renasceu
+09:43:40 : [SeeThat] - Matou o mob Krill Gigante. GenerID: 4476
+09:43:40 : [SeeThat] - Pontos CP subiu em 3. CP novo: 96
+09:43:40 : [SeeThat] - [Mensagem do servidor]> + + + LEVEL UP + + +
+09:43:40 : [SeeThat] - Level UP para level 7. Ev: 1 - 2141x 2000y
+09:43:40 : [SeeThat] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2141x 2000y - Krill Gigante (1/1)
+09:43:44 : [SeeThat] - Clicado no NPC [Treinador2]. Face 60. Race: 8. GenerateId: 4409. Posição do usuário: 2144x 1989y. Posição do NPC: 2139x 1990y
+09:43:44 : [SeeThat] - [Mensagem do servidor]> Como recompensa foi atribuída uma opção adicional em sua arma.
+09:43:59 : [SeeThat] - Ataque mais rápido que 900ms. Diferença 883
+09:44:23 : [SeeThat] - Matou o mob Orc Sniper. GenerID: 4494
+09:44:23 : [SeeThat] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+09:44:23 : [SeeThat] - Pontos CP subiu em 3. CP novo: 99
+09:44:23 : [SeeThat] - [Mensagem do servidor]> + + + LEVEL UP + + +
+09:44:23 : [SeeThat] - Level UP para level 8. Ev: 1 - 2078x 1972y
+09:44:23 : [SeeThat] - Dropado item Chave_da_Ultima_Porta [453] [0 0 0 0 0 0] em 2078x 1972y - Orc Sniper (1/1)
+09:44:23 : [SeeThat] - Pontos CP subiu em 3. CP novo: 102
+09:44:23 : [SeeThat] - [Mensagem do servidor]> + + + LEVEL UP + + +
+09:44:23 : [SeeThat] - Level UP para level 9. Ev: 1 - 2078x 1972y
+09:44:24 : [SeeThat] - Clicado no NPC [Treinador3]. Face 60. Race: 8. GenerateId: 4410. Posição do usuário: 2079x 1968y. Posição do NPC: 2078x 1966y
+09:44:24 : [SeeThat] - [Mensagem do servidor]> Como recompensa a sua arma e armadura foram refinadas.
+09:44:31 : [SeeThat] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3423. Posição do usuário: 2081x 1950y. Posição do NPC: 2080x 1945y
+09:44:31 : [SeeThat] - [Mensagem do servidor]: Boss Dark_Shadow renasceu
+09:44:32 : [SeeThat] - Moveu item Braçadeira_de_Ferro(N) [1575] [43 4 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 0
+09:44:33 : [SeeThat] - Item Classe_A [4016] [61 5 0 0 0 0] utilizado em 0x 0y
+09:44:33 : [SeeThat] - Replation usado em Braçadeira_de_Ferro(N) [1575] [43 4 0 0 0 0]
+09:44:33 : [SeeThat] - Replation gerou o adicional [1575] [43 4 72 25 60 6]
+09:44:34 : [SeeThat] - Moveu item Braçadeira_de_Ferro(N) [1575] [43 4 72 25 60 6] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 4
+09:44:35 : [SeeThat] - Moveu item Calça_de_Ferro(N) [1572] [43 3 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 0
+09:44:36 : [SeeThat] - Item Classe_A [4016] [61 4 0 0 0 0] utilizado em 0x 0y
+09:44:36 : [SeeThat] - Replation usado em Calça_de_Ferro(N) [1572] [43 3 0 0 0 0]
+09:44:36 : [SeeThat] - Replation gerou o adicional [1572] [43 3 3 30 60 10]
+09:44:37 : [SeeThat] - Moveu item Kit_de_Cura_(20_M.) [682] [61 19 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo INVENTÁRIO slot 2
+09:44:37 : [SeeThat] - CrackError - Points: 2 type: 20
+09:44:39 : [SeeThat] - Moveu item Calça_de_Ferro(N) [1572] [43 3 3 30 60 10] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 3
+09:44:40 : [SeeThat] - Moveu item Botas_de_Ferro(N) [1578] [43 3 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 0
+09:44:42 : [SeeThat] - Item Classe_A [4016] [61 3 0 0 0 0] utilizado em 0x 0y
+09:44:42 : [SeeThat] - Replation usado em Botas_de_Ferro(N) [1578] [43 3 0 0 0 0]
+09:44:42 : [SeeThat] - Replation gerou o adicional [1578] [43 3 73 12 60 8]
+09:44:43 : [SeeThat] - Moveu item Botas_de_Ferro(N) [1578] [43 3 73 12 60 8] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 5
+09:44:44 : [SeeThat] - Moveu item Peitoral_de_Ferro(N) [1569] [43 4 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 0
+09:44:44 : [SeeThat] - Matou o mob Rei Gremlin  . GenerID: 4490
+09:44:44 : [SeeThat] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+09:44:44 : [SeeThat] - Pontos CP subiu em 3. CP novo: 105
+09:44:44 : [SeeThat] - [Mensagem do servidor]> + + + LEVEL UP + + +
+09:44:44 : [SeeThat] - Level UP para level 10. Ev: 1 - 2081x 1950y
+09:44:45 : [SeeThat] - Item Classe_A [4016] [61 2 0 0 0 0] utilizado em 0x 0y
+09:44:45 : [SeeThat] - Replation usado em Peitoral_de_Ferro(N) [1569] [43 4 0 0 0 0]
+09:44:45 : [SeeThat] - Replation gerou o adicional [1569] [43 4 71 60 2 30]
+09:44:46 : [SeeThat] - Moveu item Peitoral_de_Ferro(N) [1569] [43 4 71 60 2 30] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 2
+09:44:47 : [SeeThat] - Moveu item Chapéu_Acolchoado(A) [1553] [43 4 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 0
+09:44:49 : [SeeThat] - Item Classe_A [4016] [61 1 0 0 0 0] utilizado em 0x 0y
+09:44:49 : [SeeThat] - Replation usado em Chapéu_Acolchoado(A) [1553] [43 4 0 0 0 0]
+09:44:49 : [SeeThat] - Replation gerou o adicional [1553] [43 4 26 9 4 50]
+09:44:51 : [SeeThat] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+09:44:51 : [SeeThat] - Personagem foi desconectado. Permaneceu 00:05:37 minutos online
+11:51:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 1
+11:51:16 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+11:51:16 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+11:51:16 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:51:19 : [Mensagem do servidor]> Para realizar a composição é necessário [01] Pedra do Sábio
+11:51:20 : Solicitou ir ao mundo...
+11:51:20 : Recebido pedido para entrar no jogo
+11:51:20 : Recebido informação do personagem completa.
+11:51:20 : [Foema] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foema
+Gold atual: 2299941
+Level atual: 67
+Experiência atual: 1756836
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2086x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 16777216
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Chapéu_Sombrio(M)[1261] [43 3 4 20 0 0]
+[02] - Robe_Sombrio(M)[1273] [43 4 2 20 3 20]
+[03] - Calça_Sombria(M)[1285] [43 4 60 6 3 20]
+[04] - Luvas_Sombrias(M)[1297] [43 4 2 20 53 3]
+[05] - Botas_Sombrias(M)[1309] [43 3 60 6 74 12]
+[06] - Arco_de_Caveira[943] [43 9 74 9 2 18]
+[09] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[11] - Rubi_do_Carbunkle[652] [0 0 0 0 0 0]
+[13] - Pedaço_do_Círc_Div_Comp[692] [59 234 59 175 59 18]
+
+[INVENTÁRIO]
+[00] - Âmago_de_Dragão_Menor[2393] [0 0 0 0 0 0]
+[01] - Bastão_Serpente[977] [43 0 59 0 59 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:51:20 : [Foema] - Personagem Foema enviado ao mundo 2086x 2103y - Canal 1 - Cash da conta: 0. OverPower: 269
+11:51:20 : [Foema] - Gold atual: 2299941. Classe: 1 Evolução: 1. Experiência: 1756836. Nível: 67. Info: 16777216. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+11:51:20 : [Foema] - Logou no personagem Foema com frango ativo. Tempo: 193
+11:51:20 : [Foema] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+11:51:20 : [Foema] - Enviado informações do personagem
+11:51:22 : [Foema] - Comando "/day "
+11:51:22 : [Foema] - [Mensagem do servidor]> !#11 2
+11:51:33 : [Foema] - Teleportado para a posição 1046 1726
+11:51:33 : [Foema] - Solicitado teleporte na posição 2118x 2102y e teleportado para 1046x 1726y
+11:51:36 : [Foema] - O usuário não enviou o pacote de integridade de macaddress
+11:51:39 : [Foema] - Teleportado para a posição 2457 2019
+11:51:39 : [Foema] - Solicitado teleporte na posição 1045x 1709y e teleportado para 2457x 2019y
+11:51:46 : [Foema] - Matou o mob Orc Cavaleiro. GenerID: 873
+11:51:47 : [Foema] - Matou o mob Meio Orc. GenerID: 873
+11:51:48 : [Foema] - Matou o mob Orc Cavaleiro. GenerID: 873
+11:51:49 : [Foema] - Matou o mob Orc Cavaleiro. GenerID: 875
+11:51:50 : [Foema] - Matou o mob Meio Orc. GenerID: 873
+11:51:51 : [Foema] - Matou o mob Meio Orc. GenerID: 875
+11:51:52 : [Foema] - Matou o mob Meio Orc. GenerID: 875
+11:51:53 : [Foema] - Matou o mob Orc Cavaleiro. GenerID: 873
+11:51:54 : [Foema] - Matou o mob Meio Orc. GenerID: 873
+11:51:58 : [Foema] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+11:51:58 : [Foema] - Personagem foi desconectado. Permaneceu 00:00:42 minutos online
+12:43:17 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 1
+12:43:17 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+12:43:17 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:43:18 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:43:21 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+12:43:22 : Solicitou ir ao mundo...
+12:43:22 : Recebido pedido para entrar no jogo
+12:43:22 : Recebido informação do personagem completa.
+12:43:22 : [Foema] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foema
+Gold atual: 2299241
+Level atual: 67
+Experiência atual: 1758780
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2087x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 16777216
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Chapéu_Sombrio(M)[1261] [43 3 4 20 0 0]
+[02] - Robe_Sombrio(M)[1273] [43 4 2 20 3 20]
+[03] - Calça_Sombria(M)[1285] [43 4 60 6 3 20]
+[04] - Luvas_Sombrias(M)[1297] [43 4 2 20 53 3]
+[05] - Botas_Sombrias(M)[1309] [43 3 60 6 74 12]
+[06] - Arco_de_Caveira[943] [43 9 74 9 2 18]
+[09] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[11] - Rubi_do_Carbunkle[652] [0 0 0 0 0 0]
+[13] - Pedaço_do_Círc_Div_Comp[692] [59 234 59 175 59 18]
+
+[INVENTÁRIO]
+[00] - Âmago_de_Dragão_Menor[2393] [0 0 0 0 0 0]
+[01] - Bastão_Serpente[977] [43 0 59 0 59 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:43:22 : [Foema] - Personagem Foema enviado ao mundo 2087x 2102y - Canal 1 - Cash da conta: 0. OverPower: 269
+12:43:22 : [Foema] - Gold atual: 2299241. Classe: 1 Evolução: 1. Experiência: 1758780. Nível: 67. Info: 16777216. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+12:43:22 : [Foema] - Logou no personagem Foema com frango ativo. Tempo: 188
+12:43:22 : [Foema] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+12:43:22 : [Foema] - Enviado informações do personagem
+12:43:23 : [Foema] - Comando "/day "
+12:43:23 : [Foema] - [Mensagem do servidor]> !#11 2
+12:43:36 : [Foema] - O usuário não enviou o pacote de integridade de macaddress
+12:43:39 : [Foema] - Clicado no NPC [Mercantil]. Face 66. Race: 10. GenerateId: 4775. Posição do usuário: 2123x 2116y. Posição do NPC: 2126x 2115y
+12:43:52 : [Foema] - Clicado no NPC [ArenaStore]. Face 66. Race: 10. GenerateId: 4774. Posição do usuário: 2121x 2141y. Posição do NPC: 2122x 2141y
+12:43:54 : [Foema] - Clicado no NPC [Odin]. Face 51. Race: 8. GenerateId: 4772. Posição do usuário: 2119x 2146y. Posição do NPC: 2122x 2149y
+12:44:01 : [Foema] - Clicado no NPC de Imposto
+12:44:17 : [Foema] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:44:17 : [Foema] - Personagem foi desconectado. Permaneceu 00:01:00 minutos online
+13:08:35 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 1
+13:08:35 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+13:08:35 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:08:40 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+13:08:42 : Solicitou ir ao mundo...
+13:08:42 : Recebido pedido para entrar no jogo
+13:08:42 : Recebido informação do personagem completa.
+13:08:42 : [Foema] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foema
+Gold atual: 2299241
+Level atual: 67
+Experiência atual: 1758780
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2094x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 16777216
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Chapéu_Sombrio(M)[1261] [43 3 4 20 0 0]
+[02] - Robe_Sombrio(M)[1273] [43 4 2 20 3 20]
+[03] - Calça_Sombria(M)[1285] [43 4 60 6 3 20]
+[04] - Luvas_Sombrias(M)[1297] [43 4 2 20 53 3]
+[05] - Botas_Sombrias(M)[1309] [43 3 60 6 74 12]
+[06] - Arco_de_Caveira[943] [43 9 74 9 2 18]
+[09] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[11] - Rubi_do_Carbunkle[652] [0 0 0 0 0 0]
+[13] - Pedaço_do_Círc_Div_Comp[692] [59 234 59 175 59 18]
+
+[INVENTÁRIO]
+[00] - Âmago_de_Dragão_Menor[2393] [0 0 0 0 0 0]
+[01] - Bastão_Serpente[977] [43 0 59 0 59 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:08:42 : [Foema] - Personagem Foema enviado ao mundo 2094x 2093y - Canal 1 - Cash da conta: 0. OverPower: 269
+13:08:42 : [Foema] - Gold atual: 2299241. Classe: 1 Evolução: 1. Experiência: 1758780. Nível: 67. Info: 16777216. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:08:42 : [Foema] - Logou no personagem Foema com frango ativo. Tempo: 181
+13:08:42 : [Foema] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+13:08:42 : [Foema] - Enviado informações do personagem
+13:08:43 : [Foema] - Comando "/day "
+13:08:43 : [Foema] - [Mensagem do servidor]> !#11 2
+13:08:48 : [Foema] - O usuário não enviou o pacote de integridade de macaddress
+13:09:00 : [Foema] - Clicado no NPC [Kibita]. Face 51. Race: 10. GenerateId: 3288. Posição do usuário: 2133x 2105y. Posição do NPC: 2135x 2105y
+13:09:00 : [Foema] - [Mensagem do servidor]> Desculpe.
+13:09:02 : [Foema] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:09:02 : [Foema] - Personagem foi desconectado. Permaneceu 00:00:28 minutos online
+13:09:24 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 1
+13:09:24 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+13:09:24 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:09:28 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+13:09:30 : Solicitou ir ao mundo...
+13:09:30 : Recebido pedido para entrar no jogo
+13:09:30 : Recebido informação do personagem completa.
+13:09:30 : [Foema] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foema
+Gold atual: 2299241
+Level atual: 67
+Experiência atual: 1758780
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2090x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 16777216
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Chapéu_Sombrio(M)[1261] [43 3 4 20 0 0]
+[02] - Robe_Sombrio(M)[1273] [43 4 2 20 3 20]
+[03] - Calça_Sombria(M)[1285] [43 4 60 6 3 20]
+[04] - Luvas_Sombrias(M)[1297] [43 4 2 20 53 3]
+[05] - Botas_Sombrias(M)[1309] [43 3 60 6 74 12]
+[06] - Arco_de_Caveira[943] [43 9 74 9 2 18]
+[09] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[11] - Rubi_do_Carbunkle[652] [0 0 0 0 0 0]
+[13] - Pedaço_do_Círc_Div_Comp[692] [59 234 59 175 59 18]
+
+[INVENTÁRIO]
+[00] - Âmago_de_Dragão_Menor[2393] [0 0 0 0 0 0]
+[01] - Bastão_Serpente[977] [43 0 59 0 59 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:09:30 : [Foema] - Personagem Foema enviado ao mundo 2090x 2094y - Canal 1 - Cash da conta: 0. OverPower: 269
+13:09:30 : [Foema] - Gold atual: 2299241. Classe: 1 Evolução: 1. Experiência: 1758780. Nível: 67. Info: 16777216. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:09:30 : [Foema] - Logou no personagem Foema com frango ativo. Tempo: 178
+13:09:30 : [Foema] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+13:09:30 : [Foema] - Enviado informações do personagem
+13:09:31 : [Foema] - Comando "/day "
+13:09:31 : [Foema] - [Mensagem do servidor]> !#11 2
+13:09:36 : [Foema] - O usuário não enviou o pacote de integridade de macaddress
+13:10:15 : [Foema] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:10:15 : [Foema] - Personagem foi desconectado. Permaneceu 00:00:50 minutos online
+13:10:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 1
+13:10:29 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+13:10:29 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:10:31 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+13:10:32 : Solicitou ir ao mundo...
+13:10:32 : Recebido pedido para entrar no jogo
+13:10:32 : Recebido informação do personagem completa.
+13:10:32 : [Foema] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foema
+Gold atual: 2299241
+Level atual: 67
+Experiência atual: 1758780
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2098x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 16777216
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Chapéu_Sombrio(M)[1261] [43 3 4 20 0 0]
+[02] - Robe_Sombrio(M)[1273] [43 4 2 20 3 20]
+[03] - Calça_Sombria(M)[1285] [43 4 60 6 3 20]
+[04] - Luvas_Sombrias(M)[1297] [43 4 2 20 53 3]
+[05] - Botas_Sombrias(M)[1309] [43 3 60 6 74 12]
+[06] - Arco_de_Caveira[943] [43 9 74 9 2 18]
+[09] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[11] - Rubi_do_Carbunkle[652] [0 0 0 0 0 0]
+[13] - Pedaço_do_Círc_Div_Comp[692] [59 234 59 175 59 18]
+
+[INVENTÁRIO]
+[00] - Âmago_de_Dragão_Menor[2393] [0 0 0 0 0 0]
+[01] - Bastão_Serpente[977] [43 0 59 0 59 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:10:32 : [Foema] - Personagem Foema enviado ao mundo 2098x 2098y - Canal 1 - Cash da conta: 0. OverPower: 269
+13:10:32 : [Foema] - Gold atual: 2299241. Classe: 1 Evolução: 1. Experiência: 1758780. Nível: 67. Info: 16777216. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:10:32 : [Foema] - Logou no personagem Foema com frango ativo. Tempo: 172
+13:10:32 : [Foema] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+13:10:32 : [Foema] - Enviado informações do personagem
+13:10:33 : [Foema] - Comando "/day "
+13:10:33 : [Foema] - [Mensagem do servidor]> !#11 2
+13:10:48 : [Foema] - O usuário não enviou o pacote de integridade de macaddress
+13:10:57 : [Foema] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:10:57 : [Foema] - Personagem foi desconectado. Permaneceu 00:00:28 minutos online
+13:11:15 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 1
+13:11:15 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+13:11:15 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:11:18 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+13:11:20 : Solicitou ir ao mundo...
+13:11:20 : Recebido pedido para entrar no jogo
+13:11:20 : Recebido informação do personagem completa.
+13:11:20 : [Foema] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foema
+Gold atual: 2299241
+Level atual: 67
+Experiência atual: 1758780
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2087x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 16777216
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Chapéu_Sombrio(M)[1261] [43 3 4 20 0 0]
+[02] - Robe_Sombrio(M)[1273] [43 4 2 20 3 20]
+[03] - Calça_Sombria(M)[1285] [43 4 60 6 3 20]
+[04] - Luvas_Sombrias(M)[1297] [43 4 2 20 53 3]
+[05] - Botas_Sombrias(M)[1309] [43 3 60 6 74 12]
+[06] - Arco_de_Caveira[943] [43 9 74 9 2 18]
+[09] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[11] - Rubi_do_Carbunkle[652] [0 0 0 0 0 0]
+[13] - Pedaço_do_Círc_Div_Comp[692] [59 234 59 175 59 18]
+
+[INVENTÁRIO]
+[00] - Âmago_de_Dragão_Menor[2393] [0 0 0 0 0 0]
+[01] - Bastão_Serpente[977] [43 0 59 0 59 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:11:20 : [Foema] - Personagem Foema enviado ao mundo 2087x 2102y - Canal 1 - Cash da conta: 0. OverPower: 269
+13:11:20 : [Foema] - Gold atual: 2299241. Classe: 1 Evolução: 1. Experiência: 1758780. Nível: 67. Info: 16777216. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:11:20 : [Foema] - Logou no personagem Foema com frango ativo. Tempo: 169
+13:11:20 : [Foema] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+13:11:20 : [Foema] - Enviado informações do personagem
+13:11:21 : [Foema] - Comando "/day "
+13:11:21 : [Foema] - [Mensagem do servidor]> !#11 2
+13:11:36 : [Foema] - O usuário não enviou o pacote de integridade de macaddress
+13:11:40 : [Foema] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:11:40 : [Foema] - Personagem foi desconectado. Permaneceu 00:00:24 minutos online
+15:30:31 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 1
+15:30:31 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+15:30:31 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:30:31 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:30:35 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+15:30:36 : Solicitou ir ao mundo...
+15:30:36 : Recebido pedido para entrar no jogo
+15:30:36 : Recebido informação do personagem completa.
+15:30:36 : [Foema] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foema
+Gold atual: 2299241
+Level atual: 67
+Experiência atual: 1758780
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2095x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 16777216
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Chapéu_Sombrio(M)[1261] [43 3 4 20 0 0]
+[02] - Robe_Sombrio(M)[1273] [43 4 2 20 3 20]
+[03] - Calça_Sombria(M)[1285] [43 4 60 6 3 20]
+[04] - Luvas_Sombrias(M)[1297] [43 4 2 20 53 3]
+[05] - Botas_Sombrias(M)[1309] [43 3 60 6 74 12]
+[06] - Arco_de_Caveira[943] [43 9 74 9 2 18]
+[09] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[11] - Rubi_do_Carbunkle[652] [0 0 0 0 0 0]
+[13] - Pedaço_do_Círc_Div_Comp[692] [59 234 59 175 59 18]
+
+[INVENTÁRIO]
+[00] - Âmago_de_Dragão_Menor[2393] [0 0 0 0 0 0]
+[01] - Bastão_Serpente[977] [43 0 59 0 59 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:30:36 : [Foema] - Personagem Foema enviado ao mundo 2095x 2097y - Canal 1 - Cash da conta: 0. OverPower: 269
+15:30:36 : [Foema] - Gold atual: 2299241. Classe: 1 Evolução: 1. Experiência: 1758780. Nível: 67. Info: 16777216. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+15:30:36 : [Foema] - Logou no personagem Foema com frango ativo. Tempo: 166
+15:30:36 : [Foema] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+15:30:36 : [Foema] - Enviado informações do personagem
+15:30:37 : [Foema] - Comando "/day "
+15:30:37 : [Foema] - [Mensagem do servidor]> !#11 2
+15:30:49 : [Foema] - O usuário não enviou o pacote de integridade de macaddress
+15:31:11 : [Foema] - Derrubou o item Bastão_Serpente [977] [43 0 59 0 59 0] em 2100x 2105y - InvType: 1 - InvSlot: 1
+15:31:13 : [Foema] - Derrubou o item Âmago_de_Dragão_Menor [2393] [0 0 0 0 0 0] em 2105x 2107y - InvType: 1 - InvSlot: 0
+15:31:14 : [Foema] - Pegou o item Âmago_de_Dragão_Menor [2393] [0 0 0 0 0 0] do chão
+15:31:17 : [Foema] - Pegou o item Bastão_Serpente [977] [43 0 59 0 59 0] do chão
+15:31:29 : [Foema] - Moveu item Âmago_de_Dragão_Menor [2393] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo BANCO slot 16
+15:31:29 : [Foema] - CrackError - Points: 2 type: 20
+15:31:31 : [Foema] - CrackError - Points: 2 type: 20
+15:31:31 : [Foema] - Moveu item Bastão_Serpente [977] [43 0 59 0 59 0] do tipo INVENTÁRIO do slot 1 para tipo BANCO slot 39
+15:31:34 : [Foema] - Moveu item Bastão_Serpente [977] [43 0 59 0 59 0] do tipo BANCO do slot 39 para tipo INVENTÁRIO slot 10
+15:31:34 : [Foema] - CrackError - Points: 2 type: 20
+15:31:36 : [Foema] - CrackError - Points: 2 type: 20
+15:31:36 : [Foema] - Moveu item Bastão_Serpente [977] [43 0 59 0 59 0] do tipo INVENTÁRIO do slot 10 para tipo BANCO slot 39
+15:31:38 : [Foema] - Moveu item Bastão_Serpente [977] [43 0 59 0 59 0] do tipo BANCO do slot 39 para tipo INVENTÁRIO slot 5
+15:31:38 : [Foema] - CrackError - Points: 2 type: 20
+15:31:40 : [Foema] - CrackError - Points: 2 type: 20
+15:31:40 : [Foema] - CrackError - Points: 2 type: 20
+15:31:41 : [Foema] - CrackError - Points: 2 type: 20
+15:31:41 : [Foema] - CrackError - Points: 2 type: 20
+15:31:42 : [Foema] - CrackError - Points: 2 type: 20
+15:31:43 : [Foema] - CrackError - Points: 2 type: 20
+15:31:43 : [Foema] - CrackError - Points: 2 type: 20
+15:31:43 : [Foema] - CrackError - Points: 2 type: 20
+15:31:43 : [Foema] - CrackError - Points: 2 type: 20
+15:31:43 : [Foema] - CrackError - Points: 2 type: 20
+15:31:43 : [Foema] - Desconectado - CrackCount: 30 - point: 2 - type: 20
+15:31:43 : [Foema] - [Mensagem do servidor]> Ocorreu um erro, contate a administração relatando o bug.
+15:31:43 : Enviado para a tela de personagem. CrackError atingiu o limite
+15:31:44 : CrackError - Points: 1 type: 19
+15:31:44 : CrackError - Points: 1 type: 19
+15:31:47 : Solicitou ir ao mundo...
+15:31:47 : Recebido pedido para entrar no jogo
+15:31:47 : Recebido informação do personagem completa.
+15:31:47 : [Foema] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foema
+Gold atual: 2299241
+Level atual: 67
+Experiência atual: 1758780
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:01:17 horas
+Posição atual: 2099x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 16777216
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Chapéu_Sombrio(M)[1261] [43 3 4 20 0 0]
+[02] - Robe_Sombrio(M)[1273] [43 4 2 20 3 20]
+[03] - Calça_Sombria(M)[1285] [43 4 60 6 3 20]
+[04] - Luvas_Sombrias(M)[1297] [43 4 2 20 53 3]
+[05] - Botas_Sombrias(M)[1309] [43 3 60 6 74 12]
+[06] - Arco_de_Caveira[943] [43 9 74 9 2 18]
+[09] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[11] - Rubi_do_Carbunkle[652] [0 0 0 0 0 0]
+[13] - Pedaço_do_Círc_Div_Comp[692] [59 234 59 175 59 18]
+
+[INVENTÁRIO]
+[05] - Bastão_Serpente[977] [43 0 59 0 59 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:31:47 : [Foema] - Personagem Foema enviado ao mundo 2099x 2104y - Canal 1 - Cash da conta: 0. OverPower: 269
+15:31:47 : [Foema] - Gold atual: 2299241. Classe: 1 Evolução: 1. Experiência: 1758780. Nível: 67. Info: 16777216. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+15:31:47 : [Foema] - Logou no personagem Foema com frango ativo. Tempo: 158
+15:31:47 : [Foema] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+15:31:47 : [Foema] - Enviado informações do personagem
+15:31:48 : [Foema] - Comando "/day "
+15:31:48 : [Foema] - [Mensagem do servidor]> !#11 2
+15:31:54 : [Foema] - Moveu item Âmago_de_Dragão_Menor [2393] [0 0 0 0 0 0] do tipo BANCO do slot 16 para tipo INVENTÁRIO slot 22
+15:31:54 : [Foema] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 16 para tipo INVENTÁRIO slot 14
+15:31:56 : [Foema] - Moveu item Bastão_Serpente [977] [43 0 59 0 59 0] do tipo INVENTÁRIO do slot 5 para tipo BANCO slot 31
+15:31:56 : [Foema] - CrackError - Points: 2 type: 20
+15:32:01 : [Foema] - O usuário não enviou o pacote de integridade de macaddress
+15:32:30 : [Foema] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:32:30 : [Foema] - Personagem foi desconectado. Permaneceu 00:01:59 minutos online
+17:35:17 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 1
+17:35:17 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+17:35:17 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 31] - Bastão_Serpente[977] [43 0 59 0 59 0]
+
+17:35:17 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:35:21 : Solicitou ir ao mundo...
+17:35:21 : Recebido pedido para entrar no jogo
+17:35:21 : Recebido informação do personagem completa.
+17:35:21 : [Foema] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foema
+Gold atual: 2299241
+Level atual: 67
+Experiência atual: 1758780
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2086x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 16777216
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Chapéu_Sombrio(M)[1261] [43 3 4 20 0 0]
+[02] - Robe_Sombrio(M)[1273] [43 4 2 20 3 20]
+[03] - Calça_Sombria(M)[1285] [43 4 60 6 3 20]
+[04] - Luvas_Sombrias(M)[1297] [43 4 2 20 53 3]
+[05] - Botas_Sombrias(M)[1309] [43 3 60 6 74 12]
+[06] - Arco_de_Caveira[943] [43 9 74 9 2 18]
+[09] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[11] - Rubi_do_Carbunkle[652] [0 0 0 0 0 0]
+[13] - Pedaço_do_Círc_Div_Comp[692] [59 234 59 175 59 18]
+
+[INVENTÁRIO]
+[22] - Âmago_de_Dragão_Menor[2393] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:35:21 : [Foema] - Personagem Foema enviado ao mundo 2086x 2105y - Canal 1 - Cash da conta: 0. OverPower: 269
+17:35:21 : [Foema] - Gold atual: 2299241. Classe: 1 Evolução: 1. Experiência: 1758780. Nível: 67. Info: 16777216. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:35:21 : [Foema] - Logou no personagem Foema com frango ativo. Tempo: 153
+17:35:21 : [Foema] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+17:35:21 : [Foema] - Enviado informações do personagem
+17:35:22 : [Foema] - Comando "/day "
+17:35:23 : [Foema] - [Mensagem do servidor]> !#11 2
+17:35:30 : [Foema] - Teleportado para a posição 1047 1725
+17:35:30 : [Foema] - Solicitado teleporte na posição 2117x 2101y e teleportado para 1047x 1725y
+17:35:34 : [Foema] - Teleportado para a posição 2481 1718
+17:35:34 : [Foema] - Solicitado teleporte na posição 1046x 1717y e teleportado para 2481x 1718y
+17:35:37 : [Foema] - O usuário não enviou o pacote de integridade de macaddress
+17:35:40 : [Foema] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:35:40 : [Foema] - Personagem foi desconectado. Permaneceu 00:00:23 minutos online
+17:36:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 1
+17:36:16 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+17:36:16 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 31] - Bastão_Serpente[977] [43 0 59 0 59 0]
+
+17:36:20 : Solicitou ir ao mundo...
+17:36:20 : Recebido pedido para entrar no jogo
+17:36:20 : Recebido informação do personagem completa.
+17:36:20 : [Foema] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foema
+Gold atual: 2298541
+Level atual: 67
+Experiência atual: 1758780
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2097x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 16777216
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Chapéu_Sombrio(M)[1261] [43 3 4 20 0 0]
+[02] - Robe_Sombrio(M)[1273] [43 4 2 20 3 20]
+[03] - Calça_Sombria(M)[1285] [43 4 60 6 3 20]
+[04] - Luvas_Sombrias(M)[1297] [43 4 2 20 53 3]
+[05] - Botas_Sombrias(M)[1309] [43 3 60 6 74 12]
+[06] - Arco_de_Caveira[943] [43 9 74 9 2 18]
+[09] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[11] - Rubi_do_Carbunkle[652] [0 0 0 0 0 0]
+[13] - Pedaço_do_Círc_Div_Comp[692] [59 234 59 175 59 18]
+
+[INVENTÁRIO]
+[22] - Âmago_de_Dragão_Menor[2393] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:36:20 : [Foema] - Personagem Foema enviado ao mundo 2097x 2097y - Canal 1 - Cash da conta: 0. OverPower: 269
+17:36:20 : [Foema] - Gold atual: 2298541. Classe: 1 Evolução: 1. Experiência: 1758780. Nível: 67. Info: 16777216. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:36:20 : [Foema] - Logou no personagem Foema com frango ativo. Tempo: 150
+17:36:20 : [Foema] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+17:36:20 : [Foema] - Enviado informações do personagem
+17:36:20 : [Foema] - Comando "/day "
+17:36:20 : [Foema] - [Mensagem do servidor]> !#11 2
+17:36:25 : [Foema] - O usuário não enviou o pacote de integridade de macaddress
+17:36:26 : [Foema] - Teleportado para a posição 1046 1726
+17:36:26 : [Foema] - Solicitado teleporte na posição 2117x 2103y e teleportado para 1046x 1726y
+17:36:29 : [Foema] - Teleportado para a posição 2482 1718
+17:36:29 : [Foema] - Solicitado teleporte na posição 1045x 1717y e teleportado para 2482x 1718y
+17:36:58 : [Foema] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:36:58 : [Foema] - Personagem foi desconectado. Permaneceu 00:00:43 minutos online
+17:37:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 1
+17:37:22 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+17:37:22 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 31] - Bastão_Serpente[977] [43 0 59 0 59 0]
+
+17:37:26 : Solicitou ir ao mundo...
+17:37:26 : Recebido pedido para entrar no jogo
+17:37:26 : Recebido informação do personagem completa.
+17:37:26 : [Foema] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foema
+Gold atual: 2297841
+Level atual: 67
+Experiência atual: 1758780
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2099x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 16777216
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Chapéu_Sombrio(M)[1261] [43 3 4 20 0 0]
+[02] - Robe_Sombrio(M)[1273] [43 4 2 20 3 20]
+[03] - Calça_Sombria(M)[1285] [43 4 60 6 3 20]
+[04] - Luvas_Sombrias(M)[1297] [43 4 2 20 53 3]
+[05] - Botas_Sombrias(M)[1309] [43 3 60 6 74 12]
+[06] - Arco_de_Caveira[943] [43 9 74 9 2 18]
+[09] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[11] - Rubi_do_Carbunkle[652] [0 0 0 0 0 0]
+[13] - Pedaço_do_Círc_Div_Comp[692] [59 234 59 175 59 18]
+
+[INVENTÁRIO]
+[22] - Âmago_de_Dragão_Menor[2393] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:37:26 : [Foema] - Personagem Foema enviado ao mundo 2099x 2102y - Canal 1 - Cash da conta: 0. OverPower: 269
+17:37:26 : [Foema] - Gold atual: 2297841. Classe: 1 Evolução: 1. Experiência: 1758780. Nível: 67. Info: 16777216. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:37:26 : [Foema] - Logou no personagem Foema com frango ativo. Tempo: 146
+17:37:26 : [Foema] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+17:37:26 : [Foema] - Enviado informações do personagem
+17:37:27 : [Foema] - Comando "/day "
+17:37:27 : [Foema] - [Mensagem do servidor]> !#11 2
+17:37:33 : [Foema] - Teleportado para a posição 1047 1725
+17:37:33 : [Foema] - Solicitado teleporte na posição 2117x 2102y e teleportado para 1047x 1725y
+17:37:36 : [Foema] - Teleportado para a posição 2482 1717
+17:37:36 : [Foema] - Solicitado teleporte na posição 1046x 1717y e teleportado para 2482x 1717y
+17:37:37 : [Foema] - O usuário não enviou o pacote de integridade de macaddress
+17:37:50 : [Foema] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:37:50 : [Foema] - Personagem foi desconectado. Permaneceu 00:00:28 minutos online
+17:37:57 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 1
+17:37:57 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+17:37:57 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 31] - Bastão_Serpente[977] [43 0 59 0 59 0]
+
+17:38:02 : Solicitou ir ao mundo...
+17:38:02 : Recebido pedido para entrar no jogo
+17:38:02 : Recebido informação do personagem completa.
+17:38:02 : [Foema] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foema
+Gold atual: 2297141
+Level atual: 67
+Experiência atual: 1758780
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2088x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 16777216
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Chapéu_Sombrio(M)[1261] [43 3 4 20 0 0]
+[02] - Robe_Sombrio(M)[1273] [43 4 2 20 3 20]
+[03] - Calça_Sombria(M)[1285] [43 4 60 6 3 20]
+[04] - Luvas_Sombrias(M)[1297] [43 4 2 20 53 3]
+[05] - Botas_Sombrias(M)[1309] [43 3 60 6 74 12]
+[06] - Arco_de_Caveira[943] [43 9 74 9 2 18]
+[09] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[11] - Rubi_do_Carbunkle[652] [0 0 0 0 0 0]
+[13] - Pedaço_do_Círc_Div_Comp[692] [59 234 59 175 59 18]
+
+[INVENTÁRIO]
+[22] - Âmago_de_Dragão_Menor[2393] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:38:02 : [Foema] - Personagem Foema enviado ao mundo 2088x 2103y - Canal 1 - Cash da conta: 0. OverPower: 269
+17:38:02 : [Foema] - Gold atual: 2297141. Classe: 1 Evolução: 1. Experiência: 1758780. Nível: 67. Info: 16777216. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:38:02 : [Foema] - Logou no personagem Foema com frango ativo. Tempo: 143
+17:38:02 : [Foema] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+17:38:02 : [Foema] - Enviado informações do personagem
+17:38:03 : [Foema] - Comando "/day "
+17:38:03 : [Foema] - [Mensagem do servidor]> !#11 2
+17:38:11 : [Foema] - Teleportado para a posição 1047 1725
+17:38:11 : [Foema] - Solicitado teleporte na posição 2117x 2101y e teleportado para 1047x 1725y
+17:38:13 : [Foema] - O usuário não enviou o pacote de integridade de macaddress
+17:38:14 : [Foema] - Teleportado para a posição 2482 1717
+17:38:14 : [Foema] - Solicitado teleporte na posição 1045x 1717y e teleportado para 2482x 1717y
+17:40:46 : [Foema] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:40:46 : [Foema] - Personagem foi desconectado. Permaneceu 00:02:48 minutos online
+17:41:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 1
+17:41:08 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+17:41:08 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 31] - Bastão_Serpente[977] [43 0 59 0 59 0]
+
+17:41:12 : Solicitou ir ao mundo...
+17:41:12 : Recebido pedido para entrar no jogo
+17:41:12 : Recebido informação do personagem completa.
+17:41:12 : [Foema] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foema
+Gold atual: 2296441
+Level atual: 67
+Experiência atual: 1758780
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2099x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 16777216
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Chapéu_Sombrio(M)[1261] [43 3 4 20 0 0]
+[02] - Robe_Sombrio(M)[1273] [43 4 2 20 3 20]
+[03] - Calça_Sombria(M)[1285] [43 4 60 6 3 20]
+[04] - Luvas_Sombrias(M)[1297] [43 4 2 20 53 3]
+[05] - Botas_Sombrias(M)[1309] [43 3 60 6 74 12]
+[06] - Arco_de_Caveira[943] [43 9 74 9 2 18]
+[09] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[11] - Rubi_do_Carbunkle[652] [0 0 0 0 0 0]
+[13] - Pedaço_do_Círc_Div_Comp[692] [59 234 59 175 59 18]
+
+[INVENTÁRIO]
+[22] - Âmago_de_Dragão_Menor[2393] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:41:12 : [Foema] - Personagem Foema enviado ao mundo 2099x 2106y - Canal 1 - Cash da conta: 0. OverPower: 269
+17:41:12 : [Foema] - Gold atual: 2296441. Classe: 1 Evolução: 1. Experiência: 1758780. Nível: 67. Info: 16777216. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:41:12 : [Foema] - Logou no personagem Foema com frango ativo. Tempo: 122
+17:41:12 : [Foema] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+17:41:12 : [Foema] - Enviado informações do personagem
+17:41:13 : [Foema] - Comando "/day "
+17:41:13 : [Foema] - [Mensagem do servidor]> !#11 2
+17:41:19 : [Foema] - Teleportado para a posição 1046 1726
+17:41:19 : [Foema] - Solicitado teleporte na posição 2118x 2102y e teleportado para 1046x 1726y
+17:41:23 : [Foema] - Teleportado para a posição 2482 1717
+17:41:23 : [Foema] - Solicitado teleporte na posição 1045x 1718y e teleportado para 2482x 1717y
+17:41:25 : [Foema] - O usuário não enviou o pacote de integridade de macaddress
+17:43:16 : [Foema] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:43:16 : [Foema] - Personagem foi desconectado. Permaneceu 00:02:08 minutos online
+17:43:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 1
+17:43:36 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+17:43:36 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 31] - Bastão_Serpente[977] [43 0 59 0 59 0]
+
+17:43:41 : Solicitou ir ao mundo...
+17:43:41 : Recebido pedido para entrar no jogo
+17:43:41 : Recebido informação do personagem completa.
+17:43:41 : [Foema] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foema
+Gold atual: 2295741
+Level atual: 67
+Experiência atual: 1758780
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2099x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 16777216
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Chapéu_Sombrio(M)[1261] [43 3 4 20 0 0]
+[02] - Robe_Sombrio(M)[1273] [43 4 2 20 3 20]
+[03] - Calça_Sombria(M)[1285] [43 4 60 6 3 20]
+[04] - Luvas_Sombrias(M)[1297] [43 4 2 20 53 3]
+[05] - Botas_Sombrias(M)[1309] [43 3 60 6 74 12]
+[06] - Arco_de_Caveira[943] [43 9 74 9 2 18]
+[09] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[11] - Rubi_do_Carbunkle[652] [0 0 0 0 0 0]
+[13] - Pedaço_do_Círc_Div_Comp[692] [59 234 59 175 59 18]
+
+[INVENTÁRIO]
+[22] - Âmago_de_Dragão_Menor[2393] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:43:41 : [Foema] - Personagem Foema enviado ao mundo 2099x 2101y - Canal 1 - Cash da conta: 0. OverPower: 269
+17:43:41 : [Foema] - Gold atual: 2295741. Classe: 1 Evolução: 1. Experiência: 1758780. Nível: 67. Info: 16777216. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:43:41 : [Foema] - Logou no personagem Foema com frango ativo. Tempo: 106
+17:43:41 : [Foema] - [Mensagem do servidor]> O Reino Blue é o atual dominante
+17:43:41 : [Foema] - Enviado informações do personagem
+17:43:42 : [Foema] - Comando "/day "
+17:43:42 : [Foema] - [Mensagem do servidor]> !#11 2
+17:43:47 : [Foema] - Teleportado para a posição 1046 1725
+17:43:47 : [Foema] - Solicitado teleporte na posição 2118x 2101y e teleportado para 1046x 1725y
+17:43:49 : [Foema] - O usuário não enviou o pacote de integridade de macaddress
+17:43:50 : [Foema] - Teleportado para a posição 2482 1718
+17:43:50 : [Foema] - Solicitado teleporte na posição 1045x 1717y e teleportado para 2482x 1718y
+17:44:18 : [Foema] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:44:18 : [Foema] - Personagem foi desconectado. Permaneceu 00:00:42 minutos online

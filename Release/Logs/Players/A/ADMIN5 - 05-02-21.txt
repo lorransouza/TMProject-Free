@@ -1,0 +1,990 @@
+
+02:01:45 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 179.186.5.89 Mac: (57:97:A2:B8:71:46). ClientId: 1
+02:01:45 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1000000000
+02:01:45 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+02:01:52 : ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+02:01:52 : Personagem foi desconectado. Permaneceu 00:00:07 minutos online
+12:18:54 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+12:18:55 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1000000000
+12:18:55 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+12:18:55 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:19:00 : Solicitou ir ao mundo...
+12:19:00 : Recebido pedido para entrar no jogo
+12:19:00 : Recebido informação do personagem completa.
+12:19:00 : [GordoViolent] - [INFORMAÇÕES DA CONTA]
+Personagem online: GordoViolent
+Gold atual: 0
+Level atual: 1011
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2089x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:19:00 : [GordoViolent] - Personagem GordoViolent enviado ao mundo 2089x 2094y - Canal 2 - Cash da conta: 15918. PowerLevel: 682
+12:19:00 : [GordoViolent] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1011. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:19:00 : [GordoViolent] - Logou no personagem GordoViolent com poção divina ativo. Validade: 21/2/2021 9:16:26
+12:19:00 : [GordoViolent] - Resetado a contagem de entradas água! Day: 34-35. Total: 0
+12:19:00 : [GordoViolent] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+12:19:00 : [GordoViolent] - Enviado informações do personagem
+12:19:01 : [GordoViolent] - Comando "/day "
+12:19:01 : [GordoViolent] - [Mensagem do servidor]> !#11 2
+12:19:16 : [GordoViolent] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:19:25 : [GordoViolent] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+12:19:25 : [GordoViolent] - 1 Personagem foi desconectado. Permaneceu 00:00:30 minutos online
+12:20:02 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+12:20:02 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1000000000
+12:20:02 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+12:20:07 : Solicitou ir ao mundo...
+12:20:07 : Recebido pedido para entrar no jogo
+12:20:07 : Recebido informação do personagem completa.
+12:20:07 : [GordoViolent] - [INFORMAÇÕES DA CONTA]
+Personagem online: GordoViolent
+Gold atual: 0
+Level atual: 1011
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2086x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Demon_Man[32] [43 9 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:20:07 : [GordoViolent] - Personagem GordoViolent enviado ao mundo 2086x 2106y - Canal 2 - Cash da conta: 15918. PowerLevel: 682
+12:20:07 : [GordoViolent] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1011. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:20:07 : [GordoViolent] - Logou no personagem GordoViolent com poção divina ativo. Validade: 21/2/2021 9:16:26
+12:20:07 : [GordoViolent] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+12:20:07 : [GordoViolent] - Enviado informações do personagem
+12:20:08 : [GordoViolent] - Comando "/day "
+12:20:08 : [GordoViolent] - [Mensagem do servidor]> !#11 2
+12:20:16 : [GordoViolent] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:20:22 : [GordoViolent] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+12:20:22 : [GordoViolent] - 1 Personagem foi desconectado. Permaneceu 00:00:20 minutos online
+12:20:47 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+12:20:47 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1000000000
+12:20:47 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+12:20:53 : Solicitou ir ao mundo...
+12:20:53 : Recebido pedido para entrar no jogo
+12:20:53 : Recebido informação do personagem completa.
+12:20:53 : [GordoViolent] - [INFORMAÇÕES DA CONTA]
+Personagem online: GordoViolent
+Gold atual: 0
+Level atual: 1011
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2092x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Demon_Man[32] [43 9 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:20:53 : [GordoViolent] - Personagem GordoViolent enviado ao mundo 2092x 2097y - Canal 2 - Cash da conta: 15918. PowerLevel: 682
+12:20:53 : [GordoViolent] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1011. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:20:53 : [GordoViolent] - Logou no personagem GordoViolent com poção divina ativo. Validade: 21/2/2021 9:16:26
+12:20:53 : [GordoViolent] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+12:20:53 : [GordoViolent] - Enviado informações do personagem
+12:20:54 : [GordoViolent] - Comando "/day "
+12:20:54 : [GordoViolent] - [Mensagem do servidor]> !#11 2
+12:21:04 : [GordoViolent] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:29:36 : [GordoViolent] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+12:29:36 : [GordoViolent] - 1 Personagem foi desconectado. Permaneceu 00:08:42 minutos online
+12:29:45 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+12:29:45 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1000000000
+12:29:45 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+12:29:49 : Solicitou ir ao mundo...
+12:29:49 : Recebido pedido para entrar no jogo
+12:29:49 : Recebido informação do personagem completa.
+12:29:49 : [GordoViolent] - [INFORMAÇÕES DA CONTA]
+Personagem online: GordoViolent
+Gold atual: 0
+Level atual: 1011
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2095x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:29:49 : [GordoViolent] - Personagem GordoViolent enviado ao mundo 2095x 2094y - Canal 2 - Cash da conta: 15918. PowerLevel: 682
+12:29:49 : [GordoViolent] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1011. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:29:49 : [GordoViolent] - Logou no personagem GordoViolent com poção divina ativo. Validade: 21/2/2021 9:16:26
+12:29:49 : [GordoViolent] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+12:29:50 : [GordoViolent] - Enviado informações do personagem
+12:29:50 : [GordoViolent] - Comando "/day "
+12:29:50 : [GordoViolent] - [Mensagem do servidor]> !#11 2
+12:30:05 : [GordoViolent] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:30:11 : [GordoViolent] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+12:30:11 : [GordoViolent] - 1 Personagem foi desconectado. Permaneceu 00:00:25 minutos online
+12:30:19 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+12:30:19 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1000000000
+12:30:19 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+12:30:24 : Solicitou ir ao mundo...
+12:30:24 : Recebido pedido para entrar no jogo
+12:30:24 : Recebido informação do personagem completa.
+12:30:24 : [GordoViolent] - [INFORMAÇÕES DA CONTA]
+Personagem online: GordoViolent
+Gold atual: 0
+Level atual: 1011
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2092x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Demon_Man[32] [43 9 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:30:24 : [GordoViolent] - Personagem GordoViolent enviado ao mundo 2092x 2099y - Canal 2 - Cash da conta: 15918. PowerLevel: 682
+12:30:24 : [GordoViolent] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1011. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:30:24 : [GordoViolent] - Logou no personagem GordoViolent com poção divina ativo. Validade: 21/2/2021 9:16:26
+12:30:24 : [GordoViolent] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+12:30:24 : [GordoViolent] - Enviado informações do personagem
+12:30:25 : [GordoViolent] - Comando "/day "
+12:30:25 : [GordoViolent] - [Mensagem do servidor]> !#11 2
+12:30:41 : [GordoViolent] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:31:01 : [GordoViolent] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+12:31:01 : [GordoViolent] - 1 Personagem foi desconectado. Permaneceu 00:00:41 minutos online
+12:31:10 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+12:31:10 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1000000000
+12:31:10 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+12:31:17 : Solicitou ir ao mundo...
+12:31:17 : Recebido pedido para entrar no jogo
+12:31:17 : Recebido informação do personagem completa.
+12:31:17 : [GordoViolent] - [INFORMAÇÕES DA CONTA]
+Personagem online: GordoViolent
+Gold atual: 0
+Level atual: 1011
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2093x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Demon_Man[32] [43 9 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:31:17 : [GordoViolent] - Personagem GordoViolent enviado ao mundo 2093x 2101y - Canal 2 - Cash da conta: 15918. PowerLevel: 682
+12:31:17 : [GordoViolent] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1011. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:31:17 : [GordoViolent] - Logou no personagem GordoViolent com poção divina ativo. Validade: 21/2/2021 9:16:26
+12:31:17 : [GordoViolent] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+12:31:17 : [GordoViolent] - Enviado informações do personagem
+12:31:18 : [GordoViolent] - Comando "/day "
+12:31:18 : [GordoViolent] - [Mensagem do servidor]> !#11 2
+12:31:29 : [GordoViolent] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:32:38 : [GordoViolent] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+12:32:38 : [GordoViolent] - 1 Personagem foi desconectado. Permaneceu 00:01:27 minutos online
+12:32:47 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+12:32:47 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1000000000
+12:32:47 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+12:32:51 : Solicitou ir ao mundo...
+12:32:51 : Recebido pedido para entrar no jogo
+12:32:51 : Recebido informação do personagem completa.
+12:32:51 : [GordoViolent] - [INFORMAÇÕES DA CONTA]
+Personagem online: GordoViolent
+Gold atual: 0
+Level atual: 1011
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2090x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:32:51 : [GordoViolent] - Personagem GordoViolent enviado ao mundo 2090x 2098y - Canal 2 - Cash da conta: 15918. PowerLevel: 682
+12:32:51 : [GordoViolent] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1011. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:32:51 : [GordoViolent] - Logou no personagem GordoViolent com poção divina ativo. Validade: 21/2/2021 9:16:26
+12:32:51 : [GordoViolent] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+12:32:51 : [GordoViolent] - Enviado informações do personagem
+12:32:52 : [GordoViolent] - Comando "/day "
+12:32:52 : [GordoViolent] - [Mensagem do servidor]> !#11 2
+12:33:05 : [GordoViolent] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:34:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+12:34:16 : ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+12:34:16 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+12:34:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 2
+12:34:16 : ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+12:34:16 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+12:34:31 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 2
+12:34:31 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 1000000000
+12:34:31 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+12:34:32 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:34:37 : Solicitou ir ao mundo...
+12:34:37 : Recebido pedido para entrar no jogo
+12:34:37 : Recebido informação do personagem completa.
+12:34:37 : [GordoViolent] - [INFORMAÇÕES DA CONTA]
+Personagem online: GordoViolent
+Gold atual: 0
+Level atual: 1011
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2098x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Demon_Man[32] [43 9 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:34:37 : [GordoViolent] - Personagem GordoViolent enviado ao mundo 2098x 2097y - Canal 2 - Cash da conta: 15918. PowerLevel: 682
+12:34:37 : [GordoViolent] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1011. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:34:37 : [GordoViolent] - Logou no personagem GordoViolent com poção divina ativo. Validade: 21/2/2021 9:16:26
+12:34:37 : [GordoViolent] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+12:34:37 : [GordoViolent] - Enviado informações do personagem
+12:34:38 : [GordoViolent] - Comando "/day "
+12:34:38 : [GordoViolent] - [Mensagem do servidor]> !#11 2
+12:34:54 : [GordoViolent] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:03:18 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:03:18 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1000000000
+14:03:18 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+14:03:18 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:03:23 : Solicitou ir ao mundo...
+14:03:23 : Recebido pedido para entrar no jogo
+14:03:23 : Recebido informação do personagem completa.
+14:03:23 : [GordoViolent] - [INFORMAÇÕES DA CONTA]
+Personagem online: GordoViolent
+Gold atual: 0
+Level atual: 1011
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2089x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Demon_Man[32] [43 9 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:03:23 : [GordoViolent] - Personagem GordoViolent enviado ao mundo 2089x 2096y - Canal 2 - Cash da conta: 15918. PowerLevel: 682
+14:03:23 : [GordoViolent] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1011. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+14:03:23 : [GordoViolent] - Logou no personagem GordoViolent com poção divina ativo. Validade: 21/2/2021 9:16:26
+14:03:23 : [GordoViolent] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+14:03:23 : [GordoViolent] - Enviado informações do personagem
+14:03:24 : [GordoViolent] - Comando "/day "
+14:03:24 : [GordoViolent] - [Mensagem do servidor]> !#11 2
+14:03:36 : [GordoViolent] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:03:51 : [GordoViolent] - Comando "/gm +exp 0"
+14:03:54 : [GordoViolent] - Comando "/gm +set exp 0"
+14:04:23 : [GordoViolent] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2143x 2078y. Posição do NPC: 2144x 2082y
+14:04:34 : [GordoViolent] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:04:34 : [GordoViolent] - 1 Personagem foi desconectado. Permaneceu 00:01:15 minutos online
+14:42:25 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:42:25 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 1000000000
+14:42:25 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+14:42:33 : Solicitou ir ao mundo...
+14:42:33 : Recebido pedido para entrar no jogo
+14:42:33 : Recebido informação do personagem completa.
+14:42:33 : [GordoViolent] - [INFORMAÇÕES DA CONTA]
+Personagem online: GordoViolent
+Gold atual: 0
+Level atual: 1011
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2094x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Demon_Man[32] [43 9 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:42:33 : [GordoViolent] - Personagem GordoViolent enviado ao mundo 2094x 2100y - Canal 1 - Cash da conta: 15918. PowerLevel: 682
+14:42:33 : [GordoViolent] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1011. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+14:42:33 : [GordoViolent] - Logou no personagem GordoViolent com poção divina ativo. Validade: 21/2/2021 9:16:26
+14:42:33 : [GordoViolent] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+14:42:33 : [GordoViolent] - Enviado informações do personagem
+14:42:34 : [GordoViolent] - Comando "/day "
+14:42:34 : [GordoViolent] - [Mensagem do servidor]> !#11 2
+14:42:45 : [GordoViolent] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:42:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:42:55 : ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:42:55 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+14:42:59 : [GordoViolent] - Personagem deu personagem
+14:43:01 : ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:43:01 : Personagem foi desconectado. Permaneceu 00:00:36 minutos online
+16:21:52 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+16:21:52 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 1000000000
+16:21:52 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+16:21:53 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:22:00 : Solicitou ir ao mundo...
+16:22:00 : Recebido pedido para entrar no jogo
+16:22:00 : Recebido informação do personagem completa.
+16:22:00 : [AeroDynamik] - [INFORMAÇÕES DA CONTA]
+Personagem online: AeroDynamik
+Gold atual: 497676539
+Level atual: 399
+Experiência atual: 4114855803
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2464x 2009y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1643] [43 237 3 25 26 18]
+[02] - Peitoral(A)[1646] [43 237 2 30 71 70]
+[03] - Calça(A)[1649] [43 237 2 30 71 70]
+[04] - Braçadeira(A)[1652] [43 237 54 18 72 30]
+[05] - Botas(A)[1655] [43 237 73 30 74 18]
+[06] - Arco[825] [2 45 43 1 0 0]
+[08] - Brinco_de_Titã[592] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[12] - Conjunto_Esqueleto[4153] [96 21 2 21 0 32]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(3dias)[3902] [106 2 107 22 108 59]
+[01] - Ultra_Poção_de_Mana[409] [61 7 0 0 0 0]
+[02] - [S]Caixa_Poção_de_Cura[3322] [61 27 0 0 0 0]
+[03] - Trombeta_Mágica[3330] [61 119 0 0 0 0]
+[04] - Ração_de_Fenrir[2436] [61 5 0 0 0 0]
+[05] - Fenrir[2376] [128 55 100 60 10 0]
+[06] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[07] - Chapéu(M)[1342] [43 0 59 0 59 0]
+[08] - Baú_de_Experiência[4140] [61 235 0 0 0 0]
+[09] - Ração_de_Fenrir[2436] [61 5 0 0 0 0]
+[10] - Chapéu(M)[1342] [43 1 60 4 59 0]
+[11] - Luvas(M)[1501] [43 1 72 15 2 24]
+[12] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[13] - Baú_de_Caça[4139] [61 236 0 0 0 0]
+[14] - Frango_Assado[3314] [61 235 0 0 0 0]
+[15] - Calça(A)[1809] [43 0 71 50 59 0]
+[16] - Jóia_da_Absorção[3204] [61 6 0 0 0 0]
+[17] - Jóia_da_Proteção[3205] [61 6 0 0 0 0]
+[18] - Jóia_do_Poder[3206] [61 6 0 0 0 0]
+[19] - Jóia_da_Precisão[3208] [61 6 0 0 0 0]
+[20] - Armadura(A)[1805] [43 0 71 40 60 4]
+[21] - Jaqueta(N)[1554] [43 0 71 30 59 0]
+[22] - Chapéu(N)[1551] [43 0 26 15 59 0]
+[23] - Pedaço_do_Círculo_Divino[447] [59 59 59 122 59 77]
+[24] - Dardo[877] [43 0 2 18 2 9]
+[25] - Poeira_de_Lactolerium[413] [61 25 0 0 0 0]
+[26] - Grifo_Sangrento[2386] [116 97 100 60 10 0]
+[27] - Pesadelo_(N/Grupo)[3324] [0 0 0 0 0 0]
+[28] - Pesadelo_(N/Grupo)[3324] [61 198 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 21 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 21 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:22:00 : [AeroDynamik] - Personagem AeroDynamik enviado ao mundo 2464x 2009y - Canal 1 - Cash da conta: 15918. PowerLevel: 1697
+16:22:00 : [AeroDynamik] - Gold atual: 497676539. Classe: 3 Evolução: 0. Experiência: 4114855803. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+16:22:00 : [AeroDynamik] - Logou no personagem AeroDynamik com poção divina ativo. Validade: 21/2/2021 9:16:26
+16:22:00 : [AeroDynamik] - Logou no personagem AeroDynamik com frango ativo. Tempo: 1494
+16:22:00 : [AeroDynamik] - Logou no personagem AeroDynamik com baú de experiência ativo. Tempo: 2660
+16:22:00 : [AeroDynamik] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+16:22:00 : [AeroDynamik] - Enviado informações do personagem
+16:22:02 : [AeroDynamik] - Comando "/day "
+16:22:02 : [AeroDynamik] - [Mensagem do servidor]> !#11 2
+16:22:12 : [AeroDynamik] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:22:14 : [AeroDynamik] - Teleportado para a posição 2117 2102
+16:23:45 : [AeroDynamik] - Comando "/gm +move 1307 336"
+16:23:45 : [AeroDynamik] - Teleportado para a posição 1307 336
+16:23:58 : [AeroDynamik] - Comando "/gm +move erion"
+16:23:58 : [AeroDynamik] - Teleportado para a posição 2460 2009
+16:24:01 : [AeroDynamik] - Comando "/nig "
+16:24:01 : [AeroDynamik] - [Mensagem do servidor]> !!162401
+16:39:30 : [AeroDynamik] - Item Pesadelo_(N/Grupo) [3324] [61 198 0 0 0 0] utilizado em 2460x 2001y
+16:39:30 : [AeroDynamik] - [Mensagem do servidor]> Entrada não permitida
+16:39:44 : [AeroDynamik] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2460x 2001y
+16:39:44 : [AeroDynamik] - [Mensagem do servidor]> Entrada não permitida
+16:39:58 : [AeroDynamik] - Comando "/nig "
+16:39:58 : [AeroDynamik] - [Mensagem do servidor]> !!163958
+16:39:58 : [AeroDynamik] - Comando "/nig "
+16:39:58 : [AeroDynamik] - [Mensagem do servidor]> !!163958
+16:39:58 : [AeroDynamik] - Comando "/nig "
+16:39:58 : [AeroDynamik] - [Mensagem do servidor]> !!163958
+16:39:58 : [AeroDynamik] - Comando "/nig "
+16:39:58 : [AeroDynamik] - [Mensagem do servidor]> !!163958
+16:39:58 : [AeroDynamik] - Comando "/nig "
+16:39:58 : [AeroDynamik] - [Mensagem do servidor]> !!163958
+16:39:58 : [AeroDynamik] - Comando "/nig "
+16:39:58 : [AeroDynamik] - [Mensagem do servidor]> !!163958
+16:39:58 : [AeroDynamik] - Comando "/nig "
+16:39:58 : [AeroDynamik] - [Mensagem do servidor]> !!163958
+16:39:59 : [AeroDynamik] - Comando "/nig "
+16:39:59 : [AeroDynamik] - [Mensagem do servidor]> !!163959
+16:39:59 : [AeroDynamik] - Comando "/nig "
+16:39:59 : [AeroDynamik] - [Mensagem do servidor]> !!163959
+16:39:59 : [AeroDynamik] - Comando "/nig "
+16:39:59 : [AeroDynamik] - [Mensagem do servidor]> !!163959
+16:39:59 : [AeroDynamik] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2460x 2001y
+16:39:59 : [AeroDynamik] - [Mensagem do servidor]> Entrada não permitida
+16:40:08 : [AeroDynamik] - Personagem deu personagem
+16:40:13 : Solicitou ir ao mundo...
+16:40:13 : Recebido pedido para entrar no jogo
+16:40:13 : Recebido informação do personagem completa.
+16:40:13 : [AeroDynamik] - [INFORMAÇÕES DA CONTA]
+Personagem online: AeroDynamik
+Gold atual: 497674739
+Level atual: 399
+Experiência atual: 4114855803
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:03:22 horas
+Posição atual: 2458x 2013y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1643] [43 237 3 25 26 18]
+[02] - Peitoral(A)[1646] [43 237 2 30 71 70]
+[03] - Calça(A)[1649] [43 237 2 30 71 70]
+[04] - Braçadeira(A)[1652] [43 237 54 18 72 30]
+[05] - Botas(A)[1655] [43 237 73 30 74 18]
+[06] - Arco[825] [2 45 43 1 0 0]
+[08] - Brinco_de_Titã[592] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[12] - Conjunto_Esqueleto[4153] [96 21 2 21 0 32]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(3dias)[3902] [106 2 107 22 108 59]
+[01] - Ultra_Poção_de_Mana[409] [61 7 0 0 0 0]
+[02] - [S]Caixa_Poção_de_Cura[3322] [61 27 0 0 0 0]
+[03] - Trombeta_Mágica[3330] [61 119 0 0 0 0]
+[04] - Ração_de_Fenrir[2436] [61 5 0 0 0 0]
+[05] - Fenrir[2376] [128 55 100 60 10 0]
+[06] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[07] - Chapéu(M)[1342] [43 0 59 0 59 0]
+[08] - Baú_de_Experiência[4140] [61 235 0 0 0 0]
+[09] - Ração_de_Fenrir[2436] [61 5 0 0 0 0]
+[10] - Chapéu(M)[1342] [43 1 60 4 59 0]
+[11] - Luvas(M)[1501] [43 1 72 15 2 24]
+[12] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[13] - Baú_de_Caça[4139] [61 236 0 0 0 0]
+[14] - Frango_Assado[3314] [61 235 0 0 0 0]
+[15] - Calça(A)[1809] [43 0 71 50 59 0]
+[16] - Jóia_da_Absorção[3204] [61 6 0 0 0 0]
+[17] - Jóia_da_Proteção[3205] [61 6 0 0 0 0]
+[18] - Jóia_do_Poder[3206] [61 6 0 0 0 0]
+[19] - Jóia_da_Precisão[3208] [61 6 0 0 0 0]
+[20] - Armadura(A)[1805] [43 0 71 40 60 4]
+[21] - Jaqueta(N)[1554] [43 0 71 30 59 0]
+[22] - Chapéu(N)[1551] [43 0 26 15 59 0]
+[23] - Pedaço_do_Círculo_Divino[447] [59 59 59 122 59 77]
+[24] - Dardo[877] [43 0 2 18 2 9]
+[25] - Poeira_de_Lactolerium[413] [61 25 0 0 0 0]
+[26] - Grifo_Sangrento[2386] [116 97 100 60 10 0]
+[27] - Pesadelo_(N/Grupo)[3324] [0 0 0 0 0 0]
+[28] - Pesadelo_(N/Grupo)[3324] [61 198 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 21 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 21 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:40:13 : [AeroDynamik] - Personagem AeroDynamik enviado ao mundo 2458x 2013y - Canal 1 - Cash da conta: 15918. PowerLevel: 1697
+16:40:13 : [AeroDynamik] - Gold atual: 497674739. Classe: 3 Evolução: 0. Experiência: 4114855803. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+16:40:13 : [AeroDynamik] - Logou no personagem AeroDynamik com poção divina ativo. Validade: 21/2/2021 9:16:26
+16:40:13 : [AeroDynamik] - Logou no personagem AeroDynamik com frango ativo. Tempo: 1470
+16:40:13 : [AeroDynamik] - Logou no personagem AeroDynamik com baú de experiência ativo. Tempo: 2636
+16:40:13 : [AeroDynamik] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+16:40:13 : [AeroDynamik] - Enviado informações do personagem
+16:40:15 : [AeroDynamik] - Comando "/day "
+16:40:15 : [AeroDynamik] - [Mensagem do servidor]> !#11 2
+16:40:19 : [AeroDynamik] - Comando "/nig "
+16:40:19 : [AeroDynamik] - [Mensagem do servidor]> !!164019
+16:40:20 : [AeroDynamik] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2458x 2013y
+16:40:20 : [AeroDynamik] - Teleportado para a posição 1210 180
+16:40:20 : [AeroDynamik] - Pesadelo N - Slot: 0 - Name: AeroDynamik
+16:40:20 : [AeroDynamik] - Pesadelo N - Grupo de AeroDynamik
+16:40:20 : [AeroDynamik] - Teleportado para a posição 1313 345
+16:40:21 : [AeroDynamik] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:44:02 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:03 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:04 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:05 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:06 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:07 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:08 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:09 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:10 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:11 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:13 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:14 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:15 : [AeroDynamik] - Matou o mob Meio Orc . GenerID: 300
+16:44:16 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:17 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:18 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:19 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:21 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:22 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:23 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:24 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:25 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:26 : [AeroDynamik] - Matou o mob Meio Orc . GenerID: 300
+16:44:27 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:28 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:29 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:30 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:31 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:32 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:33 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:34 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:35 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:36 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:37 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:39 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:40 : [AeroDynamik] - Matou o mob Cavaleiro Orc . GenerID: 298
+16:44:40 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:42 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:42 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:44 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:45 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:46 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:47 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:48 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:49 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:50 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:51 : [AeroDynamik] - Matou o mob Cavaleiro Orc . GenerID: 298
+16:44:52 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:53 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:44:54 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:55 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:56 : [AeroDynamik] - Matou o mob Meio Orc . GenerID: 300
+16:44:57 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:58 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:44:59 : [AeroDynamik] - Matou o mob Cavaleiro Orc@. GenerID: 298
+16:45:00 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:45:01 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:45:03 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:45:04 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:45:05 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:45:07 : [AeroDynamik] - Usado buff Escudo Dourado. Gold consumido: 25500. Gold atual: 497649239
+16:45:09 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:45:10 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:45:11 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:45:12 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:45:22 : [AeroDynamik] - Matou o mob Troll Caos@. GenerID: 303
+16:45:24 : [AeroDynamik] - Matou o mob Troll Caos@. GenerID: 303
+16:45:25 : [AeroDynamik] - Matou o mob Troll Caos@. GenerID: 303
+16:45:27 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 302
+16:45:28 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 302
+16:45:33 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:45:35 : [AeroDynamik] - Matou o mob Meio Orc@. GenerID: 300
+16:45:37 : [AeroDynamik] - Matou o mob Troll Caos@. GenerID: 299
+16:45:39 : [AeroDynamik] - Matou o mob Troll Caos@. GenerID: 299
+16:45:40 : [AeroDynamik] - Matou o mob Troll Caos@. GenerID: 299
+16:45:40 : [AeroDynamik] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:45:40 : [AeroDynamik] - 1 Personagem foi desconectado. Permaneceu 00:08:45 minutos online

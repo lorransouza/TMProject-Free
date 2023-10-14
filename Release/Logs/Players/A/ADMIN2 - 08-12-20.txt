@@ -1,0 +1,731 @@
+
+18:44:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 4
+18:44:23 : Conta ADMIN3 logado na conta
+Status da conta: JOGANDO
+Personagem: Guerreiro2
+
+18:44:23 : Usuário logou no jogo com clientId 4. - Servidor 2. Gold do banco: 0
+18:44:23 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+18:44:23 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+[ADMIN3]	USER_PLAY	[Guerreiro2] (level: 1010 ev: -1)	
+
+18:44:28 : Solicitou ir ao mundo...
+18:44:28 : Recebido pedido para entrar no jogo
+18:44:28 : Recebido informação do personagem completa.
+18:44:28 : [FoeFoe2] - [INFORMAÇÕES DA CONTA]
+Personagem online: FoeFoe2
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2099x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 0 1 1]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+[15] - Capa_de_Hekalotia[736] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Conjunto_Valquíria[4152] [96 2 13 20 0 64]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN3]	USER_PLAY	[Guerreiro2] (level: 1010 ev: -1)	
+
+18:44:28 : [FoeFoe2] - Personagem FoeFoe2 enviado ao mundo 2099x 2095y - Canal 2 - Cash da conta: 8800. OverPower: 2020
+18:44:28 : [FoeFoe2] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+18:44:28 : [FoeFoe2] - Resetado a contagem de entradas água! Day: 337-342. Total: 0
+18:44:28 : [FoeFoe2] - Enviado informações do personagem
+18:44:29 : [FoeFoe2] - Comando "/day "
+18:44:29 : [FoeFoe2] - [Mensagem do servidor]> !#11 2
+18:44:40 : [FoeFoe2] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:55:33 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 3
+18:55:33 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:55:33 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:55:33 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 4
+18:55:33 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:55:33 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:55:39 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 3
+18:55:39 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+18:55:39 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+18:55:40 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:56:07 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:56:07 : Personagem foi desconectado. Permaneceu 00:00:27 minutos online
+18:56:10 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+18:56:10 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+18:56:10 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+18:56:13 : Solicitou ir ao mundo...
+18:56:13 : Recebido pedido para entrar no jogo
+18:56:13 : Recebido informação do personagem completa.
+18:56:13 : [BoeBoe12] - [INFORMAÇÕES DA CONTA]
+Personagem online: BoeBoe12
+Gold atual: 123456789
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2092x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Conjunto_Valquíria[4152] [96 2 13 20 0 32]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:56:13 : [BoeBoe12] - Personagem BoeBoe12 enviado ao mundo 2092x 2100y - Canal 1 - Cash da conta: 8800. OverPower: 2020
+18:56:13 : [BoeBoe12] - Gold atual: 123456789. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+18:56:13 : [BoeBoe12] - Enviado informações do personagem
+18:56:14 : [BoeBoe12] - Comando "/day "
+18:56:14 : [BoeBoe12] - [Mensagem do servidor]> !#11 2
+18:56:17 : [BoeBoe12] - Comando "/gm +erion"
+18:56:17 : [BoeBoe12] - Teleportado para a posição 2460 2009
+18:56:30 : [BoeBoe12] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:57:59 : [BoeBoe12] - Comando "/gm +item 2380 1 1 120 10 0"
+18:57:59 : [BoeBoe12] - BoeBoe12 criou o item Dragão_Vermelho [2380] [1 1 120 10 0 0]
+19:04:04 : [BoeBoe12] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:04:04 : [BoeBoe12] - 1 Personagem foi desconectado. Permaneceu 00:07:48 minutos online
+19:08:04 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+19:08:04 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+19:08:04 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:08:11 : Solicitou ir ao mundo...
+19:08:11 : Recebido pedido para entrar no jogo
+19:08:11 : Recebido informação do personagem completa.
+19:08:11 : [BoeBoe12] - [INFORMAÇÕES DA CONTA]
+Personagem online: BoeBoe12
+Gold atual: 123456789
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2096x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Conjunto_Valquíria[4152] [96 2 13 20 0 32]
+[01] - Dragão_Vermelho[2380] [1 1 120 10 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:08:11 : [BoeBoe12] - Personagem BoeBoe12 enviado ao mundo 2096x 2101y - Canal 2 - Cash da conta: 8800. OverPower: 2020
+19:08:11 : [BoeBoe12] - Gold atual: 123456789. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:08:11 : [BoeBoe12] - Enviado informações do personagem
+19:08:12 : [BoeBoe12] - Comando "/day "
+19:08:12 : [BoeBoe12] - [Mensagem do servidor]> !#11 2
+19:08:20 : [BoeBoe12] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:09:21 : [BoeBoe12] - Comando "/gm +item 2375 1 1 120 10 0"
+19:09:21 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Andaluz_B
+19:09:21 : [BoeBoe12] - BoeBoe12 criou o item Andaluz_B [2375] [1 1 120 10 0 0]
+19:09:29 : [BoeBoe12] - Moveu item Andaluz_B [2375] [1 1 120 10 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+19:09:57 : [BoeBoe12] - Comando "/gm +gelo"
+19:09:57 : [BoeBoe12] - Teleportado para a posição 3648 3117
+19:10:00 : [BoeBoe12] - Comprou o item Pedido_de_Caça(Kult) [3435] [61 100 0 0 0 0] na loja de Martin . Preço total: 1265000. Imposto: 165000. Gold: 123456789 anterior. Gold após a compra: 122191789
+19:10:09 : [BoeBoe12] - Item Pedido_de_Caça(Kult) [3435] [61 100 0 0 0 0] utilizado em 3644x 3113y
+19:10:09 : [BoeBoe12] - Teleportado para a posição 1182 1714
+19:11:36 : [BoeBoe12] - Comando "/gm +erion"
+19:11:36 : [BoeBoe12] - Teleportado para a posição 2460 2009
+19:11:39 : [BoeBoe12] - Clicado no NPC [Mount Master]. Face 18. Race: 10. GenerateId: 3269. Posição do usuário: 2460x 2009y. Posição do NPC: 2455x 2009y
+19:11:39 : [BoeBoe12] - Reviver concluído Andaluz_B [2375] [70 254 120 10 0 0]
+19:11:39 : [BoeBoe12] - [Mensagem do servidor]> Curada.
+19:14:00 : [BoeBoe12] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+19:14:21 : [BoeBoe12] - Clicado no NPC [Perzen Normal]. Face 11. Race: 8. GenerateId: 3274. Posição do usuário: 2458x 2005y. Posição do NPC: 2465x 2009y
+19:19:04 : [BoeBoe12] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:19:04 : [BoeBoe12] - 2 Personagem foi desconectado. Permaneceu 00:10:52 minutos online
+19:20:52 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+19:20:52 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+19:20:52 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:20:59 : Solicitou ir ao mundo...
+19:20:59 : Recebido pedido para entrar no jogo
+19:20:59 : Recebido informação do personagem completa.
+19:20:59 : [BoeBoe12] - [INFORMAÇÕES DA CONTA]
+Personagem online: BoeBoe12
+Gold atual: 121691789
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2090x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Andaluz_B[2375] [20 0 120 6 0 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Conjunto_Valquíria[4152] [96 2 13 20 0 32]
+[01] - Dragão_Vermelho[2380] [1 1 120 10 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 99 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:20:59 : [BoeBoe12] - Personagem BoeBoe12 enviado ao mundo 2090x 2095y - Canal 2 - Cash da conta: 8800. OverPower: 2360
+19:20:59 : [BoeBoe12] - Gold atual: 121691789. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:20:59 : [BoeBoe12] - Enviado informações do personagem
+19:21:00 : [BoeBoe12] - Comando "/day "
+19:21:00 : [BoeBoe12] - [Mensagem do servidor]> !#11 2
+19:21:09 : [BoeBoe12] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:21:44 : [BoeBoe12] - Item Pedido_de_Caça(Kult) [3435] [61 99 0 0 0 0] utilizado em 2106x 2100y
+19:21:44 : [BoeBoe12] - Teleportado para a posição 1182 1714
+19:22:03 : [BoeBoe12] - Comando "/gm +erion"
+19:22:03 : [BoeBoe12] - Teleportado para a posição 2460 2009
+19:50:25 : [BoeBoe12] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:50:25 : [BoeBoe12] - 1 Personagem foi desconectado. Permaneceu 00:29:13 minutos online
+20:31:47 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+20:31:47 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+20:31:47 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+20:31:48 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:31:51 : Solicitou ir ao mundo...
+20:31:51 : Recebido pedido para entrar no jogo
+20:31:51 : Recebido informação do personagem completa.
+20:31:51 : [BoeBoe12] - [INFORMAÇÕES DA CONTA]
+Personagem online: BoeBoe12
+Gold atual: 121691789
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2087x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Andaluz_B[2375] [232 254 120 6 0 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Conjunto_Valquíria[4152] [96 2 13 20 0 32]
+[01] - Dragão_Vermelho[2380] [1 1 120 10 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 98 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:31:51 : [BoeBoe12] - Personagem BoeBoe12 enviado ao mundo 2087x 2101y - Canal 2 - Cash da conta: 8800. OverPower: 2360
+20:31:51 : [BoeBoe12] - Gold atual: 121691789. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+20:31:51 : [BoeBoe12] - Enviado informações do personagem
+20:31:52 : [BoeBoe12] - Comando "/day "
+20:31:52 : [BoeBoe12] - [Mensagem do servidor]> !#11 2
+20:31:59 : [BoeBoe12] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:32:02 : [BoeBoe12] - Comando "/gm +erion"
+20:32:02 : [BoeBoe12] - Teleportado para a posição 2460 2009
+20:32:04 : [BoeBoe12] - Clicado no NPC [Mount Master]. Face 18. Race: 10. GenerateId: 3269. Posição do usuário: 2460x 2009y. Posição do NPC: 2456x 2010y
+20:32:04 : [BoeBoe12] - Reviver concluído Andaluz_B [2375] [232 254 120 6 0 0]
+20:32:04 : [BoeBoe12] - [Mensagem do servidor]> Curada.
+20:32:12 : [BoeBoe12] - Comprou o item Ração_de_Cavalo [2426] [61 5 0 0 0 0] na loja de Mount Captor. Preço total: 103500. Imposto: 13500. Gold: 121191789 anterior. Gold após a compra: 121088289
+20:36:58 : [BoeBoe12] - [Mensagem do servidor]> Compra concluída!
+20:37:01 : [BoeBoe12] - Item Barra_de_Vibrant_Coins [3396] [96 235 96 3 0 0] utilizado em 2460x 2005y
+20:37:08 : [BoeBoe12] - Personagem deu personagem
+20:37:17 : Solicitou ir ao mundo...
+20:37:17 : Recebido pedido para entrar no jogo
+20:37:17 : Recebido informação do personagem completa.
+20:37:17 : [BoeBoe12] - [INFORMAÇÕES DA CONTA]
+Personagem online: BoeBoe12
+Gold atual: 121088289
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:05:26 horas
+Posição atual: 2090x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Andaluz_B[2375] [224 46 120 5 6 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Conjunto_Valquíria[4152] [96 2 13 20 0 32]
+[01] - Dragão_Vermelho[2380] [1 1 120 10 0 0]
+[02] - Barra_de_Vibrant_Coins[3396] [96 235 96 3 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 98 0 0 0 0]
+[10] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:37:17 : [BoeBoe12] - Personagem BoeBoe12 enviado ao mundo 2090x 2104y - Canal 2 - Cash da conta: 7780. OverPower: 2360
+20:37:17 : [BoeBoe12] - Gold atual: 121088289. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+20:37:17 : [BoeBoe12] - Enviado informações do personagem
+20:37:18 : [BoeBoe12] - Comando "/day "
+20:37:18 : [BoeBoe12] - [Mensagem do servidor]> !#11 2
+20:37:23 : [BoeBoe12] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:38:04 : [BoeBoe12] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+20:38:10 : [BoeBoe12] - Comando "/time "
+20:38:10 : [BoeBoe12] - [Mensagem do servidor]> [BoeBoe12] - 20:38:10 08-12-2020 2106x 2103y - Canal 2
+20:38:11 : [BoeBoe12] - Comando "/time "
+20:38:11 : [BoeBoe12] - [Mensagem do servidor]> [BoeBoe12] - 20:38:11 08-12-2020 2106x 2103y - Canal 2
+20:38:11 : [BoeBoe12] - Comando "/time "
+20:38:11 : [BoeBoe12] - [Mensagem do servidor]> [BoeBoe12] - 20:38:11 08-12-2020 2106x 2103y - Canal 2
+20:38:11 : [BoeBoe12] - Comando "/time "
+20:38:11 : [BoeBoe12] - [Mensagem do servidor]> [BoeBoe12] - 20:38:11 08-12-2020 2106x 2103y - Canal 2
+20:38:11 : [BoeBoe12] - Comando "/time "
+20:38:11 : [BoeBoe12] - [Mensagem do servidor]> [BoeBoe12] - 20:38:11 08-12-2020 2106x 2103y - Canal 2
+20:38:41 : [BoeBoe12] - Comando "/gm +item 4139"
+20:38:41 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Baú_de_Caça
+20:38:41 : [BoeBoe12] - BoeBoe12 criou o item Baú_de_Caça [4139] [0 0 0 0 0 0]
+20:38:43 : [BoeBoe12] - Item Baú_de_Caça [4139] [0 0 0 0 0 0] utilizado em 2103x 2103y
+20:40:35 : [BoeBoe12] - [Mensagem do servidor]> Citizen Chatting : Off
+20:40:36 : [BoeBoe12] - [Mensagem do servidor]> Citizen Chatting : On
+20:55:00 : [BoeBoe12] - [Mensagem do servidor]: A guerra de reinos iniciarï¿½ em 5 minutos. Acesse o teleporte de Noatun.
+21:00:00 : [BoeBoe12] - [Mensagem do servidor]: Guerra entre Reinos iniciada. Acesse o teleporte de Noatun!
+21:04:55 : [BoeBoe12] - [Mensagem do servidor]> Chegou no destino [Dungeon].
+21:04:55 : [BoeBoe12] - Teleportado para a posição 2365 2279
+21:05:33 : [BoeBoe12] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:05:33 : [BoeBoe12] - 2 Personagem foi desconectado. Permaneceu 00:33:21 minutos online
+21:20:25 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+21:20:25 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+21:20:25 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+21:20:25 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:20:28 : Solicitou ir ao mundo...
+21:20:28 : Recebido pedido para entrar no jogo
+21:20:28 : Recebido informação do personagem completa.
+21:20:28 : [BoeBoe12] - [INFORMAÇÕES DA CONTA]
+Personagem online: BoeBoe12
+Gold atual: 121088289
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2089x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Andaluz_B[2375] [224 46 120 5 6 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Conjunto_Valquíria[4152] [96 2 13 20 0 32]
+[01] - Dragão_Vermelho[2380] [1 1 120 10 0 0]
+[02] - Barra_de_Vibrant_Coins[3396] [96 235 96 3 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 98 0 0 0 0]
+[10] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:20:28 : [BoeBoe12] - Personagem BoeBoe12 enviado ao mundo 2089x 2099y - Canal 2 - Cash da conta: 7780. OverPower: 2360
+21:20:28 : [BoeBoe12] - Gold atual: 121088289. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+21:20:28 : [BoeBoe12] - Enviado informações do personagem
+21:20:29 : [BoeBoe12] - Comando "/day "
+21:20:29 : [BoeBoe12] - [Mensagem do servidor]> !#11 2
+21:20:31 : [BoeBoe12] - Comando "/gm +erion"
+21:20:31 : [BoeBoe12] - Teleportado para a posição 2460 2009
+21:20:37 : [BoeBoe12] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:23:58 : [BoeBoe12] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:23:58 : [BoeBoe12] - 2 Personagem foi desconectado. Permaneceu 00:03:31 minutos online
+21:48:15 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+21:48:15 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+21:48:16 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+21:48:16 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:48:20 : Solicitou ir ao mundo...
+21:48:20 : Recebido pedido para entrar no jogo
+21:48:20 : Recebido informação do personagem completa.
+21:48:20 : [BoeBoe12] - [INFORMAÇÕES DA CONTA]
+Personagem online: BoeBoe12
+Gold atual: 121088289
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2090x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Andaluz_B[2375] [224 46 120 5 6 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Conjunto_Valquíria[4152] [96 2 13 20 0 32]
+[01] - Dragão_Vermelho[2380] [1 1 120 10 0 0]
+[02] - Barra_de_Vibrant_Coins[3396] [96 235 96 3 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 98 0 0 0 0]
+[10] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:48:20 : [BoeBoe12] - Personagem BoeBoe12 enviado ao mundo 2090x 2105y - Canal 2 - Cash da conta: 7780. OverPower: 2360
+21:48:20 : [BoeBoe12] - Gold atual: 121088289. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+21:48:20 : [BoeBoe12] - Enviado informações do personagem
+21:48:21 : [BoeBoe12] - Comando "/day "
+21:48:21 : [BoeBoe12] - [Mensagem do servidor]> !#11 2
+21:48:26 : [BoeBoe12] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:48:51 : [BoeBoe12] - Item Barra_de_Vibrant_Coins [3396] [96 235 96 3 0 0] utilizado em 2096x 2105y
+21:48:51 : [BoeBoe12] - [Mensagem do servidor]> 60928 VC foram adicionados à conta
+21:49:04 : [BoeBoe12] - Comando "/create TESTEFFF"
+21:49:04 : [BoeBoe12] - [Mensagem do servidor]> Sua guilda foi criado com sucesso
+21:49:04 : [BoeBoe12] - Criou a guilda TESTEFFF no canal 2. Reino 8. GuildIndex: 5
+21:49:11 : [BoeBoe12] - Tentou recrutar BoeBoe12
+21:49:35 : [BoeBoe12] - Tentou recrutar BoeBoe12
+21:50:40 : [BoeBoe12] - [Mensagem do servidor]> Você recrutou 28jdi
+21:50:40 : [BoeBoe12] - Recrutou 28jdi
+21:51:29 : [BoeBoe12] - [Mensagem do servidor]> O usuário ainda não pode ser recrutado por penalidade de sair da guild
+21:52:34 : [BoeBoe12] - [Mensagem do servidor]> O usuário ainda não pode ser recrutado por penalidade de sair da guild
+21:54:47 : [BoeBoe12] - [Mensagem do servidor]> Citizen Chatting : Off
+21:54:49 : [BoeBoe12] - [Mensagem do servidor]> Citizen Chatting : On
+21:54:58 : [BoeBoe12] - [Mensagem do servidor]> Citizen Chatting : Off
+21:54:59 : [BoeBoe12] - [Mensagem do servidor]> Citizen Chatting : On
+21:55:31 : [BoeBoe12] - Tentou recrutar BoeBoe12
+21:56:16 : [BoeBoe12] - [Mensagem do servidor]> Você recrutou 28jdi
+21:56:16 : [BoeBoe12] - Recrutou 28jdi
+21:58:34 : [BoeBoe12] - Tentou recrutar BoeBoe12
+21:59:08 : [BoeBoe12] - Tentou recrutar BoeBoe12
+21:59:24 : [BoeBoe12] - Tentou recrutar BoeBoe12
+21:59:38 : [BoeBoe12] - Tentou recrutar BoeBoe12
+22:00:00 : [BoeBoe12] - [Mensagem do servidor]: A batalha do acampamento avançado do reino foi iniciada.
+22:00:49 : [BoeBoe12] - Tentou recrutar BoeBoe12
+22:01:02 : [BoeBoe12] - [Mensagem do servidor]> Você recrutou 28jdi
+22:01:02 : [BoeBoe12] - Recrutou 28jdi
+22:01:24 : [BoeBoe12] - [Mensagem do servidor]> Citizen Chatting : Off
+22:01:24 : [BoeBoe12] - [Mensagem do servidor]> Citizen Chatting : On
+22:14:00 : [BoeBoe12] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+22:18:21 : [BoeBoe12] - [INFORMAÇÕES DA CONTA]
+Personagem online: BoeBoe12
+Gold atual: 9088289
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:48 horas
+Posição atual: 2200x 2110y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Andaluz_B[2375] [224 46 120 5 6 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Conjunto_Valquíria[4152] [96 2 13 20 0 32]
+[01] - Dragão_Vermelho[2380] [1 1 120 10 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 98 0 0 0 0]
+[10] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:29:24 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 3
+22:29:24 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+22:29:24 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+22:29:28 : Solicitou ir ao mundo...
+22:29:28 : Recebido pedido para entrar no jogo
+22:29:28 : Recebido informação do personagem completa.
+22:29:28 : [BoeBoe12] - [INFORMAÇÕES DA CONTA]
+Personagem online: BoeBoe12
+Gold atual: 9088289
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2090x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Andaluz_B[2375] [224 46 120 5 6 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Conjunto_Valquíria[4152] [96 2 13 20 0 32]
+[01] - Dragão_Vermelho[2380] [1 1 120 10 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 98 0 0 0 0]
+[10] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:29:28 : [BoeBoe12] - Personagem BoeBoe12 enviado ao mundo 2090x 2106y - Canal 2 - Cash da conta: 68708. OverPower: 2360
+22:29:28 : [BoeBoe12] - Gold atual: 9088289. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 5. CP: 0. Pontos de Contribuição: 0. Limite: 0
+22:29:28 : [BoeBoe12] - Enviado informações do personagem
+22:29:29 : [BoeBoe12] - Comando "/day "
+22:29:29 : [BoeBoe12] - [Mensagem do servidor]> !#11 2
+22:29:31 : [BoeBoe12] - [Mensagem do servidor]> Citizen Chatting : Off
+22:29:32 : [BoeBoe12] - [Mensagem do servidor]> Citizen Chatting : On
+22:29:34 : [BoeBoe12] - [Mensagem do servidor]> Citizen Chatting : Off
+22:29:35 : [BoeBoe12] - [Mensagem do servidor]> Citizen Chatting : On
+22:29:42 : [BoeBoe12] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:30:06 : [BoeBoe12] - Personagem deu personagem
+22:30:10 : Solicitou ir ao mundo...
+22:30:10 : Recebido pedido para entrar no jogo
+22:30:10 : Recebido informação do personagem completa.
+22:30:10 : [FoeFoe2] - [INFORMAÇÕES DA CONTA]
+Personagem online: FoeFoe2
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:46 horas
+Posição atual: 2090x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 0 1 1]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+[15] - Capa_de_Hekalotia[736] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Conjunto_Valquíria[4152] [96 2 13 20 0 64]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:30:10 : [FoeFoe2] - Personagem FoeFoe2 enviado ao mundo 2090x 2093y - Canal 2 - Cash da conta: 68708. OverPower: 2020
+22:30:10 : [FoeFoe2] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+22:30:10 : [FoeFoe2] - Enviado informações do personagem
+22:30:11 : [FoeFoe2] - Comando "/day "
+22:30:11 : [FoeFoe2] - [Mensagem do servidor]> !#11 2
+22:30:18 : [FoeFoe2] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:31:14 : [FoeFoe2] - Comando "/gm +item 4139"
+22:31:14 : [FoeFoe2] - [Mensagem do servidor]> Criou o item Baú_de_Caça
+22:31:14 : [FoeFoe2] - FoeFoe2 criou o item Baú_de_Caça [4139] [0 0 0 0 0 0]
+22:31:20 : [FoeFoe2] - Item Conjunto_Valquíria deletado [4152] [96 2 13 20 0 64]. Slot 0
+22:31:20 : [FoeFoe2] - Item Baú_de_Caça [4139] [0 0 0 0 0 0] utilizado em 2090x 2093y
+22:33:05 : [FoeFoe2] - [Mensagem do servidor]> Compra concluída!
+22:33:10 : [FoeFoe2] - Item Barra_de_Vibrant_Coins [3396] [96 235 96 3 0 0] utilizado em 2090x 2093y
+22:33:10 : [FoeFoe2] - [Mensagem do servidor]> 60928 VC foram adicionados à conta
+22:40:13 : [FoeFoe2] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:40:13 : [FoeFoe2] - 3 Personagem foi desconectado. Permaneceu 00:10:43 minutos online

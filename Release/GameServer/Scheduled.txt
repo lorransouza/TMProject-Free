@@ -1,0 +1,11 @@
+04 20 23 59 0 +set evrate 90
+04 20 23 59 0 +not [EVENTO] Prorrogamos por mais um dia. Será desativado amanhã às
+04 20 23 59 0 +not [EVENTO] 23:59. Entretanto, o drop foi reduzido um pouco.
+
+04 21 23 59 0 +eventarea status 0
+04 21 23 59 0 +not ![EVENTO] A Maldição de Sukur foi desativado.
+
+04 21 23 00 0 +set donate avaible 4 0 0
+04 21 23 00 0 +set donate avaible 4 1 0
+04 21 23 00 0 +set donate avaible 4 2 0
+04 21 23 00 0 +set donate avaible 4 3 0

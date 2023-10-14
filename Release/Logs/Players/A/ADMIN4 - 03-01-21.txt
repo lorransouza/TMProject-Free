@@ -1,0 +1,593 @@
+
+10:20:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 2
+10:20:13 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 112346412
+10:20:13 : [INFORMAÇÕES DO BANCO]
+Gold: 112346412
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura(M)[1123] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Lança[854] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura[1221] [43 6 0 0 0 0]
+[ 29] - Calça[1222] [43 6 0 0 0 0]
+[ 30] - Luvas[1223] [43 6 0 0 0 0]
+[ 31] - Botas[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Lança[856] [43 9 61 28 0 0]
+[ 36] - Luvas(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Aranha[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Luvas(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Luvas(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Dardo[884] [43 6 2 36 0 0]
+[ 84] - Luvas(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[107] - Cérberus[2378] [0 0 120 119 0 0]
+[108] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[109] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[111] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[112] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[113] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[114] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[117] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[118] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+
+10:20:13 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:20:22 : Solicitou ir ao mundo...
+10:20:22 : Recebido pedido para entrar no jogo
+10:20:22 : Recebido informação do personagem completa.
+10:20:22 : [ShariTEST] - [INFORMAÇÕES DA CONTA]
+Personagem online: ShariTEST
+Gold atual: 146327753
+Level atual: 199
+Experiência atual: 3996000000
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:09 horas
+Posição atual: 2087x 2104y
+
+Pontos NT: 0
+Entradas Hall: 25
+Info: 15360
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[29] [43 0 29 3 1 1]
+[02] - Armadura[1506] [43 252 71 120 2 50]
+[03] - Calça[1507] [43 252 2 50 71 100]
+[04] - Luvas[1508] [43 252 2 50 0 0]
+[05] - Botas[1509] [43 252 73 30 71 100]
+[06] - Arco_Élfico[2122] [43 0 26 3 26 3]
+[08] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[09] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[10] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[11] - Sephirot(TransKnight)[1760] [0 0 0 0 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 2 108 59]
+[14] - Shire[3986] [96 1 2 21 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedra_Espiritual[631] [43 5 0 0 0 0]
+[01] - Pedra_Espiritual[631] [43 9 0 0 0 0]
+[02] - Pedra_Espiritual[632] [43 1 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [61 106 0 0 0 0]
+[04] - [S]Caixa_Poção_de_Mana[3323] [61 120 0 0 0 0]
+[05] - Fada_Vermelha(3dias)[3902] [106 2 107 4 108 55]
+[10] - Khyrius(Anct)[2614] [43 250 0 0 0 0]
+[13] - Pedra_Espiritual[541] [43 9 0 0 0 0]
+[14] - Pedido_de_Caça(Kult)[3435] [61 84 0 0 0 0]
+[54] - Armadura[1506] [43 9 0 0 0 0]
+[56] - Esfera_da_Sorte(LE)[4110] [0 0 0 0 0 0]
+[57] - Armadura(N)[1464] [43 9 2 30 71 70]
+[58] - Armadura(N)[1479] [43 9 2 30 71 70]
+[59] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:20:22 : [ShariTEST] - Personagem ShariTEST enviado ao mundo 2087x 2104y - Canal 2 - Cash da conta: 64306. OverPower: 1847
+10:20:22 : [ShariTEST] - Gold atual: 146327753. Classe: 3 Evolução: 3. Experiência: 3996000000. Nível: 199. Info: 15360. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+10:20:22 : [ShariTEST] - Logou no personagem ShariTEST com poção divina ativo. Validade: 24/1/2021 14:19:7
+10:20:22 : [ShariTEST] - Logou no personagem ShariTEST com baú de experiência ativo. Tempo: 63
+10:20:22 : [ShariTEST] - Logou no personagem ShariTEST com frango ativo. Tempo: 530
+10:20:22 : [ShariTEST] - Resetado a contagem de entradas água! Day: 1-2. Total: 0
+10:20:22 : [ShariTEST] - Evolução logada: 3
+10:20:22 : [ShariTEST] - Dados da capa um: [3199] [0 0 0 0 0 0]
+10:20:22 : [ShariTEST] - Dados da capa dois: [0] [0 0 0 0 0 0]
+10:20:22 : [ShariTEST] - Não foi efetuado a troca pois a refinação atual é maior
+10:20:22 : [ShariTEST] - Enviado informações do personagem
+10:20:23 : [ShariTEST] - Comando "/day "
+10:20:23 : [ShariTEST] - [Mensagem do servidor]> !#11 2
+10:20:37 : [ShariTEST] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:20:39 : [ShariTEST] - Item Pedra_Ideal [5338] [0 0 0 0 0 0] utilizado em 2101x 2109y
+10:20:39 : [ShariTEST] - [Mensagem do servidor]> Voce nao possui os requisitos necessarios!
+10:21:02 : [ShariTEST] - Item Pedra_Ideal [5338] [0 0 0 0 0 0] utilizado em 2100x 2106y
+10:21:02 : [ShariTEST] - [Mensagem do servidor]> Voce nao possui os requisitos necessarios!
+10:21:15 : [ShariTEST] - Comando "/ShariTEST "
+10:21:15 : [ShariTEST] - [Mensagem do servidor]> ShariTEST - Cidadania: 0 Fama: 2000
+10:22:59 : [ShariTEST] - O login admin6 tentou logar na conta com o mesmo mac.
+10:26:23 : [ShariTEST] - [Mensagem do servidor]: Parabéns Sharii pela criação do personagem Arch
+10:29:35 : [ShariTEST] - [Mensagem do servidor]: Parabéns para Archer pela criação do seu Celestial
+10:50:22 : [ShariTEST] - [INFORMAÇÕES DA CONTA]
+Personagem online: ShariTEST
+Gold atual: 146327753
+Level atual: 199
+Experiência atual: 3996000000
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:29:50 horas
+Posição atual: 2100x 2106y
+
+Pontos NT: 0
+Entradas Hall: 25
+Info: 15360
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[29] [43 0 29 3 1 1]
+[02] - Armadura[1506] [43 252 71 120 2 50]
+[03] - Calça[1507] [43 252 2 50 71 100]
+[04] - Luvas[1508] [43 252 2 50 0 0]
+[05] - Botas[1509] [43 252 73 30 71 100]
+[06] - Arco_Élfico[2122] [43 0 26 3 26 3]
+[08] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[09] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[10] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[11] - Sephirot(TransKnight)[1760] [0 0 0 0 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 2 108 59]
+[14] - Shire[3986] [96 1 2 21 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedra_Espiritual[631] [43 5 0 0 0 0]
+[01] - Pedra_Espiritual[631] [43 9 0 0 0 0]
+[02] - Pedra_Espiritual[632] [43 1 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [61 106 0 0 0 0]
+[04] - [S]Caixa_Poção_de_Mana[3323] [61 120 0 0 0 0]
+[05] - Fada_Vermelha(3dias)[3902] [106 2 107 4 108 55]
+[10] - Khyrius(Anct)[2614] [43 250 0 0 0 0]
+[13] - Pedra_Espiritual[541] [43 9 0 0 0 0]
+[14] - Pedido_de_Caça(Kult)[3435] [61 84 0 0 0 0]
+[54] - Armadura[1506] [43 9 0 0 0 0]
+[56] - Esfera_da_Sorte(LE)[4110] [0 0 0 0 0 0]
+[57] - Armadura(N)[1464] [43 9 2 30 71 70]
+[58] - Armadura(N)[1479] [43 9 2 30 71 70]
+[59] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 168 ev: 1)	
+
+11:01:02 : [ShariTEST] - [Mensagem do servidor]: Parabéns para Sharii pela criação do seu Celestial
+11:03:24 : [ShariTEST] - [Mensagem do servidor]: Archer compôs com sucesso a Pedra Ideal
+11:13:20 : [ShariTEST] - O login ADMIN6 tentou logar na conta com o mesmo mac.
+11:20:23 : [ShariTEST] - [INFORMAÇÕES DA CONTA]
+Personagem online: ShariTEST
+Gold atual: 146327753
+Level atual: 199
+Experiência atual: 3996000000
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:59:32 horas
+Posição atual: 2100x 2106y
+
+Pontos NT: 0
+Entradas Hall: 25
+Info: 15360
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[29] [43 0 29 3 1 1]
+[02] - Armadura[1506] [43 252 71 120 2 50]
+[03] - Calça[1507] [43 252 2 50 71 100]
+[04] - Luvas[1508] [43 252 2 50 0 0]
+[05] - Botas[1509] [43 252 73 30 71 100]
+[06] - Arco_Élfico[2122] [43 0 26 3 26 3]
+[08] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[09] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[10] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[11] - Sephirot(TransKnight)[1760] [0 0 0 0 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 2 108 59]
+[14] - Shire[3986] [96 1 2 21 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedra_Espiritual[631] [43 5 0 0 0 0]
+[01] - Pedra_Espiritual[631] [43 9 0 0 0 0]
+[02] - Pedra_Espiritual[632] [43 1 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [61 106 0 0 0 0]
+[04] - [S]Caixa_Poção_de_Mana[3323] [61 120 0 0 0 0]
+[05] - Fada_Vermelha(3dias)[3902] [106 2 107 4 108 55]
+[10] - Khyrius(Anct)[2614] [43 250 0 0 0 0]
+[13] - Pedra_Espiritual[541] [43 9 0 0 0 0]
+[14] - Pedido_de_Caça(Kult)[3435] [61 84 0 0 0 0]
+[54] - Armadura[1506] [43 9 0 0 0 0]
+[56] - Esfera_da_Sorte(LE)[4110] [0 0 0 0 0 0]
+[57] - Armadura(N)[1464] [43 9 2 30 71 70]
+[58] - Armadura(N)[1479] [43 9 2 30 71 70]
+[59] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:26:04 : [ShariTEST] - O login admin6 tentou logar na conta com o mesmo mac.
+11:31:48 : [ShariTEST] - Comando "/day "
+11:31:48 : [ShariTEST] - [Mensagem do servidor]> !#11 2
+14:03:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 2
+14:03:23 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 112346412
+14:03:23 : [INFORMAÇÕES DO BANCO]
+Gold: 112346412
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura(M)[1123] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Lança[854] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura[1221] [43 6 0 0 0 0]
+[ 29] - Calça[1222] [43 6 0 0 0 0]
+[ 30] - Luvas[1223] [43 6 0 0 0 0]
+[ 31] - Botas[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Lança[856] [43 9 61 28 0 0]
+[ 36] - Luvas(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Aranha[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Luvas(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Luvas(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Dardo[884] [43 6 2 36 0 0]
+[ 84] - Luvas(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[107] - Cérberus[2378] [0 0 120 119 0 0]
+[108] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[109] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[111] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[112] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[113] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[114] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[117] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[118] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+
+14:03:29 : Solicitou ir ao mundo...
+14:03:29 : Recebido pedido para entrar no jogo
+14:03:29 : Recebido informação do personagem completa.
+14:03:29 : [ShariTEST] - [INFORMAÇÕES DA CONTA]
+Personagem online: ShariTEST
+Gold atual: 146327753
+Level atual: 199
+Experiência atual: 3996000000
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2087x 2098y
+
+Pontos NT: 0
+Entradas Hall: 25
+Info: 15360
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[29] [43 0 29 3 1 1]
+[02] - Armadura[1506] [43 252 71 120 2 50]
+[03] - Calça[1507] [43 252 2 50 71 100]
+[04] - Luvas[1508] [43 252 2 50 0 0]
+[05] - Botas[1509] [43 252 73 30 71 100]
+[06] - Arco_Élfico[2122] [43 0 26 3 26 3]
+[08] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[09] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[10] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[11] - Sephirot(TransKnight)[1760] [0 0 0 0 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 2 108 59]
+[14] - Shire[3986] [96 1 2 21 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pedra_Espiritual[631] [43 5 0 0 0 0]
+[01] - Pedra_Espiritual[631] [43 9 0 0 0 0]
+[02] - Pedra_Espiritual[632] [43 1 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [61 106 0 0 0 0]
+[04] - [S]Caixa_Poção_de_Mana[3323] [61 120 0 0 0 0]
+[05] - Fada_Vermelha(3dias)[3902] [106 2 107 4 108 55]
+[10] - Khyrius(Anct)[2614] [43 250 0 0 0 0]
+[13] - Pedra_Espiritual[541] [43 9 0 0 0 0]
+[14] - Pedido_de_Caça(Kult)[3435] [61 84 0 0 0 0]
+[54] - Armadura[1506] [43 9 0 0 0 0]
+[56] - Esfera_da_Sorte(LE)[4110] [0 0 0 0 0 0]
+[57] - Armadura(N)[1464] [43 9 2 30 71 70]
+[58] - Armadura(N)[1479] [43 9 2 30 71 70]
+[59] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:03:29 : [ShariTEST] - Personagem ShariTEST enviado ao mundo 2087x 2098y - Canal 2 - Cash da conta: 64306. OverPower: 1847
+14:03:29 : [ShariTEST] - Gold atual: 146327753. Classe: 3 Evolução: 3. Experiência: 3996000000. Nível: 199. Info: 15360. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:03:29 : [ShariTEST] - Logou no personagem ShariTEST com poção divina ativo. Validade: 24/1/2021 14:19:7
+14:03:29 : [ShariTEST] - Evolução logada: 3
+14:03:29 : [ShariTEST] - Dados da capa um: [3199] [0 0 0 0 0 0]
+14:03:29 : [ShariTEST] - Dados da capa dois: [0] [0 0 0 0 0 0]
+14:03:29 : [ShariTEST] - Não foi efetuado a troca pois a refinação atual é maior
+14:03:29 : [ShariTEST] - Enviado informações do personagem
+14:03:30 : [ShariTEST] - Comando "/day "
+14:03:30 : [ShariTEST] - [Mensagem do servidor]> !#11 2
+14:03:35 : [ShariTEST] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:05:17 : [ShariTEST] - Moveu item Armadura(N) [1464] [43 9 2 30 71 70] do tipo INVENTÁRIO do slot 57 para tipo INVENTÁRIO slot 0
+14:05:19 : [ShariTEST] - Moveu item Armadura(N) [1479] [43 9 2 30 71 70] do tipo INVENTÁRIO do slot 58 para tipo INVENTÁRIO slot 1
+14:06:40 : [ShariTEST] - Moveu item Armadura(N) [1464] [43 9 2 30 71 70] do tipo INVENTÁRIO do slot 0 para tipo INVENTÁRIO slot 6
+14:07:28 : [ShariTEST] - Moveu item Armadura(N) [1464] [43 9 2 30 71 70] do tipo INVENTÁRIO do slot 6 para tipo INVENTÁRIO slot 0
+14:09:02 : [ShariTEST] - Comando "/gm +item 1"
+14:09:02 : [ShariTEST] - [Mensagem do servidor]> Criou o item Warrior
+14:09:02 : [ShariTEST] - ShariTEST criou o item Warrior [1] [0 0 0 0 0 0]
+14:09:06 : [ShariTEST] - Item Warrior deletado [1] [0 0 0 0 0 0]. Slot 6
+14:09:30 : [ShariTEST] - Comando "/gm +item 1482"
+14:09:30 : [ShariTEST] - [Mensagem do servidor]> Criou o item Calça(N)
+14:09:30 : [ShariTEST] - ShariTEST criou o item Calça(N) [1482] [0 0 0 0 0 0]
+14:09:35 : [ShariTEST] - Moveu item Calça(N) [1482] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 3
+14:09:41 : [ShariTEST] - Item Poeira_de_Lactolerium [413] [61 106 0 0 0 0] utilizado em 0x 0y
+14:09:41 : [ShariTEST] - [Mensagem do servidor]> Refinação sucedida.
+14:09:41 : [ShariTEST] - Item Calça(N) refinado com sucesso para 1 - [1482] [0 0 0 0 0 0] 73/100
+14:09:43 : [ShariTEST] - Item Poeira_de_Lactolerium [413] [61 105 0 0 0 0] utilizado em 0x 0y
+14:09:43 : [ShariTEST] - [Mensagem do servidor]> Refinação sucedida.
+14:09:43 : [ShariTEST] - Item Calça(N) refinado com sucesso para 2 - [1482] [43 1 0 0 0 0] 8/100
+14:09:45 : [ShariTEST] - Item Poeira_de_Lactolerium [413] [61 104 0 0 0 0] utilizado em 0x 0y
+14:09:45 : [ShariTEST] - [Mensagem do servidor]> Refinação sucedida.
+14:09:45 : [ShariTEST] - Item Calça(N) refinado com sucesso para 3 - [1482] [43 2 0 0 0 0] 32/100
+14:18:22 : [ShariTEST] - Clicado no NPC de Imposto
+14:22:38 : [ShariTEST] - Comando "/gm +item 3182"
+14:22:38 : [ShariTEST] - [Mensagem do servidor]> Criou o item Pergaminho_da_Água(A)LV1
+14:22:38 : [ShariTEST] - ShariTEST criou o item Pergaminho_da_Água(A)LV1 [3182] [0 0 0 0 0 0]
+14:33:30 : [ShariTEST] - [INFORMAÇÕES DA CONTA]
+Personagem online: ShariTEST
+Gold atual: 146327753
+Level atual: 199
+Experiência atual: 3996000000
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:29:43 horas
+Posição atual: 2118x 2103y
+
+Pontos NT: 0
+Entradas Hall: 25
+Info: 15360
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[29] [43 0 29 3 1 1]
+[02] - Armadura[1506] [43 252 71 120 2 50]
+[03] - Calça(N)[1482] [43 3 0 0 0 0]
+[04] - Luvas[1508] [43 252 2 50 0 0]
+[05] - Botas[1509] [43 252 73 30 71 100]
+[06] - Arco_Élfico[2122] [43 0 26 3 26 3]
+[08] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[09] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[10] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+[11] - Sephirot(TransKnight)[1760] [0 0 0 0 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 2 108 59]
+[14] - Shire[3986] [96 1 2 21 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Armadura(N)[1464] [43 9 2 30 71 70]
+[01] - Armadura(N)[1479] [43 9 2 30 71 70]
+[02] - Pedra_Espiritual[632] [43 1 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [61 103 0 0 0 0]
+[04] - [S]Caixa_Poção_de_Mana[3323] [61 120 0 0 0 0]
+[05] - Fada_Vermelha(3dias)[3902] [106 2 107 4 108 55]
+[06] - Calça[1507] [43 252 2 50 71 100]
+[07] - Pergaminho_da_Água(A)LV1[3182] [0 0 0 0 0 0]
+[10] - Khyrius(Anct)[2614] [43 250 0 0 0 0]
+[13] - Pedra_Espiritual[541] [43 9 0 0 0 0]
+[14] - Pedido_de_Caça(Kult)[3435] [61 84 0 0 0 0]
+[54] - Armadura[1506] [43 9 0 0 0 0]
+[56] - Esfera_da_Sorte(LE)[4110] [0 0 0 0 0 0]
+[57] - Pedra_Espiritual[631] [43 5 0 0 0 0]
+[58] - Pedra_Espiritual[631] [43 9 0 0 0 0]
+[59] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:37:33 : [ShariTEST] - Moveu item Calça [1507] [43 252 2 50 71 100] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 3
+14:37:33 : [ShariTEST] - Moveu item Calça(N) [1482] [43 3 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 3
+14:37:38 : [ShariTEST] - Moveu item Calça [1507] [43 252 2 50 71 100] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 3
+14:41:52 : [ShariTEST] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:41:52 : [ShariTEST] - 2 Personagem foi desconectado. Permaneceu 00:37:58 minutos online

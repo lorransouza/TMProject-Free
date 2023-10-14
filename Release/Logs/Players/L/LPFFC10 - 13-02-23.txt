@@ -1,0 +1,119 @@
+
+15:04:41 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 127.0.0.1 Mac: (F8:AC:68:4B:44:4F). ClientId: 1
+15:04:41 : [Mensagem do servidor]> Esta conta não foi encontrada.
+15:04:41 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+15:04:57 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 127.0.0.1 Mac: (F8:AC:68:4B:44:4F). ClientId: 1
+15:04:57 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+15:04:57 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:04:57 : A próxima missão acontecerá em aproximadamente 35 minutos
+15:05:05 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+15:05:07 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+15:05:07 : Personagem foi desconectado. Permaneceu 00:00:10 minutos online
+15:05:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 127.0.0.1 Mac: (F8:AC:68:4B:44:4F). ClientId: 1
+15:05:13 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+15:05:13 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:05:13 : A próxima missão acontecerá em aproximadamente 14 minutos
+15:05:35 : Solicitou ir ao mundo...
+15:05:35 : Recebido pedido para entrar no jogo
+15:05:35 : Recebido informação do personagem completa.
+15:05:35 : [Skys] - [INFORMAÇÕES DA CONTA]
+Personagem online: Skys
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:22 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - [1] [43 0 1 1 0 0]
+[01] - Elmo_de_Couro(A)[1103] [0 0 0 0 0 0]
+[02] - Armadura_de_Couro(A)[1115] [0 0 0 0 0 0]
+[03] - CalÃ§a_de_Couro(A)[1127] [0 0 0 0 0 0]
+[04] - Luvas_de_Couro(A)[1139] [0 0 0 0 0 0]
+[05] - Botas_de_Couro(A)[1151] [0 0 0 0 0 0]
+[06] - Adaga[861] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:05:35 : [Skys] - Personagem Skys enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+15:05:35 : [Skys] - Gold atual: 0. Classe: 0 Evolução: 1. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:05:35 : [Skys] - Resetado a contagem de entradas água! Day: 0-43. Total: 0
+15:05:35 : [Skys] - Enviado informações do personagem
+15:05:36 : [Skys] - Comando "/day "
+15:05:36 : [Skys] - [Mensagem do servidor]> !#11 2
+15:05:36 : [Skys] - [Mensagem do servidor]> Este personagem não está conectado.
+15:05:41 : [Skys] - O usuário não enviou o pacote de integridade de macaddress
+15:05:42 : [Skys] - Matou o mob Porco de Guerra. GenerID: 4421
+15:05:42 : [Skys] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+15:05:42 : [Skys] - Pontos CP subiu em 3. CP novo: 78
+15:05:42 : [Skys] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:05:42 : [Skys] - Level UP para level 1. Ev: 1 - 2116x 2039y
+15:05:42 : [Skys] - Pontos CP subiu em 3. CP novo: 81
+15:05:42 : [Skys] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:05:42 : [Skys] - Level UP para level 2. Ev: 1 - 2116x 2039y
+15:05:53 : [Skys] - Pontos CP subiu em 3. CP novo: 84
+15:05:53 : [Skys] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:05:53 : [Skys] - Level UP para level 3. Ev: 1 - 2125x 2044y
+15:05:54 : [Skys] - Matou o mob Porco de Guerra. GenerID: 4420
+15:05:54 : [Skys] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+15:05:54 : [Skys] - Pontos CP subiu em 3. CP novo: 87
+15:05:54 : [Skys] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:05:54 : [Skys] - Level UP para level 4. Ev: 1 - 2125x 2044y
+15:05:54 : [Skys] - Dropado item Jaqueta_Acolchoada(A) [1556] [43 0 71 50 59 0] em 2125x 2044y - Porco de Guerra (1/67)
+15:05:57 : [Skys] - Matou o mob Porco de Guerra. GenerID: 4419
+15:05:57 : [Skys] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+15:05:57 : [Skys] - Pontos CP subiu em 3. CP novo: 90
+15:05:57 : [Skys] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:05:57 : [Skys] - Level UP para level 5. Ev: 1 - 2125x 2045y
+15:06:00 : [Skys] - Matou o mob Porco de Guerra. GenerID: 4423
+15:06:00 : [Skys] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+15:06:00 : [Skys] - Pontos CP subiu em 3. CP novo: 93
+15:06:00 : [Skys] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:06:00 : [Skys] - Level UP para level 6. Ev: 1 - 2126x 2042y
+15:06:00 : [Skys] - Dropado item CalÃ§a_Acolchoada(A) [1559] [43 1 71 60 59 0] em 2126x 2042y - Porco de Guerra (1/89)
+15:06:02 : [Skys] - Matou o mob Porco de Guerra. GenerID: 4422
+15:06:02 : [Skys] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+15:06:10 : [Skys] - Matou o mob Porco de Guerra. GenerID: 4423
+15:06:10 : [Skys] - Pontos CP subiu em 3. CP novo: 96
+15:06:10 : [Skys] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:06:10 : [Skys] - Level UP para level 7. Ev: 1 - 2123x 2040y
+15:06:13 : [Skys] - Matou o mob Porco de Guerra. GenerID: 4419
+15:06:13 : [Skys] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+15:06:18 : [Skys] - Matou o mob Porco de Guerra. GenerID: 4422
+15:06:18 : [Skys] - Pontos CP subiu em 3. CP novo: 99
+15:06:18 : [Skys] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:06:18 : [Skys] - Level UP para level 8. Ev: 1 - 2122x 2045y
+15:06:22 : [Skys] - Matou o mob Porco de Guerra. GenerID: 4420
+15:06:22 : [Skys] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+15:06:25 : [Skys] - Item Jaqueta_Acolchoada(A) deletado [1556] [43 0 71 50 59 0]. Slot 0
+15:06:26 : [Skys] - Item CalÃ§a_Acolchoada(A) deletado [1559] [43 1 71 60 59 0]. Slot 1
+15:06:30 : [Skys] - Matou o mob Porco de Guerra. GenerID: 4421
+15:06:30 : [Skys] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+15:06:30 : [Skys] - Pontos CP subiu em 3. CP novo: 102
+15:06:30 : [Skys] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:06:30 : [Skys] - Level UP para level 9. Ev: 1 - 2116x 2043y
+15:08:00 : [Skys] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+15:09:43 : [Skys] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+15:09:43 : [Skys] - Personagem foi desconectado. Permaneceu 00:04:30 minutos online

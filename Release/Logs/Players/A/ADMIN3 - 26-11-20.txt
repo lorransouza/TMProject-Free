@@ -1,0 +1,117 @@
+
+00:00:00 : [Warrior-1] - Resetado a contagem de entradas ï¿½gua! Day: 329-330. Total: 0
+00:00:00 : [Warrior-1] - Resetado contagem de pontos de contribuiï¿½ï¿½o. Day: 330-0. Total de pontos: 0. Limite: 0
+00:00:00 : [Warrior-1] - Usuï¿½rio online desde o dia anterior
+00:00:00 : [Warrior-1] - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44)
+00:00:00 : [Warrior-1] - [USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+00:26:28 : [Warrior-1] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+00:26:28 : [Warrior-1] - 1 Personagem foi desconectado. Permaneceu 02:10:00 minutos online
+17:26:38 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+17:26:38 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+17:26:38 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 83] - Poeira_de_Fada[414] [0 0 0 0 0 0]
+[ 89] - Adaga_do_Duelo(M)[4601] [61 1 0 0 0 0]
+
+17:26:38 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:26:42 : Solicitou ir ao mundo...
+17:26:42 : Recebido pedido para entrar no jogo
+17:26:42 : Recebido informação do personagem completa.
+17:26:42 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2098x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Shire(3dias)[3980] [106 27 110 11 109 20]
+[01] - Luvas_de_Seda(A)[1292] [43 1 72 25 60 6]
+[02] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[04] - Kit_de_Cura_(20_M.)[682] [61 19 0 0 0 0]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[06] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[07] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[09] - Maça_Pesada[803] [43 0 2 27 59 0]
+[10] - Adaga[861] [43 8 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:26:42 : [Warrior-1] - Personagem Warrior-1 enviado ao mundo 2098x 2096y - Canal 2 - Cash da conta: 0. OverPower: 2250
+17:26:42 : [Warrior-1] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+17:26:42 : [Warrior-1] - Enviado informações do personagem
+17:26:43 : [Warrior-1] - Comando "/day "
+17:26:43 : [Warrior-1] - [Mensagem do servidor]> !#11 2
+17:26:51 : [Warrior-1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:26:56 : [Warrior-1] - Comando "/gm +npccreate Tauron"
+17:27:02 : [Warrior-1] - Comando "/gm +create Tauron"
+17:27:19 : [Warrior-1] - Comando "/gm +necromante"
+17:27:23 : [Warrior-1] - Comando "/gm +item 5114"
+17:27:23 : [Warrior-1] - Warrior-1 criou o item Raidho [5114] [0 0 0 0 0 0]
+17:27:26 : [Warrior-1] - Comando "/gm +item 5115"
+17:27:26 : [Warrior-1] - Warrior-1 criou o item Kenaz [5115] [0 0 0 0 0 0]
+17:27:28 : [Warrior-1] - Comando "/gm +item 5116"
+17:27:28 : [Warrior-1] - Warrior-1 criou o item Naudhiz [5116] [0 0 0 0 0 0]
+17:27:28 : [Warrior-1] - Comando "/gm +item 5117"
+17:27:28 : [Warrior-1] - Warrior-1 criou o item Gebo [5117] [0 0 0 0 0 0]
+17:27:30 : [Warrior-1] - Comando "/gm +item 5118"
+17:27:30 : [Warrior-1] - Warrior-1 criou o item Wunjo [5118] [0 0 0 0 0 0]
+17:27:30 : [Warrior-1] - Comando "/gm +item 5119"
+17:27:30 : [Warrior-1] - Warrior-1 criou o item Hagalaz [5119] [0 0 0 0 0 0]
+17:27:35 : [Warrior-1] - Comando "/gm +item 5120"
+17:27:35 : [Warrior-1] - Warrior-1 criou o item Isa [5120] [0 0 0 0 0 0]
+17:27:43 : [Warrior-1] - [Mensagem do servidor]> Não possui GOLD suficiente
+17:27:48 : [Warrior-1] - Comando "/gm +coin 10000000"
+17:27:54 : [Warrior-1] - Comando "/gm +set coin 1000000000"
+17:27:54 : [Warrior-1] - [Mensagem do servidor]> Gold setado para: 1000000000.
+17:27:56 : [Warrior-1] - [Mensagem do servidor]> Ocorreu um erro ao invocar o monstro
+17:28:22 : [Warrior-1] - Comando "/gm +item 5120"
+17:28:22 : [Warrior-1] - Warrior-1 criou o item Isa [5120] [0 0 0 0 0 0]
+17:28:24 : [Warrior-1] - Comando "/gm +item 5119"
+17:28:24 : [Warrior-1] - Warrior-1 criou o item Hagalaz [5119] [0 0 0 0 0 0]
+17:28:26 : [Warrior-1] - Comando "/gm +item 5118"
+17:28:26 : [Warrior-1] - Warrior-1 criou o item Wunjo [5118] [0 0 0 0 0 0]
+17:28:27 : [Warrior-1] - Comando "/gm +item 5117"
+17:28:27 : [Warrior-1] - Warrior-1 criou o item Gebo [5117] [0 0 0 0 0 0]
+17:28:27 : [Warrior-1] - Comando "/gm +item 5116"
+17:28:28 : [Warrior-1] - Warrior-1 criou o item Naudhiz [5116] [0 0 0 0 0 0]
+17:28:29 : [Warrior-1] - Comando "/gm +item 5115"
+17:28:29 : [Warrior-1] - Warrior-1 criou o item Kenaz [5115] [0 0 0 0 0 0]
+17:28:32 : [Warrior-1] - Comando "/gm +item 5114"
+17:28:32 : [Warrior-1] - Warrior-1 criou o item Raidho [5114] [0 0 0 0 0 0]
+17:28:35 : [Warrior-1] - Comando "/gm +necromante"
+17:28:46 : [Warrior-1] - [Mensagem do servidor]> Ocorreu um erro ao invocar o monstro
+17:29:34 : [Warrior-1] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:29:34 : [Warrior-1] - 1 Personagem foi desconectado. Permaneceu 00:02:55 minutos online

@@ -1,0 +1,3437 @@
+
+15:01:44 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 4
+15:01:44 : Usuário logou no jogo com clientId 4. - Servidor 2. Gold do banco: 0
+15:01:44 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:01:44 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:01:48 : Solicitou ir ao mundo...
+15:01:49 : Recebido pedido para entrar no jogo
+15:01:49 : Recebido informação do personagem completa.
+15:01:49 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1999465490
+Level atual: 101
+Experiência atual: 8461554
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2088x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura(N)[1116] [43 0 0 0 0 0]
+[03] - Calça(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas(N)[1140] [43 0 0 0 0 0]
+[05] - Botas(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Ração_de_Cavalo(P)[3373] [61 120 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[02] - Ração_de_Svadilfari(P)[3385] [61 100 0 0 0 0]
+[03] - Cavalo_Equip_N[2369] [20 0 120 8 0 0]
+[04] - Cavalo_Equip_N[2369] [202 254 120 10 0 0]
+[05] - Esfera_da_Sorte(M)[4129] [0 0 0 0 0 0]
+[06] - Esfera_da_Sorte(A)[4130] [0 0 0 0 0 0]
+[07] - Baú_de_Experiência[4140] [61 10 0 0 0 0]
+[08] - Calça(A)[1559] [43 0 71 60 60 6]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Jaqueta(A)[1556] [43 0 3 20 59 0]
+[11] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[12] - Luvas(A)[1292] [43 0 72 20 2 24]
+[13] - Sapatos(A)[1415] [43 0 73 12 74 18]
+[14] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[15] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[16] - Sapatos(N)[1413] [43 0 73 12 74 12]
+[17] - Garra[981] [43 0 59 87 59 0]
+[20] - Thoroughbred[3987] [96 19 2 21 0 0]
+[63] - Marca_do_Assassino[547] [81 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:01:49 : [Zero] - Personagem Zero enviado ao mundo 2088x 2097y - Canal 2 - Cash da conta: 19839. PowerLevel: 76
+15:01:49 : [Zero] - Gold atual: 1999465490. Classe: 0 Evolução: 0. Experiência: 8461554. Nível: 101. Info: 0. GuildID: 0. CP: 6. Pontos de Contribuição: 0. Limite: 0
+15:01:49 : [Zero] - Resetado a contagem de entradas água! Day: 19-20. Total: 0
+15:01:49 : [Zero] - Enviado informações do personagem
+15:01:50 : [Zero] - Comando "/day "
+15:01:50 : [Zero] - [Mensagem do servidor]> !#11 2
+15:02:03 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:02:26 : [Zero] - Comando "/gm +item 2367 100 100 5 5 100 0"
+15:02:26 : [Zero] - [Mensagem do servidor]> Criou o item Cavalo_Fantasm_N
+15:02:26 : [Zero] - Zero criou o item Cavalo_Fantasm_N [2367] [100 100 5 5 100 0]
+15:02:33 : [Zero] - Comando "/gm +item 2367 100 100 5 5 0 0"
+15:02:33 : [Zero] - [Mensagem do servidor]> Criou o item Cavalo_Fantasm_N
+15:02:33 : [Zero] - Zero criou o item Cavalo_Fantasm_N [2367] [100 100 5 5 0 0]
+15:05:24 : [Zero] - Moveu item Thoroughbred [3987] [96 19 2 21 0 0] do tipo INVENTÁRIO do slot 20 para tipo EQUIPAMENTO slot 14
+15:06:00 : [Zero] - Comando "/Shaaari !tenta com safira separada e junta"
+15:06:00 : [Zero] - Mensagem Privada para: Shaaari: !tenta com safira separada e junta
+15:06:07 : [Zero] - Comando "/Shaaari !tenta com o item que da capa tb"
+15:06:07 : [Zero] - Mensagem Privada para: Shaaari: !tenta com o item que da capa tb
+15:06:09 : [Zero] - Comando "/Shaaari !da quest"
+15:06:09 : [Zero] - Mensagem Privada para: Shaaari: !da quest
+15:06:16 : [Zero] - Comprou o item Elmo(A) [1106] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 10695. Imposto: 1395. Gold: 1999453990 anterior. Gold após a compra: 1999443295
+15:06:17 : [Zero] - Comprou o item Classe_A [4016] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 3450. Imposto: 450. Gold: 1999443295 anterior. Gold após a compra: 1999439845
+15:06:19 : [Zero] - Item Classe_A [4016] [0 0 0 0 0 0] utilizado em 0x 0y
+15:06:19 : [Zero] - Replation usado em Elmo(A) [1106] [0 0 0 0 0 0]
+15:06:19 : [Zero] - Replation gerou o adicional [1106] [0 0 26 9 4 60]
+15:06:43 : [Zero] - Comprou o item Classe_A [4016] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 3450. Imposto: 450. Gold: 1999439845 anterior. Gold após a compra: 1999436395
+15:06:44 : [Zero] - Comprou o item Classe_A [4016] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 3450. Imposto: 450. Gold: 1999436395 anterior. Gold após a compra: 1999432945
+15:06:45 : [Zero] - Comprou o item Armadura(A) [1118] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 14490. Imposto: 1890. Gold: 1999432945 anterior. Gold após a compra: 1999418455
+15:06:45 : [Zero] - Comprou o item Calça(A) [1130] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 12650. Imposto: 1650. Gold: 1999418455 anterior. Gold após a compra: 1999405805
+15:06:46 : [Zero] - Comprou o item Luvas(A) [1142] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 9200. Imposto: 1200. Gold: 1999405805 anterior. Gold após a compra: 1999396605
+15:06:46 : [Zero] - Comprou o item Botas(A) [1154] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 11040. Imposto: 1440. Gold: 1999396605 anterior. Gold após a compra: 1999385565
+15:06:48 : [Zero] - Item Classe_A [4016] [0 0 0 0 0 0] utilizado em 0x 0y
+15:06:48 : [Zero] - Replation usado em Calça(A) [1130] [0 0 0 0 0 0]
+15:06:48 : [Zero] - Replation gerou o adicional [1130] [0 0 71 60 2 24]
+15:06:49 : [Zero] - Item Classe_A [4016] [0 0 0 0 0 0] utilizado em 0x 0y
+15:06:49 : [Zero] - Replation usado em Armadura(A) [1118] [0 0 0 0 0 0]
+15:06:49 : [Zero] - Replation gerou o adicional [1118] [0 0 71 40 2 30]
+15:08:27 : [Zero] - Teleportado para a posição 2458 2017
+15:08:41 : [Zero] - Personagem deu personagem
+15:08:44 : Solicitou ir ao mundo...
+15:08:44 : Recebido pedido para entrar no jogo
+15:08:44 : Recebido informação do personagem completa.
+15:08:44 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1999383965
+Level atual: 101
+Experiência atual: 8461554
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:06:55 horas
+Posição atual: 2460x 2011y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura(N)[1116] [43 0 0 0 0 0]
+[03] - Calça(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas(N)[1140] [43 0 0 0 0 0]
+[05] - Botas(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Thoroughbred[3987] [96 19 2 21 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Ração_de_Cavalo(P)[3373] [61 120 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[02] - Ração_de_Svadilfari(P)[3385] [61 100 0 0 0 0]
+[03] - Cavalo_Equip_N[2369] [20 0 120 8 0 0]
+[04] - Cavalo_Equip_N[2369] [202 254 120 10 0 0]
+[05] - Esfera_da_Sorte(M)[4129] [0 0 0 0 0 0]
+[06] - Esfera_da_Sorte(A)[4130] [0 0 0 0 0 0]
+[07] - Baú_de_Experiência[4140] [61 10 0 0 0 0]
+[08] - Calça(A)[1559] [43 0 71 60 60 6]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Jaqueta(A)[1556] [43 0 3 20 59 0]
+[11] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[12] - Luvas(A)[1292] [43 0 72 20 2 24]
+[13] - Sapatos(A)[1415] [43 0 73 12 74 18]
+[14] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[15] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[16] - Sapatos(N)[1413] [43 0 73 12 74 12]
+[17] - Garra[981] [43 0 59 87 59 0]
+[18] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[19] - Cavalo_Fantasm_N[2367] [100 100 5 5 0 0]
+[20] - Elmo(N)[1461] [43 6 0 0 0 0]
+[22] - Armadura(A)[1118] [0 0 71 40 2 30]
+[23] - Luvas(A)[1142] [0 0 0 0 0 0]
+[25] - Elmo(A)[1106] [0 0 26 9 4 60]
+[27] - Calça(A)[1130] [0 0 71 60 2 24]
+[28] - Botas(A)[1154] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [81 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:08:44 : [Zero] - Personagem Zero enviado ao mundo 2460x 2011y - Canal 2 - Cash da conta: 19839. PowerLevel: 76
+15:08:44 : [Zero] - Gold atual: 1999383965. Classe: 0 Evolução: 0. Experiência: 8461554. Nível: 101. Info: 0. GuildID: 0. CP: 6. Pontos de Contribuição: 0. Limite: 0
+15:08:44 : [Zero] - Enviado informações do personagem
+15:08:45 : [Zero] - Comando "/day "
+15:08:45 : [Zero] - [Mensagem do servidor]> !#11 2
+15:08:51 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:09:31 : [Zero] - Clicado no NPC [Coveiro]. Face 58. Race: 2. GenerateId: 3282. Posição do usuário: 2373x 2089y. Posição do NPC: 2372x 2097y
+15:09:31 : [Zero] - Teleportado para a posição 2397 2105
+15:09:31 : [Zero] - Zero entrou na quest [Coveiro].
+15:10:35 : [Zero] - Comando "/gm +item 3320"
+15:10:35 : [Zero] - [Mensagem do servidor]> Criou o item (S)Poção_Combatente(P)
+15:10:35 : [Zero] - Zero criou o item (S)Poção_Combatente(P) [3320] [0 0 0 0 0 0]
+15:10:38 : [Zero] - Item (S)Poção_Combatente(P) [3320] [0 0 0 0 0 0] utilizado em 2389x 2104y
+15:10:45 : [Zero] - Comando "/gm +item 3330"
+15:10:45 : [Zero] - [Mensagem do servidor]> Criou o item Trombeta_Mágica
+15:10:45 : [Zero] - Zero criou o item Trombeta_Mágica [3330] [0 0 0 0 0 0]
+15:10:46 : [Zero] - Matou o mob Esqueleto. GenerID: 4238
+15:10:55 : [Zero] - Comando "/gm +item 3314"
+15:10:55 : [Zero] - [Mensagem do servidor]> Criou o item Frango_Assado
+15:10:55 : [Zero] - Zero criou o item Frango_Assado [3314] [0 0 0 0 0 0]
+15:10:56 : [Zero] - Item Frango_Assado [3314] [0 0 0 0 0 0] utilizado em 2389x 2104y
+15:10:58 : [Zero] - Matou o mob Esqueleto. GenerID: 4238
+15:11:02 : [Zero] - Matou o mob Esqueleto. GenerID: 4239
+15:11:04 : [Zero] - Comando "/gm +item 4140"
+15:11:04 : [Zero] - [Mensagem do servidor]> Criou o item Baú_de_Experiência
+15:11:04 : [Zero] - Zero criou o item Baú_de_Experiência [4140] [0 0 0 0 0 0]
+15:11:05 : [Zero] - Item Baú_de_Experiência [4140] [0 0 0 0 0 0] utilizado em 2394x 2114y
+15:11:07 : [Zero] - Matou o mob Esqueleto. GenerID: 4248
+15:11:07 : [Zero] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2394x 2114y - Esqueleto (1/4)
+15:11:08 : [Zero] - Comando "/gm +item 4139"
+15:11:08 : [Zero] - [Mensagem do servidor]> Criou o item Baú_de_Caça
+15:11:08 : [Zero] - Zero criou o item Baú_de_Caça [4139] [0 0 0 0 0 0]
+15:11:08 : [Zero] - Matou o mob Esqueleto. GenerID: 4248
+15:11:09 : [Zero] - Item Baú_de_Caça [4139] [0 0 0 0 0 0] utilizado em 2394x 2114y
+15:11:12 : [Zero] - Matou o mob Esqueleto. GenerID: 4243
+15:11:12 : [Zero] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2389x 2119y - Esqueleto (1/4)
+15:11:16 : [Zero] - Matou o mob Esqueleto. GenerID: 4245
+15:11:20 : [Zero] - Matou o mob Esqueleto. GenerID: 4247
+15:11:25 : [Zero] - Matou o mob Esqueleto. GenerID: 4246
+15:11:25 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2384x 2127y - Esqueleto (1/4)
+15:11:25 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:11:28 : [Zero] - Matou o mob Esqueleto. GenerID: 4242
+15:11:32 : [Zero] - Matou o mob Esqueleto. GenerID: 4242
+15:11:35 : [Zero] - Matou o mob Esqueleto. GenerID: 4246
+15:11:38 : [Zero] - Matou o mob Esqueleto. GenerID: 4242
+15:11:41 : [Zero] - Matou o mob Esqueleto. GenerID: 4245
+15:11:41 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2388x 2125y - Esqueleto (1/4)
+15:11:41 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:11:45 : [Zero] - Matou o mob Esqueleto. GenerID: 4246
+15:11:48 : [Zero] - Matou o mob Esqueleto. GenerID: 4246
+15:11:57 : [Zero] - Matou o mob Esqueleto. GenerID: 4239
+15:12:00 : [Zero] - Matou o mob Esqueleto. GenerID: 4248
+15:12:06 : [Zero] - Matou o mob Esqueleto. GenerID: 4248
+15:12:09 : [Zero] - Matou o mob Esqueleto. GenerID: 4239
+15:12:11 : [Zero] - Matou o mob Aparicao. GenerID: 4241
+15:12:11 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2392x 2111y - Aparicao (1/1)
+15:12:11 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:12:14 : [Zero] - Matou o mob Esqueleto. GenerID: 4241
+15:12:18 : [Zero] - Matou o mob Esqueleto. GenerID: 4238
+15:12:21 : [Zero] - Matou o mob Esqueleto. GenerID: 4238
+15:12:26 : [Zero] - Matou o mob Esqueleto. GenerID: 4233
+15:12:26 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2385x 2104y - Esqueleto (1/4)
+15:12:26 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:12:29 : [Zero] - Matou o mob Esqueleto. GenerID: 4233
+15:12:29 : [Zero] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+15:12:29 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2385x 2104y - Esqueleto (1/4)
+15:12:29 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:12:32 : [Zero] - Matou o mob Aparicao. GenerID: 4233
+15:12:32 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2385x 2104y - Aparicao (1/1)
+15:12:32 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:12:37 : [Zero] - Matou o mob Esqueleto. GenerID: 4238
+15:12:40 : [Zero] - Matou o mob Esqueleto. GenerID: 4238
+15:12:44 : [Zero] - Matou o mob Esqueleto. GenerID: 4239
+15:12:44 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2391x 2109y - Esqueleto (1/4)
+15:12:44 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:12:51 : [Zero] - Matou o mob Esqueleto. GenerID: 4248
+15:12:54 : [Zero] - Matou o mob Esqueleto. GenerID: 4248
+15:12:55 : [Zero] - Matou o mob Esqueleto. GenerID: 4239
+15:12:59 : [Zero] - Matou o mob Esqueleto. GenerID: 4241
+15:13:02 : [Zero] - Matou o mob Aparicao. GenerID: 4241
+15:13:02 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2390x 2116y - Aparicao (1/1)
+15:13:02 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:13:06 : [Zero] - Matou o mob Esqueleto. GenerID: 4241
+15:13:06 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2390x 2116y - Esqueleto (1/4)
+15:13:06 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:13:10 : [Zero] - Matou o mob Esqueleto. GenerID: 4244
+15:13:12 : [Zero] - Matou o mob Esqueleto. GenerID: 4243
+15:13:15 : [Zero] - Matou o mob Esqueleto. GenerID: 4244
+15:13:19 : [Zero] - Matou o mob Esqueleto. GenerID: 4248
+15:13:19 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2395x 2116y - Esqueleto (1/4)
+15:13:19 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:13:22 : [Zero] - Matou o mob Esqueleto. GenerID: 4248
+15:13:22 : [Zero] - Não dropou o item Elmo(M) por falta de espaço [1162] [43 0 60 10 59 0] em 2396x 2115y - Esqueleto (1/300)
+15:13:22 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:13:24 : [Zero] - Matou o mob Aparicao. GenerID: 4236
+15:13:24 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2402x 2110y - Aparicao (1/1)
+15:13:24 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:13:28 : [Zero] - Matou o mob Esqueleto. GenerID: 4235
+15:13:31 : [Zero] - Matou o mob Esqueleto. GenerID: 4235
+15:13:35 : [Zero] - Matou o mob Aparicao. GenerID: 4235
+15:13:35 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2406x 2105y - Aparicao (1/1)
+15:13:35 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:13:40 : [Zero] - Matou o mob Esqueleto. GenerID: 4256
+15:13:43 : [Zero] - Matou o mob Esqueleto. GenerID: 4235
+15:13:46 : [Zero] - Matou o mob Aparicao. GenerID: 4235
+15:13:46 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2406x 2105y - Aparicao (1/1)
+15:13:46 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:13:50 : [Zero] - Matou o mob Esqueleto. GenerID: 4235
+15:13:50 : [Zero] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+15:13:50 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2407x 2104y - Esqueleto (1/4)
+15:13:50 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:13:54 : [Zero] - Matou o mob Esqueleto. GenerID: 4256
+15:13:59 : [Zero] - Matou o mob Esqueleto. GenerID: 4255
+15:14:02 : [Zero] - Matou o mob Esqueleto. GenerID: 4255
+15:14:02 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2420x 2104y - Esqueleto (1/4)
+15:14:02 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:14:06 : [Zero] - Matou o mob Esqueleto. GenerID: 4261
+15:14:10 : [Zero] - Matou o mob Esqueleto. GenerID: 4255
+15:14:13 : [Zero] - Matou o mob Esqueleto. GenerID: 4255
+15:14:17 : [Zero] - Matou o mob Esqueleto. GenerID: 4260
+15:14:28 : [Zero] - Matou o mob Aparicao. GenerID: 4236
+15:14:28 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2403x 2109y - Aparicao (1/1)
+15:14:28 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:14:33 : [Zero] - Matou o mob Esqueleto. GenerID: 4248
+15:14:35 : [Zero] - Matou o mob Esqueleto. GenerID: 4248
+15:14:42 : [Zero] - Matou o mob Esqueleto. GenerID: 4244
+15:14:42 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2392x 2120y - Esqueleto (1/4)
+15:14:42 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:14:45 : [Zero] - Matou o mob Aparicao. GenerID: 4241
+15:14:45 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2392x 2120y - Aparicao (1/1)
+15:14:45 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:14:48 : [Zero] - Matou o mob Esqueleto. GenerID: 4244
+15:14:56 : [Zero] - Matou o mob Aparicao. GenerID: 4241
+15:14:56 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2392x 2120y - Aparicao (1/1)
+15:14:56 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:14:59 : [Zero] - Matou o mob Esqueleto. GenerID: 4241
+15:14:59 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2392x 2120y - Esqueleto (1/4)
+15:14:59 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:15:02 : [Zero] - Matou o mob Esqueleto. GenerID: 4243
+15:15:07 : [Zero] - Matou o mob Esqueleto. GenerID: 4243
+15:15:07 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2392x 2120y - Esqueleto (1/4)
+15:15:07 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:15:10 : [Zero] - Matou o mob Esqueleto. GenerID: 4248
+15:15:19 : [Zero] - Matou o mob Esqueleto. GenerID: 4248
+15:15:23 : [Zero] - Matou o mob Esqueleto. GenerID: 4243
+15:15:23 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2393x 2119y - Esqueleto (1/4)
+15:15:23 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:15:26 : [Zero] - Matou o mob Esqueleto. GenerID: 4243
+15:15:30 : [Zero] - Matou o mob Esqueleto. GenerID: 4241
+15:15:34 : [Zero] - Matou o mob Esqueleto. GenerID: 4249
+15:15:34 : [Zero] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+15:15:37 : [Zero] - Matou o mob Aparicao. GenerID: 4241
+15:15:37 : [Zero] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2390x 2116y - Aparicao (1/1)
+15:15:37 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+15:15:40 : [Zero] - Enviado para a cidade através do ClearArea. Posição: 2390x 2116y - Quest Coveiro
+15:15:40 : [Zero] - DoRecall - Enviado para cidade: 2091x 2101y
+15:15:40 : [Zero] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 300. Distância 2: 299. Range: 1.
+15:16:16 : [Zero] - Comando "/gm +level 254"
+15:16:22 : [Zero] - Teleportado para a posição 2366 3878
+15:16:25 : [Zero] - Comando "/gm +armia"
+15:16:25 : [Zero] - Teleportado para a posição 2100 2100
+15:16:33 : [Zero] - Teleportado para a posição 960 1761
+15:16:37 : [Zero] - Teleportado para a posição 2117 2102
+15:16:43 : [Zero] - Teleportado para a posição 960 1761
+15:18:04 : [Zero] - Teleportado para a posição 1701 1725
+15:19:13 : [Zero] - Removido o Hp do mob Torre Guardia. HP removido: 1. HP Atual: 1019
+15:20:27 : [Zero] - Clicado no NPC [Black Oracle]. Face 18. Race: 3. GenerateId: 2951. Posição do usuário: 1760x 1584y. Posição do NPC: 1759x 1581y
+15:20:27 : [Zero] - [Mensagem do servidor]> Você precisa da medalha de guilda.
+15:20:32 : [Zero] - Clicado no NPC [Black Oracle]. Face 18. Race: 3. GenerateId: 2952. Posição do usuário: 1757x 1574y. Posição do NPC: 1759x 1563y
+15:20:32 : [Zero] - [Mensagem do servidor]> Você precisa da medalha de guilda.
+15:21:00 : [Zero] - Clicado no NPC [Black Oracle]. Face 18. Race: 3. GenerateId: 2950. Posição do usuário: 1705x 1596y. Posição do NPC: 1714x 1604y
+15:21:00 : [Zero] - [Mensagem do servidor]> Você precisa da medalha de guilda.
+15:22:18 : [Zero] - Comando "/gm +move 1760 1582"
+15:22:18 : [Zero] - Teleportado para a posição 1759 1581
+15:22:34 : [Zero] - Comando "/gm +move 1760 1564"
+15:22:34 : [Zero] - Teleportado para a posição 1759 1563
+15:23:22 : [Zero] - Comando "/gm +move 1754 1879"
+15:23:22 : [Zero] - Teleportado para a posição 1754 1879
+15:24:16 : [Zero] - Removido o Hp do mob K's GuardChief . HP removido: 333. HP Atual: 23667
+15:24:17 : [Zero] - Removido o Hp do mob K's GuardChief . HP removido: 333. HP Atual: 23334
+15:24:17 : [Zero] - Clicado no NPC [King Glantuar]. Face 304. Race: 3. GenerateId: 9. Posição do usuário: 1753x 1881y. Posição do NPC: 1753x 1882y
+15:24:17 : [Zero] - [Mensagem do servidor]> Você precisa de 16 safira(as).
+15:24:18 : [Zero] - Removido o Hp do mob K's GuardChief . HP removido: 333. HP Atual: 23001
+15:24:19 : [Zero] - Removido o Hp do mob K's GuardChief . HP removido: 333. HP Atual: 22668
+15:24:25 : [Zero] - Comando "/gm +clearinv"
+15:24:25 : [Zero] - [Mensagem do servidor]> CLEARINV
+15:24:28 : [Zero] - Comando "/gm +item 697"
+15:24:28 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:24:28 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:24:29 : [Zero] - Comando "/gm +item 697"
+15:24:29 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:24:29 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:24:30 : [Zero] - Comando "/gm +item 697"
+15:24:30 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:24:30 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:24:31 : [Zero] - Comando "/gm +item 697"
+15:24:31 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:24:31 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:24:37 : [Zero] - Comando "/gm +item 697"
+15:24:37 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:24:37 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:24:40 : [Zero] - Comando "/gm "
+15:24:40 : [Zero] - [Mensagem do servidor]> Utilize /gm +command
+15:24:43 : [Zero] - Comando "/gm +item 697"
+15:24:43 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:24:43 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:24:44 : [Zero] - Comando "/gm +item 697"
+15:24:44 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:24:44 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:24:46 : [Zero] - Comando "/gm +item 697"
+15:24:46 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:24:46 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:24:48 : [Zero] - Comando "/gm +item 697"
+15:24:48 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:24:48 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:24:49 : [Zero] - Comando "/gm +item 697"
+15:24:49 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:24:49 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:24:52 : [Zero] - Comando "/gm +item 697 10"
+15:24:52 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:24:52 : [Zero] - Zero criou o item Safira [697] [10 0 0 0 0 0]
+15:24:55 : [Zero] - Item Safira deletado [697] [10 0 0 0 0 0]. Slot 10
+15:24:56 : [Zero] - Comando "/gm "
+15:24:56 : [Zero] - [Mensagem do servidor]> Utilize /gm +command
+15:24:59 : [Zero] - Comando "/gm +item 697"
+15:24:59 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:24:59 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:25:00 : [Zero] - Comando "/gm +item 697"
+15:25:00 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:25:00 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:25:01 : [Zero] - Comando "/gm +item 697"
+15:25:01 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:25:01 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:25:02 : [Zero] - Comando "/gm +item 697"
+15:25:02 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:25:02 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:25:03 : [Zero] - Comando "/gm +item 697"
+15:25:03 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:25:03 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:25:05 : [Zero] - Comando "/gm +item 697"
+15:25:05 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:25:05 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:25:08 : [Zero] - Clicado no NPC [King Glantuar]. Face 304. Race: 3. GenerateId: 9. Posição do usuário: 1755x 1879y. Posição do NPC: 1749x 1879y
+15:25:08 : [Zero] - [Mensagem do servidor]> Você precisa de 16 safira(as).
+15:25:10 : [Zero] - Comando "/gm +item 697"
+15:25:10 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:25:10 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+15:25:13 : [Zero] - Clicado no NPC [King Glantuar]. Face 304. Race: 3. GenerateId: 9. Posição do usuário: 1755x 1879y. Posição do NPC: 1750x 1880y
+15:25:13 : [Zero] - [Mensagem do servidor]> Você precisa de 16 safira(as).
+15:25:15 : [Zero] - Comando "/gm "
+15:25:15 : [Zero] - [Mensagem do servidor]> Utilize /gm +command
+15:25:18 : [Zero] - Comando "/gm +item 697 61 16"
+15:25:18 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+15:25:18 : [Zero] - Zero criou o item Safira [697] [61 16 0 0 0 0]
+15:25:19 : [Zero] - Clicado no NPC [King Glantuar]. Face 304. Race: 3. GenerateId: 9. Posição do usuário: 1755x 1879y. Posição do NPC: 1750x 1880y
+15:25:19 : [Zero] - [Mensagem do servidor]> Você precisa de 16 safira(as).
+15:25:22 : [Zero] - Item Safira deletado [697] [61 16 0 0 0 0]. Slot 17
+15:25:41 : [Zero] - Comando "/gm +item 4081"
+15:25:41 : [Zero] - [Mensagem do servidor]> Criou o item Emblema_do_Reino
+15:25:41 : [Zero] - Zero criou o item Emblema_do_Reino [4081] [0 0 0 0 0 0]
+15:25:53 : [Zero] - Comando "/gm +level 221"
+15:26:02 : [Zero] - Comando "/gm +set level 220"
+15:26:04 : [Zero] - Moveu item Emblema_do_Reino [4081] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 13
+15:26:07 : [Zero] - Clicado no NPC [King Glantuar]. Face 304. Race: 3. GenerateId: 9. Posição do usuário: 1755x 1879y. Posição do NPC: 1750x 1880y
+15:26:07 : [Zero] - [Mensagem do servidor]> Bem vindo, novo aventureiro
+15:26:07 : [Zero] - Zero pegou a capa com o emblema do reino. Capa: 546
+15:27:45 : [Zero] - Comando "/gm +armia"
+15:27:45 : [Zero] - Teleportado para a posição 2100 2100
+15:27:48 : [Zero] - Comando "/gm +item 551"
+15:27:48 : [Zero] - [Mensagem do servidor]> Criou o item Amuleto_de_Prata
+15:27:48 : [Zero] - Zero criou o item Amuleto_de_Prata [551] [0 0 0 0 0 0]
+15:27:50 : [Zero] - Moveu item Amuleto_de_Prata [551] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 9
+15:27:53 : [Zero] - Moveu item Amuleto_de_Prata [551] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 9 para tipo INVENTÁRIO slot 20
+15:28:49 : [Zero] - Comando "/gm +item 552"
+15:28:49 : [Zero] - [Mensagem do servidor]> Criou o item Amuleto_de_Prata
+15:28:49 : [Zero] - Zero criou o item Amuleto_de_Prata [552] [0 0 0 0 0 0]
+15:28:52 : [Zero] - Moveu item Amuleto_de_Prata [552] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 9
+15:28:54 : [Zero] - Comando "/gm +item 553"
+15:28:54 : [Zero] - [Mensagem do servidor]> Criou o item Amuleto_de_Prata
+15:28:54 : [Zero] - Zero criou o item Amuleto_de_Prata [553] [0 0 0 0 0 0]
+15:28:56 : [Zero] - Moveu item Amuleto_de_Prata [553] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 9
+15:28:58 : [Zero] - Comando "/gm +item 554"
+15:28:58 : [Zero] - [Mensagem do servidor]> Criou o item Amuleto_de_Prata
+15:28:58 : [Zero] - Zero criou o item Amuleto_de_Prata [554] [0 0 0 0 0 0]
+15:29:04 : [Zero] - Item Amuleto_de_Prata deletado [554] [0 0 0 0 0 0]. Slot 18
+15:29:07 : [Zero] - Comando "/gm +item 554"
+15:29:07 : [Zero] - [Mensagem do servidor]> Criou o item Amuleto_de_Prata
+15:29:07 : [Zero] - Zero criou o item Amuleto_de_Prata [554] [0 0 0 0 0 0]
+15:29:19 : [Zero] - Comando "/gm +item 559"
+15:29:19 : [Zero] - [Mensagem do servidor]> Criou o item Amuleto_Místico
+15:29:19 : [Zero] - Zero criou o item Amuleto_Místico [559] [0 0 0 0 0 0]
+15:32:58 : [Zero] - [Mensagem do servidor]> Compra concluída!
+15:33:00 : [Zero] - Item Mapa_Vale_Escondido(24h) [3909] [0 0 0 0 0 0] utilizado em 2100x 2100y
+15:38:45 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1997380165
+Level atual: 220
+Experiência atual: 107352234
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:36:30 horas
+Posição atual: 2100x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura(N)[1116] [43 0 0 0 0 0]
+[03] - Calça(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas(N)[1140] [43 0 0 0 0 0]
+[05] - Botas(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[14] - Thoroughbred[3987] [96 19 2 21 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Safira[697] [0 0 0 0 0 0]
+[01] - Safira[697] [0 0 0 0 0 0]
+[02] - Safira[697] [0 0 0 0 0 0]
+[03] - Safira[697] [0 0 0 0 0 0]
+[04] - Safira[697] [0 0 0 0 0 0]
+[05] - Safira[697] [0 0 0 0 0 0]
+[06] - Safira[697] [0 0 0 0 0 0]
+[07] - Safira[697] [0 0 0 0 0 0]
+[08] - Safira[697] [0 0 0 0 0 0]
+[09] - Safira[697] [0 0 0 0 0 0]
+[10] - Safira[697] [0 0 0 0 0 0]
+[11] - Safira[697] [0 0 0 0 0 0]
+[12] - Safira[697] [0 0 0 0 0 0]
+[13] - Safira[697] [0 0 0 0 0 0]
+[14] - Safira[697] [0 0 0 0 0 0]
+[15] - Safira[697] [0 0 0 0 0 0]
+[16] - Safira[697] [0 0 0 0 0 0]
+[17] - Amuleto_de_Prata[552] [0 0 0 0 0 0]
+[18] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[19] - Amuleto_Místico[559] [0 0 0 0 0 0]
+[20] - Amuleto_de_Prata[551] [0 0 0 0 0 0]
+[21] - Mapa_Vale_Escondido(24h)[3909] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [81 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:40:53 : [Zero] - Comando "/gm +move 2369 2105"
+15:40:53 : [Zero] - Teleportado para a posição 2368 2104
+15:42:25 : [Zero] - Comando "/gm +move 2132 2034"
+15:42:25 : [Zero] - Teleportado para a posição 2132 2034
+15:43:00 : [Zero] - Comando "/gm +move 2087 2001"
+15:43:00 : [Zero] - Teleportado para a posição 2086 2000
+15:43:29 : [Zero] - Comando "/gm +move 2080 1945"
+15:43:29 : [Zero] - Teleportado para a posição 2079 1944
+15:44:20 : [Zero] - Comando "/gm +move 2602 2079"
+15:44:20 : [Zero] - Teleportado para a posição 2602 2078
+15:44:43 : [Zero] - Comando "/gm +move 2204 2106"
+15:44:43 : [Zero] - Teleportado para a posição 2203 2105
+15:45:05 : [Zero] - Comando "/gm +move 2278 2119"
+15:45:05 : [Zero] - Teleportado para a posição 2277 2118
+15:45:34 : [Zero] - Comando "/gm +move 2625 1984"
+15:45:34 : [Zero] - Teleportado para a posição 2625 1984
+15:45:47 : [Zero] - Comando "/gm +move 2220 1714"
+15:45:47 : [Zero] - Teleportado para a posição 2220 1714
+15:45:54 : [Zero] - Pontos CP subiu em 3. CP novo: 84
+15:45:54 : [Zero] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:45:54 : [Zero] - Level UP para level 221. Ev: 0/0 - 2207x 1714y
+15:45:55 : [Zero] - Matou o mob Hier-Carbunkle. GenerID: 1464
+15:48:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+15:48:29 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+15:48:31 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+15:48:31 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+15:48:31 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:48:32 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:48:35 : Solicitou ir ao mundo...
+15:48:35 : Recebido pedido para entrar no jogo
+15:48:35 : Recebido informação do personagem completa.
+15:48:35 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1997380165
+Level atual: 221
+Experiência atual: 107352306
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2087x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura(N)[1116] [43 0 0 0 0 0]
+[03] - Calça(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas(N)[1140] [43 0 0 0 0 0]
+[05] - Botas(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[14] - Thoroughbred[3987] [96 19 2 21 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Safira[697] [0 0 0 0 0 0]
+[01] - Safira[697] [0 0 0 0 0 0]
+[02] - Safira[697] [0 0 0 0 0 0]
+[03] - Safira[697] [0 0 0 0 0 0]
+[04] - Safira[697] [0 0 0 0 0 0]
+[05] - Safira[697] [0 0 0 0 0 0]
+[06] - Safira[697] [0 0 0 0 0 0]
+[07] - Safira[697] [0 0 0 0 0 0]
+[08] - Safira[697] [0 0 0 0 0 0]
+[09] - Safira[697] [0 0 0 0 0 0]
+[10] - Safira[697] [0 0 0 0 0 0]
+[11] - Safira[697] [0 0 0 0 0 0]
+[12] - Safira[697] [0 0 0 0 0 0]
+[13] - Safira[697] [0 0 0 0 0 0]
+[14] - Safira[697] [0 0 0 0 0 0]
+[15] - Safira[697] [0 0 0 0 0 0]
+[16] - Safira[697] [0 0 0 0 0 0]
+[17] - Amuleto_de_Prata[552] [0 0 0 0 0 0]
+[18] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[19] - Amuleto_Místico[559] [0 0 0 0 0 0]
+[20] - Amuleto_de_Prata[551] [0 0 0 0 0 0]
+[21] - Mapa_Vale_Escondido(24h)[3909] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [84 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:48:35 : [Zero] - Personagem Zero enviado ao mundo 2087x 2095y - Canal 2 - Cash da conta: 19719. PowerLevel: 157
+15:48:35 : [Zero] - Gold atual: 1997380165. Classe: 0 Evolução: 0. Experiência: 107352306. Nível: 221. Info: 0. GuildID: 0. CP: 9. Pontos de Contribuição: 0. Limite: 0
+15:48:35 : [Zero] - Logou no personagem Zero com frango ativo. Tempo: 1534
+15:48:35 : [Zero] - Logou no personagem Zero com baú de experiência ativo. Tempo: 635
+15:48:35 : [Zero] - Enviado informações do personagem
+15:48:36 : [Zero] - Comando "/day "
+15:48:36 : [Zero] - [Mensagem do servidor]> !#11 2
+15:48:48 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:49:06 : [Zero] - Comando "/gm +set level 1"
+15:49:10 : [Zero] - Clicado no NPC [Helper]. Face 230. Race: 2. GenerateId: 3421. Posição do usuário: 2127x 2037y. Posição do NPC: 2132x 2034y
+15:49:21 : [Zero] - Matou o mob Gremlin Artif. GenerID: 4449
+15:49:21 : [Zero] - Pontos CP subiu em 3. CP novo: 87
+15:49:21 : [Zero] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:49:21 : [Zero] - Level UP para level 2. Ev: 0/0 - 2079x 2025y
+15:49:21 : [Zero] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2079x 2025y - Gremlin Artif (1/1)
+15:49:22 : [Zero] - Clicado no NPC [Treinador1]. Face 60. Race: 2. GenerateId: 4408. Posição do usuário: 2079x 2018y. Posição do NPC: 2080x 2018y
+15:49:22 : [Zero] - [Mensagem do servidor]> Recebeu Poção de Cura como recompensa.
+15:49:29 : [Zero] - Clicado no NPC [Helper ]. Face 230. Race: 2. GenerateId: 3422. Posição do usuário: 2083x 2000y. Posição do NPC: 2087x 2001y
+15:49:44 : [Zero] - Matou o mob Krill Gigante. GenerID: 4476
+15:49:44 : [Zero] - Pontos CP subiu em 3. CP novo: 90
+15:49:44 : [Zero] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:49:44 : [Zero] - Level UP para level 3. Ev: 0/0 - 2146x 1994y
+15:49:44 : [Zero] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2146x 1994y - Krill Gigante (1/1)
+15:49:44 : [Zero] - Pontos CP subiu em 3. CP novo: 93
+15:49:44 : [Zero] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:49:44 : [Zero] - Level UP para level 4. Ev: 0/0 - 2146x 1994y
+15:49:48 : [Zero] - Clicado no NPC [Treinador2]. Face 60. Race: 2. GenerateId: 4409. Posição do usuário: 2142x 1989y. Posição do NPC: 2141x 1989y
+15:49:48 : [Zero] - [Mensagem do servidor]> Como recompensa foi atribuída uma opção adicional em sua arma.
+15:50:05 : [Zero] - Matou o mob Orc Sniper. GenerID: 4494
+15:50:05 : [Zero] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+15:50:05 : [Zero] - Pontos CP subiu em 3. CP novo: 96
+15:50:05 : [Zero] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:50:05 : [Zero] - Level UP para level 5. Ev: 0/0 - 2075x 1975y
+15:50:05 : [Zero] - Dropado item Chave_da_Ultima_Porta [453] [0 0 0 0 0 0] em 2075x 1975y - Orc Sniper (1/1)
+15:50:06 : [Zero] - Clicado no NPC [Treinador3]. Face 60. Race: 2. GenerateId: 4410. Posição do usuário: 2080x 1968y. Posição do NPC: 2078x 1966y
+15:50:06 : [Zero] - [Mensagem do servidor]> Como recompensa a sua arma e armadura foram refinadas.
+15:50:11 : [Zero] - Clicado no NPC [Helper  ]. Face 230. Race: 2. GenerateId: 3423. Posição do usuário: 2083x 1955y. Posição do NPC: 2080x 1947y
+15:50:22 : [Zero] - Matou o mob Orc Guerreiro  . GenerID: 4514
+15:50:22 : [Zero] - Pontos CP subiu em 3. CP novo: 99
+15:50:22 : [Zero] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:50:22 : [Zero] - Level UP para level 6. Ev: 0/0 - 2133x 1946y
+15:50:22 : [Zero] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2133x 1946y - Orc Guerreiro   (1/1)
+15:50:22 : [Zero] - Pontos CP subiu em 3. CP novo: 102
+15:50:22 : [Zero] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:50:22 : [Zero] - Level UP para level 7. Ev: 0/0 - 2133x 1946y
+15:51:44 : [Zero] - Comando "/gm +reloadnpc"
+15:52:37 : [Zero] - [Mensagem do servidor]> RELOADNPC
+15:52:50 : [Zero] - Comando "/gm +create Chefe_de_Treino"
+15:52:51 : [Zero] - Clicado no NPC [Chefe de Treino]. Face 60. Race: 2. GenerateId: -1. Posição do usuário: 2138x 1950y. Posição do NPC: 2139x 1952y
+15:52:51 : [Zero] - [Mensagem do servidor]> Recebeu a recompensa da Quest.
+15:52:51 : [Zero] - Teleportado para a posição 2100 2100
+15:52:58 : [Zero] - [Mensagem do servidor]> Ativação concluída
+15:52:58 : [Zero] - Aplicado tempo no item Lobo_Polar [3980] [96 24 1 21 0 0] - 24
+15:53:08 : [Zero] - Moveu item Thoroughbred [3987] [96 19 2 21 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 22
+15:53:23 : [Zero] - Personagem deu personagem
+15:53:25 : Solicitou ir ao mundo...
+15:53:25 : Recebido pedido para entrar no jogo
+15:53:25 : Recebido informação do personagem completa.
+15:53:25 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1997380165
+Level atual: 7
+Experiência atual: 9264
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:03:58 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura(N)[1116] [43 8 0 0 0 0]
+[03] - Calça(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas(N)[1140] [43 8 0 0 0 0]
+[05] - Botas(N)[1152] [43 8 0 0 0 0]
+[06] - Adaga[861] [43 8 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Safira[697] [0 0 0 0 0 0]
+[01] - Safira[697] [0 0 0 0 0 0]
+[02] - Safira[697] [0 0 0 0 0 0]
+[03] - Safira[697] [0 0 0 0 0 0]
+[04] - Safira[697] [0 0 0 0 0 0]
+[05] - Safira[697] [0 0 0 0 0 0]
+[06] - Safira[697] [0 0 0 0 0 0]
+[07] - Safira[697] [0 0 0 0 0 0]
+[08] - Safira[697] [0 0 0 0 0 0]
+[09] - Safira[697] [0 0 0 0 0 0]
+[10] - Safira[697] [0 0 0 0 0 0]
+[11] - Safira[697] [0 0 0 0 0 0]
+[12] - Safira[697] [0 0 0 0 0 0]
+[13] - Safira[697] [0 0 0 0 0 0]
+[14] - Safira[697] [0 0 0 0 0 0]
+[15] - Safira[697] [0 0 0 0 0 0]
+[16] - Safira[697] [0 0 0 0 0 0]
+[17] - Amuleto_de_Prata[552] [0 0 0 0 0 0]
+[18] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[19] - Amuleto_Místico[559] [0 0 0 0 0 0]
+[20] - Amuleto_de_Prata[551] [0 0 0 0 0 0]
+[21] - Mapa_Vale_Escondido(24h)[3909] [0 0 0 0 0 0]
+[22] - Thoroughbred[3987] [96 19 2 21 0 0]
+[23] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[24] - Aranha[2360] [88 27 1 20 0 0]
+[25] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[26] - Lobo_Polar[3980] [96 24 1 21 0 0]
+[27] - Âmago_de_Aranha[2390] [61 40 0 0 0 0]
+[63] - Marca_do_Assassino[547] [102 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:53:25 : [Zero] - Personagem Zero enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 19719. PowerLevel: 24
+15:53:25 : [Zero] - Gold atual: 1997380165. Classe: 0 Evolução: 0. Experiência: 9264. Nível: 7. Info: 0. GuildID: 0. CP: 27. Pontos de Contribuição: 0. Limite: 0
+15:53:25 : [Zero] - Logou no personagem Zero com frango ativo. Tempo: 1505
+15:53:25 : [Zero] - Logou no personagem Zero com baú de experiência ativo. Tempo: 606
+15:53:25 : [Zero] - Enviado informações do personagem
+15:53:26 : [Zero] - Comando "/day "
+15:53:26 : [Zero] - [Mensagem do servidor]> !#11 2
+15:53:36 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:53:36 : [Zero] - Moveu item Aranha [2360] [88 27 1 20 0 0] do tipo INVENTÁRIO do slot 24 para tipo EQUIPAMENTO slot 14
+15:54:57 : [Zero] - Comando "/gm +reloadall"
+15:54:57 : [Zero] - [Mensagem do servidor]> RELOADALL
+15:55:17 : [Zero] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:55:17 : [Zero] - 1 Personagem foi desconectado. Permaneceu 00:05:49 minutos online
+16:00:18 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+16:00:18 : [Mensagem do servidor]> Senha incorreta.
+16:00:18 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+16:00:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+16:00:23 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+16:00:23 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+16:00:27 : Solicitou ir ao mundo...
+16:00:27 : Recebido pedido para entrar no jogo
+16:00:27 : Recebido informação do personagem completa.
+16:00:27 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1997380165
+Level atual: 7
+Experiência atual: 9264
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura(N)[1116] [43 8 0 0 0 0]
+[03] - Calça(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas(N)[1140] [43 8 0 0 0 0]
+[05] - Botas(N)[1152] [43 8 0 0 0 0]
+[06] - Adaga[861] [43 8 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[14] - Aranha[2360] [88 27 1 20 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Safira[697] [0 0 0 0 0 0]
+[01] - Safira[697] [0 0 0 0 0 0]
+[02] - Safira[697] [0 0 0 0 0 0]
+[03] - Safira[697] [0 0 0 0 0 0]
+[04] - Safira[697] [0 0 0 0 0 0]
+[05] - Safira[697] [0 0 0 0 0 0]
+[06] - Safira[697] [0 0 0 0 0 0]
+[07] - Safira[697] [0 0 0 0 0 0]
+[08] - Safira[697] [0 0 0 0 0 0]
+[09] - Safira[697] [0 0 0 0 0 0]
+[10] - Safira[697] [0 0 0 0 0 0]
+[11] - Safira[697] [0 0 0 0 0 0]
+[12] - Safira[697] [0 0 0 0 0 0]
+[13] - Safira[697] [0 0 0 0 0 0]
+[14] - Safira[697] [0 0 0 0 0 0]
+[15] - Safira[697] [0 0 0 0 0 0]
+[16] - Safira[697] [0 0 0 0 0 0]
+[17] - Amuleto_de_Prata[552] [0 0 0 0 0 0]
+[18] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[19] - Amuleto_Místico[559] [0 0 0 0 0 0]
+[20] - Amuleto_de_Prata[551] [0 0 0 0 0 0]
+[21] - Mapa_Vale_Escondido(24h)[3909] [0 0 0 0 0 0]
+[22] - Thoroughbred[3987] [96 19 2 21 0 0]
+[23] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[25] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[26] - Lobo_Polar[3980] [96 24 1 21 0 0]
+[27] - Âmago_de_Aranha[2390] [61 40 0 0 0 0]
+[63] - Marca_do_Assassino[547] [102 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:00:27 : [Zero] - Personagem Zero enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 19719. PowerLevel: 25
+16:00:27 : [Zero] - Gold atual: 1997380165. Classe: 0 Evolução: 0. Experiência: 9264. Nível: 7. Info: 0. GuildID: 0. CP: 27. Pontos de Contribuição: 0. Limite: 0
+16:00:27 : [Zero] - Logou no personagem Zero com frango ativo. Tempo: 1491
+16:00:27 : [Zero] - Logou no personagem Zero com baú de experiência ativo. Tempo: 592
+16:00:27 : [Zero] - Enviado informações do personagem
+16:00:28 : [Zero] - Comando "/day "
+16:00:28 : [Zero] - [Mensagem do servidor]> !#11 2
+16:00:36 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:06:08 : [Zero] - Clicado no NPC [Helper]. Face 230. Race: 2. GenerateId: 3421. Posição do usuário: 2127x 2035y. Posição do NPC: 2132x 2034y
+16:08:43 : [Zero] - Matou o mob Aguia. GenerID: 4436
+16:08:43 : [Zero] - Pontos CP subiu em 3. CP novo: 105
+16:08:43 : [Zero] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:08:43 : [Zero] - Level UP para level 8. Ev: 0/0 - 2116x 2022y
+16:08:43 : [Zero] - Pontos CP subiu em 3. CP novo: 108
+16:08:43 : [Zero] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:08:43 : [Zero] - Level UP para level 9. Ev: 0/0 - 2116x 2022y
+16:09:49 : [Zero] - Comando "/srv 1"
+16:09:49 : [Zero] - Solicitou trocar para o servidor 1
+16:09:49 : [Zero] - 1 Personagem foi desconectado. Permaneceu 00:09:19 minutos online
+16:09:50 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+16:09:50 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+16:09:50 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+16:09:50 : Recebido informação do personagem completa.
+16:09:50 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1997380165
+Level atual: 9
+Experiência atual: 9694
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:00 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura(N)[1116] [43 8 0 0 0 0]
+[03] - Calça(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas(N)[1140] [43 8 0 0 0 0]
+[05] - Botas(N)[1152] [43 8 0 0 0 0]
+[06] - Adaga[861] [43 8 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[14] - Aranha[2360] [88 27 1 20 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Safira[697] [0 0 0 0 0 0]
+[01] - Safira[697] [0 0 0 0 0 0]
+[02] - Safira[697] [0 0 0 0 0 0]
+[03] - Safira[697] [0 0 0 0 0 0]
+[04] - Safira[697] [0 0 0 0 0 0]
+[05] - Safira[697] [0 0 0 0 0 0]
+[06] - Safira[697] [0 0 0 0 0 0]
+[07] - Safira[697] [0 0 0 0 0 0]
+[08] - Safira[697] [0 0 0 0 0 0]
+[09] - Safira[697] [0 0 0 0 0 0]
+[10] - Safira[697] [0 0 0 0 0 0]
+[11] - Safira[697] [0 0 0 0 0 0]
+[12] - Safira[697] [0 0 0 0 0 0]
+[13] - Safira[697] [0 0 0 0 0 0]
+[14] - Safira[697] [0 0 0 0 0 0]
+[15] - Safira[697] [0 0 0 0 0 0]
+[16] - Safira[697] [0 0 0 0 0 0]
+[17] - Amuleto_de_Prata[552] [0 0 0 0 0 0]
+[18] - Amuleto_de_Prata[554] [0 0 0 0 0 0]
+[19] - Amuleto_Místico[559] [0 0 0 0 0 0]
+[20] - Amuleto_de_Prata[551] [0 0 0 0 0 0]
+[21] - Mapa_Vale_Escondido(24h)[3909] [0 0 0 0 0 0]
+[22] - Thoroughbred[3987] [96 19 2 21 0 0]
+[23] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[25] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[26] - Lobo_Polar[3980] [96 24 1 21 0 0]
+[27] - Âmago_de_Aranha[2390] [61 40 0 0 0 0]
+[63] - Marca_do_Assassino[547] [108 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:09:50 : [Zero] - Personagem Zero enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 19719. PowerLevel: 7
+16:09:50 : [Zero] - Gold atual: 1997380165. Classe: 0 Evolução: 0. Experiência: 9694. Nível: 9. Info: 0. GuildID: 0. CP: 33. Pontos de Contribuição: 0. Limite: 0
+16:09:50 : [Zero] - Logou no personagem Zero com frango ativo. Tempo: 1421
+16:09:50 : [Zero] - Logou no personagem Zero com baú de experiência ativo. Tempo: 522
+16:09:51 : [Zero] - Comando "/day "
+16:09:51 : [Zero] - [Mensagem do servidor]> !#11 2
+16:09:56 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:11:37 : [Zero] - Clicado no NPC [Helper]. Face 230. Race: 2. GenerateId: 3421. Posição do usuário: 2119x 2040y. Posição do NPC: 2132x 2034y
+16:11:46 : [Zero] - Clicado no NPC [Treinador1]. Face 60. Race: 2. GenerateId: 4408. Posição do usuário: 2088x 2027y. Posição do NPC: 2079x 2017y
+16:11:49 : [Zero] - [Mensagem do servidor]> Você não possui a chave.
+16:14:00 : [Zero] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+16:14:36 : [Zero] - Comando "/gm +server 0"
+16:14:36 : [Zero] - [Mensagem do servidor]> Servidor foi aberto
+16:15:36 : [Zero] - Comando "/gm +armia"
+16:15:36 : [Zero] - Teleportado para a posição 2100 2100
+16:15:56 : [Zero] - [Mensagem do servidor]> Você não possui pontos de skill suficiente.
+16:22:33 : [Zero] - Clicado no NPC [Mestre Grifo]. Face 21. Race: 2. GenerateId: 3418. Posição do usuário: 2114x 2081y. Posição do NPC: 2115x 2080y
+16:23:03 : [Zero] - Clicado no NPC [Mestre de Hab]. Face 18. Race: 3. GenerateId: 3259. Posição do usuário: 2147x 2072y. Posição do NPC: 2148x 2068y
+16:23:09 : [Zero] - Item Âmago_de_Aranha deletado [2390] [61 40 0 0 0 0]. Slot 27
+16:23:10 : [Zero] - Item Lobo_Polar deletado [3980] [96 24 1 21 0 0]. Slot 26
+16:23:11 : [Zero] - Item Kit_de_Cura_(20_M.) deletado [682] [61 20 0 0 0 0]. Slot 23
+16:23:12 : [Zero] - Item Amuleto_Místico deletado [559] [0 0 0 0 0 0]. Slot 19
+16:23:12 : [Zero] - Item Thoroughbred deletado [3987] [96 19 2 21 0 0]. Slot 22
+16:23:13 : [Zero] - Item Mapa_Vale_Escondido(24h) deletado [3909] [0 0 0 0 0 0]. Slot 21
+16:23:14 : [Zero] - Item Ração_de_Aranha deletado [2420] [61 120 0 0 0 0]. Slot 25
+16:23:15 : [Zero] - Item Amuleto_de_Prata deletado [551] [0 0 0 0 0 0]. Slot 20
+16:23:16 : [Zero] - Item Amuleto_de_Prata deletado [554] [0 0 0 0 0 0]. Slot 18
+16:23:17 : [Zero] - Item Amuleto_de_Prata deletado [552] [0 0 0 0 0 0]. Slot 17
+16:23:24 : [Zero] - Comando "/gm +item 697"
+16:23:24 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+16:23:24 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+16:23:25 : [Zero] - Comando "/gm +item 697"
+16:23:25 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+16:23:25 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+16:23:26 : [Zero] - Comando "/gm +item 697"
+16:23:26 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+16:23:26 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+16:23:28 : [Zero] - Comando "/gm +item 697"
+16:23:28 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+16:23:28 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+16:23:29 : [Zero] - Comando "/gm +item 697"
+16:23:29 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+16:23:29 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+16:23:31 : [Zero] - Comando "/gm +item 697"
+16:23:31 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+16:23:31 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+16:23:32 : [Zero] - Comando "/gm +item 697"
+16:23:32 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+16:23:32 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+16:23:33 : [Zero] - Comando "/gm +item 697"
+16:23:33 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+16:23:33 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+16:23:34 : [Zero] - Comando "/gm +item 697"
+16:23:34 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+16:23:34 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+16:23:35 : [Zero] - Comando "/gm +item 697"
+16:23:35 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+16:23:35 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+16:23:36 : [Zero] - Comando "/gm +item 697"
+16:23:36 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+16:23:36 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+16:23:38 : [Zero] - Comando "/gm +item 697"
+16:23:38 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+16:23:38 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+16:23:40 : [Zero] - Comando "/gm +item 697"
+16:23:40 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+16:23:40 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+16:23:49 : [Zero] - Comando "/gm +set level 350"
+16:23:58 : [Zero] - Clicado no NPC [Mestre de Hab]. Face 18. Race: 3. GenerateId: 3259. Posição do usuário: 2147x 2072y. Posição do NPC: 2148x 2068y
+16:24:49 : [Zero] - Item Safira deletado [697] [0 0 0 0 0 0]. Slot 28
+16:24:53 : [Zero] - Comando "/gm +item 3336"
+16:24:53 : [Zero] - [Mensagem do servidor]> Criou o item Retorno_da_Habilidade
+16:24:53 : [Zero] - Zero criou o item Retorno_da_Habilidade [3336] [0 0 0 0 0 0]
+16:24:56 : [Zero] - Clicado no NPC [Mestre de Hab]. Face 18. Race: 3. GenerateId: 3259. Posição do usuário: 2147x 2072y. Posição do NPC: 2148x 2068y
+16:25:03 : [Zero] - Moveu item Retorno_da_Habilidade [3336] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 28 para tipo INVENTÁRIO slot 0
+16:25:04 : [Zero] - Clicado no NPC [Mestre de Hab]. Face 18. Race: 3. GenerateId: 3259. Posição do usuário: 2147x 2072y. Posição do NPC: 2148x 2068y
+16:28:36 : [Zero] - Comando "/gm +not estou sim"
+16:28:36 : [Zero] - [Mensagem do servidor]: estou sim
+16:28:52 : [Zero] - Teleportado para a posição 960 1761
+16:28:55 : [Zero] - Teleportado para a posição 1701 1725
+16:29:26 : [Zero] - Clicado no NPC [Black Oracle]. Face 18. Race: 3. GenerateId: 2950. Posição do usuário: 1708x 1607y. Posição do NPC: 1715x 1604y
+16:29:26 : [Zero] - [Mensagem do servidor]> Você precisa da medalha de guilda.
+16:29:36 : [Zero] - Comando "/gm +set level 220"
+16:29:47 : [Zero] - Clicado no NPC [Guarda Real ]. Face 305. Race: 3. GenerateId: 3799. Posição do usuário: 1747x 1586y. Posição do NPC: 1750x 1586y
+16:29:47 : [Zero] - Teleportado para a posição 1727 1727
+16:29:48 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 23999
+16:29:48 : [Zero] - Pontos CP subiu em 3. CP novo: 111
+16:29:48 : [Zero] - [Mensagem do servidor]> + + + LEVEL UP + + +
+16:29:48 : [Zero] - Level UP para level 221. Ev: 0/0 - 1725x 1729y
+16:29:50 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 22998
+16:29:51 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 21997
+16:29:53 : [Zero] - Enviado para a cidade através do ClearArea. Posição: 1725x 1729y - Quest Quest da Capa
+16:29:53 : [Zero] - DoRecall - Enviado para cidade: 2092x 2101y
+16:29:53 : [Zero] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 373. Distância 2: 369. Range: 1.
+16:30:30 : [Zero] - Teleportado para a posição 960 1761
+16:30:32 : [Zero] - Teleportado para a posição 2117 2102
+16:30:34 : [Zero] - Teleportado para a posição 960 1761
+16:30:36 : [Zero] - Teleportado para a posição 1701 1725
+16:31:10 : [Zero] - Comando "/time "
+16:31:10 : [Zero] - [Mensagem do servidor]> [Zero] - 16:31:10 21-01-2021 1722x 1573y - Canal 1
+16:31:15 : [Zero] - Clicado no NPC [Guarda Real ]. Face 305. Race: 3. GenerateId: 3799. Posição do usuário: 1740x 1586y. Posição do NPC: 1750x 1586y
+16:31:15 : [Zero] - Teleportado para a posição 1727 1727
+16:31:16 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 20996
+16:31:17 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 19995
+16:31:18 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1002. HP Atual: 18993
+16:31:19 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 17992
+16:31:21 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 16991
+16:31:22 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 15990
+16:31:23 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1002. HP Atual: 14988
+16:31:24 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 13987
+16:31:25 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 12986
+16:31:26 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 11985
+16:31:27 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1002. HP Atual: 10983
+16:31:28 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 9982
+16:31:29 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 8981
+16:31:30 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 7980
+16:31:31 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1002. HP Atual: 6978
+16:31:32 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 5977
+16:31:33 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 4976
+16:31:34 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 3975
+16:31:35 : [Zero] - Comando "/gm +set str 10000"
+16:31:35 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1002. HP Atual: 2973
+16:31:36 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 1972
+16:31:37 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 971
+16:31:38 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 0
+16:31:38 : [Zero] - Matou o mob DeathKnightKing. GenerID: 3791
+16:31:43 : [Zero] - Comando "/gm +set str 1000"
+16:31:45 : [Zero] - Removido o Hp do mob DeathKnight . HP removido: 1002. HP Atual: 7798
+16:31:46 : [Zero] - Removido o Hp do mob DeathKnight . HP removido: 1001. HP Atual: 6797
+16:31:47 : [Zero] - Removido o Hp do mob DeathKnight . HP removido: 1001. HP Atual: 5796
+16:31:48 : [Zero] - Removido o Hp do mob DeathKnight . HP removido: 1001. HP Atual: 4795
+16:31:49 : [Zero] - Removido o Hp do mob DeathKnight . HP removido: 1002. HP Atual: 3793
+16:31:50 : [Zero] - Removido o Hp do mob DeathKnight . HP removido: 1001. HP Atual: 2792
+16:31:51 : [Zero] - Comando "/gm +set str 0"
+16:31:51 : [Zero] - Removido o Hp do mob DeathKnight . HP removido: 1001. HP Atual: 1791
+16:31:52 : [Zero] - Removido o Hp do mob DeathKnight . HP removido: 1001. HP Atual: 790
+16:31:53 : [Zero] - Removido o Hp do mob DeathKnight . HP removido: 1002. HP Atual: 0
+16:31:53 : [Zero] - Matou o mob DeathKnight . GenerID: 3790
+16:31:53 : [Zero] - Não dropou o item Emblema_do_Reino por falta de espaço [4081] [0 0 0 0 0 0] em 1727x 1729y - DeathKnight  (1/100)
+16:31:53 : [Zero] - [Mensagem do servidor]> Seu inventário está cheio
+16:31:56 : [Zero] - Comando "/gm +set str 300"
+16:31:57 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 23999
+16:31:58 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 22998
+16:31:59 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 21997
+16:32:00 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1002. HP Atual: 20995
+16:32:01 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 19994
+16:32:02 : [Zero] - Item Safira deletado [697] [0 0 0 0 0 0]. Slot 29
+16:32:02 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 18993
+16:32:03 : [Zero] - Item Safira deletado [697] [0 0 0 0 0 0]. Slot 28
+16:32:03 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 17992
+16:32:04 : [Zero] - Item Safira deletado [697] [0 0 0 0 0 0]. Slot 27
+16:32:04 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1002. HP Atual: 16990
+16:32:05 : [Zero] - Item Safira deletado [697] [0 0 0 0 0 0]. Slot 26
+16:32:05 : [Zero] - Item Safira deletado [697] [0 0 0 0 0 0]. Slot 25
+16:32:06 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 15989
+16:32:08 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 14988
+16:32:09 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1002. HP Atual: 13986
+16:32:10 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 12985
+16:32:11 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 11984
+16:32:12 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 10983
+16:32:13 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1002. HP Atual: 9981
+16:32:14 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1002. HP Atual: 8979
+16:32:15 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 7978
+16:32:16 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 6977
+16:32:17 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1002. HP Atual: 5975
+16:32:18 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1002. HP Atual: 4973
+16:32:19 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 3972
+16:32:20 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 2971
+16:32:21 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1002. HP Atual: 1969
+16:32:22 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1002. HP Atual: 967
+16:32:23 : [Zero] - Removido o Hp do mob DeathKnightKing. HP removido: 1001. HP Atual: 0
+16:32:23 : [Zero] - Matou o mob DeathKnightKing. GenerID: 3791
+16:32:23 : [Zero] - Dropado item Emblema_do_Reino [4081] [0 0 0 0 0 0] em 1726x 1732y - DeathKnightKing (1/225)
+16:39:51 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1995375365
+Level atual: 221
+Experiência atual: 107364534
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:38 horas
+Posição atual: 1724x 1726y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura(N)[1116] [43 8 0 0 0 0]
+[03] - Calça(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas(N)[1140] [43 8 0 0 0 0]
+[05] - Botas(N)[1152] [43 8 0 0 0 0]
+[06] - Adaga[861] [43 8 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[14] - Aranha[2360] [59 7 1 20 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Retorno_da_Habilidade[3336] [0 0 0 0 0 0]
+[01] - Safira[697] [0 0 0 0 0 0]
+[02] - Safira[697] [0 0 0 0 0 0]
+[03] - Safira[697] [0 0 0 0 0 0]
+[04] - Safira[697] [0 0 0 0 0 0]
+[05] - Safira[697] [0 0 0 0 0 0]
+[06] - Safira[697] [0 0 0 0 0 0]
+[07] - Safira[697] [0 0 0 0 0 0]
+[08] - Safira[697] [0 0 0 0 0 0]
+[09] - Safira[697] [0 0 0 0 0 0]
+[10] - Safira[697] [0 0 0 0 0 0]
+[11] - Safira[697] [0 0 0 0 0 0]
+[12] - Safira[697] [0 0 0 0 0 0]
+[13] - Safira[697] [0 0 0 0 0 0]
+[14] - Safira[697] [0 0 0 0 0 0]
+[15] - Safira[697] [0 0 0 0 0 0]
+[16] - Safira[697] [0 0 0 0 0 0]
+[17] - Safira[697] [0 0 0 0 0 0]
+[18] - Safira[697] [0 0 0 0 0 0]
+[19] - Safira[697] [0 0 0 0 0 0]
+[20] - Safira[697] [0 0 0 0 0 0]
+[21] - Safira[697] [0 0 0 0 0 0]
+[22] - Safira[697] [0 0 0 0 0 0]
+[23] - Safira[697] [0 0 0 0 0 0]
+[24] - Safira[697] [0 0 0 0 0 0]
+[25] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [111 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:40:01 : [Zero] - Enviado para a cidade através do ClearArea. Posição: 1724x 1726y - Quest Quest da Capa
+16:40:01 : [Zero] - DoRecall - Enviado para cidade: 2090x 2097y
+17:01:57 : [Zero] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:01:57 : [Zero] - 1 Personagem foi desconectado. Permaneceu 00:51:26 minutos online
+17:14:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+17:14:03 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+17:14:03 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:14:08 : Solicitou ir ao mundo...
+17:14:08 : Recebido pedido para entrar no jogo
+17:14:08 : Recebido informação do personagem completa.
+17:14:08 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1995375365
+Level atual: 221
+Experiência atual: 107364534
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2088x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura(N)[1116] [43 8 0 0 0 0]
+[03] - Calça(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas(N)[1140] [43 8 0 0 0 0]
+[05] - Botas(N)[1152] [43 8 0 0 0 0]
+[06] - Adaga[861] [43 8 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[14] - Aranha[2360] [59 7 1 20 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Retorno_da_Habilidade[3336] [0 0 0 0 0 0]
+[01] - Safira[697] [0 0 0 0 0 0]
+[02] - Safira[697] [0 0 0 0 0 0]
+[03] - Safira[697] [0 0 0 0 0 0]
+[04] - Safira[697] [0 0 0 0 0 0]
+[05] - Safira[697] [0 0 0 0 0 0]
+[06] - Safira[697] [0 0 0 0 0 0]
+[07] - Safira[697] [0 0 0 0 0 0]
+[08] - Safira[697] [0 0 0 0 0 0]
+[09] - Safira[697] [0 0 0 0 0 0]
+[10] - Safira[697] [0 0 0 0 0 0]
+[11] - Safira[697] [0 0 0 0 0 0]
+[12] - Safira[697] [0 0 0 0 0 0]
+[13] - Safira[697] [0 0 0 0 0 0]
+[14] - Safira[697] [0 0 0 0 0 0]
+[15] - Safira[697] [0 0 0 0 0 0]
+[16] - Safira[697] [0 0 0 0 0 0]
+[17] - Safira[697] [0 0 0 0 0 0]
+[18] - Safira[697] [0 0 0 0 0 0]
+[19] - Safira[697] [0 0 0 0 0 0]
+[20] - Safira[697] [0 0 0 0 0 0]
+[21] - Safira[697] [0 0 0 0 0 0]
+[22] - Safira[697] [0 0 0 0 0 0]
+[23] - Safira[697] [0 0 0 0 0 0]
+[24] - Safira[697] [0 0 0 0 0 0]
+[25] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [111 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:14:08 : [Zero] - Personagem Zero enviado ao mundo 2088x 2105y - Canal 2 - Cash da conta: 19719. PowerLevel: 168
+17:14:08 : [Zero] - Gold atual: 1995375365. Classe: 0 Evolução: 0. Experiência: 107364534. Nível: 221. Info: 0. GuildID: 0. CP: 36. Pontos de Contribuição: 0. Limite: 0
+17:14:08 : [Zero] - Logou no personagem Zero com frango ativo. Tempo: 1035
+17:14:08 : [Zero] - Logou no personagem Zero com baú de experiência ativo. Tempo: 136
+17:14:08 : [Zero] - Enviado informações do personagem
+17:14:09 : [Zero] - Comando "/day "
+17:14:09 : [Zero] - [Mensagem do servidor]> !#11 2
+17:14:14 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:15:49 : [Zero] - Comando "/gm +item 841"
+17:15:49 : [Zero] - [Mensagem do servidor]> Criou o item Garra
+17:15:49 : [Zero] - Zero criou o item Garra [841] [0 0 0 0 0 0]
+17:15:57 : [Zero] - Personagem deu personagem
+17:15:59 : Solicitou ir ao mundo...
+17:15:59 : Recebido pedido para entrar no jogo
+17:15:59 : Recebido informação do personagem completa.
+17:15:59 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:01:54 horas
+Posição atual: 2095x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[7] [43 0 7 1 1 1]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Armadura[1221] [43 244 0 0 0 0]
+[01] - Armadura[1221] [43 248 0 0 0 0]
+[02] - Armadura[1221] [43 230 0 0 0 0]
+[03] - Armadura[1221] [43 236 0 0 0 0]
+[04] - Armadura[1221] [43 240 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:15:59 : [Zero] - Personagem Zero enviado ao mundo 2095x 2098y - Canal 2 - Cash da conta: 19719. PowerLevel: 241
+17:15:59 : [Zero] - Gold atual: 0. Classe: 1 Evolução: 1. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:15:59 : [Zero] - Enviado informações do personagem
+17:16:00 : [Zero] - Comando "/day "
+17:16:00 : [Zero] - [Mensagem do servidor]> !#11 2
+17:16:04 : [Zero] - Comando "/gm +item 842"
+17:16:04 : [Zero] - [Mensagem do servidor]> Criou o item 
+17:16:04 : [Zero] - Zero criou o item  [842] [0 0 0 0 0 0]
+17:16:07 : [Zero] - Item  deletado [842] [0 0 0 0 0 0]. Slot 5
+17:16:12 : [Zero] - Comando "/gm +item 826"
+17:16:12 : [Zero] - [Mensagem do servidor]> Criou o item Arco
+17:16:12 : [Zero] - Zero criou o item Arco [826] [0 0 0 0 0 0]
+17:16:14 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:20:42 : [Zero] - Comando "/gm +item 2551"
+17:20:42 : [Zero] - [Mensagem do servidor]> Criou o item Skytalos(Anct)
+17:20:42 : [Zero] - Zero criou o item Skytalos(Anct) [2551] [0 0 0 0 0 0]
+17:20:44 : [Zero] - Moveu item Skytalos(Anct) [2551] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 6
+17:20:59 : [Zero] - Comando "/gm +item 2661"
+17:20:59 : [Zero] - [Mensagem do servidor]> Criou o item Longinius(Anct)
+17:20:59 : [Zero] - Zero criou o item Longinius(Anct) [2661] [0 0 0 0 0 0]
+17:21:04 : [Zero] - Comando "/gm +item 2611"
+17:21:04 : [Zero] - [Mensagem do servidor]> Criou o item Khyrius(Anct)
+17:21:04 : [Zero] - Zero criou o item Khyrius(Anct) [2611] [0 0 0 0 0 0]
+17:21:05 : [Zero] - Moveu item Khyrius(Anct) [2611] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 6
+17:22:19 : [Zero] - Comando "/gm +reloadall"
+17:22:19 : [Zero] - [Mensagem do servidor]> RELOADALL
+17:22:20 : [Zero] - Moveu item Arco [826] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 6
+17:22:29 : [Zero] - Comando "/srv 1"
+17:22:29 : [Zero] - Solicitou trocar para o servidor 1
+17:22:29 : [Zero] - 1 Personagem foi desconectado. Permaneceu 00:08:19 minutos online
+17:22:30 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 5
+17:22:30 : Usuário logou no jogo com clientId 5. - Servidor 1. Gold do banco: 0
+17:22:30 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:22:30 : Recebido informação do personagem completa.
+17:22:30 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:00 horas
+Posição atual: 2092x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[7] [43 0 7 1 1 1]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Arco[826] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Armadura[1221] [43 244 0 0 0 0]
+[01] - Armadura[1221] [43 248 0 0 0 0]
+[02] - Armadura[1221] [43 230 0 0 0 0]
+[03] - Armadura[1221] [43 236 0 0 0 0]
+[04] - Armadura[1221] [43 240 0 0 0 0]
+[05] - Khyrius(Anct)[2611] [0 0 0 0 0 0]
+[06] - Longinius(Anct)[2661] [0 0 0 0 0 0]
+[07] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:22:30 : [Zero] - Personagem Zero enviado ao mundo 2092x 2104y - Canal 1 - Cash da conta: 19719. PowerLevel: 541
+17:22:30 : [Zero] - Gold atual: 0. Classe: 1 Evolução: 1. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:22:31 : [Zero] - Comando "/day "
+17:22:31 : [Zero] - [Mensagem do servidor]> !#11 2
+17:22:35 : [Zero] - Comando "/gm +reloadall"
+17:22:35 : [Zero] - [Mensagem do servidor]> RELOADALL
+17:22:46 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:22:57 : [Zero] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:22:57 : [Zero] - 5 Personagem foi desconectado. Permaneceu 00:00:27 minutos online
+17:35:30 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+17:35:30 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+17:35:30 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:35:33 : Solicitou ir ao mundo...
+17:35:33 : Recebido pedido para entrar no jogo
+17:35:33 : Recebido informação do personagem completa.
+17:35:33 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1995375365
+Level atual: 221
+Experiência atual: 107364534
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2098x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura(N)[1116] [43 8 0 0 0 0]
+[03] - Calça(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas(N)[1140] [43 8 0 0 0 0]
+[05] - Botas(N)[1152] [43 8 0 0 0 0]
+[06] - Adaga[861] [43 8 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[14] - Aranha[2360] [59 7 1 20 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Retorno_da_Habilidade[3336] [0 0 0 0 0 0]
+[01] - Safira[697] [0 0 0 0 0 0]
+[02] - Safira[697] [0 0 0 0 0 0]
+[03] - Safira[697] [0 0 0 0 0 0]
+[04] - Safira[697] [0 0 0 0 0 0]
+[05] - Safira[697] [0 0 0 0 0 0]
+[06] - Safira[697] [0 0 0 0 0 0]
+[07] - Safira[697] [0 0 0 0 0 0]
+[08] - Safira[697] [0 0 0 0 0 0]
+[09] - Safira[697] [0 0 0 0 0 0]
+[10] - Safira[697] [0 0 0 0 0 0]
+[11] - Safira[697] [0 0 0 0 0 0]
+[12] - Safira[697] [0 0 0 0 0 0]
+[13] - Safira[697] [0 0 0 0 0 0]
+[14] - Safira[697] [0 0 0 0 0 0]
+[15] - Safira[697] [0 0 0 0 0 0]
+[16] - Safira[697] [0 0 0 0 0 0]
+[17] - Safira[697] [0 0 0 0 0 0]
+[18] - Safira[697] [0 0 0 0 0 0]
+[19] - Safira[697] [0 0 0 0 0 0]
+[20] - Safira[697] [0 0 0 0 0 0]
+[21] - Safira[697] [0 0 0 0 0 0]
+[22] - Safira[697] [0 0 0 0 0 0]
+[23] - Safira[697] [0 0 0 0 0 0]
+[24] - Safira[697] [0 0 0 0 0 0]
+[25] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[26] - Garra[841] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [111 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:35:33 : [Zero] - Personagem Zero enviado ao mundo 2098x 2106y - Canal 2 - Cash da conta: 19719. PowerLevel: 168
+17:35:33 : [Zero] - Gold atual: 1995375365. Classe: 0 Evolução: 0. Experiência: 107364534. Nível: 221. Info: 0. GuildID: 0. CP: 36. Pontos de Contribuição: 0. Limite: 0
+17:35:33 : [Zero] - Logou no personagem Zero com frango ativo. Tempo: 1022
+17:35:33 : [Zero] - Logou no personagem Zero com baú de experiência ativo. Tempo: 123
+17:35:33 : [Zero] - Enviado informações do personagem
+17:35:35 : [Zero] - Comando "/day "
+17:35:35 : [Zero] - [Mensagem do servidor]> !#11 2
+17:35:39 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:36:17 : [Zero] - [Mensagem do servidor]> Você precisa de mais pontos da linhagem.
+17:36:24 : [Zero] - [Mensagem do servidor]> Você precisa de mais pontos da linhagem.
+17:36:27 : [Zero] - Comprou uma skill Giro_da_Fúria. Learn antigo: 4428397500, Learn atual: 1250582687186419713. Learn da skill: 1124.
+17:36:27 : [Zero] - [Mensagem do servidor]> Habilidade Giro_da_Fúria aprendida com sucesso
+17:36:28 : [Zero] - [Mensagem do servidor]> Você ja aprendeu esta skill.
+17:36:29 : [Zero] - Comprou uma skill Toque_Sagrado. Learn antigo: 13018332092, Learn atual: 1250582687186419714. Learn da skill: 1124.
+17:36:29 : [Zero] - [Mensagem do servidor]> Habilidade Toque_Sagrado aprendida com sucesso
+17:36:31 : [Zero] - Comprou uma skill Perseguição. Learn antigo: 30198201276, Learn atual: 1250582687186419716. Learn da skill: 1124.
+17:36:31 : [Zero] - [Mensagem do servidor]> Habilidade Perseguição aprendida com sucesso
+17:36:33 : [Zero] - Comprou uma skill Samaritano. Learn antigo: 64557939644, Learn atual: 1250582687186419720. Learn da skill: 1124.
+17:36:33 : [Zero] - [Mensagem do servidor]> Habilidade Samaritano aprendida com sucesso
+17:36:34 : [Zero] - [Mensagem do servidor]> Você precisa de mais pontos da linhagem.
+17:36:52 : [Zero] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:36:52 : [Zero] - 1 Personagem foi desconectado. Permaneceu 00:01:21 minutos online
+18:48:05 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 3
+18:48:05 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+18:48:05 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+18:48:05 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:48:09 : Solicitou ir ao mundo...
+18:48:09 : Recebido pedido para entrar no jogo
+18:48:09 : Recebido informação do personagem completa.
+18:48:09 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1995375365
+Level atual: 221
+Experiência atual: 107364534
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2096x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura(N)[1116] [43 8 0 0 0 0]
+[03] - Calça(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas(N)[1140] [43 8 0 0 0 0]
+[05] - Botas(N)[1152] [43 8 0 0 0 0]
+[06] - Adaga[861] [43 8 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[14] - Aranha[2360] [59 7 1 20 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Retorno_da_Habilidade[3336] [0 0 0 0 0 0]
+[01] - Safira[697] [0 0 0 0 0 0]
+[02] - Safira[697] [0 0 0 0 0 0]
+[03] - Safira[697] [0 0 0 0 0 0]
+[04] - Safira[697] [0 0 0 0 0 0]
+[05] - Safira[697] [0 0 0 0 0 0]
+[06] - Safira[697] [0 0 0 0 0 0]
+[07] - Safira[697] [0 0 0 0 0 0]
+[08] - Safira[697] [0 0 0 0 0 0]
+[09] - Safira[697] [0 0 0 0 0 0]
+[10] - Safira[697] [0 0 0 0 0 0]
+[11] - Safira[697] [0 0 0 0 0 0]
+[12] - Safira[697] [0 0 0 0 0 0]
+[13] - Safira[697] [0 0 0 0 0 0]
+[14] - Safira[697] [0 0 0 0 0 0]
+[15] - Safira[697] [0 0 0 0 0 0]
+[16] - Safira[697] [0 0 0 0 0 0]
+[17] - Safira[697] [0 0 0 0 0 0]
+[18] - Safira[697] [0 0 0 0 0 0]
+[19] - Safira[697] [0 0 0 0 0 0]
+[20] - Safira[697] [0 0 0 0 0 0]
+[21] - Safira[697] [0 0 0 0 0 0]
+[22] - Safira[697] [0 0 0 0 0 0]
+[23] - Safira[697] [0 0 0 0 0 0]
+[24] - Safira[697] [0 0 0 0 0 0]
+[25] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[26] - Garra[841] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [111 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:48:09 : [Zero] - Personagem Zero enviado ao mundo 2096x 2096y - Canal 2 - Cash da conta: 19719. PowerLevel: 353
+18:48:09 : [Zero] - Gold atual: 1995375365. Classe: 0 Evolução: 0. Experiência: 107364534. Nível: 221. Info: 0. GuildID: 0. CP: 36. Pontos de Contribuição: 0. Limite: 0
+18:48:09 : [Zero] - Logou no personagem Zero com frango ativo. Tempo: 1012
+18:48:09 : [Zero] - Logou no personagem Zero com baú de experiência ativo. Tempo: 113
+18:48:09 : [Zero] - Enviado informações do personagem
+18:48:10 : [Zero] - Comando "/day "
+18:48:10 : [Zero] - [Mensagem do servidor]> !#11 2
+18:48:17 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:48:17 : [Zero] - Teleportado para a posição 960 1761
+18:48:20 : [Zero] - Teleportado para a posição 1701 1725
+18:49:12 : [Zero] - Pet Aranha [2360] [254 255 1 20 0 0] morreu. Hit: 159
+18:57:07 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+18:57:07 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:57:09 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+18:57:09 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+18:57:09 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+18:57:09 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:57:14 : Solicitou ir ao mundo...
+18:57:14 : Recebido pedido para entrar no jogo
+18:57:14 : Recebido informação do personagem completa.
+18:57:14 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1994374365
+Level atual: 221
+Experiência atual: 107364534
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2099x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura(N)[1116] [43 8 0 0 0 0]
+[03] - Calça(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas(N)[1140] [43 8 0 0 0 0]
+[05] - Botas(N)[1152] [43 8 0 0 0 0]
+[06] - Adaga[861] [43 8 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[14] - Aranha[2360] [254 255 1 20 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Retorno_da_Habilidade[3336] [0 0 0 0 0 0]
+[01] - Safira[697] [0 0 0 0 0 0]
+[02] - Safira[697] [0 0 0 0 0 0]
+[03] - Safira[697] [0 0 0 0 0 0]
+[04] - Safira[697] [0 0 0 0 0 0]
+[05] - Safira[697] [0 0 0 0 0 0]
+[06] - Safira[697] [0 0 0 0 0 0]
+[07] - Safira[697] [0 0 0 0 0 0]
+[08] - Safira[697] [0 0 0 0 0 0]
+[09] - Safira[697] [0 0 0 0 0 0]
+[10] - Safira[697] [0 0 0 0 0 0]
+[11] - Safira[697] [0 0 0 0 0 0]
+[12] - Safira[697] [0 0 0 0 0 0]
+[13] - Safira[697] [0 0 0 0 0 0]
+[14] - Safira[697] [0 0 0 0 0 0]
+[15] - Safira[697] [0 0 0 0 0 0]
+[16] - Safira[697] [0 0 0 0 0 0]
+[17] - Safira[697] [0 0 0 0 0 0]
+[18] - Safira[697] [0 0 0 0 0 0]
+[19] - Safira[697] [0 0 0 0 0 0]
+[20] - Safira[697] [0 0 0 0 0 0]
+[21] - Safira[697] [0 0 0 0 0 0]
+[22] - Safira[697] [0 0 0 0 0 0]
+[23] - Safira[697] [0 0 0 0 0 0]
+[24] - Safira[697] [0 0 0 0 0 0]
+[25] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[26] - Garra[841] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [111 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:57:14 : [Zero] - Personagem Zero enviado ao mundo 2099x 2096y - Canal 2 - Cash da conta: 19719. PowerLevel: 353
+18:57:14 : [Zero] - Gold atual: 1994374365. Classe: 0 Evolução: 0. Experiência: 107364534. Nível: 221. Info: 0. GuildID: 0. CP: 36. Pontos de Contribuição: 0. Limite: 0
+18:57:14 : [Zero] - Logou no personagem Zero com frango ativo. Tempo: 967
+18:57:14 : [Zero] - Logou no personagem Zero com baú de experiência ativo. Tempo: 68
+18:57:14 : [Zero] - Enviado informações do personagem
+18:57:15 : [Zero] - Comando "/day "
+18:57:15 : [Zero] - [Mensagem do servidor]> !#11 2
+18:57:30 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:27:24 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 7
+19:27:24 : Usuário logou no jogo com clientId 7. - Servidor 1. Gold do banco: 0
+19:27:24 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:27:28 : Solicitou ir ao mundo...
+19:27:28 : Recebido pedido para entrar no jogo
+19:27:28 : Recebido informação do personagem completa.
+19:27:28 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1994374365
+Level atual: 221
+Experiência atual: 107364534
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2097x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura(N)[1116] [43 8 0 0 0 0]
+[03] - Calça(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas(N)[1140] [43 8 0 0 0 0]
+[05] - Botas(N)[1152] [43 8 0 0 0 0]
+[06] - Adaga[861] [43 8 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[14] - Aranha[2360] [254 255 1 20 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Retorno_da_Habilidade[3336] [0 0 0 0 0 0]
+[01] - Safira[697] [0 0 0 0 0 0]
+[02] - Safira[697] [0 0 0 0 0 0]
+[03] - Safira[697] [0 0 0 0 0 0]
+[04] - Safira[697] [0 0 0 0 0 0]
+[05] - Safira[697] [0 0 0 0 0 0]
+[06] - Safira[697] [0 0 0 0 0 0]
+[07] - Safira[697] [0 0 0 0 0 0]
+[08] - Safira[697] [0 0 0 0 0 0]
+[09] - Safira[697] [0 0 0 0 0 0]
+[10] - Safira[697] [0 0 0 0 0 0]
+[11] - Safira[697] [0 0 0 0 0 0]
+[12] - Safira[697] [0 0 0 0 0 0]
+[13] - Safira[697] [0 0 0 0 0 0]
+[14] - Safira[697] [0 0 0 0 0 0]
+[15] - Safira[697] [0 0 0 0 0 0]
+[16] - Safira[697] [0 0 0 0 0 0]
+[17] - Safira[697] [0 0 0 0 0 0]
+[18] - Safira[697] [0 0 0 0 0 0]
+[19] - Safira[697] [0 0 0 0 0 0]
+[20] - Safira[697] [0 0 0 0 0 0]
+[21] - Safira[697] [0 0 0 0 0 0]
+[22] - Safira[697] [0 0 0 0 0 0]
+[23] - Safira[697] [0 0 0 0 0 0]
+[24] - Safira[697] [0 0 0 0 0 0]
+[25] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[26] - Garra[841] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [111 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:27:28 : [Zero] - Personagem Zero enviado ao mundo 2097x 2103y - Canal 1 - Cash da conta: 19719. PowerLevel: 353
+19:27:28 : [Zero] - Gold atual: 1994374365. Classe: 0 Evolução: 0. Experiência: 107364534. Nível: 221. Info: 0. GuildID: 0. CP: 36. Pontos de Contribuição: 0. Limite: 0
+19:27:28 : [Zero] - Logou no personagem Zero com frango ativo. Tempo: 911
+19:27:28 : [Zero] - Logou no personagem Zero com baú de experiência ativo. Tempo: 12
+19:27:28 : [Zero] - Enviado informações do personagem
+19:27:29 : [Zero] - Comando "/day "
+19:27:29 : [Zero] - [Mensagem do servidor]> !#11 2
+19:27:39 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:27:47 : [Zero] - Moveu item Botas(N) [1152] [43 8 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 27
+19:27:49 : [Zero] - Moveu item Botas(N) [1152] [43 8 0 0 0 0] do tipo INVENTÁRIO do slot 27 para tipo EQUIPAMENTO slot 5
+19:27:52 : [Zero] - Teleportado para a posição 2366 3878
+19:28:22 : [Zero] - Comando "/gm +erion"
+19:28:22 : [Zero] - Teleportado para a posição 2460 2009
+19:28:42 : [Zero] - Comando "/gm +armia"
+19:28:42 : [Zero] - Teleportado para a posição 2100 2100
+19:28:47 : [Zero] - Teleportado para a posição 2366 3878
+19:28:57 : [Zero] - Comando "/gm +item 4127"
+19:28:57 : [Zero] - [Mensagem do servidor]> Criou o item Pergaminho_Selado
+19:28:57 : [Zero] - Zero criou o item Pergaminho_Selado [4127] [0 0 0 0 0 0]
+19:29:00 : [Zero] - Clicado no NPC [Sobrevivente]. Face 1. Race: 3. GenerateId: 3419. Posição do usuário: 2366x 3887y. Posição do NPC: 2369x 3888y
+19:29:00 : [Zero] - Nova Entrada Hall Kefra. Total: 25
+19:29:08 : [Zero] - [Mensagem do servidor]> Você possui 24 entradas
+19:29:09 : [Zero] - Teleportado para hallkefra. Entradas restantes: 24
+19:29:10 : [Zero] - Teleportado para a posição 2366 3910
+19:29:12 : [Zero] - Solicitado teleporte na posição 2366x 3892y e teleportado para 2366x 3910y
+19:29:15 : [Zero] - [Mensagem do servidor]> Você possui 23 entradas
+19:29:15 : [Zero] - Teleportado para hallkefra. Entradas restantes: 23
+19:29:15 : [Zero] - Teleportado para a posição 2367 3910
+19:29:15 : [Zero] - Solicitado teleporte na posição 2366x 3894y e teleportado para 2367x 3910y
+19:29:15 : [Zero] - [Mensagem do servidor]> Você possui 22 entradas
+19:29:15 : [Zero] - Teleportado para hallkefra. Entradas restantes: 22
+19:29:15 : [Zero] - Teleportado para a posição 2366 3910
+19:29:15 : [Zero] - Solicitado teleporte na posição 2366x 3892y e teleportado para 2366x 3910y
+19:29:27 : [Zero] - [Mensagem do servidor]> Teleporte não disponível
+19:29:34 : [Zero] - Comando "/gm +item 4127"
+19:29:34 : [Zero] - [Mensagem do servidor]> Criou o item Pergaminho_Selado
+19:29:34 : [Zero] - Zero criou o item Pergaminho_Selado [4127] [0 0 0 0 0 0]
+19:29:38 : [Zero] - Comando "/gm +armia"
+19:29:38 : [Zero] - Teleportado para a posição 2100 2100
+19:29:43 : [Zero] - Teleportado para a posição 2366 3878
+19:29:53 : [Zero] - [Mensagem do servidor]> Você possui 21 entradas
+19:29:53 : [Zero] - Teleportado para hallkefra. Entradas restantes: 21
+19:29:53 : [Zero] - Teleportado para a posição 2367 3910
+19:29:53 : [Zero] - Solicitado teleporte na posição 2366x 3892y e teleportado para 2367x 3910y
+19:29:53 : [Zero] - Clicado no NPC [Sobrevivente]. Face 1. Race: 3. GenerateId: 3419. Posição do usuário: 2366x 3886y. Posição do NPC: 2369x 3888y
+19:29:53 : [Zero] - Nova Entrada Hall Kefra. Total: 46
+19:30:56 : [Zero] - Comando "/gm +item 765"
+19:30:56 : [Zero] - [Mensagem do servidor]> Criou o item Marte
+19:30:56 : [Zero] - Zero criou o item Marte [765] [0 0 0 0 0 0]
+19:32:16 : [Zero] - Comando "/gm +item 764"
+19:32:16 : [Zero] - [Mensagem do servidor]> Criou o item Venus
+19:32:16 : [Zero] - Zero criou o item Venus [764] [0 0 0 0 0 0]
+19:33:18 : [Zero] - Comando "/gm +item 762"
+19:33:18 : [Zero] - [Mensagem do servidor]> Criou o item Netuno
+19:33:18 : [Zero] - Zero criou o item Netuno [762] [0 0 0 0 0 0]
+19:33:23 : [Zero] - Item Netuno deletado [762] [0 0 0 0 0 0]. Slot 29
+19:33:38 : [Zero] - Comando "/gm +item 766"
+19:33:38 : [Zero] - [Mensagem do servidor]> Criou o item Saturno
+19:33:38 : [Zero] - Zero criou o item Saturno [766] [0 0 0 0 0 0]
+19:33:43 : [Zero] - Item Saturno deletado [766] [0 0 0 0 0 0]. Slot 29
+19:47:22 : [Zero] - Comando "/gm +azran"
+19:47:22 : [Zero] - Teleportado para a posição 2482 1709
+19:47:28 : [Zero] - Clicado no NPC [Knights Leader]. Face 60. Race: 2. GenerateId: 1259. Posição do usuário: 2453x 1713y. Posição do NPC: 2446x 1717y
+19:47:33 : [Zero] - Clicado no NPC [Knights Leader]. Face 60. Race: 2. GenerateId: 1259. Posição do usuário: 2442x 1718y. Posição do NPC: 2445x 1716y
+19:48:05 : [Zero] - Matou o mob Basilisco Ifrit. GenerID: 1404
+19:48:06 : [Zero] - Removido o Hp do mob Dracorich. HP removido: 1096. HP Atual: 3404
+19:48:07 : [Zero] - Removido o Hp do mob Dracorich. HP removido: 1175. HP Atual: 2229
+19:48:08 : [Zero] - Removido o Hp do mob Dracorich. HP removido: 1093. HP Atual: 1136
+19:48:09 : [Zero] - Removido o Hp do mob Dracorich. HP removido: 1089. HP Atual: 47
+19:48:10 : [Zero] - Removido o Hp do mob Dracorich. HP removido: 1096. HP Atual: 0
+19:48:10 : [Zero] - Matou o mob Dracorich. GenerID: 1403
+19:48:12 : [Zero] - Removido o Hp do mob Dracorich. HP removido: 1175. HP Atual: 3325
+19:48:13 : [Zero] - Removido o Hp do mob Dracorich. HP removido: 1090. HP Atual: 2235
+19:48:15 : [Zero] - Removido o Hp do mob Dracorich. HP removido: 1091. HP Atual: 1144
+19:48:16 : [Zero] - Removido o Hp do mob Dracorich. HP removido: 1177. HP Atual: 0
+19:48:16 : [Zero] - Matou o mob Dracorich. GenerID: 1403
+19:48:21 : [Zero] - Matou o mob Basilisco Ifrit. GenerID: 1401
+19:48:21 : [Zero] - Dropado item Kit_de_Cura_(10_M.) [429] [61 10 0 0 0 0] em 2390x 1595y - Basilisco Ifrit (1/100)
+19:48:24 : [Zero] - Matou o mob E-Dracolich. GenerID: 1405
+19:48:32 : [Zero] - Matou o mob Basilisco Ifrit. GenerID: 1401
+19:48:34 : [Zero] - Removido o Hp do mob Dracorich. HP removido: 1092. HP Atual: 2271
+19:48:36 : [Zero] - Matou o mob E-Dracolich. GenerID: 1405
+19:48:39 : [Zero] - Matou o mob Basilisco Ifrit. GenerID: 1405
+19:48:40 : [Zero] - Removido o Hp do mob Dracorich. HP removido: 1096. HP Atual: 1175
+19:48:41 : [Zero] - Removido o Hp do mob Dracorich. HP removido: 1095. HP Atual: 80
+19:48:42 : [Zero] - Removido o Hp do mob Dracorich. HP removido: 1091. HP Atual: 0
+19:48:42 : [Zero] - Matou o mob Dracorich. GenerID: 1401
+19:48:43 : [Zero] - Clicado no NPC [Exploit Leader]. Face 58. Race: 2. GenerateId: 1400. Posição do usuário: 2391x 1596y. Posição do NPC: 2393x 1597y
+19:48:48 : [Zero] - Matou o mob Basilisco Ifrit. GenerID: 1403
+19:48:50 : [Zero] - Matou o mob Basilisco Ifrit. GenerID: 1402
+19:48:50 : [Zero] - Clicado no NPC [Exploit Leader]. Face 58. Race: 2. GenerateId: 1400. Posição do usuário: 2392x 1597y. Posição do NPC: 2393x 1597y
+19:48:54 : [Zero] - Matou o mob Basilisco Ifrit. GenerID: 1402
+19:48:55 : [Zero] - Item Kit_de_Cura_(10_M.) deletado [429] [61 10 0 0 0 0]. Slot 29
+19:49:00 : [Zero] - Matou o mob Basilisco Ifrit. GenerID: 1402
+19:49:03 : [Zero] - Matou o mob E-Dracolich. GenerID: 1404
+19:49:04 : [Zero] - Removido o Hp do mob Dracorich. HP removido: 1096. HP Atual: 757
+19:49:05 : [Zero] - Removido o Hp do mob Dracorich. HP removido: 1089. HP Atual: 0
+19:49:05 : [Zero] - Matou o mob Dracorich. GenerID: 1401
+19:49:07 : [Zero] - Matou o mob E-Dracolich. GenerID: 1407
+19:49:12 : [Zero] - Matou o mob Basilisco Ifrit. GenerID: 1403
+19:49:15 : [Zero] - Matou o mob E-Dracolich. GenerID: 1407
+19:49:26 : [Zero] - Matou o mob Basilisco Ifrit. GenerID: 1407
+19:49:28 : [Zero] - Clicado no NPC [Exploit Leader]. Face 58. Race: 2. GenerateId: 1400. Posição do usuário: 2395x 1593y. Posição do NPC: 2393x 1597y
+19:49:34 : [Zero] - Matou o mob Basilisco Ifrit. GenerID: 1405
+19:54:32 : [Zero] - [Mensagem do servidor]: Nixtty falhou na composição do item Arco para Ancient
+19:54:44 : [Zero] - [Mensagem do servidor]: Nixtty falhou na composição do item Arco para Ancient
+19:55:01 : [Zero] - [Mensagem do servidor]: Jogador Nixtty falhou a composição do item Armadura +10
+19:56:15 : [Zero] - [Mensagem do servidor]: Jogador Nixtty obteve sucesso na composição de Skytalos(Anct)
+19:56:57 : [Zero] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:56:57 : [Zero] - 7 Personagem foi desconectado. Permaneceu 00:27:50 minutos online
+19:57:19 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+19:57:19 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+19:57:19 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:57:20 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:57:23 : Solicitou ir ao mundo...
+19:57:23 : Recebido pedido para entrar no jogo
+19:57:23 : Recebido informação do personagem completa.
+19:57:23 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1991374365
+Level atual: 221
+Experiência atual: 107368276
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2096x 2103y
+
+Pontos NT: 0
+Entradas Hall: 46
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura(N)[1116] [43 8 0 0 0 0]
+[03] - Calça(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas(N)[1140] [43 8 0 0 0 0]
+[05] - Botas(N)[1152] [43 8 0 0 0 0]
+[06] - Adaga[861] [43 8 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[14] - Aranha[2360] [254 255 1 20 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Retorno_da_Habilidade[3336] [0 0 0 0 0 0]
+[01] - Safira[697] [0 0 0 0 0 0]
+[02] - Safira[697] [0 0 0 0 0 0]
+[03] - Safira[697] [0 0 0 0 0 0]
+[04] - Safira[697] [0 0 0 0 0 0]
+[05] - Safira[697] [0 0 0 0 0 0]
+[06] - Safira[697] [0 0 0 0 0 0]
+[07] - Safira[697] [0 0 0 0 0 0]
+[08] - Safira[697] [0 0 0 0 0 0]
+[09] - Safira[697] [0 0 0 0 0 0]
+[10] - Safira[697] [0 0 0 0 0 0]
+[11] - Safira[697] [0 0 0 0 0 0]
+[12] - Safira[697] [0 0 0 0 0 0]
+[13] - Safira[697] [0 0 0 0 0 0]
+[14] - Safira[697] [0 0 0 0 0 0]
+[15] - Safira[697] [0 0 0 0 0 0]
+[16] - Safira[697] [0 0 0 0 0 0]
+[17] - Safira[697] [0 0 0 0 0 0]
+[18] - Safira[697] [0 0 0 0 0 0]
+[19] - Safira[697] [0 0 0 0 0 0]
+[20] - Safira[697] [0 0 0 0 0 0]
+[21] - Safira[697] [0 0 0 0 0 0]
+[22] - Safira[697] [0 0 0 0 0 0]
+[23] - Safira[697] [0 0 0 0 0 0]
+[24] - Safira[697] [0 0 0 0 0 0]
+[25] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[26] - Garra[841] [0 0 0 0 0 0]
+[27] - Marte[765] [0 0 0 0 0 0]
+[28] - Venus[764] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [111 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:57:23 : [Zero] - Personagem Zero enviado ao mundo 2096x 2103y - Canal 2 - Cash da conta: 19719. PowerLevel: 353
+19:57:23 : [Zero] - Gold atual: 1991374365. Classe: 0 Evolução: 0. Experiência: 107368276. Nível: 221. Info: 0. GuildID: 0. CP: 36. Pontos de Contribuição: 0. Limite: 0
+19:57:23 : [Zero] - Logou no personagem Zero com frango ativo. Tempo: 702
+19:57:23 : [Zero] - Enviado informações do personagem
+19:57:24 : [Zero] - Comando "/day "
+19:57:24 : [Zero] - [Mensagem do servidor]> !#11 2
+19:57:32 : [Zero] - Comando "/gm +server 0"
+19:57:32 : [Zero] - [Mensagem do servidor]> Servidor foi aberto
+19:57:36 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:57:39 : [Zero] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:57:39 : [Zero] - 2 Personagem foi desconectado. Permaneceu 00:00:20 minutos online
+21:26:30 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+21:26:30 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+21:26:30 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+21:27:35 : Solicitou ir ao mundo...
+21:27:35 : Recebido pedido para entrar no jogo
+21:27:35 : Recebido informação do personagem completa.
+21:27:35 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1991374365
+Level atual: 221
+Experiência atual: 107368276
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:04 horas
+Posição atual: 2091x 2100y
+
+Pontos NT: 0
+Entradas Hall: 46
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura(N)[1116] [43 8 0 0 0 0]
+[03] - Calça(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas(N)[1140] [43 8 0 0 0 0]
+[05] - Botas(N)[1152] [43 8 0 0 0 0]
+[06] - Adaga[861] [43 8 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[14] - Aranha[2360] [254 255 1 20 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Retorno_da_Habilidade[3336] [0 0 0 0 0 0]
+[01] - Safira[697] [0 0 0 0 0 0]
+[02] - Safira[697] [0 0 0 0 0 0]
+[03] - Safira[697] [0 0 0 0 0 0]
+[04] - Safira[697] [0 0 0 0 0 0]
+[05] - Safira[697] [0 0 0 0 0 0]
+[06] - Safira[697] [0 0 0 0 0 0]
+[07] - Safira[697] [0 0 0 0 0 0]
+[08] - Safira[697] [0 0 0 0 0 0]
+[09] - Safira[697] [0 0 0 0 0 0]
+[10] - Safira[697] [0 0 0 0 0 0]
+[11] - Safira[697] [0 0 0 0 0 0]
+[12] - Safira[697] [0 0 0 0 0 0]
+[13] - Safira[697] [0 0 0 0 0 0]
+[14] - Safira[697] [0 0 0 0 0 0]
+[15] - Safira[697] [0 0 0 0 0 0]
+[16] - Safira[697] [0 0 0 0 0 0]
+[17] - Safira[697] [0 0 0 0 0 0]
+[18] - Safira[697] [0 0 0 0 0 0]
+[19] - Safira[697] [0 0 0 0 0 0]
+[20] - Safira[697] [0 0 0 0 0 0]
+[21] - Safira[697] [0 0 0 0 0 0]
+[22] - Safira[697] [0 0 0 0 0 0]
+[23] - Safira[697] [0 0 0 0 0 0]
+[24] - Safira[697] [0 0 0 0 0 0]
+[25] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[26] - Garra[841] [0 0 0 0 0 0]
+[27] - Marte[765] [0 0 0 0 0 0]
+[28] - Venus[764] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [111 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:27:35 : [Zero] - Personagem Zero enviado ao mundo 2091x 2100y - Canal 2 - Cash da conta: 19719. PowerLevel: 353
+21:27:35 : [Zero] - Gold atual: 1991374365. Classe: 0 Evolução: 0. Experiência: 107368276. Nível: 221. Info: 0. GuildID: 0. CP: 36. Pontos de Contribuição: 0. Limite: 0
+21:27:35 : [Zero] - Logou no personagem Zero com frango ativo. Tempo: 700
+21:27:35 : [Zero] - Enviado informações do personagem
+21:27:36 : [Zero] - Comando "/day "
+21:27:36 : [Zero] - [Mensagem do servidor]> !#11 2
+21:27:47 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:28:28 : [Zero] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 4610. Posição do usuário: 2112x 2046y. Posição do NPC: 2107x 2042y
+21:28:51 : [Zero] - Clicado no NPC [Mestre Grifo]. Face 21. Race: 2. GenerateId: 3418. Posição do usuário: 2115x 2076y. Posição do NPC: 2115x 2080y
+21:29:04 : [Zero] - [Mensagem do servidor]> Chegou no destino [Defensor da alma].
+21:29:04 : [Zero] - Teleportado para a posição 2372 2099
+21:29:08 : [Zero] - Comando "/gm +armia"
+21:29:08 : [Zero] - Teleportado para a posição 2100 2100
+21:29:10 : [Zero] - Moveu item Botas(N) [1152] [43 8 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 29
+21:29:12 : [Zero] - Moveu item Botas(N) [1152] [43 8 0 0 0 0] do tipo INVENTÁRIO do slot 29 para tipo EQUIPAMENTO slot 5
+21:29:15 : [Zero] - Moveu item Marte [765] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 27 para tipo EQUIPAMENTO slot 11
+21:29:19 : [Zero] - Moveu item Marte [765] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 11 para tipo INVENTÁRIO slot 27
+21:30:15 : [Zero] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2139x 2083y. Posição do NPC: 2144x 2080y
+21:30:21 : [Zero] - Clicado no NPC [Mestre de Hab]. Face 18. Race: 3. GenerateId: 3259. Posição do usuário: 2146x 2071y. Posição do NPC: 2148x 2068y
+21:30:27 : [Zero] - Item Venus deletado [764] [0 0 0 0 0 0]. Slot 28
+21:30:28 : [Zero] - Item Marte deletado [765] [0 0 0 0 0 0]. Slot 27
+21:30:29 : [Zero] - Item Garra deletado [841] [0 0 0 0 0 0]. Slot 26
+21:30:30 : [Zero] - Item Emblema_do_Reino deletado [4081] [0 0 0 0 0 0]. Slot 25
+21:30:38 : [Zero] - Moveu item Botas(N) [1152] [43 8 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 25
+21:30:39 : [Zero] - Moveu item Calça(N) [1128] [43 8 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 26
+21:30:40 : [Zero] - Moveu item Luvas(N) [1140] [43 8 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 27
+21:30:41 : [Zero] - Moveu item Armadura(N) [1116] [43 8 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 28
+21:30:41 : [Zero] - Moveu item Elmo(N) [1104] [43 8 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 29
+21:30:43 : [Zero] - Clicado no NPC [Mestre de Hab]. Face 18. Race: 3. GenerateId: 3259. Posição do usuário: 2146x 2071y. Posição do NPC: 2148x 2068y
+21:30:50 : [Zero] - Item Retorno_da_Habilidade deletado [3336] [0 0 0 0 0 0]. Slot 0
+21:30:51 : [Zero] - Moveu item Amuleto_de_Prata [553] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 9 para tipo INVENTÁRIO slot 0
+21:30:53 : [Zero] - Moveu item Amuleto_de_Prata [553] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 9
+21:30:54 : [Zero] - Moveu item Adaga [861] [43 8 0 0 0 0] do tipo EQUIPAMENTO do slot 6 para tipo INVENTÁRIO slot 0
+21:30:56 : [Zero] - Clicado no NPC [Mestre de Hab]. Face 18. Race: 3. GenerateId: 3259. Posição do usuário: 2149x 2068y. Posição do NPC: 2148x 2068y
+21:30:56 : [Zero] - [Mensagem do servidor]> Você precisa de 30 safira(as).
+21:31:04 : [Zero] - Item Adaga deletado [861] [43 8 0 0 0 0]. Slot 0
+21:31:10 : [Zero] - Comando "/gm +item 697"
+21:31:10 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+21:31:10 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+21:31:13 : [Zero] - Clicado no NPC [Mestre de Hab]. Face 18. Race: 3. GenerateId: 3259. Posição do usuário: 2149x 2068y. Posição do NPC: 2148x 2068y
+21:31:13 : [Zero] - [Mensagem do servidor]> Você precisa de 30 safira(as).
+21:31:18 : [Zero] - Item Botas(N) deletado [1152] [43 8 0 0 0 0]. Slot 25
+21:31:19 : [Zero] - Item Calça(N) deletado [1128] [43 8 0 0 0 0]. Slot 26
+21:31:20 : [Zero] - Item Luvas(N) deletado [1140] [43 8 0 0 0 0]. Slot 27
+21:31:20 : [Zero] - Item Armadura(N) deletado [1116] [43 8 0 0 0 0]. Slot 28
+21:31:21 : [Zero] - Item Elmo(N) deletado [1104] [43 8 0 0 0 0]. Slot 29
+21:31:22 : [Zero] - Comando "/gm +item 697"
+21:31:22 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+21:31:22 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+21:31:23 : [Zero] - Comando "/gm +item 697"
+21:31:23 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+21:31:23 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+21:31:24 : [Zero] - Comando "/gm +item 697"
+21:31:24 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+21:31:24 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+21:31:26 : [Zero] - Comando "/gm +item 697"
+21:31:26 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+21:31:26 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+21:31:27 : [Zero] - Comando "/gm +item 697"
+21:31:27 : [Zero] - [Mensagem do servidor]> Criou o item Safira
+21:31:27 : [Zero] - Zero criou o item Safira [697] [0 0 0 0 0 0]
+21:31:32 : [Zero] - Clicado no NPC [Mestre de Hab]. Face 18. Race: 3. GenerateId: 3259. Posição do usuário: 2149x 2068y. Posição do NPC: 2148x 2068y
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 0
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 1
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 2
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 3
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 4
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 5
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 6
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 7
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 8
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 9
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 10
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 11
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 12
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 13
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 14
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 15
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 16
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 17
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 18
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 19
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 20
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 21
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 22
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 23
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 24
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 25
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 26
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 27
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 28
+21:31:32 : [Zero] - Removido 1 unidade(s) de Safira [0] [0 0 0 0 0 0] no slot 29
+21:31:32 : [Zero] - Mestre das Habilidades - Removido 30 safiras
+21:32:18 : [Zero] - Comprou o item Elmo(A) [1106] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 10695. Imposto: 1395. Gold: 1991374365 anterior. Gold após a compra: 1991363670
+21:32:19 : [Zero] - Comprou o item Armadura(A) [1118] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 14490. Imposto: 1890. Gold: 1991363670 anterior. Gold após a compra: 1991349180
+21:32:19 : [Zero] - Comprou o item Calça(A) [1130] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 12650. Imposto: 1650. Gold: 1991349180 anterior. Gold após a compra: 1991336530
+21:32:20 : [Zero] - Comprou o item Botas(A) [1154] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 11040. Imposto: 1440. Gold: 1991336530 anterior. Gold após a compra: 1991325490
+21:32:22 : [Zero] - Comprou o item Luvas(A) [1142] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 9200. Imposto: 1200. Gold: 1991325490 anterior. Gold após a compra: 1991316290
+21:32:26 : [Zero] - Moveu item Botas(A) [1154] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 16 para tipo EQUIPAMENTO slot 5
+21:32:27 : [Zero] - Moveu item Luvas(A) [1142] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo EQUIPAMENTO slot 4
+21:32:27 : [Zero] - Moveu item Armadura(A) [1118] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo EQUIPAMENTO slot 2
+21:32:28 : [Zero] - Moveu item Elmo(A) [1106] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 15 para tipo EQUIPAMENTO slot 1
+21:32:29 : [Zero] - Moveu item Calça(A) [1130] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 25 para tipo EQUIPAMENTO slot 3
+21:33:09 : [Zero] - Comando "/gm +item 3336"
+21:33:09 : [Zero] - [Mensagem do servidor]> Criou o item Retorno_da_Habilidade
+21:33:09 : [Zero] - Zero criou o item Retorno_da_Habilidade [3336] [0 0 0 0 0 0]
+21:33:16 : [Zero] - Clicado no NPC [Mestre de Hab]. Face 18. Race: 3. GenerateId: 3259. Posição do usuário: 2145x 2073y. Posição do NPC: 2148x 2068y
+21:33:38 : [Zero] - Moveu item Retorno_da_Habilidade [3336] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo INVENTÁRIO slot 14
+21:33:46 : [Zero] - Moveu item Elmo(A) [1106] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 0
+21:33:47 : [Zero] - Moveu item Armadura(A) [1118] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 5
+21:33:48 : [Zero] - Moveu item Luvas(A) [1142] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 10
+21:33:49 : [Zero] - Moveu item Calça(A) [1130] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 1
+21:33:49 : [Zero] - Moveu item Botas(A) [1154] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 6
+21:33:53 : [Zero] - Clicado no NPC [Mestre de Hab]. Face 18. Race: 3. GenerateId: 3259. Posição do usuário: 2145x 2073y. Posição do NPC: 2148x 2068y
+21:33:55 : [Zero] - Moveu item Luvas(A) [1142] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 4
+21:33:56 : [Zero] - Moveu item Armadura(A) [1118] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+21:33:56 : [Zero] - Moveu item Botas(A) [1154] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 5
+21:33:57 : [Zero] - Moveu item Calça(A) [1130] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 3
+21:33:57 : [Zero] - Moveu item Elmo(A) [1106] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+21:34:00 : [Zero] - Moveu item Luvas(A) [1142] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 0
+21:34:04 : [Zero] - Moveu item Luvas(A) [1142] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 4
+21:34:05 : [Zero] - Moveu item Luvas(A) [1142] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 0
+21:34:06 : [Zero] - Moveu item Luvas(A) [1142] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 4
+21:34:10 : [Zero] - Clicado no NPC [Mestre de Hab]. Face 18. Race: 3. GenerateId: 3259. Posição do usuário: 2145x 2073y. Posição do NPC: 2148x 2068y
+21:34:12 : [Zero] - Moveu item Armadura(A) [1118] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 0
+21:34:13 : [Zero] - Moveu item Armadura(A) [1118] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 2
+21:34:17 : [Zero] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2139x 2078y. Posição do NPC: 2144x 2080y
+21:34:21 : [Zero] - Moveu item Elmo(A) [1106] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 0
+21:34:22 : [Zero] - Moveu item Elmo(A) [1106] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+21:34:27 : [Zero] - Moveu item Elmo(A) [1106] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 0
+21:34:28 : [Zero] - Moveu item Elmo(A) [1106] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+21:34:57 : [Zero] - Moveu item Elmo(A) [1106] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 0
+21:35:00 : [Zero] - Moveu item Elmo(A) [1106] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+21:35:06 : [Zero] - Moveu item Elmo(A) [1106] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 0
+21:35:08 : [Zero] - Moveu item Elmo(A) [1106] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+21:35:24 : [Zero] - Moveu item Elmo(A) [1106] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 0
+21:35:26 : [Zero] - Moveu item Elmo(A) [1106] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+21:35:30 : [Zero] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2139x 2088y. Posição do NPC: 2144x 2082y
+21:36:25 : [Zero] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2140x 2084y. Posição do NPC: 2143x 2081y
+21:36:28 : [Zero] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2140x 2084y. Posição do NPC: 2144x 2082y
+21:36:32 : [Zero] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2140x 2084y. Posição do NPC: 2142x 2082y
+21:36:46 : [Zero] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2140x 2084y. Posição do NPC: 2145x 2080y
+21:36:58 : [Zero] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2141x 2081y. Posição do NPC: 2144x 2080y
+21:37:46 : [Zero] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2141x 2082y. Posição do NPC: 2143x 2079y
+21:37:51 : [Zero] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2141x 2083y. Posição do NPC: 2144x 2080y
+21:37:57 : [Zero] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2141x 2083y. Posição do NPC: 2144x 2080y
+21:45:37 : [Zero] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2103x 2108y. Posição do NPC: 2102x 2113y
+21:46:52 : [Zero] - Comando "/gm +giveall 1147 43 6 2 20 53 3"
+21:46:52 : [Zero] - [Mensagem do servidor]> Entregue para 2 personagens...
+21:46:56 : [Zero] - Comando "/gm +giveall 1147 43 6 2 20 53 3"
+21:46:57 : [Zero] - [Mensagem do servidor]> Entregue para 2 personagens...
+21:46:59 : [Zero] - Comando "/gm +giveall 1147 43 6 2 20 53 3"
+21:46:59 : [Zero] - [Mensagem do servidor]> Entregue para 2 personagens...
+21:47:02 : [Zero] - Comando "/gm +giveall 1147 43 1"
+21:47:02 : [Zero] - [Mensagem do servidor]> Entregue para 2 personagens...
+21:47:03 : [Zero] - Comando "/gm +giveall 1147 43 2"
+21:47:03 : [Zero] - [Mensagem do servidor]> Entregue para 2 personagens...
+21:47:04 : [Zero] - Comando "/gm +giveall 1147 43 3"
+21:47:04 : [Zero] - [Mensagem do servidor]> Entregue para 2 personagens...
+21:47:05 : [Zero] - Comando "/gm +giveall 1147 43 4"
+21:47:05 : [Zero] - [Mensagem do servidor]> Entregue para 2 personagens...
+21:47:08 : [Zero] - Comando "/gm +giveall 1147 43 5"
+21:47:08 : [Zero] - [Mensagem do servidor]> Entregue para 2 personagens...
+21:47:30 : [Zero] - Comando "/gm +giveall 1147 43 53 3"
+21:47:30 : [Zero] - [Mensagem do servidor]> Entregue para 2 personagens...
+21:47:32 : [Zero] - Comando "/gm +giveall 1147 43 53 3"
+21:47:32 : [Zero] - [Mensagem do servidor]> Entregue para 2 personagens...
+21:47:34 : [Zero] - Comando "/gm +giveall 1147 43 53 3"
+21:47:34 : [Zero] - [Mensagem do servidor]> Entregue para 2 personagens...
+21:47:39 : [Zero] - Comando "/gm +giveall 1147 43 6 53 3"
+21:47:39 : [Zero] - [Mensagem do servidor]> Entregue para 2 personagens...
+21:47:41 : [Zero] - Comando "/gm +giveall 1147 43 6 53 3"
+21:47:41 : [Zero] - [Mensagem do servidor]> Entregue para 2 personagens...
+21:47:44 : [Zero] - Comando "/gm +giveall 1147 43 6 53 2"
+21:47:44 : [Zero] - [Mensagem do servidor]> Entregue para 2 personagens...
+21:47:49 : [Zero] - Item Luvas(M) deletado [1147] [43 6 53 2 0 0]. Slot 13
+21:47:50 : [Zero] - Item Luvas(M) deletado [1147] [43 6 53 3 0 0]. Slot 12
+21:47:51 : [Zero] - Item Luvas(M) deletado [1147] [43 6 53 3 0 0]. Slot 11
+21:47:52 : [Zero] - Item Luvas(M) deletado [1147] [43 53 3 0 0 0]. Slot 10
+21:47:55 : [Zero] - Comando "/gm +giveall 1147 43 6 "
+21:47:55 : [Zero] - [Mensagem do servidor]> Entregue para 2 personagens...
+21:47:57 : [Zero] - Item Luvas(M) deletado [1147] [43 6 0 0 0 0]. Slot 10
+21:48:17 : [Zero] - Comando "/gm +giveall 1159 43 6 73 18 74 12"
+21:48:17 : [Zero] - [Mensagem do servidor]> Entregue para 2 personagens...
+21:49:27 : [Zero] - Comando "/gm +set level 27"
+21:49:34 : [Zero] - Comando "/gm +read Levelitem"
+21:49:41 : [Zero] - Comando "/gm +reload Levelitem"
+21:49:41 : [Zero] - [Mensagem do servidor]> Usuário não está conectado
+21:49:45 : [Zero] - Comando "/gm +reload levelitem"
+21:49:45 : [Zero] - [Mensagem do servidor]> Usuário não está conectado
+21:49:51 : [Zero] - Comando "/gm +read levelitem"
+21:49:55 : [Zero] - Comando "/time "
+21:49:55 : [Zero] - [Mensagem do servidor]> [Zero] - 21:49:55 21-01-2021 2104x 2105y - Canal 2
+21:49:55 : [Zero] - Comando "/time "
+21:49:55 : [Zero] - [Mensagem do servidor]> [Zero] - 21:49:55 21-01-2021 2104x 2105y - Canal 2
+21:49:55 : [Zero] - Comando "/time "
+21:49:55 : [Zero] - [Mensagem do servidor]> [Zero] - 21:49:55 21-01-2021 2104x 2105y - Canal 2
+21:49:55 : [Zero] - Comando "/time "
+21:49:55 : [Zero] - [Mensagem do servidor]> [Zero] - 21:49:55 21-01-2021 2104x 2105y - Canal 2
+21:49:55 : [Zero] - Comando "/time "
+21:49:55 : [Zero] - [Mensagem do servidor]> [Zero] - 21:49:55 21-01-2021 2104x 2105y - Canal 2
+21:50:17 : [Zero] - Comando "/gm +reloaditemlevel"
+21:50:17 : [Zero] - [Mensagem do servidor]> Usuário não está conectado
+21:50:23 : [Zero] - Comando "/gm +reloaditemlevel"
+21:50:23 : [Zero] - [Mensagem do servidor]> Usuário não está conectado
+21:50:29 : [Zero] - Comando "/gm +reload itemlevel"
+21:50:29 : [Zero] - [Mensagem do servidor]> RELOAD LEVELITEM
+21:50:39 : [Zero] - Comando "/gm +cleaninve"
+21:50:40 : [Zero] - Comando "/gm +cleaninven"
+21:50:47 : [Zero] - Comando "/gm +clearinven"
+21:50:48 : [Zero] - Comando "/gm +clearinv"
+21:50:48 : [Zero] - [Mensagem do servidor]> CLEARINV
+21:50:58 : [Zero] - Matou o mob Gremlin. GenerID: 419
+21:50:58 : [Zero] - Pontos CP subiu em 3. CP novo: 114
+21:50:58 : [Zero] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:50:58 : [Zero] - Level UP para level 28. Ev: 0/0 - 2186x 2090y
+21:51:01 : [Zero] - Matou o mob Gremlin. GenerID: 417
+21:51:03 : [Zero] - Matou o mob Gremlin. GenerID: 420
+21:51:16 : [Zero] - Comando "/gm +set level 28"
+21:51:19 : [Zero] - Matou o mob Gremlin. GenerID: 437
+21:51:19 : [Zero] - Pontos CP subiu em 3. CP novo: 117
+21:51:19 : [Zero] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:51:19 : [Zero] - Level UP para level 29. Ev: 0/0 - 2201x 2080y
+21:51:19 : [Zero] - Recebeu o item Luvas(M) [1147] [43 2 2 20 53 3]. STR: 8. INT: 4. DEX: 7. CON: 6
+21:51:56 : [Zero] - Comando "/gm +item 2551"
+21:51:56 : [Zero] - [Mensagem do servidor]> Criou o item Skytalos(Anct)
+21:51:56 : [Zero] - Zero criou o item Skytalos(Anct) [2551] [0 0 0 0 0 0]
+21:52:02 : [Zero] - Comando "/gm +item 2550"
+21:52:02 : [Zero] - [Mensagem do servidor]> Criou o item Arco_Divino(Anct)
+21:52:02 : [Zero] - Zero criou o item Arco_Divino(Anct) [2550] [0 0 0 0 0 0]
+21:52:08 : [Zero] - Item Arco_Divino(Anct) deletado [2550] [0 0 0 0 0 0]. Slot 2
+21:52:26 : [Zero] - Matou o mob Gremlin. GenerID: 428
+21:52:27 : [Zero] - Matou o mob Gremlin. GenerID: 429
+21:52:30 : [Zero] - Matou o mob Gremlin. GenerID: 436
+21:52:30 : [Zero] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2203x 2084y - Gremlin (1/30)
+21:57:35 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1991316290
+Level atual: 29
+Experiência atual: 110910
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:30:39 horas
+Posição atual: 2201x 2085y
+
+Pontos NT: 0
+Entradas Hall: 46
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1106] [0 0 0 0 0 0]
+[02] - Armadura(A)[1118] [0 0 0 0 0 0]
+[03] - Calça(A)[1130] [0 0 0 0 0 0]
+[04] - Luvas(A)[1142] [0 0 0 0 0 0]
+[05] - Botas(A)[1154] [0 0 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[14] - Aranha[2360] [254 255 1 20 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1147] [43 2 2 20 53 3]
+[01] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[02] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [117 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:00:00 : [Zero] - [Mensagem do servidor]: A batalha do acampamento avançado do reino foi iniciada.
+22:08:45 : [Zero] - [Mensagem do servidor]: Parabéns para TETEU pela criação do seu Celestial
+22:13:30 : [Zero] - Comando "/gm +item 1221 43 9 35 10"
+22:13:30 : [Zero] - [Mensagem do servidor]> Criou o item Armadura
+22:13:30 : [Zero] - Zero criou o item Armadura [1221] [43 9 35 10 0 0]
+22:13:37 : [Zero] - Item Armadura deletado [1221] [43 9 35 10 0 0]. Slot 3
+22:14:00 : [Zero] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+22:14:43 : [Zero] - Comando "/gm +reload itemlevel"
+22:14:43 : [Zero] - [Mensagem do servidor]> RELOAD LEVELITEM
+22:14:51 : [Zero] - Comando "/gm +reload itemlevel"
+22:14:51 : [Zero] - [Mensagem do servidor]> RELOAD LEVELITEM
+22:27:36 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1991316290
+Level atual: 29
+Experiência atual: 110910
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:00:14 horas
+Posição atual: 2201x 2085y
+
+Pontos NT: 0
+Entradas Hall: 46
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1106] [0 0 0 0 0 0]
+[02] - Armadura(A)[1118] [0 0 0 0 0 0]
+[03] - Calça(A)[1130] [0 0 0 0 0 0]
+[04] - Luvas(A)[1142] [0 0 0 0 0 0]
+[05] - Botas(A)[1154] [0 0 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[14] - Aranha[2360] [254 255 1 20 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1147] [43 2 2 20 53 3]
+[01] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[02] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [117 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:30:00 : [Zero] - [Mensagem do servidor]: A batalha de acampamento avançado do reino foi finalizada
+22:32:33 : [Zero] - [Mensagem do servidor]: Parabéns para Begins pela criação do seu Celestial
+22:32:44 : [Zero] - Comando "/gm +agua"
+22:32:44 : [Zero] - Teleportado para a posição 1972 1767
+22:32:52 : [Zero] - Comando "/gm +item 3182"
+22:32:52 : [Zero] - [Mensagem do servidor]> Criou o item Pergaminho_da_Água(A)LV1
+22:32:52 : [Zero] - Zero criou o item Pergaminho_da_Água(A)LV1 [3182] [0 0 0 0 0 0]
+22:32:54 : [Zero] - Item Pergaminho_da_Água(A)LV1 [3182] [0 0 0 0 0 0] utilizado em 1966x 1773y
+22:32:54 : [Zero] - Teleportado para a posição 1305 3552
+22:32:54 : [Zero] - Água 3182 - Grupo teleportado para a área. Entradas restantes: 1080
+22:32:55 : [Zero] - Comando "/day "
+22:32:55 : [Zero] - [Mensagem do servidor]> !#11 2
+22:34:18 : [Zero] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1305x 3552y. Teleportado para ""
+22:34:18 : [Zero] - Teleportado para a posição 1965 1770
+22:34:25 : [Zero] - Comando "/gm +armia"
+22:34:25 : [Zero] - Teleportado para a posição 2100 2100
+22:34:37 : [Zero] - Comando "/gm +set level 340"
+22:34:53 : [Zero] - Moveu item Lança [855] [60 20 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 6
+22:35:02 : [Zero] - Comprou uma skill Espada_Flamejante. Learn antigo: 563014525254588, Learn atual: 46152034935767040. Learn da skill: 1124.
+22:35:02 : [Zero] - [Mensagem do servidor]> Habilidade Espada_Flamejante aprendida com sucesso
+22:35:12 : [Zero] - Comando "/gm +item 3182"
+22:35:12 : [Zero] - [Mensagem do servidor]> Criou o item Pergaminho_da_Água(A)LV1
+22:35:12 : [Zero] - Zero criou o item Pergaminho_da_Água(A)LV1 [3182] [0 0 0 0 0 0]
+22:35:14 : [Zero] - Comando "/gm +agua"
+22:35:14 : [Zero] - Teleportado para a posição 1972 1767
+22:35:18 : [Zero] - Item Pergaminho_da_Água(A)LV2 [3183] [0 0 0 0 0 0] utilizado em 1967x 1774y
+22:35:18 : [Zero] - Teleportado para a posição 1305 3516
+22:35:18 : [Zero] - Água 3183 - Grupo teleportado para a área. Entradas restantes: 1079
+22:35:18 : [Zero] - Pontos CP subiu em 3. CP novo: 120
+22:35:18 : [Zero] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:35:18 : [Zero] - Level UP para level 341. Ev: 0/0 - 1305x 3516y
+22:35:21 : [Zero] - MSG_Attack, Skill Delay. SkillId: 17. Delay original: 3. Delay com reduções: 3. Tempo: 2240
+22:35:31 : [Zero] - MSG_Attack, Skill Delay. SkillId: 17. Delay original: 3. Delay com reduções: 3. Tempo: 2036
+22:35:39 : [Zero] - MSG_Attack, Skill Delay. SkillId: 17. Delay original: 3. Delay com reduções: 3. Tempo: 2011
+22:35:42 : [Zero] - MSG_Attack, Skill Delay. SkillId: 17. Delay original: 3. Delay com reduções: 3. Tempo: 1999
+22:35:47 : [Zero] - MSG_Attack, Skill Delay. SkillId: 17. Delay original: 3. Delay com reduções: 3. Tempo: 2007
+22:35:50 : [Zero] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+22:35:50 : [Zero] - 1 Personagem foi desconectado. Permaneceu 01:08:21 minutos online
+22:49:59 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+22:49:59 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+22:49:59 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+22:50:21 : Solicitou ir ao mundo...
+22:50:21 : Recebido pedido para entrar no jogo
+22:50:21 : Recebido informação do personagem completa.
+22:50:21 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1991316279
+Level atual: 341
+Experiência atual: 1448674779
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:22 horas
+Posição atual: 2090x 2102y
+
+Pontos NT: 0
+Entradas Hall: 46
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1106] [0 0 0 0 0 0]
+[02] - Armadura(A)[1118] [0 0 0 0 0 0]
+[03] - Calça(A)[1130] [0 0 0 0 0 0]
+[04] - Luvas(A)[1142] [0 0 0 0 0 0]
+[05] - Botas(A)[1154] [0 0 0 0 0 0]
+[06] - Lança[855] [60 20 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[14] - Aranha[2360] [254 255 1 20 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1147] [43 2 2 20 53 3]
+[01] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[02] - Pergaminho_da_Água(A)LV1[3182] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [120 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:50:21 : [Zero] - Personagem Zero enviado ao mundo 2090x 2102y - Canal 2 - Cash da conta: 19719. PowerLevel: 620
+22:50:21 : [Zero] - Gold atual: 1991316279. Classe: 0 Evolução: 0. Experiência: 1448674779. Nível: 341. Info: 0. GuildID: 0. CP: 45. Pontos de Contribuição: 0. Limite: 0
+22:50:21 : [Zero] - Logou no personagem Zero com frango ativo. Tempo: 196
+22:50:21 : [Zero] - Enviado informações do personagem
+22:50:22 : [Zero] - Comando "/day "
+22:50:22 : [Zero] - [Mensagem do servidor]> !#11 2
+22:50:31 : [Zero] - Moveu item Botas(A) [1154] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 5
+22:50:32 : [Zero] - Moveu item Botas(A) [1154] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 5
+22:50:38 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:52:40 : [Zero] - [Mensagem do servidor]: Jogador Joao1 obteve sucesso na composição de Arco_Divino(Anct)
+22:52:49 : [Zero] - Comando "/gm +item 825"
+22:52:49 : [Zero] - [Mensagem do servidor]> Criou o item Arco
+22:52:49 : [Zero] - Zero criou o item Arco [825] [0 0 0 0 0 0]
+22:53:42 : [Zero] - [Mensagem do servidor]: Joao1 falhou na composição do item Arco para Ancient
+22:56:19 : [Zero] - Comando "/gm +item 826"
+22:56:19 : [Zero] - [Mensagem do servidor]> Criou o item Arco
+22:56:19 : [Zero] - Zero criou o item Arco [826] [0 0 0 0 0 0]
+22:56:54 : [Zero] - [Mensagem do servidor]: Jogador Joao1 obteve sucesso na composição de Arco_Divino(Anct)
+22:57:15 : [Zero] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:57:15 : [Zero] - 2 Personagem foi desconectado. Permaneceu 00:07:10 minutos online
+23:03:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+23:03:37 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+23:03:37 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+23:03:41 : Solicitou ir ao mundo...
+23:03:41 : Recebido pedido para entrar no jogo
+23:03:41 : Recebido informação do personagem completa.
+23:03:41 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1991316279
+Level atual: 341
+Experiência atual: 1448674779
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2086x 2096y
+
+Pontos NT: 0
+Entradas Hall: 46
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1106] [0 0 0 0 0 0]
+[02] - Armadura(A)[1118] [0 0 0 0 0 0]
+[03] - Calça(A)[1130] [0 0 0 0 0 0]
+[04] - Luvas(A)[1142] [0 0 0 0 0 0]
+[05] - Botas(A)[1154] [0 0 0 0 0 0]
+[06] - Lança[855] [60 20 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[14] - Aranha[2360] [254 255 1 20 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1147] [43 2 2 20 53 3]
+[01] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[02] - Pergaminho_da_Água(A)LV1[3182] [0 0 0 0 0 0]
+[03] - Arco[825] [0 0 0 0 0 0]
+[04] - Arco[826] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [120 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:03:41 : [Zero] - Personagem Zero enviado ao mundo 2086x 2096y - Canal 2 - Cash da conta: 19719. PowerLevel: 620
+23:03:41 : [Zero] - Gold atual: 1991316279. Classe: 0 Evolução: 0. Experiência: 1448674779. Nível: 341. Info: 0. GuildID: 0. CP: 45. Pontos de Contribuição: 0. Limite: 0
+23:03:41 : [Zero] - Logou no personagem Zero com frango ativo. Tempo: 145
+23:03:41 : [Zero] - Enviado informações do personagem
+23:03:42 : [Zero] - Comando "/day "
+23:03:42 : [Zero] - [Mensagem do servidor]> !#11 2
+23:03:50 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:05:01 : [Zero] - Comando "/gm +item 767"
+23:05:01 : [Zero] - [Mensagem do servidor]> Criou o item Mercúrio
+23:05:01 : [Zero] - Zero criou o item Mercúrio [767] [0 0 0 0 0 0]
+23:05:03 : [Zero] - Item Mercúrio deletado [767] [0 0 0 0 0 0]. Slot 5
+23:05:18 : [Zero] - Comando "/gm +item 643 43 9"
+23:05:18 : [Zero] - [Mensagem do servidor]> Criou o item Colar_da_Força
+23:05:18 : [Zero] - Zero criou o item Colar_da_Força [643] [43 9 0 0 0 0]
+23:05:22 : [Zero] - Comando "/gm +item 413 61 240"
+23:05:22 : [Zero] - [Mensagem do servidor]> Criou o item Poeira_de_Lactolerium
+23:05:22 : [Zero] - Zero criou o item Poeira_de_Lactolerium [413] [61 240 0 0 0 0]
+23:05:23 : [Zero] - Moveu item Poeira_de_Lactolerium [413] [61 240 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo INVENTÁRIO slot 5
+23:05:25 : [Zero] - Moveu item Colar_da_Força [643] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 8
+23:05:26 : [Zero] - Item Poeira_de_Lactolerium [413] [61 240 0 0 0 0] utilizado em 0x 0y
+23:05:26 : [Zero] - [Mensagem do servidor]> Impossível refinar mais este item.
+23:06:27 : [Zero] - Comando "/gm +item 764"
+23:06:27 : [Zero] - [Mensagem do servidor]> Criou o item Venus
+23:06:27 : [Zero] - Zero criou o item Venus [764] [0 0 0 0 0 0]
+23:06:30 : [Zero] - Moveu item Venus [764] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 11
+23:06:32 : [Zero] - Item Poeira_de_Lactolerium [413] [61 240 0 0 0 0] utilizado em 0x 0y
+23:06:32 : [Zero] - [Mensagem do servidor]> Refinação sucedida.
+23:06:32 : [Zero] - Item Venus refinado com sucesso para 1 - [764] [0 0 0 0 0 0] 10/100
+23:13:56 : [Zero] - Comando "/nig "
+23:13:56 : [Zero] - [Mensagem do servidor]> !!231356
+23:13:59 : [Zero] - [Mensagem do servidor]> Compra concluída!
+23:14:03 : [Zero] - [Mensagem do servidor]> Compra concluída!
+23:14:05 : [Zero] - Item Pesadelo_(M/Grupo) [3325] [0 0 0 0 0 0] utilizado em 2106x 2102y
+23:14:05 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:06 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2106x 2102y
+23:14:06 : [Zero] - [Mensagem do servidor]> Somente na cidade de Erion
+23:14:17 : [Zero] - Teleportado para a posição 2458 2017
+23:14:18 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2458x 2017y
+23:14:18 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:20 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:20 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:21 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:21 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:21 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:21 : [Zero] - O usuário usou itens muito rapidamente. Tempo para usar o item: 152. Item: Pesadelo_(N/Grupo)
+23:14:21 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:22 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:22 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:22 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:22 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:22 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:22 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:23 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:23 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:23 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:23 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:23 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:23 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:24 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:24 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:26 : [Zero] - Item Pesadelo_(M/Grupo) [3325] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:26 : [Zero] - [Mensagem do servidor]> Somente na cidade de Armia
+23:14:27 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:27 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:27 : [Zero] - Item Pesadelo_(M/Grupo) [3325] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:27 : [Zero] - [Mensagem do servidor]> Somente na cidade de Armia
+23:14:27 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:27 : [Zero] - O usuário usou itens muito rapidamente. Tempo para usar o item: 150. Item: Pesadelo_(N/Grupo)
+23:14:27 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:28 : [Zero] - Item Pesadelo_(M/Grupo) [3325] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:28 : [Zero] - [Mensagem do servidor]> Somente na cidade de Armia
+23:14:28 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:28 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:29 : [Zero] - Item Pesadelo_(M/Grupo) [3325] [0 0 0 0 0 0] utilizado em 2459x 2012y
+23:14:29 : [Zero] - [Mensagem do servidor]> Somente na cidade de Armia
+23:14:41 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:41 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:42 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:42 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:42 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:42 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:43 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:43 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:43 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:43 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:44 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:44 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:44 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:44 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:45 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:45 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:46 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:46 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:47 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:47 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:47 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:47 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:48 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:48 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:48 : [Zero] - Item Pesadelo_(M/Grupo) [3325] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:48 : [Zero] - [Mensagem do servidor]> Somente na cidade de Armia
+23:14:48 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:48 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:49 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:49 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:50 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:50 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:51 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:51 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:14:51 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:14:51 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:15:08 : [Zero] - Comando "/nig "
+23:15:08 : [Zero] - [Mensagem do servidor]> !!231508
+23:15:08 : [Zero] - Comando "/nig "
+23:15:08 : [Zero] - [Mensagem do servidor]> !!231508
+23:15:08 : [Zero] - Comando "/nig "
+23:15:08 : [Zero] - [Mensagem do servidor]> !!231508
+23:15:08 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:15:08 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:15:12 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:15:12 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:15:38 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:15:38 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:16:50 : [Zero] - Comando "/nig "
+23:16:50 : [Zero] - [Mensagem do servidor]> !!231650
+23:16:50 : [Zero] - Comando "/nig "
+23:16:50 : [Zero] - [Mensagem do servidor]> !!231650
+23:16:50 : [Zero] - Comando "/nig "
+23:16:50 : [Zero] - [Mensagem do servidor]> !!231650
+23:16:50 : [Zero] - Comando "/nig "
+23:16:50 : [Zero] - [Mensagem do servidor]> !!231650
+23:16:50 : [Zero] - Comando "/nig "
+23:16:50 : [Zero] - [Mensagem do servidor]> !!231650
+23:16:50 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:16:50 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:17:26 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2002y
+23:17:26 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:19:34 : [Zero] - Teleportado para a posição 960 1761
+23:19:53 : [Zero] - Clicado no NPC [Comb. Judith]. Face 11. Race: 2. GenerateId: 3914. Posição do usuário: 958x 1685y. Posição do NPC: 957x 1682y
+23:19:53 : [Zero] - Clicado no NPC de Imposto
+23:20:48 : [Zero] - Teleportado para a posição 2482 1717
+23:21:44 : [Zero] - Comando "/gm +gelo"
+23:21:44 : [Zero] - Teleportado para a posição 3648 3117
+23:21:50 : [Zero] - [Mensagem do servidor]: Begins falhou na composição do item Arco para Ancient
+23:22:41 : [Zero] - Removido o Hp do mob Troll de Gelo. HP removido: 505. HP Atual: 16495
+23:22:42 : [Zero] - Removido o Hp do mob Troll de Gelo. HP removido: 505. HP Atual: 15990
+23:22:43 : [Zero] - Removido o Hp do mob Troll de Gelo. HP removido: 505. HP Atual: 15485
+23:22:44 : [Zero] - Removido o Hp do mob Troll de Gelo. HP removido: 505. HP Atual: 14980
+23:22:44 : [Zero] - Comando "/nig "
+23:22:44 : [Zero] - [Mensagem do servidor]> !!232244
+23:22:44 : [Zero] - Comando "/nig "
+23:22:44 : [Zero] - [Mensagem do servidor]> !!232244
+23:22:44 : [Zero] - Comando "/nig "
+23:22:44 : [Zero] - [Mensagem do servidor]> !!232244
+23:22:44 : [Zero] - Comando "/nig "
+23:22:44 : [Zero] - [Mensagem do servidor]> !!232244
+23:22:44 : [Zero] - Comando "/nig "
+23:22:44 : [Zero] - [Mensagem do servidor]> !!232244
+23:22:44 : [Zero] - Comando "/nig "
+23:22:44 : [Zero] - [Mensagem do servidor]> !!232244
+23:22:44 : [Zero] - Comando "/nig "
+23:22:44 : [Zero] - [Mensagem do servidor]> !!232244
+23:22:44 : [Zero] - Comando "/nig "
+23:22:44 : [Zero] - [Mensagem do servidor]> !!232244
+23:22:44 : [Zero] - Comando "/nig "
+23:22:44 : [Zero] - [Mensagem do servidor]> !!232244
+23:22:44 : [Zero] - Comando "/nig "
+23:22:44 : [Zero] - [Mensagem do servidor]> !!232244
+23:22:44 : [Zero] - Comando "/nig "
+23:22:44 : [Zero] - [Mensagem do servidor]> !!232244
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Comando "/nig "
+23:22:45 : [Zero] - [Mensagem do servidor]> !!232245
+23:22:45 : [Zero] - Removido o Hp do mob Troll de Gelo. HP removido: 506. HP Atual: 14474
+23:22:46 : [Zero] - Removido o Hp do mob Troll de Gelo. HP removido: 505. HP Atual: 13969
+23:22:47 : [Zero] - Removido o Hp do mob Troll de Gelo. HP removido: 505. HP Atual: 13464
+23:22:48 : [Zero] - Comando "/gm +erion"
+23:22:48 : [Zero] - Teleportado para a posição 2460 2009
+23:22:50 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2460x 2009y
+23:22:50 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:22:52 : [Zero] - Item Pesadelo_(M/Grupo) [3325] [0 0 0 0 0 0] utilizado em 2462x 2005y
+23:22:52 : [Zero] - [Mensagem do servidor]> Somente na cidade de Armia
+23:22:53 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2005y
+23:22:53 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:22:53 : [Zero] - Item Pesadelo_(M/Grupo) [3325] [0 0 0 0 0 0] utilizado em 2462x 2005y
+23:22:53 : [Zero] - [Mensagem do servidor]> Somente na cidade de Armia
+23:22:54 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2005y
+23:22:54 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:23:35 : [Zero] - Comando "/srv 1"
+23:23:35 : [Zero] - Solicitou trocar para o servidor 1
+23:23:35 : [Zero] - 1 Personagem foi desconectado. Permaneceu 00:19:41 minutos online
+23:23:35 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 10
+23:23:35 : Usuário logou no jogo com clientId 10. - Servidor 1. Gold do banco: 0
+23:23:35 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+23:23:35 : Recebido informação do personagem completa.
+23:23:35 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1991311879
+Level atual: 341
+Experiência atual: 1448674779
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:00 horas
+Posição atual: 2466x 2004y
+
+Pontos NT: 0
+Entradas Hall: 46
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1106] [0 0 0 0 0 0]
+[02] - Armadura(A)[1118] [0 0 0 0 0 0]
+[03] - Calça(A)[1130] [0 0 0 0 0 0]
+[04] - Luvas(A)[1142] [0 0 0 0 0 0]
+[05] - Botas(A)[1154] [0 0 0 0 0 0]
+[06] - Lança[855] [60 20 0 0 0 0]
+[08] - Colar_da_Força[643] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[11] - Venus[764] [43 1 0 0 0 0]
+[14] - Aranha[2360] [254 255 1 20 0 0]
+[15] - Manto_Akelonia[546] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1147] [43 2 2 20 53 3]
+[01] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[02] - Pergaminho_da_Água(A)LV1[3182] [0 0 0 0 0 0]
+[03] - Arco[825] [0 0 0 0 0 0]
+[04] - Arco[826] [0 0 0 0 0 0]
+[05] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[06] - Pesadelo_(N/Grupo)[3324] [0 0 0 0 0 0]
+[07] - Pesadelo_(M/Grupo)[3325] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [120 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:23:36 : [Zero] - Personagem Zero enviado ao mundo 2466x 2004y - Canal 1 - Cash da conta: 19499. PowerLevel: 870
+23:23:36 : [Zero] - Gold atual: 1991311879. Classe: 0 Evolução: 0. Experiência: 1448674779. Nível: 341. Info: 0. GuildID: 0. CP: 45. Pontos de Contribuição: 0. Limite: 0
+23:23:37 : [Zero] - Comando "/day "
+23:23:37 : [Zero] - [Mensagem do servidor]> !#11 2
+23:23:39 : [Zero] - Comando "/nig "
+23:23:39 : [Zero] - [Mensagem do servidor]> !!232339
+23:23:39 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2466x 2004y
+23:23:39 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:23:41 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2466x 2004y
+23:23:41 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:23:41 : [Zero] - Item Pesadelo_(M/Grupo) [3325] [0 0 0 0 0 0] utilizado em 2466x 2004y
+23:23:41 : [Zero] - [Mensagem do servidor]> Somente na cidade de Armia
+23:23:42 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2466x 2004y
+23:23:42 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:23:42 : [Zero] - Item Pesadelo_(M/Grupo) [3325] [0 0 0 0 0 0] utilizado em 2466x 2004y
+23:23:42 : [Zero] - [Mensagem do servidor]> Somente na cidade de Armia
+23:23:42 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2466x 2004y
+23:23:42 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:23:43 : [Zero] - Item Pesadelo_(M/Grupo) [3325] [0 0 0 0 0 0] utilizado em 2466x 2004y
+23:23:43 : [Zero] - [Mensagem do servidor]> Somente na cidade de Armia
+23:23:43 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2466x 2004y
+23:23:43 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:23:43 : [Zero] - Item Pesadelo_(M/Grupo) [3325] [0 0 0 0 0 0] utilizado em 2466x 2004y
+23:23:43 : [Zero] - [Mensagem do servidor]> Somente na cidade de Armia
+23:23:43 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2466x 2004y
+23:23:43 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:23:44 : [Zero] - Item Pesadelo_(M/Grupo) [3325] [0 0 0 0 0 0] utilizado em 2466x 2004y
+23:23:44 : [Zero] - [Mensagem do servidor]> Somente na cidade de Armia
+23:23:47 : [Zero] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2464x 2003y
+23:23:47 : [Zero] - [Mensagem do servidor]> Entrada não permitida
+23:23:47 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:24:57 : [Zero] - Comando "/gm +armia"
+23:24:57 : [Zero] - Teleportado para a posição 2100 2100
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:00 : [Zero] - Comando "/nig "
+23:25:00 : [Zero] - [Mensagem do servidor]> !!232500
+23:25:01 : [Zero] - Item Pesadelo_(M/Grupo) [3325] [0 0 0 0 0 0] utilizado em 2100x 2100y
+23:25:01 : [Zero] - Teleportado para a posição 1210 180
+23:25:01 : [Zero] - Pesadelo M - Slot: 0 - Name: Zero
+23:25:01 : [Zero] - Pesadelo M - Grupo de Zero
+23:25:01 : [Zero] - Teleportado para a posição 1116 328
+23:25:55 : [Zero] - [Mensagem do servidor]: Begins falhou na composição do item Arco para Ancient
+23:26:03 : [Zero] - [Mensagem do servidor]: Begins falhou na composição do item Arco para Ancient
+23:27:34 : [Zero] - [Mensagem do servidor]: Begins falhou na composição do item Arco para Ancient
+23:27:44 : [Zero] - [Mensagem do servidor]: Begins falhou na composição do item Arco para Ancient
+23:29:03 : [Zero] - [Mensagem do servidor]: Jogador Begins obteve sucesso na composição de Skytalos(Anct)
+23:30:20 : [Zero] - [Mensagem do servidor]: Begins falhou na composição do item Arco para Ancient
+23:30:47 : [Zero] - [Mensagem do servidor]: Parabéns para Shaaari pela criação do seu Celestial
+23:32:06 : [Zero] - [Mensagem do servidor]: HETERO-TOP falhou na composição do item Arco para Ancient
+23:32:35 : [Zero] - Comando "/gm +armia"
+23:32:35 : [Zero] - Teleportado para a posição 2100 2100
+23:32:53 : [Zero] - Comando "/time "
+23:32:53 : [Zero] - [Mensagem do servidor]> [Zero] - 23:32:53 21-01-2021 2112x 2102y - Canal 1
+23:32:56 : [Zero] - Teleportado para a posição 960 1761
+23:32:59 : [Zero] - Teleportado para a posição 1701 1725
+23:33:07 : [Zero] - Comando "/gm +item 4127"
+23:33:07 : [Zero] - [Mensagem do servidor]> Criou o item Pergaminho_Selado
+23:33:07 : [Zero] - Zero criou o item Pergaminho_Selado [4127] [0 0 0 0 0 0]
+23:33:08 : [Zero] - Comando "/gm +item 4127"
+23:33:08 : [Zero] - [Mensagem do servidor]> Criou o item Pergaminho_Selado
+23:33:08 : [Zero] - Zero criou o item Pergaminho_Selado [4127] [0 0 0 0 0 0]
+23:33:11 : [Zero] - Comando "/gm +item 413 61 4"
+23:33:11 : [Zero] - [Mensagem do servidor]> Criou o item Poeira_de_Lactolerium
+23:33:11 : [Zero] - Zero criou o item Poeira_de_Lactolerium [413] [61 4 0 0 0 0]
+23:33:13 : [Zero] - Comando "/gm +item 413 61 4"
+23:33:13 : [Zero] - [Mensagem do servidor]> Criou o item Poeira_de_Lactolerium
+23:33:13 : [Zero] - Zero criou o item Poeira_de_Lactolerium [413] [61 4 0 0 0 0]
+23:33:14 : [Zero] - Comando "/gm +item 4127"
+23:33:14 : [Zero] - [Mensagem do servidor]> Criou o item Pergaminho_Selado
+23:33:14 : [Zero] - Zero criou o item Pergaminho_Selado [4127] [0 0 0 0 0 0]
+23:33:14 : [Zero] - Comando "/gm +item 4127"
+23:33:14 : [Zero] - [Mensagem do servidor]> Criou o item Pergaminho_Selado
+23:33:14 : [Zero] - Zero criou o item Pergaminho_Selado [4127] [0 0 0 0 0 0]
+23:33:19 : [Zero] - Comando "/gm +item 4148"
+23:33:19 : [Zero] - [Mensagem do servidor]> Criou o item Pedra_Misteriosa
+23:33:19 : [Zero] - Zero criou o item Pedra_Misteriosa [4148] [0 0 0 0 0 0]
+23:33:21 : [Zero] - Item Pedra_Misteriosa deletado [4148] [0 0 0 0 0 0]. Slot 13
+23:33:33 : [Zero] - [Mensagem do servidor]: Begins falhou na composição do item Arco para Ancient
+23:33:41 : [Zero] - [Mensagem do servidor]: tkkeinzy2 falhou na composição do item Lança para Ancient
+23:33:45 : [Zero] - [Mensagem do servidor]: Begins falhou na composição do item Arco para Ancient
+23:34:01 : [Zero] - Comando "/gm +set 0 9 1 0"
+23:34:03 : [Zero] - Comando "/nig "
+23:34:03 : [Zero] - [Mensagem do servidor]> !!233403
+23:34:03 : [Zero] - Comando "/nig "
+23:34:03 : [Zero] - [Mensagem do servidor]> !!233403
+23:34:03 : [Zero] - Comando "/nig "
+23:34:03 : [Zero] - [Mensagem do servidor]> !!233403
+23:34:03 : [Zero] - Comando "/nig "
+23:34:03 : [Zero] - [Mensagem do servidor]> !!233403
+23:34:03 : [Zero] - Comando "/nig "
+23:34:03 : [Zero] - [Mensagem do servidor]> !!233403
+23:34:03 : [Zero] - Comando "/nig "
+23:34:03 : [Zero] - [Mensagem do servidor]> !!233403
+23:34:03 : [Zero] - Comando "/nig "
+23:34:03 : [Zero] - [Mensagem do servidor]> !!233403
+23:34:03 : [Zero] - Comando "/nig "
+23:34:03 : [Zero] - [Mensagem do servidor]> !!233403
+23:34:03 : [Zero] - Comando "/nig "
+23:34:03 : [Zero] - [Mensagem do servidor]> !!233403
+23:34:03 : [Zero] - Comando "/nig "
+23:34:03 : [Zero] - [Mensagem do servidor]> !!233403
+23:34:03 : [Zero] - Comando "/nig "
+23:34:03 : [Zero] - [Mensagem do servidor]> !!233403
+23:34:04 : [Zero] - Clicado no NPC [Lindy]. Face 67. Race: 2. GenerateId: 3429. Posição do usuário: 1702x 1727y. Posição do NPC: 1704x 1725y
+23:34:10 : [Zero] - Comando "/gm +set level 355"
+23:34:10 : [Zero] - Clicado no NPC [Lindy]. Face 67. Race: 2. GenerateId: 3429. Posição do usuário: 1702x 1727y. Posição do NPC: 1704x 1725y
+23:34:17 : [Zero] - Item Poeira_de_Lactolerium deletado [413] [61 4 0 0 0 0]. Slot 10
+23:34:17 : [Zero] - Item Poeira_de_Lactolerium deletado [413] [61 4 0 0 0 0]. Slot 9
+23:34:19 : [Zero] - Desagrupando o item [413] [61 238 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 9
+23:34:20 : [Zero] - Desagrupando o item [413] [61 237 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 10
+23:34:21 : [Zero] - Desagrupando o item [413] [61 236 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 13
+23:34:22 : [Zero] - Desagrupando o item [413] [61 235 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 14
+23:34:23 : [Zero] - Clicado no NPC [Lindy]. Face 67. Race: 2. GenerateId: 3429. Posição do usuário: 1702x 1727y. Posição do NPC: 1704x 1725y
+23:34:26 : [Zero] - Lindy - 0 - Pergaminho_Selado [4127] [0 0 0 0 0 0] - 7
+23:34:26 : [Zero] - Lindy - 1 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 9
+23:34:26 : [Zero] - Lindy - 2 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 10
+23:34:26 : [Zero] - Lindy - 3 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 13
+23:34:26 : [Zero] - Lindy - 4 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 14
+23:34:26 : [Zero] - [Mensagem do servidor]> Composição incorreta
+23:34:32 : [Zero] - Comando "/gm +set level 355"
+23:34:33 : [Zero] - Clicado no NPC [Lindy]. Face 67. Race: 2. GenerateId: 3429. Posição do usuário: 1702x 1727y. Posição do NPC: 1704x 1725y
+23:34:35 : [Zero] - Comando "/gm +set level 354"
+23:34:38 : [Zero] - Lindy - 0 - Pergaminho_Selado [4127] [0 0 0 0 0 0] - 7
+23:34:38 : [Zero] - Lindy - 1 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 9
+23:34:38 : [Zero] - Lindy - 2 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 10
+23:34:38 : [Zero] - Lindy - 3 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 13
+23:34:38 : [Zero] - Lindy - 4 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 14
+23:34:38 : [Zero] - Alterado a capa para 3192
+23:34:38 : [Zero] - [Mensagem do servidor]> Composição concluída!
+23:34:38 : [Zero] - Composição de desbloqueio 355 efetuada com SUCESSO 0- 20/90
+23:34:41 : [Zero] - Comando "/gm +set level 369"
+23:34:42 : [Zero] - [Mensagem do servidor]: Jogador tkkeinzy2 obteve sucesso na composição de Lança_do_Triunfo(Anct)
+23:34:48 : [Zero] - Comando "/gm +item 4146"
+23:34:48 : [Zero] - [Mensagem do servidor]> Criou o item Selo_do_Guerreiro
+23:34:48 : [Zero] - Zero criou o item Selo_do_Guerreiro [4146] [0 0 0 0 0 0]
+23:34:49 : [Zero] - Item Selo_do_Guerreiro [4146] [0 0 0 0 0 0] utilizado em 1702x 1727y
+23:34:49 : [Zero] - Clicado no NPC [Lindy]. Face 67. Race: 2. GenerateId: 3429. Posição do usuário: 1702x 1727y. Posição do NPC: 1704x 1725y
+23:34:53 : [Zero] - Desagrupando o item [413] [61 234 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 7
+23:34:54 : [Zero] - Desagrupando o item [413] [61 233 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 9
+23:34:55 : [Zero] - Desagrupando o item [413] [61 232 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 10
+23:34:56 : [Zero] - Desagrupando o item [413] [61 231 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 13
+23:35:00 : [Zero] - Clicado no NPC [Lindy]. Face 67. Race: 2. GenerateId: 3429. Posição do usuário: 1702x 1727y. Posição do NPC: 1704x 1725y
+23:35:02 : [Zero] - Lindy - 0 - Pergaminho_Selado [4127] [0 0 0 0 0 0] - 8
+23:35:02 : [Zero] - Lindy - 1 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 7
+23:35:02 : [Zero] - Lindy - 2 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 9
+23:35:02 : [Zero] - Lindy - 3 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 10
+23:35:02 : [Zero] - Lindy - 4 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 13
+23:35:02 : [Zero] - [Mensagem do servidor]> Houve uma falha na composição do item.
+23:35:02 : [Zero] - Composição de desbloqueio 355 efetuada com FALHA - 94/90
+23:35:06 : [Zero] - [Mensagem do servidor]: Begins falhou na composição do item Arco para Ancient
+23:35:07 : [Zero] - Desagrupando o item [413] [61 230 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 7
+23:35:08 : [Zero] - Desagrupando o item [413] [61 229 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 8
+23:35:09 : [Zero] - Desagrupando o item [413] [61 228 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 9
+23:35:10 : [Zero] - Desagrupando o item [413] [61 227 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 10
+23:35:11 : [Zero] - Clicado no NPC [Lindy]. Face 67. Race: 2. GenerateId: 3429. Posição do usuário: 1702x 1727y. Posição do NPC: 1704x 1725y
+23:35:14 : [Zero] - Lindy - 0 - Pergaminho_Selado [4127] [0 0 0 0 0 0] - 11
+23:35:14 : [Zero] - Lindy - 1 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 7
+23:35:14 : [Zero] - Lindy - 2 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 8
+23:35:14 : [Zero] - Lindy - 3 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 9
+23:35:14 : [Zero] - Lindy - 4 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 10
+23:35:14 : [Zero] - Adicionado adicional de resistência na capa
+23:35:14 : [Zero] - [Mensagem do servidor]> Composição concluída!
+23:35:14 : [Zero] - Composição de desbloqueio 355 efetuada com SUCESSO 0- 31/90
+23:35:19 : [Zero] - Comando "/gm +set level 399"
+23:35:27 : [Zero] - Comando "/gm +set int 3000"
+23:35:36 : [Zero] - Comando "/gm +set str 0"
+23:35:41 : [Zero] - Comando "/gm +set int 3300"
+23:35:47 : [Zero] - Comando "/gm +set int 3356"
+23:35:51 : [Zero] - Comando "/gm +set int 3353"
+23:35:53 : [Zero] - Comando "/gm +set int 3352"
+23:36:12 : [Zero] - Comando "/gm +item 4106"
+23:36:12 : [Zero] - [Mensagem do servidor]> Criou o item Cristal_Elime
+23:36:12 : [Zero] - Zero criou o item Cristal_Elime [4106] [0 0 0 0 0 0]
+23:36:17 : [Zero] - Comando "/gm +item 4107"
+23:36:17 : [Zero] - [Mensagem do servidor]> Criou o item Cristal_Sylphed
+23:36:17 : [Zero] - Zero criou o item Cristal_Sylphed [4107] [0 0 0 0 0 0]
+23:36:17 : [Zero] - Comando "/gm +item 4108"
+23:36:17 : [Zero] - [Mensagem do servidor]> Criou o item Cristal_Thelion
+23:36:17 : [Zero] - Zero criou o item Cristal_Thelion [4108] [0 0 0 0 0 0]
+23:36:18 : [Zero] - Comando "/gm +item 4109"
+23:36:18 : [Zero] - [Mensagem do servidor]> Criou o item Cristal_Noas
+23:36:18 : [Zero] - Zero criou o item Cristal_Noas [4109] [0 0 0 0 0 0]
+23:36:28 : [Zero] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+23:36:28 : [Zero] - 10 Personagem foi desconectado. Permaneceu 00:12:42 minutos online
+23:36:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 3
+23:36:37 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+23:36:37 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+23:36:37 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:36:47 : Solicitou ir ao mundo...
+23:36:47 : Recebido pedido para entrar no jogo
+23:36:47 : Recebido informação do personagem completa.
+23:36:47 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1990310879
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2094x 2098y
+
+Pontos NT: 0
+Entradas Hall: 46
+Info: 103079215104
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[9] [43 0 0 0 0 0]
+[01] - Elmo(A)[1106] [0 0 0 0 0 0]
+[02] - Armadura(A)[1118] [0 0 0 0 0 0]
+[03] - Calça(A)[1130] [0 0 0 0 0 0]
+[04] - Luvas(A)[1142] [0 0 0 0 0 0]
+[05] - Botas(A)[1154] [0 0 0 0 0 0]
+[06] - Lança[855] [60 20 0 0 0 0]
+[08] - Colar_da_Força[643] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[11] - Venus[764] [43 1 0 0 0 0]
+[14] - Aranha[2360] [254 255 1 20 0 0]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1147] [43 2 2 20 53 3]
+[01] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[02] - Pergaminho_da_Água(A)LV1[3182] [0 0 0 0 0 0]
+[03] - Arco[825] [0 0 0 0 0 0]
+[04] - Arco[826] [0 0 0 0 0 0]
+[05] - Poeira_de_Lactolerium[413] [61 227 0 0 0 0]
+[06] - Pesadelo_(N/Grupo)[3324] [0 0 0 0 0 0]
+[07] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[08] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[09] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[10] - Cristal_Noas[4109] [0 0 0 0 0 0]
+[12] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [120 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:36:47 : [Zero] - Personagem Zero enviado ao mundo 2094x 2098y - Canal 2 - Cash da conta: 19499. PowerLevel: 908
+23:36:47 : [Zero] - Gold atual: 1990310879. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 103079215104. GuildID: 0. CP: 45. Pontos de Contribuição: 0. Limite: 0
+23:36:47 : [Zero] - Enviado informações do personagem
+23:36:48 : [Zero] - Comando "/day "
+23:36:48 : [Zero] - [Mensagem do servidor]> !#11 2
+23:37:03 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:37:17 : [Zero] - [Mensagem do servidor]: Jogador Begins obteve sucesso na composição de Skytalos(Anct)
+23:37:37 : [Zero] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+23:37:37 : [Zero] - 3 Personagem foi desconectado. Permaneceu 00:01:00 minutos online
+23:38:54 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 3
+23:38:54 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+23:38:54 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+23:39:14 : Solicitou ir ao mundo...
+23:39:14 : Recebido pedido para entrar no jogo
+23:39:14 : Recebido informação do personagem completa.
+23:39:14 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1990310879
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:20 horas
+Posição atual: 2091x 2096y
+
+Pontos NT: 0
+Entradas Hall: 46
+Info: 103079215104
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[9] [43 0 0 0 0 0]
+[01] - Elmo(A)[1106] [0 0 0 0 0 0]
+[02] - Armadura(A)[1118] [0 0 0 0 0 0]
+[03] - Calça(A)[1130] [0 0 0 0 0 0]
+[04] - Luvas(A)[1142] [0 0 0 0 0 0]
+[05] - Botas(A)[1154] [0 0 0 0 0 0]
+[06] - Lança[855] [60 20 0 0 0 0]
+[08] - Colar_da_Força[643] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[11] - Venus[764] [43 1 0 0 0 0]
+[14] - Aranha[2360] [254 255 1 20 0 0]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1147] [43 2 2 20 53 3]
+[01] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[02] - Pergaminho_da_Água(A)LV1[3182] [0 0 0 0 0 0]
+[03] - Arco[825] [0 0 0 0 0 0]
+[04] - Arco[826] [0 0 0 0 0 0]
+[05] - Poeira_de_Lactolerium[413] [61 227 0 0 0 0]
+[06] - Pesadelo_(N/Grupo)[3324] [0 0 0 0 0 0]
+[07] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[08] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[09] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[10] - Cristal_Noas[4109] [0 0 0 0 0 0]
+[12] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [120 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:39:14 : [Zero] - Personagem Zero enviado ao mundo 2091x 2096y - Canal 2 - Cash da conta: 19499. PowerLevel: 908
+23:39:14 : [Zero] - Gold atual: 1990310879. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 103079215104. GuildID: 0. CP: 45. Pontos de Contribuição: 0. Limite: 0
+23:39:14 : [Zero] - Enviado informações do personagem
+23:39:15 : [Zero] - Comando "/day "
+23:39:15 : [Zero] - [Mensagem do servidor]> !#11 2
+23:39:27 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:42:41 : [Zero] - Comando "/gm +set hp 100000"
+23:42:41 : [Zero] - [Mensagem do servidor]> Mob não encontado
+23:45:09 : [Zero] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+23:45:09 : [Zero] - 3 Personagem foi desconectado. Permaneceu 00:06:10 minutos online
+23:51:44 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 3
+23:51:44 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+23:51:44 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+23:51:44 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:51:51 : Solicitou ir ao mundo...
+23:51:51 : Recebido pedido para entrar no jogo
+23:51:51 : Recebido informação do personagem completa.
+23:51:51 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1990310879
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2089x 2100y
+
+Pontos NT: 0
+Entradas Hall: 46
+Info: 103079215104
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[9] [43 0 0 0 0 0]
+[01] - Elmo(A)[1106] [0 0 0 0 0 0]
+[02] - Armadura(A)[1118] [0 0 0 0 0 0]
+[03] - Calça(A)[1130] [0 0 0 0 0 0]
+[04] - Luvas(A)[1142] [0 0 0 0 0 0]
+[05] - Botas(A)[1154] [0 0 0 0 0 0]
+[06] - Lança[855] [60 20 0 0 0 0]
+[08] - Colar_da_Força[643] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[11] - Venus[764] [43 1 0 0 0 0]
+[14] - Aranha[2360] [254 255 1 20 0 0]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1147] [43 2 2 20 53 3]
+[01] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[02] - Pergaminho_da_Água(A)LV1[3182] [0 0 0 0 0 0]
+[03] - Arco[825] [0 0 0 0 0 0]
+[04] - Arco[826] [0 0 0 0 0 0]
+[05] - Poeira_de_Lactolerium[413] [61 227 0 0 0 0]
+[06] - Pesadelo_(N/Grupo)[3324] [0 0 0 0 0 0]
+[07] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[08] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[09] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[10] - Cristal_Noas[4109] [0 0 0 0 0 0]
+[12] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [120 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:51:51 : [Zero] - Personagem Zero enviado ao mundo 2089x 2100y - Canal 2 - Cash da conta: 19499. PowerLevel: 908
+23:51:51 : [Zero] - Gold atual: 1990310879. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 103079215104. GuildID: 0. CP: 45. Pontos de Contribuição: 0. Limite: 0
+23:51:51 : [Zero] - Enviado informações do personagem
+23:51:52 : [Zero] - Comando "/day "
+23:51:52 : [Zero] - [Mensagem do servidor]> !#11 2
+23:51:57 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:53:14 : [Zero] - Comando "/gm +set 0 9 0 0 0 1"
+23:53:24 : [Zero] - Item Cristal_Elime [4106] [0 0 0 0 0 0] utilizado em 2090x 2103y
+23:53:24 : [Zero] - [Mensagem do servidor]> Experiência insuficiente.
+23:53:35 : [Zero] - Comando "/gm +set level 399"
+23:53:38 : [Zero] - Comando "/gm +set level 398"
+23:54:17 : [Zero] - Comando "/nig "
+23:54:17 : [Zero] - [Mensagem do servidor]> !!235417
+23:54:19 : [Zero] - Item Cristal_Elime [4106] [0 0 0 0 0 0] utilizado em 2090x 2103y
+23:54:26 : [Zero] - Item Cristal_Sylphed [4107] [0 0 0 0 0 0] utilizado em 2090x 2103y
+23:54:30 : [Zero] - Item Cristal_Thelion [4108] [0 0 0 0 0 0] utilizado em 2090x 2103y
+23:54:34 : [Zero] - Item Cristal_Noas [4109] [0 0 0 0 0 0] utilizado em 2090x 2103y
+23:54:55 : [Zero] - Personagem deu personagem
+23:55:02 : Solicitou ir ao mundo...
+23:55:02 : Recebido pedido para entrar no jogo
+23:55:02 : Recebido informação do personagem completa.
+23:55:02 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1990310879
+Level atual: 392
+Experiência atual: 3600000000
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:03:15 horas
+Posição atual: 2097x 2094y
+
+Pontos NT: 0
+Entradas Hall: 46
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[9] [43 0 0 1 0 0]
+[01] - Elmo(A)[1106] [0 0 0 0 0 0]
+[02] - Armadura(A)[1118] [0 0 0 0 0 0]
+[03] - Calça(A)[1130] [0 0 0 0 0 0]
+[04] - Luvas(A)[1142] [0 0 0 0 0 0]
+[05] - Botas(A)[1154] [0 0 0 0 0 0]
+[06] - Lança[855] [60 20 0 0 0 0]
+[08] - Colar_da_Força[643] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[11] - Venus[764] [43 1 0 0 0 0]
+[14] - Aranha[2360] [254 255 1 20 0 0]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1147] [43 2 2 20 53 3]
+[01] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[02] - Pergaminho_da_Água(A)LV1[3182] [0 0 0 0 0 0]
+[03] - Arco[825] [0 0 0 0 0 0]
+[04] - Arco[826] [0 0 0 0 0 0]
+[05] - Poeira_de_Lactolerium[413] [61 227 0 0 0 0]
+[06] - Pesadelo_(N/Grupo)[3324] [0 0 0 0 0 0]
+[12] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [120 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:55:02 : [Zero] - Personagem Zero enviado ao mundo 2097x 2094y - Canal 2 - Cash da conta: 19499. PowerLevel: 1025
+23:55:02 : [Zero] - Gold atual: 1990310879. Classe: 0 Evolução: 1. Experiência: 3600000000. Nível: 392. Info: 103079215584. GuildID: 0. CP: 45. Pontos de Contribuição: 0. Limite: 0
+23:55:02 : [Zero] - Enviado informações do personagem
+23:55:03 : [Zero] - Comando "/day "
+23:55:03 : [Zero] - [Mensagem do servidor]> !#11 2
+23:55:09 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:56:09 : [Zero] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+23:56:09 : [Zero] - 3 Personagem foi desconectado. Permaneceu 00:04:21 minutos online
+23:56:44 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 3
+23:56:44 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+23:56:44 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+23:56:49 : Solicitou ir ao mundo...
+23:56:49 : Recebido pedido para entrar no jogo
+23:56:49 : Recebido informação do personagem completa.
+23:56:49 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1990310879
+Level atual: 392
+Experiência atual: 3600000000
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2089x 2096y
+
+Pontos NT: 0
+Entradas Hall: 46
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[9] [43 0 0 1 0 0]
+[01] - Elmo(A)[1106] [0 0 0 0 0 0]
+[02] - Armadura(A)[1118] [0 0 0 0 0 0]
+[03] - Calça(A)[1130] [0 0 0 0 0 0]
+[04] - Luvas(A)[1142] [0 0 0 0 0 0]
+[05] - Botas(A)[1154] [0 0 0 0 0 0]
+[06] - Lança[855] [60 20 0 0 0 0]
+[08] - Colar_da_Força[643] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[11] - Venus[764] [43 1 0 0 0 0]
+[14] - Aranha[2360] [254 255 1 20 0 0]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1147] [43 2 2 20 53 3]
+[01] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[02] - Pergaminho_da_Água(A)LV1[3182] [0 0 0 0 0 0]
+[03] - Arco[825] [0 0 0 0 0 0]
+[04] - Arco[826] [0 0 0 0 0 0]
+[05] - Poeira_de_Lactolerium[413] [61 227 0 0 0 0]
+[06] - Pesadelo_(N/Grupo)[3324] [0 0 0 0 0 0]
+[12] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [120 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:56:49 : [Zero] - Personagem Zero enviado ao mundo 2089x 2096y - Canal 2 - Cash da conta: 19499. PowerLevel: 1025
+23:56:49 : [Zero] - Gold atual: 1990310879. Classe: 0 Evolução: 1. Experiência: 3600000000. Nível: 392. Info: 103079215584. GuildID: 0. CP: 45. Pontos de Contribuição: 0. Limite: 0
+23:56:49 : [Zero] - Enviado informações do personagem
+23:56:50 : [Zero] - Comando "/day "
+23:56:50 : [Zero] - [Mensagem do servidor]> !#11 2
+23:56:57 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:57:07 : [Zero] - Personagem deu personagem
+23:57:11 : Solicitou ir ao mundo...
+23:57:11 : Recebido pedido para entrar no jogo
+23:57:11 : Recebido informação do personagem completa.
+23:57:11 : [Zero] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zero
+Gold atual: 1990310879
+Level atual: 392
+Experiência atual: 3600000000
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:26 horas
+Posição atual: 2088x 2102y
+
+Pontos NT: 0
+Entradas Hall: 46
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[9] [43 0 0 1 0 0]
+[01] - Elmo(A)[1106] [0 0 0 0 0 0]
+[02] - Armadura(A)[1118] [0 0 0 0 0 0]
+[03] - Calça(A)[1130] [0 0 0 0 0 0]
+[04] - Luvas(A)[1142] [0 0 0 0 0 0]
+[05] - Botas(A)[1154] [0 0 0 0 0 0]
+[06] - Lança[855] [60 20 0 0 0 0]
+[08] - Colar_da_Força[643] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[553] [0 0 0 0 0 0]
+[11] - Venus[764] [43 1 0 0 0 0]
+[14] - Aranha[2360] [254 255 1 20 0 0]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1147] [43 2 2 20 53 3]
+[01] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[02] - Pergaminho_da_Água(A)LV1[3182] [0 0 0 0 0 0]
+[03] - Arco[825] [0 0 0 0 0 0]
+[04] - Arco[826] [0 0 0 0 0 0]
+[05] - Poeira_de_Lactolerium[413] [61 227 0 0 0 0]
+[06] - Pesadelo_(N/Grupo)[3324] [0 0 0 0 0 0]
+[12] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [120 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:57:11 : [Zero] - Personagem Zero enviado ao mundo 2088x 2102y - Canal 2 - Cash da conta: 19499. PowerLevel: 1025
+23:57:11 : [Zero] - Gold atual: 1990310879. Classe: 0 Evolução: 1. Experiência: 3600000000. Nível: 392. Info: 103079215584. GuildID: 0. CP: 45. Pontos de Contribuição: 0. Limite: 0
+23:57:11 : [Zero] - Enviado informações do personagem
+23:57:12 : [Zero] - Comando "/day "
+23:57:12 : [Zero] - [Mensagem do servidor]> !#11 2
+23:57:21 : [Zero] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress

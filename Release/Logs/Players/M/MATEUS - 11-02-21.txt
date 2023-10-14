@@ -1,0 +1,642 @@
+
+14:38:39 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.181.59 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+14:38:39 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+14:38:39 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+14:38:40 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:38:50 : Solicitou ir ao mundo...
+14:38:50 : Recebido pedido para entrar no jogo
+14:38:50 : Recebido informação do personagem completa.
+14:38:50 : [Zinah] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zinah
+Gold atual: 0
+Level atual: 400
+Experiência atual: 1440
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:11 horas
+Posição atual: 2099x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(N)[1551] [43 235 0 0 0 0]
+[02] - Jaqueta(N)[1554] [43 235 0 0 0 0]
+[03] - Calça(N)[1557] [43 235 0 0 0 0]
+[04] - Luvas(N)[1560] [43 235 0 0 0 0]
+[05] - Botas(N)[1563] [43 235 0 0 0 0]
+[06] - Garra[840] [43 235 0 0 0 0]
+
+[INVENTÁRIO]
+[01] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[02] - Dianus[3561] [43 235 0 0 0 0]
+[03] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[04] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[05] - Botas(A)[1151] [43 0 73 12 59 0]
+[06] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[07] - Dianus[3561] [43 235 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:38:50 : [Zinah] - Personagem Zinah enviado ao mundo 2099x 2094y - Canal 2 - Cash da conta: 0. PowerLevel: 922
+14:38:50 : [Zinah] - Gold atual: 0. Classe: 3 Evolução: 0. Experiência: 1440. Nível: 400. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+14:38:50 : [Zinah] - Resetado a contagem de entradas água! Day: 39-41. Total: 0
+14:38:50 : [Zinah] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+14:38:50 : [Zinah] - Enviado informações do personagem
+14:38:53 : [Zinah] - Comando "/day "
+14:38:53 : [Zinah] - [Mensagem do servidor]> !#11 2
+14:39:02 : [Zinah] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:39:28 : [Zinah] - Comando "/gm +move 2090 2093"
+14:39:28 : [Zinah] - Teleportado para a posição 2090 2093
+14:39:34 : [Zinah] - Comando "/gm +move 2090 2092"
+14:39:34 : [Zinah] - Teleportado para a posição 2088 2094
+14:40:10 : [Zinah] - Comando "/gm +Create Gremlin 24"
+14:40:39 : [Zinah] - Comando "/gm +create Gremlin 24"
+14:40:45 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:40:53 : [Zinah] - Matou o mob Aguia. GenerID: 4435
+14:41:05 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:41:50 : [Zinah] - Comando "/gm +item 825 43 235"
+14:41:50 : [Zinah] - [Mensagem do servidor]> Criou o item Arco
+14:41:50 : [Zinah] - Zinah criou o item Arco [825] [43 235 0 0 0 0]
+14:41:55 : [Zinah] - Moveu item Arco [825] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 6
+14:42:04 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:05 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:06 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:07 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:07 : [Zinah] - Dropado item Armadura(A) [1805] [43 1 3 15 59 0] em 2116x 2027y - Gremlin (1/67)
+14:42:08 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:09 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:10 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:10 : [Zinah] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2116x 2027y - Gremlin (1/30)
+14:42:11 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:12 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:13 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:14 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:15 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:17 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:18 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:19 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:20 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:21 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:31 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:32 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:33 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:34 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:36 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:42 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4437
+14:42:45 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4438
+14:42:46 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4438
+14:42:46 : [Zinah] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2106x 2028y - Porco de Guerra (1/30)
+14:42:46 : [Zinah] - Comando "/gm +create Gremlin 24"
+14:42:47 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:48 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:49 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:51 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:52 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4438
+14:42:53 : [Zinah] - Matou o mob Aguia. GenerID: 4438
+14:42:54 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:55 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:56 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4438
+14:42:57 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:58 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:59 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:42:59 : [Zinah] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2106x 2028y - Gremlin (1/30)
+14:43:00 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:43:01 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:43:02 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:43:03 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4438
+14:43:04 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4438
+14:43:04 : [Zinah] - Dropado item Calça(A) [1559] [43 0 71 50 3 20] em 2106x 2028y - Porco de Guerra (1/89)
+14:43:05 : [Zinah] - Matou o mob Aguia. GenerID: 4438
+14:43:06 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:43:08 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:43:09 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:43:10 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:43:11 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:43:11 : [Zinah] - Dropado item Luvas(N) [1560] [43 1 72 10 2 24] em 2106x 2028y - Gremlin (1/67)
+14:43:12 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:43:13 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:43:14 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:43:15 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4438
+14:43:16 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:43:17 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:43:18 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4438
+14:43:19 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:43:20 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:43:51 : [Zinah] - [Mensagem do servidor]> Você precisa de mais pontos da linhagem.
+14:44:00 : [Zinah] - Comprou uma skill Golpe_Felino. Learn antigo: 1099660980460, Learn atual: 51218876574204160. Learn da skill: 1124.
+14:44:00 : [Zinah] - [Mensagem do servidor]> Habilidade Golpe_Felino aprendida com sucesso
+14:44:02 : [Zinah] - Comprou uma skill Ligação_Espectral. Learn antigo: 3298684236012, Learn atual: 51218876574204416. Learn da skill: 1124.
+14:44:02 : [Zinah] - [Mensagem do servidor]> Habilidade Ligação_Espectral aprendida com sucesso
+14:44:03 : [Zinah] - Comprou uma skill Perícia_de_Caçador. Learn antigo: 7696730747116, Learn atual: 51218876574204928. Learn da skill: 1124.
+14:44:03 : [Zinah] - [Mensagem do servidor]> Habilidade Perícia_de_Caçador aprendida com sucesso
+14:44:04 : [Zinah] - Comprou uma skill Vingança. Learn antigo: 16492823769324, Learn atual: 51218876574205952. Learn da skill: 1124.
+14:44:04 : [Zinah] - [Mensagem do servidor]> Habilidade Vingança aprendida com sucesso
+14:44:05 : [Zinah] - [Mensagem do servidor]> Você precisa de mais pontos da linhagem.
+14:44:35 : [Zinah] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:44:35 : [Zinah] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:44:35 : [Zinah] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:44:40 : [Zinah] - Comprou uma skill Instinto_de_Predador. Learn antigo: 34085009813740, Learn atual: 51218876574208000. Learn da skill: 1124.
+14:44:40 : [Zinah] - [Mensagem do servidor]> Habilidade Instinto_de_Predador aprendida com sucesso
+14:44:41 : [Zinah] - [Mensagem do servidor]> Você ja aprendeu esta skill.
+14:44:41 : [Zinah] - Comprou uma skill Explosão_Etérea. Learn antigo: 104453753991404, Learn atual: 51218876574220288. Learn da skill: 1124.
+14:44:41 : [Zinah] - [Mensagem do servidor]> Habilidade Explosão_Etérea aprendida com sucesso
+14:44:42 : [Zinah] - [Mensagem do servidor]> Necessário todas as skills da linhagem.
+14:44:43 : [Zinah] - [Mensagem do servidor]> Você ja aprendeu esta skill.
+14:44:45 : [Zinah] - [Mensagem do servidor]> Você ja aprendeu esta skill.
+14:44:46 : [Zinah] - [Mensagem do servidor]> Você ja aprendeu esta skill.
+14:44:47 : [Zinah] - Comprou uma skill Escudo_Dourado. Learn antigo: 139638126080236, Learn atual: 51218876574212096. Learn da skill: 1124.
+14:44:47 : [Zinah] - [Mensagem do servidor]> Habilidade Escudo_Dourado aprendida com sucesso
+14:44:50 : [Zinah] - Comprou uma skill Troca_de_Espírito. Learn antigo: 280375614435564, Learn atual: 51218876574236672. Learn da skill: 1124.
+14:44:50 : [Zinah] - [Mensagem do servidor]> Habilidade Troca_de_Espírito aprendida com sucesso
+14:45:35 : [Zinah] - Comprou uma skill Agressividade. Learn antigo: 280392794304748, Learn atual: 51218876574203908. Learn da skill: 1124.
+14:45:35 : [Zinah] - [Mensagem do servidor]> Habilidade Agressividade aprendida com sucesso
+14:45:44 : [Zinah] - Comprou uma skill Encantar_Gelo. Learn antigo: 280427154043116, Learn atual: 51218876574203912. Learn da skill: 1124.
+14:45:44 : [Zinah] - [Mensagem do servidor]> Habilidade Encantar_Gelo aprendida com sucesso
+14:46:48 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4435
+14:46:50 : [Zinah] - Matou o mob Aguia. GenerID: 4434
+14:46:58 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4435
+14:46:58 : [Zinah] - Matou o mob Aguia. GenerID: 4435
+14:47:01 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4435
+14:47:01 : [Zinah] - Dropado item Calça(A) [1409] [43 0 3 30 60 8] em 2119x 2025y - Porco de Guerra (1/67)
+14:47:01 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4435
+14:47:04 : [Zinah] - Matou o mob Aguia. GenerID: 4435
+14:47:12 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4435
+14:47:15 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4435
+14:47:18 : [Zinah] - Matou o mob Aguia. GenerID: 4435
+14:47:18 : [Zinah] - Dropado item Sapatos(A) [1415] [43 1 73 18 74 12] em 2119x 2025y - Aguia (1/30)
+14:47:22 : [Zinah] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:47:22 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4435
+14:47:22 : [Zinah] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:47:22 : [Zinah] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:47:24 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4435
+14:47:28 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4435
+14:47:34 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4435
+14:47:39 : [Zinah] - Matou o mob Aguia. GenerID: 4435
+14:47:42 : [Zinah] - Matou o mob Aguia. GenerID: 4438
+14:47:45 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4439
+14:47:45 : [Zinah] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2102x 2024y - Porco de Guerra (1/30)
+14:47:45 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4439
+14:47:50 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4440
+14:47:50 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4440
+14:47:55 : [Zinah] - Matou o mob Gremlin. GenerID: 4443
+14:47:55 : [Zinah] - Matou o mob Gremlin. GenerID: 4441
+14:48:02 : [Zinah] - Matou o mob Krill. GenerID: 4441
+14:48:03 : [Zinah] - Matou o mob Gremlin. GenerID: 4441
+14:48:06 : [Zinah] - Matou o mob Krill. GenerID: 4445
+14:48:11 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:48:11 : [Zinah] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2082x 2021y - Gremlin (1/30)
+14:48:13 : [Zinah] - Matou o mob Gremlin. GenerID: 4441
+14:48:13 : [Zinah] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2085x 2023y - Gremlin (1/30)
+14:48:14 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:48:16 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:48:16 : [Zinah] - Matou o mob Gremlin Artif. GenerID: 4449
+14:48:16 : [Zinah] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2085x 2023y - Gremlin Artif (1/1)
+14:48:16 : [Zinah] - Matou o mob Gremlin. GenerID: 4444
+14:48:16 : [Zinah] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2085x 2023y - Gremlin (1/30)
+14:48:16 : [Zinah] - Matou o mob Krill. GenerID: 4443
+14:48:16 : [Zinah] - Dropado item Poção_de_Mana [405] [0 0 0 0 0 0] em 2085x 2023y - Krill (1/30)
+14:48:19 : [Zinah] - Matou o mob Porco de Guerra. GenerID: 4440
+14:48:19 : [Zinah] - Matou o mob Gremlin. GenerID: 4444
+14:48:21 : [Zinah] - Matou o mob Gremlin. GenerID: 4441
+14:48:22 : [Zinah] - Matou o mob Krill. GenerID: 4444
+14:48:22 : [Zinah] - Matou o mob Krill. GenerID: 4442
+14:48:24 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:48:25 : [Zinah] - Matou o mob Gremlin. GenerID: 4443
+14:48:25 : [Zinah] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2089x 2022y - Gremlin (1/30)
+14:48:28 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:48:31 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:48:31 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:48:31 : [Zinah] - Matou o mob Krill. GenerID: 4442
+14:48:31 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:48:34 : [Zinah] - Matou o mob Gremlin Artif. GenerID: 4449
+14:48:34 : [Zinah] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2078x 2020y - Gremlin Artif (1/1)
+14:48:45 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:48:45 : [Zinah] - Dropado item Sapatos(N) [1413] [43 0 73 18 59 0] em 2083x 2023y - Gremlin (1/89)
+14:48:45 : [Zinah] - Matou o mob Krill. GenerID: 4445
+14:48:45 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:48:45 : [Zinah] - Matou o mob Krill. GenerID: 4442
+14:48:47 : [Zinah] - Matou o mob Gremlin. GenerID: 4444
+14:48:48 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:48:49 : [Zinah] - Matou o mob Gremlin. GenerID: 4444
+14:48:49 : [Zinah] - Matou o mob Krill. GenerID: 4444
+14:48:49 : [Zinah] - Matou o mob Gremlin. GenerID: 4443
+14:48:52 : [Zinah] - Matou o mob Gremlin. GenerID: 4444
+14:48:52 : [Zinah] - Matou o mob Krill. GenerID: 4444
+14:48:52 : [Zinah] - Matou o mob Gremlin. GenerID: 4443
+14:48:52 : [Zinah] - Matou o mob Krill. GenerID: 4443
+14:48:55 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:48:58 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:48:58 : [Zinah] - Matou o mob Krill. GenerID: 4442
+14:49:01 : [Zinah] - Comando "/gm +create Gremlin 24"
+14:49:02 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:02 : [Zinah] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2088x 2022y - Gremlin (1/30)
+14:49:02 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:02 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:02 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:02 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:02 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:04 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:05 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:49:05 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:07 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:08 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:49:08 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:08 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:08 : [Zinah] - Matou o mob Gremlin. GenerID: 4444
+14:49:11 : [Zinah] - Matou o mob Krill. GenerID: 4442
+14:49:11 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:11 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:14 : [Zinah] - Matou o mob Gremlin. GenerID: 4444
+14:49:14 : [Zinah] - Matou o mob Krill. GenerID: 4444
+14:49:17 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:49:17 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:17 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:20 : [Zinah] - Matou o mob Krill. GenerID: 4442
+14:49:23 : [Zinah] - Matou o mob Gremlin. GenerID: 4444
+14:49:23 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:23 : [Zinah] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2085x 2023y - Gremlin (1/30)
+14:49:23 : [Zinah] - Matou o mob Krill. GenerID: 4445
+14:49:26 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:49:29 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:49:29 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:49:29 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:49:29 : [Zinah] - Dropado item Sapatos(N) [1413] [10 6 73 18 74 9] em 2085x 2023y - Gremlin (1/89)
+14:49:29 : [Zinah] - Matou o mob Krill. GenerID: 4442
+14:49:29 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:33 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:49:33 : [Zinah] - Matou o mob Krill. GenerID: 4445
+14:49:33 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:36 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:36 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:36 : [Zinah] - Dropado item Armadura(A) [1805] [43 2 3 10 60 2] em 2086x 2019y - Gremlin (1/67)
+14:49:39 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:39 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:39 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:39 : [Zinah] - Dropado item Sapatos(N) [1413] [11 23 73 6 59 0] em 2086x 2019y - Gremlin (1/89)
+14:49:46 : [Zinah] - Matou o mob Gremlin Artif. GenerID: 4449
+14:49:46 : [Zinah] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2079x 2026y - Gremlin Artif (1/1)
+14:49:48 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:49:51 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:49:54 : [Zinah] - Matou o mob Gremlin. GenerID: 4444
+14:49:54 : [Zinah] - Matou o mob Krill. GenerID: 4444
+14:49:54 : [Zinah] - Matou o mob Gremlin. GenerID: 4444
+14:49:54 : [Zinah] - Matou o mob Gremlin. GenerID: 4443
+14:49:54 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:49:54 : [Zinah] - Matou o mob Krill. GenerID: 4441
+14:49:54 : [Zinah] - Matou o mob Krill. GenerID: 4441
+14:49:58 : [Zinah] - Matou o mob Gremlin. GenerID: 4441
+14:49:58 : [Zinah] - Matou o mob Gremlin. GenerID: 4441
+14:49:59 : [Zinah] - Comando "/gm +create Gremlin 24"
+14:50:02 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:02 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:02 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:02 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:02 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:02 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:05 : [Zinah] - Matou o mob Gremlin. GenerID: 4444
+14:50:05 : [Zinah] - Matou o mob Gremlin. GenerID: 4441
+14:50:05 : [Zinah] - Não dropou o item Poção_de_Cura por falta de espaço [400] [0 0 0 0 0 0] em 2089x 2030y - Gremlin (1/30)
+14:50:05 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:50:05 : [Zinah] - Matou o mob Krill. GenerID: 4441
+14:50:05 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:05 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:05 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:08 : [Zinah] - Matou o mob Gremlin. GenerID: 4444
+14:50:08 : [Zinah] - Matou o mob Gremlin. GenerID: 4441
+14:50:08 : [Zinah] - Não dropou o item Sapatos(N) por falta de espaço [1413] [10 8 73 6 60 2] em 2089x 2030y - Gremlin (1/89)
+14:50:08 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:50:08 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:08 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:08 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:08 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:08 : [Zinah] - Não dropou o item Luvas(N) por falta de espaço [1560] [43 1 72 15 2 18] em 2089x 2030y - Gremlin (1/67)
+14:50:08 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:50:11 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:11 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:11 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:14 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:17 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:17 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:17 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:19 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:21 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:22 : [Zinah] - Matou o mob Gremlin. GenerID: 4441
+14:50:25 : [Zinah] - Matou o mob Gremlin. GenerID: 4444
+14:50:25 : [Zinah] - Matou o mob Krill. GenerID: 4444
+14:50:28 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:28 : [Zinah] - Matou o mob Krill. GenerID: 4443
+14:50:31 : [Zinah] - Matou o mob Gremlin. GenerID: 4441
+14:50:31 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:39 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:50:41 : [Zinah] - Comando "/gm +create Gremlin 24"
+14:50:42 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:42 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:42 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:42 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:42 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:42 : [Zinah] - Não dropou o item Poção_de_Cura por falta de espaço [400] [0 0 0 0 0 0] em 2085x 2018y - Gremlin (1/30)
+14:50:42 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:50:42 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:42 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:42 : [Zinah] - Não dropou o item Sapatos(N) por falta de espaço [1413] [43 0 73 12 74 9] em 2085x 2018y - Gremlin (1/89)
+14:50:42 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:50:42 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:45 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:47 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:49 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:49 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:49 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:49 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:49 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:50:52 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:52 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:52 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:50:55 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:50:55 : [Zinah] - Matou o mob Krill. GenerID: 4445
+14:50:55 : [Zinah] - Matou o mob Krill. GenerID: 4445
+14:50:58 : [Zinah] - Matou o mob Gremlin. GenerID: 4443
+14:50:58 : [Zinah] - Matou o mob Gremlin. GenerID: 4443
+14:50:58 : [Zinah] - Matou o mob Krill. GenerID: 4443
+14:50:58 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:50:58 : [Zinah] - Não dropou o item Poção_de_Cura por falta de espaço [400] [0 0 0 0 0 0] em 2088x 2025y - Gremlin (1/30)
+14:50:58 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:51:02 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:51:08 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:51:08 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:51:08 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:51:10 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:51:11 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:51:12 : [Zinah] - Matou o mob Krill. GenerID: 4445
+14:51:15 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:51:15 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:51:15 : [Zinah] - Matou o mob Krill. GenerID: 4445
+14:51:15 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:51:23 : [Zinah] - Matou o mob Gremlin. GenerID: 4444
+14:51:27 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:51:30 : [Zinah] - Matou o mob Krill. GenerID: 4445
+14:51:36 : [Zinah] - Matou o mob Gremlin. GenerID: 4442
+14:51:39 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:51:39 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:51:42 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:51:42 : [Zinah] - Matou o mob Krill. GenerID: 4445
+14:51:45 : [Zinah] - Matou o mob Gremlin. GenerID: 4444
+14:51:51 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:51:54 : [Zinah] - Matou o mob Krill. GenerID: 4445
+14:51:57 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:52:00 : [Zinah] - Matou o mob Gremlin. GenerID: 4444
+14:52:06 : [Zinah] - Matou o mob Gremlin. GenerID: 4445
+14:52:11 : [Zinah] - Matou o mob Gremlin. GenerID: 4443
+14:52:14 : [Zinah] - Matou o mob Gremlin. GenerID: 4443
+14:52:14 : [Zinah] - Não dropou o item Sapatos(N) por falta de espaço [1413] [43 0 73 6 59 0] em 2088x 2022y - Gremlin (1/89)
+14:52:14 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:52:17 : [Zinah] - Matou o mob Krill. GenerID: 4442
+14:52:21 : [Zinah] - Matou o mob Krill. GenerID: 4443
+14:52:33 : [Zinah] - Matou o mob Gremlin. GenerID: 4443
+14:52:35 : [Zinah] - Matou o mob Gremlin Artif. GenerID: 4449
+14:52:35 : [Zinah] - Não dropou o item Chave_da_Primeira_Porta por falta de espaço [451] [0 0 0 0 0 0] em 2087x 2024y - Gremlin Artif (1/1)
+14:52:35 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:53:17 : [Zinah] - Matou o mob Krill. GenerID: 4445
+14:53:17 : [Zinah] - Não dropou o item Jaqueta(N) por falta de espaço [1554] [43 0 71 30 3 5] em 2081x 2021y - Krill (1/67)
+14:53:17 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:53:24 : [Zinah] - Comando "/gm +create Gremlin 24"
+14:53:29 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:29 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:29 : [Zinah] - Não dropou o item Poção_de_Cura por falta de espaço [400] [0 0 0 0 0 0] em 2069x 2024y - Gremlin (1/30)
+14:53:29 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:53:29 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:29 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:29 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:29 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:29 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:29 : [Zinah] - Não dropou o item Luvas(N) por falta de espaço [1560] [43 0 72 10 59 0] em 2069x 2024y - Gremlin (1/67)
+14:53:29 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:53:29 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:29 : [Zinah] - Matou o mob Gremlin Artif. GenerID: 4449
+14:53:29 : [Zinah] - Não dropou o item Chave_da_Primeira_Porta por falta de espaço [451] [0 0 0 0 0 0] em 2069x 2024y - Gremlin Artif (1/1)
+14:53:29 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:53:32 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:32 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:37 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:44 : [Zinah] - Matou o mob Gremlin Artif. GenerID: 4449
+14:53:44 : [Zinah] - Não dropou o item Chave_da_Primeira_Porta por falta de espaço [451] [0 0 0 0 0 0] em 2071x 2027y - Gremlin Artif (1/1)
+14:53:44 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:53:44 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:44 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:44 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:44 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:44 : [Zinah] - Não dropou o item Poção_de_Cura por falta de espaço [400] [0 0 0 0 0 0] em 2071x 2027y - Gremlin (1/30)
+14:53:44 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:53:44 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:44 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:48 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:48 : [Zinah] - Não dropou o item Elmo(A) por falta de espaço [1801] [43 0 26 6 59 0] em 2071x 2027y - Gremlin (1/300)
+14:53:48 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:53:48 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:51 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:56 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:53:58 : [Zinah] - Matou o mob Gremlin. GenerID: 4447
+14:53:59 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:54:00 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:54:10 : [Zinah] - Matou o mob Gremlin. GenerID: 4448
+14:54:10 : [Zinah] - Matou o mob Gremlin. GenerID: 4448
+14:54:12 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:54:16 : [Zinah] - Matou o mob Krill. GenerID: 4448
+14:54:47 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+14:54:47 : [Zinah] - Matou o mob Serpente. GenerID: 4461
+14:54:47 : [Zinah] - Matou o mob Serpente. GenerID: 4461
+14:54:47 : [Zinah] - Matou o mob Serpente. GenerID: 4461
+14:54:50 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+14:54:50 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+14:54:54 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+14:55:33 : [Zinah] - Comando "/gm +item 808 43 235"
+14:55:33 : [Zinah] - [Mensagem do servidor]> Criou o item Machado
+14:55:33 : [Zinah] - Zinah criou o item Machado [808] [43 235 0 0 0 0]
+14:55:39 : [Zinah] - Item Sapatos(N) deletado [1413] [11 23 73 6 59 0]. Slot 28
+14:55:43 : [Zinah] - Item Chave_da_Primeira_Porta deletado [451] [0 0 0 0 0 0]. Slot 29
+14:55:45 : [Zinah] - Comando "/gm +item 808 43 235"
+14:55:45 : [Zinah] - [Mensagem do servidor]> Criou o item Machado
+14:55:45 : [Zinah] - Zinah criou o item Machado [808] [43 235 0 0 0 0]
+14:55:51 : [Zinah] - Moveu item Machado [808] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 28 para tipo EQUIPAMENTO slot 6
+14:55:53 : [Zinah] - Moveu item Machado [808] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 23 para tipo EQUIPAMENTO slot 7
+14:56:03 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+14:56:03 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+14:56:11 : [Zinah] - Matou o mob Serpente. GenerID: 4461
+14:56:22 : [Zinah] - Matou o mob Krill Gigante. GenerID: 4476
+14:56:22 : [Zinah] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2142x 2001y - Krill Gigante (1/1)
+14:56:27 : [Zinah] - Comando "/gm +create Gremlin 24"
+14:56:46 : [Zinah] - Enviando skill com o target maior que o da skill.
+14:56:46 : [Zinah] - Enviando skill com o target maior que o da skill.
+14:56:46 : [Zinah] - Enviando skill com o target maior que o da skill.
+14:56:46 : [Zinah] - Matou o mob Krill Gigante. GenerID: 4476
+14:56:46 : [Zinah] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2145x 2002y - Krill Gigante (1/1)
+14:56:46 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:46 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:46 : [Zinah] - Não dropou o item Sapatos(N) por falta de espaço [1413] [43 0 73 6 59 0] em 2145x 2002y - Gremlin (1/89)
+14:56:46 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:56:46 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:46 : [Zinah] - Não dropou o item Armadura(A) por falta de espaço [1805] [43 2 71 40 3 5] em 2145x 2002y - Gremlin (1/67)
+14:56:46 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:56:46 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:46 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:46 : [Zinah] - Não dropou o item Poção_de_Cura por falta de espaço [400] [0 0 0 0 0 0] em 2145x 2002y - Gremlin (1/30)
+14:56:46 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:56:46 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:46 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:46 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:46 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:52 : [Zinah] - Enviando skill com o target maior que o da skill.
+14:56:52 : [Zinah] - Enviando skill com o target maior que o da skill.
+14:56:52 : [Zinah] - Enviando skill com o target maior que o da skill.
+14:56:52 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:52 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:52 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:52 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:52 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:52 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:52 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:52 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:52 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:52 : [Zinah] - Não dropou o item Luvas(N) por falta de espaço [1560] [43 1 72 10 74 9] em 2145x 2002y - Gremlin (1/67)
+14:56:52 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:56:52 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:55 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:55 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:55 : [Zinah] - Matou o mob Rei Gremlin  . GenerID: 4472
+14:56:55 : [Zinah] - Não dropou o item Calça(A) por falta de espaço [1409] [43 1 3 20 59 0] em 2145x 2002y - Rei Gremlin   (1/300)
+14:56:55 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:56:55 : [Zinah] - Não dropou o item Arco por falta de espaço [817] [43 1 2 18 26 12] em 2145x 2002y - Rei Gremlin   (1/300)
+14:56:55 : [Zinah] - [Mensagem do servidor]> Seu inventário está cheio
+14:56:55 : [Zinah] - Matou o mob Rei Gremlin  . GenerID: 4475
+14:56:55 : [Zinah] - Matou o mob Rei Gremlin  . GenerID: 4472
+14:56:55 : [Zinah] - Matou o mob Rei Gremlin  . GenerID: 4471
+14:56:59 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:56:59 : [Zinah] - Matou o mob Gremlin. GenerID: -1
+14:57:02 : [Zinah] - Matou o mob Rei Gremlin  . GenerID: 4473
+14:57:54 : [Zinah] - Comando "/gm +item 809 43 235"
+14:57:54 : [Zinah] - [Mensagem do servidor]> Você não possui espaço livre no inventório.
+14:58:00 : [Zinah] - Item Arco deletado [825] [43 235 0 0 0 0]. Slot 28
+14:58:03 : [Zinah] - Item Armadura(A) deletado [1805] [43 2 3 10 60 2]. Slot 27
+14:58:04 : [Zinah] - Comando "/gm +item 809 43 235"
+14:58:04 : [Zinah] - [Mensagem do servidor]> Criou o item Machado
+14:58:04 : [Zinah] - Zinah criou o item Machado [809] [43 235 0 0 0 0]
+14:58:17 : [Zinah] - Comando "/gm +item 809 43 235"
+14:58:17 : [Zinah] - [Mensagem do servidor]> Criou o item Machado
+14:58:17 : [Zinah] - Zinah criou o item Machado [809] [43 235 0 0 0 0]
+14:58:29 : [Zinah] - Moveu item Machado [809] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 27 para tipo EQUIPAMENTO slot 7
+14:58:29 : [Zinah] - Moveu item Machado [809] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 28 para tipo EQUIPAMENTO slot 7
+14:58:32 : [Zinah] - Moveu item Machado [809] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 28 para tipo EQUIPAMENTO slot 6
+14:58:37 : [Zinah] - Matou o mob Rei Gremlin  . GenerID: 4475
+14:58:38 : [Zinah] - Matou o mob Rei Gremlin  . GenerID: 4474
+15:00:51 : [Zinah] - Matou o mob Serpente. GenerID: 4464
+15:01:01 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:01:03 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:01:05 : [Zinah] - Matou o mob Serpente. GenerID: 4466
+15:01:07 : [Zinah] - Matou o mob Serpente. GenerID: 4465
+15:01:10 : [Zinah] - Matou o mob Serpente. GenerID: 4463
+15:01:12 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:01:19 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:01:19 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:01:36 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:01:36 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:01:36 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:01:36 : [Zinah] - Matou o mob Serpente. GenerID: 4462
+15:01:42 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:01:42 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:01:46 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:01:46 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:01:46 : [Zinah] - Matou o mob Serpente. GenerID: 4465
+15:01:54 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:01:54 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:05:04 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:05:04 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:05:04 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:05:04 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:05:23 : [Zinah] - Matou o mob Serpente. GenerID: 4460
+15:08:51 : [Zinah] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zinah
+Gold atual: 0
+Level atual: 400
+Experiência atual: 12300
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:53 horas
+Posição atual: 2113x 2004y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(N)[1551] [43 235 0 0 0 0]
+[02] - Jaqueta(N)[1554] [43 235 0 0 0 0]
+[03] - Calça(N)[1557] [43 235 0 0 0 0]
+[04] - Luvas(N)[1560] [43 235 0 0 0 0]
+[05] - Botas(N)[1563] [43 235 0 0 0 0]
+[06] - Machado[809] [43 235 0 0 0 0]
+[07] - Machado[809] [43 235 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Garra[840] [43 235 0 0 0 0]
+[01] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[02] - Dianus[3561] [43 235 0 0 0 0]
+[03] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[04] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[05] - Botas(A)[1151] [43 0 73 12 59 0]
+[06] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[07] - Dianus[3561] [43 235 0 0 0 0]
+[08] - Armadura(A)[1805] [43 1 3 15 59 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[12] - Calça(A)[1559] [43 0 71 50 3 20]
+[13] - Luvas(N)[1560] [43 1 72 10 2 24]
+[14] - Calça(A)[1409] [43 0 3 30 60 8]
+[15] - Sapatos(A)[1415] [43 1 73 18 74 12]
+[16] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[17] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[18] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[19] - Sapatos(N)[1413] [43 0 73 18 59 0]
+[20] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[21] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[22] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[23] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[24] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[25] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[26] - Sapatos(N)[1413] [10 6 73 18 74 9]
+[27] - Machado[808] [43 235 0 0 0 0]
+[28] - Machado[808] [43 235 0 0 0 0]
+[29] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:14:32 : [Zinah] - Comando "/gm +move 3892 1600"
+15:14:33 : [Zinah] - Teleportado para a posição 3892 1600
+15:14:40 : [Zinah] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:14:40 : [Zinah] - 1 Personagem foi desconectado. Permaneceu 00:35:38 minutos online

@@ -1,0 +1,451 @@
+
+15:19:58 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+15:19:58 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+15:19:58 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:19:58 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:20:15 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:20:15 : Personagem foi desconectado. Permaneceu 00:00:18 minutos online
+17:34:32 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 3
+17:34:32 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+17:34:32 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:34:32 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:34:37 : Solicitou ir ao mundo...
+17:34:37 : Recebido pedido para entrar no jogo
+17:34:37 : Recebido informação do personagem completa.
+17:34:37 : [BoeBoe12] - [INFORMAÇÕES DA CONTA]
+Personagem online: BoeBoe12
+Gold atual: 9088289
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2095x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Andaluz_B[2375] [224 46 120 5 6 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Conjunto_Valquíria[4152] [96 2 13 20 0 32]
+[01] - Dragão_Vermelho[2380] [1 1 120 10 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 98 0 0 0 0]
+[10] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:34:37 : [BoeBoe12] - Personagem BoeBoe12 enviado ao mundo 2095x 2097y - Canal 2 - Cash da conta: 128616. OverPower: 2360
+17:34:37 : [BoeBoe12] - Gold atual: 9088289. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 5. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:34:37 : [BoeBoe12] - Resetado a contagem de entradas água! Day: 342-343. Total: 0
+17:34:37 : [BoeBoe12] - Enviado informações do personagem
+17:34:38 : [BoeBoe12] - Comando "/day "
+17:34:38 : [BoeBoe12] - [Mensagem do servidor]> !#11 2
+17:34:52 : [BoeBoe12] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:04:37 : [BoeBoe12] - [INFORMAÇÕES DA CONTA]
+Personagem online: BoeBoe12
+Gold atual: 9088289
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:44 horas
+Posição atual: 2108x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Andaluz_B[2375] [224 46 120 5 6 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Conjunto_Valquíria[4152] [96 2 13 20 0 32]
+[01] - Dragão_Vermelho[2380] [1 1 120 10 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 98 0 0 0 0]
+[10] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:34:38 : [BoeBoe12] - [INFORMAÇÕES DA CONTA]
+Personagem online: BoeBoe12
+Gold atual: 9088289
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:59:24 horas
+Posição atual: 2108x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Andaluz_B[2375] [224 46 120 5 6 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Conjunto_Valquíria[4152] [96 2 13 20 0 32]
+[01] - Dragão_Vermelho[2380] [1 1 120 10 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 98 0 0 0 0]
+[10] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:04:39 : [BoeBoe12] - [INFORMAÇÕES DA CONTA]
+Personagem online: BoeBoe12
+Gold atual: 9088289
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:29:05 horas
+Posição atual: 2108x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Andaluz_B[2375] [224 46 120 5 6 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Conjunto_Valquíria[4152] [96 2 13 20 0 32]
+[01] - Dragão_Vermelho[2380] [1 1 120 10 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 98 0 0 0 0]
+[10] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:19:23 : [BoeBoe12] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:19:23 : [BoeBoe12] - 3 Personagem foi desconectado. Permaneceu 01:43:40 minutos online
+19:19:46 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+19:19:46 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+19:19:46 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:19:47 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:19:53 : Solicitou ir ao mundo...
+19:19:53 : Recebido pedido para entrar no jogo
+19:19:53 : Recebido informação do personagem completa.
+19:19:53 : [BoeBoe12] - [INFORMAÇÕES DA CONTA]
+Personagem online: BoeBoe12
+Gold atual: 9088289
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2087x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Andaluz_B[2375] [224 46 120 5 6 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Conjunto_Valquíria[4152] [96 2 13 20 0 32]
+[01] - Dragão_Vermelho[2380] [1 1 120 10 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 98 0 0 0 0]
+[10] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:19:53 : [BoeBoe12] - Personagem BoeBoe12 enviado ao mundo 2087x 2097y - Canal 2 - Cash da conta: 128616. OverPower: 2360
+19:19:53 : [BoeBoe12] - Gold atual: 9088289. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 5. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:19:53 : [BoeBoe12] - Enviado informações do personagem
+19:19:54 : [BoeBoe12] - Comando "/day "
+19:19:54 : [BoeBoe12] - [Mensagem do servidor]> !#11 2
+19:20:08 : [BoeBoe12] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:20:29 : [BoeBoe12] - Comando "/gm +item 1491"
+19:20:29 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Elmo_Elemental(N)
+19:20:29 : [BoeBoe12] - BoeBoe12 criou o item Elmo_Elemental(N) [1491] [0 0 0 0 0 0]
+19:20:31 : [BoeBoe12] - Moveu item Elmo_Lupino(N) [1416] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 6
+19:20:31 : [BoeBoe12] - Moveu item Armadura_Lupina(N) [1419] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 11
+19:20:32 : [BoeBoe12] - Moveu item Luvas_Lupinas(N) [1425] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 7
+19:20:32 : [BoeBoe12] - Moveu item Calça_Lupina(N) [1422] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 12
+19:20:36 : [BoeBoe12] - Item Calça_Lupina(N) deletado [1422] [43 0 0 0 0 0]. Slot 12
+19:20:37 : [BoeBoe12] - Moveu item Botas_Lupinas(N) [1428] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 12
+19:20:38 : [BoeBoe12] - Item Botas_Lupinas(N) deletado [1428] [43 0 0 0 0 0]. Slot 12
+19:20:39 : [BoeBoe12] - Item Armadura_Lupina(N) deletado [1419] [43 0 0 0 0 0]. Slot 11
+19:20:40 : [BoeBoe12] - Item Elmo_Lupino(N) deletado [1416] [43 0 0 0 0 0]. Slot 6
+19:20:41 : [BoeBoe12] - Item Luvas_Lupinas(N) deletado [1425] [43 0 0 0 0 0]. Slot 7
+19:20:46 : [BoeBoe12] - Comando "/gm +item 1494"
+19:20:46 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Armadura_Elemental(N)
+19:20:46 : [BoeBoe12] - BoeBoe12 criou o item Armadura_Elemental(N) [1494] [0 0 0 0 0 0]
+19:20:49 : [BoeBoe12] - Comando "/gm +item 1497"
+19:20:49 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Calça_Elemental(N)
+19:20:49 : [BoeBoe12] - BoeBoe12 criou o item Calça_Elemental(N) [1497] [0 0 0 0 0 0]
+19:20:56 : [BoeBoe12] - Comando "/gm +item 1500"
+19:20:56 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Manoplas_Elementais(N)
+19:20:56 : [BoeBoe12] - BoeBoe12 criou o item Manoplas_Elementais(N) [1500] [0 0 0 0 0 0]
+19:21:00 : [BoeBoe12] - Comando "/gm +item 1503"
+19:21:00 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Botas_Elementais(N)
+19:21:00 : [BoeBoe12] - BoeBoe12 criou o item Botas_Elementais(N) [1503] [0 0 0 0 0 0]
+19:21:23 : [BoeBoe12] - Comando "/gm +item 2923"
+19:21:23 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Grande_Machado(Anct)
+19:21:23 : [BoeBoe12] - BoeBoe12 criou o item Grande_Machado(Anct) [2923] [0 0 0 0 0 0]
+19:21:26 : [BoeBoe12] - Item Grande_Machado(Anct) deletado [2923] [0 0 0 0 0 0]. Slot 8
+19:21:49 : [BoeBoe12] - Comando "/gm +item 2787"
+19:21:49 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Cruz_Sagrada(Anct)
+19:21:49 : [BoeBoe12] - BoeBoe12 criou o item Cruz_Sagrada(Anct) [2787] [0 0 0 0 0 0]
+19:22:17 : [BoeBoe12] - Moveu item Elmo_Elemental(N) [1491] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 1
+19:22:56 : [BoeBoe12] - Moveu item Elmo_Elemental(N) [1491] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 11
+19:22:59 : [BoeBoe12] - Moveu item Elmo_Elemental(N) [1491] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 1
+19:23:07 : [BoeBoe12] - Moveu item Elmo_Elemental(N) [1491] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 11
+19:23:20 : [BoeBoe12] - Moveu item Armadura_Elemental(N) [1494] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 2
+19:23:51 : [BoeBoe12] - Moveu item Armadura_Elemental(N) [1494] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 2
+19:23:58 : [BoeBoe12] - Moveu item Calça_Elemental(N) [1497] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 3
+19:24:23 : [BoeBoe12] - Moveu item Calça_Elemental(N) [1497] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 12
+19:24:28 : [BoeBoe12] - Moveu item Manoplas_Elementais(N) [1500] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 4
+19:25:01 : [BoeBoe12] - Moveu item Manoplas_Elementais(N) [1500] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 6
+19:25:05 : [BoeBoe12] - Moveu item Botas_Elementais(N) [1503] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 5
+19:25:37 : [BoeBoe12] - Moveu item Botas_Elementais(N) [1503] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 7
+19:25:42 : [BoeBoe12] - Comando "/Desbloquear "
+19:25:42 : [BoeBoe12] - [Mensagem do servidor]> Este personagem não está conectado.
+19:25:45 : [BoeBoe12] - Moveu item Botas_Elementais(N) [1503] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 5
+19:25:48 : [BoeBoe12] - Moveu item Botas_Elementais(N) [1503] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 7
+19:26:08 : [BoeBoe12] - Moveu item Cruz_Sagrada(Anct) [2787] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 6
+19:26:08 : [BoeBoe12] - Moveu item Adaga [861] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 6
+19:26:09 : [BoeBoe12] - Moveu item Cruz_Sagrada(Anct) [2787] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 6
+19:26:10 : [BoeBoe12] - Moveu item Adaga [861] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 6
+19:26:10 : [BoeBoe12] - Moveu item Cruz_Sagrada(Anct) [2787] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 6
+19:26:11 : [BoeBoe12] - Moveu item Adaga [861] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 6
+19:26:11 : [BoeBoe12] - Moveu item Cruz_Sagrada(Anct) [2787] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 6
+19:26:12 : [BoeBoe12] - Moveu item Adaga [861] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 6
+19:26:15 : [BoeBoe12] - Moveu item Cruz_Sagrada(Anct) [2787] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 6
+19:26:16 : [BoeBoe12] - Moveu item Adaga [861] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 6
+19:26:42 : [BoeBoe12] - Comando "/gm +item 2787 43 9 2 10 60 10"
+19:26:51 : [BoeBoe12] - Comando "/Desbloquear "
+19:26:51 : [BoeBoe12] - [Mensagem do servidor]> Este personagem não está conectado.
+19:26:52 : [BoeBoe12] - Comando "/gm +item 2787 43 9 2 10 60 10"
+19:26:52 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Cruz_Sagrada(Anct)
+19:26:52 : [BoeBoe12] - BoeBoe12 criou o item Cruz_Sagrada(Anct) [2787] [43 9 2 10 60 10]
+19:26:56 : [BoeBoe12] - Moveu item Cruz_Sagrada(Anct) [2787] [43 9 2 10 60 10] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 6
+19:26:57 : [BoeBoe12] - Moveu item Adaga [861] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 6
+19:27:02 : [BoeBoe12] - Moveu item Cruz_Sagrada(Anct) [2787] [43 9 2 10 60 10] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 6
+19:27:04 : [BoeBoe12] - Moveu item Adaga [861] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 6
+19:27:08 : [BoeBoe12] - Moveu item Cruz_Sagrada(Anct) [2787] [43 9 2 10 60 10] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 6
+19:27:09 : [BoeBoe12] - Moveu item Adaga [861] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 6
+19:27:10 : [BoeBoe12] - Moveu item Cruz_Sagrada(Anct) [2787] [43 9 2 10 60 10] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 6
+19:27:11 : [BoeBoe12] - Moveu item Adaga [861] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 6
+19:27:12 : [BoeBoe12] - Moveu item Cruz_Sagrada(Anct) [2787] [43 9 2 10 60 10] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 6
+19:27:13 : [BoeBoe12] - Moveu item Adaga [861] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 6
+19:27:39 : [BoeBoe12] - Comando "/gm +item 2228 60 10 "
+19:27:39 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Calça_Elemental(Le)
+19:27:39 : [BoeBoe12] - BoeBoe12 criou o item Calça_Elemental(Le) [2228] [60 10 0 0 0 0]
+19:27:42 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [60 10 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 3
+19:27:47 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [60 10 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 13
+19:27:52 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [60 10 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 3
+19:28:17 : [BoeBoe12] - Comando "/gm +item 2228 43 251"
+19:28:17 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Calça_Elemental(Le)
+19:28:17 : [BoeBoe12] - BoeBoe12 criou o item Calça_Elemental(Le) [2228] [43 251 0 0 0 0]
+19:28:21 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 251 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 3
+19:28:45 : [BoeBoe12] - Comando "/gm +item 2228 43 250"
+19:28:45 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Calça_Elemental(Le)
+19:28:45 : [BoeBoe12] - BoeBoe12 criou o item Calça_Elemental(Le) [2228] [43 250 0 0 0 0]
+19:28:55 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 3
+19:28:58 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 251 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 3
+19:28:58 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 3
+19:28:59 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 251 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 3
+19:29:02 : [BoeBoe12] - Comando "/gm +item 2228 43 249"
+19:29:02 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Calça_Elemental(Le)
+19:29:02 : [BoeBoe12] - BoeBoe12 criou o item Calça_Elemental(Le) [2228] [43 249 0 0 0 0]
+19:29:04 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 249 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 3
+19:29:07 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 3
+19:29:09 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 251 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 3
+19:29:10 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 3
+19:29:19 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 249 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 3
+19:29:33 : [BoeBoe12] - Comando "/gm +item 2228 43 248"
+19:29:33 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Calça_Elemental(Le)
+19:29:33 : [BoeBoe12] - BoeBoe12 criou o item Calça_Elemental(Le) [2228] [43 248 0 0 0 0]
+19:29:35 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 3
+19:30:03 : [BoeBoe12] - Comando "/gm +item 2228 2 100 3 100"
+19:30:03 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Calça_Elemental(Le)
+19:30:03 : [BoeBoe12] - BoeBoe12 criou o item Calça_Elemental(Le) [2228] [2 100 3 100 0 0]
+19:30:07 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [2 100 3 100 0 0] do tipo INVENTÁRIO do slot 15 para tipo EQUIPAMENTO slot 3
+19:30:10 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 15 para tipo EQUIPAMENTO slot 3
+19:30:13 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [2 100 3 100 0 0] do tipo INVENTÁRIO do slot 15 para tipo EQUIPAMENTO slot 3
+19:30:14 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 15 para tipo EQUIPAMENTO slot 3
+19:30:15 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [2 100 3 100 0 0] do tipo INVENTÁRIO do slot 15 para tipo EQUIPAMENTO slot 3
+19:30:16 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 15 para tipo EQUIPAMENTO slot 3
+19:30:16 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [2 100 3 100 0 0] do tipo INVENTÁRIO do slot 15 para tipo EQUIPAMENTO slot 3
+19:30:17 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 15 para tipo EQUIPAMENTO slot 3
+19:30:24 : [BoeBoe12] - Comando "/gm +item 2228  4 100 5 100"
+19:30:24 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Calça_Elemental(Le)
+19:30:24 : [BoeBoe12] - BoeBoe12 criou o item Calça_Elemental(Le) [2228] [4 100 5 100 0 0]
+19:30:28 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [4 100 5 100 0 0] do tipo INVENTÁRIO do slot 16 para tipo EQUIPAMENTO slot 3
+19:30:30 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 16 para tipo EQUIPAMENTO slot 3
+19:30:33 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [4 100 5 100 0 0] do tipo INVENTÁRIO do slot 16 para tipo EQUIPAMENTO slot 3
+19:30:34 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 16 para tipo EQUIPAMENTO slot 3
+19:30:56 : [BoeBoe12] - Comando "/gm +item 2228  54 10 74 190"
+19:30:56 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Calça_Elemental(Le)
+19:30:56 : [BoeBoe12] - BoeBoe12 criou o item Calça_Elemental(Le) [2228] [54 10 74 190 0 0]
+19:31:00 : [BoeBoe12] - Item Calça_Elemental(Le) deletado [2228] [54 10 74 190 0 0]. Slot 17
+19:31:01 : [BoeBoe12] - Comando "/gm +item 2228  54 10 74 19"
+19:31:01 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Calça_Elemental(Le)
+19:31:01 : [BoeBoe12] - BoeBoe12 criou o item Calça_Elemental(Le) [2228] [54 10 74 19 0 0]
+19:31:02 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [54 10 74 19 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:06 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:07 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [54 10 74 19 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:08 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:10 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [54 10 74 19 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:11 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:13 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [54 10 74 19 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:15 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:16 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [54 10 74 19 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:17 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:18 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [54 10 74 19 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:19 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:20 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [54 10 74 19 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:22 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:24 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [54 10 74 19 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:24 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:26 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [54 10 74 19 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:26 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:27 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [54 10 74 19 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:28 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:29 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [54 10 74 19 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:30 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:31 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [54 10 74 19 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:32 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [43 248 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:31:33 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [54 10 74 19 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 3
+19:32:30 : [BoeBoe12] - Comando "/gm +item 2228  52 10"
+19:32:30 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Calça_Elemental(Le)
+19:32:30 : [BoeBoe12] - BoeBoe12 criou o item Calça_Elemental(Le) [2228] [52 10 0 0 0 0]
+19:32:34 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [52 10 0 0 0 0] do tipo INVENTÁRIO do slot 18 para tipo EQUIPAMENTO slot 3
+19:32:38 : [BoeBoe12] - Comando "/gm +item 2228  53 10"
+19:32:38 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Calça_Elemental(Le)
+19:32:38 : [BoeBoe12] - BoeBoe12 criou o item Calça_Elemental(Le) [2228] [53 10 0 0 0 0]
+19:32:41 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [53 10 0 0 0 0] do tipo INVENTÁRIO do slot 19 para tipo EQUIPAMENTO slot 3
+19:32:41 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [52 10 0 0 0 0] do tipo INVENTÁRIO do slot 19 para tipo EQUIPAMENTO slot 3
+19:32:45 : [BoeBoe12] - Comando "/gm +item 2228  55 10"
+19:32:45 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Calça_Elemental(Le)
+19:32:45 : [BoeBoe12] - BoeBoe12 criou o item Calça_Elemental(Le) [2228] [55 10 0 0 0 0]
+19:32:48 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [55 10 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo EQUIPAMENTO slot 3
+19:32:49 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [52 10 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo EQUIPAMENTO slot 3
+19:32:49 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [55 10 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo EQUIPAMENTO slot 3
+19:32:53 : [BoeBoe12] - Comando "/gm +item 2228  56 10"
+19:32:53 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Calça_Elemental(Le)
+19:32:53 : [BoeBoe12] - BoeBoe12 criou o item Calça_Elemental(Le) [2228] [56 10 0 0 0 0]
+19:32:55 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [56 10 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo EQUIPAMENTO slot 3
+19:32:56 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [55 10 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo EQUIPAMENTO slot 3
+19:32:57 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [56 10 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo EQUIPAMENTO slot 3
+19:32:58 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [55 10 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo EQUIPAMENTO slot 3
+19:32:58 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [56 10 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo EQUIPAMENTO slot 3
+19:33:00 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [55 10 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo EQUIPAMENTO slot 3
+19:33:01 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [56 10 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo EQUIPAMENTO slot 3
+19:33:02 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [55 10 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo EQUIPAMENTO slot 3
+19:33:02 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [56 10 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo EQUIPAMENTO slot 3
+19:33:05 : [BoeBoe12] - Comando "/gm +item 2228  56 10 57 10"
+19:33:05 : [BoeBoe12] - [Mensagem do servidor]> Criou o item Calça_Elemental(Le)
+19:33:05 : [BoeBoe12] - BoeBoe12 criou o item Calça_Elemental(Le) [2228] [56 10 57 10 0 0]
+19:33:12 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [55 10 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo EQUIPAMENTO slot 3
+19:33:23 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [56 10 57 10 0 0] do tipo INVENTÁRIO do slot 22 para tipo EQUIPAMENTO slot 3
+19:34:08 : [BoeBoe12] - Moveu item Calça_Elemental(Le) [2228] [55 10 0 0 0 0] do tipo INVENTÁRIO do slot 22 para tipo EQUIPAMENTO slot 3
+19:35:14 : [BoeBoe12] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+19:35:14 : [BoeBoe12] - 1 Personagem foi desconectado. Permaneceu 00:15:16 minutos online

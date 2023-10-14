@@ -1,0 +1,568 @@
+
+03:20:43 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILICOXD) - IP: 177.131.168.16 Mac: (67:0A:00:E2:13:46). ClientId: 38
+03:20:43 : Usuário logou no jogo com clientId 38. - Servidor 2. Gold do banco: 0
+03:20:43 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+03:23:51 : LILICOXD Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:23:51 : Personagem foi desconectado. Permaneceu 00:03:05 minutos online
+03:23:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILICOXD) - IP: 177.131.168.16 Mac: (67:0A:00:E2:13:46). ClientId: 5
+03:23:55 : Usuário logou no jogo com clientId 5. - Servidor 1. Gold do banco: 0
+03:23:55 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+03:24:00 : Enviou senha numérica correta. 
+03:24:38 : LILICOXD Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:24:38 : Personagem foi desconectado. Permaneceu 00:00:42 minutos online
+03:24:44 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILICOXD) - IP: 177.131.168.16 Mac: (67:0A:00:E2:13:46). ClientId: 34
+03:24:44 : Usuário logou no jogo com clientId 34. - Servidor 2. Gold do banco: 0
+03:24:44 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+03:24:54 : Solicitou ir ao mundo...
+03:24:54 : Recebido pedido para entrar no jogo
+03:24:54 : Recebido informação do personagem completa.
+03:24:54 : [POWERnome] - [INFORMAÇÕES DA CONTA]
+Personagem online: POWERnome
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+03:24:54 : [POWERnome] - Personagem POWERnome enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 8
+03:24:54 : [POWERnome] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+03:24:54 : [POWERnome] - Resetado a contagem de entradas água! Day: 0-42. Total: 0
+03:24:54 : [POWERnome] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+03:24:54 : [POWERnome] - Enviado informações do personagem
+03:24:56 : [POWERnome] - Comando "/day "
+03:24:56 : [POWERnome] - [Mensagem do servidor]> !#11 2
+03:25:02 : [POWERnome] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+03:25:14 : [POWERnome] - [Mensagem do servidor]> Não possui gold para comprar este item
+03:25:17 : [POWERnome] - [Mensagem do servidor]> Não possui gold para comprar este item
+03:25:32 : [POWERnome] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 4610. Posição do usuário: 2111x 2042y. Posição do NPC: 2107x 2042y
+03:25:43 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4421
+03:25:43 : [POWERnome] - Pontos CP subiu em 3. CP novo: 78
+03:25:43 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:25:43 : [POWERnome] - Level UP para level 1. Ev: 0/0 - 2114x 2038y
+03:25:43 : [POWERnome] - Pontos CP subiu em 3. CP novo: 81
+03:25:43 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:25:43 : [POWERnome] - Level UP para level 2. Ev: 0/0 - 2114x 2038y
+03:25:50 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4420
+03:25:50 : [POWERnome] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:25:50 : [POWERnome] - Pontos CP subiu em 3. CP novo: 84
+03:25:50 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:25:50 : [POWERnome] - Level UP para level 3. Ev: 0/0 - 2118x 2045y
+03:25:50 : [POWERnome] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2118x 2045y - Porco de Guerra (1/30)
+03:25:52 : [POWERnome] - [Mensagem do servidor]: Ages falhou a refinação de Arco_Divino(Anct) para 12
+03:25:55 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4419
+03:25:55 : [POWERnome] - Pontos CP subiu em 3. CP novo: 87
+03:25:55 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:25:55 : [POWERnome] - Level UP para level 4. Ev: 0/0 - 2119x 2045y
+03:26:12 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4420
+03:26:12 : [POWERnome] - Pontos CP subiu em 3. CP novo: 90
+03:26:12 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:26:12 : [POWERnome] - Level UP para level 5. Ev: 0/0 - 2121x 2045y
+03:26:37 : [POWERnome] - Clicado no NPC [Helper]. Face 230. Race: 2. GenerateId: 3421. Posição do usuário: 2130x 2037y. Posição do NPC: 2132x 2034y
+03:26:52 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4426
+03:26:52 : [POWERnome] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:26:52 : [POWERnome] - Pontos CP subiu em 3. CP novo: 93
+03:26:52 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:26:52 : [POWERnome] - Level UP para level 6. Ev: 0/0 - 2129x 2029y
+03:26:55 : [POWERnome] - [Mensagem do servidor]: Jogador Ages obteve sucesso na refinação item +12
+03:26:56 : [POWERnome] - Matou o mob Aguia. GenerID: 4427
+03:26:56 : [POWERnome] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+03:26:56 : [POWERnome] - Dropado item Botas(A) [1154] [43 1 73 30 59 0] em 2131x 2029y - Aguia (1/30)
+03:26:59 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4428
+03:26:59 : [POWERnome] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+03:27:03 : [POWERnome] - Matou o mob Aguia. GenerID: 4428
+03:27:03 : [POWERnome] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:27:03 : [POWERnome] - Pontos CP subiu em 3. CP novo: 96
+03:27:03 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:27:03 : [POWERnome] - Level UP para level 7. Ev: 0/0 - 2133x 2024y
+03:27:07 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4427
+03:27:07 : [POWERnome] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+03:27:24 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4425
+03:27:24 : [POWERnome] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+03:27:28 : [POWERnome] - Matou o mob Aguia. GenerID: 4427
+03:27:28 : [POWERnome] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:27:39 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4424
+03:27:39 : [POWERnome] - Pontos CP subiu em 3. CP novo: 99
+03:27:39 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:27:39 : [POWERnome] - Level UP para level 8. Ev: 0/0 - 2127x 2033y
+03:27:39 : [POWERnome] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2127x 2033y - Porco de Guerra (1/30)
+03:27:40 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4425
+03:27:40 : [POWERnome] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+03:27:47 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4427
+03:27:47 : [POWERnome] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:27:50 : [POWERnome] - Matou o mob Aguia. GenerID: 4427
+03:27:52 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4425
+03:27:52 : [POWERnome] - Pontos CP subiu em 3. CP novo: 102
+03:27:52 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:27:52 : [POWERnome] - Level UP para level 9. Ev: 0/0 - 2128x 2031y
+03:27:57 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4424
+03:27:59 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4426
+03:27:59 : [POWERnome] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+03:28:01 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4428
+03:28:01 : [POWERnome] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:28:05 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4427
+03:28:05 : [POWERnome] - Pontos CP subiu em 3. CP novo: 105
+03:28:05 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:28:05 : [POWERnome] - Level UP para level 10. Ev: 0/0 - 2133x 2028y
+03:28:08 : [POWERnome] - Matou o mob Aguia. GenerID: 4427
+03:28:08 : [POWERnome] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+03:28:12 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4425
+03:28:12 : [POWERnome] - Dropado item Jaqueta(A) [1556] [14 16 71 50 3 15] em 2128x 2030y - Porco de Guerra (1/67)
+03:28:13 : [POWERnome] - Moveu item Poção_de_Cura [400] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo INVENTÁRIO slot 0
+03:28:15 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4426
+03:28:15 : [POWERnome] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+03:28:18 : [POWERnome] - Matou o mob Aguia. GenerID: 4427
+03:28:18 : [POWERnome] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:28:18 : [POWERnome] - Dropado item Luvas(A) [1292] [43 0 72 30 74 18] em 2129x 2028y - Aguia (1/30)
+03:28:24 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4427
+03:28:29 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4427
+03:28:29 : [POWERnome] - Pontos CP subiu em 3. CP novo: 108
+03:28:29 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:28:29 : [POWERnome] - Level UP para level 11. Ev: 0/0 - 2134x 2027y
+03:28:31 : [POWERnome] - Matou o mob Aguia. GenerID: 4427
+03:28:32 : [POWERnome] - Matou o mob Aguia. GenerID: 4428
+03:28:32 : [POWERnome] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+03:28:38 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4426
+03:28:41 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4427
+03:28:41 : [POWERnome] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+03:28:44 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4428
+03:28:47 : [POWERnome] - Matou o mob Aguia. GenerID: 4428
+03:28:47 : [POWERnome] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:28:51 : [POWERnome] - Matou o mob Aguia. GenerID: 4427
+03:28:55 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4428
+03:28:55 : [POWERnome] - Pontos CP subiu em 3. CP novo: 111
+03:28:55 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:28:55 : [POWERnome] - Level UP para level 12. Ev: 0/0 - 2134x 2025y
+03:28:58 : [POWERnome] - Matou o mob Aguia. GenerID: 4428
+03:29:02 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4429
+03:29:05 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4429
+03:29:05 : [POWERnome] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+03:29:06 : [POWERnome] - Matou o mob Aguia. GenerID: 4429
+03:29:09 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4428
+03:29:11 : [POWERnome] - Matou o mob Aguia. GenerID: 4428
+03:29:11 : [POWERnome] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+03:29:14 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4427
+03:29:17 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4429
+03:29:17 : [POWERnome] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:29:19 : [POWERnome] - Matou o mob Aguia. GenerID: 4429
+03:29:22 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4428
+03:29:22 : [POWERnome] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2136x 2023y - Porco de Guerra (1/30)
+03:29:24 : [POWERnome] - Matou o mob Aguia. GenerID: 4428
+03:29:24 : [POWERnome] - Pontos CP subiu em 3. CP novo: 114
+03:29:24 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:29:24 : [POWERnome] - Level UP para level 13. Ev: 0/0 - 2134x 2025y
+03:29:29 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4429
+03:29:32 : [POWERnome] - Matou o mob Aguia. GenerID: 4429
+03:29:35 : [POWERnome] - Matou o mob Aguia. GenerID: 4428
+03:29:35 : [POWERnome] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+03:29:35 : [POWERnome] - Dropado item Botas(A) [1154] [11 16 73 12 74 9] em 2135x 2022y - Aguia (1/30)
+03:29:38 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4428
+03:29:41 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4429
+03:29:44 : [POWERnome] - Matou o mob Aguia. GenerID: 4429
+03:29:44 : [POWERnome] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+03:29:47 : [POWERnome] - Matou o mob Aguia. GenerID: 4427
+03:29:47 : [POWERnome] - Dropado item Jaqueta(A) [1556] [43 1 71 50 3 15] em 2134x 2025y - Aguia (1/30)
+03:29:47 : [POWERnome] - Dropado item Botas(A) [1565] [43 0 73 12 74 9] em 2134x 2025y - Aguia (1/30)
+03:29:50 : [POWERnome] - Matou o mob Aguia. GenerID: 4432
+03:29:50 : [POWERnome] - Dropado item Botas(A) [1565] [43 0 73 18 59 0] em 2138x 2030y - Aguia (1/30)
+03:29:54 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4429
+03:29:54 : [POWERnome] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:29:54 : [POWERnome] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2138x 2025y - Porco de Guerra (1/30)
+03:29:56 : [POWERnome] - Matou o mob Aguia. GenerID: 4429
+03:29:58 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4432
+03:30:00 : [POWERnome] - [Mensagem do servidor]: Huntrey falhou na composição do item Arco para Ancient
+03:30:01 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4428
+03:30:01 : [POWERnome] - Pontos CP subiu em 3. CP novo: 117
+03:30:01 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:30:01 : [POWERnome] - Level UP para level 14. Ev: 0/0 - 2135x 2024y
+03:30:04 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4427
+03:30:16 : [POWERnome] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 4610. Posição do usuário: 2110x 2045y. Posição do NPC: 2107x 2042y
+03:30:56 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:31:05 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:31:09 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:31:11 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:31:17 : [POWERnome] - [Mensagem do servidor]: SAFADEX falhou na composição do item Arco para Ancient
+03:33:59 : [POWERnome] - Item Jaqueta(A) deletado [1556] [43 1 71 50 3 15]. Slot 7
+03:34:01 : [POWERnome] - [Mensagem do servidor]: Jogador KOMIKU falhou a composição do item Chapéu(A) +10
+03:34:01 : [POWERnome] - Item Botas(A) deletado [1154] [43 1 73 30 59 0]. Slot 1
+03:34:05 : [POWERnome] - Item Jaqueta(A) deletado [1556] [14 16 71 50 3 15]. Slot 3
+03:34:06 : [POWERnome] - Item Luvas(A) deletado [1292] [43 0 72 30 74 18]. Slot 4
+03:34:07 : [POWERnome] - Item Botas(A) deletado [1565] [43 0 73 12 74 9]. Slot 8
+03:34:09 : [POWERnome] - Item Botas(A) deletado [1565] [43 0 73 18 59 0]. Slot 9
+03:34:10 : [POWERnome] - Item Poção_de_Cura deletado [400] [0 0 0 0 0 0]. Slot 2
+03:34:11 : [POWERnome] - Item Poção_de_Cura deletado [400] [0 0 0 0 0 0]. Slot 0
+03:34:13 : [POWERnome] - Item Poção_de_Cura deletado [400] [0 0 0 0 0 0]. Slot 5
+03:34:15 : [POWERnome] - Item Poção_de_Cura deletado [400] [0 0 0 0 0 0]. Slot 10
+03:34:17 : [POWERnome] - Moveu item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo INVENTÁRIO slot 11
+03:34:47 : [POWERnome] - [Mensagem do servidor]: Jogador skate obteve sucesso na composição de Espada_Vorpal(Anct)
+03:34:54 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:35:00 : [POWERnome] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na composição de Arco_Divino(Anct)
+03:35:02 : [POWERnome] - [Mensagem do servidor]: Jogador skate obteve sucesso na composição de Espada_Vorpal(Anct)
+03:35:02 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:35:05 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:35:08 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:35:11 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:35:13 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:35:19 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2082x 2109y
+03:35:19 : [POWERnome] - Gold atual: 0.
+03:35:20 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2082x 2109y
+03:35:20 : [POWERnome] - Gold atual: 100000000.
+03:35:21 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2082x 2109y
+03:35:21 : [POWERnome] - Gold atual: 200000000.
+03:35:22 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2082x 2109y
+03:35:22 : [POWERnome] - Gold atual: 300000000.
+03:35:22 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2082x 2109y
+03:35:22 : [POWERnome] - Gold atual: 400000000.
+03:35:23 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2082x 2109y
+03:35:23 : [POWERnome] - Gold atual: 500000000.
+03:35:24 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2082x 2109y
+03:35:24 : [POWERnome] - Gold atual: 600000000.
+03:35:24 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2082x 2109y
+03:35:24 : [POWERnome] - Gold atual: 700000000.
+03:35:25 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2082x 2109y
+03:35:25 : [POWERnome] - Gold atual: 800000000.
+03:35:26 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2082x 2109y
+03:35:26 : [POWERnome] - Gold atual: 900000000.
+03:35:26 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2082x 2109y
+03:35:26 : [POWERnome] - Gold atual: 1000000000.
+03:35:27 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2082x 2109y
+03:35:27 : [POWERnome] - Gold atual: 1100000000.
+03:35:30 : [POWERnome] - Moveu item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 0
+03:35:32 : [POWERnome] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na composição de Arco_Divino(Anct)
+03:35:45 : [POWERnome] - [Mensagem do servidor]: SAFADEX falhou na composição do item Arco para Ancient
+03:36:11 : [POWERnome] - [Mensagem do servidor]: Jogador SAFADEX falhou a composição do item Arco_Divino(Anct) +10
+03:36:17 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:36:21 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:36:23 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:36:25 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:36:29 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:36:31 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:36:34 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:36:36 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:36:37 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:36:39 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:36:43 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:36:45 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:36:48 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:36:50 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:36:54 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:36:57 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:37:00 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:37:02 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:37:07 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2084x 2103y
+03:37:07 : [POWERnome] - Gold atual: 1200000000.
+03:37:08 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2084x 2103y
+03:37:08 : [POWERnome] - Gold atual: 1300000000.
+03:37:08 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2084x 2103y
+03:37:08 : [POWERnome] - Gold atual: 1400000000.
+03:37:09 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2084x 2103y
+03:37:09 : [POWERnome] - Gold atual: 1500000000.
+03:37:10 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2084x 2103y
+03:37:10 : [POWERnome] - Gold atual: 1600000000.
+03:37:10 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2084x 2103y
+03:37:10 : [POWERnome] - Gold atual: 1700000000.
+03:37:11 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2084x 2103y
+03:37:11 : [POWERnome] - Gold atual: 1800000000.
+03:37:12 : [POWERnome] - Moveu item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo INVENTÁRIO slot 3
+03:37:13 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2084x 2103y
+03:37:13 : [POWERnome] - Gold atual: 1900000000.
+03:37:16 : [POWERnome] - Moveu item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo INVENTÁRIO slot 2
+03:37:18 : [POWERnome] - Moveu item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo INVENTÁRIO slot 2
+03:37:20 : [POWERnome] - Moveu item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo INVENTÁRIO slot 4
+03:37:21 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2084x 2103y
+03:37:21 : [POWERnome] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+03:37:29 : [POWERnome] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2094x 2106y. Posição do NPC: 2102x 2113y
+03:37:32 : [POWERnome] - Item Barra_de_Bronze(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 4
+03:37:33 : [POWERnome] - Item Barra_de_Bronze(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 3
+03:37:35 : [POWERnome] - Item Barra_de_Bronze(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 2
+03:37:36 : [POWERnome] - Item Barra_de_Bronze(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 1
+03:37:37 : [POWERnome] - Moveu item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo BANCO slot 0
+03:37:52 : [POWERnome] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2094x 2106y. Posição do NPC: 2102x 2113y
+03:37:54 : [POWERnome] - Moveu item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] do tipo BANCO do slot 0 para tipo INVENTÁRIO slot 0
+03:38:03 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:38:06 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:38:08 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:38:10 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:38:12 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:38:14 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:38:17 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:38:19 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:38:21 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:38:25 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:38:27 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:38:29 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:38:33 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:38:47 : [POWERnome] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2094x 2106y. Posição do NPC: 2102x 2113y
+03:38:52 : [POWERnome] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2094x 2106y. Posição do NPC: 2102x 2113y
+03:38:56 : [POWERnome] - [Mensagem do servidor]: skate falhou na composição do item Adaga para Ancient
+03:39:00 : [POWERnome] - [Mensagem do servidor]> Composição concluída
+03:39:05 : [POWERnome] - [Mensagem do servidor]: Jogador KOMIKU falhou a composição do item Peitoral(A) +10
+03:39:06 : [POWERnome] - [Mensagem do servidor]: skate falhou na composição do item Adaga para Ancient
+03:39:24 : [POWERnome] - [Mensagem do servidor]: Jogador KOMIKU falhou a composição do item Peitoral(A) +10
+03:40:00 : [POWERnome] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2100x 2108y. Posição do NPC: 2102x 2113y
+03:40:03 : [POWERnome] - Moveu item Barra_de_Prata_(1Bi) [4011] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo BANCO slot 0
+03:40:04 : [POWERnome] - Moveu item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo BANCO slot 1
+03:40:12 : [POWERnome] - [Mensagem do servidor]: skate falhou na composição do item Adaga para Ancient
+03:40:20 : [POWERnome] - Clicado no NPC [Mestre Grifo]. Face 21. Race: 2. GenerateId: 3418. Posição do usuário: 2115x 2084y. Posição do NPC: 2115x 2080y
+03:40:22 : [POWERnome] - [Mensagem do servidor]: Jogador KOMIKU falhou a composição do item Braçadeira(A) +10
+03:40:41 : [POWERnome] - Comprou o item Skeleton_Dart [942] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 11500. Imposto: 1500. Gold: 1900000000 anterior. Gold após a compra: 1899988500
+03:40:45 : [POWERnome] - Moveu item Skeleton_Dart [942] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 6
+03:40:53 : [POWERnome] - Item Adaga deletado [861] [43 0 0 0 0 0]. Slot 0
+03:41:00 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4423
+03:41:02 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4425
+03:41:03 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4423
+03:41:03 : [POWERnome] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+03:41:03 : [POWERnome] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2124x 2037y - Porco de Guerra (1/30)
+03:41:04 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4424
+03:41:05 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4425
+03:41:05 : [POWERnome] - Dropado item Jaqueta(A) [1556] [43 1 71 70 2 18] em 2125x 2036y - Porco de Guerra (1/67)
+03:41:08 : [POWERnome] - Clicado no NPC [Helper]. Face 230. Race: 2. GenerateId: 3421. Posição do usuário: 2121x 2033y. Posição do NPC: 2132x 2034y
+03:41:13 : [POWERnome] - [Mensagem do servidor]: Huntrey falhou na composição do item Arco para Ancient
+03:41:16 : [POWERnome] - Matou o mob Porco de Guerra. GenerID: 4421
+03:41:16 : [POWERnome] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+03:41:34 : [POWERnome] - Teleportado para a posição 2482 1717
+03:41:43 : [POWERnome] - [Mensagem do servidor]: Jogador Huntrey obteve sucesso na composição de Arco_Divino(Anct)
+03:41:53 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:41:55 : [POWERnome] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:42:00 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2465x 1730y
+03:42:00 : [POWERnome] - Gold atual: 1899986700.
+03:42:02 : [POWERnome] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2465x 1730y
+03:42:02 : [POWERnome] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+03:42:05 : [POWERnome] - [Mensagem do servidor]: Sthysd falhou na composição do item Cajado para Ancient
+03:42:26 : [POWERnome] - Teleportado para a posição 959 1760
+03:42:32 : [POWERnome] - Teleportado para a posição 2458 2017
+03:42:34 : [POWERnome] - [Mensagem do servidor]: Sthysd falhou na composição do item Cajado para Ancient
+03:42:35 : [POWERnome] - [Mensagem do servidor]: Parabéns Frankzane pela criação do personagem Arch
+03:42:47 : [POWERnome] - Matou o mob Meio Orc. GenerID: 875
+03:42:47 : [POWERnome] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:42:49 : [POWERnome] - Morreu para Orc Cavaleiro 2487x 2007y
+03:42:49 : [POWERnome] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+03:42:56 : [POWERnome] - DoRecall - Enviado para cidade: 2467x 2003y
+03:42:56 : [POWERnome] - Usuário reviveu
+03:42:57 : [POWERnome] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na composição de Eirenus(Anct)
+03:43:10 : [POWERnome] - Matou o mob Meio Orc. GenerID: 873
+03:43:10 : [POWERnome] - Pontos CP subiu em 3. CP novo: 120
+03:43:10 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:43:10 : [POWERnome] - Level UP para level 15. Ev: 0/0 - 2487x 2012y
+03:43:10 : [POWERnome] - Dropado item Botas(A) [1839] [43 1 73 18 59 0] em 2487x 2012y - Meio Orc (1/135)
+03:43:13 : [POWERnome] - Matou o mob Orc Cavaleiro. GenerID: 873
+03:43:20 : [POWERnome] - Matou o mob Orc Cavaleiro. GenerID: 875
+03:43:20 : [POWERnome] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+03:43:22 : [POWERnome] - Matou o mob Meio Orc. GenerID: 875
+03:43:22 : [POWERnome] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+03:43:24 : [POWERnome] - Matou o mob Orc Cavaleiro. GenerID: 875
+03:43:24 : [POWERnome] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:43:28 : [POWERnome] - Matou o mob Orc Cavaleiro. GenerID: 875
+03:43:28 : [POWERnome] - Pontos CP subiu em 3. CP novo: 123
+03:43:28 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:43:28 : [POWERnome] - Level UP para level 16. Ev: 0/0 - 2489x 2008y
+03:43:31 : [POWERnome] - Matou o mob Orc Cavaleiro. GenerID: 873
+03:43:34 : [POWERnome] - [Mensagem do servidor]: Jogador KOMIKU falhou a composição do item Calça(A) +10
+03:43:35 : [POWERnome] - Matou o mob Meio Orc. GenerID: 875
+03:43:35 : [POWERnome] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+03:43:37 : [POWERnome] - Matou o mob Meio Orc. GenerID: 877
+03:43:37 : [POWERnome] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+03:43:40 : [POWERnome] - Matou o mob Orc Cavaleiro. GenerID: 875
+03:43:40 : [POWERnome] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:43:40 : [POWERnome] - [Mensagem do servidor]: Sthysd falhou na composição do item Cajado para Ancient
+03:43:43 : [POWERnome] - Matou o mob Orc Cavaleiro. GenerID: 877
+03:43:47 : [POWERnome] - Matou o mob Meio Orc. GenerID: 877
+03:43:47 : [POWERnome] - Pontos CP subiu em 3. CP novo: 126
+03:43:47 : [POWERnome] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:43:47 : [POWERnome] - Level UP para level 17. Ev: 0/0 - 2489x 2002y
+03:43:52 : [POWERnome] - Morreu para Meio Orc 2489x 2001y
+03:43:52 : [POWERnome] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+03:43:59 : [POWERnome] - DoRecall - Enviado para cidade: 2466x 2009y
+03:43:59 : [POWERnome] - Usuário reviveu
+03:44:23 : [POWERnome] - LILICOXD Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+03:44:23 : [POWERnome] - 34 Personagem foi desconectado. Permaneceu 00:19:23 minutos online
+16:13:21 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILICOXD) - IP: 177.131.168.16 Mac: (67:0A:00:E2:13:46). ClientId: 2
+16:13:21 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+16:13:21 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+17:02:52 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILICOXD) - IP: 177.131.168.16 Mac: (67:0A:00:E2:13:46). ClientId: 1
+17:02:52 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+17:02:52 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+17:03:01 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILICOXD) - IP: 177.131.168.16 Mac: (67:0A:00:E2:13:46). ClientId: 10
+17:03:01 : Usuário logou no jogo com clientId 10. - Servidor 1. Gold do banco: 0
+17:03:01 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[  1] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+
+17:03:25 : Enviou senha numérica correta. 
+17:03:28 : Solicitou ir ao mundo...
+17:03:28 : Recebido pedido para entrar no jogo
+17:03:28 : Recebido informação do personagem completa.
+17:03:28 : [POWERnome] - [INFORMAÇÕES DA CONTA]
+Personagem online: POWERnome
+Gold atual: 1999984100
+Level atual: 17
+Experiência atual: 27796
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:27 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Skeleton_Dart[942] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[01] - Botas(A)[1839] [43 1 73 18 59 0]
+[02] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[03] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[04] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[05] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [126 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:03:28 : [POWERnome] - Personagem POWERnome enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. PowerLevel: 191
+17:03:28 : [POWERnome] - Gold atual: 1999984100. Classe: 2 Evolução: 0. Experiência: 27796. Nível: 17. Info: 0. GuildID: 0. CP: 51. Pontos de Contribuição: 0. Limite: 0
+17:03:28 : [POWERnome] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+17:03:28 : [POWERnome] - Enviado informações do personagem
+17:03:32 : [POWERnome] - Comando "/day "
+17:03:32 : [POWERnome] - [Mensagem do servidor]> !#11 2
+17:03:38 : [POWERnome] - [Mensagem do servidor]: Jogador RTX-3080 falhou a composição do item Túnica(A) +10
+17:03:43 : [POWERnome] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:03:52 : [POWERnome] - [Mensagem do servidor]: Jogador RTX-3080 falhou a composição do item Túnica(A) +10
+17:04:05 : [POWERnome] - Clicado no NPC [Helper]. Face 230. Race: 2. GenerateId: 3421. Posição do usuário: 2129x 2036y. Posição do NPC: 2132x 2034y
+17:04:23 : [POWERnome] - Clicado no NPC [Mestre Grifo]. Face 21. Race: 2. GenerateId: 3418. Posição do usuário: 2115x 2077y. Posição do NPC: 2115x 2080y
+17:04:34 : [POWERnome] - Item Botas(A) deletado [1839] [43 1 73 18 59 0]. Slot 1
+17:04:35 : [POWERnome] - Item Barra_de_Bronze(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 4
+17:04:37 : [POWERnome] - Item Barra_de_Bronze(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 3
+17:04:40 : [POWERnome] - Item Barra_de_Bronze(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 2
+17:04:42 : [POWERnome] - Item Barra_de_Bronze(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 5
+17:05:03 : [POWERnome] - Comando "/ @carai to com muito lag, tem como remover isso"
+17:05:03 : [POWERnome] - Mensagem enviada: @carai to com muito lag, tem como remover isso
+17:05:39 : [POWERnome] - Comando "/effects "
+17:05:39 : [POWERnome] - [Mensagem do servidor]> Este personagem não está conectado.
+17:05:48 : [POWERnome] - [Mensagem do servidor]: Jogador RTX-3080 falhou a composição do item Calça(A) +10
+17:05:53 : [POWERnome] - Comando "/ @vlw"
+17:05:53 : [POWERnome] - Mensagem enviada: @vlw
+17:06:11 : [POWERnome] - LILICOXD Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:06:11 : [POWERnome] - 10 Personagem foi desconectado. Permaneceu 00:03:08 minutos online
+17:07:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILICOXD) - IP: 177.131.168.16 Mac: (67:0A:00:E2:13:46). ClientId: 3
+17:07:37 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+17:07:37 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+17:07:42 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILICOXD) - IP: 177.131.168.16 Mac: (67:0A:00:E2:13:46). ClientId: 20
+17:07:42 : Usuário logou no jogo com clientId 20. - Servidor 1. Gold do banco: 0
+17:07:42 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[  1] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+
+17:07:52 : Enviou senha numérica correta. 
+17:07:54 : Solicitou ir ao mundo...
+17:07:57 : Recebido pedido para entrar no jogo
+17:07:57 : Recebido informação do personagem completa.
+17:07:57 : [POWERnome] - [INFORMAÇÕES DA CONTA]
+Personagem online: POWERnome
+Gold atual: 1999984100
+Level atual: 17
+Experiência atual: 27796
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:13 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Skeleton_Dart[942] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [126 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:07:57 : [POWERnome] - Personagem POWERnome enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. PowerLevel: 191
+17:07:57 : [POWERnome] - Gold atual: 1999984100. Classe: 2 Evolução: 0. Experiência: 27796. Nível: 17. Info: 0. GuildID: 0. CP: 51. Pontos de Contribuição: 0. Limite: 0
+17:07:57 : [POWERnome] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+17:07:57 : [POWERnome] - Enviado informações do personagem
+17:08:01 : [POWERnome] - Comando "/day "
+17:08:01 : [POWERnome] - [Mensagem do servidor]> !#11 2
+17:08:07 : [POWERnome] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:08:28 : [POWERnome] - Comando "/ @botei td low mas continua kk"
+17:08:28 : [POWERnome] - Mensagem enviada: @botei td low mas continua kk
+17:09:02 : [POWERnome] - [Mensagem do servidor]: Jogador FedeLele falhou a composição do item Calça(A) +10
+17:09:14 : [POWERnome] - Comprou uma skill Lobisomem. Learn antigo: 281475126154644, Learn atual: 1019361765596659712. Learn da skill: 237338656.
+17:09:14 : [POWERnome] - [Mensagem do servidor]> Habilidade Lobisomem aprendida com sucesso
+17:09:48 : [POWERnome] - Teleportado para a posição 2458 2017
+17:10:12 : [POWERnome] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+17:10:20 : [POWERnome] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+17:10:21 : [POWERnome] - Morreu para Orc Cavaleiro 2487x 2004y
+17:10:21 : [POWERnome] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+17:10:21 : [POWERnome] - Usou uma skill estando com 0 de HP. SkillID: 153
+17:10:32 : [POWERnome] - LILICOXD Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:10:32 : [POWERnome] - 20 Personagem foi desconectado. Permaneceu 00:02:31 minutos online

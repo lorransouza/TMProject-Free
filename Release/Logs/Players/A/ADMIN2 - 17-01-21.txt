@@ -1,0 +1,513 @@
+
+11:37:00 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+11:37:00 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 9351001
+11:37:00 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  0] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  1] - Elmo(M)[1111] [43 3 4 20 0 0]
+
+11:37:00 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:37:04 : Solicitou ir ao mundo...
+11:37:04 : Recebido pedido para entrar no jogo
+11:37:04 : Recebido informação do personagem completa.
+11:37:04 : [FoeFoe2] - [INFORMAÇÕES DA CONTA]
+Personagem online: FoeFoe2
+Gold atual: 950748350
+Level atual: 29
+Experiência atual: 110975
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[14] - Aranha[2360] [231 22 1 7 8 0]
+[15] - Capa_de_Hekalotia[736] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo(M)[1111] [43 3 4 20 0 0]
+[01] - Ração_de_Cérberus[2438] [61 5 0 0 0 0]
+[02] - Chave_da_Ultima_Porta[453] [0 0 0 0 0 0]
+[03] - Chave_Portão_Orc_Sul[465] [0 0 0 0 0 0]
+[04] - Chave_Portão_Orc_Leste[466] [0 0 0 0 0 0]
+[05] - Chapéu(M)[1261] [43 0 4 20 0 0]
+[06] - Botas(M)[1309] [43 0 60 6 74 12]
+[07] - Luvas(M)[1297] [43 0 2 20 53 3]
+[09] - Fênix[2389] [1 1 1 10 0 0]
+[10] - Svadilfari[2387] [184 255 10 10 0 0]
+[14] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[15] - Luvas(N)[1560] [43 1 72 20 60 4]
+[16] - Elmo(A)[1801] [43 0 60 8 59 0]
+[17] - Luvas(N)[1560] [8 12 72 10 2 6]
+[18] - Chapéu(N)[1401] [43 0 60 8 3 10]
+[19] - Jaqueta(N)[1554] [43 1 71 30 59 0]
+[20] - Calça(A)[1809] [7 7 71 40 2 12]
+[21] - Braçadeira(M)[1576] [43 1 72 15 54 6]
+[22] - Braçadeira(A)[2049] [43 0 72 10 54 9]
+[23] - Calça(A)[1409] [43 0 3 20 2 12]
+[24] - Botas(A)[1818] [43 0 73 12 59 0]
+[25] - Ração_de_Fênix[2439] [61 4 0 0 0 0]
+[26] - Armadura(N)[1479] [0 0 0 0 0 0]
+[27] - [4190] [96 30 0 0 0 0]
+[28] - Conjunto_Yin-Yang[4150] [96 7 1 21 0 0]
+[29] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:37:04 : [FoeFoe2] - Personagem FoeFoe2 enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 118656. OverPower: 60
+11:37:04 : [FoeFoe2] - Gold atual: 950748350. Classe: 1 Evolução: 0. Experiência: 110975. Nível: 29. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+11:37:04 : [FoeFoe2] - Resetado a contagem de entradas água! Day: 15-16. Total: 0
+11:37:04 : [FoeFoe2] - Enviado informações do personagem
+11:37:05 : [FoeFoe2] - Comando "/day "
+11:37:05 : [FoeFoe2] - [Mensagem do servidor]> !#11 2
+11:37:09 : [FoeFoe2] - Comando "/gm +ferreiro"
+11:37:12 : [FoeFoe2] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+11:37:23 : [FoeFoe2] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+11:37:23 : [FoeFoe2] - 2 Personagem foi desconectado. Permaneceu 00:00:23 minutos online
+12:59:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+12:59:08 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+12:59:08 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  0] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  1] - Elmo(M)[1111] [43 3 4 20 0 0]
+
+12:59:08 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:59:15 : Solicitou ir ao mundo...
+12:59:15 : Recebido pedido para entrar no jogo
+12:59:15 : Recebido informação do personagem completa.
+12:59:15 : [FoeFoe2] - [INFORMAÇÕES DA CONTA]
+Personagem online: FoeFoe2
+Gold atual: 950748350
+Level atual: 29
+Experiência atual: 110975
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[14] - Aranha[2360] [231 22 1 7 8 0]
+[15] - Capa_de_Hekalotia[736] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo(M)[1111] [43 3 4 20 0 0]
+[01] - Ração_de_Cérberus[2438] [61 5 0 0 0 0]
+[02] - Chave_da_Ultima_Porta[453] [0 0 0 0 0 0]
+[03] - Chave_Portão_Orc_Sul[465] [0 0 0 0 0 0]
+[04] - Chave_Portão_Orc_Leste[466] [0 0 0 0 0 0]
+[05] - Chapéu(M)[1261] [43 0 4 20 0 0]
+[06] - Botas(M)[1309] [43 0 60 6 74 12]
+[07] - Luvas(M)[1297] [43 0 2 20 53 3]
+[09] - Fênix[2389] [1 1 1 10 0 0]
+[10] - Svadilfari[2387] [184 255 10 10 0 0]
+[14] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[15] - Luvas(N)[1560] [43 1 72 20 60 4]
+[16] - Elmo(A)[1801] [43 0 60 8 59 0]
+[17] - Luvas(N)[1560] [8 12 72 10 2 6]
+[18] - Chapéu(N)[1401] [43 0 60 8 3 10]
+[19] - Jaqueta(N)[1554] [43 1 71 30 59 0]
+[20] - Calça(A)[1809] [7 7 71 40 2 12]
+[21] - Braçadeira(M)[1576] [43 1 72 15 54 6]
+[22] - Braçadeira(A)[2049] [43 0 72 10 54 9]
+[23] - Calça(A)[1409] [43 0 3 20 2 12]
+[24] - Botas(A)[1818] [43 0 73 12 59 0]
+[25] - Ração_de_Fênix[2439] [61 4 0 0 0 0]
+[26] - Armadura(N)[1479] [0 0 0 0 0 0]
+[27] - [4190] [96 30 0 0 0 0]
+[28] - Conjunto_Yin-Yang[4150] [96 7 1 21 0 0]
+[29] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:59:15 : [FoeFoe2] - Personagem FoeFoe2 enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 118656. OverPower: 60
+12:59:15 : [FoeFoe2] - Gold atual: 950748350. Classe: 1 Evolução: 0. Experiência: 110975. Nível: 29. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+12:59:15 : [FoeFoe2] - Enviado informações do personagem
+12:59:16 : [FoeFoe2] - Comando "/day "
+12:59:16 : [FoeFoe2] - [Mensagem do servidor]> !#11 2
+12:59:21 : [FoeFoe2] - Comando "/gm +armia"
+12:59:21 : [FoeFoe2] - Teleportado para a posição 2100 2100
+12:59:26 : [FoeFoe2] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:59:27 : [FoeFoe2] - Comando "/gm +create FerreiroAxel"
+13:01:13 : [FoeFoe2] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2112x 2110y. Posição do NPC: 2110x 2110y
+13:14:00 : [FoeFoe2] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+13:29:16 : [FoeFoe2] - [INFORMAÇÕES DA CONTA]
+Personagem online: FoeFoe2
+Gold atual: 950748350
+Level atual: 29
+Experiência atual: 110975
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:45 horas
+Posição atual: 2087x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[14] - Aranha[2360] [231 22 1 7 8 0]
+[15] - Capa_de_Hekalotia[736] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo(M)[1111] [43 3 4 20 0 0]
+[01] - Ração_de_Cérberus[2438] [61 5 0 0 0 0]
+[02] - Chave_da_Ultima_Porta[453] [0 0 0 0 0 0]
+[03] - Chave_Portão_Orc_Sul[465] [0 0 0 0 0 0]
+[04] - Chave_Portão_Orc_Leste[466] [0 0 0 0 0 0]
+[05] - Chapéu(M)[1261] [43 0 4 20 0 0]
+[06] - Botas(M)[1309] [43 0 60 6 74 12]
+[07] - Luvas(M)[1297] [43 0 2 20 53 3]
+[09] - Fênix[2389] [1 1 1 10 0 0]
+[10] - Svadilfari[2387] [184 255 10 10 0 0]
+[14] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[15] - Luvas(N)[1560] [43 1 72 20 60 4]
+[16] - Elmo(A)[1801] [43 0 60 8 59 0]
+[17] - Luvas(N)[1560] [8 12 72 10 2 6]
+[18] - Chapéu(N)[1401] [43 0 60 8 3 10]
+[19] - Jaqueta(N)[1554] [43 1 71 30 59 0]
+[20] - Calça(A)[1809] [7 7 71 40 2 12]
+[21] - Braçadeira(M)[1576] [43 1 72 15 54 6]
+[22] - Braçadeira(A)[2049] [43 0 72 10 54 9]
+[23] - Calça(A)[1409] [43 0 3 20 2 12]
+[24] - Botas(A)[1818] [43 0 73 12 59 0]
+[25] - Ração_de_Fênix[2439] [61 4 0 0 0 0]
+[26] - Armadura(N)[1479] [0 0 0 0 0 0]
+[27] - [4190] [96 30 0 0 0 0]
+[28] - Conjunto_Yin-Yang[4150] [96 7 1 21 0 0]
+[29] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:59:16 : [FoeFoe2] - [INFORMAÇÕES DA CONTA]
+Personagem online: FoeFoe2
+Gold atual: 950748350
+Level atual: 29
+Experiência atual: 110975
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:59:16 horas
+Posição atual: 2087x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[14] - Aranha[2360] [231 22 1 7 8 0]
+[15] - Capa_de_Hekalotia[736] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo(M)[1111] [43 3 4 20 0 0]
+[01] - Ração_de_Cérberus[2438] [61 5 0 0 0 0]
+[02] - Chave_da_Ultima_Porta[453] [0 0 0 0 0 0]
+[03] - Chave_Portão_Orc_Sul[465] [0 0 0 0 0 0]
+[04] - Chave_Portão_Orc_Leste[466] [0 0 0 0 0 0]
+[05] - Chapéu(M)[1261] [43 0 4 20 0 0]
+[06] - Botas(M)[1309] [43 0 60 6 74 12]
+[07] - Luvas(M)[1297] [43 0 2 20 53 3]
+[09] - Fênix[2389] [1 1 1 10 0 0]
+[10] - Svadilfari[2387] [184 255 10 10 0 0]
+[14] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[15] - Luvas(N)[1560] [43 1 72 20 60 4]
+[16] - Elmo(A)[1801] [43 0 60 8 59 0]
+[17] - Luvas(N)[1560] [8 12 72 10 2 6]
+[18] - Chapéu(N)[1401] [43 0 60 8 3 10]
+[19] - Jaqueta(N)[1554] [43 1 71 30 59 0]
+[20] - Calça(A)[1809] [7 7 71 40 2 12]
+[21] - Braçadeira(M)[1576] [43 1 72 15 54 6]
+[22] - Braçadeira(A)[2049] [43 0 72 10 54 9]
+[23] - Calça(A)[1409] [43 0 3 20 2 12]
+[24] - Botas(A)[1818] [43 0 73 12 59 0]
+[25] - Ração_de_Fênix[2439] [61 4 0 0 0 0]
+[26] - Armadura(N)[1479] [0 0 0 0 0 0]
+[27] - [4190] [96 30 0 0 0 0]
+[28] - Conjunto_Yin-Yang[4150] [96 7 1 21 0 0]
+[29] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:29:16 : [FoeFoe2] - [INFORMAÇÕES DA CONTA]
+Personagem online: FoeFoe2
+Gold atual: 950748350
+Level atual: 29
+Experiência atual: 110975
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:28:53 horas
+Posição atual: 2087x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[14] - Aranha[2360] [231 22 1 7 8 0]
+[15] - Capa_de_Hekalotia[736] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo(M)[1111] [43 3 4 20 0 0]
+[01] - Ração_de_Cérberus[2438] [61 5 0 0 0 0]
+[02] - Chave_da_Ultima_Porta[453] [0 0 0 0 0 0]
+[03] - Chave_Portão_Orc_Sul[465] [0 0 0 0 0 0]
+[04] - Chave_Portão_Orc_Leste[466] [0 0 0 0 0 0]
+[05] - Chapéu(M)[1261] [43 0 4 20 0 0]
+[06] - Botas(M)[1309] [43 0 60 6 74 12]
+[07] - Luvas(M)[1297] [43 0 2 20 53 3]
+[09] - Fênix[2389] [1 1 1 10 0 0]
+[10] - Svadilfari[2387] [184 255 10 10 0 0]
+[14] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[15] - Luvas(N)[1560] [43 1 72 20 60 4]
+[16] - Elmo(A)[1801] [43 0 60 8 59 0]
+[17] - Luvas(N)[1560] [8 12 72 10 2 6]
+[18] - Chapéu(N)[1401] [43 0 60 8 3 10]
+[19] - Jaqueta(N)[1554] [43 1 71 30 59 0]
+[20] - Calça(A)[1809] [7 7 71 40 2 12]
+[21] - Braçadeira(M)[1576] [43 1 72 15 54 6]
+[22] - Braçadeira(A)[2049] [43 0 72 10 54 9]
+[23] - Calça(A)[1409] [43 0 3 20 2 12]
+[24] - Botas(A)[1818] [43 0 73 12 59 0]
+[25] - Ração_de_Fênix[2439] [61 4 0 0 0 0]
+[26] - Armadura(N)[1479] [0 0 0 0 0 0]
+[27] - [4190] [96 30 0 0 0 0]
+[28] - Conjunto_Yin-Yang[4150] [96 7 1 21 0 0]
+[29] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:53:03 : [FoeFoe2] - O login admin2 tentou logar na conta com o mesmo mac.
+14:53:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+14:53:03 : Conta ADMIN2 logado na conta
+Status da conta: JOGANDO
+Personagem: FoeFoe2
+
+14:53:03 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+14:53:07 : [FoeFoe2] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:53:07 : [FoeFoe2] - 1 Personagem foi desconectado. Permaneceu 01:52:26 minutos online
+14:53:09 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+14:53:09 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+14:53:09 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  0] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  1] - Elmo(M)[1111] [43 3 4 20 0 0]
+
+14:53:15 : Solicitou ir ao mundo...
+14:53:15 : Recebido pedido para entrar no jogo
+14:53:15 : Recebido informação do personagem completa.
+14:53:15 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 557197141
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2092x 2102y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 519691158032
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 2
+Experiência atual: 57259240
+Learn: 1090453504
+SecLearn: 0
+Info: 130576
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[36] [43 0 36 3 1 1]
+[02] - Armadura[1656] [43 253 0 0 0 0]
+[03] - Calça[1657] [43 253 0 0 0 0]
+[04] - Luvas[1658] [43 253 0 0 0 0]
+[05] - Botas[1659] [43 253 0 0 0 0]
+[06] - Dardo[886] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 15 2 21 0 98]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pacote_de_Itens_(c/_Roleta)[5381] [96 6 61 84 0 0]
+[01] - Chave_do_Pacote[5382] [96 6 61 84 0 0]
+[02] - Pacote_de_Itens_(c/_Roleta)[5381] [96 6 0 0 0 0]
+[03] - Insígnia_Sagrada[3394] [0 0 0 0 0 0]
+[04] - Pacote_de_Itens_(c/_Roleta)[5381] [96 6 0 0 0 0]
+[05] - Insígnia_Sagrada[3394] [61 5 0 0 0 0]
+[06] - Insígnia_Sagrada[3394] [0 0 0 0 0 0]
+[07] - Chave_do_Pacote[5382] [96 6 0 0 0 0]
+[08] - Insígnia_Sagrada[3394] [0 0 0 0 0 0]
+[09] - Insígnia_Sagrada[3394] [61 3 0 0 0 0]
+[10] - Fenrir[2376] [20 0 10 8 0 0]
+[11] - Pacote_de_Itens_(c/_Roleta)[5381] [96 6 0 0 0 0]
+[12] - Pacote_de_Itens_(c/_Roleta)[5381] [96 6 0 0 0 0]
+[13] - Insígnia_Sagrada[3394] [61 3 0 0 0 0]
+[14] - Chave_do_Pacote[5382] [96 6 0 0 0 0]
+[15] - Pacote_de_Itens_(c/_Roleta)[5381] [96 6 0 0 0 0]
+[16] - Âmago_de_Svadilfari[2417] [61 3 0 0 0 0]
+[17] - Pacote_de_Itens_(c/_Roleta)[5381] [96 2 0 0 0 0]
+[18] - Insígnia_Sagrada[3394] [0 0 0 0 0 0]
+[19] - Pacote_de_Itens_(c/_Roleta)[5381] [96 6 0 0 0 0]
+[20] - Insígnia_Sagrada[3394] [0 0 0 0 0 0]
+[21] - Insígnia_Sagrada[3394] [61 3 0 0 0 0]
+[22] - Poeira_de_Joia[4600] [61 30 0 0 0 0]
+[23] - Insígnia_Sagrada[3394] [0 0 0 0 0 0]
+[24] - Insígnia_Sagrada[3394] [0 0 0 0 0 0]
+[25] - Insígnia_Sagrada[3394] [0 0 0 0 0 0]
+[26] - Insígnia_Sagrada[3394] [61 3 0 0 0 0]
+[27] - Insígnia_Sagrada[3394] [0 0 0 0 0 0]
+[28] - Insígnia_Sagrada[3394] [0 0 0 0 0 0]
+[29] - Insígnia_Sagrada[3394] [61 5 0 0 0 0]
+[30] - Pacote_de_Itens_(c/_Roleta)[5381] [96 6 0 0 0 0]
+[31] - Insígnia_Sagrada[3394] [61 50 0 0 0 0]
+[32] - Insígnia_Sagrada[3394] [61 3 0 0 0 0]
+[33] - Insígnia_Sagrada[3394] [0 0 0 0 0 0]
+[35] - Âmago_de_Sleipnir[2418] [61 3 0 0 0 0]
+[36] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 0]
+[37] - Pedido_de_Caça(Kefra)[3436] [61 9 0 0 0 0]
+[38] - Pedido_de_Caça(SubM)[3434] [61 8 0 0 0 0]
+[39] - Pedido_de_Caça(Nipple)[3437] [61 8 0 0 0 0]
+[40] - [4198] [96 7 0 0 1 0]
+[41] - Chave_do_Pacote[5382] [96 8 61 8 0 0]
+[42] - Pacote_de_Itens_(c/_Roleta)[5381] [96 8 0 0 0 0]
+[43] - Conjunto_Militar(Branco)[4163] [96 23 1 21 3 0]
+[44] - Garra[840] [2 45 0 0 0 0]
+[45] - Adaga[871] [43 9 61 2 0 0]
+[46] - Escudo[1711] [43 9 0 0 0 0]
+[47] - Pegasus[2382] [172 58 120 8 0 0]
+[48] - Martelo[937] [43 9 0 0 0 0]
+[49] - Arco[826] [43 9 0 0 0 0]
+[50] - Machado[811] [43 9 0 0 0 0]
+[51] - Machado[811] [43 9 0 0 0 0]
+[52] - Cajado[904] [43 9 0 0 0 0]
+[53] - Espada[912] [43 9 0 0 0 0]
+[54] - Cajado[903] [43 9 0 0 0 0]
+[55] - Lança[856] [43 9 0 0 0 0]
+[56] - Garra[841] [43 9 0 0 0 0]
+[57] - Dragão_Vermelho[2380] [100 100 10 10 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 15 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 15 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:53:15 : [Archer] - Personagem Archer enviado ao mundo 2092x 2102y - Canal 2 - Cash da conta: 118656. OverPower: 3365
+14:53:15 : [Archer] - Gold atual: 557197141. Classe: 0 Evolução: 3. Experiência: 0. Nível: 1010. Info: 519691158032. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:53:15 : [Archer] - Evolução logada: 3
+14:53:15 : [Archer] - Dados da capa um: [3199] [43 230 47 10 0 0]
+14:53:15 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+14:53:15 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+14:53:15 : [Archer] - Enviado informações do personagem
+14:53:16 : [Archer] - Comando "/day "
+14:53:16 : [Archer] - [Mensagem do servidor]> !#11 2
+14:53:30 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:54:49 : [Archer] - Comando "/gm +erion"
+14:54:49 : [Archer] - Teleportado para a posição 2460 2009
+14:56:22 : [Archer] - Comando "/gm +move 2248 1318"
+14:56:22 : [Archer] - Teleportado para a posição 2248 1318
+14:56:47 : [Archer] - Clicado no NPC [Leaky Zakum]. Face 259. Race: 14. GenerateId: 3237. Posição do usuário: 2244x 1278y. Posição do NPC: 2247x 1272y
+14:56:47 : [Archer] - [Mensagem do servidor]> Traga-me a chave para ter acesso ao Castelo de Zakum
+14:57:37 : [Archer] - Comando "/gm +azran"
+14:57:37 : [Archer] - Teleportado para a posição 2482 1709
+14:58:06 : [Archer] - Comando "/gm +armia"
+14:58:06 : [Archer] - Teleportado para a posição 2100 2100
+14:58:45 : [Archer] - Comando "/gm +azran"
+14:58:45 : [Archer] - Teleportado para a posição 2482 1709
+15:11:17 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:11:17 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:17:55 minutos online

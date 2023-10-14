@@ -1,0 +1,305 @@
+
+19:28:56 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD16) - IP: 187.19.10.29 Mac: (2F:9C:2D:77:B7:42). ClientId: 1
+19:28:57 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+19:28:57 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[  1] - Chapéu(A)[1643] [43 9 3 25 26 18]
+[  2] - Chapéu(M)[1642] [43 1 60 4 59 0]
+[  3] - Vela_do_Coveiro[4038] [0 0 0 0 0 0]
+[  4] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[  5] - Chapéu(A)[1643] [43 9 3 25 26 18]
+[  6] - Luvas(M)[1351] [43 1 72 10 2 6]
+[  7] - Chapéu(M)[1642] [43 1 59 0 59 0]
+[  8] - Vela_do_Coveiro[4038] [0 0 0 0 0 0]
+[  9] - Calça[1507] [43 9 0 0 0 0]
+[ 10] - Chapéu(A)[1643] [43 9 3 25 26 18]
+[ 11] - Chapéu(M)[1642] [43 0 26 9 59 0]
+[ 13] - Vela_do_Coveiro[4038] [0 0 0 0 0 0]
+[ 14] - Armadura[1506] [43 9 0 0 0 0]
+[ 15] - Chapéu(A)[1643] [43 9 3 25 26 18]
+[ 16] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 18] - Vela_do_Coveiro[4038] [0 0 0 0 0 0]
+[ 19] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 20] - Chapéu(A)[1643] [43 9 3 25 26 18]
+[ 21] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[ 23] - Resto_de_Oriharucon[419] [61 6 0 0 0 0]
+[ 24] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 25] - Emblema_Orc[524] [0 0 0 0 0 0]
+[ 26] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[ 28] - Resto_de_Lactolerium[420] [61 2 0 0 0 0]
+[ 29] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 30] - Emblema_Orc[524] [0 0 0 0 0 0]
+[ 31] - Chapéu(M)[1642] [43 1 59 0 3 20]
+[ 34] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 35] - Emblema_Orc[524] [0 0 0 0 0 0]
+[ 36] - Cristal_V[425] [0 0 0 0 0 0]
+[ 39] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 40] - Luvas(M)[1216] [43 0 72 15 74 6]
+[ 41] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[ 42] - Luvas(M)[1216] [43 0 72 10 2 12]
+[ 43] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 44] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 45] - Elmo(M)[1492] [43 0 59 0 3 5]
+[ 46] - Braçadeira(M)[1651] [43 0 72 20 74 6]
+[ 47] - Chapéu(M)[1642] [43 2 60 8 59 0]
+[ 48] - Chapéu(M)[1342] [43 0 26 6 59 0]
+[ 49] - Luvas(M)[1216] [43 1 72 15 59 0]
+[ 50] - Elmo(M)[1492] [43 1 60 8 59 0]
+[ 51] - Luvas(M)[1351] [43 0 72 10 59 0]
+[ 52] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[ 53] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[ 55] - Luvas(M)[1216] [43 0 72 15 2 12]
+[ 56] - Elmo(M)[1492] [43 1 60 8 3 10]
+[ 57] - Chapéu(M)[1642] [43 0 26 12 59 0]
+[ 58] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[ 60] - Luvas(M)[1351] [43 0 72 15 54 9]
+[ 61] - Luvas(M)[1351] [43 0 72 10 74 12]
+[ 62] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[ 63] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[ 65] - Elmo(M)[1492] [43 0 26 9 3 5]
+[ 66] - Luvas(M)[1351] [43 0 72 10 60 6]
+[ 67] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 70] - Luvas(M)[1351] [43 1 72 10 59 0]
+[ 71] - Braçadeira(M)[1651] [43 1 72 15 74 9]
+[ 72] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 75] - Braçadeira(M)[1651] [43 2 72 10 60 6]
+[ 76] - Chapéu(M)[1642] [43 0 59 0 59 0]
+[ 77] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 78] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 80] - Calça(M)[1453] [43 9 2 20 3 20]
+[ 81] - Aranha[2360] [64 27 1 20 0 0]
+[ 82] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[ 83] - Luvas(M)[1351] [43 1 72 15 59 0]
+[ 85] - Chapéu(A)[1403] [43 9 26 12 59 0]
+[ 86] - Unicórnio[2381] [10 10 100 60 10 0]
+[ 87] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[ 88] - Luvas(M)[1351] [43 0 72 10 59 0]
+[ 90] - Armadura(M)[1450] [43 9 2 20 3 20]
+[ 91] - Martelo[938] [43 9 0 0 0 0]
+[ 92] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[ 93] - Chapéu(M)[1642] [43 2 59 0 3 5]
+[ 95] - Sapatos(A)[1415] [43 9 73 24 59 0]
+[ 97] - Chapéu(M)[1342] [43 2 60 6 59 0]
+[101] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[102] - Elmo(M)[1207] [43 2 59 0 59 0]
+[105] - Martelo[938] [43 9 0 0 0 0]
+[106] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[107] - Luvas(M)[1216] [43 0 72 20 2 12]
+[110] - Adaga[862] [43 0 26 12 74 12]
+[111] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[112] - Luvas(M)[1216] [43 2 72 10 54 6]
+[115] - Elmo(A)[1961] [13 11 59 0 59 0]
+[116] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[117] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+19:28:57 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:02 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:29:06 : Solicitou ir ao mundo...
+19:29:06 : Recebido pedido para entrar no jogo
+19:29:06 : Recebido informação do personagem completa.
+19:29:06 : [Nixtty] - [INFORMAÇÕES DA CONTA]
+Personagem online: Nixtty
+Gold atual: 1491446651
+Level atual: 44
+Experiência atual: 889185749
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2087x 2103y
+
+Pontos NT: 0
+Entradas Hall: 23
+Info: 496
+Soul: 10
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1484668671
+SecLearn: 0
+Info: 515396076016
+Soul: 10
+
+[EQUIPAMENTOS]
+[00] - Guardian[29] [43 0 29 3 0 0]
+[01] - Cythera_Mística[3502] [43 237 0 0 0 0]
+[02] - Armadura[1506] [43 240 2 30 71 70]
+[03] - Calça[1507] [43 240 2 30 71 70]
+[04] - Luvas[1508] [43 9 0 0 0 0]
+[05] - Botas[1509] [43 240 73 30 74 18]
+[06] - Skytalos(Anct)[2553] [2 45 43 240 0 0]
+[08] - Brinco_de_Titã[592] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 15 108 54]
+[14] - Hrimfaxi[2366] [48 117 100 60 10 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 6 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Lactolerium[413] [61 114 0 0 0 0]
+[01] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[02] - Baú_de_Caça[4139] [61 237 0 0 0 0]
+[03] - Baú_de_Experiência[4140] [61 205 0 0 0 0]
+[04] - Frango_Assado[3314] [61 232 0 0 0 0]
+[05] - Jóia_do_Poder[3206] [61 19 0 0 0 0]
+[06] - Ração_de_Cavalo[2426] [96 1 61 119 0 0]
+[07] - Ração_de_Cavalo[2426] [96 1 61 120 0 0]
+[08] - Ração_de_Cavalo[2426] [96 1 61 120 0 0]
+[09] - Poeira_de_Lactolerium[413] [61 10 0 0 0 0]
+[10] - Ração_de_Cavalo[2426] [96 1 61 120 0 0]
+[11] - Ração_de_Cavalo[2426] [96 1 61 120 0 0]
+[12] - Pedra_Misteriosa[4148] [61 99 0 0 0 0]
+[13] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[14] - Klazedale[3988] [96 20 2 21 0 0]
+[15] - Luvas(M)[1351] [43 0 72 10 59 0]
+[16] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[17] - Luvas(M)[1351] [43 0 72 15 2 18]
+[18] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[19] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[20] - Luvas(M)[1351] [8 10 72 25 74 15]
+[21] - Luvas(M)[1351] [43 0 72 10 59 0]
+[22] - Luvas(M)[1501] [43 1 72 15 74 6]
+[23] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[24] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[25] - Selo_do_Guerreiro[4146] [61 132 0 0 0 0]
+[26] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[27] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[28] - Chapéu(M)[1342] [43 0 59 0 59 0]
+[29] - Elmo(M)[1492] [43 1 26 9 59 0]
+[30] - Elmo(M)[1492] [8 8 59 0 59 0]
+[31] - Garnet[2444] [0 0 0 0 0 0]
+[32] - Garnet[2444] [0 0 0 0 0 0]
+[33] - Garnet[2444] [0 0 0 0 0 0]
+[34] - Garnet[2444] [0 0 0 0 0 0]
+[35] - Pedido_de_Caça(Kefra)[3436] [61 7 0 0 0 0]
+[36] - Pedido_de_Caça(Kefra)[3436] [61 10 0 0 0 0]
+[37] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[38] - Ração_de_Cavalo[2426] [61 5 0 0 0 0]
+[39] - Selo_Mágico[5135] [0 0 0 0 0 0]
+[40] - Selo_Mágico[5135] [0 0 0 0 0 0]
+[41] - Pedido_de_Caça(Kult)[3435] [61 5 0 0 0 0]
+[42] - Ração_de_Svadilfari[2431] [96 1 61 120 0 0]
+[43] - Garnet[2444] [0 0 0 0 0 0]
+[44] - Garnet[2444] [0 0 0 0 0 0]
+[45] - Ração_de_Svadilfari[2431] [96 1 61 120 0 0]
+[46] - Ração_de_Svadilfari[2431] [96 1 61 120 0 0]
+[47] - Garnet[2444] [0 0 0 0 0 0]
+[48] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[49] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[50] - Conjunto_Anfitriã[4167] [96 27 1 21 1 0]
+[51] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[52] - Braçadeira(M)[1651] [43 0 72 10 59 0]
+[53] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[54] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[55] - Poeira_de_Lactolerium[413] [61 230 0 0 0 0]
+[56] - Chapéu(M)[1642] [43 1 60 6 3 5]
+[57] - Esmeralda[2442] [0 0 0 0 0 0]
+[58] - Pergaminho_Retorno_10x[411] [61 6 0 0 0 0]
+[59] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 20 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:29:06 : [Nixtty] - Personagem Nixtty enviado ao mundo 2087x 2103y - Canal 1 - Cash da conta: 278396. PowerLevel: 7136
+19:29:06 : [Nixtty] - Gold atual: 1491446651. Classe: 3 Evolução: 3. Experiência: 889185749. Nível: 44. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+19:29:06 : [Nixtty] - Logou no personagem Nixtty com poção divina ativo. Validade: 20/2/2021 19:21:32
+19:29:06 : [Nixtty] - Logou no personagem Nixtty com baú de experiência ativo. Tempo: 9263
+19:29:06 : [Nixtty] - Logou no personagem Nixtty com frango ativo. Tempo: 263
+19:29:06 : [Nixtty] - Resetado a contagem de entradas água! Day: 24-27. Total: 0
+19:29:06 : [Nixtty] - Evolução logada: 3
+19:29:06 : [Nixtty] - Dados da capa um: [3199] [43 6 0 0 0 0]
+19:29:06 : [Nixtty] - Dados da capa dois: [0] [0 0 0 0 0 0]
+19:29:06 : [Nixtty] - Não foi efetuado a troca pois a refinação atual é maior
+19:29:06 : [Nixtty] - Enviado informações do personagem
+19:29:07 : [Nixtty] - Comando "/day "
+19:29:07 : [Nixtty] - [Mensagem do servidor]> !#11 2
+19:29:19 : [Nixtty] - Usado buff Escudo Dourado. Gold consumido: 24500. Gold atual: 1491422151
+19:29:19 : [Nixtty] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:29:30 : [Nixtty] - Item Baú_de_Experiência [4140] [61 205 0 0 0 0] utilizado em 2113x 2111y
+19:29:30 : [Nixtty] - Item Baú_de_Experiência [4140] [61 204 0 0 0 0] utilizado em 2113x 2111y
+19:29:30 : [Nixtty] - Item Baú_de_Experiência [4140] [61 203 0 0 0 0] utilizado em 2113x 2111y
+19:29:31 : [Nixtty] - Item Baú_de_Caça [4139] [61 237 0 0 0 0] utilizado em 2113x 2111y
+19:29:33 : [Nixtty] - Item Jóia_do_Poder [3206] [61 19 0 0 0 0] utilizado em 2113x 2111y
+19:29:34 : [Nixtty] - Item Frango_Assado [3314] [61 232 0 0 0 0] utilizado em 2113x 2111y
+19:29:39 : [Nixtty] - Teleportado para a posição 960 1761
+19:30:16 : [Nixtty] - Matou o mob Tauron. GenerID: 4000
+19:30:20 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+19:30:22 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+19:30:23 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+19:30:24 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+19:30:25 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+19:30:27 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+19:30:32 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+19:30:32 : [Nixtty] - Não dropou o item Luvas(M) por falta de espaço [1216] [43 0 72 10 2 12] em 1185x 1754y - Tauron (1/300)
+19:30:32 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+19:30:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+19:30:34 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+19:30:34 : [Nixtty] - Não dropou o item Gema_da_Siren por falta de espaço [658] [0 0 0 0 0 0] em 1185x 1754y - Tauron Bandido (1/300)
+19:30:34 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+19:30:35 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+19:30:36 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+19:30:36 : [Nixtty] - Não dropou o item Chapéu(M) por falta de espaço [1342] [43 0 26 9 59 0] em 1185x 1754y - Tauron (1/300)
+19:30:36 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+19:30:38 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+19:30:40 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+19:30:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+19:30:50 : [Nixtty] - Matou o mob Tauron. GenerID: 3991
+19:31:30 : [Nixtty] - Teleportado para a posição 2117 2102
+19:31:33 : [Nixtty] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2107x 2114y. Posição do NPC: 2102x 2113y
+19:32:18 : [Nixtty] - Teleportado para a posição 2482 1717
+19:32:23 : [Nixtty] - Clicado no NPC [Tera]. Face 18. Race: 2. GenerateId: 1237. Posição do usuário: 2472x 1691y. Posição do NPC: 2476x 1688y
+19:32:34 : [Nixtty] - Clicado no NPC [Dragao de Azran]. Face 109. Race: 2. GenerateId: 3824. Posição do usuário: 2484x 1691y. Posição do NPC: 2490x 1687y
+19:32:52 : [Nixtty] - Teleportado para a posição 960 1761
+19:33:09 : [Nixtty] - Usado buff Escudo Dourado. Gold consumido: 24500. Gold atual: 1491400739
+19:33:27 : [Nixtty] - Teleportado para a posição 2117 2102
+19:33:39 : [Nixtty] - Clicado no NPC [Troca1]. Face 60. Race: 2. GenerateId: 4786. Posição do usuário: 2110x 2109y. Posição do NPC: 2110x 2110y
+19:33:43 : [Nixtty] - [Mensagem do servidor]> Troca realizada com sucesso!
+19:33:47 : [Nixtty] - [Mensagem do servidor]> Troca realizada com sucesso!
+19:33:49 : [Nixtty] - [Mensagem do servidor]> Troca realizada com sucesso!
+19:33:52 : [Nixtty] - [Mensagem do servidor]> Troca realizada com sucesso!
+19:34:06 : [Nixtty] - [Mensagem do servidor]> Não possui espaço para negociar
+19:34:09 : [Nixtty] - Item Gema_da_Siren deletado [658] [0 0 0 0 0 0]. Slot 51
+19:34:12 : [Nixtty] - Item Gema_da_Siren deletado [658] [0 0 0 0 0 0]. Slot 53
+19:34:14 : [Nixtty] - Item Braçadeira(M) deletado [1651] [43 0 72 10 59 0]. Slot 52
+19:34:16 : [Nixtty] - Item Chapéu(M) deletado [1642] [43 1 60 6 3 5]. Slot 56
+19:34:18 : [Nixtty] - Item Gema_da_Siren deletado [658] [0 0 0 0 0 0]. Slot 54
+19:34:20 : [Nixtty] - Item Conjunto_Anfitriã deletado [4167] [96 27 1 21 1 0]. Slot 50
+19:34:22 : [Nixtty] - Item Gema_da_Siren deletado [658] [0 0 0 0 0 0]. Slot 49
+19:34:25 : [Nixtty] - Item Pacote_de_Itens_(c/_Roleta) [5381] [96 1 0 0 0 0] utilizado em 2086x 2106y
+19:34:28 : [Nixtty] - [Mensagem do servidor]> Não possui a chave para esta caixa
+19:34:48 : [Nixtty] - [Mensagem do servidor]> Compra concluída!
+19:34:51 : [Nixtty] - Item Pacote_de_Itens_(c/_Roleta) [5381] [96 1 0 0 0 0] utilizado em 2086x 2106y
+19:35:00 : [Nixtty] - [Mensagem do servidor]> Recompensa retirada com sucesso
+19:35:10 : [Nixtty] - Moveu item Gema_de_Fulla [4855] [96 2 0 0 0 0] do tipo INVENTÁRIO do slot 49 para tipo JÓIAS slot 0
+19:35:21 : [Nixtty] - [Mensagem do servidor]> Compra concluída!
+19:35:25 : [Nixtty] - Item Pacote_de_Itens_(c/_Roleta) [5381] [96 1 0 0 0 0] utilizado em 2086x 2106y
+19:35:34 : [Nixtty] - [Mensagem do servidor]> Recompensa retirada com sucesso
+19:35:35 : [Nixtty] - [Mensagem do servidor]> Selecione uma caixa para ser aberta
+19:35:35 : [Nixtty] - [Mensagem do servidor]> Selecione uma caixa para ser aberta
+19:35:36 : [Nixtty] - [Mensagem do servidor]> Selecione uma caixa para ser aberta
+19:35:42 : [Nixtty] - Item Pacote_de_Itens_(c/_Roleta) [5381] [96 1 0 0 0 0] utilizado em 2086x 2106y
+19:35:51 : [Nixtty] - [Mensagem do servidor]> Recompensa retirada com sucesso
+19:35:56 : [Nixtty] - Moveu item Gema_de_Freia [4854] [96 2 0 0 0 0] do tipo INVENTÁRIO do slot 51 para tipo JÓIAS slot 1
+19:35:58 : [Nixtty] - Moveu item Gema_de_Balder [4851] [96 2 0 0 0 0] do tipo INVENTÁRIO do slot 52 para tipo JÓIAS slot 2
+19:36:13 : [Nixtty] - BETASD16 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:36:13 : [Nixtty] - 1 Personagem foi desconectado. Permaneceu 00:07:11 minutos online
+19:36:13 : [Nixtty] - Recebeu 8688 de gold em 5 mobs no total. Total de gold: 1491398939

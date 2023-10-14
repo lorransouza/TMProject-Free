@@ -1,0 +1,2120 @@
+
+07:10:41 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD16) - IP: 187.19.10.29 Mac: (2E:67:3C:8B:7F:43). ClientId: 3
+07:10:41 : Usuário logou no jogo com clientId 3. - Servidor 1. Gold do banco: 0
+07:10:41 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[  1] - Chapéu(A)[1643] [43 9 3 25 26 18]
+[  3] - Vela_do_Coveiro[4038] [0 0 0 0 0 0]
+[  4] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[  5] - Chapéu(A)[1643] [43 9 3 25 26 18]
+[  8] - Vela_do_Coveiro[4038] [0 0 0 0 0 0]
+[  9] - Calça[1507] [43 9 0 0 0 0]
+[ 10] - Chapéu(A)[1643] [43 9 3 25 26 18]
+[ 13] - Vela_do_Coveiro[4038] [0 0 0 0 0 0]
+[ 14] - Armadura[1506] [43 9 0 0 0 0]
+[ 15] - Chapéu(A)[1643] [43 9 3 25 26 18]
+[ 16] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 18] - Vela_do_Coveiro[4038] [0 0 0 0 0 0]
+[ 19] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 20] - Chapéu(A)[1643] [43 9 3 25 26 18]
+[ 21] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[ 23] - Resto_de_Oriharucon[419] [61 6 0 0 0 0]
+[ 24] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 25] - Emblema_Orc[524] [0 0 0 0 0 0]
+[ 26] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[ 28] - Resto_de_Lactolerium[420] [61 2 0 0 0 0]
+[ 29] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 30] - Emblema_Orc[524] [0 0 0 0 0 0]
+[ 34] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 35] - Emblema_Orc[524] [0 0 0 0 0 0]
+[ 36] - Cristal_V[425] [0 0 0 0 0 0]
+[ 39] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 40] - Luvas(M)[1216] [43 0 72 15 74 6]
+[ 41] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[ 42] - Luvas(M)[1216] [43 0 72 10 2 12]
+[ 43] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 44] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 45] - Elmo(M)[1492] [43 0 59 0 3 5]
+[ 46] - Braçadeira(M)[1651] [43 0 72 20 74 6]
+[ 47] - Chapéu(M)[1642] [43 2 60 8 59 0]
+[ 48] - Chapéu(M)[1342] [43 0 26 6 59 0]
+[ 49] - Luvas(M)[1216] [43 1 72 15 59 0]
+[ 50] - Elmo(M)[1492] [43 1 60 8 59 0]
+[ 51] - Luvas(M)[1351] [43 0 72 10 59 0]
+[ 52] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[ 53] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[ 55] - Luvas(M)[1216] [43 0 72 15 2 12]
+[ 56] - Elmo(M)[1492] [43 1 60 8 3 10]
+[ 57] - Chapéu(M)[1642] [43 0 26 12 59 0]
+[ 58] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[ 60] - Luvas(M)[1351] [43 0 72 15 54 9]
+[ 61] - Luvas(M)[1351] [43 0 72 10 74 12]
+[ 62] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[ 63] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[ 65] - Elmo(M)[1492] [43 0 26 9 3 5]
+[ 66] - Luvas(M)[1351] [43 0 72 10 60 6]
+[ 67] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 70] - Luvas(M)[1351] [43 1 72 10 59 0]
+[ 71] - Braçadeira(M)[1651] [43 1 72 15 74 9]
+[ 72] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 75] - Braçadeira(M)[1651] [43 2 72 10 60 6]
+[ 76] - Chapéu(M)[1642] [43 0 59 0 59 0]
+[ 77] - Pedra_da_Luz[3140] [0 0 0 0 0 0]
+[ 78] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 80] - Calça(M)[1453] [43 9 2 20 3 20]
+[ 81] - Aranha[2360] [64 27 1 20 0 0]
+[ 82] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[ 83] - Luvas(M)[1351] [43 1 72 15 59 0]
+[ 85] - Chapéu(A)[1403] [43 9 26 12 59 0]
+[ 86] - Unicórnio[2381] [10 10 100 60 10 0]
+[ 87] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[ 88] - Luvas(M)[1351] [43 0 72 10 59 0]
+[ 90] - Armadura(M)[1450] [43 9 2 20 3 20]
+[ 91] - Martelo[938] [43 9 0 0 0 0]
+[ 92] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[ 93] - Chapéu(M)[1642] [43 2 59 0 3 5]
+[ 95] - Sapatos(A)[1415] [43 9 73 24 59 0]
+[ 97] - Chapéu(M)[1342] [43 2 60 6 59 0]
+[101] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[102] - Elmo(M)[1207] [43 2 59 0 59 0]
+[105] - Martelo[938] [43 9 0 0 0 0]
+[106] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[107] - Luvas(M)[1216] [43 0 72 20 2 12]
+[110] - Adaga[862] [43 0 26 12 74 12]
+[111] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[112] - Luvas(M)[1216] [43 2 72 10 54 6]
+[115] - Elmo(A)[1961] [13 11 59 0 59 0]
+[116] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[117] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+07:10:41 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+07:10:48 : Solicitou ir ao mundo...
+07:10:48 : Recebido pedido para entrar no jogo
+07:10:48 : Recebido informação do personagem completa.
+07:10:48 : [Nixtty] - [INFORMAÇÕES DA CONTA]
+Personagem online: Nixtty
+Gold atual: 1539828448
+Level atual: 132
+Experiência atual: 2652250151
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2086x 2094y
+
+Pontos NT: 0
+Entradas Hall: 23
+Info: 515396076016
+Soul: 10
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[29] [43 0 29 2 1 1]
+[01] - Cythera_Mística[3502] [43 237 0 0 0 0]
+[02] - Armadura[1506] [43 240 2 30 71 70]
+[03] - Calça[1507] [43 240 2 30 71 70]
+[04] - Luvas[1508] [43 9 0 0 0 0]
+[05] - Botas[1509] [43 240 73 30 74 18]
+[06] - Skytalos(Anct)[2553] [2 45 43 240 0 0]
+[08] - Brinco_de_Titã[592] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 20 108 19]
+[14] - Hrimfaxi[2366] [48 117 100 60 10 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 6 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Lactolerium[413] [61 114 0 0 0 0]
+[01] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[02] - Baú_de_Caça[4139] [61 237 0 0 0 0]
+[03] - Baú_de_Experiência[4140] [61 217 0 0 0 0]
+[04] - Frango_Assado[3314] [61 233 0 0 0 0]
+[05] - Jóia_do_Poder[3206] [61 20 0 0 0 0]
+[06] - Ração_de_Cavalo[2426] [96 1 61 119 0 0]
+[07] - Ração_de_Cavalo[2426] [96 1 61 120 0 0]
+[08] - Ração_de_Cavalo[2426] [96 1 61 120 0 0]
+[09] - Poeira_de_Lactolerium[413] [61 10 0 0 0 0]
+[10] - Ração_de_Cavalo[2426] [96 1 61 120 0 0]
+[11] - Ração_de_Cavalo[2426] [96 1 61 120 0 0]
+[12] - Luvas(M)[1351] [43 1 72 10 2 6]
+[13] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[14] - Klazedale[3988] [96 20 2 21 0 0]
+[15] - Luvas(M)[1351] [43 0 72 10 59 0]
+[16] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[17] - Luvas(M)[1351] [43 0 72 15 2 18]
+[18] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[19] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[20] - Luvas(M)[1351] [8 10 72 25 74 15]
+[21] - Luvas(M)[1351] [43 0 72 10 59 0]
+[22] - Luvas(M)[1501] [43 1 72 15 74 6]
+[23] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[24] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[25] - Selo_do_Guerreiro[4146] [61 132 0 0 0 0]
+[26] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[27] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[28] - Elmo(M)[1207] [43 0 60 4 4 30]
+[30] - Garnet[2444] [0 0 0 0 0 0]
+[31] - Garnet[2444] [0 0 0 0 0 0]
+[32] - Garnet[2444] [0 0 0 0 0 0]
+[33] - Garnet[2444] [0 0 0 0 0 0]
+[34] - Garnet[2444] [0 0 0 0 0 0]
+[35] - Pedido_de_Caça(Kefra)[3436] [61 7 0 0 0 0]
+[36] - Pedido_de_Caça(Kefra)[3436] [61 10 0 0 0 0]
+[37] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[38] - Ração_de_Cavalo[2426] [61 5 0 0 0 0]
+[39] - Selo_Mágico[5135] [0 0 0 0 0 0]
+[40] - Selo_Mágico[5135] [0 0 0 0 0 0]
+[41] - Pedido_de_Caça(Kult)[3435] [61 6 0 0 0 0]
+[42] - Ração_de_Svadilfari[2431] [96 1 61 120 0 0]
+[43] - Garnet[2444] [0 0 0 0 0 0]
+[44] - Garnet[2444] [0 0 0 0 0 0]
+[45] - Ração_de_Svadilfari[2431] [96 1 61 120 0 0]
+[46] - Ração_de_Svadilfari[2431] [96 1 61 120 0 0]
+[47] - [4198] [96 25 1 21 1 0]
+[48] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[49] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[50] - Conjunto_Anfitriã[4167] [96 27 1 21 1 0]
+[55] - Poeira_de_Lactolerium[413] [61 230 0 0 0 0]
+[58] - Pergaminho_Retorno_10x[411] [61 6 0 0 0 0]
+[59] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 20 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+07:10:48 : [Nixtty] - Personagem Nixtty enviado ao mundo 2086x 2094y - Canal 1 - Cash da conta: 278546. PowerLevel: 6066
+07:10:48 : [Nixtty] - Gold atual: 1539828448. Classe: 3 Evolução: 2. Experiência: 2652250151. Nível: 132. Info: 515396076016. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+07:10:48 : [Nixtty] - Logou no personagem Nixtty com poção divina ativo. Validade: 20/2/2021 19:21:32
+07:10:48 : [Nixtty] - Logou no personagem Nixtty com baú de experiência ativo. Tempo: 18798
+07:10:48 : [Nixtty] - Logou no personagem Nixtty com frango ativo. Tempo: 1507
+07:10:48 : [Nixtty] - Resetado a contagem de entradas água! Day: 21-22. Total: 0
+07:10:48 : [Nixtty] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+07:10:48 : [Nixtty] - Enviado informações do personagem
+07:10:49 : [Nixtty] - Comando "/day "
+07:10:49 : [Nixtty] - [Mensagem do servidor]> !#11 2
+07:11:05 : [Nixtty] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+07:11:20 : [Nixtty] - Item Pedido_de_Caça(Kult) [3435] [61 6 0 0 0 0] utilizado em 2124x 2098y
+07:11:20 : [Nixtty] - Teleportado para a posição 1182 1714
+07:11:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:11:22 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:11:22 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:11:23 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:11:26 : [Nixtty] - [Mensagem do servidor]> O outro jogador já é líder de um grupo.
+07:11:29 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:11:29 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:11:29 : [Nixtty] - Level UP para level 133. Ev: 2/2 - 1182x 1714y
+07:11:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:11:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:11:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4372
+07:11:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:11:41 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:11:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:11:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:11:45 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:11:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4372
+07:11:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:11:54 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:11:54 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:11:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:11:58 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4372
+07:12:05 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:12:06 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:12:06 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:12:06 : [Nixtty] - Level UP para level 134. Ev: 2/2 - 1182x 1714y
+07:12:08 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:12:09 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4372
+07:12:09 : [Nixtty] - Dropado item Elmo(M) [1492] [43 1 26 9 59 0] em 1182x 1714y - Tauron Bandido (1/300)
+07:12:17 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:12:17 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:12:18 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:12:18 : [Nixtty] - Dropado item Gema_da_Siren [658] [0 0 0 0 0 0] em 1182x 1714y - Tauron (1/300)
+07:12:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:12:21 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4372
+07:12:29 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:12:29 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:12:30 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:12:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4372
+07:12:33 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:12:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4372
+07:12:42 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:12:43 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:12:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:12:45 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:12:45 : [Nixtty] - Level UP para level 135. Ev: 2/2 - 1187x 1757y
+07:12:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:12:47 : [Nixtty] - Recebeu 17939 de gold em 10 mobs no total. Total de gold: 1539846387
+07:12:49 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:12:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:12:56 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:12:56 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:12:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:12:58 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:12:59 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:12:59 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:13:01 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:13:02 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:13:03 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:13:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:13:07 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:13:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:13:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:13:13 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:13:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:13:14 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:13:14 : [Nixtty] - Level UP para level 136. Ev: 2/2 - 1187x 1757y
+07:13:15 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:13:16 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:13:18 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:13:18 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:13:20 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:13:22 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:13:24 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:13:25 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:13:25 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:13:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:13:30 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:13:30 : [Nixtty] - Recebeu 18195 de gold em 10 mobs no total. Total de gold: 1539864582
+07:13:30 : [Nixtty] - Dropado item Braçadeira(M) [1651] [43 0 72 10 59 0] em 1187x 1757y - Tauron (1/300)
+07:13:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:13:31 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:13:32 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:13:33 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:13:35 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:13:36 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:13:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:13:38 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:13:38 : [Nixtty] - Level UP para level 137. Ev: 2/2 - 1187x 1757y
+07:13:38 : [Nixtty] - Dropado item Chapéu(M) [1642] [43 1 60 4 59 0] em 1187x 1757y - Tauron (1/300)
+07:13:39 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:13:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:13:42 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:13:44 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:13:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:13:45 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:13:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:13:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:13:49 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:13:50 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:13:50 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:13:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:13:54 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:13:56 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:13:56 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:13:57 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:13:58 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:13:59 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:13:59 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:13:59 : [Nixtty] - Level UP para level 138. Ev: 2/2 - 1187x 1757y
+07:14:01 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:14:03 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:14:04 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:14:05 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:14:05 : [Nixtty] - Dropado item Chapéu(M) [1642] [43 1 59 0 59 0] em 1187x 1757y - Tauron (1/300)
+07:14:06 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:14:06 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:14:07 : [Nixtty] - Usado buff Escudo Dourado. Gold consumido: 24500. Gold atual: 1539850362
+07:14:10 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:14:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:14:13 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:14:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:14:14 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:14:16 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:14:18 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:14:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:14:19 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:14:20 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:14:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:14:23 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:14:24 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:14:24 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:14:24 : [Nixtty] - Level UP para level 139. Ev: 2/2 - 1187x 1757y
+07:14:26 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:14:27 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:14:30 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:14:30 : [Nixtty] - Recebeu 17594 de gold em 10 mobs no total. Total de gold: 1539857676
+07:14:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:14:31 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:14:32 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:14:34 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:14:35 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:14:36 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:14:37 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:14:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:14:38 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:14:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:14:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:14:41 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:14:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:14:45 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:14:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:14:50 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:14:50 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:14:50 : [Nixtty] - Level UP para level 140. Ev: 2/2 - 1187x 1757y
+07:14:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:14:54 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:14:56 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:14:56 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:14:57 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:14:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:15:01 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:15:02 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:15:02 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:15:03 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:15:04 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:15:06 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:15:06 : [Nixtty] - Recebeu 16786 de gold em 10 mobs no total. Total de gold: 1539874462
+07:15:08 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:15:08 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:15:09 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:15:11 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:15:12 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:15:12 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:15:12 : [Nixtty] - Level UP para level 141. Ev: 2/2 - 1187x 1757y
+07:15:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:15:15 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:15:16 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:15:17 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:15:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:15:19 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:15:21 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:15:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:15:25 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:15:27 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:15:27 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:15:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:15:29 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:15:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:15:31 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:15:33 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:15:34 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:15:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:15:37 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:15:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:15:38 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:15:38 : [Nixtty] - Level UP para level 142. Ev: 2/2 - 1187x 1757y
+07:15:42 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:15:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:15:43 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:15:45 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:15:47 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:15:48 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:15:50 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:15:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:15:51 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:15:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:15:55 : [Nixtty] - Recebeu 17760 de gold em 10 mobs no total. Total de gold: 1539892222
+07:15:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:15:57 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:15:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:16:01 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:16:02 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:16:04 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:16:05 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:16:05 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:16:05 : [Nixtty] - Level UP para level 143. Ev: 2/2 - 1187x 1757y
+07:16:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:16:08 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:16:08 : [Nixtty] - Dropado item Chapéu(M) [1642] [43 0 26 9 59 0] em 1187x 1757y - Tauron Bandido (1/300)
+07:16:09 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:16:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:16:13 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:16:13 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:16:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:16:17 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:16:18 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:16:18 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:16:20 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:16:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:16:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:16:25 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:16:25 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:16:26 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:16:27 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:16:30 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:16:30 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:16:30 : [Nixtty] - Level UP para level 144. Ev: 2/2 - 1187x 1757y
+07:16:32 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:16:34 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:16:36 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:16:37 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:16:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:16:38 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:16:40 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:16:42 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:16:42 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:16:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:16:43 : [Nixtty] - Recebeu 17857 de gold em 10 mobs no total. Total de gold: 1539910079
+07:16:44 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:16:45 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:16:46 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:16:46 : [Nixtty] - Dropado item Chapéu(M) [1642] [43 1 59 0 3 20] em 1187x 1757y - Tauron Bandido (1/300)
+07:16:47 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:16:50 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:16:50 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:16:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:16:54 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:16:54 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:16:54 : [Nixtty] - Level UP para level 145. Ev: 2/2 - 1187x 1757y
+07:16:56 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:16:58 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:16:59 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:17:01 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:17:03 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:17:03 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:17:05 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:17:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:17:08 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:17:08 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:17:10 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:17:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:17:12 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:17:13 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:17:13 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:17:15 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:17:16 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:17:16 : [Nixtty] - Não dropou o item Elmo(M) por falta de espaço [1492] [43 0 59 0 59 0] em 1187x 1756y - Tauron (1/300)
+07:17:16 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:17:18 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:17:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:17:21 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:17:21 : [Nixtty] - Level UP para level 146. Ev: 2/2 - 1187x 1757y
+07:17:22 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:17:23 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:17:25 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:17:26 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:17:26 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:17:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:17:28 : [Nixtty] - Recebeu 17285 de gold em 10 mobs no total. Total de gold: 1539927364
+07:17:30 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:17:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:17:31 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:17:32 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:17:33 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:17:34 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:17:36 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:17:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:17:39 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:17:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:17:42 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:17:43 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:17:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:17:45 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:17:45 : [Nixtty] - Level UP para level 147. Ev: 2/2 - 1187x 1757y
+07:17:50 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:17:52 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:17:53 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:17:54 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:17:54 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:17:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:17:57 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:17:58 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:17:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:18:00 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:18:00 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:18:03 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:18:06 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:18:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:18:07 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:18:09 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:18:10 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:18:11 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:18:11 : [Nixtty] - Recebeu 17135 de gold em 10 mobs no total. Total de gold: 1539944499
+07:18:13 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:18:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:18:14 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:18:14 : [Nixtty] - Level UP para level 148. Ev: 2/2 - 1187x 1757y
+07:18:16 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:18:18 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:18:20 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:18:20 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:18:22 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:18:23 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:18:24 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:18:24 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:18:26 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:18:27 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:18:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:18:32 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:18:34 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:18:36 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:18:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:18:38 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:18:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:18:40 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:18:40 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:18:40 : [Nixtty] - Level UP para level 149. Ev: 2/2 - 1187x 1757y
+07:18:41 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:18:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:18:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:18:46 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:18:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:18:48 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:18:48 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:18:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:18:56 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:18:56 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:18:58 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:19:00 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:19:02 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:19:03 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:19:05 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:19:05 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:19:06 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:19:08 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:19:13 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:19:13 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:19:13 : [Nixtty] - Level UP para level 150. Ev: 2/2 - 1187x 1757y
+07:19:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:19:15 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:19:15 : [Nixtty] - Recebeu 18359 de gold em 10 mobs no total. Total de gold: 1539962858
+07:19:18 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:19:20 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:19:20 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:19:22 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:19:26 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:19:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:19:28 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:19:29 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:19:29 : [Nixtty] - Não dropou o item Chapéu(M) por falta de espaço [1642] [43 1 26 6 59 0] em 1187x 1757y - Tauron Bandido (1/300)
+07:19:29 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:19:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:19:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:19:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:19:37 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:19:40 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:19:40 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:19:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:19:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:19:43 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:19:43 : [Nixtty] - Level UP para level 151. Ev: 2/2 - 1187x 1757y
+07:19:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:19:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:19:49 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:19:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:19:51 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:19:54 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:19:56 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:19:56 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:19:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:20:01 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:20:02 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:20:03 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:20:04 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:20:06 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:20:06 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:20:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:20:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:20:13 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:20:13 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:20:13 : [Nixtty] - Level UP para level 152. Ev: 2/2 - 1187x 1757y
+07:20:13 : [Nixtty] - Recebeu 17090 de gold em 10 mobs no total. Total de gold: 1539979948
+07:20:17 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:20:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:20:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:20:21 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:20:21 : [Nixtty] - Não dropou o item Luvas(M) por falta de espaço [1216] [43 0 72 10 54 9] em 1187x 1757y - Tauron (1/300)
+07:20:21 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:20:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:20:25 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:20:26 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:20:28 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:20:30 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:20:30 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:20:32 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:20:34 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:20:36 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:20:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:20:40 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:20:40 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:20:42 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:20:46 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:20:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:20:48 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:20:48 : [Nixtty] - Level UP para level 153. Ev: 2/2 - 1187x 1757y
+07:20:52 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:20:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:20:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:20:55 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:20:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:20:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:21:00 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:21:02 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:21:04 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:21:06 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:21:06 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:21:11 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:21:13 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:21:17 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:21:17 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:21:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:21:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:21:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:21:25 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:21:25 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:21:25 : [Nixtty] - Level UP para level 154. Ev: 2/2 - 1187x 1757y
+07:21:26 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:21:27 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:21:30 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:21:30 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:21:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:21:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:21:35 : [Nixtty] - Recebeu 18244 de gold em 10 mobs no total. Total de gold: 1539998192
+07:21:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:21:39 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:21:40 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:21:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:21:44 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:21:46 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:21:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:21:50 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:21:50 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:21:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:21:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:21:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:21:57 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:21:57 : [Nixtty] - Level UP para level 155. Ev: 2/2 - 1187x 1757y
+07:22:00 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:22:02 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:22:03 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:22:05 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:22:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:22:07 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:22:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:22:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:22:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:22:16 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:22:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:22:19 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:22:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:22:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:22:24 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:22:24 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:22:25 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:22:27 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:22:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:22:30 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:22:30 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:22:30 : [Nixtty] - Level UP para level 156. Ev: 2/2 - 1187x 1757y
+07:22:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:22:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:22:37 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:22:40 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:22:40 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:22:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:22:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:22:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:22:49 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:22:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:22:51 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:22:51 : [Nixtty] - Recebeu 17080 de gold em 10 mobs no total. Total de gold: 1540015272
+07:22:52 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:22:54 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:22:56 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:22:56 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:22:58 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:23:00 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:23:02 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:23:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:23:07 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:23:07 : [Nixtty] - Level UP para level 157. Ev: 2/2 - 1187x 1757y
+07:23:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:23:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:23:11 : [Nixtty] - Não dropou o item Elmo(M) por falta de espaço [1207] [43 1 59 0 59 0] em 1187x 1757y - Tauron Bandido (1/300)
+07:23:11 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:23:12 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:23:13 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:23:13 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:23:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:23:18 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:23:18 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:23:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:23:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:23:25 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:23:27 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:23:32 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:23:32 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:23:34 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:23:36 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:23:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:23:40 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:23:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:23:41 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:23:41 : [Nixtty] - Level UP para level 158. Ev: 2/2 - 1187x 1757y
+07:23:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:23:46 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:23:46 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:23:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:23:50 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:23:52 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:23:53 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:23:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:23:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:23:57 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:23:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:24:02 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:24:04 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:24:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:24:07 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:24:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:24:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:24:13 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:24:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:24:14 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:24:14 : [Nixtty] - Level UP para level 159. Ev: 2/2 - 1187x 1757y
+07:24:14 : [Nixtty] - Recebeu 16667 de gold em 10 mobs no total. Total de gold: 1540031939
+07:24:17 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:24:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:24:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:24:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:24:26 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:24:26 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:24:27 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:24:32 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:24:35 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:24:35 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:24:38 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:24:42 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:24:46 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:24:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:24:49 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:24:49 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:24:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:24:52 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:24:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:24:53 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:24:53 : [Nixtty] - Level UP para level 160. Ev: 2/2 - 1187x 1757y
+07:24:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:24:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:24:57 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:24:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:25:03 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:25:04 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:25:06 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:25:08 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:25:08 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:25:10 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:25:10 : [Nixtty] - Recebeu 16989 de gold em 10 mobs no total. Total de gold: 1540048928
+07:25:11 : [Nixtty] - Não dropou o item Chapéu(M) por falta de espaço [1642] [11 19 60 6 59 0] em 1187x 1757y - Tauron Bandido (1/300)
+07:25:11 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:25:13 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:25:15 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:25:16 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:25:18 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:25:18 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:25:20 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:25:22 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:25:24 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:25:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:25:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:25:31 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:25:31 : [Nixtty] - Level UP para level 161. Ev: 2/2 - 1187x 1757y
+07:25:35 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:25:37 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:25:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:25:42 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:25:42 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:25:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:25:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:25:48 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:25:48 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:25:50 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:25:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:25:52 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:25:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:25:55 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:25:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:25:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:26:01 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:26:01 : [Nixtty] - Não dropou o item Luvas(M) por falta de espaço [1216] [43 1 72 15 59 0] em 1187x 1757y - Tauron Bandido (1/300)
+07:26:01 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:26:04 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:26:04 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:26:04 : [Nixtty] - Level UP para level 162. Ev: 2/2 - 1187x 1757y
+07:26:06 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:26:08 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:26:10 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:26:13 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:26:13 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:26:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:26:17 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:26:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:26:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:26:21 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:26:25 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:26:26 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:26:28 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:26:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:26:31 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:26:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:26:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:26:37 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:26:37 : [Nixtty] - Não dropou o item Chapéu(M) por falta de espaço [1342] [43 1 26 6 3 5] em 1187x 1757y - Tauron (1/300)
+07:26:37 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:26:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:26:38 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:26:38 : [Nixtty] - Level UP para level 163. Ev: 2/2 - 1187x 1757y
+07:26:40 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:26:40 : [Nixtty] - Recebeu 17640 de gold em 10 mobs no total. Total de gold: 1540066568
+07:26:42 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:26:42 : [Nixtty] - Não dropou o item Elmo(M) por falta de espaço [1492] [11 30 60 4 3 5] em 1187x 1757y - Tauron (1/300)
+07:26:42 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:26:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:26:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:26:49 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:26:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:26:51 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:26:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:26:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:26:55 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:26:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:26:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:27:03 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:27:04 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:27:04 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:27:05 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:27:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:27:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:27:09 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:27:09 : [Nixtty] - Level UP para level 164. Ev: 2/2 - 1187x 1757y
+07:27:12 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:27:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:27:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:27:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:27:21 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:27:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:27:25 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:27:26 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:27:27 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:27:29 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:27:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:27:31 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:27:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:27:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:27:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:27:38 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:27:39 : [Nixtty] - Usado buff Escudo Dourado. Gold consumido: 24500. Gold atual: 1540055700
+07:27:42 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:27:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:27:45 : [Nixtty] - Não dropou o item Luvas(M) por falta de espaço [1216] [43 2 72 20 60 4] em 1187x 1757y - Tauron (1/300)
+07:27:45 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:27:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:27:47 : [Nixtty] - Recebeu 17162 de gold em 10 mobs no total. Total de gold: 1540059230
+07:27:49 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:27:49 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:27:49 : [Nixtty] - Level UP para level 165. Ev: 2/2 - 1187x 1757y
+07:27:50 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:27:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:27:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:27:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:27:57 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:27:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:28:01 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:28:02 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:28:08 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:28:11 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:28:11 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:28:13 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:28:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:28:17 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:28:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:28:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:28:21 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:28:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:28:25 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:28:27 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:28:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:28:28 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:28:28 : [Nixtty] - Level UP para level 166. Ev: 2/2 - 1187x 1757y
+07:28:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:28:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:28:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:28:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:28:39 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:28:39 : [Nixtty] - Não dropou o item Chapéu(M) por falta de espaço [1342] [43 2 26 12 59 0] em 1187x 1757y - Tauron (1/300)
+07:28:39 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:28:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:28:41 : [Nixtty] - Não dropou o item Braçadeira(M) por falta de espaço [1651] [43 0 72 15 60 2] em 1187x 1757y - Tauron (1/300)
+07:28:41 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:28:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:28:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:28:45 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:28:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:28:49 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:28:50 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:28:52 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:28:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:28:53 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:28:56 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:28:58 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:29:00 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:29:03 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:29:03 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:29:03 : [Nixtty] - Level UP para level 167. Ev: 2/2 - 1187x 1757y
+07:29:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:29:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:29:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:29:12 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:29:12 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:29:13 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:29:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:29:15 : [Nixtty] - Recebeu 18099 de gold em 10 mobs no total. Total de gold: 1540077329
+07:29:17 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:29:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:29:19 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:29:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:29:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:29:26 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:29:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:29:28 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:29:29 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:29:29 : [Nixtty] - Não dropou o item Chapéu(M) por falta de espaço [1342] [4 60 59 0 59 0] em 1187x 1757y - Tauron Bandido (1/300)
+07:29:29 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:29:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:29:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:29:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:29:37 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:29:40 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:29:40 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:29:40 : [Nixtty] - Level UP para level 168. Ev: 2/2 - 1187x 1757y
+07:29:42 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:29:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:29:45 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:29:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:29:50 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:29:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:29:53 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:29:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:29:55 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:29:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:29:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:30:02 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:30:03 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:30:03 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:30:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:30:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:30:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:30:12 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:30:12 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:30:12 : [Nixtty] - Level UP para level 169. Ev: 2/2 - 1187x 1757y
+07:30:14 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:30:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:30:15 : [Nixtty] - Recebeu 17977 de gold em 10 mobs no total. Total de gold: 1540095306
+07:30:17 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:30:17 : [Nixtty] - Não dropou o item Gema_da_Siren por falta de espaço [658] [0 0 0 0 0 0] em 1187x 1757y - Tauron Bandido (1/300)
+07:30:17 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:30:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:30:19 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:30:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:30:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:30:26 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:30:27 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:30:29 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:30:29 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:30:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:30:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:30:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:30:37 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:30:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:30:39 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:30:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:30:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:30:45 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:30:45 : [Nixtty] - Level UP para level 170. Ev: 2/2 - 1187x 1757y
+07:30:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:30:50 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:30:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:30:51 : [Nixtty] - Não dropou o item Elmo(M) por falta de espaço [1492] [43 0 26 6 59 0] em 1187x 1757y - Tauron (1/300)
+07:30:51 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:30:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:30:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:30:55 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:30:58 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:31:00 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:31:02 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:31:05 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:31:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:31:07 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:31:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:31:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:31:12 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:31:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:31:14 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:31:16 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:31:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:31:19 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:31:19 : [Nixtty] - Level UP para level 171. Ev: 2/2 - 1187x 1757y
+07:31:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:31:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:31:25 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:31:27 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:31:29 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:31:29 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:31:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:31:31 : [Nixtty] - Recebeu 17065 de gold em 10 mobs no total. Total de gold: 1540112371
+07:31:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:31:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:31:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:31:38 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:31:42 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:31:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:31:46 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:31:46 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:31:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:31:50 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:31:52 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:31:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:31:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:31:57 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:31:57 : [Nixtty] - Level UP para level 172. Ev: 2/2 - 1187x 1757y
+07:31:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:32:01 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:32:04 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:32:05 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:32:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:32:07 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:32:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:32:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:32:11 : [Nixtty] - Recebeu 18286 de gold em 10 mobs no total. Total de gold: 1540130657
+07:32:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:32:16 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:32:16 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:32:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:32:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:32:21 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:32:24 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:32:26 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:32:27 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:32:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:32:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:32:31 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:32:31 : [Nixtty] - Level UP para level 173. Ev: 2/2 - 1187x 1757y
+07:32:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:32:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:32:36 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:32:38 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:32:42 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:32:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:32:43 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:32:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:32:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:32:50 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:32:52 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:32:52 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:32:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:32:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:32:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:33:01 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:33:01 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:33:03 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:33:05 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:33:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:33:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:33:09 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:33:09 : [Nixtty] - Level UP para level 174. Ev: 2/2 - 1187x 1757y
+07:33:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:33:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:33:16 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:33:17 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:33:17 : [Nixtty] - Não dropou o item Chapéu(M) por falta de espaço [1342] [43 0 59 0 4 20] em 1187x 1757y - Tauron (1/300)
+07:33:17 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:33:20 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:33:20 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:33:22 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:33:26 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:33:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:33:28 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:33:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:33:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:33:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:33:35 : [Nixtty] - Recebeu 17366 de gold em 10 mobs no total. Total de gold: 1540148023
+07:33:37 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:33:37 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:33:37 : [Nixtty] - Não dropou o item Gema_da_Siren por falta de espaço [658] [0 0 0 0 0 0] em 1187x 1757y - Tauron (1/300)
+07:33:37 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:33:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:33:40 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:33:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:33:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:33:43 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:33:43 : [Nixtty] - Level UP para level 175. Ev: 2/2 - 1187x 1757y
+07:33:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:33:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:33:47 : [Nixtty] - Não dropou o item Elmo(M) por falta de espaço [1207] [43 1 59 0 59 0] em 1187x 1757y - Tauron Bandido (1/300)
+07:33:47 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:33:50 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:33:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:33:54 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:33:54 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:33:56 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:33:58 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:34:00 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:34:02 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:34:04 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:34:04 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:34:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:34:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:34:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:34:13 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:34:13 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:34:15 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:34:17 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:34:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:34:19 : [Nixtty] - Recebeu 17266 de gold em 10 mobs no total. Total de gold: 1540165289
+07:34:19 : [Nixtty] - Não dropou o item Chapéu(M) por falta de espaço [1642] [43 0 26 9 59 0] em 1187x 1757y - Tauron (1/300)
+07:34:19 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:34:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:34:21 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:34:21 : [Nixtty] - Level UP para level 176. Ev: 2/2 - 1187x 1757y
+07:34:24 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:34:27 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:34:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:34:31 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:34:31 : [Nixtty] - Não dropou o item Gema_da_Siren por falta de espaço [658] [0 0 0 0 0 0] em 1187x 1757y - Tauron (1/300)
+07:34:31 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:34:34 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:34:38 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:34:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:34:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:34:43 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:34:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:34:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:34:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:34:49 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:34:51 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:34:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:34:53 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:34:56 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:34:59 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:35:01 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:35:01 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:35:01 : [Nixtty] - Level UP para level 177. Ev: 2/2 - 1187x 1757y
+07:35:05 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:35:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:35:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:35:09 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:35:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:35:13 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:35:15 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:35:17 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:35:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:35:19 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:35:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:35:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:35:26 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:35:27 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:35:27 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:35:32 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:35:34 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:35:36 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:35:36 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:35:36 : [Nixtty] - Level UP para level 178. Ev: 2/2 - 1187x 1757y
+07:35:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:35:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:35:41 : [Nixtty] - Recebeu 17025 de gold em 10 mobs no total. Total de gold: 1540182314
+07:35:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:35:43 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:35:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:35:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:35:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:35:50 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:35:51 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:35:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:35:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:35:57 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:35:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:36:01 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:36:04 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:36:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:36:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:36:09 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:36:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:36:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:36:14 : [Nixtty] - Não dropou o item Luvas(M) por falta de espaço [1216] [43 1 72 15 2 12] em 1187x 1757y - Tauron (1/300)
+07:36:14 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:36:15 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:36:16 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:36:17 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:36:17 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:36:17 : [Nixtty] - Level UP para level 179. Ev: 2/2 - 1187x 1757y
+07:36:22 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:36:24 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:36:26 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:36:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:36:31 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:36:31 : [Nixtty] - Recebeu 17902 de gold em 10 mobs no total. Total de gold: 1540200216
+07:36:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:36:36 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:36:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:36:38 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:36:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:36:41 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:36:41 : [Nixtty] - Não dropou o item Luvas(M) por falta de espaço [1501] [7 12 72 20 54 9] em 1187x 1757y - Tauron Bandido (1/300)
+07:36:41 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:36:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:36:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:36:45 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:36:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:36:47 : [Nixtty] - Não dropou o item Luvas(M) por falta de espaço [1216] [43 0 72 10 60 8] em 1187x 1757y - Tauron Bandido (1/300)
+07:36:47 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:36:49 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:36:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:36:56 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:36:58 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:36:58 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:36:58 : [Nixtty] - Level UP para level 180. Ev: 2/2 - 1187x 1757y
+07:37:03 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:37:03 : [Nixtty] - Não dropou o item Chapéu(M) por falta de espaço [1642] [43 0 26 6 59 0] em 1187x 1757y - Tauron Bandido (1/300)
+07:37:03 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:37:04 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:37:05 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:37:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:37:07 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:37:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:37:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:37:13 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:37:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:37:15 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:37:17 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:37:17 : [Nixtty] - Não dropou o item Gema_da_Siren por falta de espaço [658] [0 0 0 0 0 0] em 1187x 1757y - Tauron Bandido (1/300)
+07:37:17 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:37:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:37:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:37:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:37:25 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:37:25 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:37:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:37:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:37:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:37:33 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:37:33 : [Nixtty] - Level UP para level 181. Ev: 2/2 - 1187x 1757y
+07:37:36 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:37:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:37:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:37:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:37:44 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:37:46 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:37:46 : [Nixtty] - Recebeu 18076 de gold em 10 mobs no total. Total de gold: 1540218292
+07:37:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:37:49 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:37:50 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:37:51 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:37:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:37:55 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:37:58 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:38:00 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:38:04 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:38:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:38:07 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:38:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:38:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:38:12 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:38:13 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:38:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:38:14 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:38:14 : [Nixtty] - Level UP para level 182. Ev: 2/2 - 1187x 1757y
+07:38:17 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:38:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:38:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:38:21 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:38:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:38:25 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:38:27 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:38:29 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:38:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:38:31 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:38:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:38:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:38:37 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:38:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:38:39 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:38:41 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:38:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:38:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:38:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:38:49 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:38:49 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:38:49 : [Nixtty] - Level UP para level 183. Ev: 2/2 - 1187x 1757y
+07:38:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:38:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:38:58 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:38:58 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:39:00 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:39:03 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:39:05 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:39:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:39:07 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:39:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:39:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:39:13 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:39:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:39:16 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:39:16 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:39:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:39:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:39:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:39:27 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:39:27 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:39:27 : [Nixtty] - Level UP para level 184. Ev: 2/2 - 1187x 1757y
+07:39:29 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:39:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:39:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:39:33 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:39:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:39:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:39:40 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:39:41 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:39:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:39:43 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:39:43 : [Nixtty] - Recebeu 17241 de gold em 10 mobs no total. Total de gold: 1540235533
+07:39:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:39:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:39:49 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:39:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:39:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:39:53 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:39:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:39:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:39:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:40:01 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:40:02 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:40:04 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:40:04 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:40:04 : [Nixtty] - Level UP para level 185. Ev: 2/2 - 1187x 1757y
+07:40:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:40:07 : [Nixtty] - Não dropou o item Gema_da_Siren por falta de espaço [658] [0 0 0 0 0 0] em 1187x 1757y - Tauron (1/300)
+07:40:07 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:40:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:40:09 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:40:12 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:40:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:40:16 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:40:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:40:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:40:21 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:40:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:40:25 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:40:27 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:40:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:40:28 : [Nixtty] - Não dropou o item Chapéu(M) por falta de espaço [1342] [43 0 59 0 59 0] em 1187x 1757y - Tauron (1/300)
+07:40:28 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:40:29 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:40:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:40:31 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:40:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:40:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:40:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:40:39 : [Nixtty] - Recebeu 17568 de gold em 10 mobs no total. Total de gold: 1540253101
+07:40:40 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:40:40 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:40:40 : [Nixtty] - Level UP para level 186. Ev: 2/2 - 1187x 1757y
+07:40:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:40:46 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:40:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:40:48 : [Nixtty] - [INFORMAÇÕES DA CONTA]
+Personagem online: Nixtty
+Gold atual: 1540253101
+Level atual: 186
+Experiência atual: 3724593856
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:29:42 horas
+Posição atual: 1187x 1757y
+
+Pontos NT: 0
+Entradas Hall: 23
+Info: 515396076016
+Soul: 10
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[29] [43 0 29 2 1 1]
+[01] - Cythera_Mística[3502] [43 237 0 0 0 0]
+[02] - Armadura[1506] [43 240 2 30 71 70]
+[03] - Calça[1507] [43 240 2 30 71 70]
+[04] - Luvas[1508] [43 9 0 0 0 0]
+[05] - Botas[1509] [43 240 73 30 74 18]
+[06] - Skytalos(Anct)[2553] [2 45 43 240 0 0]
+[08] - Brinco_de_Titã[592] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 19 108 49]
+[14] - Hrimfaxi[2366] [48 117 100 60 10 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 6 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Lactolerium[413] [61 114 0 0 0 0]
+[01] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[02] - Baú_de_Caça[4139] [61 237 0 0 0 0]
+[03] - Baú_de_Experiência[4140] [61 217 0 0 0 0]
+[04] - Frango_Assado[3314] [61 233 0 0 0 0]
+[05] - Jóia_do_Poder[3206] [61 20 0 0 0 0]
+[06] - Ração_de_Cavalo[2426] [96 1 61 119 0 0]
+[07] - Ração_de_Cavalo[2426] [96 1 61 120 0 0]
+[08] - Ração_de_Cavalo[2426] [96 1 61 120 0 0]
+[09] - Poeira_de_Lactolerium[413] [61 10 0 0 0 0]
+[10] - Ração_de_Cavalo[2426] [96 1 61 120 0 0]
+[11] - Ração_de_Cavalo[2426] [96 1 61 120 0 0]
+[12] - Luvas(M)[1351] [43 1 72 10 2 6]
+[13] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[14] - Klazedale[3988] [96 20 2 21 0 0]
+[15] - Luvas(M)[1351] [43 0 72 10 59 0]
+[16] - Pedra_do_Sábio[1774] [0 0 0 0 0 0]
+[17] - Luvas(M)[1351] [43 0 72 15 2 18]
+[18] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[19] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[20] - Luvas(M)[1351] [8 10 72 25 74 15]
+[21] - Luvas(M)[1351] [43 0 72 10 59 0]
+[22] - Luvas(M)[1501] [43 1 72 15 74 6]
+[23] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[24] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[25] - Selo_do_Guerreiro[4146] [61 132 0 0 0 0]
+[26] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[27] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[28] - Elmo(M)[1207] [43 0 60 4 4 30]
+[29] - Elmo(M)[1492] [43 1 26 9 59 0]
+[30] - Garnet[2444] [0 0 0 0 0 0]
+[31] - Garnet[2444] [0 0 0 0 0 0]
+[32] - Garnet[2444] [0 0 0 0 0 0]
+[33] - Garnet[2444] [0 0 0 0 0 0]
+[34] - Garnet[2444] [0 0 0 0 0 0]
+[35] - Pedido_de_Caça(Kefra)[3436] [61 7 0 0 0 0]
+[36] - Pedido_de_Caça(Kefra)[3436] [61 10 0 0 0 0]
+[37] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[38] - Ração_de_Cavalo[2426] [61 5 0 0 0 0]
+[39] - Selo_Mágico[5135] [0 0 0 0 0 0]
+[40] - Selo_Mágico[5135] [0 0 0 0 0 0]
+[41] - Pedido_de_Caça(Kult)[3435] [61 5 0 0 0 0]
+[42] - Ração_de_Svadilfari[2431] [96 1 61 120 0 0]
+[43] - Garnet[2444] [0 0 0 0 0 0]
+[44] - Garnet[2444] [0 0 0 0 0 0]
+[45] - Ração_de_Svadilfari[2431] [96 1 61 120 0 0]
+[46] - Ração_de_Svadilfari[2431] [96 1 61 120 0 0]
+[47] - [4198] [96 25 1 21 1 0]
+[48] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[49] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[50] - Conjunto_Anfitriã[4167] [96 27 1 21 1 0]
+[51] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[52] - Braçadeira(M)[1651] [43 0 72 10 59 0]
+[53] - Chapéu(M)[1642] [43 1 60 4 59 0]
+[54] - Chapéu(M)[1642] [43 1 59 0 59 0]
+[55] - Poeira_de_Lactolerium[413] [61 230 0 0 0 0]
+[56] - Chapéu(M)[1642] [43 0 26 9 59 0]
+[57] - Chapéu(M)[1642] [43 1 59 0 3 20]
+[58] - Pergaminho_Retorno_10x[411] [61 6 0 0 0 0]
+[59] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 20 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+07:40:50 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:40:50 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:40:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:40:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:40:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:40:57 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:40:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:41:00 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:41:01 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:41:03 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:41:05 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:41:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:41:07 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:41:09 : [Nixtty] - Usado buff Escudo Dourado. Gold consumido: 24500. Gold atual: 1540235640
+07:41:11 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:41:13 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:41:16 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:41:20 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:41:20 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:41:20 : [Nixtty] - Level UP para level 187. Ev: 2/2 - 1187x 1757y
+07:41:22 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:41:24 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:41:25 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:41:27 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:41:27 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:41:28 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:41:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:41:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:41:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:41:37 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:41:38 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:41:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:41:44 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:41:47 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:41:49 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:41:49 : [Nixtty] - Recebeu 18551 de gold em 10 mobs no total. Total de gold: 1540247152
+07:41:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:41:53 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:41:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:41:55 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:41:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:41:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:42:01 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:42:01 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:42:01 : [Nixtty] - Level UP para level 188. Ev: 2/2 - 1187x 1757y
+07:42:04 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:42:05 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:42:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:42:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:42:09 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:42:12 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:42:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:42:16 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:42:16 : [Nixtty] - Não dropou o item Luvas(M) por falta de espaço [1501] [43 0 72 10 2 6] em 1187x 1757y - Tauron (1/300)
+07:42:16 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:42:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:42:19 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:42:22 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:42:24 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:42:26 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:42:27 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:42:29 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:42:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:42:31 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:42:34 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:42:36 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:42:38 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:42:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:42:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:42:44 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:42:44 : [Nixtty] - Level UP para level 189. Ev: 2/2 - 1187x 1757y
+07:42:46 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:42:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:42:49 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:42:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:42:51 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:42:53 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:42:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:42:55 : [Nixtty] - Recebeu 17757 de gold em 10 mobs no total. Total de gold: 1540264909
+07:42:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:42:57 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:42:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:43:03 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:43:03 : [Nixtty] - Não dropou o item Gema_da_Siren por falta de espaço [658] [0 0 0 0 0 0] em 1187x 1757y - Tauron Bandido (1/300)
+07:43:03 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:43:05 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:43:08 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:43:10 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:43:10 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:43:12 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:43:13 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:43:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:43:16 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:43:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:43:19 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:43:19 : [Nixtty] - Level UP para level 190. Ev: 2/2 - 1187x 1757y
+07:43:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:43:24 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:43:27 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:43:30 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:43:30 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:43:32 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:43:34 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:43:36 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:43:37 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:43:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:43:38 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:43:40 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:43:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:43:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:43:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:43:45 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:43:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:43:50 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:43:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:43:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:43:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:43:55 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:43:55 : [Nixtty] - Level UP para level 191. Ev: 2/2 - 1187x 1757y
+07:43:58 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:44:01 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:44:03 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:44:05 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:44:05 : [Nixtty] - Não dropou o item Luvas(M) por falta de espaço [1216] [43 0 72 15 74 12] em 1187x 1757y - Tauron (1/300)
+07:44:05 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:44:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:44:07 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:44:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:44:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:44:13 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:44:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:44:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:44:19 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:44:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:44:24 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:44:25 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:44:26 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:44:26 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:44:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:44:28 : [Nixtty] - Recebeu 18340 de gold em 10 mobs no total. Total de gold: 1540283249
+07:44:30 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:44:32 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:44:34 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:44:34 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:44:34 : [Nixtty] - Level UP para level 192. Ev: 2/2 - 1187x 1757y
+07:44:34 : [Nixtty] - Não dropou o item Gema_da_Siren por falta de espaço [658] [0 0 0 0 0 0] em 1187x 1757y - Tauron (1/300)
+07:44:34 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:44:36 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:44:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:44:40 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:44:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:44:43 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:44:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:44:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:44:49 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:44:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:44:51 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:44:53 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:44:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:44:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:44:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:45:03 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:45:03 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:45:04 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:45:05 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:45:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:45:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:45:09 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:45:09 : [Nixtty] - Level UP para level 193. Ev: 2/2 - 1187x 1757y
+07:45:12 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:45:14 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:45:17 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:45:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:45:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:45:21 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:45:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:45:25 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:45:27 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:45:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:45:28 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:45:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:45:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:45:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:45:37 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:45:40 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:45:40 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:45:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:45:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:45:43 : [Nixtty] - Recebeu 17793 de gold em 10 mobs no total. Total de gold: 1540301042
+07:45:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:45:45 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:45:45 : [Nixtty] - Level UP para level 194. Ev: 2/2 - 1187x 1757y
+07:45:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:45:50 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:45:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:45:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:45:55 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:45:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:45:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:46:00 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:46:02 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:46:03 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:46:05 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:46:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:46:07 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:46:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:46:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:46:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:46:16 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:46:16 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:46:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:46:22 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:46:24 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:46:27 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:46:27 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:46:27 : [Nixtty] - Level UP para level 195. Ev: 2/2 - 1187x 1757y
+07:46:29 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:46:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:46:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:46:33 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:46:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:46:37 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:46:38 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:46:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:46:41 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:46:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:46:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:46:45 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:46:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:46:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:46:52 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:46:53 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:46:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:46:55 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:46:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:46:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:47:01 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:47:04 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:47:05 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:47:06 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:47:06 : [Nixtty] - Level UP para level 196. Ev: 2/2 - 1187x 1757y
+07:47:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:47:11 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:47:11 : [Nixtty] - Não dropou o item Chapéu(M) por falta de espaço [1642] [43 0 59 0 59 0] em 1187x 1757y - Tauron (1/300)
+07:47:11 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:47:13 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:47:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:47:15 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:47:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:47:19 : [Nixtty] - Não dropou o item Gema_da_Siren por falta de espaço [658] [0 0 0 0 0 0] em 1187x 1757y - Tauron (1/300)
+07:47:19 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:47:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:47:21 : [Nixtty] - Recebeu 17451 de gold em 10 mobs no total. Total de gold: 1540318493
+07:47:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:47:25 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:47:25 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:47:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:47:32 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:47:34 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:47:34 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:47:34 : [Nixtty] - Não dropou o item Elmo(M) por falta de espaço [1207] [43 0 60 6 59 0] em 1187x 1757y - Tauron (1/300)
+07:47:34 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:47:37 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:47:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:47:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:47:42 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:47:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:47:44 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:47:44 : [Nixtty] - Level UP para level 197. Ev: 2/2 - 1187x 1757y
+07:47:46 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:47:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:47:50 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:47:50 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:47:52 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:47:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:47:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:48:00 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:48:02 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:48:02 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:48:04 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:48:05 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:48:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:48:11 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:48:13 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:48:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:48:15 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:48:17 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:48:20 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:48:22 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:48:22 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:48:22 : [Nixtty] - Level UP para level 198. Ev: 2/2 - 1187x 1757y
+07:48:24 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:48:25 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:48:25 : [Nixtty] - Recebeu 16620 de gold em 10 mobs no total. Total de gold: 1540335113
+07:48:27 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:48:29 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:48:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:48:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:48:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:48:40 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:48:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:48:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:48:43 : [Nixtty] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+07:48:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:48:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:48:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:48:49 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:48:51 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:48:52 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:48:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:48:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:48:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:49:01 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:49:03 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:49:05 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:49:05 : [Nixtty] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+07:49:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:49:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:49:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:49:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:49:15 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:49:17 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:49:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:49:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:49:21 : [Nixtty] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+07:49:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:49:27 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:49:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:49:29 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:49:29 : [Nixtty] - Recebeu 17253 de gold em 10 mobs no total. Total de gold: 1540352366
+07:49:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:49:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:49:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:49:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:49:40 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:49:40 : [Nixtty] - [Mensagem do servidor]> + + + LEVEL UP + + +
+07:49:40 : [Nixtty] - Level UP para level 199. Ev: 2/2 - 1187x 1757y
+07:49:42 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:49:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:49:46 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:49:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:49:52 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:49:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:49:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:49:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:49:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:50:00 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:50:02 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:50:04 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:50:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:50:10 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:50:12 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:50:14 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:50:16 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:50:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:50:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:50:24 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:50:26 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:50:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:50:30 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:50:32 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:50:32 : [Nixtty] - Não dropou o item Braçadeira(M) por falta de espaço [1651] [4 46 72 10 59 0] em 1187x 1757y - Tauron (1/300)
+07:50:32 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:50:34 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:50:36 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:50:36 : [Nixtty] - Recebeu 17717 de gold em 10 mobs no total. Total de gold: 1540370083
+07:50:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:50:47 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:50:49 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:50:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:50:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:50:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:50:58 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:51:00 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:51:01 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:51:03 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:51:05 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:51:06 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:51:08 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:51:10 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:51:12 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:51:14 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:51:17 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:51:20 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:51:22 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:51:24 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:51:26 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:51:27 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:51:29 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:51:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:51:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:51:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:51:37 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:51:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:51:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:51:46 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:51:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:51:50 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:51:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:51:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:51:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:51:57 : [Nixtty] - Recebeu 17353 de gold em 10 mobs no total. Total de gold: 1540387436
+07:51:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:52:00 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:52:01 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:52:04 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:52:04 : [Nixtty] - Não dropou o item Gema_da_Siren por falta de espaço [658] [0 0 0 0 0 0] em 1187x 1757y - Tauron (1/300)
+07:52:04 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:52:06 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:52:08 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:52:10 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:52:12 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:52:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:52:17 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:52:18 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:52:20 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:52:22 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:52:24 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:52:27 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:52:30 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:52:32 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:52:34 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:52:36 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:52:37 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:52:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:52:40 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:52:40 : [Nixtty] - Recebeu 17341 de gold em 10 mobs no total. Total de gold: 1540404777
+07:52:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:52:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:52:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:52:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:52:53 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:52:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:52:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:52:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:53:01 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:53:04 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:53:06 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:53:08 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:53:10 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:53:12 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:53:14 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:53:16 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:53:18 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:53:20 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:53:23 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:53:26 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:53:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:53:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:53:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:53:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:53:37 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:53:39 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:53:40 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:53:43 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:53:45 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:53:47 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:53:49 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:53:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:53:52 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:53:56 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:53:59 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:53:59 : [Nixtty] - Não dropou o item Luvas(M) por falta de espaço [1501] [43 0 72 10 60 2] em 1187x 1757y - Tauron (1/300)
+07:53:59 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:54:01 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:54:01 : [Nixtty] - Recebeu 17360 de gold em 10 mobs no total. Total de gold: 1540422137
+07:54:03 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:54:06 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:54:08 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:54:10 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:54:12 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:54:14 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:54:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:54:17 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:54:18 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:54:20 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:54:22 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:54:24 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:54:26 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:54:29 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:54:32 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:54:34 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:54:37 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:54:39 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:54:40 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:54:42 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:54:42 : [Nixtty] - Recebeu 17638 de gold em 10 mobs no total. Total de gold: 1540439775
+07:54:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:54:46 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:54:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:54:50 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:54:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:54:53 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:54:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:54:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:54:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:55:01 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:55:04 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:55:07 : [Nixtty] - Usado buff Escudo Dourado. Gold consumido: 24500. Gold atual: 1540420431
+07:55:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:55:11 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:55:13 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:55:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:55:17 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:55:18 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:55:20 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:55:22 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:55:24 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:55:27 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:55:28 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:55:30 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:55:32 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:55:34 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:55:36 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:55:40 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:55:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:55:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:55:46 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:55:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:55:48 : [Nixtty] - Não dropou o item Elmo(M) por falta de espaço [1207] [43 0 59 0 3 5] em 1187x 1757y - Tauron Bandido (1/300)
+07:55:48 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:55:49 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:55:50 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:55:51 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:55:53 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:55:55 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:55:57 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:55:59 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:56:01 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:56:03 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:56:05 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:56:05 : [Nixtty] - Recebeu 18048 de gold em 10 mobs no total. Total de gold: 1540433323
+07:56:07 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:56:09 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:56:11 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:56:13 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:56:15 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:56:18 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:56:20 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:56:22 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:56:24 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:56:28 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:56:29 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:56:32 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:56:34 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:56:36 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:56:38 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:56:40 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:56:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:56:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:56:46 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:56:46 : [Nixtty] - Não dropou o item Luvas(M) por falta de espaço [1501] [43 0 72 10 2 18] em 1187x 1757y - Tauron (1/300)
+07:56:46 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:56:46 : [Nixtty] - Não dropou o item Luvas(M) por falta de espaço [1351] [43 1 72 20 2 6] em 1187x 1757y - Tauron (1/300)
+07:56:46 : [Nixtty] - [Mensagem do servidor]> Seu inventário está cheio
+07:56:48 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:56:50 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:56:52 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:56:54 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:56:56 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:56:58 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:57:00 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:57:02 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:57:04 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:57:05 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:57:08 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:57:10 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:57:10 : [Nixtty] - Recebeu 17341 de gold em 10 mobs no total. Total de gold: 1540450664
+07:57:12 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:57:14 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4003
+07:57:17 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:57:19 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:57:21 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:57:23 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:57:24 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:57:25 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:57:26 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:57:28 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4002
+07:57:31 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:57:33 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:57:35 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:57:37 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:57:39 : [Nixtty] - Matou o mob Tauron. GenerID: 4003
+07:57:41 : [Nixtty] - Matou o mob Tauron. GenerID: 4002
+07:57:44 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:57:48 : [Nixtty] - Matou o mob Tauron. GenerID: 4004
+07:57:50 : [Nixtty] - Matou o mob Tauron Bandido. GenerID: 4004
+07:57:51 : [Nixtty] - BETASD16 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+07:57:51 : [Nixtty] - 3 Personagem foi desconectado. Permaneceu 00:46:24 minutos online
+07:57:51 : [Nixtty] - Recebeu 15860 de gold em 9 mobs no total. Total de gold: 1540466524

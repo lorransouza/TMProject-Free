@@ -1,0 +1,1105 @@
+
+11:28:51 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+11:28:51 : Conta ADMIN2 logado na conta
+Status da conta: JOGANDO
+Personagem: Zero
+
+11:28:51 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+11:28:51 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+11:28:52 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[Zero] (level: 395 ev: 1)	
+
+11:28:55 : Solicitou ir ao mundo...
+11:28:55 : Recebido pedido para entrar no jogo
+11:28:55 : Recebido informação do personagem completa.
+11:28:55 : [LALALA] - [INFORMAÇÕES DA CONTA]
+Personagem online: LALALA
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[Zero] (level: 395 ev: 1)	
+
+11:28:55 : [LALALA] - Personagem LALALA enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 8
+11:28:55 : [LALALA] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+11:28:55 : [LALALA] - Resetado a contagem de entradas água! Day: 21-23. Total: 0
+11:28:55 : [LALALA] - [Mensagem do servidor]> O Kefra foi derrotado
+11:28:55 : [LALALA] - Enviado informações do personagem
+11:28:56 : [LALALA] - Comando "/day "
+11:28:56 : [LALALA] - [Mensagem do servidor]> !#11 2
+11:29:03 : [LALALA] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+11:29:03 : [LALALA] - Comando "/gm +move noatun"
+11:29:03 : [LALALA] - Teleportado para a posição 963 1748
+11:29:08 : [LALALA] - Moveu item Botas(N) [1428] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 0
+11:29:38 : [LALALA] - Comando "/Desbloquear "
+11:29:38 : [LALALA] - [Mensagem do servidor]> Este personagem não está conectado.
+11:30:25 : [LALALA] - Informações do pacote:
+MoveType: 0
+MoveSpeed: 6
+DestinyX: 1037
+DestinyY: 1729
+DestinyX: 1025
+DestinyY: 1728
+etc,diffrent movement. Speed que era para ser: 2
+11:30:27 : [LALALA] - Informações do pacote:
+MoveType: 0
+MoveSpeed: 6
+DestinyX: 1046
+DestinyY: 1734
+DestinyX: 1034
+DestinyY: 1732
+etc,diffrent movement. Speed que era para ser: 2
+11:30:28 : [LALALA] - Informações do pacote:
+MoveType: 0
+MoveSpeed: 6
+DestinyX: 1056
+DestinyY: 1736
+DestinyX: 1044
+DestinyY: 1736
+etc,diffrent movement. Speed que era para ser: 2
+11:30:29 : [LALALA] - Informações do pacote:
+MoveType: 0
+MoveSpeed: 6
+DestinyX: 1060
+DestinyY: 1736
+DestinyX: 1051
+DestinyY: 1736
+etc,diffrent movement. Speed que era para ser: 2
+11:30:30 : [LALALA] - Informações do pacote:
+MoveType: 0
+MoveSpeed: 6
+DestinyX: 1070
+DestinyY: 1737
+DestinyX: 1058
+DestinyY: 1738
+etc,diffrent movement. Speed que era para ser: 2
+11:30:36 : [LALALA] - Informações do pacote:
+MoveType: 0
+MoveSpeed: 6
+DestinyX: 1082
+DestinyY: 1735
+DestinyX: 1070
+DestinyY: 1737
+etc,diffrent movement. Speed que era para ser: 2
+11:30:38 : [LALALA] - Informações do pacote:
+MoveType: 0
+MoveSpeed: 6
+DestinyX: 1093
+DestinyY: 1732
+DestinyX: 1081
+DestinyY: 1732
+etc,diffrent movement. Speed que era para ser: 2
+11:30:40 : [LALALA] - Informações do pacote:
+MoveType: 0
+MoveSpeed: 6
+DestinyX: 1108
+DestinyY: 1733
+DestinyX: 1096
+DestinyY: 1732
+etc,diffrent movement. Speed que era para ser: 2
+11:30:43 : [LALALA] - Informações do pacote:
+MoveType: 0
+MoveSpeed: 6
+DestinyX: 1124
+DestinyY: 1732
+DestinyX: 1112
+DestinyY: 1730
+etc,diffrent movement. Speed que era para ser: 2
+11:30:45 : [LALALA] - Informações do pacote:
+MoveType: 0
+MoveSpeed: 6
+DestinyX: 1127
+DestinyY: 1734
+DestinyX: 1124
+DestinyY: 1732
+etc,diffrent movement. Speed que era para ser: 2
+11:30:48 : [LALALA] - Informações do pacote:
+MoveType: 0
+MoveSpeed: 6
+DestinyX: 1142
+DestinyY: 1727
+DestinyX: 1127
+DestinyY: 1734
+etc,diffrent movement. Speed que era para ser: 2
+11:30:49 : [LALALA] - Informações do pacote:
+MoveType: 0
+MoveSpeed: 6
+DestinyX: 1154
+DestinyY: 1722
+DestinyX: 1142
+DestinyY: 1727
+etc,diffrent movement. Speed que era para ser: 2
+11:30:57 : [LALALA] - Morreu para Zero 1157x 1720y
+11:30:57 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:31:15 : [LALALA] - DoRecall - Enviado para cidade: 2094x 2106y
+11:31:15 : [LALALA] - Usuário reviveu
+11:31:22 : [LALALA] - Comando "/gm +relo Zero"
+11:31:34 : [LALALA] - Teleportado para a posição 1172 1744
+11:31:36 : [LALALA] - Morreu para Zero 1173x 1745y
+11:31:36 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:31:39 : [LALALA] - Teleportado para a posição 1173 1744
+11:31:48 : [LALALA] - DoRecall - Enviado para cidade: 2100x 2102y
+11:31:48 : [LALALA] - Usuário reviveu
+11:31:49 : [LALALA] - Teleportado para a posição 1173 1743
+11:31:50 : [LALALA] - Morreu para Zero 1174x 1744y
+11:31:50 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:32:01 : [LALALA] - DoRecall - Enviado para cidade: 2091x 2102y
+11:32:01 : [LALALA] - Usuário reviveu
+11:32:03 : [LALALA] - Teleportado para a posição 1173 1743
+11:32:07 : [LALALA] - Morreu para Zero 1174x 1744y
+11:32:07 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:34:19 : [LALALA] - Teleportado para a posição 1174 1743
+11:34:26 : [LALALA] - DoRecall - Enviado para cidade: 2096x 2098y
+11:34:26 : [LALALA] - Usuário reviveu
+11:34:28 : [LALALA] - Teleportado para a posição 1173 1743
+11:34:29 : [LALALA] - Morreu para Zero 1174x 1744y
+11:34:29 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:34:37 : [LALALA] - DoRecall - Enviado para cidade: 2087x 2100y
+11:34:37 : [LALALA] - Usuário reviveu
+11:34:41 : [LALALA] - Teleportado para a posição 1173 1743
+11:34:43 : [LALALA] - Morreu para Zero 1174x 1744y
+11:34:43 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:34:51 : [LALALA] - DoRecall - Enviado para cidade: 2090x 2107y
+11:34:51 : [LALALA] - Usuário reviveu
+11:34:54 : [LALALA] - Teleportado para a posição 1173 1743
+11:34:55 : [LALALA] - Morreu para Zero 1174x 1744y
+11:34:55 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:35:04 : [LALALA] - DoRecall - Enviado para cidade: 2090x 2097y
+11:35:04 : [LALALA] - Usuário reviveu
+11:35:15 : [LALALA] - Teleportado para a posição 1174 1745
+11:35:17 : [LALALA] - Morreu para Zero 1175x 1746y
+11:35:17 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:35:33 : [LALALA] - DoRecall - Enviado para cidade: 2086x 2094y
+11:35:33 : [LALALA] - Usuário reviveu
+11:35:37 : [LALALA] - Teleportado para a posição 1174 1745
+11:35:39 : [LALALA] - Morreu para Zero 1175x 1746y
+11:35:39 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:35:55 : [LALALA] - DoRecall - Enviado para cidade: 2099x 2095y
+11:35:55 : [LALALA] - Usuário reviveu
+11:35:59 : [LALALA] - Teleportado para a posição 1174 1745
+11:36:00 : [LALALA] - Morreu para Zero 1175x 1746y
+11:36:00 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:36:14 : [LALALA] - DoRecall - Enviado para cidade: 2091x 2103y
+11:36:14 : [LALALA] - Usuário reviveu
+11:36:17 : [LALALA] - Teleportado para a posição 1174 1745
+11:36:19 : [LALALA] - Morreu para Zero 1175x 1746y
+11:36:19 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:36:28 : [LALALA] - DoRecall - Enviado para cidade: 2096x 2102y
+11:36:28 : [LALALA] - Usuário reviveu
+11:36:31 : [LALALA] - Teleportado para a posição 1174 1746
+11:36:33 : [LALALA] - Morreu para Zero 1175x 1747y
+11:36:33 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:36:43 : [LALALA] - DoRecall - Enviado para cidade: 2094x 2102y
+11:36:43 : [LALALA] - Usuário reviveu
+11:36:44 : [LALALA] - Teleportado para a posição 1174 1746
+11:36:46 : [LALALA] - Morreu para Zero 1175x 1747y
+11:36:46 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:36:49 : [LALALA] - Comando "/gm "
+11:36:49 : [LALALA] - [Mensagem do servidor]> Utilize /gm +command
+11:36:55 : [LALALA] - DoRecall - Enviado para cidade: 2090x 2101y
+11:36:55 : [LALALA] - Usuário reviveu
+11:36:57 : [LALALA] - Teleportado para a posição 1174 1746
+11:36:59 : [LALALA] - Morreu para Zero 1175x 1747y
+11:36:59 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:37:06 : [LALALA] - DoRecall - Enviado para cidade: 2095x 2107y
+11:37:06 : [LALALA] - Usuário reviveu
+11:37:09 : [LALALA] - Teleportado para a posição 1174 1746
+11:37:10 : [LALALA] - Morreu para Zero 1175x 1747y
+11:37:10 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:37:31 : [LALALA] - DoRecall - Enviado para cidade: 2091x 2100y
+11:37:31 : [LALALA] - Usuário reviveu
+11:37:39 : [LALALA] - Teleportado para a posição 1174 1746
+11:37:40 : [LALALA] - Morreu para Zero 1175x 1747y
+11:37:40 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:40:40 : [LALALA] - DoRecall - Enviado para cidade: 2086x 2098y
+11:40:40 : [LALALA] - Usuário reviveu
+11:41:01 : [LALALA] - Teleportado para a posição 1174 1746
+11:41:02 : [LALALA] - Morreu para Zero 1175x 1747y
+11:41:02 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:41:11 : [LALALA] - DoRecall - Enviado para cidade: 2088x 2094y
+11:41:11 : [LALALA] - Usuário reviveu
+11:41:12 : [LALALA] - Teleportado para a posição 1174 1746
+11:41:13 : [LALALA] - Morreu para Zero 1175x 1747y
+11:41:13 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:41:15 : [LALALA] - Comando "/gm "
+11:41:15 : [LALALA] - [Mensagem do servidor]> Utilize /gm +command
+11:41:21 : [LALALA] - Teleportado para a posição 1175 1746
+11:41:21 : [LALALA] - DoRecall - Enviado para cidade: 2095x 2093y
+11:41:22 : [LALALA] - Usuário reviveu
+11:41:23 : [LALALA] - Teleportado para a posição 1174 1746
+11:41:24 : [LALALA] - Morreu para Zero 1175x 1747y
+11:41:24 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:41:31 : [LALALA] - DoRecall - Enviado para cidade: 2091x 2100y
+11:41:31 : [LALALA] - Usuário reviveu
+11:41:34 : [LALALA] - Teleportado para a posição 1174 1746
+11:41:35 : [LALALA] - Morreu para Zero 1175x 1747y
+11:41:35 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:41:43 : [LALALA] - Teleportado para a posição 1174 1747
+11:41:44 : [LALALA] - DoRecall - Enviado para cidade: 2088x 2095y
+11:41:44 : [LALALA] - Usuário reviveu
+11:41:50 : [LALALA] - Teleportado para a posição 1174 1747
+11:41:51 : [LALALA] - Morreu para Zero 1175x 1748y
+11:41:51 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:42:04 : [LALALA] - DoRecall - Enviado para cidade: 2099x 2098y
+11:42:04 : [LALALA] - Usuário reviveu
+11:42:05 : [LALALA] - Teleportado para a posição 1174 1747
+11:42:06 : [LALALA] - Morreu para Zero 1175x 1748y
+11:42:06 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:42:15 : [LALALA] - DoRecall - Enviado para cidade: 2100x 2106y
+11:42:15 : [LALALA] - Usuário reviveu
+11:42:17 : [LALALA] - Teleportado para a posição 1174 1747
+11:42:18 : [LALALA] - Morreu para Zero 1175x 1748y
+11:42:18 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:42:25 : [LALALA] - DoRecall - Enviado para cidade: 2092x 2099y
+11:42:25 : [LALALA] - Usuário reviveu
+11:42:26 : [LALALA] - Teleportado para a posição 1174 1747
+11:42:27 : [LALALA] - Morreu para Zero 1175x 1748y
+11:42:27 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:42:35 : [LALALA] - DoRecall - Enviado para cidade: 2094x 2103y
+11:42:35 : [LALALA] - Usuário reviveu
+11:42:38 : [LALALA] - Teleportado para a posição 1174 1747
+11:42:39 : [LALALA] - Morreu para Zero 1175x 1748y
+11:42:39 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:43:37 : [LALALA] - DoRecall - Enviado para cidade: 2087x 2103y
+11:43:37 : [LALALA] - Usuário reviveu
+11:44:47 : [LALALA] - Teleportado para a posição 1174 1747
+11:44:48 : [LALALA] - Morreu para Zero 1175x 1748y
+11:44:48 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:44:56 : [LALALA] - DoRecall - Enviado para cidade: 2099x 2105y
+11:44:56 : [LALALA] - Usuário reviveu
+11:44:58 : [LALALA] - Teleportado para a posição 1174 1747
+11:44:59 : [LALALA] - Morreu para Zero 1175x 1748y
+11:44:59 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:45:08 : [LALALA] - DoRecall - Enviado para cidade: 2088x 2100y
+11:45:08 : [LALALA] - Usuário reviveu
+11:45:18 : [LALALA] - Teleportado para a posição 1174 1747
+11:45:22 : [LALALA] - Morreu para Zero 1175x 1748y
+11:45:22 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:46:10 : [LALALA] - Teleportado para a posição 1175 1747
+11:46:18 : [LALALA] - DoRecall - Enviado para cidade: 2086x 2100y
+11:46:18 : [LALALA] - Usuário reviveu
+11:46:20 : [LALALA] - Teleportado para a posição 1174 1747
+11:46:21 : [LALALA] - Morreu para Zero 1175x 1748y
+11:46:21 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:46:29 : [LALALA] - DoRecall - Enviado para cidade: 2086x 2095y
+11:46:29 : [LALALA] - Usuário reviveu
+11:46:32 : [LALALA] - Teleportado para a posição 1174 1747
+11:46:33 : [LALALA] - Morreu para Zero 1175x 1748y
+11:46:33 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:46:48 : [LALALA] - DoRecall - Enviado para cidade: 2099x 2093y
+11:46:48 : [LALALA] - Usuário reviveu
+11:46:50 : [LALALA] - Teleportado para a posição 1174 1747
+11:46:51 : [LALALA] - Morreu para Zero 1175x 1748y
+11:46:51 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:46:58 : [LALALA] - DoRecall - Enviado para cidade: 2097x 2105y
+11:46:58 : [LALALA] - Usuário reviveu
+11:47:12 : [LALALA] - Teleportado para a posição 1174 1747
+11:47:15 : [LALALA] - Morreu para Zero 1175x 1748y
+11:47:15 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:47:45 : [LALALA] - DoRecall - Enviado para cidade: 2088x 2099y
+11:47:45 : [LALALA] - Usuário reviveu
+11:47:47 : [LALALA] - Teleportado para a posição 1174 1747
+11:47:48 : [LALALA] - Morreu para Zero 1175x 1748y
+11:47:48 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:47:57 : [LALALA] - DoRecall - Enviado para cidade: 2098x 2099y
+11:47:57 : [LALALA] - Usuário reviveu
+11:47:58 : [LALALA] - Teleportado para a posição 1174 1747
+11:47:59 : [LALALA] - Morreu para Zero 1175x 1748y
+11:47:59 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:48:09 : [LALALA] - DoRecall - Enviado para cidade: 2091x 2095y
+11:48:09 : [LALALA] - Usuário reviveu
+11:48:40 : [LALALA] - Teleportado para a posição 1174 1747
+11:49:20 : [LALALA] - Morreu para Zero 1175x 1748y
+11:49:20 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:49:30 : [LALALA] - DoRecall - Enviado para cidade: 2099x 2094y
+11:49:30 : [LALALA] - Usuário reviveu
+11:49:33 : [LALALA] - Teleportado para a posição 1174 1747
+11:49:34 : [LALALA] - Morreu para Zero 1175x 1748y
+11:49:34 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:49:41 : [LALALA] - DoRecall - Enviado para cidade: 2087x 2101y
+11:49:41 : [LALALA] - Usuário reviveu
+11:49:43 : [LALALA] - Teleportado para a posição 1174 1747
+11:49:44 : [LALALA] - Morreu para Zero 1175x 1748y
+11:49:44 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:50:25 : [LALALA] - Teleportado para a posição 1175 1747
+11:50:33 : [LALALA] - DoRecall - Enviado para cidade: 2097x 2098y
+11:50:33 : [LALALA] - Usuário reviveu
+11:50:34 : [LALALA] - Teleportado para a posição 1174 1747
+11:50:35 : [LALALA] - Morreu para Zero 1175x 1748y
+11:50:35 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:50:43 : [LALALA] - DoRecall - Enviado para cidade: 2095x 2105y
+11:50:43 : [LALALA] - Usuário reviveu
+11:50:45 : [LALALA] - Teleportado para a posição 1174 1747
+11:50:48 : [LALALA] - Morreu para Zero 1175x 1748y
+11:50:48 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:50:56 : [LALALA] - DoRecall - Enviado para cidade: 2096x 2094y
+11:50:56 : [LALALA] - Usuário reviveu
+11:50:57 : [LALALA] - Teleportado para a posição 1174 1747
+11:50:58 : [LALALA] - Morreu para Zero 1175x 1748y
+11:50:58 : [LALALA] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+11:53:58 : [LALALA] - DoRecall - Enviado para cidade: 2095x 2095y
+11:53:58 : [LALALA] - Usuário reviveu
+11:58:55 : [LALALA] - [INFORMAÇÕES DA CONTA]
+Personagem online: LALALA
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:40 horas
+Posição atual: 2095x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Botas(N)[1428] [43 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[Zero] (level: 395 ev: 1)	
+
+12:22:10 : [LALALA] - Comando "/gm +item 2280 96 10"
+12:22:17 : [LALALA] - Comando "/Desbloquear "
+12:22:17 : [LALALA] - [Mensagem do servidor]> Este personagem não está conectado.
+12:22:18 : [LALALA] - Comando "/gm +item 2280 96 10"
+12:22:18 : [LALALA] - [Mensagem do servidor]> Criou o item Mochila_de_Barras_(Tam._50)
+12:22:18 : [LALALA] - LALALA criou o item Mochila_de_Barras_(Tam._50) [2280] [96 10 0 0 0 0]
+12:22:26 : [LALALA] - [Mensagem do servidor]> 10 15 0 - 1 0
+12:22:26 : [LALALA] - [Mensagem do servidor]> Não possui gold para comprar este item
+12:22:34 : [LALALA] - Comando "/gm +item 4011"
+12:22:34 : [LALALA] - [Mensagem do servidor]> Criou o item Barra_de_Prata(1Bi)
+12:22:34 : [LALALA] - LALALA criou o item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0]
+12:22:35 : [LALALA] - Comando "/gm +item 4011"
+12:22:35 : [LALALA] - [Mensagem do servidor]> Criou o item Barra_de_Prata(1Bi)
+12:22:35 : [LALALA] - LALALA criou o item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0]
+12:22:35 : [LALALA] - Comando "/gm +item 4011"
+12:22:35 : [LALALA] - [Mensagem do servidor]> Criou o item Barra_de_Prata(1Bi)
+12:22:35 : [LALALA] - LALALA criou o item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0]
+12:22:36 : [LALALA] - Comando "/gm +item 4011"
+12:22:36 : [LALALA] - [Mensagem do servidor]> Criou o item Barra_de_Prata(1Bi)
+12:22:36 : [LALALA] - LALALA criou o item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0]
+12:22:39 : [LALALA] - Comando "/gm +item 2280 96 10"
+12:22:39 : [LALALA] - [Mensagem do servidor]> Criou o item Mochila_de_Barras_(Tam._50)
+12:22:39 : [LALALA] - LALALA criou o item Mochila_de_Barras_(Tam._50) [2280] [96 10 0 0 0 0]
+12:22:41 : [LALALA] - Comando "/gm +item 4011"
+12:22:41 : [LALALA] - [Mensagem do servidor]> Criou o item Barra_de_Prata(1Bi)
+12:22:41 : [LALALA] - LALALA criou o item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0]
+12:22:42 : [LALALA] - Comando "/gm +item 4011"
+12:22:42 : [LALALA] - [Mensagem do servidor]> Criou o item Barra_de_Prata(1Bi)
+12:22:42 : [LALALA] - LALALA criou o item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0]
+12:22:45 : [LALALA] - Item Mochila_de_Barras_(Tam._50) deletado [2280] [96 10 0 0 0 0]. Slot 6
+12:22:46 : [LALALA] - Comando "/gm +item 4011"
+12:22:46 : [LALALA] - [Mensagem do servidor]> Criou o item Barra_de_Prata(1Bi)
+12:22:46 : [LALALA] - LALALA criou o item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0]
+12:22:48 : [LALALA] - Comando "/gm +item 4011"
+12:22:48 : [LALALA] - [Mensagem do servidor]> Criou o item Barra_de_Prata(1Bi)
+12:22:48 : [LALALA] - LALALA criou o item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0]
+12:22:49 : [LALALA] - Comando "/gm +item 4011"
+12:22:49 : [LALALA] - [Mensagem do servidor]> Criou o item Barra_de_Prata(1Bi)
+12:22:49 : [LALALA] - LALALA criou o item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0]
+12:22:50 : [LALALA] - Comando "/gm +item 4011"
+12:22:50 : [LALALA] - [Mensagem do servidor]> Criou o item Barra_de_Prata(1Bi)
+12:22:50 : [LALALA] - LALALA criou o item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0]
+12:22:54 : [LALALA] - [Mensagem do servidor]> 10 15 0 - 1 0
+12:22:54 : [LALALA] - Comprou o item Ração_de_Aranha [2420] [61 3 0 0 0 0] de Zero (ADMIN2) por 10. Gold sobrando: 0 - Impostos pago: 0
+12:28:46 : [LALALA] - [Mensagem do servidor]> Não possui GOLD suficiente
+12:28:56 : [LALALA] - [INFORMAÇÕES DA CONTA]
+Personagem online: LALALA
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:59:17 horas
+Posição atual: 2116x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Botas(N)[1428] [43 0 0 0 0 0]
+[01] - Mochila_de_Barras_(Tam._50)[2280] [96 10 0 0 0 0]
+[12] - Ração_de_Aranha[2420] [61 3 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[Zero] (level: 395 ev: 1)	
+
+13:09:19 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+13:09:19 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+13:09:19 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:09:20 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:09:22 : ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+13:09:22 : Personagem foi desconectado. Permaneceu 00:00:03 minutos online
+15:31:07 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 6
+15:31:07 : [Mensagem do servidor]> Senha incorreta.
+15:31:07 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+15:31:11 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 6
+15:31:11 : Usuário logou no jogo com clientId 6. - Servidor 1. Gold do banco: 0
+15:31:11 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:31:11 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:31:18 : Solicitou ir ao mundo...
+15:31:18 : Recebido pedido para entrar no jogo
+15:31:18 : Recebido informação do personagem completa.
+15:31:18 : [LALALA] - [INFORMAÇÕES DA CONTA]
+Personagem online: LALALA
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Botas(N)[1428] [43 0 0 0 0 0]
+[01] - Mochila_de_Barras_(Tam._50)[2280] [96 10 0 0 0 0]
+[12] - Ração_de_Aranha[2420] [61 3 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:31:18 : [LALALA] - Personagem LALALA enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. PowerLevel: 7
+15:31:18 : [LALALA] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:31:18 : [LALALA] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+15:31:18 : [LALALA] - Enviado informações do personagem
+15:31:19 : [LALALA] - Comando "/day "
+15:31:19 : [LALALA] - [Mensagem do servidor]> !#11 2
+15:31:25 : [LALALA] - Moveu item Botas(N) [1428] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 5
+15:31:28 : [LALALA] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:31:36 : [LALALA] - [Mensagem do servidor]> Não possui GOLD suficiente
+15:31:43 : [LALALA] - Comando "/gm +move noatun"
+15:31:43 : [LALALA] - Teleportado para a posição 963 1748
+15:42:34 : [LALALA] - Comando "/gm +move armia"
+15:42:34 : [LALALA] - Teleportado para a posição 2100 2100
+15:42:37 : [LALALA] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2101x 2105y. Posição do NPC: 2102x 2113y
+15:45:15 : [LALALA] - Clicado no NPC [Troca1]. Face 60. Race: 2. GenerateId: 4786. Posição do usuário: 2111x 2110y. Posição do NPC: 2110x 2110y
+15:45:26 : [LALALA] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:45:26 : [LALALA] - 6 Personagem foi desconectado. Permaneceu 00:14:04 minutos online
+15:58:14 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+15:58:14 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+15:58:14 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:58:15 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:58:20 : ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+15:58:20 : Personagem foi desconectado. Permaneceu 00:00:06 minutos online
+18:28:21 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 31.4.247.125 Mac: (B4:B1:20:6F:AD:44). ClientId: 3
+18:28:21 : Conta ADMIN2 logado na conta
+Status da conta: JOGANDO
+Personagem: Zero
+
+18:28:21 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+18:28:21 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+18:28:22 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[Zero] (level: 5 ev: 1)	
+
+18:28:25 : Solicitou ir ao mundo...
+18:28:25 : Recebido pedido para entrar no jogo
+18:28:25 : Recebido informação do personagem completa.
+18:28:25 : [LALALA] - [INFORMAÇÕES DA CONTA]
+Personagem online: LALALA
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[01] - Mochila_de_Barras_(Tam._50)[2280] [96 10 0 0 0 0]
+[12] - Ração_de_Aranha[2420] [61 3 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[Zero] (level: 5 ev: 1)	
+
+18:28:25 : [LALALA] - Personagem LALALA enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 8
+18:28:25 : [LALALA] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+18:28:25 : [LALALA] - [Mensagem do servidor]> O Kefra foi derrotado
+18:28:25 : [LALALA] - Enviado informações do personagem
+18:28:31 : [LALALA] - Comando "/day "
+18:28:31 : [LALALA] - [Mensagem do servidor]> !#11 2
+18:28:41 : [LALALA] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:28:47 : [LALALA] - Comando "/ @teste1234567890000000000000000000000000000000"
+18:28:47 : [LALALA] - Mensagem enviada: @teste1234567890000000000000000000000000000000
+18:30:40 : [LALALA] - Personagem deu personagem
+18:30:41 : ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:30:41 : Personagem foi desconectado. Permaneceu 00:02:17 minutos online
+18:31:01 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 31.4.247.125 Mac: (B4:B1:20:6F:AD:44). ClientId: 3
+18:31:02 : Conta ADMIN2 logado na conta
+Status da conta: JOGANDO
+Personagem: Zero
+
+18:31:02 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+18:31:02 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+18:31:16 : Solicitou ir ao mundo...
+18:31:16 : Recebido pedido para entrar no jogo
+18:31:16 : Recebido informação do personagem completa.
+18:31:16 : [Foeteste] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foeteste
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:14 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[02] - Robe(N)[1266] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[Zero] (level: 5 ev: 1)	
+
+18:31:16 : [Foeteste] - Personagem Foeteste enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 11
+18:31:16 : [Foeteste] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+18:31:16 : [Foeteste] - [Mensagem do servidor]> O Kefra foi derrotado
+18:31:16 : [Foeteste] - Enviado informações do personagem
+18:31:18 : [Foeteste] - Comando "/day "
+18:31:18 : [Foeteste] - [Mensagem do servidor]> !#11 2
+18:31:29 : [Foeteste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:31:31 : [Foeteste] - Clicado no NPC [Mestre Grifo]. Face 21. Race: 2. GenerateId: 3418. Posição do usuário: 2115x 2078y. Posição do NPC: 2115x 2080y
+18:31:39 : [Foeteste] - Comando "/gm +set level 399"
+18:31:55 : [Foeteste] - Comprou uma skill Velocidade. Learn antigo: 562950100373268, Learn atual: 1308281672978006016. Learn da skill: 1124.
+18:31:55 : [Foeteste] - [Mensagem do servidor]> Habilidade Velocidade aprendida com sucesso
+18:31:55 : [Foeteste] - Comprou uma skill Escudo_Mágico. Learn antigo: 2814749914058516, Learn atual: 1308281672978399232. Learn da skill: 1124.
+18:31:55 : [Foeteste] - [Mensagem do servidor]> Habilidade Escudo_Mágico aprendida com sucesso
+18:31:56 : [Foeteste] - [Mensagem do servidor]> Você precisa de mais pontos da linhagem.
+18:31:57 : [Foeteste] - [Mensagem do servidor]> Você precisa de mais pontos da linhagem.
+18:31:57 : [Foeteste] - Comprou uma skill Controle_de_Mana. Learn antigo: 20829148423540500, Learn atual: 1308281672982069248. Learn da skill: 1124.
+18:31:57 : [Foeteste] - [Mensagem do servidor]> Habilidade Controle_de_Mana aprendida com sucesso
+18:32:01 : [Foeteste] - [Mensagem do servidor]> Você precisa de mais pontos da linhagem.
+18:32:07 : [Foeteste] - [Mensagem do servidor]> Você precisa de mais pontos da linhagem.
+18:32:18 : [Foeteste] - [Mensagem do servidor]> Você ja aprendeu esta skill.
+18:32:20 : [Foeteste] - [Mensagem do servidor]> Você precisa de mais pontos da linhagem.
+18:32:23 : [Foeteste] - [Mensagem do servidor]> Você precisa de mais pontos da linhagem.
+18:32:43 : [Foeteste] - Comprou uma skill Toque_da_Athena. Learn antigo: 29836347678281492, Learn atual: 1308281672979972096. Learn da skill: 1124.
+18:32:43 : [Foeteste] - [Mensagem do servidor]> Habilidade Toque_da_Athena aprendida com sucesso
+18:32:45 : [Foeteste] - [Mensagem do servidor]> Você ja aprendeu esta skill.
+18:32:46 : [Foeteste] - Comprou uma skill Arma_Mágica. Learn antigo: 34339947305651988, Learn atual: 1308281672978923520. Learn da skill: 1124.
+18:32:46 : [Foeteste] - [Mensagem do servidor]> Habilidade Arma_Mágica aprendida com sucesso
+18:32:50 : [Foeteste] - Comprou uma skill Teleporte. Learn antigo: 35465847212494612, Learn atual: 1308281672978137088. Learn da skill: 1124.
+18:32:50 : [Foeteste] - [Mensagem do servidor]> Habilidade Teleporte aprendida com sucesso
+18:34:47 : [Foeteste] - Comprou uma skill Recuperar. Learn antigo: 35465984651448084, Learn atual: 1308281672977874976. Learn da skill: 1124.
+18:34:47 : [Foeteste] - [Mensagem do servidor]> Habilidade Recuperar aprendida com sucesso
+18:35:37 : [Foeteste] - O login admin3 tentou logar na conta com o mesmo mac.
+18:35:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 4
+18:35:37 : Conta ADMIN2 logado na conta
+Status da conta: JOGANDO
+Personagem: Zero
+Conta ADMIN3 logado na conta
+Status da conta: JOGANDO
+Personagem: Foeteste
+
+18:35:37 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:35:39 : [Foeteste] - O login admin3 tentou logar na conta com o mesmo mac.
+18:35:39 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 4
+18:35:39 : Conta ADMIN2 logado na conta
+Status da conta: JOGANDO
+Personagem: Zero
+Conta ADMIN3 logado na conta
+Status da conta: JOGANDO
+Personagem: Foeteste
+
+18:35:39 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:35:41 : [Foeteste] - 3 Personagem foi desconectado. Permaneceu 00:04:36 minutos online
+18:35:41 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 4
+18:35:41 : Conta ADMIN2 logado na conta
+Status da conta: JOGANDO
+Personagem: Zero
+
+18:35:41 : Usuário logou no jogo com clientId 4. - Servidor 2. Gold do banco: 0
+18:35:41 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+18:35:42 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[Zero] (level: 5 ev: 1)	
+
+18:35:46 : Solicitou ir ao mundo...
+18:35:46 : Recebido pedido para entrar no jogo
+18:35:46 : Recebido informação do personagem completa.
+18:35:46 : [Foeteste] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foeteste
+Gold atual: 0
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2090x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[02] - Robe(N)[1266] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:35:46 : [Foeteste] - Personagem Foeteste enviado ao mundo 2090x 2098y - Canal 2 - Cash da conta: 0. PowerLevel: 277
+18:35:46 : [Foeteste] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+18:35:46 : [Foeteste] - [Mensagem do servidor]> O Kefra foi derrotado
+18:35:46 : [Foeteste] - Enviado informações do personagem
+18:35:47 : [Foeteste] - Comando "/day "
+18:35:47 : [Foeteste] - [Mensagem do servidor]> !#11 2
+18:35:53 : [Foeteste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:38:30 : [Foeteste] - Personagem deu personagem
+18:38:32 : Solicitou ir ao mundo...
+18:38:32 : Recebido pedido para entrar no jogo
+18:38:32 : Recebido informação do personagem completa.
+18:38:32 : [LALALA] - [INFORMAÇÕES DA CONTA]
+Personagem online: LALALA
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:02:48 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[01] - Mochila_de_Barras_(Tam._50)[2280] [96 10 0 0 0 0]
+[12] - Ração_de_Aranha[2420] [61 3 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:38:32 : [LALALA] - Personagem LALALA enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 8
+18:38:32 : [LALALA] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+18:38:32 : [LALALA] - [Mensagem do servidor]> O Kefra foi derrotado
+18:38:32 : [LALALA] - Enviado informações do personagem
+18:38:33 : [LALALA] - Comando "/day "
+18:38:33 : [LALALA] - [Mensagem do servidor]> !#11 2
+18:38:41 : [LALALA] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:38:58 : [LALALA] - Comando "/gm +set level 399"
+18:39:03 : [LALALA] - [Mensagem do servidor]> Você precisa de mais pontos da linhagem.
+18:39:26 : [LALALA] - Comprou uma skill Evocar_Grande_Tigre. Learn antigo: 17592332999292, Learn atual: 1308281672977879040. Learn da skill: 1124.
+18:39:26 : [LALALA] - [Mensagem do servidor]> Habilidade Evocar_Grande_Tigre aprendida com sucesso
+18:41:42 : [LALALA] - Teleportado para a posição 2590 2099
+18:41:42 : [LALALA] - Solicitado teleporte na posição 2141x 2069y e teleportado para 2590x 2099y
+18:41:57 : [LALALA] - Matou o mob Troll Mago . GenerID: 1204
+18:41:57 : [LALALA] - Dropado item Armadura(M) [1450] [43 0 71 30 59 0] em 2590x 2099y - Troll Mago  (1/100)
+18:42:14 : [LALALA] - Matou o mob Troll Mago. GenerID: 1194
+18:42:25 : [LALALA] - Matou o mob Troll Mago. GenerID: 1196
+18:42:36 : [LALALA] - Matou o mob Troll Mago. GenerID: 1194
+18:42:44 : [LALALA] - Matou o mob Troll Mago. GenerID: 1195
+18:42:57 : [LALALA] - Matou o mob Troll Mago. GenerID: 1194
+18:43:09 : [LALALA] - Matou o mob Troll Mago. GenerID: 1210
+18:43:21 : [LALALA] - Matou o mob Troll Insano. GenerID: 1211
+18:43:35 : [LALALA] - Matou o mob Troll Insano. GenerID: 1211
+18:43:35 : [LALALA] - Dropado item Cajado [977] [43 0 59 0 59 0] em 2602x 2115y - Troll Insano (1/80)
+18:43:44 : [LALALA] - Matou o mob Troll Insano. GenerID: 1210
+18:44:05 : [LALALA] - Matou o mob Troll Insano. GenerID: 1211
+18:44:12 : [LALALA] - Matou o mob Troll Mago. GenerID: 1211
+18:44:25 : [LALALA] - Matou o mob Troll Insano. GenerID: 1210
+18:44:30 : [LALALA] - Matou o mob Troll Mago . GenerID: 1204
+18:44:31 : [LALALA] - Matou o mob Troll Mago. GenerID: 1211
+18:44:40 : [LALALA] - Matou o mob Troll Insano. GenerID: 1211
+18:44:52 : [LALALA] - Matou o mob Troll Insano. GenerID: 1211
+18:44:52 : [LALALA] - Dropado item Cajado [977] [43 1 60 8 60 12] em 2599x 2122y - Troll Insano (1/80)
+18:45:01 : [LALALA] - Matou o mob Troll Mago. GenerID: 1211
+18:45:13 : [LALALA] - Matou o mob Troll Mago. GenerID: 1210
+18:45:20 : [LALALA] - Matou o mob Troll Insano. GenerID: 1210
+18:45:33 : [LALALA] - Matou o mob Troll Insano. GenerID: 1210
+18:45:51 : [LALALA] - Matou o mob Troll Insano. GenerID: 1210
+18:45:51 : [LALALA] - Dropado item Calça(N) [1131] [43 1 3 10 59 0] em 2603x 2122y - Troll Insano (1/300)
+18:45:52 : [LALALA] - Matou o mob Troll Mago. GenerID: 1210
+18:46:06 : [LALALA] - Matou o mob Troll Insano. GenerID: 1210
+18:46:17 : [LALALA] - Matou o mob Troll Mago. GenerID: 1210
+18:46:24 : [LALALA] - Matou o mob Troll Mago. GenerID: 1210
+18:46:34 : [LALALA] - Matou o mob Troll Mago. GenerID: 1210
+18:46:56 : [LALALA] - Matou o mob Troll Insano. GenerID: 1211
+18:46:57 : [LALALA] - Matou o mob Troll Mago. GenerID: 1203
+18:47:07 : [LALALA] - Matou o mob Troll Insano. GenerID: 1210
+18:47:23 : [LALALA] - Matou o mob Troll Mago. GenerID: 1211
+18:47:29 : [LALALA] - Matou o mob Troll Mago. GenerID: 1211
+18:47:37 : [LALALA] - Matou o mob Troll Insano. GenerID: 1210
+18:47:49 : [LALALA] - Matou o mob Troll Mago. GenerID: 1210
+18:47:59 : [LALALA] - Matou o mob Troll Insano. GenerID: 1209
+18:48:10 : [LALALA] - Matou o mob Troll Insano. GenerID: 1210
+18:48:26 : [LALALA] - Matou o mob Troll Mago. GenerID: 1210
+18:48:38 : [LALALA] - Matou o mob Troll Insano. GenerID: 1210
+18:48:53 : [LALALA] - Matou o mob Troll Mago. GenerID: 1210
+18:49:04 : [LALALA] - Matou o mob Troll Mago . GenerID: 1201
+18:49:16 : [LALALA] - Matou o mob Troll Insano. GenerID: 1210
+18:49:26 : [LALALA] - Matou o mob Troll Mago. GenerID: 1210
+18:49:37 : [LALALA] - Matou o mob Troll Mago. GenerID: 1210
+18:49:50 : [LALALA] - Matou o mob Troll Insano . GenerID: 1208
+18:50:04 : [LALALA] - Matou o mob Troll Mago. GenerID: 1209
+18:50:21 : [LALALA] - Matou o mob Troll Mago. GenerID: 1190
+18:50:34 : [LALALA] - Matou o mob Troll Mago. GenerID: 1191
+18:50:58 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:51:03 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:51:20 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:51:35 : [LALALA] - Matou o mob Troll Mago . GenerID: 1198
+18:51:45 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:52:04 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:52:04 : [LALALA] - Dropado item Peitoral(M) [1600] [43 0 71 30 59 0] em 2600x 2152y - Troll Mago (1/100)
+18:52:22 : [LALALA] - Matou o mob Troll Insano . GenerID: 1208
+18:52:30 : [LALALA] - Matou o mob Troll Mago . GenerID: 1208
+18:52:37 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:52:50 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:53:09 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:53:16 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:53:46 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:53:59 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:54:02 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:54:28 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:54:36 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:54:42 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:54:42 : [LALALA] - Dropado item Adaga [864] [4 40 2 18 59 0] em 2599x 2155y - Troll Insano (1/300)
+18:54:49 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:55:07 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:55:14 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:55:26 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:55:40 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:55:55 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:56:06 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:56:29 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:56:34 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:56:34 : [LALALA] - Dropado item Arco [972] [43 0 2 9 59 0] em 2605x 2154y - Troll Mago (1/100)
+18:56:52 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:56:58 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:57:09 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:57:21 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:57:34 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:57:50 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:57:50 : [LALALA] - Dropado item Elmo(N) [1107] [7 8 60 4 59 0] em 2598x 2157y - Troll Insano (1/300)
+18:58:03 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:58:14 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:58:31 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:58:46 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:59:02 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:59:14 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+18:59:27 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+18:59:40 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:00:04 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:00:05 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:00:05 : [LALALA] - Dropado item Arco [972] [43 0 59 0 59 0] em 2603x 2150y - Troll Mago (1/100)
+19:00:18 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:00:32 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:00:47 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:01:07 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:01:13 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:01:26 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:01:38 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:01:51 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:02:06 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:02:06 : [LALALA] - Dropado item Lança [850] [14 11 74 3 59 0] em 2606x 2157y - Troll Insano (1/300)
+19:02:26 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:02:39 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:02:49 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:02:51 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:03:05 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:03:16 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:03:16 : [LALALA] - Dropado item Luvas(M) [1297] [43 1 72 15 2 6] em 2603x 2158y - Troll Insano (1/80)
+19:03:24 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:03:33 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:03:43 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:03:54 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:04:03 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:04:15 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:04:27 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:04:38 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:04:47 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:05:00 : [LALALA] - Matou o mob Troll Insano . GenerID: 1208
+19:05:14 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:05:25 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:05:34 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:05:49 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:06:05 : [LALALA] - Matou o mob Troll Mago . GenerID: 1208
+19:06:20 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:06:33 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:06:44 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:07:01 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:07:21 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:07:26 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:07:26 : [LALALA] - Dropado item Peitoral(M) [1600] [43 2 71 40 3 10] em 2597x 2156y - Troll Mago (1/100)
+19:07:34 : [LALALA] - Matou o mob Troll Mago . GenerID: 1198
+19:07:48 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:07:58 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:08:10 : [LALALA] - Matou o mob Troll Mago . GenerID: 1198
+19:08:21 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:08:32 : [LALALA] - [INFORMAÇÕES DA CONTA]
+Personagem online: LALALA
+Gold atual: 0
+Level atual: 399
+Experiência atual: 4170
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:32:20 horas
+Posição atual: 2605x 2151y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Armadura(M)[1450] [43 0 71 30 59 0]
+[01] - Mochila_de_Barras_(Tam._50)[2280] [96 10 0 0 0 0]
+[02] - Cajado[977] [43 0 59 0 59 0]
+[03] - Cajado[977] [43 1 60 8 60 12]
+[04] - Calça(N)[1131] [43 1 3 10 59 0]
+[05] - Peitoral(M)[1600] [43 0 71 30 59 0]
+[06] - Adaga[864] [4 40 2 18 59 0]
+[07] - Arco[972] [43 0 2 9 59 0]
+[08] - Elmo(N)[1107] [7 8 60 4 59 0]
+[09] - Arco[972] [43 0 59 0 59 0]
+[10] - Lança[850] [14 11 74 3 59 0]
+[11] - Luvas(M)[1297] [43 1 72 15 2 6]
+[12] - Ração_de_Aranha[2420] [61 3 0 0 0 0]
+[13] - Peitoral(M)[1600] [43 2 71 40 3 10]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:08:33 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:08:46 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:08:55 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:09:14 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:09:18 : [LALALA] - Dropado item Lança [986] [43 0 59 0 60 16] em 2606x 2153y - Troll Mago  (1/100)
+19:09:27 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:09:41 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:09:52 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:10:03 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:10:15 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:10:26 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:10:36 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:11:02 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:11:09 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:11:16 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:11:30 : [LALALA] - Matou o mob Troll Mago . GenerID: 1208
+19:11:41 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:11:50 : [LALALA] - Dropado item Botas(M) [1309] [43 1 73 6 59 0] em 2602x 2159y - Troll Mago  (1/100)
+19:11:59 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:12:10 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:12:10 : [LALALA] - Dropado item Arco [972] [43 0 59 0 59 0] em 2602x 2159y - Troll Mago (1/100)
+19:12:24 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:12:42 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:12:53 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:13:09 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:13:16 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:13:38 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:13:45 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:13:59 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:14:11 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207
+19:14:25 : [LALALA] - Matou o mob Troll Insano. GenerID: 1207
+19:14:38 : [LALALA] - Matou o mob Troll Mago. GenerID: 1207

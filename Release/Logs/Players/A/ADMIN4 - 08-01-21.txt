@@ -1,0 +1,1344 @@
+
+14:31:47 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 3
+14:31:47 : Conta ADMIN6 logado na conta
+Status da conta: JOGANDO
+Personagem: Sharii
+
+14:31:47 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 558346412
+14:31:47 : [INFORMAÇÕES DO BANCO]
+Gold: 558346412
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura(M)[1123] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Lança[854] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura[1221] [43 6 0 0 0 0]
+[ 29] - Calça[1222] [43 6 0 0 0 0]
+[ 30] - Luvas[1223] [43 6 0 0 0 0]
+[ 31] - Botas[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Lança[856] [43 9 61 28 0 0]
+[ 36] - Luvas(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Aranha[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Luvas(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Luvas(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Dardo[884] [43 6 2 36 0 0]
+[ 84] - Luvas(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[107] - Cérberus[2378] [0 0 120 119 0 0]
+[108] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[109] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[111] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[112] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[113] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[114] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[117] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[118] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+
+14:31:54 : Solicitou ir ao mundo...
+14:31:54 : Recebido pedido para entrar no jogo
+14:31:54 : Recebido informação do personagem completa.
+14:31:54 : [Czar] - [INFORMAÇÕES DA CONTA]
+Personagem online: Czar
+Gold atual: 936602693
+Level atual: 320
+Experiência atual: 2000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2091x 2106y
+
+Pontos NT: 12
+Entradas Hall: 25
+Info: 496
+Soul: 8
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 28/12/2020 17:17:54
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[7] [43 0 7 2 1 1]
+[01] - Cythera_Mística[3502] [43 9 0 0 0 0]
+[02] - Armadura(Le)[2187] [120 9 60 14 3 30]
+[03] - Calça(Le)[2188] [120 9 60 14 3 30]
+[04] - Luvas(Le)[2189] [120 9 60 14 0 0]
+[05] - Botas(Le)[2190] [120 9 60 14 0 0]
+[06] - Gleipnir(Anct)[2674] [43 253 60 42 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 6 2 21 0 0]
+[13] - Fada_Dourada[3915] [106 1 107 22 108 20]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_de_Fênix[3103] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Frango_Assado[3314] [61 7 0 0 0 0]
+[01] - Armadura[1221] [43 9 0 0 0 0]
+[02] - Baú_de_Experiência[4140] [61 3 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [61 30 0 0 0 0]
+[04] - Poeira_de_Oriharucon[412] [61 29 0 0 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 82 0 0 0 0]
+[06] - Pedido_de_Caça(Nipple)[3437] [61 99 0 0 0 0]
+[07] - Força_Espectral[5101] [0 0 0 0 0 0]
+[08] - Pergaminho_da_Água(A)LV1[3182] [61 8 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[11] - Pegasus[2382] [20 0 120 15 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 0 ev: 3)	
+
+14:31:54 : [Czar] - Personagem Czar enviado ao mundo 2091x 2106y - Canal 2 - Cash da conta: 63606. OverPower: 2200
+14:31:54 : [Czar] - Gold atual: 936602693. Classe: 1 Evolução: 2. Experiência: 2000000000. Nível: 320. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:31:54 : [Czar] - Logou no personagem Czar com poção divina ativo. Validade: 24/1/2021 14:19:7
+14:31:54 : [Czar] - Logou no personagem Czar com frango ativo. Tempo: 985
+14:31:54 : [Czar] - Logou no personagem Czar com baú de experiência ativo. Tempo: 532
+14:31:54 : [Czar] - Resetado a contagem de entradas água! Day: 6-7. Total: 0
+14:31:54 : [Czar] - Enviado informações do personagem
+14:31:55 : [Czar] - Comando "/day "
+14:31:55 : [Czar] - [Mensagem do servidor]> !#11 2
+14:32:01 : [Czar] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:34:32 : [Czar] - Personagem deu personagem
+14:34:42 : Solicitado deletar personagem ShariTEST
+14:34:52 : Solicitou ir ao mundo...
+14:34:52 : Recebido pedido para entrar no jogo
+14:34:52 : Recebido informação do personagem completa.
+14:34:52 : [ShariTEST] - [INFORMAÇÕES DA CONTA]
+Personagem online: ShariTEST
+Gold atual: 653351291
+Level atual: 399
+Experiência atual: 4000419952
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:03:03 horas
+Posição atual: 2092x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[15] - Manto_de_Shiner[544] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Dardo(Anct)[2751] [43 250 2 90 26 200]
+[01] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 9]
+[57] - Safira[697] [0 0 0 0 0 0]
+[58] - Safira[697] [0 0 0 0 0 0]
+[59] - Safira[697] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 0 ev: 3)	
+
+14:34:52 : [ShariTEST] - Personagem ShariTEST enviado ao mundo 2092x 2106y - Canal 2 - Cash da conta: 63606. OverPower: 798
+14:34:52 : [ShariTEST] - Gold atual: 653351291. Classe: 2 Evolução: 0. Experiência: 4000419952. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:34:52 : [ShariTEST] - Logou no personagem ShariTEST com poção divina ativo. Validade: 24/1/2021 14:19:7
+14:34:52 : [ShariTEST] - Logou no personagem ShariTEST com baú de experiência ativo. Tempo: 433
+14:34:52 : [ShariTEST] - Logou no personagem ShariTEST com frango ativo. Tempo: 1334
+14:34:52 : [ShariTEST] - Enviado informações do personagem
+14:34:53 : [ShariTEST] - Comando "/day "
+14:34:53 : [ShariTEST] - [Mensagem do servidor]> !#11 2
+14:35:01 : [ShariTEST] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:35:02 : [ShariTEST] - Comando "/gm +set level 40"
+14:35:46 : [ShariTEST] - [Mensagem do servidor]> Chegou no destino [Defensor da alma].
+14:35:46 : [ShariTEST] - Teleportado para a posição 2372 2099
+14:35:50 : [ShariTEST] - Matou o mob Javali. GenerID: 604
+14:35:50 : [ShariTEST] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:35:50 : [ShariTEST] - Level UP para level 41. Ev: 0/0 - 2366x 2095y
+14:35:51 : [ShariTEST] - Matou o mob Javali. GenerID: 604
+14:35:59 : [ShariTEST] - Matou o mob Rei Gremlin . GenerID: 604
+14:35:59 : [ShariTEST] - Matou o mob Rei Gremlin. GenerID: 587
+14:35:59 : [ShariTEST] - Matou o mob Rei Gremlin . GenerID: 604
+14:35:59 : [ShariTEST] - Matou o mob Rei Gremlin. GenerID: 603
+14:36:13 : [ShariTEST] - Matou o mob Javali. GenerID: 603
+14:36:15 : [ShariTEST] - Matou o mob Rei Gremlin. GenerID: 603
+14:36:27 : [ShariTEST] - O login admin4 tentou logar na conta com o mesmo mac.
+14:36:27 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 4
+14:36:27 : Conta ADMIN6 logado na conta
+Status da conta: JOGANDO
+Personagem: Sharii
+Conta ADMIN4 logado na conta
+Status da conta: JOGANDO
+Personagem: ShariTEST
+
+14:36:27 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+14:36:31 : [ShariTEST] - Matou o mob Rei Gremlin . GenerID: 604
+14:36:35 : [ShariTEST] - O login admin4 tentou logar na conta com o mesmo mac.
+14:36:35 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 4
+14:36:35 : Conta ADMIN6 logado na conta
+Status da conta: JOGANDO
+Personagem: Sharii
+Conta ADMIN4 logado na conta
+Status da conta: JOGANDO
+Personagem: ShariTEST
+
+14:36:35 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+14:36:36 : [ShariTEST] - O login admin4 tentou logar na conta com o mesmo mac.
+14:36:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 4
+14:36:36 : Conta ADMIN6 logado na conta
+Status da conta: JOGANDO
+Personagem: Sharii
+Conta ADMIN4 logado na conta
+Status da conta: JOGANDO
+Personagem: ShariTEST
+
+14:36:36 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+14:36:37 : [ShariTEST] - 3 Personagem foi desconectado. Permaneceu 00:04:47 minutos online
+14:36:38 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 3
+14:36:38 : Conta ADMIN6 logado na conta
+Status da conta: JOGANDO
+Personagem: Sharii
+
+14:36:38 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 558346412
+14:36:38 : [INFORMAÇÕES DO BANCO]
+Gold: 558346412
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura(M)[1123] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Lança[854] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura[1221] [43 6 0 0 0 0]
+[ 29] - Calça[1222] [43 6 0 0 0 0]
+[ 30] - Luvas[1223] [43 6 0 0 0 0]
+[ 31] - Botas[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Lança[856] [43 9 61 28 0 0]
+[ 36] - Luvas(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Aranha[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Luvas(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Luvas(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Dardo[884] [43 6 2 36 0 0]
+[ 84] - Luvas(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[107] - Cérberus[2378] [0 0 120 119 0 0]
+[108] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[109] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[111] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[112] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[113] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[114] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[117] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[118] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+
+14:36:44 : Solicitou ir ao mundo...
+14:36:44 : Recebido pedido para entrar no jogo
+14:36:44 : Recebido informação do personagem completa.
+14:36:44 : [ShariTEST] - [INFORMAÇÕES DA CONTA]
+Personagem online: ShariTEST
+Gold atual: 653351291
+Level atual: 41
+Experiência atual: 318383
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2087x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[15] - Manto_de_Shiner[544] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Dardo(Anct)[2751] [43 250 2 90 26 200]
+[01] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 9]
+[57] - Safira[697] [0 0 0 0 0 0]
+[58] - Safira[697] [0 0 0 0 0 0]
+[59] - Safira[697] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 27 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 0 ev: 3)	
+
+14:36:44 : [ShariTEST] - Personagem ShariTEST enviado ao mundo 2087x 2098y - Canal 2 - Cash da conta: 63606. OverPower: 82
+14:36:44 : [ShariTEST] - Gold atual: 653351291. Classe: 2 Evolução: 0. Experiência: 318383. Nível: 41. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:36:44 : [ShariTEST] - Logou no personagem ShariTEST com poção divina ativo. Validade: 24/1/2021 14:19:7
+14:36:44 : [ShariTEST] - Logou no personagem ShariTEST com baú de experiência ativo. Tempo: 420
+14:36:44 : [ShariTEST] - Logou no personagem ShariTEST com frango ativo. Tempo: 1321
+14:36:44 : [ShariTEST] - Enviado informações do personagem
+14:36:46 : [ShariTEST] - Comando "/day "
+14:36:46 : [ShariTEST] - [Mensagem do servidor]> !#11 2
+14:36:49 : [ShariTEST] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:37:05 : [ShariTEST] - Moveu item Dardo(Anct) [2751] [43 250 2 90 26 200] do tipo INVENTÁRIO do slot 0 para tipo BANCO slot 99
+14:37:07 : [ShariTEST] - Moveu item Fada_Vermelha(3dias) [3902] [106 2 107 23 108 9] do tipo INVENTÁRIO do slot 1 para tipo BANCO slot 98
+14:37:10 : [ShariTEST] - Item Safira deletado [697] [0 0 0 0 0 0]. Slot 57
+14:37:11 : [ShariTEST] - Item Safira deletado [697] [0 0 0 0 0 0]. Slot 58
+14:37:12 : [ShariTEST] - Item Safira deletado [697] [0 0 0 0 0 0]. Slot 59
+14:37:19 : [ShariTEST] - Transferiu 653351291 de gold para o banco. 1211697703 gold no banco. 0 no inventário
+14:37:28 : [ShariTEST] - Personagem deu personagem
+14:37:45 : Solicitado deletar personagem ShariTEST
+14:38:06 : Solicitou ir ao mundo...
+14:38:06 : Recebido pedido para entrar no jogo
+14:38:06 : Recebido informação do personagem completa.
+14:38:06 : [Shariiiii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariiiii
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:26 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[02] - Robe(N)[1266] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 0 ev: 3)	
+
+14:38:06 : [Shariiiii] - Personagem Shariiiii enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 63606. OverPower: 0
+14:38:06 : [Shariiiii] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+14:38:06 : [Shariiiii] - Logou no personagem Shariiiii com poção divina ativo. Validade: 24/1/2021 14:19:7
+14:38:06 : [Shariiiii] - Enviado informações do personagem
+14:38:07 : [Shariiiii] - Comando "/day "
+14:38:07 : [Shariiiii] - [Mensagem do servidor]> !#11 2
+14:38:13 : [Shariiiii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:38:23 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4421
+14:38:23 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 78
+14:38:23 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:38:23 : [Shariiiii] - Level UP para level 1. Ev: 0/0 - 2117x 2044y
+14:38:35 : [Shariiiii] - [Mensagem do servidor]> Compra concluída!
+14:38:41 : [Shariiiii] - [Mensagem do servidor]> Compra concluída!
+14:38:44 : [Shariiiii] - Comando "/nig "
+14:38:44 : [Shariiiii] - [Mensagem do servidor]> !!143844
+14:38:47 : [Shariiiii] - [Mensagem do servidor]> Compra concluída!
+14:38:50 : [Shariiiii] - Item Frango_Assado [3314] [61 10 0 0 0 0] utilizado em 2117x 2044y
+14:38:51 : [Shariiiii] - Item Poção_Divina(30dias) [3381] [0 0 0 0 0 0] utilizado em 2117x 2044y
+14:38:51 : [Shariiiii] - Poção Divina utilizada até dia 07/02/2021 14:38:51
+14:38:51 : [Shariiiii] - Item Baú_de_Experiência [4140] [61 5 0 0 0 0] utilizado em 2117x 2044y
+14:38:53 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4422
+14:38:53 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 81
+14:38:53 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:38:53 : [Shariiiii] - Level UP para level 2. Ev: 0/0 - 2117x 2044y
+14:38:53 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 84
+14:38:53 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:38:53 : [Shariiiii] - Level UP para level 3. Ev: 0/0 - 2117x 2044y
+14:38:54 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4419
+14:38:54 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 87
+14:38:54 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:38:54 : [Shariiiii] - Level UP para level 4. Ev: 0/0 - 2118x 2043y
+14:38:54 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 90
+14:38:54 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:38:54 : [Shariiiii] - Level UP para level 5. Ev: 0/0 - 2118x 2043y
+14:38:55 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4421
+14:38:55 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:38:55 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 93
+14:38:55 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:38:55 : [Shariiiii] - Level UP para level 6. Ev: 0/0 - 2118x 2043y
+14:38:55 : [Shariiiii] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2118x 2043y - Porco de Guerra (1/30)
+14:38:57 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4423
+14:38:57 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:38:57 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 96
+14:38:57 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:38:57 : [Shariiiii] - Level UP para level 7. Ev: 0/0 - 2122x 2039y
+14:38:58 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4425
+14:38:58 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:38:59 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4424
+14:38:59 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:39:00 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4427
+14:39:00 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 99
+14:39:00 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:39:00 : [Shariiiii] - Level UP para level 8. Ev: 0/0 - 2128x 2036y
+14:39:02 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4426
+14:39:02 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:39:03 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4425
+14:39:03 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 102
+14:39:03 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:39:03 : [Shariiiii] - Level UP para level 9. Ev: 0/0 - 2125x 2032y
+14:39:04 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4424
+14:39:04 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:39:06 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4434
+14:39:06 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:39:07 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4434
+14:39:07 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 105
+14:39:07 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:39:07 : [Shariiiii] - Level UP para level 10. Ev: 0/0 - 2128x 2023y
+14:39:08 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4433
+14:39:08 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:39:10 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4435
+14:39:10 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:39:12 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4435
+14:39:12 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:39:14 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4435
+14:39:14 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 108
+14:39:14 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:39:14 : [Shariiiii] - Level UP para level 11. Ev: 0/0 - 2125x 2026y
+14:39:14 : [Shariiiii] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2125x 2026y - Porco de Guerra (1/30)
+14:39:15 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4434
+14:39:15 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:39:17 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4434
+14:39:17 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:39:19 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4426
+14:39:19 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:39:21 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4425
+14:39:22 : [Shariiiii] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 4407. Posição do usuário: 2130x 2032y. Posição do NPC: 2133x 2032y
+14:39:28 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4439
+14:39:28 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 111
+14:39:28 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:39:28 : [Shariiiii] - Level UP para level 12. Ev: 0/0 - 2096x 2024y
+14:39:29 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4440
+14:39:29 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:39:29 : [Shariiiii] - Dropado item Jaqueta(A) [1556] [43 0 71 60 2 18] em 2096x 2024y - Porco de Guerra (1/67)
+14:39:31 : [Shariiiii] - Matou o mob Gremlin. GenerID: 4443
+14:39:32 : [Shariiiii] - Matou o mob Gremlin. GenerID: 4442
+14:39:32 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:39:34 : [Shariiiii] - Matou o mob Gremlin. GenerID: 4443
+14:39:34 : [Shariiiii] - Matou o mob Krill. GenerID: 4443
+14:39:34 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:39:34 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 114
+14:39:34 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:39:34 : [Shariiiii] - Level UP para level 13. Ev: 0/0 - 2089x 2024y
+14:39:36 : [Shariiiii] - Matou o mob Krill. GenerID: 4442
+14:39:36 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:39:36 : [Shariiiii] - Dropado item Túnica(N) [1263] [8 16 3 10 60 2] em 2087x 2027y - Krill (1/300)
+14:39:37 : [Shariiiii] - Matou o mob Gremlin. GenerID: 4442
+14:39:38 : [Shariiiii] - Matou o mob Gremlin. GenerID: 4444
+14:39:38 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:39:39 : [Shariiiii] - Matou o mob Gremlin Artif. GenerID: 4449
+14:39:39 : [Shariiiii] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2087x 2027y - Gremlin Artif (1/1)
+14:39:41 : [Shariiiii] - Matou o mob Krill. GenerID: 4444
+14:39:41 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:39:42 : [Shariiiii] - Matou o mob Gremlin. GenerID: 4444
+14:39:42 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 117
+14:39:42 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:39:42 : [Shariiiii] - Level UP para level 14. Ev: 0/0 - 2084x 2027y
+14:39:44 : [Shariiiii] - Matou o mob Krill. GenerID: 4442
+14:39:44 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:39:45 : [Shariiiii] - Matou o mob Gremlin. GenerID: 4445
+14:39:47 : [Shariiiii] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2078x 2019y. Posição do NPC: 2080x 2018y
+14:39:47 : [Shariiiii] - [Mensagem do servidor]> Recebeu Poção de Cura como recompensa.
+14:39:51 : [Shariiiii] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3422. Posição do usuário: 2088x 2002y. Posição do NPC: 2087x 2001y
+14:39:52 : [Shariiiii] - Matou o mob Krill. GenerID: 4452
+14:39:52 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:39:53 : [Shariiiii] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3422. Posição do usuário: 2088x 2002y. Posição do NPC: 2087x 2001y
+14:39:54 : [Shariiiii] - Matou o mob Krill. GenerID: 4452
+14:39:54 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:39:56 : [Shariiiii] - Matou o mob Krill. GenerID: 4452
+14:39:56 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 120
+14:39:56 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:39:56 : [Shariiiii] - Level UP para level 15. Ev: 0/0 - 2084x 2001y
+14:39:57 : [Shariiiii] - Matou o mob Krill. GenerID: 4450
+14:39:59 : [Shariiiii] - Matou o mob Krill. GenerID: 4450
+14:39:59 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:40:00 : [Shariiiii] - Matou o mob Krill. GenerID: 4451
+14:40:00 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:40:02 : [Shariiiii] - Matou o mob Krill. GenerID: 4451
+14:40:02 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:40:24 : [Shariiiii] - Matou o mob Krill. GenerID: 4451
+14:40:24 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 123
+14:40:24 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:40:24 : [Shariiiii] - Level UP para level 16. Ev: 0/0 - 2077x 2004y
+14:40:25 : [Shariiiii] - Matou o mob Krill. GenerID: 4452
+14:40:25 : [Shariiiii] - Dropado item Poção_de_Mana [405] [0 0 0 0 0 0] em 2079x 2001y - Krill (1/30)
+14:40:27 : [Shariiiii] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 11. Distância 2: 11. Range: 5.
+14:40:28 : [Shariiiii] - Matou o mob Gremlin. GenerID: 4455
+14:40:30 : [Shariiiii] - Matou o mob Krill. GenerID: 4455
+14:40:30 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:41:01 : [Shariiiii] - Matou o mob Krill. GenerID: 4455
+14:41:01 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:41:04 : [Shariiiii] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3422. Posição do usuário: 2094x 2000y. Posição do NPC: 2087x 2001y
+14:41:05 : [Shariiiii] - Matou o mob Gremlin. GenerID: 4455
+14:41:07 : [Shariiiii] - Matou o mob Gremlin. GenerID: 4455
+14:41:26 : [Shariiiii] - Matou o mob Gremlin. GenerID: 4455
+14:41:28 : [Shariiiii] - Matou o mob Gremlin. GenerID: 4455
+14:41:28 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:41:30 : [Shariiiii] - Matou o mob Krill. GenerID: 4459
+14:41:31 : [Shariiiii] - Matou o mob Gremlin. GenerID: 4459
+14:41:31 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 126
+14:41:31 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:41:31 : [Shariiiii] - Level UP para level 17. Ev: 0/0 - 2101x 1998y
+14:41:36 : [Shariiiii] - Matou o mob Serpente. GenerID: 4465
+14:41:36 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:41:38 : [Shariiiii] - Matou o mob Serpente. GenerID: 4469
+14:41:44 : [Shariiiii] - Matou o mob Serpente. GenerID: 4469
+14:41:44 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:41:56 : [Shariiiii] - Matou o mob Krill Gigante. GenerID: 4476
+14:41:56 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:41:56 : [Shariiiii] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2138x 2000y - Krill Gigante (1/1)
+14:42:08 : [Shariiiii] - Personagem deu personagem
+14:42:17 : Solicitou ir ao mundo...
+14:42:17 : Recebido pedido para entrar no jogo
+14:42:17 : Recebido informação do personagem completa.
+14:42:17 : [Shariiiii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariiiii
+Gold atual: 0
+Level atual: 17
+Experiência atual: 30984
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:05:35 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[02] - Robe(N)[1266] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Baú_de_Experiência[4140] [61 4 0 0 0 0]
+[01] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[02] - Frango_Assado[3314] [61 9 0 0 0 0]
+[03] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[04] - Jaqueta(A)[1556] [43 0 71 60 2 18]
+[05] - Túnica(N)[1263] [8 16 3 10 60 2]
+[06] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[07] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[08] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [126 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 0 ev: 3)	
+
+14:42:17 : [Shariiiii] - Personagem Shariiiii enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 62466. OverPower: 34
+14:42:17 : [Shariiiii] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 30984. Nível: 17. Info: 0. GuildID: 0. CP: 51. Pontos de Contribuição: 0. Limite: 0
+14:42:17 : [Shariiiii] - Logou no personagem Shariiiii com poção divina ativo. Validade: 7/2/2021 14:38:51
+14:42:17 : [Shariiiii] - Logou no personagem Shariiiii com frango ativo. Tempo: 1776
+14:42:17 : [Shariiiii] - Logou no personagem Shariiiii com baú de experiência ativo. Tempo: 876
+14:42:17 : [Shariiiii] - Enviado informações do personagem
+14:42:18 : [Shariiiii] - Comando "/day "
+14:42:18 : [Shariiiii] - [Mensagem do servidor]> !#11 2
+14:42:23 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4421
+14:42:25 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4415
+14:42:25 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 129
+14:42:25 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:42:25 : [Shariiiii] - Level UP para level 18. Ev: 0/0 - 2112x 2042y
+14:42:25 : [Shariiiii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:42:26 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4421
+14:42:29 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4423
+14:42:32 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4425
+14:42:33 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4436
+14:42:33 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:42:34 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4437
+14:42:35 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4439
+14:42:37 : [Shariiiii] - Matou o mob Porco de Guerra. GenerID: 4440
+14:42:44 : [Shariiiii] - Matou o mob Gremlin Artif. GenerID: 4449
+14:42:44 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:42:44 : [Shariiiii] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2077x 2022y - Gremlin Artif (1/1)
+14:42:50 : [Shariiiii] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3422. Posição do usuário: 2089x 2000y. Posição do NPC: 2087x 2001y
+14:42:53 : [Shariiiii] - Matou o mob Krill. GenerID: 4455
+14:42:54 : [Shariiiii] - Matou o mob Gremlin. GenerID: 4459
+14:42:56 : [Shariiiii] - Matou o mob Krill. GenerID: 4459
+14:42:56 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:43:01 : [Shariiiii] - Matou o mob Rei Gremlin  . GenerID: 4470
+14:43:09 : [Shariiiii] - Matou o mob Krill Gigante. GenerID: 4476
+14:43:09 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 132
+14:43:09 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:43:09 : [Shariiiii] - Level UP para level 19. Ev: 0/0 - 2140x 1997y
+14:43:09 : [Shariiiii] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2140x 1997y - Krill Gigante (1/1)
+14:43:33 : [Shariiiii] - Matou o mob Orc Sniper. GenerID: 4494
+14:43:33 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:43:33 : [Shariiiii] - Dropado item Chave_da_Ultima_Porta [453] [0 0 0 0 0 0] em 2081x 1973y - Orc Sniper (1/1)
+14:43:46 : [Shariiiii] - Matou o mob Orc Sniper. GenerID: 4494
+14:43:46 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:43:46 : [Shariiiii] - Dropado item Chave_da_Ultima_Porta [453] [0 0 0 0 0 0] em 2081x 1973y - Orc Sniper (1/1)
+14:43:51 : [Shariiiii] - Clicado no NPC [Treinador3]. Face 60. Race: 8. GenerateId: 4410. Posição do usuário: 2079x 1968y. Posição do NPC: 2078x 1966y
+14:43:51 : [Shariiiii] - [Mensagem do servidor]> Como recompensa a sua arma e armadura foram refinadas.
+14:44:13 : [Shariiiii] - Matou o mob Chefe Krill . GenerID: 4497
+14:44:13 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:44:14 : [Shariiiii] - Matou o mob Chefe Krill . GenerID: 4499
+14:44:14 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 135
+14:44:14 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:44:14 : [Shariiiii] - Level UP para level 20. Ev: 0/0 - 2103x 1946y
+14:44:16 : [Shariiiii] - Matou o mob Rei Gremlin  . GenerID: 4499
+14:44:16 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:44:19 : [Shariiiii] - Matou o mob Rei Gremlin  . GenerID: 4500
+14:44:19 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:44:20 : [Shariiiii] - Matou o mob Chefe Krill . GenerID: 4498
+14:44:31 : [Shariiiii] - Matou o mob Chefe Krill . GenerID: 4500
+14:44:31 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:44:33 : [Shariiiii] - Matou o mob Chefe Krill . GenerID: 4501
+14:44:33 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 138
+14:44:33 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:44:33 : [Shariiiii] - Level UP para level 21. Ev: 0/0 - 2109x 1943y
+14:44:34 : [Shariiiii] - Matou o mob Rei Gremlin  . GenerID: 4501
+14:44:34 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:44:35 : [Shariiiii] - Matou o mob Chefe Krill . GenerID: 4499
+14:45:24 : [Shariiiii] - Matou o mob Orc Guerreiro  . GenerID: 4514
+14:45:24 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:45:24 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 141
+14:45:24 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:45:24 : [Shariiiii] - Level UP para level 22. Ev: 0/0 - 2131x 1947y
+14:45:24 : [Shariiiii] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2131x 1947y - Orc Guerreiro   (1/1)
+14:45:27 : [Shariiiii] - Matou o mob Orc Guerreiro  . GenerID: 4514
+14:45:27 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:45:27 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 144
+14:45:27 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:45:27 : [Shariiiii] - Level UP para level 23. Ev: 0/0 - 2135x 1947y
+14:45:27 : [Shariiiii] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2135x 1947y - Orc Guerreiro   (1/1)
+14:46:01 : [Shariiiii] - Personagem deu personagem
+14:46:19 : Solicitou ir ao mundo...
+14:46:19 : Recebido pedido para entrar no jogo
+14:46:19 : Recebido informação do personagem completa.
+14:46:19 : [Shariiiii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariiiii
+Gold atual: 0
+Level atual: 23
+Experiência atual: 58724
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:09:23 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[02] - Robe(N)[1266] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Baú_de_Experiência[4140] [61 4 0 0 0 0]
+[01] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[02] - Frango_Assado[3314] [61 9 0 0 0 0]
+[03] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[04] - Jaqueta(A)[1556] [43 0 71 60 2 18]
+[05] - Túnica(N)[1263] [8 16 3 10 60 2]
+[06] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[07] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[08] - Emblema_Orc[524] [0 0 0 0 0 0]
+[09] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[10] - Chave_da_Ultima_Porta[453] [0 0 0 0 0 0]
+[11] - Aranha[2360] [88 27 1 20 0 0]
+[12] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[13] - Emblema_Orc[524] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [144 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 0 ev: 3)	
+
+14:46:19 : [Shariiiii] - Personagem Shariiiii enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 62466. OverPower: 46
+14:46:19 : [Shariiiii] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 58724. Nível: 23. Info: 0. GuildID: 0. CP: 69. Pontos de Contribuição: 0. Limite: 0
+14:46:19 : [Shariiiii] - Logou no personagem Shariiiii com poção divina ativo. Validade: 7/2/2021 14:38:51
+14:46:19 : [Shariiiii] - Logou no personagem Shariiiii com frango ativo. Tempo: 1748
+14:46:19 : [Shariiiii] - Logou no personagem Shariiiii com baú de experiência ativo. Tempo: 848
+14:46:19 : [Shariiiii] - Enviado informações do personagem
+14:46:20 : [Shariiiii] - Comando "/day "
+14:46:20 : [Shariiiii] - [Mensagem do servidor]> !#11 2
+14:46:25 : [Shariiiii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:48:20 : [Shariiiii] - Comando "/gm +set level 40"
+14:48:46 : [Shariiiii] - [Mensagem do servidor]> Chegou no destino [Defensor da alma].
+14:48:46 : [Shariiiii] - Teleportado para a posição 2372 2099
+14:50:23 : [Shariiiii] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3289. Posição do usuário: 2372x 2099y. Posição do NPC: 2369x 2105y
+14:50:27 : [Shariiiii] - Matou o mob Rei Gremlin . GenerID: 604
+14:50:27 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 147
+14:50:27 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:50:27 : [Shariiiii] - Level UP para level 41. Ev: 0/0 - 2366x 2095y
+14:50:29 : [Shariiiii] - Clicado no NPC [Coveiro]. Face 58. Race: 8. GenerateId: 3282. Posição do usuário: 2367x 2095y. Posição do NPC: 2372x 2097y
+14:50:29 : [Shariiiii] - Teleportado para a posição 2397 2105
+14:50:29 : [Shariiiii] - Shariiiii entrou na quest [Coveiro].
+14:50:33 : [Shariiiii] - Matou o mob Aparicao. GenerID: 4234
+14:50:33 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:50:33 : [Shariiiii] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2397x 2105y - Aparicao (1/1)
+14:50:37 : [Shariiiii] - Matou o mob Esqueleto. GenerID: 4234
+14:50:37 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:50:41 : [Shariiiii] - Matou o mob Esqueleto. GenerID: 4234
+14:50:41 : [Shariiiii] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:50:41 : [Shariiiii] - Pontos CP subiu em 3. CP novo: 150
+14:50:41 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:50:41 : [Shariiiii] - Level UP para level 42. Ev: 0/0 - 2397x 2105y
+14:50:52 : [Shariiiii] - Comando "/gm +set level 115"
+14:50:55 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:50:55 : [Shariiiii] - Level UP para level 116. Ev: 0/0 - 2401x 2108y
+14:50:57 : [Shariiiii] - Matou o mob Aparicao. GenerID: 4236
+14:50:57 : [Shariiiii] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2401x 2108y - Aparicao (1/1)
+14:50:59 : [Shariiiii] - [Mensagem do servidor]> Level permitido: [40 - 115]
+14:51:09 : [Shariiiii] - Personagem deu personagem
+14:51:20 : Solicitou ir ao mundo...
+14:51:20 : Recebido pedido para entrar no jogo
+14:51:20 : Recebido informação do personagem completa.
+14:51:20 : [Shariiiii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariiiii
+Gold atual: 6000
+Level atual: 116
+Experiência atual: 13676001
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:14:21 horas
+Posição atual: 2097x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[02] - Robe(N)[1266] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Baú_de_Experiência[4140] [61 4 0 0 0 0]
+[01] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[02] - Frango_Assado[3314] [61 9 0 0 0 0]
+[03] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[04] - Jaqueta(A)[1556] [43 0 71 60 2 18]
+[05] - Túnica(N)[1263] [8 16 3 10 60 2]
+[06] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[07] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[08] - Emblema_Orc[524] [0 0 0 0 0 0]
+[09] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[10] - Chave_da_Ultima_Porta[453] [0 0 0 0 0 0]
+[11] - Aranha[2360] [88 27 1 20 0 0]
+[12] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[13] - Emblema_Orc[524] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 0 ev: 3)	
+
+14:51:20 : [Shariiiii] - Personagem Shariiiii enviado ao mundo 2097x 2104y - Canal 2 - Cash da conta: 62466. OverPower: 232
+14:51:20 : [Shariiiii] - Gold atual: 6000. Classe: 1 Evolução: 0. Experiência: 13676001. Nível: 116. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:51:20 : [Shariiiii] - Logou no personagem Shariiiii com poção divina ativo. Validade: 7/2/2021 14:38:51
+14:51:20 : [Shariiiii] - Logou no personagem Shariiiii com frango ativo. Tempo: 1712
+14:51:20 : [Shariiiii] - Logou no personagem Shariiiii com baú de experiência ativo. Tempo: 812
+14:51:20 : [Shariiiii] - Enviado informações do personagem
+14:51:21 : [Shariiiii] - Comando "/day "
+14:51:21 : [Shariiiii] - [Mensagem do servidor]> !#11 2
+14:51:25 : [Shariiiii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:51:59 : [Shariiiii] - Moveu item Aranha [2360] [88 27 1 20 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 14
+14:52:49 : [Shariiiii] - [Mensagem do servidor]> Chegou no destino [Jardim de Deus].
+14:52:49 : [Shariiiii] - Teleportado para a posição 2220 1714
+14:52:52 : [Shariiiii] - Clicado no NPC [Jardineiro]. Face 11. Race: 8. GenerateId: 3283. Posição do usuário: 2220x 1714y. Posição do NPC: 2222x 1714y
+14:52:56 : [Shariiiii] - Clicado no NPC [Jardineiro]. Face 11. Race: 8. GenerateId: 3283. Posição do usuário: 2220x 1714y. Posição do NPC: 2222x 1714y
+14:53:15 : [Shariiiii] - Personagem deu personagem
+14:53:22 : Solicitou ir ao mundo...
+14:53:22 : Recebido pedido para entrar no jogo
+14:53:22 : Recebido informação do personagem completa.
+14:53:22 : [Shariiiii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariiiii
+Gold atual: 6000
+Level atual: 116
+Experiência atual: 13676001
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:16:22 horas
+Posição atual: 2091x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[02] - Robe(N)[1266] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+[14] - Aranha[2360] [88 27 1 20 0 0]
+
+[INVENTÁRIO]
+[00] - Baú_de_Experiência[4140] [61 4 0 0 0 0]
+[01] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[02] - Frango_Assado[3314] [61 9 0 0 0 0]
+[03] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[04] - Jaqueta(A)[1556] [43 0 71 60 2 18]
+[05] - Túnica(N)[1263] [8 16 3 10 60 2]
+[06] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[07] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[08] - Emblema_Orc[524] [0 0 0 0 0 0]
+[09] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[10] - Chave_da_Ultima_Porta[453] [0 0 0 0 0 0]
+[12] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[13] - Emblema_Orc[524] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN6]	USER_PLAY	[Sharii] (level: 0 ev: 3)	
+
+14:53:22 : [Shariiiii] - Personagem Shariiiii enviado ao mundo 2091x 2102y - Canal 2 - Cash da conta: 62466. OverPower: 234
+14:53:22 : [Shariiiii] - Gold atual: 6000. Classe: 1 Evolução: 0. Experiência: 13676001. Nível: 116. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:53:22 : [Shariiiii] - Logou no personagem Shariiiii com poção divina ativo. Validade: 7/2/2021 14:38:51
+14:53:22 : [Shariiiii] - Logou no personagem Shariiiii com frango ativo. Tempo: 1698
+14:53:22 : [Shariiiii] - Logou no personagem Shariiiii com baú de experiência ativo. Tempo: 798
+14:53:22 : [Shariiiii] - Enviado informações do personagem
+14:53:23 : [Shariiiii] - Comando "/day "
+14:53:23 : [Shariiiii] - [Mensagem do servidor]> !#11 2
+14:53:37 : [Shariiiii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:54:10 : [Shariiiii] - [Mensagem do servidor]> Chegou no destino [Defensor da alma].
+14:54:10 : [Shariiiii] - Teleportado para a posição 2372 2099
+14:54:11 : [Shariiiii] - Clicado no NPC [Coveiro]. Face 58. Race: 8. GenerateId: 3282. Posição do usuário: 2372x 2099y. Posição do NPC: 2372x 2097y
+14:55:11 : [Shariiiii] - Comando "/gm +move 452 3912"
+14:55:11 : [Shariiiii] - Teleportado para a posição 452 3912
+14:55:15 : [Shariiiii] - Clicado no NPC [Batedor]. Face 64. Race: 8. GenerateId: 3284. Posição do usuário: 452x 3912y. Posição do NPC: 454x 3910y
+14:55:47 : [Shariiiii] - Comando "/gm +set level 191"
+14:55:48 : [Shariiiii] - Removido o Hp do mob Elfo Negro. HP removido: 1000. HP Atual: 6500
+14:55:48 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:55:48 : [Shariiiii] - Level UP para level 192. Ev: 0/0 - 452x 3912y
+14:55:49 : [Shariiiii] - Removido o Hp do mob Elfo Negro. HP removido: 1000. HP Atual: 5500
+14:55:50 : [Shariiiii] - Clicado no NPC [Batedor]. Face 64. Race: 8. GenerateId: 3284. Posição do usuário: 452x 3912y. Posição do NPC: 454x 3910y
+14:55:50 : [Shariiiii] - Removido o Hp do mob Elfo Negro. HP removido: 1000. HP Atual: 4500
+14:55:51 : [Shariiiii] - Removido o Hp do mob Elfo Negro. HP removido: 1000. HP Atual: 3500
+14:55:52 : [Shariiiii] - Removido o Hp do mob Elfo Negro. HP removido: 1001. HP Atual: 2499
+14:55:53 : [Shariiiii] - Removido o Hp do mob Elfo Negro. HP removido: 1000. HP Atual: 1499
+14:55:54 : [Shariiiii] - Removido o Hp do mob Elfo Negro. HP removido: 1000. HP Atual: 499
+14:55:55 : [Shariiiii] - Removido o Hp do mob Elfo Negro. HP removido: 1000. HP Atual: 0
+14:55:55 : [Shariiiii] - Matou o mob Elfo Negro. GenerID: 2289
+14:56:17 : [Shariiiii] - Comando "/gm +move 787 4058"
+14:56:17 : [Shariiiii] - Teleportado para a posição 787 4058
+14:56:20 : [Shariiiii] - Clicado no NPC [Patrulha   ]. Face 21. Race: 8. GenerateId: 3427. Posição do usuário: 787x 4058y. Posição do NPC: 786x 4057y
+14:57:13 : [Shariiiii] - Comando "/gm +move 667 3768"
+14:57:13 : [Shariiiii] - Teleportado para a posição 667 3768
+14:57:21 : [Shariiiii] - Clicado no NPC [Guarda]. Face 1. Race: 8. GenerateId: 3285. Posição do usuário: 667x 3768y. Posição do NPC: 668x 3768y
+14:57:52 : [Shariiiii] - Removido o Hp do mob Cav.Caveira. HP removido: 1001. HP Atual: 7099
+14:57:53 : [Shariiiii] - Removido o Hp do mob Cav.Caveira. HP removido: 1000. HP Atual: 6099
+14:57:54 : [Shariiiii] - Clicado no NPC [Guarda]. Face 1. Race: 8. GenerateId: 3285. Posição do usuário: 669x 3770y. Posição do NPC: 668x 3768y
+14:57:55 : [Shariiiii] - Removido o Hp do mob Cav.Caveira. HP removido: 1000. HP Atual: 5099
+14:57:55 : [Shariiiii] - Clicado no NPC [Guarda]. Face 1. Race: 8. GenerateId: 3285. Posição do usuário: 669x 3770y. Posição do NPC: 668x 3768y
+14:57:56 : [Shariiiii] - Removido o Hp do mob Cav.Caveira. HP removido: 1000. HP Atual: 4099
+14:57:57 : [Shariiiii] - Removido o Hp do mob Cav.Caveira. HP removido: 1001. HP Atual: 3098
+14:57:58 : [Shariiiii] - Removido o Hp do mob Cav.Caveira. HP removido: 1000. HP Atual: 2098
+14:57:59 : [Shariiiii] - Removido o Hp do mob Cav.Caveira. HP removido: 1000. HP Atual: 1098
+14:58:00 : [Shariiiii] - Removido o Hp do mob Cav.Caveira. HP removido: 1000. HP Atual: 98
+14:58:01 : [Shariiiii] - Removido o Hp do mob Cav.Caveira. HP removido: 1001. HP Atual: 0
+14:58:01 : [Shariiiii] - Matou o mob Cav.Caveira. GenerID: 2200
+14:58:18 : [Shariiiii] - Comando "/gm +set level 260"
+14:58:21 : [Shariiiii] - Removido o Hp do mob Elfo Negro. HP removido: 1000. HP Atual: 6500
+14:58:21 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:58:21 : [Shariiiii] - Level UP para level 261. Ev: 0/0 - 669x 3776y
+14:58:22 : [Shariiiii] - Removido o Hp do mob Elfo Negro. HP removido: 1000. HP Atual: 5500
+14:58:25 : [Shariiiii] - Clicado no NPC [Guarda]. Face 1. Race: 8. GenerateId: 3285. Posição do usuário: 673x 3769y. Posição do NPC: 668x 3768y
+14:58:30 : [Shariiiii] - Comando "/gm +set level 274"
+14:58:32 : [Shariiiii] - Removido o Hp do mob Cav.Caveira. HP removido: 1001. HP Atual: 7099
+14:58:32 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:58:32 : [Shariiiii] - Level UP para level 275. Ev: 0/0 - 673x 3769y
+14:58:33 : [Shariiiii] - Clicado no NPC [Guarda]. Face 1. Race: 8. GenerateId: 3285. Posição do usuário: 673x 3769y. Posição do NPC: 668x 3768y
+14:58:33 : [Shariiiii] - Teleportado para a posição 668 3755
+14:58:33 : [Shariiiii] - Shariiiii entrou na quest [Hidra].
+14:58:39 : [Shariiiii] - Comando "/gm +move 667 3768"
+14:58:39 : [Shariiiii] - Teleportado para a posição 667 3768
+14:58:45 : [Shariiiii] - Comando "/gm +set level 320"
+14:58:48 : [Shariiiii] - Removido o Hp do mob Elfo Negro. HP removido: 1001. HP Atual: 4499
+14:58:48 : [Shariiiii] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:58:48 : [Shariiiii] - Level UP para level 321. Ev: 0/0 - 672x 3771y
+14:58:50 : [Shariiiii] - Clicado no NPC [Guarda]. Face 1. Race: 8. GenerateId: 3285. Posição do usuário: 669x 3768y. Posição do NPC: 668x 3768y
+14:58:50 : [Shariiiii] - Removido o Hp do mob Elfo Negro. HP removido: 1000. HP Atual: 3499
+15:00:00 : [Shariiiii] - [Mensagem do servidor]: !Coliseu Normal será iniciado em 3 minutos. Disponível apenas para mortais.
+15:00:00 : [Shariiiii] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+15:00:13 : [Shariiiii] - Comando "/gm +move 1300 4036"
+15:00:13 : [Shariiiii] - Teleportado para a posição 1300 4036
+15:00:16 : [Shariiiii] - Clicado no NPC [Representante]. Face 1. Race: 8. GenerateId: 3286. Posição do usuário: 1300x 4036y. Posição do NPC: 1303x 4036y
+15:01:09 : [Shariiiii] - Personagem deu personagem
+15:07:28 : Desconectado por inatividade... Last: 17302. Counter: 18050. Status: 11
+15:07:28 : Personagem foi desconectado. Permaneceu 00:30:17 minutos online
+16:19:18 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+16:19:18 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1211697703
+16:19:18 : [INFORMAÇÕES DO BANCO]
+Gold: 1211697703
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura(M)[1123] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Lança[854] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura[1221] [43 6 0 0 0 0]
+[ 29] - Calça[1222] [43 6 0 0 0 0]
+[ 30] - Luvas[1223] [43 6 0 0 0 0]
+[ 31] - Botas[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Lança[856] [43 9 61 28 0 0]
+[ 36] - Luvas(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Aranha[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Luvas(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Luvas(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Dardo[884] [43 6 2 36 0 0]
+[ 84] - Luvas(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 98] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 9]
+[ 99] - Dardo(Anct)[2751] [43 250 2 90 26 200]
+[107] - Cérberus[2378] [0 0 120 119 0 0]
+[108] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[109] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[111] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[112] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[113] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[114] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[117] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[118] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+
+16:19:19 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:19:25 : Solicitou ir ao mundo...
+16:19:25 : Recebido pedido para entrar no jogo
+16:19:25 : Recebido informação do personagem completa.
+16:19:25 : [Czar] - [INFORMAÇÕES DA CONTA]
+Personagem online: Czar
+Gold atual: 936602693
+Level atual: 320
+Experiência atual: 2000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2097x 2098y
+
+Pontos NT: 12
+Entradas Hall: 25
+Info: 496
+Soul: 8
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 28/12/2020 17:17:54
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[7] [43 0 7 2 1 1]
+[01] - Cythera_Mística[3502] [43 9 0 0 0 0]
+[02] - Armadura(Le)[2187] [120 9 60 14 3 30]
+[03] - Calça(Le)[2188] [120 9 60 14 3 30]
+[04] - Luvas(Le)[2189] [120 9 60 14 0 0]
+[05] - Botas(Le)[2190] [120 9 60 14 0 0]
+[06] - Gleipnir(Anct)[2674] [43 253 60 42 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 6 2 21 0 0]
+[13] - Fada_Dourada[3915] [106 1 107 22 108 17]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_de_Fênix[3103] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Frango_Assado[3314] [61 7 0 0 0 0]
+[01] - Armadura[1221] [43 9 0 0 0 0]
+[02] - Baú_de_Experiência[4140] [61 3 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [61 30 0 0 0 0]
+[04] - Poeira_de_Oriharucon[412] [61 29 0 0 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 82 0 0 0 0]
+[06] - Pedido_de_Caça(Nipple)[3437] [61 99 0 0 0 0]
+[07] - Força_Espectral[5101] [0 0 0 0 0 0]
+[08] - Pergaminho_da_Água(A)LV1[3182] [61 8 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[11] - Pegasus[2382] [20 0 120 15 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:19:25 : [Czar] - Personagem Czar enviado ao mundo 2097x 2098y - Canal 2 - Cash da conta: 62466. OverPower: 2200
+16:19:25 : [Czar] - Gold atual: 936602693. Classe: 1 Evolução: 2. Experiência: 2000000000. Nível: 320. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+16:19:25 : [Czar] - Logou no personagem Czar com poção divina ativo. Validade: 7/2/2021 14:38:51
+16:19:25 : [Czar] - Logou no personagem Czar com frango ativo. Tempo: 965
+16:19:25 : [Czar] - Logou no personagem Czar com baú de experiência ativo. Tempo: 512
+16:19:25 : [Czar] - Enviado informações do personagem
+16:19:26 : [Czar] - Comando "/day "
+16:19:26 : [Czar] - [Mensagem do servidor]> !#11 2
+16:19:41 : [Czar] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:20:04 : [Czar] - Moveu item Pegasus [2382] [20 0 120 15 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 14
+16:27:34 : [Czar] - Comando "/gm +item 2863 43 250"
+16:27:34 : [Czar] - [Mensagem do servidor]> Criou o item Eirenus(Anct)
+16:27:34 : [Czar] - Czar criou o item Eirenus(Anct) [2863] [43 250 0 0 0 0]
+16:27:35 : [Czar] - Moveu item Eirenus(Anct) [2863] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 6
+16:27:45 : [Czar] - Teleportado para a posição 960 1761
+16:27:56 : [Czar] - Personagem deu personagem
+16:28:02 : Solicitou ir ao mundo...
+16:28:02 : Recebido pedido para entrar no jogo
+16:28:02 : Recebido informação do personagem completa.
+16:28:02 : [Czar] - [INFORMAÇÕES DA CONTA]
+Personagem online: Czar
+Gold atual: 936601693
+Level atual: 320
+Experiência atual: 2000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:08:36 horas
+Posição atual: 2097x 2103y
+
+Pontos NT: 12
+Entradas Hall: 25
+Info: 496
+Soul: 8
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 28/12/2020 17:17:54
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[7] [43 0 7 2 1 1]
+[01] - Cythera_Mística[3502] [43 9 0 0 0 0]
+[02] - Armadura(Le)[2187] [120 9 60 14 3 30]
+[03] - Calça(Le)[2188] [120 9 60 14 3 30]
+[04] - Luvas(Le)[2189] [120 9 60 14 0 0]
+[05] - Botas(Le)[2190] [120 9 60 14 0 0]
+[06] - Eirenus(Anct)[2863] [43 250 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 6 2 21 0 66]
+[13] - Fada_Dourada[3915] [106 1 107 22 108 9]
+[14] - Pegasus[2382] [20 0 120 15 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_de_Fênix[3103] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Frango_Assado[3314] [61 7 0 0 0 0]
+[01] - Armadura[1221] [43 9 0 0 0 0]
+[02] - Baú_de_Experiência[4140] [61 3 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [61 30 0 0 0 0]
+[04] - Poeira_de_Oriharucon[412] [61 29 0 0 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 82 0 0 0 0]
+[06] - Pedido_de_Caça(Nipple)[3437] [61 99 0 0 0 0]
+[07] - Força_Espectral[5101] [0 0 0 0 0 0]
+[08] - Pergaminho_da_Água(A)LV1[3182] [61 8 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[11] - Gleipnir(Anct)[2674] [43 253 60 42 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:28:02 : [Czar] - Personagem Czar enviado ao mundo 2097x 2103y - Canal 2 - Cash da conta: 62466. OverPower: 2540
+16:28:02 : [Czar] - Gold atual: 936601693. Classe: 1 Evolução: 2. Experiência: 2000000000. Nível: 320. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+16:28:02 : [Czar] - Logou no personagem Czar com poção divina ativo. Validade: 7/2/2021 14:38:51
+16:28:02 : [Czar] - Logou no personagem Czar com frango ativo. Tempo: 902
+16:28:02 : [Czar] - Logou no personagem Czar com baú de experiência ativo. Tempo: 449
+16:28:02 : [Czar] - Enviado informações do personagem
+16:28:03 : [Czar] - Comando "/day "
+16:28:03 : [Czar] - [Mensagem do servidor]> !#11 2
+16:28:17 : [Czar] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:28:20 : [Czar] - Comando "/gm +item 2494 43 250"
+16:28:20 : [Czar] - [Mensagem do servidor]> Criou o item Balmung(Anct)
+16:28:20 : [Czar] - Czar criou o item Balmung(Anct) [2494] [43 250 0 0 0 0]
+16:28:22 : [Czar] - Comando "/gm +item 2494 43 250"
+16:28:22 : [Czar] - [Mensagem do servidor]> Criou o item Balmung(Anct)
+16:28:22 : [Czar] - Czar criou o item Balmung(Anct) [2494] [43 250 0 0 0 0]
+16:28:24 : [Czar] - Moveu item Balmung(Anct) [2494] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 6
+16:28:25 : [Czar] - Moveu item Balmung(Anct) [2494] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 7
+16:28:33 : [Czar] - Moveu item Balmung(Anct) [2494] [43 250 0 0 0 0] do tipo EQUIPAMENTO do slot 7 para tipo INVENTÁRIO slot 13
+16:28:34 : [Czar] - Moveu item Eirenus(Anct) [2863] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 6
+16:28:48 : [Czar] - Teleportado para a posição 2458 2017
+16:28:57 : [Czar] - Teleportado para a posição 3649 3110
+16:30:00 : [Czar] - Personagem deu personagem
+16:30:06 : Solicitou ir ao mundo...
+16:30:06 : Recebido pedido para entrar no jogo
+16:30:06 : Recebido informação do personagem completa.
+16:30:06 : login undefined class 250
+16:30:06 : Personagem foi desconectado. Permaneceu 00:10:38 minutos online

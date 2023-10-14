@@ -1,0 +1,2928 @@
+
+00:08:57 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+00:08:57 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+00:08:57 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+00:09:04 : Solicitou ir ao mundo...
+00:09:04 : Recebido pedido para entrar no jogo
+00:09:04 : Recebido informação do personagem completa.
+00:09:04 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619039308
+Level atual: 180
+Experiência atual: 3600000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2088x 2098y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 92 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+00:09:04 : [Archer] - Personagem Archer enviado ao mundo 2088x 2098y - Canal 2 - Cash da conta: 127156. OverPower: 1715
+00:09:04 : [Archer] - Gold atual: 619039308. Classe: 1 Evolução: 2. Experiência: 3600000000. Nível: 180. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+00:09:04 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 846
+00:09:04 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1748
+00:09:04 : [Archer] - Resetado a contagem de entradas água! Day: 5-6. Total: 0
+00:09:04 : [Archer] - Evolução logada: 2
+00:09:04 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+00:09:04 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+00:09:04 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+00:09:04 : [Archer] - Enviado informações do personagem
+00:09:05 : [Archer] - Comando "/day "
+00:09:05 : [Archer] - [Mensagem do servidor]> !#11 2
+00:09:17 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 14
+00:09:18 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+00:09:19 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 12
+00:10:24 : [Archer] - Comando "/gm +set level 1"
+00:10:34 : [Archer] - Item Pedido_de_Caça(Kult) [3435] [61 92 0 0 0 0] utilizado em 2099x 2099y
+00:10:34 : [Archer] - Teleportado para a posição 1182 1714
+00:10:36 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+00:10:36 : [Archer] - Level UP para level 2. Ev: 2/2 - 1182x 1714y
+00:10:39 : [Archer] - Matou o mob Tauron. GenerID: 4372
+00:10:41 : [Archer] - Matou o mob Tauron. GenerID: 4372
+00:10:44 : [Archer] - Matou o mob Tauron. GenerID: 4372
+00:10:44 : [Archer] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+00:10:46 : [Archer] - Matou o mob Tauron Bandido. GenerID: 4372
+00:13:28 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+00:13:28 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:04:28 minutos online
+00:13:28 : [Archer] - Recebeu 3757 de gold em 2 mobs no total. Total de gold: 619043065
+08:39:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+08:39:40 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+08:39:40 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+08:39:40 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+08:39:48 : Solicitou ir ao mundo...
+08:39:48 : Recebido pedido para entrar no jogo
+08:39:48 : Recebido informação do personagem completa.
+08:39:48 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619043065
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2092x 2104y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+08:39:48 : [Archer] - Personagem Archer enviado ao mundo 2092x 2104y - Canal 2 - Cash da conta: 127156. OverPower: 1359
+08:39:48 : [Archer] - Gold atual: 619043065. Classe: 1 Evolução: 2. Experiência: 45160840. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+08:39:48 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 813
+08:39:48 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1715
+08:39:48 : [Archer] - Evolução logada: 2
+08:39:48 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+08:39:48 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+08:39:48 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+08:39:48 : [Archer] - Enviado informações do personagem
+08:39:49 : [Archer] - Comando "/day "
+08:39:49 : [Archer] - [Mensagem do servidor]> !#11 2
+08:39:58 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+08:40:03 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 14
+08:40:23 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 12
+08:40:37 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+08:40:37 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:00:56 minutos online
+08:53:17 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+08:53:17 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+08:53:17 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+08:53:23 : Solicitou ir ao mundo...
+08:53:23 : Recebido pedido para entrar no jogo
+08:53:23 : Recebido informação do personagem completa.
+08:53:23 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619043065
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2088x 2095y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+08:53:23 : [Archer] - Personagem Archer enviado ao mundo 2088x 2095y - Canal 2 - Cash da conta: 127156. OverPower: 1359
+08:53:23 : [Archer] - Gold atual: 619043065. Classe: 1 Evolução: 2. Experiência: 45160840. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+08:53:23 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 807
+08:53:23 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1709
+08:53:23 : [Archer] - Evolução logada: 2
+08:53:23 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+08:53:23 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+08:53:23 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+08:53:23 : [Archer] - Enviado informações do personagem
+08:53:23 : [Archer] - Comando "/day "
+08:53:23 : [Archer] - [Mensagem do servidor]> !#11 2
+08:53:35 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+08:53:36 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 14
+08:54:04 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+08:54:04 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:00:47 minutos online
+08:54:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+08:54:16 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+08:54:16 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+08:54:22 : Solicitou ir ao mundo...
+08:54:22 : Recebido pedido para entrar no jogo
+08:54:22 : Recebido informação do personagem completa.
+08:54:22 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619043065
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2092x 2095y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[14] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+08:54:22 : [Archer] - Personagem Archer enviado ao mundo 2092x 2095y - Canal 2 - Cash da conta: 127156. OverPower: 1359
+08:54:22 : [Archer] - Gold atual: 619043065. Classe: 1 Evolução: 2. Experiência: 45160840. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+08:54:22 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 801
+08:54:22 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1703
+08:54:22 : [Archer] - Evolução logada: 2
+08:54:22 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+08:54:22 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+08:54:22 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+08:54:22 : [Archer] - Enviado informações do personagem
+08:54:23 : [Archer] - Comando "/day "
+08:54:23 : [Archer] - [Mensagem do servidor]> !#11 2
+08:54:33 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 12
+08:54:35 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+08:56:32 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 14
+08:56:36 : [Archer] - Comando "/gm +item 14 413"
+08:56:36 : [Archer] - [Mensagem do servidor]> Criou o item 
+08:56:36 : [Archer] - Archer criou o item  [14] [157 0 0 0 0 0]
+08:56:45 : [Archer] - Comando "/gm +item 13 413"
+08:56:45 : [Archer] - [Mensagem do servidor]> Criou o item 
+08:56:45 : [Archer] - Archer criou o item  [13] [157 0 0 0 0 0]
+08:56:52 : [Archer] - Comando "/gm +set 13 413"
+08:56:57 : [Archer] - Comando "/gm +set 14 413"
+08:57:01 : [Archer] - Agrupando o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] com o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+08:57:01 : [Archer] - O agrupamento foi efetuado de slot 14 tipo EQUIPAMENTO para slot 11 tipo INVENTÁRIO
+08:57:03 : [Archer] - Agrupando o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] com o item Poeira_de_Lactolerium [413] [61 2 0 0 0 0]
+08:57:03 : [Archer] - O agrupamento foi efetuado de slot 13 tipo EQUIPAMENTO para slot 11 tipo INVENTÁRIO
+08:57:07 : [Archer] - Comando "/gm +set 12 413"
+08:57:10 : [Archer] - Agrupando o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] com o item Poeira_de_Lactolerium [413] [61 3 0 0 0 0]
+08:57:10 : [Archer] - O agrupamento foi efetuado de slot 12 tipo EQUIPAMENTO para slot 11 tipo INVENTÁRIO
+08:58:31 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+08:58:31 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:04:12 minutos online
+08:58:49 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+08:58:49 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+08:58:49 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+08:58:55 : Solicitou ir ao mundo...
+08:58:55 : Recebido pedido para entrar no jogo
+08:58:55 : Recebido informação do personagem completa.
+08:58:55 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619043065
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2091x 2103y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[14] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+08:58:55 : [Archer] - Personagem Archer enviado ao mundo 2091x 2103y - Canal 2 - Cash da conta: 127156. OverPower: 1359
+08:58:55 : [Archer] - Gold atual: 619043065. Classe: 1 Evolução: 2. Experiência: 45160840. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+08:58:55 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 771
+08:58:55 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1673
+08:58:55 : [Archer] - Evolução logada: 2
+08:58:55 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+08:58:55 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+08:58:55 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+08:58:55 : [Archer] - Enviado informações do personagem
+08:58:56 : [Archer] - Comando "/day "
+08:58:56 : [Archer] - [Mensagem do servidor]> !#11 2
+08:58:59 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 12
+08:59:11 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+08:59:16 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 14
+09:01:47 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+09:01:47 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:02:55 minutos online
+09:02:21 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+09:02:21 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+09:02:21 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+09:02:31 : Solicitou ir ao mundo...
+09:02:31 : Recebido pedido para entrar no jogo
+09:02:31 : Recebido informação do personagem completa.
+09:02:31 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619043065
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2086x 2094y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[14] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:02:31 : [Archer] - Personagem Archer enviado ao mundo 2086x 2094y - Canal 2 - Cash da conta: 127156. OverPower: 1359
+09:02:31 : [Archer] - Gold atual: 619043065. Classe: 1 Evolução: 2. Experiência: 45160840. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+09:02:31 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 749
+09:02:31 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1651
+09:02:31 : [Archer] - Evolução logada: 2
+09:02:31 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+09:02:31 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+09:02:31 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+09:02:31 : [Archer] - Enviado informações do personagem
+09:02:32 : [Archer] - Comando "/day "
+09:02:32 : [Archer] - [Mensagem do servidor]> !#11 2
+09:02:43 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 12
+09:02:47 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+09:04:09 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+09:04:09 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:01:47 minutos online
+09:04:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+09:04:22 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 9351001
+09:04:22 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Manoplas_de_Malha(M)[1147] [43 3 2 20 53 3]
+
+09:04:23 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:04:27 : Solicitou ir ao mundo...
+09:04:27 : Recebido pedido para entrar no jogo
+09:04:27 : Recebido informação do personagem completa.
+09:04:27 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619043065
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2087x 2106y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Huntress[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura_Flamejante[1221] [43 251 0 0 0 0]
+[03] - Armadura_Flamejante[1221] [43 251 0 0 0 0]
+[04] - Armadura_Flamejante[1221] [43 251 0 0 0 0]
+[05] - Armadura_Flamejante[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu_de_Teia(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:04:27 : [Archer] - Personagem Archer enviado ao mundo 2087x 2106y - Canal 1 - Cash da conta: 127156. OverPower: 1179
+09:04:27 : [Archer] - Gold atual: 619043065. Classe: 1 Evolução: 2. Experiência: 45160840. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+09:04:27 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 737
+09:04:27 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1639
+09:04:27 : [Archer] - Evolução logada: 2
+09:04:27 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+09:04:27 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+09:04:27 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+09:04:27 : [Archer] - Enviado informações do personagem
+09:04:28 : [Archer] - Comando "/day "
+09:04:28 : [Archer] - [Mensagem do servidor]> !#11 2
+09:04:36 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+09:07:46 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+09:07:46 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:03:21 minutos online
+09:08:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+09:08:29 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+09:08:29 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+09:08:47 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+09:08:47 : Personagem foi desconectado. Permaneceu 00:00:17 minutos online
+09:08:58 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+09:08:58 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 9351001
+09:08:58 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Manoplas_de_Malha(M)[1147] [43 3 2 20 53 3]
+
+09:09:05 : Solicitou ir ao mundo...
+09:09:05 : Recebido pedido para entrar no jogo
+09:09:05 : Recebido informação do personagem completa.
+09:09:05 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619043065
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2099x 2096y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Huntress[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura_Flamejante[1221] [43 251 0 0 0 0]
+[03] - Armadura_Flamejante[1221] [43 251 0 0 0 0]
+[04] - Armadura_Flamejante[1221] [43 251 0 0 0 0]
+[05] - Armadura_Flamejante[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu_de_Teia(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:09:05 : [Archer] - Personagem Archer enviado ao mundo 2099x 2096y - Canal 1 - Cash da conta: 127156. OverPower: 1179
+09:09:05 : [Archer] - Gold atual: 619043065. Classe: 1 Evolução: 2. Experiência: 45160840. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+09:09:05 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 713
+09:09:05 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1615
+09:09:05 : [Archer] - Evolução logada: 2
+09:09:05 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+09:09:05 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+09:09:05 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+09:09:05 : [Archer] - Enviado informações do personagem
+09:09:06 : [Archer] - Comando "/day "
+09:09:06 : [Archer] - [Mensagem do servidor]> !#11 2
+09:09:12 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+09:09:19 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 14
+09:09:27 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 12
+09:09:48 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+09:09:48 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:00:50 minutos online
+09:16:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+09:16:29 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+09:16:29 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+09:16:35 : Solicitou ir ao mundo...
+09:16:36 : Recebido pedido para entrar no jogo
+09:16:36 : Recebido informação do personagem completa.
+09:16:36 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619043065
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2092x 2105y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:16:36 : [Archer] - Personagem Archer enviado ao mundo 2092x 2105y - Canal 2 - Cash da conta: 127156. OverPower: 1359
+09:16:36 : [Archer] - Gold atual: 619043065. Classe: 1 Evolução: 2. Experiência: 45160840. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+09:16:36 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 707
+09:16:36 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1609
+09:16:36 : [Archer] - Evolução logada: 2
+09:16:36 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+09:16:36 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+09:16:36 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+09:16:36 : [Archer] - Enviado informações do personagem
+09:16:37 : [Archer] - Comando "/day "
+09:16:37 : [Archer] - [Mensagem do servidor]> !#11 2
+09:16:44 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 14
+09:16:47 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 12
+09:16:48 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+09:17:05 : [Archer] - Teleportado para a posição 960 1761
+09:17:14 : [Archer] - Teleportado para a posição 2117 2102
+09:17:18 : [Archer] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2111x 2106y. Posição do NPC: 2110x 2110y
+09:17:20 : [Archer] - [Mensagem do servidor]> Deve possuir os itens corretos
+09:17:49 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+09:17:49 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:01:19 minutos online
+09:51:32 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+09:51:32 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+09:51:32 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+09:51:32 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:51:45 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+09:51:45 : Personagem foi desconectado. Permaneceu 00:00:13 minutos online
+09:53:11 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+09:53:11 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+09:53:11 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+09:53:19 : Solicitou ir ao mundo...
+09:53:19 : Recebido pedido para entrar no jogo
+09:53:19 : Recebido informação do personagem completa.
+09:53:19 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619040265
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2099x 2096y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:53:19 : [Archer] - Personagem Archer enviado ao mundo 2099x 2096y - Canal 2 - Cash da conta: 127156. OverPower: 1359
+09:53:19 : [Archer] - Gold atual: 619040265. Classe: 1 Evolução: 2. Experiência: 45160840. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+09:53:19 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 698
+09:53:19 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1600
+09:53:19 : [Archer] - Evolução logada: 2
+09:53:19 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+09:53:19 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+09:53:19 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+09:53:19 : [Archer] - Enviado informações do personagem
+09:53:20 : [Archer] - Comando "/day "
+09:53:20 : [Archer] - [Mensagem do servidor]> !#11 2
+09:53:25 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+09:53:28 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+09:53:28 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:00:16 minutos online
+09:54:51 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+09:54:51 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+09:54:51 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+09:54:59 : Solicitou ir ao mundo...
+09:54:59 : Recebido pedido para entrar no jogo
+09:54:59 : Recebido informação do personagem completa.
+09:54:59 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619040265
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2099x 2102y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:54:59 : [Archer] - Personagem Archer enviado ao mundo 2099x 2102y - Canal 2 - Cash da conta: 127156. OverPower: 1359
+09:54:59 : [Archer] - Gold atual: 619040265. Classe: 1 Evolução: 2. Experiência: 45160840. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+09:54:59 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 697
+09:54:59 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1599
+09:54:59 : [Archer] - Evolução logada: 2
+09:54:59 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+09:54:59 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+09:54:59 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+09:54:59 : [Archer] - Enviado informações do personagem
+09:55:00 : [Archer] - Comando "/day "
+09:55:00 : [Archer] - [Mensagem do servidor]> !#11 2
+09:55:05 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+09:55:05 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:00:14 minutos online
+09:56:10 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+09:56:11 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+09:56:11 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+09:56:32 : Solicitou ir ao mundo...
+09:56:32 : Recebido pedido para entrar no jogo
+09:56:32 : Recebido informação do personagem completa.
+09:56:32 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619040265
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:22 horas
+Posição atual: 2093x 2093y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:56:32 : [Archer] - Personagem Archer enviado ao mundo 2093x 2093y - Canal 2 - Cash da conta: 127156. OverPower: 1359
+09:56:32 : [Archer] - Gold atual: 619040265. Classe: 1 Evolução: 2. Experiência: 45160840. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+09:56:32 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 696
+09:56:32 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1598
+09:56:32 : [Archer] - Evolução logada: 2
+09:56:32 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+09:56:32 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+09:56:32 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+09:56:32 : [Archer] - Enviado informações do personagem
+09:56:33 : [Archer] - Comando "/day "
+09:56:33 : [Archer] - [Mensagem do servidor]> !#11 2
+09:56:42 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+09:56:42 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:00:32 minutos online
+09:56:56 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+09:56:56 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+09:56:56 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+09:57:11 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+09:57:11 : Personagem foi desconectado. Permaneceu 00:00:15 minutos online
+09:59:25 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+09:59:25 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+09:59:25 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+09:59:31 : Solicitou ir ao mundo...
+09:59:31 : Recebido pedido para entrar no jogo
+09:59:31 : Recebido informação do personagem completa.
+09:59:31 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619040265
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2087x 2106y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:59:31 : [Archer] - Personagem Archer enviado ao mundo 2087x 2106y - Canal 2 - Cash da conta: 127156. OverPower: 1359
+09:59:31 : [Archer] - Gold atual: 619040265. Classe: 1 Evolução: 2. Experiência: 45160840. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+09:59:31 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 695
+09:59:31 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1597
+09:59:31 : [Archer] - Evolução logada: 2
+09:59:31 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+09:59:31 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+09:59:31 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+09:59:31 : [Archer] - Enviado informações do personagem
+09:59:32 : [Archer] - Comando "/day "
+09:59:32 : [Archer] - [Mensagem do servidor]> !#11 2
+09:59:37 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+09:59:50 : [Archer] - Personagem deu personagem
+09:59:58 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+09:59:58 : Personagem foi desconectado. Permaneceu 00:00:33 minutos online
+10:00:02 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+10:00:02 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 9351001
+10:00:02 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Manoplas_de_Malha(M)[1147] [43 3 2 20 53 3]
+
+10:00:02 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:00:08 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+10:00:08 : Personagem foi desconectado. Permaneceu 00:00:06 minutos online
+10:00:27 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+10:00:27 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+10:00:27 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+10:00:48 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+10:00:48 : Personagem foi desconectado. Permaneceu 00:00:21 minutos online
+10:02:57 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+10:02:57 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+10:02:57 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+10:03:04 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+10:03:04 : Personagem foi desconectado. Permaneceu 00:00:07 minutos online
+10:03:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+10:03:36 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+10:03:36 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+10:03:42 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+10:03:42 : Personagem foi desconectado. Permaneceu 00:00:06 minutos online
+10:07:04 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+10:07:04 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+10:07:04 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+10:09:11 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+10:09:11 : Personagem foi desconectado. Permaneceu 00:02:06 minutos online
+10:09:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+10:09:23 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+10:09:23 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+10:09:41 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+10:09:41 : Personagem foi desconectado. Permaneceu 00:00:18 minutos online
+10:10:11 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+10:10:11 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+10:10:11 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+10:10:21 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+10:10:21 : Personagem foi desconectado. Permaneceu 00:00:10 minutos online
+10:11:05 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+10:11:05 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+10:11:05 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+10:11:10 : Solicitou ir ao mundo...
+10:11:10 : Recebido pedido para entrar no jogo
+10:11:10 : Recebido informação do personagem completa.
+10:11:10 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619040265
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2087x 2098y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 96]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:11:10 : [Archer] - Personagem Archer enviado ao mundo 2087x 2098y - Canal 2 - Cash da conta: 127156. OverPower: 1359
+10:11:10 : [Archer] - Gold atual: 619040265. Classe: 1 Evolução: 2. Experiência: 45160840. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+10:11:10 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 693
+10:11:10 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1595
+10:11:10 : [Archer] - Evolução logada: 2
+10:11:10 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+10:11:10 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+10:11:10 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+10:11:10 : [Archer] - Enviado informações do personagem
+10:11:11 : [Archer] - Comando "/day "
+10:11:11 : [Archer] - [Mensagem do servidor]> !#11 2
+10:11:23 : [Archer] - Personagem deu personagem
+10:11:35 : Solicitou ir ao mundo...
+10:11:35 : Recebido pedido para entrar no jogo
+10:11:35 : Recebido informação do personagem completa.
+10:11:35 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619040265
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:29 horas
+Posição atual: 2097x 2099y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 96]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:11:35 : [Archer] - Personagem Archer enviado ao mundo 2097x 2099y - Canal 2 - Cash da conta: 127156. OverPower: 1359
+10:11:35 : [Archer] - Gold atual: 619040265. Classe: 1 Evolução: 2. Experiência: 45160840. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+10:11:35 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 691
+10:11:35 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1593
+10:11:35 : [Archer] - Evolução logada: 2
+10:11:35 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+10:11:35 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+10:11:35 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+10:11:35 : [Archer] - Enviado informações do personagem
+10:11:36 : [Archer] - Comando "/day "
+10:11:36 : [Archer] - [Mensagem do servidor]> !#11 2
+10:11:49 : [Archer] - Personagem deu personagem
+10:11:56 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+10:11:56 : Personagem foi desconectado. Permaneceu 00:00:50 minutos online
+10:33:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+10:33:08 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+10:33:08 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+10:33:16 : Solicitou ir ao mundo...
+10:33:16 : Recebido pedido para entrar no jogo
+10:33:16 : Recebido informação do personagem completa.
+10:33:16 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619040265
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2098x 2096y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 64]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:33:16 : [Archer] - Personagem Archer enviado ao mundo 2098x 2096y - Canal 2 - Cash da conta: 127156. OverPower: 1359
+10:33:16 : [Archer] - Gold atual: 619040265. Classe: 1 Evolução: 2. Experiência: 45160840. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+10:33:16 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 689
+10:33:16 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1591
+10:33:16 : [Archer] - Evolução logada: 2
+10:33:16 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+10:33:16 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+10:33:16 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+10:33:16 : [Archer] - Enviado informações do personagem
+10:33:16 : [Archer] - Comando "/day "
+10:33:16 : [Archer] - [Mensagem do servidor]> !#11 2
+10:33:26 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:33:32 : [Archer] - Comando "/gm +set 16 3201"
+10:33:36 : [Archer] - Comando "/gm +set 16 3101"
+10:34:38 : [Archer] - Personagem deu personagem
+10:34:51 : Solicitou ir ao mundo...
+10:34:51 : Recebido pedido para entrar no jogo
+10:34:51 : Recebido informação do personagem completa.
+10:34:51 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619040265
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:01:43 horas
+Posição atual: 2086x 2106y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 32]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:34:51 : [Archer] - Personagem Archer enviado ao mundo 2086x 2106y - Canal 2 - Cash da conta: 127156. OverPower: 1359
+10:34:51 : [Archer] - Gold atual: 619040265. Classe: 1 Evolução: 2. Experiência: 45160840. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+10:34:51 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 679
+10:34:51 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 1581
+10:34:51 : [Archer] - Evolução logada: 2
+10:34:51 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+10:34:51 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+10:34:51 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+10:34:51 : [Archer] - Enviado informações do personagem
+10:34:52 : [Archer] - Comando "/day "
+10:34:52 : [Archer] - [Mensagem do servidor]> !#11 2
+10:35:02 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+11:04:52 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619040265
+Level atual: 2
+Experiência atual: 45160840
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:31:15 horas
+Posição atual: 2098x 2105y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 32]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 91 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:16:39 : [Archer] - Item Pedido_de_Caça(Kult) [3435] [61 91 0 0 0 0] utilizado em 2109x 2104y
+11:16:39 : [Archer] - Teleportado para a posição 1182 1714
+11:16:42 : [Archer] - Matou o mob Tauron Bandido. GenerID: 4372
+11:16:44 : [Archer] - Matou o mob Tauron. GenerID: 4372
+11:16:47 : [Archer] - Matou o mob Tauron. GenerID: 4372
+11:16:49 : [Archer] - Matou o mob Tauron. GenerID: 4372
+11:16:49 : [Archer] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:16:54 : [Archer] - Matou o mob Tauron Bandido. GenerID: 4371
+11:16:58 : [Archer] - Matou o mob Tauron. GenerID: 4371
+11:17:00 : [Archer] - Matou o mob Tauron. GenerID: 4371
+11:17:03 : [Archer] - Matou o mob Tauron. GenerID: 4371
+11:17:03 : [Archer] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:17:06 : [Archer] - Matou o mob Tauron. GenerID: 4371
+11:17:19 : [Archer] - Matou o mob Tauron Bandido. GenerID: 4371
+11:34:53 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619045700
+Level atual: 2
+Experiência atual: 57259240
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 01:00:52 horas
+Posição atual: 1193x 1714y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 32]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:03:54 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:03:54 : [Archer] - 1 Personagem foi desconectado. Permaneceu 01:29:28 minutos online
+12:03:54 : [Archer] - Recebeu 5435 de gold em 3 mobs no total. Total de gold: 619045700
+13:05:34 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+13:05:34 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+13:05:34 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  1] - Luvas(M)[1147] [43 3 2 20 53 3]
+
+13:05:34 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:05:42 : Solicitou ir ao mundo...
+13:05:42 : Recebido pedido para entrar no jogo
+13:05:42 : Recebido informação do personagem completa.
+13:05:42 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 995995400
+Level atual: 223
+Experiência atual: 112089450
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2495x 1720y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 8 0 0 0 0]
+[03] - Calça(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira(N)[1575] [43 8 0 0 0 0]
+[05] - Botas(N)[1578] [43 8 0 0 0 0]
+[06] - Skeleton_Bow[943] [43 9 0 0 0 0]
+[14] - Aranha[2360] [88 27 30 10 0 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+[16] - Asa_de_Fênix[3103] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Arco[816] [43 0 0 0 0 0]
+[01] - Aranha[2360] [0 0 1 20 0 0]
+[02] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[03] - Aranha[2360] [0 0 10 10 0 0]
+[04] - Ração_de_Aranha[2420] [61 113 0 0 0 0]
+[05] - Emblema_da_Honra[4044] [0 0 0 0 0 0]
+[06] - Aranha[2360] [0 0 10 3 0 0]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[12] - Alma_do_Unicórnio[1740] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [126 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:05:42 : [Archer] - Personagem Archer enviado ao mundo 2495x 1720y - Canal 2 - Cash da conta: 127156. OverPower: 711
+13:05:42 : [Archer] - Gold atual: 995995400. Classe: 3 Evolução: 0. Experiência: 112089450. Nível: 223. Info: 0. GuildID: 0. CP: 51. Pontos de Contribuição: 0. Limite: 0
+13:05:42 : [Archer] - Enviado informações do personagem
+13:05:43 : [Archer] - Comando "/day "
+13:05:43 : [Archer] - [Mensagem do servidor]> !#11 2
+13:05:50 : [Archer] - Comando "/gm +set level 38"
+13:05:55 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:05:56 : [Archer] - Moveu item Luvas(M) [1147] [43 3 2 20 53 3] do tipo BANCO do slot 1 para tipo INVENTÁRIO slot 11
+13:05:57 : [Archer] - Item Luvas(M) deletado [1147] [43 3 2 20 53 3]. Slot 11
+13:06:13 : [Archer] - Comando "/gm +item 3207"
+13:06:13 : [Archer] - [Mensagem do servidor]> Criou o item Jóia_da_Armazenagem
+13:06:13 : [Archer] - Archer criou o item Jóia_da_Armazenagem [3207] [0 0 0 0 0 0]
+13:06:15 : [Archer] - Item Jóia_da_Armazenagem [3207] [0 0 0 0 0 0] utilizado em 2481x 1702y
+13:06:29 : [Archer] - Matou o mob Porco . GenerID: 1255
+13:06:29 : [Archer] - Pontos CP subiu em 3. CP novo: 129
+13:06:29 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:06:29 : [Archer] - Level UP para level 39. Ev: 0/0 - 2473x 1763y
+13:06:29 : [Archer] - Recebeu o item Elmo(M) [1111] [43 3 4 20 0 0]. STR: 8. INT: 9. DEX: 13. CON: 6
+13:06:29 : [Archer] - [Mensagem do servidor]> !Chegou um item: [ Elmo(M) ]
+13:06:33 : [Archer] - Matou o mob Porco. GenerID: 1255
+13:06:34 : [Archer] - Matou o mob Porco . GenerID: 1255
+13:06:35 : [Archer] - Matou o mob Porco . GenerID: 1255
+13:06:40 : [Archer] - Comando "/gm +azran"
+13:06:40 : [Archer] - Teleportado para a posição 2482 1709
+13:08:04 : [Archer] - Personagem deu personagem
+13:08:10 : Solicitou ir ao mundo...
+13:08:10 : Recebido pedido para entrar no jogo
+13:08:10 : Recebido informação do personagem completa.
+13:08:10 : [FoeFoe2] - [INFORMAÇÕES DA CONTA]
+Personagem online: FoeFoe2
+Gold atual: 950750350
+Level atual: 39
+Experiência atual: 1000275
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:02:33 horas
+Posição atual: 2088x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[14] - Aranha[2360] [231 22 1 7 8 0]
+[15] - Capa_de_Hekalotia[736] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[01] - Ração_de_Cérberus[2438] [61 5 0 0 0 0]
+[02] - Chave_da_Ultima_Porta[453] [0 0 0 0 0 0]
+[03] - Chave_Portão_Orc_Sul[465] [0 0 0 0 0 0]
+[04] - Chave_Portão_Orc_Leste[466] [0 0 0 0 0 0]
+[05] - Última_Chave_Orc[467] [0 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+[07] - Elmo(N)[1476] [0 0 0 0 0 0]
+[08] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[09] - Fênix[2389] [1 1 1 10 0 0]
+[10] - Svadilfari[2387] [184 255 10 10 0 0]
+[11] - Calça(A)[1409] [43 0 71 60 59 0]
+[12] - Ração_de_Cavalo[2426] [61 2 0 0 0 0]
+[13] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[14] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[15] - Luvas(N)[1560] [43 1 72 20 60 4]
+[16] - Elmo(A)[1801] [43 0 60 8 59 0]
+[17] - Luvas(N)[1560] [8 12 72 10 2 6]
+[18] - Chapéu(N)[1401] [43 0 60 8 3 10]
+[19] - Jaqueta(N)[1554] [43 1 71 30 59 0]
+[20] - Calça(A)[1809] [7 7 71 40 2 12]
+[21] - Braçadeira(M)[1576] [43 1 72 15 54 6]
+[22] - Braçadeira(A)[2049] [43 0 72 10 54 9]
+[23] - Calça(A)[1409] [43 0 3 20 2 12]
+[24] - Botas(A)[1818] [43 0 73 12 59 0]
+[25] - Ração_de_Fênix[2439] [61 4 0 0 0 0]
+[26] - Armadura(N)[1479] [0 0 0 0 0 0]
+[27] - [4190] [96 30 0 0 0 0]
+[28] - Conjunto_Yin-Yang[4150] [96 7 1 21 0 0]
+[29] - Conjunto_Yin-Yang[4150] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:08:10 : [FoeFoe2] - Personagem FoeFoe2 enviado ao mundo 2088x 2095y - Canal 2 - Cash da conta: 127156. OverPower: 80
+13:08:10 : [FoeFoe2] - Gold atual: 950750350. Classe: 1 Evolução: 0. Experiência: 1000275. Nível: 39. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:08:10 : [FoeFoe2] - Enviado informações do personagem
+13:08:11 : [FoeFoe2] - Comando "/day "
+13:08:11 : [FoeFoe2] - [Mensagem do servidor]> !#11 2
+13:08:16 : [FoeFoe2] - Comando "/gm +set level 38"
+13:08:19 : [FoeFoe2] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:08:22 : [FoeFoe2] - Moveu item Elmo(M) [1111] [43 3 4 20 0 0] do tipo BANCO do slot 0 para tipo INVENTÁRIO slot 0
+13:08:23 : [FoeFoe2] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:08:23 : [FoeFoe2] - Level UP para level 39. Ev: 0/0 - 2102x 2110y
+13:08:23 : [FoeFoe2] - Recebeu o item Elmo(M) [1111] [43 3 4 20 0 0]. STR: 26. INT: 8. DEX: 5. CON: 5
+13:08:23 : [FoeFoe2] - [Mensagem do servidor]> !Chegou um item: [ Elmo(M) ]
+13:09:35 : [FoeFoe2] - Comando "/gm +set level 38"
+13:09:40 : [FoeFoe2] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:09:40 : [FoeFoe2] - Level UP para level 39. Ev: 0/0 - 2102x 2110y
+13:09:40 : [FoeFoe2] - Recebeu o item Elmo(M) [1111] [43 3 4 20 0 0]. STR: 26. INT: 89. DEX: 5. CON: 5
+13:09:40 : [FoeFoe2] - [Mensagem do servidor]> !Chegou um item: [ Elmo(M) ]
+13:11:28 : [FoeFoe2] - Comando "/gm +item 4615"
+13:11:28 : [FoeFoe2] - [Mensagem do servidor]> Você não possui espaço livre no inventório.
+13:11:31 : [FoeFoe2] - Item Calça(A) deletado [1409] [43 0 71 60 59 0]. Slot 11
+13:11:31 : [FoeFoe2] - Comando "/gm +item 4615"
+13:11:31 : [FoeFoe2] - [Mensagem do servidor]> Criou o item Essência_de_Gema
+13:11:31 : [FoeFoe2] - FoeFoe2 criou o item Essência_de_Gema [4615] [0 0 0 0 0 0]
+13:11:33 : [FoeFoe2] - Item Essência_de_Gema deletado [4615] [0 0 0 0 0 0]. Slot 11
+13:13:38 : [FoeFoe2] - Personagem deu personagem
+13:14:59 : Solicitou ir ao mundo...
+13:14:59 : Recebido pedido para entrar no jogo
+13:14:59 : Recebido informação do personagem completa.
+13:14:59 : [TKzaoporra] - [INFORMAÇÕES DA CONTA]
+Personagem online: TKzaoporra
+Gold atual: 999996550
+Level atual: 399
+Experiência atual: 102
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:09:17 horas
+Posição atual: 2089x 2095y
+
+Pontos NT: 0
+Entradas Hall: 25
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura(N)[1116] [43 0 0 0 0 0]
+[03] - Calça(N)[1131] [0 0 0 0 0 0]
+[04] - Luvas(N)[1140] [43 0 0 0 0 0]
+[05] - Botas(N)[1152] [43 0 0 0 0 0]
+[06] - Skeleton_Axe[944] [0 0 0 0 0 0]
+[10] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[11] - Sephirot(TransKnight)[1760] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 8 1 21 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 19 108 48]
+[14] - Aranha[2360] [88 27 1 10 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Skytalos(Anct)[2551] [2 81 43 240 0 0]
+[01] - Skytalos(Anct)[2551] [43 236 2 81 0 0]
+[02] - Cavalo_Equip_B[2374] [0 0 1 10 0 0]
+[05] - Ração_de_Aranha[2420] [61 4 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:14:59 : [TKzaoporra] - Personagem TKzaoporra enviado ao mundo 2089x 2095y - Canal 2 - Cash da conta: 127156. OverPower: 800
+13:14:59 : [TKzaoporra] - Gold atual: 999996550. Classe: 0 Evolução: 0. Experiência: 102. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:14:59 : [TKzaoporra] - Enviado informações do personagem
+13:15:00 : [TKzaoporra] - Comando "/day "
+13:15:00 : [TKzaoporra] - [Mensagem do servidor]> !#11 2
+13:15:06 : [TKzaoporra] - Clicado no NPC [Gold Dragon]. Face 108. Race: 4. GenerateId: 3260. Posição do usuário: 2075x 2070y. Posição do NPC: 2068x 2068y
+13:15:07 : [TKzaoporra] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:15:17 : [TKzaoporra] - Clicado no NPC [Kibita]. Face 102. Race: 10. GenerateId: 3288. Posição do usuário: 2125x 2107y. Posição do NPC: 2135x 2105y
+13:15:17 : [TKzaoporra] - [Mensagem do servidor]> Você agora é um cidadão
+13:15:24 : [TKzaoporra] - Clicado no NPC [Mestre de Hab]. Face 18. Race: 15. GenerateId: 3259. Posição do usuário: 2141x 2079y. Posição do NPC: 2148x 2068y
+13:15:38 : [TKzaoporra] - Clicado no NPC de Imposto
+13:15:42 : [TKzaoporra] - Comando "/gm +erion"
+13:15:42 : [TKzaoporra] - Teleportado para a posição 2460 2009
+13:15:50 : [TKzaoporra] - Clicado no NPC de Imposto
+13:15:54 : [TKzaoporra] - Comando "/gm +azran"
+13:15:54 : [TKzaoporra] - Teleportado para a posição 2482 1709
+13:16:14 : [TKzaoporra] - Clicado no NPC de Imposto
+13:16:18 : [TKzaoporra] - Comando "/gm +gelo"
+13:16:18 : [TKzaoporra] - Teleportado para a posição 3648 3117
+13:16:22 : [TKzaoporra] - Clicado no NPC de Imposto
+14:31:02 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+14:31:02 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 9351001
+14:31:02 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  0] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  1] - Elmo(M)[1111] [43 3 4 20 0 0]
+
+14:31:02 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:31:07 : Solicitou ir ao mundo...
+14:31:07 : Recebido pedido para entrar no jogo
+14:31:07 : Recebido informação do personagem completa.
+14:31:07 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619045700
+Level atual: 2
+Experiência atual: 57259240
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2092x 2097y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 32]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:31:07 : [Archer] - Personagem Archer enviado ao mundo 2092x 2097y - Canal 2 - Cash da conta: 127156. OverPower: 1359
+14:31:07 : [Archer] - Gold atual: 619045700. Classe: 1 Evolução: 2. Experiência: 57259240. Nível: 2. Info: 130576. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:31:07 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 21
+14:31:07 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 923
+14:31:07 : [Archer] - Evolução logada: 2
+14:31:07 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+14:31:07 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+14:31:07 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+14:31:07 : [Archer] - Enviado informações do personagem
+14:31:08 : [Archer] - Comando "/day "
+14:31:08 : [Archer] - [Mensagem do servidor]> !#11 2
+14:31:18 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:32:09 : [Archer] - Comando "/gm +item 3207"
+14:32:09 : [Archer] - [Mensagem do servidor]> Criou o item Jóia_da_Armazenagem
+14:32:09 : [Archer] - Archer criou o item Jóia_da_Armazenagem [3207] [0 0 0 0 0 0]
+14:32:10 : [Archer] - Item Jóia_da_Armazenagem [3207] [0 0 0 0 0 0] utilizado em 2097x 2098y
+14:32:10 : [Archer] - [Mensagem do servidor]> Usou jóia do armazenamento
+14:32:35 : [Archer] - Moveu item Cythera_Arcana [3507] [0 0 4 70 3 50] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 14
+14:32:36 : [Archer] - Moveu item Cythera_Arcana [3507] [0 0 4 70 3 50] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 1
+14:32:41 : [Archer] - Teleportado para a posição 960 1761
+14:32:57 : [Archer] - Clicado no NPC [God Government]. Face 101. Race: 4. GenerateId: 3276. Posição do usuário: 1046x 1720y. Posição do NPC: 1051x 1715y
+14:32:59 : [Archer] - Clicado no NPC [God Government]. Face 101. Race: 4. GenerateId: 3276. Posição do usuário: 1049x 1716y. Posição do NPC: 1051x 1715y
+14:33:00 : [Archer] - Clicado no NPC [God Government]. Face 101. Race: 4. GenerateId: 3276. Posição do usuário: 1049x 1716y. Posição do NPC: 1051x 1715y
+14:33:26 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 32] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 14
+14:33:28 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 32] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 12
+14:33:30 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 14
+14:33:30 : [Archer] - Moveu item  [0] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 14
+14:33:32 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 14
+14:33:39 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 12
+14:33:41 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 14
+14:33:42 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 12
+14:33:44 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 14
+14:33:45 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 12
+14:33:46 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 14
+14:35:16 : [Archer] - Item Pedra_Misteriosa [4148] [61 167 0 0 0 0] utilizado em 1041x 1717y
+14:35:16 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619044700
+Level atual: 2
+Experiência atual: 57259240
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:04:11 horas
+Posição atual: 1041x 1717y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 167 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[14] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:35:16 : [Archer] - Classe 0 gerada através da face 36
+14:35:18 : [Archer] - Item Pedra_Misteriosa [4148] [61 166 0 0 0 0] utilizado em 1041x 1717y
+14:35:18 : [Archer] - [Mensagem do servidor]> Aguarde alguns segundos para utilizar novamente...
+14:35:18 : [Archer] - Item Pedra_Misteriosa [4148] [61 166 0 0 0 0] utilizado em 1041x 1717y
+14:35:18 : [Archer] - [Mensagem do servidor]> Aguarde alguns segundos para utilizar novamente...
+14:35:22 : [Archer] - Item Pedra_Misteriosa [4148] [61 166 0 0 0 0] utilizado em 1041x 1717y
+14:35:22 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619044700
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:04:16 horas
+Posição atual: 1041x 1717y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 519691158032
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 2
+Experiência atual: 57259240
+Learn: 1090453504
+SecLearn: 0
+Info: 130576
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[36] [43 0 36 3 1 1]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 166 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[14] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:35:22 : [Archer] - Classe 1 gerada através da face 37
+14:35:35 : [Archer] - Item Pedra_Misteriosa [4148] [61 165 0 0 0 0] utilizado em 1041x 1717y
+14:35:35 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619044700
+Level atual: 2
+Experiência atual: 57259240
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:04:29 horas
+Posição atual: 1041x 1717y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 130576
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741824
+SecLearn: 0
+Info: 519691158032
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 0 0]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 165 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[14] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:35:35 : [Archer] - Classe 0 gerada através da face 36
+14:36:05 : [Archer] - Matou o mob Tauron. GenerID: 3990
+14:36:11 : [Archer] - Matou o mob Tauron. GenerID: 3990
+14:36:15 : [Archer] - Matou o mob Tauron. GenerID: 3991
+14:36:20 : [Archer] - Matou o mob Tauron Bandido. GenerID: 3990
+14:36:24 : [Archer] - Matou o mob Tauron. GenerID: 3991
+14:36:28 : [Archer] - Matou o mob Tauron. GenerID: 3989
+14:36:31 : [Archer] - Matou o mob Tauron. GenerID: 3989
+14:36:34 : [Archer] - Matou o mob Tauron. GenerID: 3988
+14:36:37 : [Archer] - Matou o mob Tauron. GenerID: 3988
+14:36:43 : [Archer] - Matou o mob Tauron Bandido. GenerID: 3990
+14:36:46 : [Archer] - Matou o mob Tauron. GenerID: 3990
+14:36:50 : [Archer] - Matou o mob Tauron. GenerID: 3991
+14:37:05 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:37:05 : [Archer] - 2 Personagem foi desconectado. Permaneceu 00:05:59 minutos online
+14:37:05 : [Archer] - Recebeu 3033 de gold em 2 mobs no total. Total de gold: 619047733
+15:03:05 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+15:03:05 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+15:03:05 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  0] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  1] - Elmo(M)[1111] [43 3 4 20 0 0]
+
+15:03:06 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:03:07 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+15:03:07 : Personagem foi desconectado. Permaneceu 00:00:01 minutos online
+15:03:07 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+15:03:07 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+15:03:07 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  0] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  1] - Elmo(M)[1111] [43 3 4 20 0 0]
+
+15:03:15 : Solicitou ir ao mundo...
+15:03:15 : Recebido pedido para entrar no jogo
+15:03:15 : Recebido informação do personagem completa.
+15:03:15 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 995995400
+Level atual: 39
+Experiência atual: 269683
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2096x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 8 0 0 0 0]
+[03] - Calça(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira(N)[1575] [43 8 0 0 0 0]
+[05] - Botas(N)[1578] [43 8 0 0 0 0]
+[06] - Skeleton_Bow[943] [43 9 0 0 0 0]
+[14] - Aranha[2360] [88 27 30 10 0 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+[16] - Asa_de_Fênix[3103] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Arco[816] [43 0 0 0 0 0]
+[01] - Aranha[2360] [0 0 1 20 0 0]
+[02] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[03] - Aranha[2360] [0 0 10 10 0 0]
+[04] - Ração_de_Aranha[2420] [61 113 0 0 0 0]
+[05] - Emblema_da_Honra[4044] [0 0 0 0 0 0]
+[06] - Aranha[2360] [0 0 10 3 0 0]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[12] - Alma_do_Unicórnio[1740] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:03:15 : [Archer] - Personagem Archer enviado ao mundo 2096x 2100y - Canal 2 - Cash da conta: 127156. OverPower: 343
+15:03:15 : [Archer] - Gold atual: 995995400. Classe: 3 Evolução: 0. Experiência: 269683. Nível: 39. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+15:03:15 : [Archer] - Enviado informações do personagem
+15:03:16 : [Archer] - Comando "/day "
+15:03:16 : [Archer] - [Mensagem do servidor]> !#11 2
+15:03:19 : [Archer] - Comando "/cmd +set level 39"
+15:03:20 : [Archer] - [Mensagem do servidor]> Este personagem não está conectado.
+15:03:23 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:03:26 : [Archer] - Comando "/gm +set level 38"
+15:03:42 : [Archer] - Comando "/gm +item 3207"
+15:03:42 : [Archer] - [Mensagem do servidor]> Criou o item Jóia_da_Armazenagem
+15:03:42 : [Archer] - Archer criou o item Jóia_da_Armazenagem [3207] [0 0 0 0 0 0]
+15:03:43 : [Archer] - Item Jóia_da_Armazenagem [3207] [0 0 0 0 0 0] utilizado em 2148x 2101y
+15:03:43 : [Archer] - [Mensagem do servidor]> Usou jóia do armazenamento
+15:03:50 : [Archer] - Matou o mob Gremlin. GenerID: 417
+15:03:50 : [Archer] - Pontos CP subiu em 3. CP novo: 132
+15:03:50 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:03:50 : [Archer] - Level UP para level 39. Ev: 0/0 - 2180x 2095y
+15:04:02 : [Archer] - Comando "/gm +set level 38"
+15:04:07 : [Archer] - Matou o mob Gremlin. GenerID: 417
+15:04:07 : [Archer] - Pontos CP subiu em 3. CP novo: 135
+15:04:07 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:04:07 : [Archer] - Level UP para level 39. Ev: 0/0 - 2178x 2088y
+15:04:07 : [Archer] - Dropado item Armadura(A) [1805] [43 0 71 30 59 0] em 2178x 2088y - Gremlin (1/67)
+15:07:58 : [Archer] - Comando "/gm +set level 34"
+15:08:03 : [Archer] - Matou o mob Gremlin. GenerID: 420
+15:08:03 : [Archer] - Pontos CP subiu em 3. CP novo: 138
+15:08:03 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:08:03 : [Archer] - Level UP para level 35. Ev: 0/0 - 2191x 2082y
+15:08:04 : [Archer] - Matou o mob Gremlin. GenerID: 419
+15:08:14 : [Archer] - Matou o mob Gremlin. GenerID: 420
+15:08:25 : [Archer] - Matou o mob Gremlin. GenerID: 425
+15:08:27 : [Archer] - Matou o mob Gremlin. GenerID: 426
+15:08:29 : [Archer] - Matou o mob Gremlin. GenerID: 433
+15:08:30 : [Archer] - Matou o mob Gremlin . GenerID: 434
+15:08:31 : [Archer] - Matou o mob Gremlin. GenerID: 442
+15:08:33 : [Archer] - Matou o mob Gremlin. GenerID: 427
+15:08:35 : [Archer] - Matou o mob Gremlin. GenerID: 435
+15:08:39 : [Archer] - Matou o mob Krill. GenerID: 444
+15:08:41 : [Archer] - Matou o mob Gremlin. GenerID: 435
+15:10:52 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:10:52 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:07:38 minutos online
+17:47:52 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+17:47:52 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+17:47:52 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  0] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  1] - Elmo(M)[1111] [43 3 4 20 0 0]
+
+17:47:57 : Solicitou ir ao mundo...
+17:47:57 : Recebido pedido para entrar no jogo
+17:47:57 : Recebido informação do personagem completa.
+17:47:57 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619047733
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2098x 2103y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 519691158032
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 2
+Experiência atual: 57259240
+Learn: 1090453504
+SecLearn: 0
+Info: 130576
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[36] [43 0 36 3 1 1]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 164 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 1 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 1 0 0]
+[14] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:47:57 : [Archer] - Personagem Archer enviado ao mundo 2098x 2103y - Canal 2 - Cash da conta: 127156. OverPower: 1753
+17:47:57 : [Archer] - Gold atual: 619047733. Classe: 0 Evolução: 3. Experiência: 4000000000. Nível: 199. Info: 519691158032. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:47:57 : [Archer] - Logou no personagem Archer com baú de experiência ativo. Tempo: 26
+17:47:57 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 929
+17:47:57 : [Archer] - Evolução logada: 3
+17:47:57 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+17:47:57 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+17:47:57 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+17:47:57 : [Archer] - Enviado informações do personagem
+17:47:58 : [Archer] - Comando "/day "
+17:47:58 : [Archer] - [Mensagem do servidor]> !#11 2
+17:48:06 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:48:17 : [Archer] - Item Escritura_do_Pesadelo deletado [5137] [0 0 0 0 0 0]. Slot 8
+17:48:33 : [Archer] - Comando "/gm +item 3461 61 10"
+17:48:33 : [Archer] - [Mensagem do servidor]> Criou o item Estabilizador_de_Crescimento
+17:48:33 : [Archer] - Archer criou o item Estabilizador_de_Crescimento [3461] [61 10 0 0 0 0]
+17:48:35 : [Archer] - Item Estabilizador_de_Crescimento [3461] [61 10 0 0 0 0] utilizado em 0x 0y
+17:48:40 : [Archer] - Item Estabilizador_de_Crescimento [3461] [61 9 0 0 0 0] utilizado em 0x 0y
+17:48:40 : [Archer] - [Mensagem do servidor]> Utilize o valor exato para a refinação
+17:48:44 : [Archer] - Item Escritura_do_Pesadelo deletado [5137] [0 0 0 0 0 0]. Slot 9
+17:48:46 : [Archer] - Comando "/gm +item 3461 61 10"
+17:48:46 : [Archer] - [Mensagem do servidor]> Criou o item Estabilizador_de_Crescimento
+17:48:46 : [Archer] - Archer criou o item Estabilizador_de_Crescimento [3461] [61 10 0 0 0 0]
+17:48:48 : [Archer] - Item Estabilizador_de_Crescimento [3461] [61 10 0 0 0 0] utilizado em 0x 0y
+18:14:00 : [Archer] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+18:17:58 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619047733
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:29:44 horas
+Posição atual: 2098x 2103y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 519691158032
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 2
+Experiência atual: 57259240
+Learn: 1090453504
+SecLearn: 0
+Info: 130576
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[36] [43 0 36 3 1 1]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Estabilizador_de_Crescimento[3461] [61 9 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 164 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 2 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 3 0 0]
+[14] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:47:59 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619047733
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:59:21 horas
+Posição atual: 2098x 2103y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 519691158032
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 2
+Experiência atual: 57259240
+Learn: 1090453504
+SecLearn: 0
+Info: 130576
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[36] [43 0 36 3 1 1]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Estabilizador_de_Crescimento[3461] [61 9 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 164 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 2 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 3 0 0]
+[14] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:10:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+19:10:22 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+19:10:22 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  0] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  1] - Elmo(M)[1111] [43 3 4 20 0 0]
+
+19:10:28 : Solicitou ir ao mundo...
+19:10:28 : Recebido pedido para entrar no jogo
+19:10:28 : Recebido informação do personagem completa.
+19:10:28 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619047733
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2096x 2103y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 519691158032
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 2
+Experiência atual: 57259240
+Learn: 1090453504
+SecLearn: 0
+Info: 130576
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[36] [43 0 36 3 1 1]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Estabilizador_de_Crescimento[3461] [61 9 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 164 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 2 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 3 0 0]
+[14] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:10:28 : [Archer] - Personagem Archer enviado ao mundo 2096x 2103y - Canal 2 - Cash da conta: 127156. OverPower: 1753
+19:10:28 : [Archer] - Gold atual: 619047733. Classe: 0 Evolução: 3. Experiência: 4000000000. Nível: 199. Info: 519691158032. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+19:10:28 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 433
+19:10:28 : [Archer] - Evolução logada: 3
+19:10:28 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+19:10:28 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+19:10:28 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+19:10:28 : [Archer] - Enviado informações do personagem
+19:10:29 : [Archer] - Comando "/day "
+19:10:29 : [Archer] - [Mensagem do servidor]> !#11 2
+19:10:42 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:45:47 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+19:45:47 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 9351001
+19:45:47 : [INFORMAÇÕES DO BANCO]
+Gold: 9351001
+[  0] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  1] - Elmo(M)[1111] [43 3 4 20 0 0]
+
+19:45:51 : Solicitou ir ao mundo...
+19:45:51 : Recebido pedido para entrar no jogo
+19:45:51 : Recebido informação do personagem completa.
+19:45:51 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 619047733
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2089x 2102y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 519691158032
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 2
+Experiência atual: 57259240
+Learn: 1090453504
+SecLearn: 0
+Info: 130576
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Rogue[36] [43 0 36 3 1 1]
+[01] - Cythera_Arcana[3507] [0 0 4 70 3 50]
+[02] - Armadura[1221] [43 251 0 0 0 0]
+[03] - Armadura[1221] [43 251 0 0 0 0]
+[04] - Armadura[1221] [43 251 0 0 0 0]
+[05] - Armadura[1221] [43 251 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Selo_do_Guerreiro[4146] [61 24 0 0 0 0]
+[01] - Chapéu(M)[1642] [8 13 26 9 59 0]
+[02] - Selo_do_Guerreiro[4146] [61 20 0 0 0 0]
+[03] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[04] - Sowilo[5125] [0 0 0 0 0 0]
+[05] - Sowilo[5125] [0 0 0 0 0 0]
+[06] - Sowilo[5125] [0 0 0 0 0 0]
+[07] - Griupan[1726] [43 1 5 41 60 5]
+[08] - Estabilizador_de_Crescimento[3461] [61 9 0 0 0 0]
+[10] - Pedra_Misteriosa[4148] [61 164 0 0 0 0]
+[11] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[12] - Âmago_de_Andaluz_B[2405] [43 2 0 0 0 0]
+[13] - Âmago_de_Andaluz_B[2405] [61 10 43 3 0 0]
+[14] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 0]
+[15] - [14] [157 0 0 0 0 0]
+[16] - [13] [157 0 0 0 0 0]
+[27] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[28] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[29] - Arco_Divino(Anct)[2547] [43 9 2 81 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:45:51 : [Archer] - Personagem Archer enviado ao mundo 2089x 2102y - Canal 2 - Cash da conta: 127156. OverPower: 1753
+19:45:51 : [Archer] - Gold atual: 619047733. Classe: 0 Evolução: 3. Experiência: 4000000000. Nível: 199. Info: 519691158032. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+19:45:51 : [Archer] - Logou no personagem Archer com frango ativo. Tempo: 420
+19:45:51 : [Archer] - Evolução logada: 3
+19:45:51 : [Archer] - Dados da capa um: [3199] [0 0 0 0 0 0]
+19:45:51 : [Archer] - Dados da capa dois: [0] [0 0 0 0 0 0]
+19:45:51 : [Archer] - Não foi efetuado a troca pois a refinação atual é maior
+19:45:51 : [Archer] - Enviado informações do personagem
+19:45:52 : [Archer] - Comando "/day "
+19:45:52 : [Archer] - [Mensagem do servidor]> !#11 2
+19:45:59 : [Archer] - Moveu item Poeira_de_Lactolerium [413] [61 4 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo INVENTÁRIO slot 9
+19:46:00 : [Archer] - Moveu item Conjunto_Yin-Yang [4150] [96 5 2 21 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 12
+19:46:04 : [Archer] - Teleportado para a posição 960 1761
+19:46:05 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:46:17 : [Archer] - Clicado no NPC [God Government]. Face 101. Race: 4. GenerateId: 3276. Posição do usuário: 1035x 1721y. Posição do NPC: 1051x 1713y
+19:46:21 : [Archer] - Clicado no NPC [God Government]. Face 101. Race: 4. GenerateId: 3276. Posição do usuário: 1047x 1715y. Posição do NPC: 1051x 1713y
+19:46:22 : [Archer] - Clicado no NPC [God Government]. Face 101. Race: 4. GenerateId: 3276. Posição do usuário: 1047x 1715y. Posição do NPC: 1051x 1713y
+19:46:23 : [Archer] - Clicado no NPC [God Government]. Face 101. Race: 4. GenerateId: 3276. Posição do usuário: 1047x 1715y. Posição do NPC: 1051x 1713y
+19:52:35 : [Archer] - Clicado no NPC de Imposto
+19:53:32 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:53:32 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:07:39 minutos online

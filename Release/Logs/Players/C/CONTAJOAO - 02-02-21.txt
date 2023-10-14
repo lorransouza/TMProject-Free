@@ -1,0 +1,356 @@
+
+17:58:20 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.186.5.89 Mac: (57:97:A2:B8:71:46). ClientId: 3
+17:58:20 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+17:58:20 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[  5] - Luvas[1223] [0 0 0 0 0 0]
+[ 10] - Estabilizador_de_Crescimento[3461] [61 10 0 0 0 0]
+[ 15] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[ 20] - Pedido_de_Caça(Kult)[3435] [61 8 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+17:58:20 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:07:04 : Solicitou ir ao mundo...
+18:07:04 : Recebido pedido para entrar no jogo
+18:07:04 : Recebido informação do personagem completa.
+18:07:04 : [sd2das] - [INFORMAÇÕES DA CONTA]
+Personagem online: sd2das
+Gold atual: 0
+Level atual: 29
+Experiência atual: 110690
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:08:35 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 0 0 0 0]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1456] [43 0 2 20 53 3]
+[01] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [84 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:07:04 : [sd2das] - Personagem sd2das enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 28
+18:07:04 : [sd2das] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 110690. Nível: 29. Info: 0. GuildID: 0. CP: 9. Pontos de Contribuição: 0. Limite: 0
+18:07:04 : [sd2das] - Resetado a contagem de entradas água! Day: 30-32. Total: 0
+18:07:04 : [sd2das] - Enviado informações do personagem
+18:07:06 : [sd2das] - Comando "/day "
+18:07:06 : [sd2das] - [Mensagem do servidor]> !#11 2
+18:07:10 : [sd2das] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:07:22 : [sd2das] - Matou o mob Porco de Guerra. GenerID: 4420
+18:07:30 : [sd2das] - Comando "/gm +set exp 0"
+18:07:33 : [sd2das] - Comando "/gm +level 0"
+18:07:38 : [sd2das] - Comando "/gm +set level 0"
+18:07:39 : [sd2das] - Pontos CP subiu em 3. CP novo: 87
+18:07:39 : [sd2das] - [Mensagem do servidor]> + + + LEVEL UP + + +
+18:07:39 : [sd2das] - Level UP para level 1. Ev: 0/0 - 2119x 2041y
+18:07:43 : [sd2das] - Matou o mob Porco de Guerra. GenerID: 4421
+18:07:43 : [sd2das] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+18:07:49 : [sd2das] - Matou o mob Porco de Guerra. GenerID: 4420
+18:07:49 : [sd2das] - Pontos CP subiu em 3. CP novo: 90
+18:07:49 : [sd2das] - [Mensagem do servidor]> + + + LEVEL UP + + +
+18:07:49 : [sd2das] - Level UP para level 2. Ev: 0/0 - 2121x 2043y
+18:07:53 : [sd2das] - Matou o mob Porco de Guerra. GenerID: 4422
+18:07:53 : [sd2das] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+18:07:53 : [sd2das] - Pontos CP subiu em 3. CP novo: 93
+18:07:53 : [sd2das] - [Mensagem do servidor]> + + + LEVEL UP + + +
+18:07:53 : [sd2das] - Level UP para level 3. Ev: 0/0 - 2121x 2043y
+18:07:57 : [sd2das] - Matou o mob Porco de Guerra. GenerID: 4421
+18:07:57 : [sd2das] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+18:07:57 : [sd2das] - Pontos CP subiu em 3. CP novo: 96
+18:07:57 : [sd2das] - [Mensagem do servidor]> + + + LEVEL UP + + +
+18:07:57 : [sd2das] - Level UP para level 4. Ev: 0/0 - 2118x 2042y
+18:08:04 : [sd2das] - Matou o mob Porco de Guerra. GenerID: 4421
+18:08:04 : [sd2das] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+18:08:09 : [sd2das] - Matou o mob Porco de Guerra. GenerID: 4419
+18:08:09 : [sd2das] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+18:08:09 : [sd2das] - Pontos CP subiu em 3. CP novo: 99
+18:08:09 : [sd2das] - [Mensagem do servidor]> + + + LEVEL UP + + +
+18:08:09 : [sd2das] - Level UP para level 5. Ev: 0/0 - 2120x 2042y
+18:12:54 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.186.5.89 Mac: (57:97:A2:B8:71:46). ClientId: 2
+18:12:54 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:12:54 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:12:54 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.186.5.89 Mac: (57:97:A2:B8:71:46). ClientId: 3
+18:13:06 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:13:51 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.186.5.89 Mac: (57:97:A2:B8:71:46). ClientId: 2
+18:13:51 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+18:13:51 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[  5] - Luvas[1223] [0 0 0 0 0 0]
+[ 10] - Estabilizador_de_Crescimento[3461] [61 10 0 0 0 0]
+[ 15] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[ 20] - Pedido_de_Caça(Kult)[3435] [61 8 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+18:13:52 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:13:54 : Solicitou ir ao mundo...
+18:13:54 : Recebido pedido para entrar no jogo
+18:13:54 : Recebido informação do personagem completa.
+18:13:54 : [sd2das] - [INFORMAÇÕES DA CONTA]
+Personagem online: sd2das
+Gold atual: 0
+Level atual: 5
+Experiência atual: 3680
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 0 0 0 0]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1456] [43 0 2 20 53 3]
+[01] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [99 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:13:54 : [sd2das] - Personagem sd2das enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 12
+18:13:54 : [sd2das] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 3680. Nível: 5. Info: 0. GuildID: 0. CP: 24. Pontos de Contribuição: 0. Limite: 0
+18:13:54 : [sd2das] - Enviado informações do personagem
+18:13:57 : [sd2das] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:13:57 : [sd2das] - 2 Personagem foi desconectado. Permaneceu 00:00:06 minutos online
+18:14:18 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.186.5.89 Mac: (57:97:A2:B8:71:46). ClientId: 2
+18:14:18 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+18:14:18 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[  5] - Luvas[1223] [0 0 0 0 0 0]
+[ 10] - Estabilizador_de_Crescimento[3461] [61 10 0 0 0 0]
+[ 15] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[ 20] - Pedido_de_Caça(Kult)[3435] [61 8 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+18:14:40 : Solicitou ir ao mundo...
+18:14:40 : Recebido pedido para entrar no jogo
+18:14:40 : Recebido informação do personagem completa.
+18:14:40 : [sd2das] - [INFORMAÇÕES DA CONTA]
+Personagem online: sd2das
+Gold atual: 0
+Level atual: 5
+Experiência atual: 3680
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:22 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 0 0 0 0]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1456] [43 0 2 20 53 3]
+[01] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [99 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:14:40 : [sd2das] - Personagem sd2das enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 12
+18:14:40 : [sd2das] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 3680. Nível: 5. Info: 0. GuildID: 0. CP: 24. Pontos de Contribuição: 0. Limite: 0
+18:14:40 : [sd2das] - Enviado informações do personagem
+18:14:41 : [sd2das] - Comando "/day "
+18:14:41 : [sd2das] - [Mensagem do servidor]> !#11 2
+18:14:48 : [sd2das] - Matou o mob Porco de Guerra. GenerID: 4421
+18:14:48 : [sd2das] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+18:14:48 : [sd2das] - Dropado item Calça(A) [1559] [43 1 3 15 60 4] em 2116x 2040y - Porco de Guerra (1/89)
+18:14:54 : [sd2das] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:18:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.186.5.89 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:18:08 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:18:17 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.186.5.89 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:18:17 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+18:18:17 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[  5] - Luvas[1223] [0 0 0 0 0 0]
+[ 10] - Estabilizador_de_Crescimento[3461] [61 10 0 0 0 0]
+[ 15] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[ 20] - Pedido_de_Caça(Kult)[3435] [61 8 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+18:18:17 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:18:45 : Solicitou ir ao mundo...
+18:18:45 : Recebido pedido para entrar no jogo
+18:18:45 : Recebido informação do personagem completa.
+18:18:45 : [sd2das] - [INFORMAÇÕES DA CONTA]
+Personagem online: sd2das
+Gold atual: 0
+Level atual: 5
+Experiência atual: 4210
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:28 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 0 0 0 0]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1456] [43 0 2 20 53 3]
+[01] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[02] - Calça(A)[1559] [43 1 3 15 60 4]
+[63] - Marca_do_Assassino[547] [99 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:18:45 : [sd2das] - Personagem sd2das enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 12
+18:18:45 : [sd2das] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 4210. Nível: 5. Info: 0. GuildID: 0. CP: 24. Pontos de Contribuição: 0. Limite: 0
+18:18:45 : [sd2das] - Enviado informações do personagem
+18:18:46 : [sd2das] - Comando "/day "
+18:18:46 : [sd2das] - [Mensagem do servidor]> !#11 2
+18:18:50 : [sd2das] - Matou o mob Porco de Guerra. GenerID: 4421
+18:18:50 : [sd2das] - Pontos CP subiu em 3. CP novo: 102
+18:18:50 : [sd2das] - [Mensagem do servidor]> + + + LEVEL UP + + +
+18:18:50 : [sd2das] - Level UP para level 6. Ev: 0/0 - 2112x 2042y
+18:18:55 : [sd2das] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:19:01 : [sd2das] - Matou o mob Porco de Guerra. GenerID: 4422
+18:19:01 : [sd2das] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+18:20:25 : [sd2das] - Matou o mob Porco de Guerra. GenerID: 4421
+18:20:25 : [sd2das] - Pontos CP subiu em 3. CP novo: 105
+18:20:25 : [sd2das] - [Mensagem do servidor]> + + + LEVEL UP + + +
+18:20:25 : [sd2das] - Level UP para level 7. Ev: 0/0 - 2118x 2038y
+18:20:31 : [sd2das] - Comando "/gm +set level 70"
+18:20:32 : [sd2das] - Matou o mob Porco de Guerra. GenerID: 4423
+18:20:32 : [sd2das] - Pontos CP subiu em 3. CP novo: 108
+18:20:32 : [sd2das] - [Mensagem do servidor]> + + + LEVEL UP + + +
+18:20:32 : [sd2das] - Level UP para level 71. Ev: 0/0 - 2124x 2038y
+18:20:35 : [sd2das] - Matou o mob Porco de Guerra. GenerID: 4421
+18:20:38 : [sd2das] - Matou o mob Porco de Guerra. GenerID: 4422
+18:20:39 : [sd2das] - Matou o mob Porco de Guerra. GenerID: 4420
+18:20:42 : [sd2das] - Matou o mob Porco de Guerra. GenerID: 4419
+18:48:46 : [sd2das] - [INFORMAÇÕES DA CONTA]
+Personagem online: sd2das
+Gold atual: 0
+Level atual: 71
+Experiência atual: 2080905
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:30:06 horas
+Posição atual: 2115x 2057y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 0 0 0 0]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(M)[1456] [43 0 2 20 53 3]
+[01] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[02] - Calça(A)[1559] [43 1 3 15 60 4]
+[63] - Marca_do_Assassino[547] [108 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:03:24 : [sd2das] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:03:24 : [sd2das] - 1 Personagem foi desconectado. Permaneceu 00:44:32 minutos online

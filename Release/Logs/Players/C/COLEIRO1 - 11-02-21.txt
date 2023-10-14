@@ -1,0 +1,719 @@
+
+21:52:53 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (COLEIRO1) - IP: 138.185.52.255 Mac: (ED:2D:7A:F2:3E:4B). ClientId: 2
+21:52:54 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+21:52:54 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:53:00 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (COLEIRO1) - IP: 138.185.52.255 Mac: (ED:2D:7A:F2:3E:4B). ClientId: 26
+21:53:00 : Usuário logou no jogo com clientId 26. - Servidor 1. Gold do banco: 0
+21:53:00 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+21:54:06 : Solicitou ir ao mundo...
+21:54:06 : Recebido pedido para entrar no jogo
+21:54:06 : Recebido informação do personagem completa.
+21:54:06 : [FRONTL1NE] - [INFORMAÇÕES DA CONTA]
+Personagem online: FRONTL1NE
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[02] - Robe(N)[1266] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:54:06 : [FRONTL1NE] - Personagem FRONTL1NE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. PowerLevel: 11
+21:54:06 : [FRONTL1NE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+21:54:06 : [FRONTL1NE] - Resetado a contagem de entradas água! Day: 0-41. Total: 0
+21:54:06 : [FRONTL1NE] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+21:54:06 : [FRONTL1NE] - Enviado informações do personagem
+21:54:07 : [FRONTL1NE] - Comando "/day "
+21:54:07 : [FRONTL1NE] - [Mensagem do servidor]> !#11 2
+21:54:17 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4423
+21:54:17 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 78
+21:54:17 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:54:17 : [FRONTL1NE] - Level UP para level 1. Ev: 0/0 - 2119x 2041y
+21:54:17 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 81
+21:54:17 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:54:17 : [FRONTL1NE] - Level UP para level 2. Ev: 0/0 - 2119x 2041y
+21:54:18 : [FRONTL1NE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:54:21 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4420
+21:54:21 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:54:21 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 84
+21:54:21 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:54:21 : [FRONTL1NE] - Level UP para level 3. Ev: 0/0 - 2119x 2041y
+21:54:23 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4419
+21:54:23 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 87
+21:54:23 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:54:23 : [FRONTL1NE] - Level UP para level 4. Ev: 0/0 - 2119x 2041y
+21:54:26 : [FRONTL1NE] - Clicado no NPC [Helper]. Face 230. Race: 2. GenerateId: 3421. Posição do usuário: 2130x 2032y. Posição do NPC: 2132x 2034y
+21:54:29 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4426
+21:54:29 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 90
+21:54:29 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:54:29 : [FRONTL1NE] - Level UP para level 5. Ev: 0/0 - 2133x 2033y
+21:54:29 : [FRONTL1NE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2133x 2033y - Porco de Guerra (1/30)
+21:54:30 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4426
+21:54:30 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:54:30 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 93
+21:54:30 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:54:30 : [FRONTL1NE] - Level UP para level 6. Ev: 0/0 - 2133x 2033y
+21:54:33 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4427
+21:54:33 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:54:36 : [FRONTL1NE] - Matou o mob Aguia. GenerID: 4427
+21:54:36 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:54:40 : [FRONTL1NE] - Matou o mob Aguia. GenerID: 4429
+21:54:40 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:54:40 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 96
+21:54:40 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:54:40 : [FRONTL1NE] - Level UP para level 7. Ev: 0/0 - 2132x 2032y
+21:54:40 : [FRONTL1NE] - Dropado item Elmo(A) [1106] [43 1 26 12 59 0] em 2132x 2032y - Aguia (1/30)
+21:54:42 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4434
+21:54:42 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:54:44 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4427
+21:54:44 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:54:46 : [FRONTL1NE] - Matou o mob Aguia. GenerID: 4427
+21:54:46 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:54:48 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4426
+21:54:48 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 99
+21:54:48 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:54:48 : [FRONTL1NE] - Level UP para level 8. Ev: 0/0 - 2129x 2027y
+21:54:52 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4425
+21:54:52 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:54:56 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4425
+21:54:56 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:54:57 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4427
+21:54:57 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 102
+21:54:57 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:54:57 : [FRONTL1NE] - Level UP para level 9. Ev: 0/0 - 2127x 2034y
+21:54:59 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4426
+21:54:59 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:55:02 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4423
+21:55:02 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:55:03 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4422
+21:55:03 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:55:06 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4421
+21:55:06 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 105
+21:55:06 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:55:06 : [FRONTL1NE] - Level UP para level 10. Ev: 0/0 - 2115x 2041y
+21:55:07 : [FRONTL1NE] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 4610. Posição do usuário: 2115x 2041y. Posição do NPC: 2107x 2042y
+21:55:09 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4422
+21:55:56 : [FRONTL1NE] - [Mensagem do servidor]> Não possui recursos para essa compra
+21:56:02 : [FRONTL1NE] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2106x 2109y. Posição do NPC: 2102x 2113y
+21:56:49 : [FRONTL1NE] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+21:56:54 : [FRONTL1NE] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2137x 2090y
+21:56:54 : [FRONTL1NE] - Gold atual: 0.
+21:57:00 : [FRONTL1NE] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2136x 2089y. Posição do NPC: 2144x 2080y
+21:57:31 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4419
+21:57:31 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:57:31 : [FRONTL1NE] - Dropado item Jaqueta(A) [1556] [43 0 71 60 2 18] em 2122x 2047y - Porco de Guerra (1/67)
+21:57:32 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4422
+21:57:32 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:57:37 : [FRONTL1NE] - Clicado no NPC [Helper]. Face 230. Race: 2. GenerateId: 3421. Posição do usuário: 2133x 2035y. Posição do NPC: 2132x 2034y
+21:57:41 : [FRONTL1NE] - Matou o mob Aguia. GenerID: 4434
+21:57:43 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4434
+21:57:43 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:57:46 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4427
+21:57:47 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4434
+21:57:47 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 108
+21:57:47 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:57:47 : [FRONTL1NE] - Level UP para level 11. Ev: 0/0 - 2125x 2028y
+21:57:50 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4435
+21:57:52 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4424
+21:57:52 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:57:54 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4426
+21:57:56 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4434
+21:57:56 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:57:58 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4434
+21:58:00 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4426
+21:58:00 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:58:00 : [FRONTL1NE] - Dropado item Jaqueta(A) [1556] [43 0 71 70 60 6] em 2125x 2028y - Porco de Guerra (1/67)
+21:58:03 : [FRONTL1NE] - Matou o mob Aguia. GenerID: 4434
+21:58:03 : [FRONTL1NE] - Dropado item Botas(A) [1154] [43 0 73 12 59 0] em 2125x 2028y - Aguia (1/30)
+21:58:04 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4424
+21:58:04 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 111
+21:58:04 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:04 : [FRONTL1NE] - Level UP para level 12. Ev: 0/0 - 2125x 2028y
+21:58:05 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4435
+21:58:08 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4435
+21:58:08 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:58:11 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4435
+21:58:12 : [FRONTL1NE] - Matou o mob Aguia. GenerID: 4435
+21:58:12 : [FRONTL1NE] - Dropado item Botas(A) [1565] [10 8 73 24 59 0] em 2124x 2027y - Aguia (1/30)
+21:58:14 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4434
+21:58:14 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:58:16 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4434
+21:58:16 : [FRONTL1NE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2124x 2027y - Porco de Guerra (1/30)
+21:58:18 : [FRONTL1NE] - Matou o mob Aguia. GenerID: 4434
+21:58:18 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:58:20 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4435
+21:58:22 : [FRONTL1NE] - Matou o mob Aguia. GenerID: 4435
+21:58:22 : [FRONTL1NE] - Dropado item Luvas(A) [1292] [43 1 72 15 60 4] em 2124x 2027y - Aguia (1/30)
+21:58:22 : [FRONTL1NE] - Dropado item Chapéu(A) [1403] [43 0 59 0 3 15] em 2124x 2027y - Aguia (1/30)
+21:58:24 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4435
+21:58:24 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 114
+21:58:24 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:24 : [FRONTL1NE] - Level UP para level 13. Ev: 0/0 - 2124x 2027y
+21:58:26 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4434
+21:58:28 : [FRONTL1NE] - Matou o mob Aguia. GenerID: 4434
+21:58:32 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4435
+21:58:32 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:58:34 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4434
+21:58:36 : [FRONTL1NE] - Matou o mob Aguia. GenerID: 4435
+21:58:38 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4435
+21:58:38 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:58:38 : [FRONTL1NE] - Dropado item Jaqueta(A) [1556] [43 1 71 50 60 6] em 2124x 2027y - Porco de Guerra (1/67)
+21:58:39 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4434
+21:58:40 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4425
+21:58:42 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4434
+21:58:42 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:58:44 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4435
+21:58:46 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4435
+21:58:48 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4434
+21:58:48 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 117
+21:58:48 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:48 : [FRONTL1NE] - Level UP para level 14. Ev: 0/0 - 2124x 2027y
+21:58:49 : [FRONTL1NE] - Matou o mob Aguia. GenerID: 4434
+21:58:49 : [FRONTL1NE] - Dropado item Jaqueta(A) [1556] [8 14 71 60 2 18] em 2124x 2027y - Aguia (1/30)
+21:58:51 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4426
+21:58:57 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4435
+21:58:57 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:58:58 : [FRONTL1NE] - Matou o mob Aguia. GenerID: 4435
+21:59:00 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4425
+21:59:02 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4424
+21:59:04 : [FRONTL1NE] - Matou o mob Aguia. GenerID: 4433
+21:59:04 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:59:05 : [FRONTL1NE] - Matou o mob Aguia. GenerID: 4427
+21:59:08 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4434
+21:59:12 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4425
+21:59:13 : [FRONTL1NE] - Matou o mob Porco de Guerra. GenerID: 4424
+21:59:13 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:59:16 : [FRONTL1NE] - Matou o mob Aguia. GenerID: 4428
+21:59:40 : [FRONTL1NE] - Personagem deu personagem
+21:59:43 : Solicitou ir ao mundo...
+21:59:43 : Recebido pedido para entrar no jogo
+21:59:43 : Recebido informação do personagem completa.
+21:59:43 : [FRONTL1NE] - [INFORMAÇÕES DA CONTA]
+Personagem online: FRONTL1NE
+Gold atual: 100000000
+Level atual: 14
+Experiência atual: 20145
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:06:39 horas
+Posição atual: 2111x 2041y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[02] - Robe(N)[1266] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Jaqueta(A)[1556] [43 0 71 60 2 18]
+[01] - Jaqueta(A)[1556] [43 0 71 70 60 6]
+[02] - Botas(A)[1154] [43 0 73 12 59 0]
+[03] - Botas(A)[1565] [10 8 73 24 59 0]
+[04] - Jaqueta(A)[1556] [43 1 71 50 60 6]
+[05] - Luvas(A)[1292] [43 1 72 15 60 4]
+[06] - Chapéu(A)[1403] [43 0 59 0 3 15]
+[07] - Jaqueta(A)[1556] [8 14 71 60 2 18]
+[63] - Marca_do_Assassino[547] [117 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:59:43 : [FRONTL1NE] - Personagem FRONTL1NE enviado ao mundo 2111x 2041y - Canal 1 - Cash da conta: 0. PowerLevel: 21
+21:59:43 : [FRONTL1NE] - Gold atual: 100000000. Classe: 1 Evolução: 0. Experiência: 20145. Nível: 14. Info: 0. GuildID: 0. CP: 42. Pontos de Contribuição: 0. Limite: 0
+21:59:43 : [FRONTL1NE] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+21:59:43 : [FRONTL1NE] - Enviado informações do personagem
+21:59:44 : [FRONTL1NE] - Comando "/day "
+21:59:44 : [FRONTL1NE] - [Mensagem do servidor]> !#11 2
+21:59:55 : [FRONTL1NE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:00:00 : [FRONTL1NE] - [Mensagem do servidor]: A batalha do acampamento avançado do reino foi iniciada.
+22:00:10 : [FRONTL1NE] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:00:12 : [FRONTL1NE] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:00:14 : [FRONTL1NE] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:00:18 : [FRONTL1NE] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:00:20 : [FRONTL1NE] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:00:22 : [FRONTL1NE] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:00:24 : [FRONTL1NE] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:00:25 : [FRONTL1NE] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:00:33 : [FRONTL1NE] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2141x 2086y. Posição do NPC: 2144x 2080y
+22:00:48 : [FRONTL1NE] - [Mensagem do servidor]> Composição concluída
+22:01:05 : [FRONTL1NE] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2141x 2086y. Posição do NPC: 2144x 2082y
+22:01:52 : [FRONTL1NE] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2108x 2112y. Posição do NPC: 2102x 2113y
+22:02:32 : [FRONTL1NE] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2108x 2112y. Posição do NPC: 2102x 2113y
+22:02:46 : [FRONTL1NE] - Trade com conta ADMIN4
+22:02:46 : [FRONTL1NE] - Trade - Enviado 0 de gold para o usuário
+22:02:46 : [FRONTL1NE] - Trade - Recebido 100000000 de gold do usuário
+22:02:50 : [FRONTL1NE] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2108x 2112y. Posição do NPC: 2102x 2113y
+22:02:54 : [FRONTL1NE] - [Mensagem do servidor]> Composição concluída
+22:03:01 : [FRONTL1NE] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2108x 2112y
+22:03:01 : [FRONTL1NE] - Gold atual: 0.
+22:05:26 : [FRONTL1NE] - Moveu item Botas(A) [1355] [43 9 73 30 74 18] do tipo INVENTÁRIO do slot 11 para tipo INVENTÁRIO slot 0
+22:05:29 : [FRONTL1NE] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:06:04 : [FRONTL1NE] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2114x 2109y
+22:06:04 : [FRONTL1NE] - Gold atual: 99999942.
+22:06:04 : [FRONTL1NE] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2114x 2109y
+22:06:04 : [FRONTL1NE] - Gold atual: 199999942.
+22:06:05 : [FRONTL1NE] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2114x 2109y
+22:06:05 : [FRONTL1NE] - Gold atual: 299999942.
+22:06:05 : [FRONTL1NE] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2114x 2109y
+22:06:05 : [FRONTL1NE] - Gold atual: 399999942.
+22:06:06 : [FRONTL1NE] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2114x 2109y
+22:06:06 : [FRONTL1NE] - Gold atual: 499999942.
+22:06:06 : [FRONTL1NE] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2114x 2109y
+22:06:06 : [FRONTL1NE] - Gold atual: 599999942.
+22:06:07 : [FRONTL1NE] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2114x 2109y
+22:06:07 : [FRONTL1NE] - Gold atual: 699999942.
+22:06:07 : [FRONTL1NE] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2114x 2109y
+22:06:07 : [FRONTL1NE] - Gold atual: 799999942.
+22:06:08 : [FRONTL1NE] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2114x 2109y
+22:06:08 : [FRONTL1NE] - Gold atual: 899999942.
+22:06:08 : [FRONTL1NE] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2114x 2109y
+22:06:08 : [FRONTL1NE] - Gold atual: 999999942.
+22:06:11 : [FRONTL1NE] - Item Túnica(A) deletado [1346] [43 9 2 30 71 70]. Slot 1
+22:06:12 : [FRONTL1NE] - Item Calça(A) deletado [1349] [43 9 2 30 71 70]. Slot 14
+22:06:12 : [FRONTL1NE] - Item Luvas(A) deletado [1352] [43 9 54 18 72 30]. Slot 13
+22:06:14 : [FRONTL1NE] - Item Botas(A) deletado [1355] [43 9 73 30 74 18]. Slot 0
+22:06:15 : [FRONTL1NE] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2114x 2109y
+22:06:15 : [FRONTL1NE] - Gold atual: 1099999942.
+22:06:19 : [FRONTL1NE] - Moveu item Poeira_de_Lactolerium [413] [61 240 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo INVENTÁRIO slot 16
+22:06:32 : [FRONTL1NE] - Item Baú_de_Experiência [4140] [61 240 0 0 0 0] utilizado em 2116x 2109y
+22:06:56 : [FRONTL1NE] - Item Frango_Assado [3314] [61 240 0 0 0 0] utilizado em 2111x 2104y
+22:07:01 : [FRONTL1NE] - Teleportado para a posição 960 1761
+22:07:06 : [FRONTL1NE] - Teleportado para a posição 2458 2017
+22:07:18 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:07:18 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 120
+22:07:18 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:18 : [FRONTL1NE] - Level UP para level 15. Ev: 0/0 - 2484x 2009y
+22:07:24 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:07:24 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:07:25 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:07:25 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:07:25 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 123
+22:07:25 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:25 : [FRONTL1NE] - Level UP para level 16. Ev: 0/0 - 2490x 2005y
+22:07:30 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:07:31 : [FRONTL1NE] - Matou o mob Troll. GenerID: 874
+22:07:31 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:07:32 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:07:32 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 126
+22:07:32 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:32 : [FRONTL1NE] - Level UP para level 17. Ev: 0/0 - 2489x 2012y
+22:07:33 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:07:34 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:07:34 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:07:38 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 129
+22:07:38 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:38 : [FRONTL1NE] - Level UP para level 18. Ev: 0/0 - 2491x 2010y
+22:07:40 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:07:41 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:07:43 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:07:44 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:07:44 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:07:44 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 132
+22:07:44 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:44 : [FRONTL1NE] - Level UP para level 19. Ev: 0/0 - 2491x 2010y
+22:07:47 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:07:47 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:07:50 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:07:50 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:07:52 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:07:52 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:07:53 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 135
+22:07:53 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:53 : [FRONTL1NE] - Level UP para level 20. Ev: 0/0 - 2489x 2012y
+22:07:55 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:07:55 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:07:56 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:07:56 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:07:58 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:08:06 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 138
+22:08:06 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:06 : [FRONTL1NE] - Level UP para level 21. Ev: 0/0 - 2491x 2014y
+22:08:11 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:08:11 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:08:12 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:08:14 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:08:14 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:08:15 : [FRONTL1NE] - Matou o mob Meio Orc . GenerID: 866
+22:08:15 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 141
+22:08:15 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:15 : [FRONTL1NE] - Level UP para level 22. Ev: 0/0 - 2490x 2013y
+22:08:19 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:08:20 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:08:20 : [FRONTL1NE] - Dropado item Saia(A) [1831] [43 1 71 30 2 12] em 2487x 2010y - Orc Cavaleiro (1/300)
+22:08:20 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:08:22 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:08:22 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:08:23 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:08:24 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 144
+22:08:24 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:24 : [FRONTL1NE] - Level UP para level 23. Ev: 0/0 - 2489x 2012y
+22:08:27 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:08:31 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:08:31 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:08:32 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:08:32 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:08:33 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:08:33 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 147
+22:08:33 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:33 : [FRONTL1NE] - Level UP para level 24. Ev: 0/0 - 2489x 2012y
+22:08:34 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:08:34 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:08:40 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:08:41 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 876
+22:08:41 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:08:43 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:08:43 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:08:47 : [FRONTL1NE] - Pontos CP subiu em 3. CP novo: 150
+22:08:47 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:47 : [FRONTL1NE] - Level UP para level 25. Ev: 0/0 - 2488x 2011y
+22:08:49 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:08:52 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:08:54 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:08:55 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:08:55 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:08:58 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:08:58 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:09:00 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:09:00 : [FRONTL1NE] - Level UP para level 26. Ev: 0/0 - 2489x 2012y
+22:09:04 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:09:05 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:09:07 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:09:07 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:09:09 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:09:10 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:09:10 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:09:11 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:09:11 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:09:11 : [FRONTL1NE] - Level UP para level 27. Ev: 0/0 - 2490x 2013y
+22:09:14 : [FRONTL1NE] - Matou o mob Meio Orc . GenerID: 866
+22:09:16 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:09:19 : [FRONTL1NE] - Matou o mob Meio Orc . GenerID: 866
+22:09:19 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:09:22 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:09:24 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:09:29 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:09:29 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:09:29 : [FRONTL1NE] - Level UP para level 28. Ev: 0/0 - 2489x 2014y
+22:09:31 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:09:32 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:09:33 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:09:36 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:09:37 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:09:38 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:09:41 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:09:43 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:09:44 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:09:44 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:09:44 : [FRONTL1NE] - Level UP para level 29. Ev: 0/0 - 2489x 2012y
+22:09:44 : [FRONTL1NE] - Recebeu o item Luvas(M) [1297] [43 0 2 20 53 3]. STR: 5. INT: 8. DEX: 5. CON: 5
+22:09:45 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:09:45 : [FRONTL1NE] - Dropado item Botas(N) [1563] [43 2 73 6 59 0] em 2489x 2012y - Orc Cavaleiro (1/600)
+22:09:46 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:09:47 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:09:53 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:09:55 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:09:58 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:10:04 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:10:07 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:10:09 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:10:09 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:10:09 : [FRONTL1NE] - Level UP para level 30. Ev: 0/0 - 2489x 2012y
+22:10:11 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:10:12 : [FRONTL1NE] - Matou o mob Troll. GenerID: 874
+22:10:15 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:10:15 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:10:17 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:10:19 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 876
+22:10:21 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:10:24 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:10:24 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:10:26 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:10:27 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:10:32 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:10:34 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:10:34 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:10:37 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:10:49 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:10:54 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:10:56 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:10:57 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:10:57 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:10:57 : [FRONTL1NE] - Level UP para level 31. Ev: 0/0 - 2489x 2012y
+22:11:00 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:11:02 : [FRONTL1NE] - Matou o mob Meio Orc . GenerID: 866
+22:11:02 : [FRONTL1NE] - Dropado item Luvas(A) [1835] [43 1 72 15 59 0] em 2490x 2013y - Meio Orc  (1/135)
+22:11:04 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:11:04 : [FRONTL1NE] - Dropado item Botas(N) [1563] [43 1 73 18 60 4] em 2491x 2014y - Orc Cavaleiro (1/600)
+22:11:06 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:11:06 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:11:08 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:11:13 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:11:15 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 876
+22:11:15 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:11:18 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:11:20 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:11:20 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:11:20 : [FRONTL1NE] - Level UP para level 32. Ev: 0/0 - 2489x 2012y
+22:11:22 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:11:24 : [FRONTL1NE] - Matou o mob Meio Orc . GenerID: 866
+22:11:26 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:11:27 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 876
+22:11:27 : [FRONTL1NE] - Dropado item Lança [988] [43 0 74 12 59 0] em 2490x 2011y - Orc Cavaleiro (1/300)
+22:11:31 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:11:31 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:11:33 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:11:34 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:11:37 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:11:42 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:11:44 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:11:49 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:11:49 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:11:52 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:11:56 : [FRONTL1NE] - Matou o mob Troll. GenerID: 874
+22:11:58 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:12:01 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:12:01 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:12:04 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:12:06 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:12:11 : [FRONTL1NE] - Matou o mob Meio Orc . GenerID: 866
+22:12:16 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:12:19 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:12:21 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:12:21 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:12:21 : [FRONTL1NE] - Level UP para level 33. Ev: 0/0 - 2489x 2012y
+22:12:23 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:12:25 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:12:27 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:12:32 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:12:34 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:12:35 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:12:36 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:12:37 : [FRONTL1NE] - Matou o mob Meio Orc . GenerID: 866
+22:12:37 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:12:37 : [FRONTL1NE] - Level UP para level 34. Ev: 0/0 - 2488x 2013y
+22:12:37 : [FRONTL1NE] - Recebeu o item Botas(M) [1309] [43 0 73 18 74 12]. STR: 5. INT: 8. DEX: 5. CON: 5
+22:12:40 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:12:42 : [FRONTL1NE] - Matou o mob Troll. GenerID: 874
+22:12:42 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:12:42 : [FRONTL1NE] - Dropado item Botas(M) [1159] [43 0 73 6 59 0] em 2489x 2012y - Troll (1/70)
+22:12:44 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:12:45 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:12:46 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:12:48 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:12:52 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:12:55 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:12:55 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:12:55 : [FRONTL1NE] - Level UP para level 35. Ev: 0/0 - 2490x 2013y
+22:12:55 : [FRONTL1NE] - Recebeu o item Poeira_de_Lactolerium [413] [61 10 0 0 0 0]. STR: 5. INT: 8. DEX: 5. CON: 5
+22:13:00 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:13:07 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:13:08 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:13:09 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:13:09 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:13:10 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:13:19 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:13:19 : [FRONTL1NE] - Dropado item Botas(A) [2055] [43 0 73 6 60 4] em 2489x 2012y - Meio Orc (1/300)
+22:13:21 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:13:24 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:13:29 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:13:31 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:13:34 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:13:34 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:13:34 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:13:35 : [FRONTL1NE] - Matou o mob Troll. GenerID: 874
+22:13:37 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:13:43 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:13:44 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:13:46 : [FRONTL1NE] - Matou o mob Troll. GenerID: 874
+22:13:46 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:13:46 : [FRONTL1NE] - Level UP para level 36. Ev: 0/0 - 2489x 2012y
+22:13:53 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:13:56 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:13:58 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:13:59 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:14:05 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:14:08 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:14:09 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:14:15 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:14:17 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:14:19 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:14:19 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:14:19 : [FRONTL1NE] - Level UP para level 37. Ev: 0/0 - 2489x 2012y
+22:14:21 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:14:22 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:14:23 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:14:32 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:14:32 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:14:40 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:14:42 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:14:43 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:14:44 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:14:45 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:14:46 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:14:46 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:14:49 : [FRONTL1NE] - Matou o mob Meio Orc . GenerID: 866
+22:14:49 : [FRONTL1NE] - Dropado item Resto_de_Lactolerium [420] [59 8 59 101 59 32] em 2486x 2015y - Meio Orc  (1/2520)
+22:14:55 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:14:56 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:14:57 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:14:58 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:14:59 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:15:07 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:15:08 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:15:10 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:15:10 : [FRONTL1NE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:15:10 : [FRONTL1NE] - Level UP para level 38. Ev: 0/0 - 2490x 2010y
+22:15:17 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:15:20 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:15:22 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:15:29 : [FRONTL1NE] - Matou o mob Troll. GenerID: 874
+22:15:29 : [FRONTL1NE] - Dropado item Elmo(M) [2152] [43 2 60 4 59 0] em 2491x 2014y - Troll (1/70)
+22:15:31 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:15:33 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:15:34 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:15:35 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:15:35 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:15:38 : [FRONTL1NE] - Matou o mob Meio Orc . GenerID: 866
+22:15:41 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:15:44 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:15:45 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:15:46 : [FRONTL1NE] - Matou o mob Troll. GenerID: 874
+22:15:48 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:15:50 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:15:51 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:15:51 : [FRONTL1NE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:15:55 : [FRONTL1NE] - Matou o mob Meio Orc . GenerID: 866
+22:15:58 : [FRONTL1NE] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:15:59 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 875
+22:16:05 : [FRONTL1NE] - Matou o mob Meio Orc. GenerID: 873
+22:16:07 : [FRONTL1NE] - Matou o mob Troll. GenerID: 874
+22:16:07 : [FRONTL1NE] - Dropado item Lança [847] [43 1 74 3 59 0] em 2489x 2012y - Troll (1/300)
+22:16:21 : [FRONTL1NE] - Teleportado para a posição 2117 2102
+22:18:14 : [FRONTL1NE] - Teleportado para a posição 960 1761
+22:25:44 : [FRONTL1NE] - [Mensagem do servidor]: Mob foi derrotado por Nikows
+22:29:44 : [FRONTL1NE] - [INFORMAÇÕES DA CONTA]
+Personagem online: FRONTL1NE
+Gold atual: 1199994532
+Level atual: 38
+Experiência atual: 327013
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:36:19 horas
+Posição atual: 959x 1758y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[02] - Robe(N)[1266] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Frango_Assado[3314] [61 239 0 0 0 0]
+[01] - Saia(A)[1831] [43 1 71 30 2 12]
+[02] - Luvas(M)[1297] [43 0 2 20 53 3]
+[03] - Botas(N)[1563] [43 2 73 6 59 0]
+[04] - Luvas(A)[1835] [43 1 72 15 59 0]
+[05] - Botas(N)[1563] [43 1 73 18 60 4]
+[06] - Lança[988] [43 0 74 12 59 0]
+[07] - Botas(M)[1309] [43 0 73 18 74 12]
+[08] - Botas(M)[1159] [43 0 73 6 59 0]
+[09] - Poeira_de_Lactolerium[413] [61 10 0 0 0 0]
+[10] - Botas(A)[2055] [43 0 73 6 60 4]
+[11] - Resto_de_Lactolerium[420] [59 8 59 101 59 32]
+[12] - Elmo(M)[2152] [43 2 60 4 59 0]
+[13] - Lança[847] [43 1 74 3 59 0]
+[15] - Cajado[900] [60 20 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[17] - Poeira_de_Oriharucon[412] [61 240 0 0 0 0]
+[18] - Baú_de_Experiência[4140] [61 239 0 0 0 0]
+[19] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[20] - Pergaminho_da_Água(N)LV1[3173] [61 240 0 0 0 0]
+[21] - Pergaminho_da_Água(M)LV1[777] [61 240 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:30:00 : [FRONTL1NE] - [Mensagem do servidor]: A batalha de acampamento avançado do reino foi finalizada
+22:36:47 : [FRONTL1NE] - [Mensagem do servidor]> Servidor entrando em manutenção...
+22:36:47 : [FRONTL1NE] - 26 Personagem foi desconectado. Permaneceu 00:43:17 minutos online
+22:54:20 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (COLEIRO1) - IP: 138.185.52.239 Mac: (ED:2D:7A:F2:3E:4B). ClientId: 1
+22:54:20 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+22:54:20 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:54:25 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (COLEIRO1) - IP: 138.185.52.239 Mac: (ED:2D:7A:F2:3E:4B). ClientId: 3
+22:54:25 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+22:54:25 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:54:26 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (COLEIRO1) - IP: 138.185.52.239 Mac: (ED:2D:7A:F2:3E:4B). ClientId: 3
+22:54:26 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+22:54:26 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:54:32 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (COLEIRO1) - IP: 138.185.52.192 Mac: (ED:2D:7A:F2:3E:4B). ClientId: 1
+22:54:32 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+22:54:32 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:54:34 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (COLEIRO1) - IP: 138.185.52.192 Mac: (ED:2D:7A:F2:3E:4B). ClientId: 1
+22:54:34 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+22:54:34 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:54:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (COLEIRO1) - IP: 138.185.52.192 Mac: (ED:2D:7A:F2:3E:4B). ClientId: 3
+22:54:36 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+22:54:36 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:54:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (COLEIRO1) - IP: 138.185.52.255 Mac: (ED:2D:7A:F2:3E:4B). ClientId: 3
+22:54:40 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+22:54:40 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online

@@ -1,0 +1,1097 @@
+
+14:40:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+14:40:36 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+14:40:36 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+14:40:36 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:40:47 : Solicitou ir ao mundo...
+14:40:47 : Recebido pedido para entrar no jogo
+14:40:47 : Recebido informação do personagem completa.
+14:40:47 : [Teste-hunter] - [INFORMAÇÕES DA CONTA]
+Personagem online: Teste-hunter
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:12 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 0 0 0 0 0]
+[03] - Calça(N)[1572] [43 0 0 0 0 0]
+[04] - Braçadeira(N)[1575] [43 0 0 0 0 0]
+[05] - Botas(N)[1578] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:40:47 : [Teste-hunter] - Personagem Teste-hunter enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 127426. OverPower: 0
+14:40:47 : [Teste-hunter] - Gold atual: 0. Classe: 3 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+14:40:47 : [Teste-hunter] - Resetado a contagem de entradas água! Day: 0-1. Total: 0
+14:40:47 : [Teste-hunter] - Enviado informações do personagem
+14:40:48 : [Teste-hunter] - Comando "/day "
+14:40:48 : [Teste-hunter] - [Mensagem do servidor]> !#11 2
+14:40:53 : [Teste-hunter] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:40:54 : [Teste-hunter] - Matou o mob Porco de Guerra. GenerID: 4421
+14:40:54 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 78
+14:40:54 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:40:54 : [Teste-hunter] - Level UP para level 1. Ev: 0 - 2112x 2042y
+14:41:00 : [Teste-hunter] - Comando "/gm +set coin 1000000"
+14:41:00 : [Teste-hunter] - [Mensagem do servidor]> Gold setado para: 1000000.
+14:41:05 : [Teste-hunter] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+14:41:08 : [Teste-hunter] - Comprou o item Skeleton_Bow [943] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 11500. Imposto: 1500. Gold: 1000000 anterior. Gold após a compra: 988500
+14:41:10 : [Teste-hunter] - Moveu item Skeleton_Bow [943] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 6
+14:41:12 : [Teste-hunter] - Matou o mob Porco de Guerra. GenerID: 4421
+14:41:12 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 81
+14:41:12 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:41:12 : [Teste-hunter] - Level UP para level 2. Ev: 0 - 2116x 2038y
+14:41:12 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 84
+14:41:12 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:41:12 : [Teste-hunter] - Level UP para level 3. Ev: 0 - 2116x 2038y
+14:41:15 : [Teste-hunter] - Matou o mob Porco de Guerra. GenerID: 4426
+14:41:15 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:41:17 : [Teste-hunter] - Matou o mob Porco de Guerra. GenerID: 4435
+14:41:17 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 87
+14:41:17 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:41:17 : [Teste-hunter] - Level UP para level 4. Ev: 0 - 2126x 2028y
+14:41:17 : [Teste-hunter] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+14:41:18 : [Teste-hunter] - Matou o mob Aguia. GenerID: 4435
+14:41:18 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:41:18 : [Teste-hunter] - Dropado item Botas(A) [1154] [43 0 73 18 60 6] em 2123x 2028y - Aguia (1/30)
+14:41:19 : [Teste-hunter] - Matou o mob Aguia. GenerID: 4437
+14:41:19 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 90
+14:41:19 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:41:19 : [Teste-hunter] - Level UP para level 5. Ev: 0 - 2116x 2025y
+14:41:21 : [Teste-hunter] - Matou o mob Porco de Guerra. GenerID: 4439
+14:41:21 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:41:25 : [Teste-hunter] - Matou o mob Krill. GenerID: 4443
+14:41:25 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:41:25 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 93
+14:41:25 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:41:25 : [Teste-hunter] - Level UP para level 6. Ev: 0 - 2095x 2023y
+14:41:26 : [Teste-hunter] - Matou o mob Porco de Guerra. GenerID: 4440
+14:41:26 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:41:27 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 4443
+14:41:28 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 4443
+14:41:28 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 96
+14:41:28 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:41:28 : [Teste-hunter] - Level UP para level 7. Ev: 0 - 2094x 2024y
+14:41:30 : [Teste-hunter] - Matou o mob Krill. GenerID: 4442
+14:41:30 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:41:32 : [Teste-hunter] - Matou o mob Krill. GenerID: 4445
+14:41:32 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:41:32 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 99
+14:41:32 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:41:32 : [Teste-hunter] - Level UP para level 8. Ev: 0 - 2083x 2025y
+14:41:33 : [Teste-hunter] - Matou o mob Krill. GenerID: 4444
+14:41:33 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:41:33 : [Teste-hunter] - Dropado item Poção_de_Mana [405] [0 0 0 0 0 0] em 2083x 2025y - Krill (1/30)
+14:41:34 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 4444
+14:41:34 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:41:39 : [Teste-hunter] - Matou o mob Gremlin Artif. GenerID: 4449
+14:41:39 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 102
+14:41:39 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:41:39 : [Teste-hunter] - Level UP para level 9. Ev: 0 - 2078x 2023y
+14:41:39 : [Teste-hunter] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2078x 2023y - Gremlin Artif (1/1)
+14:41:40 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 4442
+14:41:44 : [Teste-hunter] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2076x 2018y. Posição do NPC: 2080x 2018y
+14:41:44 : [Teste-hunter] - [Mensagem do servidor]> Recebeu Poção de Cura como recompensa.
+14:41:54 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 4459
+14:41:54 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:41:56 : [Teste-hunter] - Matou o mob Serpente. GenerID: 4461
+14:41:56 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:42:14 : [Teste-hunter] - Matou o mob Krill Gigante. GenerID: 4476
+14:42:14 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 105
+14:42:14 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:42:14 : [Teste-hunter] - Level UP para level 10. Ev: 0 - 2141x 2001y
+14:42:14 : [Teste-hunter] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2141x 2001y - Krill Gigante (1/1)
+14:42:15 : [Teste-hunter] - Matou o mob Rei Gremlin  . GenerID: 4471
+14:42:15 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:42:16 : [Teste-hunter] - Matou o mob Rei Gremlin  . GenerID: 4473
+14:42:16 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:42:16 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 108
+14:42:16 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:42:16 : [Teste-hunter] - Level UP para level 11. Ev: 0 - 2141x 2001y
+14:42:18 : [Teste-hunter] - Clicado no NPC [Treinador2]. Face 60. Race: 8. GenerateId: 4409. Posição do usuário: 2144x 1995y. Posição do NPC: 2142x 1990y
+14:42:18 : [Teste-hunter] - [Mensagem do servidor]> Como recompensa foi atribuída uma opção adicional em sua arma.
+14:42:28 : [Teste-hunter] - Matou o mob Krill. GenerID: 4477
+14:42:28 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:42:29 : [Teste-hunter] - Matou o mob Krill. GenerID: 4477
+14:42:29 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:42:31 : [Teste-hunter] - Matou o mob Rei Gremlin  . GenerID: 4477
+14:42:31 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:42:39 : [Teste-hunter] - Matou o mob Rei Gremlin  . GenerID: 4485
+14:42:39 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 111
+14:42:39 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:42:39 : [Teste-hunter] - Level UP para level 12. Ev: 0 - 2106x 1975y
+14:42:41 : [Teste-hunter] - Matou o mob Rei Gremlin  . GenerID: 4487
+14:42:41 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:42:43 : [Teste-hunter] - Matou o mob Krill. GenerID: 4489
+14:42:46 : [Teste-hunter] - Matou o mob Rei Gremlin  . GenerID: 4493
+14:42:46 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:42:47 : [Teste-hunter] - Matou o mob Chefe Krill . GenerID: 4493
+14:42:47 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 114
+14:42:47 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:42:47 : [Teste-hunter] - Level UP para level 13. Ev: 0 - 2087x 1976y
+14:42:48 : [Teste-hunter] - Matou o mob Rei Gremlin  . GenerID: 4493
+14:42:48 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:42:49 : [Teste-hunter] - Matou o mob Rei Gremlin  . GenerID: 4490
+14:42:49 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:43:01 : [Teste-hunter] - Matou o mob Orc Sniper. GenerID: 4494
+14:43:01 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 117
+14:43:01 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:43:01 : [Teste-hunter] - Level UP para level 14. Ev: 0 - 2079x 1973y
+14:43:01 : [Teste-hunter] - Dropado item Chave_da_Ultima_Porta [453] [0 0 0 0 0 0] em 2079x 1973y - Orc Sniper (1/1)
+14:43:04 : [Teste-hunter] - Clicado no NPC [Treinador3]. Face 60. Race: 8. GenerateId: 4410. Posição do usuário: 2080x 1968y. Posição do NPC: 2078x 1966y
+14:43:04 : [Teste-hunter] - [Mensagem do servidor]> Como recompensa a sua arma e armadura foram refinadas.
+14:43:07 : [Teste-hunter] - Moveu item Aranha [2360] [88 27 1 20 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 14
+14:43:12 : [Teste-hunter] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3423. Posição do usuário: 2082x 1955y. Posição do NPC: 2080x 1945y
+14:43:16 : [Teste-hunter] - Matou o mob Chefe Krill . GenerID: 4499
+14:43:16 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:43:17 : [Teste-hunter] - Matou o mob Rei Gremlin  . GenerID: 4501
+14:43:17 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:43:18 : [Teste-hunter] - Matou o mob Chefe Krill . GenerID: 4501
+14:43:18 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:43:20 : [Teste-hunter] - Matou o mob Chefe Krill . GenerID: 4503
+14:43:20 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 120
+14:43:20 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:43:20 : [Teste-hunter] - Level UP para level 15. Ev: 0 - 2116x 1942y
+14:43:22 : [Teste-hunter] - Matou o mob Rei Gremlin  . GenerID: 4508
+14:43:22 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:43:23 : [Teste-hunter] - Matou o mob Chefe Krill . GenerID: 4506
+14:43:23 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:43:25 : [Teste-hunter] - Matou o mob Rei Gremlin  . GenerID: 4509
+14:43:32 : [Teste-hunter] - Matou o mob Orc Guerreiro  . GenerID: 4514
+14:43:32 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:43:32 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 123
+14:43:32 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:43:32 : [Teste-hunter] - Level UP para level 16. Ev: 0 - 2134x 1946y
+14:43:32 : [Teste-hunter] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2134x 1946y - Orc Guerreiro   (1/1)
+14:43:41 : [Teste-hunter] - Comando "/gm +armia"
+14:43:41 : [Teste-hunter] - Teleportado para a posição 2100 2100
+14:43:57 : [Teste-hunter] - Clicado no NPC [Chefe de Treino]. Face 60. Race: 8. GenerateId: 4411. Posição do usuário: 2114x 2047y. Posição do NPC: 2114x 2042y
+14:43:57 : [Teste-hunter] - [Mensagem do servidor]> Recebeu a recompensa da Quest.
+14:43:57 : [Teste-hunter] - Teleportado para a posição 2100 2100
+14:44:00 : [Teste-hunter] - [Mensagem do servidor]> Ativação concluída
+14:44:00 : [Teste-hunter] - Aplicado tempo no item Lobo_Polar [3980] [96 5 1 21 0 0] - 5
+14:45:24 : [Teste-hunter] - Teleportado para a posição 2590 2099
+14:45:24 : [Teste-hunter] - Solicitado teleporte na posição 2142x 2071y e teleportado para 2590x 2099y
+14:45:30 : [Teste-hunter] - Matou o mob Troll Mago. GenerID: 1205
+14:45:30 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:45:37 : [Teste-hunter] - Matou o mob Troll Mago . GenerID: 1204
+14:45:44 : [Teste-hunter] - Matou o mob Troll Mago. GenerID: 1195
+14:45:44 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:45:44 : [Teste-hunter] - Dropado item Luvas(A) [1145] [43 0 72 20 54 15] em 2583x 2108y - Troll Mago (1/300)
+14:45:51 : [Teste-hunter] - Matou o mob Troll Mago. GenerID: 1205
+14:45:51 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 126
+14:45:51 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:45:51 : [Teste-hunter] - Level UP para level 17. Ev: 0 - 2583x 2108y
+14:45:52 : [Teste-hunter] - Comando "/gm +armia"
+14:45:52 : [Teste-hunter] - Teleportado para a posição 2100 2100
+14:45:58 : [Teste-hunter] - Clicado no NPC [Kibita]. Face 102. Race: 10. GenerateId: 3288. Posição do usuário: 2132x 2104y. Posição do NPC: 2135x 2105y
+14:46:10 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 425
+14:46:10 : [Teste-hunter] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2194x 2101y - Gremlin (1/30)
+14:46:13 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 419
+14:46:14 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 427
+14:46:18 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 427
+14:46:19 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 419
+14:46:20 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 426
+14:46:21 : [Teste-hunter] - Matou o mob Gremlin . GenerID: 434
+14:46:22 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 436
+14:46:24 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 435
+14:46:24 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:46:25 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 428
+14:46:33 : [Teste-hunter] - Matou o mob Krill . GenerID: 482
+14:46:35 : [Teste-hunter] - Matou o mob Krill. GenerID: 487
+14:46:37 : [Teste-hunter] - Matou o mob Krill. GenerID: 494
+14:46:39 : [Teste-hunter] - Matou o mob Krill. GenerID: 502
+14:46:39 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:46:41 : [Teste-hunter] - Matou o mob Krill. GenerID: 500
+14:46:43 : [Teste-hunter] - Matou o mob Krill. GenerID: 500
+14:46:44 : [Teste-hunter] - Matou o mob Krill. GenerID: 494
+14:46:45 : [Teste-hunter] - Matou o mob Krill. GenerID: 508
+14:46:45 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:46:46 : [Teste-hunter] - Matou o mob Krill . GenerID: 509
+14:46:46 : [Teste-hunter] - Dropado item Calça(A) [1809] [43 0 71 10 59 0] em 2263x 2110y - Krill  (1/67)
+14:46:47 : [Teste-hunter] - Matou o mob Krill. GenerID: 502
+14:46:47 : [Teste-hunter] - Dropado item Calça(N) [1557] [43 0 71 40 59 0] em 2264x 2109y - Krill (1/67)
+14:46:48 : [Teste-hunter] - Matou o mob Krill . GenerID: 501
+14:46:54 : [Teste-hunter] - Matou o mob Krill. GenerID: 508
+14:46:54 : [Teste-hunter] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3426. Posição do usuário: 2277x 2112y. Posição do NPC: 2278x 2119y
+14:46:55 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 514
+14:46:55 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 129
+14:46:55 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:46:55 : [Teste-hunter] - Level UP para level 18. Ev: 0 - 2277x 2112y
+14:46:56 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 518
+14:46:57 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 519
+14:46:59 : [Teste-hunter] - Matou o mob Krill. GenerID: 519
+14:46:59 : [Teste-hunter] - Dropado item Poção_de_Mana [405] [0 0 0 0 0 0] em 2280x 2115y - Krill (1/30)
+14:47:01 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 519
+14:47:03 : [Teste-hunter] - Matou o mob Krill. GenerID: 518
+14:47:05 : [Teste-hunter] - Matou o mob Krill. GenerID: 518
+14:47:05 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:47:06 : [Teste-hunter] - Matou o mob Krill. GenerID: 519
+14:47:07 : [Teste-hunter] - Matou o mob Krill. GenerID: 519
+14:47:08 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 519
+14:47:09 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 518
+14:47:09 : [Teste-hunter] - Dropado item Luvas(N) [1560] [43 1 72 10 59 0] em 2285x 2114y - Gremlin (1/67)
+14:47:10 : [Teste-hunter] - Matou o mob Krill. GenerID: 524
+14:47:13 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 524
+14:47:13 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:47:13 : [Teste-hunter] - Dropado item Luvas(N) [1560] [9 15 72 10 2 18] em 2292x 2111y - Gremlin (1/67)
+14:47:16 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 539
+14:47:18 : [Teste-hunter] - Matou o mob Javali. GenerID: 538
+14:47:18 : [Teste-hunter] - Dropado item Luvas(A) [1814] [10 9 72 10 74 6] em 2306x 2113y - Javali (1/90)
+14:47:19 : [Teste-hunter] - Matou o mob Javali. GenerID: 550
+14:47:20 : [Teste-hunter] - Matou o mob Krill. GenerID: 524
+14:47:20 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:47:21 : [Teste-hunter] - Matou o mob Gremlin. GenerID: 524
+14:47:24 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 557
+14:47:26 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 551
+14:47:28 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 558
+14:47:29 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 559
+14:47:31 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 558
+14:47:31 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 132
+14:47:31 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:47:31 : [Teste-hunter] - Level UP para level 19. Ev: 0 - 2328x 2103y
+14:47:33 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 569
+14:47:35 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 563
+14:47:38 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 565
+14:47:42 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 573
+14:47:43 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 569
+14:47:46 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:47:46 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:47:47 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:47:48 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:47:50 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:47:51 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:47:52 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:47:53 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:47:53 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:47:54 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:47:55 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:47:56 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 573
+14:47:57 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:47:57 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:47:58 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:48:00 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:48:02 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:48:04 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+14:48:05 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+14:48:05 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 135
+14:48:05 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:48:05 : [Teste-hunter] - Level UP para level 20. Ev: 0 - 2361x 2096y
+14:48:06 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:48:07 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:48:09 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:48:10 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:48:11 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:48:11 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:48:12 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:48:13 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:48:13 : [Teste-hunter] - Dropado item Garra [832] [54 10 74 9 74 9] em 2361x 2096y - Rei Gremlin (1/300)
+14:48:14 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+14:48:15 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:48:16 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:48:16 : [Teste-hunter] - Dropado item Arco [817] [43 0 59 0 2 9] em 2361x 2096y - Rei Gremlin (1/300)
+14:48:17 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:48:18 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:48:18 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:48:20 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:48:29 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:48:32 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:48:34 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:48:35 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:48:35 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:48:38 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:48:38 : [Teste-hunter] - Dropado item Robe(A) [1822] [43 1 59 0 59 0] em 2365x 2105y - Javali (1/90)
+14:48:39 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:48:40 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:48:41 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:48:42 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:48:42 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 138
+14:48:42 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:48:42 : [Teste-hunter] - Level UP para level 21. Ev: 0 - 2367x 2107y
+14:48:43 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:48:44 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:48:46 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:48:49 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:48:51 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:48:52 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:48:53 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:48:53 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:48:54 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:48:55 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:48:56 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:48:57 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:48:58 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:48:59 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:49:00 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:49:00 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:49:02 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:49:05 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:49:06 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:49:09 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:49:10 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:49:11 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:49:11 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:49:12 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:49:13 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:49:14 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:49:14 : [Teste-hunter] - Dropado item Calça(A) [1127] [43 0 71 50 60 6] em 2367x 2101y - Rei Gremlin (1/90)
+14:49:16 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:49:17 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:49:17 : [Teste-hunter] - Dropado item Âmago_de_Javali [2391] [0 0 0 0 0 0] em 2368x 2100y - Javali (1/300)
+14:49:18 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:49:19 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:49:19 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 141
+14:49:19 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:49:19 : [Teste-hunter] - Level UP para level 22. Ev: 0 - 2368x 2100y
+14:49:20 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:49:22 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:49:23 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:49:25 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:49:26 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:49:27 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:49:27 : [Teste-hunter] - Dropado item Robe(A) [1822] [43 1 60 8 59 0] em 2367x 2099y - Javali (1/90)
+14:49:28 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:49:29 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:49:29 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:49:30 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:49:32 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:49:33 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:49:34 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:49:38 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:49:39 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:49:39 : [Teste-hunter] - Dropado item Âmago_de_Javali [2391] [0 0 0 0 0 0] em 2367x 2102y - Javali (1/300)
+14:49:42 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:49:42 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:49:44 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:49:45 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:49:46 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:49:46 : [Teste-hunter] - Dropado item Luvas(A) [1834] [43 0 72 10 54 15] em 2365x 2104y - Javali (1/90)
+14:49:50 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+14:49:51 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+14:49:53 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 608
+14:49:54 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 608
+14:49:54 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:49:55 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:49:56 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:50:00 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+14:50:01 : [Teste-hunter] - Matou o mob Lobo. GenerID: 607
+14:50:03 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+14:50:04 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+14:50:07 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 608
+14:50:08 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 606
+14:50:08 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 144
+14:50:08 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:50:08 : [Teste-hunter] - Level UP para level 23. Ev: 0 - 2368x 2084y
+14:50:11 : [Teste-hunter] - Matou o mob Lobo. GenerID: 607
+14:50:12 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:50:13 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:50:15 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:50:16 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:50:17 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:50:18 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+14:50:19 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+14:50:26 : [Teste-hunter] - Matou o mob Lobo. GenerID: 607
+14:50:26 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:50:29 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 586
+14:50:30 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 586
+14:50:31 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 584
+14:50:32 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:50:34 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:50:35 : [Teste-hunter] - Matou o mob Javali. GenerID: 584
+14:50:39 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 585
+14:50:40 : [Teste-hunter] - Matou o mob Javali. GenerID: 585
+14:50:40 : [Teste-hunter] - Dropado item Âmago_de_Javali [2391] [0 0 0 0 0 0] em 2367x 2076y - Javali (1/300)
+14:50:41 : [Teste-hunter] - Matou o mob Javali. GenerID: 585
+14:50:41 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:50:42 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 586
+14:50:43 : [Teste-hunter] - Matou o mob Javali. GenerID: 584
+14:50:45 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 606
+14:50:46 : [Teste-hunter] - Matou o mob Javali. GenerID: 585
+14:50:48 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 585
+14:50:50 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 584
+14:50:52 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 583
+14:50:53 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 585
+14:50:53 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:50:54 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 585
+14:50:56 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 586
+14:50:57 : [Teste-hunter] - Matou o mob Javali. GenerID: 585
+14:51:02 : [Teste-hunter] - Matou o mob Lobo. GenerID: 605
+14:51:07 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 586
+14:51:08 : [Teste-hunter] - Matou o mob Javali. GenerID: 585
+14:51:09 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 585
+14:51:14 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+14:51:16 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 608
+14:51:16 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 147
+14:51:16 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:51:16 : [Teste-hunter] - Level UP para level 24. Ev: 0 - 2376x 2095y
+14:51:19 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 608
+14:51:20 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:51:21 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:51:23 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 601
+14:51:25 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:51:26 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:51:27 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:51:29 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:51:30 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:51:31 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 601
+14:51:31 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:51:32 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:51:33 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:51:34 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:51:36 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:51:37 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:51:39 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:51:40 : [Teste-hunter] - Comando "/gm +item 4140"
+14:51:40 : [Teste-hunter] - [Mensagem do servidor]> Criou o item Baú_de_Experiência
+14:51:40 : [Teste-hunter] - Teste-hunter criou o item Baú_de_Experiência [4140] [0 0 0 0 0 0]
+14:51:41 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:51:42 : [Teste-hunter] - Item Baú_de_Experiência [4140] [0 0 0 0 0 0] utilizado em 2359x 2108y
+14:51:43 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:51:43 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:51:44 : [Teste-hunter] - Agrupando o item Âmago_de_Javali [2391] [0 0 0 0 0 0] com o item Âmago_de_Javali [2391] [0 0 0 0 0 0]
+14:51:44 : [Teste-hunter] - O agrupamento foi efetuado de slot 21 tipo INVENTÁRIO para slot 23 tipo INVENTÁRIO
+14:51:45 : [Teste-hunter] - Agrupando o item Âmago_de_Javali [2391] [61 2 0 0 0 0] com o item Âmago_de_Javali [2391] [0 0 0 0 0 0]
+14:51:45 : [Teste-hunter] - O agrupamento foi efetuado de slot 23 tipo INVENTÁRIO para slot 19 tipo INVENTÁRIO
+14:51:45 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:51:47 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:51:48 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:51:49 : [Teste-hunter] - Moveu item Lobo_Polar [3980] [96 5 1 21 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 14
+14:51:50 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:51:51 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:51:51 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:51:52 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:51:54 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:51:56 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:51:57 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:52:00 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:52:00 : [Teste-hunter] - Pontos CP subiu em 3. CP novo: 150
+14:52:00 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:52:00 : [Teste-hunter] - Level UP para level 25. Ev: 0 - 2354x 2097y
+14:52:03 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:52:06 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:52:07 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:52:08 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:52:08 : [Teste-hunter] - Dropado item Âmago_de_Javali [2391] [0 0 0 0 0 0] em 2357x 2098y - Javali (1/1250)
+14:52:09 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:52:09 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:52:10 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:52:11 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:52:13 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+14:52:14 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:52:15 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:52:15 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:52:15 : [Teste-hunter] - Dropado item Sapatos(A) [1415] [43 0 73 12 60 4] em 2362x 2093y - Rei Gremlin (1/90)
+14:52:16 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+14:52:17 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:52:18 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+14:52:18 : [Teste-hunter] - Dropado item Luvas(A) [1834] [43 0 72 15 54 6] em 2364x 2093y - Javali (1/90)
+14:52:20 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+14:52:25 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:52:25 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:52:26 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:52:27 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:52:28 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+14:52:30 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:52:31 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:52:32 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:52:32 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:52:32 : [Teste-hunter] - Level UP para level 26. Ev: 0 - 2368x 2097y
+14:52:34 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:52:35 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:52:36 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:52:38 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:52:39 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:52:40 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:52:40 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:52:42 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:52:43 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:52:44 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:52:50 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:52:52 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:52:53 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:52:53 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:52:54 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:52:55 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:52:56 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:52:58 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:52:59 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:53:03 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:53:03 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:53:04 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:53:05 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:53:06 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:53:07 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:53:08 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:53:09 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:53:09 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:53:09 : [Teste-hunter] - Level UP para level 27. Ev: 0 - 2363x 2104y
+14:53:11 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:53:16 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:53:17 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:53:18 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:53:19 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:53:21 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:53:21 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:53:23 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:53:26 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+14:53:27 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+14:53:28 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:53:29 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:53:31 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+14:53:31 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:53:32 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+14:53:33 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:53:34 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:53:35 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:53:36 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:53:39 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:53:40 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:53:40 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:53:40 : [Teste-hunter] - Dropado item Luvas(A) [1814] [43 1 72 20 59 0] em 2366x 2101y - Javali (1/90)
+14:53:41 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:53:42 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:53:43 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:53:45 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:53:45 : [Teste-hunter] - Dropado item Robe(A) [1822] [43 2 26 9 59 0] em 2368x 2099y - Javali (1/90)
+14:53:46 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:53:54 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:53:54 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:53:54 : [Teste-hunter] - Level UP para level 28. Ev: 0 - 2366x 2101y
+14:53:55 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:53:56 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:53:58 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:53:59 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:54:00 : [Teste-hunter] - Matou o mob Javali. GenerID: 601
+14:54:02 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:54:03 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:54:03 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:54:04 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:54:06 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:54:07 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:54:10 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:54:11 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:54:14 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:54:14 : [Teste-hunter] - Dropado item Luvas(A) [1814] [43 2 72 10 60 2] em 2363x 2098y - Javali (1/90)
+14:54:15 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:54:16 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:54:16 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:54:17 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:54:18 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:54:20 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:54:21 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:54:22 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:54:23 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:54:25 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:54:25 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:54:28 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:54:30 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:54:31 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:54:31 : [Teste-hunter] - Dropado item Sapatos(A) [1415] [43 1 73 12 60 2] em 2364x 2099y - Rei Gremlin (1/90)
+14:54:32 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:54:33 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:54:35 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+14:54:37 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+14:54:37 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:54:37 : [Teste-hunter] - Level UP para level 29. Ev: 0 - 2363x 2094y
+14:54:38 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:54:41 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:54:42 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+14:54:43 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+14:54:49 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+14:54:50 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:54:51 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:54:53 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:54:53 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:54:54 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:54:55 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:54:56 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:54:57 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+14:54:58 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:54:59 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:55:06 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+14:55:07 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+14:55:07 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:55:13 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:55:15 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:55:18 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:55:19 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:55:29 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:55:30 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:55:31 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:55:32 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:55:32 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:55:33 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:55:34 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:55:34 : [Teste-hunter] - Dropado item Luvas(A) [1834] [43 0 72 15 59 0] em 2363x 2096y - Javali (1/90)
+14:55:34 : [Teste-hunter] - Não dropou o item Âmago_de_Javali por falta de espaço [2391] [0 0 0 0 0 0] em 2363x 2096y - Javali (1/300)
+14:55:34 : [Teste-hunter] - [Mensagem do servidor]> Seu inventário está cheio
+14:55:36 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:55:44 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:55:45 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:55:46 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:55:48 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:55:50 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:55:50 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:55:50 : [Teste-hunter] - Level UP para level 30. Ev: 0 - 2365x 2104y
+14:55:52 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:55:53 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:55:54 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:55:55 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:55:56 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:55:58 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:55:59 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:56:02 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:56:02 : [Teste-hunter] - Não dropou o item Robe(A) por falta de espaço [1822] [12 8 59 0 59 0] em 2363x 2106y - Javali (1/90)
+14:56:02 : [Teste-hunter] - [Mensagem do servidor]> Seu inventário está cheio
+14:56:03 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:56:03 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:56:04 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:56:06 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:56:07 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:56:08 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:56:09 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:56:10 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:56:12 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:56:13 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:56:14 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:56:14 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:56:15 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:56:16 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:56:18 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 601
+14:56:20 : [Teste-hunter] - Matou o mob Javali. GenerID: 601
+14:56:21 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:56:22 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:56:24 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 582
+14:56:26 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 590
+14:56:30 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 582
+14:56:30 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:56:31 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:56:32 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:56:34 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:56:36 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:56:37 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:56:38 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:56:38 : [Teste-hunter] - Não dropou o item Escudo por falta de espaço [1702] [0 0 0 0 0 0] em 2358x 2109y - Rei Gremlin (1/300)
+14:56:38 : [Teste-hunter] - [Mensagem do servidor]> Seu inventário está cheio
+14:56:39 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:56:40 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:56:40 : [Teste-hunter] - Não dropou o item Escudo por falta de espaço [1702] [0 0 0 0 0 0] em 2358x 2109y - Rei Gremlin (1/300)
+14:56:40 : [Teste-hunter] - [Mensagem do servidor]> Seu inventário está cheio
+14:56:41 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+14:56:41 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:56:41 : [Teste-hunter] - Level UP para level 31. Ev: 0 - 2359x 2108y
+14:56:43 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:56:44 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:56:45 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 582
+14:56:52 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:56:53 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:56:54 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:56:55 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:56:56 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:56:59 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:57:00 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:57:02 : [Teste-hunter] - Matou o mob Javali. GenerID: 601
+14:57:02 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:57:03 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:57:05 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 590
+14:57:07 : [Teste-hunter] - Matou o mob Javali. GenerID: 601
+14:57:07 : [Teste-hunter] - Não dropou o item Armadura(A) por falta de espaço [1957] [43 0 3 20 60 2] em 2360x 2116y - Javali (1/118)
+14:57:07 : [Teste-hunter] - [Mensagem do servidor]> Seu inventário está cheio
+14:57:15 : [Teste-hunter] - Matou o mob Javali. GenerID: 601
+14:57:16 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:57:16 : [Teste-hunter] - Não dropou o item Robe(A) por falta de espaço [1822] [43 0 59 0 59 0] em 2365x 2113y - Javali (1/90)
+14:57:16 : [Teste-hunter] - [Mensagem do servidor]> Seu inventário está cheio
+14:57:17 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:57:18 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:57:19 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:57:20 : [Teste-hunter] - Matou o mob Javali. GenerID: 601
+14:57:20 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:57:21 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 601
+14:57:22 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 601
+14:57:23 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:57:25 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:57:26 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 601
+14:57:28 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:57:29 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:57:30 : [Teste-hunter] - Matou o mob Javali. GenerID: 601
+14:57:32 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:57:33 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 601
+14:57:33 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:57:34 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:57:35 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:57:36 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:57:38 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:57:39 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:57:40 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:57:41 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:57:42 : [Teste-hunter] - Matou o mob Javali. GenerID: 601
+14:57:43 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 601
+14:57:46 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:57:46 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:57:46 : [Teste-hunter] - Level UP para level 32. Ev: 0 - 2361x 2112y
+14:57:50 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:57:51 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:57:52 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:57:53 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:57:55 : [Teste-hunter] - Matou o mob Javali. GenerID: 601
+14:57:56 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:57:58 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:57:59 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 601
+14:58:00 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:58:01 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:58:02 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:58:03 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:58:04 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:58:05 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:58:06 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:58:07 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:58:08 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:58:09 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:58:10 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:58:12 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:58:18 : [Teste-hunter] - Matou o mob Javali. GenerID: 601
+14:58:19 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 601
+14:58:20 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:58:20 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:58:20 : [Teste-hunter] - Não dropou o item Armadura(A) por falta de espaço [1957] [7 14 71 50 59 0] em 2361x 2110y - Javali (1/118)
+14:58:20 : [Teste-hunter] - [Mensagem do servidor]> Seu inventário está cheio
+14:58:21 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:58:25 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:58:26 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:58:29 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:58:30 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:58:31 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:58:32 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:58:33 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:58:34 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 601
+14:58:36 : [Teste-hunter] - Matou o mob Javali. GenerID: 601
+14:58:37 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 601
+14:58:37 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:58:38 : [Teste-hunter] - Matou o mob Javali. GenerID: 601
+14:58:40 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:58:40 : [Teste-hunter] - Não dropou o item Luvas(A) por falta de espaço [1834] [43 2 72 15 74 6] em 2361x 2116y - Javali (1/90)
+14:58:40 : [Teste-hunter] - [Mensagem do servidor]> Seu inventário está cheio
+14:58:41 : [Teste-hunter] - Matou o mob Chefe Krill. GenerID: 590
+14:58:42 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:58:43 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:58:45 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:58:46 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:58:47 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:58:48 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:58:53 : [Teste-hunter] - Matou o mob Javali. GenerID: 601
+14:58:53 : [Teste-hunter] - Não dropou o item Âmago_de_Javali por falta de espaço [2391] [0 0 0 0 0 0] em 2363x 2113y - Javali (1/250)
+14:58:53 : [Teste-hunter] - [Mensagem do servidor]> Seu inventário está cheio
+14:58:54 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 601
+14:58:54 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:58:54 : [Teste-hunter] - Level UP para level 33. Ev: 0 - 2363x 2113y
+14:58:55 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:58:56 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:58:57 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:58:58 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:58:59 : [Teste-hunter] - Matou o mob Javali. GenerID: 601
+14:59:00 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 601
+14:59:03 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:59:04 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:59:05 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:59:05 : [Teste-hunter] - Não dropou o item Dardo por falta de espaço [877] [10 14 2 9 59 0] em 2359x 2113y - Rei Gremlin (1/300)
+14:59:05 : [Teste-hunter] - [Mensagem do servidor]> Seu inventário está cheio
+14:59:06 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:59:07 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:59:09 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:59:09 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:59:11 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:59:14 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:59:15 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:59:17 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 603
+14:59:19 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:59:21 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:59:22 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:59:23 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:59:29 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:59:30 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:59:31 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:59:32 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:59:32 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:59:33 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:59:34 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:59:35 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:59:36 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+14:59:38 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+14:59:42 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:59:43 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:59:44 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+14:59:45 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+14:59:46 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+14:59:48 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:59:49 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+14:59:49 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:59:50 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 589
+14:59:50 : [Teste-hunter] - Não dropou o item Dardo por falta de espaço [877] [43 1 2 9 59 0] em 2356x 2107y - Rei Gremlin (1/300)
+14:59:50 : [Teste-hunter] - [Mensagem do servidor]> Seu inventário está cheio
+14:59:54 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+14:59:55 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+15:00:02 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+15:00:03 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+15:00:04 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+15:00:06 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+15:00:08 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+15:00:09 : [Teste-hunter] - Matou o mob Javali. GenerID: 589
+15:00:10 : [Teste-hunter] - Matou o mob Javali. GenerID: 602
+15:00:12 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 602
+15:00:13 : [Teste-hunter] - Matou o mob Javali. GenerID: 603
+15:00:13 : [Teste-hunter] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:00:13 : [Teste-hunter] - Level UP para level 34. Ev: 0 - 2358x 2103y
+15:00:15 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+15:00:16 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+15:00:17 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+15:00:18 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+15:00:19 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+15:00:26 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+15:00:28 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+15:00:30 : [Teste-hunter] - Matou o mob Javali. GenerID: 588
+15:00:31 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 588
+15:00:32 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+15:00:36 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+15:00:37 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+15:00:38 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+15:00:38 : [Teste-hunter] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+15:00:42 : [Teste-hunter] - Matou o mob Javali. GenerID: 587
+15:00:43 : [Teste-hunter] - Matou o mob Rei Gremlin. GenerID: 587
+15:00:44 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+15:00:46 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+15:00:48 : [Teste-hunter] - Matou o mob Rei Gremlin . GenerID: 604
+15:00:49 : [Teste-hunter] - Matou o mob Javali. GenerID: 604
+15:00:56 : [Teste-hunter] - Comando "/gm +armia"
+15:00:56 : [Teste-hunter] - Teleportado para a posição 2100 2100
+15:10:48 : [Teste-hunter] - [INFORMAÇÕES DA CONTA]
+Personagem online: Teste-hunter
+Gold atual: 988500
+Level atual: 34
+Experiência atual: 181930
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:51 horas
+Posição atual: 2098x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 8 0 0 0 0]
+[03] - Calça(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira(N)[1575] [43 8 0 0 0 0]
+[05] - Botas(N)[1578] [43 8 0 0 0 0]
+[06] - Skeleton_Bow[943] [43 9 0 0 0 0]
+[14] - Lobo_Polar[3980] [96 5 1 21 0 0]
+
+[INVENTÁRIO]
+[00] - Arco[816] [43 0 0 0 0 0]
+[01] - Botas(A)[1154] [43 0 73 18 60 6]
+[02] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[03] - Luvas(A)[1145] [43 0 72 20 54 15]
+[04] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[05] - Aranha[2360] [252 255 1 20 0 0]
+[06] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[07] - Âmago_de_Aranha[2390] [61 40 0 0 0 0]
+[08] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[09] - Calça(A)[1809] [43 0 71 10 59 0]
+[10] - Calça(N)[1557] [43 0 71 40 59 0]
+[11] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[12] - Luvas(N)[1560] [43 1 72 10 59 0]
+[13] - Luvas(N)[1560] [9 15 72 10 2 18]
+[14] - Luvas(A)[1814] [10 9 72 10 74 6]
+[15] - Garra[832] [54 10 74 9 74 9]
+[16] - Arco[817] [43 0 59 0 2 9]
+[17] - Robe(A)[1822] [43 1 59 0 59 0]
+[18] - Calça(A)[1127] [43 0 71 50 60 6]
+[19] - Âmago_de_Javali[2391] [61 3 0 0 0 0]
+[20] - Robe(A)[1822] [43 1 60 8 59 0]
+[21] - Âmago_de_Javali[2391] [0 0 0 0 0 0]
+[22] - Luvas(A)[1834] [43 0 72 10 54 15]
+[23] - Sapatos(A)[1415] [43 0 73 12 60 4]
+[24] - Luvas(A)[1834] [43 0 72 15 54 6]
+[25] - Luvas(A)[1814] [43 1 72 20 59 0]
+[26] - Robe(A)[1822] [43 2 26 9 59 0]
+[27] - Luvas(A)[1814] [43 2 72 10 60 2]
+[28] - Sapatos(A)[1415] [43 1 73 12 60 2]
+[29] - Luvas(A)[1834] [43 0 72 15 59 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:14:00 : [Teste-hunter] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+15:40:49 : [Teste-hunter] - [INFORMAÇÕES DA CONTA]
+Personagem online: Teste-hunter
+Gold atual: 988500
+Level atual: 34
+Experiência atual: 181930
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:59:29 horas
+Posição atual: 2098x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 8 0 0 0 0]
+[03] - Calça(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira(N)[1575] [43 8 0 0 0 0]
+[05] - Botas(N)[1578] [43 8 0 0 0 0]
+[06] - Skeleton_Bow[943] [43 9 0 0 0 0]
+[14] - Lobo_Polar[3980] [96 5 1 21 0 0]
+
+[INVENTÁRIO]
+[00] - Arco[816] [43 0 0 0 0 0]
+[01] - Botas(A)[1154] [43 0 73 18 60 6]
+[02] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[03] - Luvas(A)[1145] [43 0 72 20 54 15]
+[04] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[05] - Aranha[2360] [252 255 1 20 0 0]
+[06] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[07] - Âmago_de_Aranha[2390] [61 40 0 0 0 0]
+[08] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[09] - Calça(A)[1809] [43 0 71 10 59 0]
+[10] - Calça(N)[1557] [43 0 71 40 59 0]
+[11] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[12] - Luvas(N)[1560] [43 1 72 10 59 0]
+[13] - Luvas(N)[1560] [9 15 72 10 2 18]
+[14] - Luvas(A)[1814] [10 9 72 10 74 6]
+[15] - Garra[832] [54 10 74 9 74 9]
+[16] - Arco[817] [43 0 59 0 2 9]
+[17] - Robe(A)[1822] [43 1 59 0 59 0]
+[18] - Calça(A)[1127] [43 0 71 50 60 6]
+[19] - Âmago_de_Javali[2391] [61 3 0 0 0 0]
+[20] - Robe(A)[1822] [43 1 60 8 59 0]
+[21] - Âmago_de_Javali[2391] [0 0 0 0 0 0]
+[22] - Luvas(A)[1834] [43 0 72 10 54 15]
+[23] - Sapatos(A)[1415] [43 0 73 12 60 4]
+[24] - Luvas(A)[1834] [43 0 72 15 54 6]
+[25] - Luvas(A)[1814] [43 1 72 20 59 0]
+[26] - Robe(A)[1822] [43 2 26 9 59 0]
+[27] - Luvas(A)[1814] [43 2 72 10 60 2]
+[28] - Sapatos(A)[1415] [43 1 73 12 60 2]
+[29] - Luvas(A)[1834] [43 0 72 15 59 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:45:57 : [Teste-hunter] - [Mensagem do servidor]: ShariTEST falhou na composição do item Espada para Ancient
+15:50:54 : [Teste-hunter] - [Mensagem do servidor]: Jogador ShariTEST obteve sucesso na composição de Solaris(Anct)
+16:10:49 : [Teste-hunter] - [INFORMAÇÕES DA CONTA]
+Personagem online: Teste-hunter
+Gold atual: 988500
+Level atual: 34
+Experiência atual: 181930
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:29:10 horas
+Posição atual: 2098x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 8 0 0 0 0]
+[03] - Calça(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira(N)[1575] [43 8 0 0 0 0]
+[05] - Botas(N)[1578] [43 8 0 0 0 0]
+[06] - Skeleton_Bow[943] [43 9 0 0 0 0]
+[14] - Lobo_Polar[3980] [96 5 1 21 0 0]
+
+[INVENTÁRIO]
+[00] - Arco[816] [43 0 0 0 0 0]
+[01] - Botas(A)[1154] [43 0 73 18 60 6]
+[02] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[03] - Luvas(A)[1145] [43 0 72 20 54 15]
+[04] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[05] - Aranha[2360] [252 255 1 20 0 0]
+[06] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[07] - Âmago_de_Aranha[2390] [61 40 0 0 0 0]
+[08] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[09] - Calça(A)[1809] [43 0 71 10 59 0]
+[10] - Calça(N)[1557] [43 0 71 40 59 0]
+[11] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[12] - Luvas(N)[1560] [43 1 72 10 59 0]
+[13] - Luvas(N)[1560] [9 15 72 10 2 18]
+[14] - Luvas(A)[1814] [10 9 72 10 74 6]
+[15] - Garra[832] [54 10 74 9 74 9]
+[16] - Arco[817] [43 0 59 0 2 9]
+[17] - Robe(A)[1822] [43 1 59 0 59 0]
+[18] - Calça(A)[1127] [43 0 71 50 60 6]
+[19] - Âmago_de_Javali[2391] [61 3 0 0 0 0]
+[20] - Robe(A)[1822] [43 1 60 8 59 0]
+[21] - Âmago_de_Javali[2391] [0 0 0 0 0 0]
+[22] - Luvas(A)[1834] [43 0 72 10 54 15]
+[23] - Sapatos(A)[1415] [43 0 73 12 60 4]
+[24] - Luvas(A)[1834] [43 0 72 15 54 6]
+[25] - Luvas(A)[1814] [43 1 72 20 59 0]
+[26] - Robe(A)[1822] [43 2 26 9 59 0]
+[27] - Luvas(A)[1814] [43 2 72 10 60 2]
+[28] - Sapatos(A)[1415] [43 1 73 12 60 2]
+[29] - Luvas(A)[1834] [43 0 72 15 59 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:17:19 : [Teste-hunter] - [Mensagem do servidor]: Jogador ShariTEST falhou a composição do item Luvas(M) +10
+16:17:56 : [Teste-hunter] - [Mensagem do servidor]: Jogador ShariTEST falhou a composição do item Luvas(M) +10
+16:18:13 : [Teste-hunter] - [Mensagem do servidor]: Jogador ShariTEST falhou a composição do item Luvas(M) +10
+16:18:27 : [Teste-hunter] - [Mensagem do servidor]: Jogador ShariTEST falhou a composição do item Luvas(M) +10
+16:30:32 : [Teste-hunter] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:30:32 : [Teste-hunter] - 1 Personagem foi desconectado. Permaneceu 01:48:38 minutos online

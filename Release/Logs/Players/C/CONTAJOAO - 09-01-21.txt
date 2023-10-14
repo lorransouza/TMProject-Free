@@ -1,0 +1,864 @@
+
+20:27:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.33.237.148 Mac: (57:97:A2:B8:71:46). ClientId: 1
+20:27:16 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+20:27:16 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+20:27:21 : Solicitou ir ao mundo...
+20:27:21 : Recebido pedido para entrar no jogo
+20:27:21 : Recebido informação do personagem completa.
+20:27:21 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 413694891
+Level atual: 29
+Experiência atual: 110595
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 0
+Soul: 7
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 0 0 0]
+[01] - Cythera_Arcana[3507] [43 253 0 0 0 0]
+[02] - Armadura[1221] [43 253 0 0 0 0]
+[03] - Calça[1222] [43 253 0 0 0 0]
+[04] - Luvas[1223] [43 253 0 0 0 0]
+[05] - Botas[1224] [43 253 0 0 0 0]
+[06] - Skytalos(Anct)[2554] [43 253 2 81 2 81]
+[08] - Brinco_de_Titã[592] [43 234 0 0 0 0]
+[09] - Amuleto_Lendário_(Nv._5)[5154] [43 9 0 0 0 0]
+[10] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[11] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 128]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Armadura(A)[1211] [2 30 0 0 0 0]
+[01] - Luvas(M)[1147] [43 0 2 20 53 3]
+[02] - Armadura(A)[1211] [43 7 2 18 0 0]
+[03] - Luvas(M)[1147] [43 0 2 20 53 3]
+[05] - Essência_Mithril_D[4024] [61 49 0 0 0 0]
+[06] - Armadura(A)[1211] [43 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:27:21 : [28jdi] - Personagem 28jdi enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 6303. OverPower: 1203
+20:27:21 : [28jdi] - Gold atual: 413694891. Classe: 0 Evolução: 0. Experiência: 110595. Nível: 29. Info: 0. GuildID: 5. CP: 75. Pontos de Contribuição: 0. Limite: 0
+20:27:21 : [28jdi] - Resetado a contagem de entradas água! Day: 7-8. Total: 48
+20:27:21 : [28jdi] - Enviado informações do personagem
+20:27:22 : [28jdi] - Comando "/day "
+20:27:22 : [28jdi] - [Mensagem do servidor]> !#11 2
+20:27:28 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:27:29 : [28jdi] - Item Essência_Mithril_D [4024] [61 49 0 0 0 0] utilizado em 0x 0y
+20:27:29 : [28jdi] - [Mensagem do servidor]> Somente em itens menores ou igual a +6.
+20:27:30 : [28jdi] - Item Essência_Mithril_D [4024] [61 49 0 0 0 0] utilizado em 0x 0y
+20:27:30 : [28jdi] - Essencia Mythril usado em Armadura(A) [1211] [2 30 0 0 0 0]
+20:27:30 : [28jdi] - [Mensagem do servidor]> Este item não pode ser aprimorado
+20:27:39 : [28jdi] - Comando "/gm +item 1224"
+20:27:39 : [28jdi] - [Mensagem do servidor]> Criou o item Botas
+20:27:39 : [28jdi] - 28jdi criou o item Botas [1224] [0 0 0 0 0 0]
+20:27:41 : [28jdi] - Moveu item Botas [1224] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo INVENTÁRIO slot 12
+20:27:44 : [28jdi] - Moveu item Armadura(A) [1211] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo INVENTÁRIO slot 4
+20:28:08 : [28jdi] - Comando "/gm +item 1225"
+20:28:08 : [28jdi] - [Mensagem do servidor]> Criou o item Elmo
+20:28:08 : [28jdi] - 28jdi criou o item Elmo [1225] [0 0 0 0 0 0]
+20:28:10 : [28jdi] - Item Elmo deletado [1225] [0 0 0 0 0 0]. Slot 6
+20:28:12 : [28jdi] - Comando "/gm +item 1223"
+20:28:12 : [28jdi] - [Mensagem do servidor]> Criou o item Luvas
+20:28:12 : [28jdi] - 28jdi criou o item Luvas [1223] [0 0 0 0 0 0]
+20:28:14 : [28jdi] - Item Luvas deletado [1223] [0 0 0 0 0 0]. Slot 6
+20:28:16 : [28jdi] - Comando "/gm +item 1214"
+20:28:16 : [28jdi] - [Mensagem do servidor]> Criou o item Calça(A)
+20:28:16 : [28jdi] - 28jdi criou o item Calça(A) [1214] [0 0 0 0 0 0]
+20:28:19 : [28jdi] - Item Botas deletado [1224] [0 0 0 0 0 0]. Slot 12
+20:28:23 : [28jdi] - Comando "/gm +item 1214 2 6"
+20:28:23 : [28jdi] - [Mensagem do servidor]> Criou o item Calça(A)
+20:28:23 : [28jdi] - 28jdi criou o item Calça(A) [1214] [2 6 0 0 0 0]
+20:28:25 : [28jdi] - Item Calça(A) deletado [1214] [0 0 0 0 0 0]. Slot 6
+20:28:27 : [28jdi] - Item Essência_Mithril_D [4024] [61 49 0 0 0 0] utilizado em 0x 0y
+20:28:27 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [2 6 0 0 0 0]
+20:28:27 : [28jdi] - [Mensagem do servidor]> Aprimorado com sucesso!
+20:28:27 : [28jdi] - Essencia Mythril melhorou o adicional [1214] [2 12 0 0 0 0]
+20:28:35 : [28jdi] - Comando "/gm +item 1214 43 5 2 6"
+20:28:35 : [28jdi] - [Mensagem do servidor]> Criou o item Calça(A)
+20:28:35 : [28jdi] - 28jdi criou o item Calça(A) [1214] [43 5 2 6 0 0]
+20:28:37 : [28jdi] - Item Calça(A) deletado [1214] [2 12 0 0 0 0]. Slot 7
+20:28:37 : [28jdi] - Item Essência_Mithril_D [4024] [61 48 0 0 0 0] utilizado em 0x 0y
+20:28:37 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:28:37 : [28jdi] - [Mensagem do servidor]> Este item não pode ser aprimorado
+20:28:40 : [28jdi] - Comando "/gm "
+20:28:40 : [28jdi] - [Mensagem do servidor]> Utilize /gm +command
+20:28:41 : [28jdi] - Moveu item Essência_Mithril_D [4024] [61 48 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+20:28:43 : [28jdi] - Moveu item Essência_Mithril_D [4024] [61 48 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo INVENTÁRIO slot 5
+20:28:44 : [28jdi] - Item Essência_Mithril_D [4024] [61 48 0 0 0 0] utilizado em 0x 0y
+20:28:44 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 0 0 0 0]
+20:28:44 : [28jdi] - [Mensagem do servidor]> Este item não pode ser aprimorado
+20:29:20 : [28jdi] - Item Essência_Mithril_D [4024] [61 48 0 0 0 0] utilizado em 0x 0y
+20:29:20 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 0 0 0 0]
+20:29:20 : [28jdi] - [Mensagem do servidor]> Este item não pode ser aprimorado
+20:43:34 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.33.237.148 Mac: (57:97:A2:B8:71:46). ClientId: 1
+20:43:43 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:43:43 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+20:43:51 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.33.237.148 Mac: (57:97:A2:B8:71:46). ClientId: 1
+20:43:51 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+20:43:51 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+20:43:52 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:44:18 : Solicitou ir ao mundo...
+20:44:18 : Recebido pedido para entrar no jogo
+20:44:18 : Recebido informação do personagem completa.
+20:44:18 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 413694891
+Level atual: 29
+Experiência atual: 110595
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:27 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 0
+Soul: 7
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 0 0 0]
+[01] - Cythera_Arcana[3507] [43 253 0 0 0 0]
+[02] - Armadura[1221] [43 253 0 0 0 0]
+[03] - Calça[1222] [43 253 0 0 0 0]
+[04] - Luvas[1223] [43 253 0 0 0 0]
+[05] - Botas[1224] [43 253 0 0 0 0]
+[06] - Skytalos(Anct)[2554] [43 253 2 81 2 81]
+[08] - Brinco_de_Titã[592] [43 234 0 0 0 0]
+[09] - Amuleto_Lendário_(Nv._5)[5154] [43 9 0 0 0 0]
+[10] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[11] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 128]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Armadura(A)[1211] [2 30 0 0 0 0]
+[01] - Luvas(M)[1147] [43 0 2 20 53 3]
+[02] - Armadura(A)[1211] [43 7 2 18 0 0]
+[03] - Luvas(M)[1147] [43 0 2 20 53 3]
+[04] - Armadura(A)[1211] [43 0 0 0 0 0]
+[05] - Essência_Mithril_D[4024] [61 48 0 0 0 0]
+[06] - Calça(A)[1214] [43 5 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:44:18 : [28jdi] - Personagem 28jdi enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 6303. OverPower: 1203
+20:44:18 : [28jdi] - Gold atual: 413694891. Classe: 0 Evolução: 0. Experiência: 110595. Nível: 29. Info: 0. GuildID: 5. CP: 75. Pontos de Contribuição: 0. Limite: 0
+20:44:18 : [28jdi] - Enviado informações do personagem
+20:44:20 : [28jdi] - Comando "/day "
+20:44:20 : [28jdi] - [Mensagem do servidor]> !#11 2
+20:44:25 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:44:31 : [28jdi] - Item Calça(A) deletado [1214] [43 5 0 0 0 0]. Slot 6
+20:44:41 : [28jdi] - Comando "/gm +item 1214 43 5 2 6"
+20:44:41 : [28jdi] - [Mensagem do servidor]> Criou o item Calça(A)
+20:44:41 : [28jdi] - 28jdi criou o item Calça(A) [1214] [43 5 2 6 0 0]
+20:44:43 : [28jdi] - Item Essência_Mithril_D [4024] [61 48 0 0 0 0] utilizado em 0x 0y
+20:44:43 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:44:43 : [28jdi] - [Mensagem do servidor]> 1214 43.5 0.0 0.0 - 0 0 0
+20:44:43 : [28jdi] - [Mensagem do servidor]> Este item não pode ser aprimorado
+20:44:52 : [28jdi] - Personagem deu personagem
+20:46:58 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.33.237.148 Mac: (57:97:A2:B8:71:46). ClientId: 1
+20:47:02 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:47:02 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+20:47:20 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.33.237.148 Mac: (57:97:A2:B8:71:46). ClientId: 1
+20:47:20 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+20:47:20 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+20:47:20 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:47:37 : Solicitou ir ao mundo...
+20:47:37 : Recebido pedido para entrar no jogo
+20:47:37 : Recebido informação do personagem completa.
+20:47:37 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 413694891
+Level atual: 29
+Experiência atual: 110595
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:17 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 0
+Soul: 7
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 0 0 0]
+[01] - Cythera_Arcana[3507] [43 253 0 0 0 0]
+[02] - Armadura[1221] [43 253 0 0 0 0]
+[03] - Calça[1222] [43 253 0 0 0 0]
+[04] - Luvas[1223] [43 253 0 0 0 0]
+[05] - Botas[1224] [43 253 0 0 0 0]
+[06] - Skytalos(Anct)[2554] [43 253 2 81 2 81]
+[08] - Brinco_de_Titã[592] [43 234 0 0 0 0]
+[09] - Amuleto_Lendário_(Nv._5)[5154] [43 9 0 0 0 0]
+[10] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[11] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 128]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Armadura(A)[1211] [2 30 0 0 0 0]
+[01] - Luvas(M)[1147] [43 0 2 20 53 3]
+[02] - Armadura(A)[1211] [43 7 2 18 0 0]
+[03] - Luvas(M)[1147] [43 0 2 20 53 3]
+[04] - Armadura(A)[1211] [43 0 0 0 0 0]
+[05] - Essência_Mithril_D[4024] [61 48 0 0 0 0]
+[06] - Calça(A)[1214] [43 5 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:47:37 : [28jdi] - Personagem 28jdi enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 6303. OverPower: 1203
+20:47:37 : [28jdi] - Gold atual: 413694891. Classe: 0 Evolução: 0. Experiência: 110595. Nível: 29. Info: 0. GuildID: 5. CP: 75. Pontos de Contribuição: 0. Limite: 0
+20:47:37 : [28jdi] - Enviado informações do personagem
+20:47:38 : [28jdi] - Comando "/day "
+20:47:38 : [28jdi] - [Mensagem do servidor]> !#11 2
+20:47:42 : [28jdi] - Item Essência_Mithril_D [4024] [61 48 0 0 0 0] utilizado em 0x 0y
+20:47:42 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 0 0 0 0]
+20:47:42 : [28jdi] - [Mensagem do servidor]> 1214 43.5 0.0 0.0 - 0 0 0
+20:47:42 : [28jdi] - [Mensagem do servidor]> Este item não pode ser aprimorado
+20:47:48 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:52:17 : [28jdi] - Item Essência_Mithril_D [4024] [61 48 0 0 0 0] utilizado em 0x 0y
+20:52:17 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 0 0 0 0]
+20:52:17 : [28jdi] - [Mensagem do servidor]> 1214 43.5 0.0 0.0 - 0 0 0
+20:52:17 : [28jdi] - [Mensagem do servidor]> Este item não pode ser aprimorado
+20:53:44 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:53:44 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:06:20 minutos online
+20:55:01 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.33.237.148 Mac: (57:97:A2:B8:71:46). ClientId: 1
+20:55:01 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+20:55:01 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+20:55:01 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:55:06 : Solicitou ir ao mundo...
+20:55:06 : Recebido pedido para entrar no jogo
+20:55:06 : Recebido informação do personagem completa.
+20:55:06 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 413694891
+Level atual: 29
+Experiência atual: 110595
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 0
+Soul: 7
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 0 0 0]
+[01] - Cythera_Arcana[3507] [43 253 0 0 0 0]
+[02] - Armadura[1221] [43 253 0 0 0 0]
+[03] - Calça[1222] [43 253 0 0 0 0]
+[04] - Luvas[1223] [43 253 0 0 0 0]
+[05] - Botas[1224] [43 253 0 0 0 0]
+[06] - Skytalos(Anct)[2554] [43 253 2 81 2 81]
+[08] - Brinco_de_Titã[592] [43 234 0 0 0 0]
+[09] - Amuleto_Lendário_(Nv._5)[5154] [43 9 0 0 0 0]
+[10] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[11] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 128]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Armadura(A)[1211] [2 30 0 0 0 0]
+[01] - Luvas(M)[1147] [43 0 2 20 53 3]
+[02] - Armadura(A)[1211] [43 7 2 18 0 0]
+[03] - Luvas(M)[1147] [43 0 2 20 53 3]
+[04] - Armadura(A)[1211] [43 0 0 0 0 0]
+[05] - Essência_Mithril_D[4024] [61 48 0 0 0 0]
+[06] - Calça(A)[1214] [43 5 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:55:06 : [28jdi] - Personagem 28jdi enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 6303. OverPower: 1203
+20:55:06 : [28jdi] - Gold atual: 413694891. Classe: 0 Evolução: 0. Experiência: 110595. Nível: 29. Info: 0. GuildID: 5. CP: 75. Pontos de Contribuição: 0. Limite: 0
+20:55:06 : [28jdi] - Enviado informações do personagem
+20:55:07 : [28jdi] - Comando "/day "
+20:55:07 : [28jdi] - [Mensagem do servidor]> !#11 2
+20:55:15 : [28jdi] - Item Calça(A) deletado [1214] [43 5 0 0 0 0]. Slot 6
+20:55:18 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:55:22 : [28jdi] - Comando "/gm +item 1214 43 5 2 6"
+20:55:22 : [28jdi] - [Mensagem do servidor]> Criou o item Calça(A)
+20:55:22 : [28jdi] - 28jdi criou o item Calça(A) [1214] [43 5 2 6 0 0]
+20:55:23 : [28jdi] - Item Essência_Mithril_D [4024] [61 48 0 0 0 0] utilizado em 0x 0y
+20:55:23 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:55:23 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.6 0.0 - 1 6 0
+20:55:23 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:55:23 : [28jdi] - Essencia Mythril piorou o adicional [1214] [43 5 2 6 0 0]
+20:56:21 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:56:21 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:01:19 minutos online
+20:57:33 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.33.237.148 Mac: (57:97:A2:B8:71:46). ClientId: 1
+20:57:33 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+20:57:33 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+20:57:33 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:57:38 : Solicitou ir ao mundo...
+20:57:38 : Recebido pedido para entrar no jogo
+20:57:38 : Recebido informação do personagem completa.
+20:57:38 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 413694891
+Level atual: 29
+Experiência atual: 110595
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 0
+Soul: 7
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 0 0 0]
+[01] - Cythera_Arcana[3507] [43 253 0 0 0 0]
+[02] - Armadura[1221] [43 253 0 0 0 0]
+[03] - Calça[1222] [43 253 0 0 0 0]
+[04] - Luvas[1223] [43 253 0 0 0 0]
+[05] - Botas[1224] [43 253 0 0 0 0]
+[06] - Skytalos(Anct)[2554] [43 253 2 81 2 81]
+[08] - Brinco_de_Titã[592] [43 234 0 0 0 0]
+[09] - Amuleto_Lendário_(Nv._5)[5154] [43 9 0 0 0 0]
+[10] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[11] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 128]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Armadura(A)[1211] [2 30 0 0 0 0]
+[01] - Luvas(M)[1147] [43 0 2 20 53 3]
+[02] - Armadura(A)[1211] [43 7 2 18 0 0]
+[03] - Luvas(M)[1147] [43 0 2 20 53 3]
+[04] - Armadura(A)[1211] [43 0 0 0 0 0]
+[05] - Essência_Mithril_D[4024] [61 47 0 0 0 0]
+[06] - Calça(A)[1214] [43 5 2 6 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:57:38 : [28jdi] - Personagem 28jdi enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 6303. OverPower: 1203
+20:57:38 : [28jdi] - Gold atual: 413694891. Classe: 0 Evolução: 0. Experiência: 110595. Nível: 29. Info: 0. GuildID: 5. CP: 75. Pontos de Contribuição: 0. Limite: 0
+20:57:38 : [28jdi] - Enviado informações do personagem
+20:57:39 : [28jdi] - Comando "/day "
+20:57:39 : [28jdi] - [Mensagem do servidor]> !#11 2
+20:57:44 : [28jdi] - Item Essência_Mithril_D [4024] [61 47 0 0 0 0] utilizado em 0x 0y
+20:57:44 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:57:44 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.6 0.0 - 1 6 0
+20:57:44 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:57:44 : [28jdi] - Essencia Mythril piorou o adicional [1214] [43 5 2 6 0 0]
+20:57:47 : [28jdi] - Item Essência_Mithril_D [4024] [61 46 0 0 0 0] utilizado em 0x 0y
+20:57:47 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:57:47 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.6 0.0 - 1 6 0
+20:57:47 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:57:47 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:57:47 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 6 0 0]
+20:57:49 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:57:52 : [28jdi] - Item Essência_Mithril_D [4024] [61 45 0 0 0 0] utilizado em 0x 0y
+20:57:52 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:57:52 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.6 0.0 - 1 6 0
+20:57:52 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:57:52 : [28jdi] - Essencia Mythril piorou o adicional [1214] [43 5 2 6 0 0]
+20:57:53 : [28jdi] - Item Essência_Mithril_D [4024] [61 44 0 0 0 0] utilizado em 0x 0y
+20:57:53 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:57:53 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.6 0.0 - 1 6 0
+20:57:53 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:57:53 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:57:53 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 6 0 0]
+20:57:54 : [28jdi] - Item Essência_Mithril_D [4024] [61 43 0 0 0 0] utilizado em 0x 0y
+20:57:54 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:57:54 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.6 0.0 - 1 6 0
+20:57:54 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:57:54 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:57:54 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 6 0 0]
+20:57:54 : [28jdi] - Item Essência_Mithril_D [4024] [61 42 0 0 0 0] utilizado em 0x 0y
+20:57:54 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:57:54 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.6 0.0 - 1 6 0
+20:57:54 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:57:54 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:57:54 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 6 0 0]
+20:57:55 : [28jdi] - Moveu item Calça(A) [1214] [43 5 2 6 0 0] do tipo INVENTÁRIO do slot 6 para tipo INVENTÁRIO slot 5
+20:57:57 : [28jdi] - Item Essência_Mithril_D [4024] [61 41 0 0 0 0] utilizado em 0x 0y
+20:57:57 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:57:57 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.6 0.0 - 1 6 0
+20:57:57 : [28jdi] - [Mensagem do servidor]> Aprimorado com sucesso!
+20:57:57 : [28jdi] - Essencia Mythril melhorou o adicional [1214] [43 5 2 12 0 0]
+20:57:58 : [28jdi] - Item Essência_Mithril_D [4024] [61 40 0 0 0 0] utilizado em 0x 0y
+20:57:58 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 12 0 0]
+20:57:58 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.12 0.0 - 1 12 0
+20:57:58 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:57:58 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:57:58 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 12 0 0]
+20:58:00 : [28jdi] - Item Essência_Mithril_D [4024] [61 39 0 0 0 0] utilizado em 0x 0y
+20:58:00 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 12 0 0]
+20:58:00 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.12 0.0 - 1 12 0
+20:58:00 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:00 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:00 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 12 0 0]
+20:58:01 : [28jdi] - Item Essência_Mithril_D [4024] [61 38 0 0 0 0] utilizado em 0x 0y
+20:58:01 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 12 0 0]
+20:58:01 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.12 0.0 - 1 12 0
+20:58:01 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:01 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:01 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 12 0 0]
+20:58:03 : [28jdi] - Item Essência_Mithril_D [4024] [61 37 0 0 0 0] utilizado em 0x 0y
+20:58:03 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 12 0 0]
+20:58:03 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.12 0.0 - 1 12 0
+20:58:03 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:03 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:03 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 12 0 0]
+20:58:05 : [28jdi] - Item Essência_Mithril_D [4024] [61 36 0 0 0 0] utilizado em 0x 0y
+20:58:05 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 12 0 0]
+20:58:05 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.12 0.0 - 1 12 0
+20:58:05 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:05 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:05 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 12 0 0]
+20:58:05 : [28jdi] - Item Essência_Mithril_D [4024] [61 35 0 0 0 0] utilizado em 0x 0y
+20:58:05 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 12 0 0]
+20:58:05 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.12 0.0 - 1 12 0
+20:58:05 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:05 : [28jdi] - Essencia Mythril piorou o adicional [1214] [43 5 2 6 0 0]
+20:58:06 : [28jdi] - Item Essência_Mithril_D [4024] [61 34 0 0 0 0] utilizado em 0x 0y
+20:58:06 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:58:06 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.6 0.0 - 1 6 0
+20:58:06 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:06 : [28jdi] - Essencia Mythril piorou o adicional [1214] [43 5 2 6 0 0]
+20:58:07 : [28jdi] - Item Essência_Mithril_D [4024] [61 33 0 0 0 0] utilizado em 0x 0y
+20:58:07 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:58:07 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.6 0.0 - 1 6 0
+20:58:07 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:07 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:07 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 6 0 0]
+20:58:08 : [28jdi] - Item Essência_Mithril_D [4024] [61 32 0 0 0 0] utilizado em 0x 0y
+20:58:08 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:58:08 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.6 0.0 - 1 6 0
+20:58:08 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:08 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:08 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 6 0 0]
+20:58:08 : [28jdi] - Item Essência_Mithril_D [4024] [61 31 0 0 0 0] utilizado em 0x 0y
+20:58:08 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:58:08 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.6 0.0 - 1 6 0
+20:58:08 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:08 : [28jdi] - Essencia Mythril piorou o adicional [1214] [43 5 2 6 0 0]
+20:58:09 : [28jdi] - Item Essência_Mithril_D [4024] [61 30 0 0 0 0] utilizado em 0x 0y
+20:58:09 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:58:09 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.6 0.0 - 1 6 0
+20:58:09 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:09 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:09 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 6 0 0]
+20:58:11 : [28jdi] - Item Essência_Mithril_D [4024] [61 29 0 0 0 0] utilizado em 0x 0y
+20:58:11 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:58:11 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.6 0.0 - 1 6 0
+20:58:11 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:11 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:11 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 6 0 0]
+20:58:11 : [28jdi] - Item Essência_Mithril_D [4024] [61 28 0 0 0 0] utilizado em 0x 0y
+20:58:11 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+20:58:11 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.6 0.0 - 1 6 0
+20:58:11 : [28jdi] - [Mensagem do servidor]> Aprimorado com sucesso!
+20:58:11 : [28jdi] - Essencia Mythril melhorou o adicional [1214] [43 5 2 12 0 0]
+20:58:12 : [28jdi] - Item Essência_Mithril_D [4024] [61 27 0 0 0 0] utilizado em 0x 0y
+20:58:12 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 12 0 0]
+20:58:12 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.12 0.0 - 1 12 0
+20:58:12 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:12 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:12 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 12 0 0]
+20:58:13 : [28jdi] - Item Essência_Mithril_D [4024] [61 26 0 0 0 0] utilizado em 0x 0y
+20:58:13 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 12 0 0]
+20:58:13 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.12 0.0 - 1 12 0
+20:58:13 : [28jdi] - [Mensagem do servidor]> Aprimorado com sucesso!
+20:58:13 : [28jdi] - Essencia Mythril melhorou o adicional [1214] [43 5 2 18 0 0]
+20:58:13 : [28jdi] - Item Essência_Mithril_D [4024] [61 25 0 0 0 0] utilizado em 0x 0y
+20:58:13 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 18 0 0]
+20:58:13 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.18 0.0 - 1 18 0
+20:58:13 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:13 : [28jdi] - Essencia Mythril piorou o adicional [1214] [43 5 2 12 0 0]
+20:58:14 : [28jdi] - Item Essência_Mithril_D [4024] [61 24 0 0 0 0] utilizado em 0x 0y
+20:58:14 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 12 0 0]
+20:58:14 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.12 0.0 - 1 12 0
+20:58:14 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:14 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:14 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 12 0 0]
+20:58:21 : [28jdi] - Item Essência_Mithril_D [4024] [61 23 0 0 0 0] utilizado em 0x 0y
+20:58:21 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 12 0 0]
+20:58:21 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.12 0.0 - 1 12 0
+20:58:21 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:21 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:21 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 12 0 0]
+20:58:23 : [28jdi] - Item Essência_Mithril_D [4024] [61 22 0 0 0 0] utilizado em 0x 0y
+20:58:23 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 12 0 0]
+20:58:23 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.12 0.0 - 1 12 0
+20:58:23 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:23 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:23 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 12 0 0]
+20:58:25 : [28jdi] - Item Essência_Mithril_D [4024] [61 21 0 0 0 0] utilizado em 0x 0y
+20:58:25 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 12 0 0]
+20:58:25 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.12 0.0 - 1 12 0
+20:58:25 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:25 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:25 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 12 0 0]
+20:58:26 : [28jdi] - Item Essência_Mithril_D [4024] [61 20 0 0 0 0] utilizado em 0x 0y
+20:58:26 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 12 0 0]
+20:58:26 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.12 0.0 - 1 12 0
+20:58:26 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:26 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:26 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 12 0 0]
+20:58:28 : [28jdi] - Item Essência_Mithril_D [4024] [61 19 0 0 0 0] utilizado em 0x 0y
+20:58:28 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 12 0 0]
+20:58:28 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.12 0.0 - 1 12 0
+20:58:28 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:28 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:28 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 12 0 0]
+20:58:32 : [28jdi] - Item Essência_Mithril_D [4024] [61 18 0 0 0 0] utilizado em 0x 0y
+20:58:32 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 12 0 0]
+20:58:32 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.12 0.0 - 1 12 0
+20:58:32 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+20:58:32 : [28jdi] - Essencia Mythril piorou o adicional [1214] [43 5 2 6 0 0]
+21:00:32 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.33.237.148 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:00:35 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+21:00:35 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:00:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.33.237.148 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:00:36 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+21:00:36 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+[201] - Caixa_do_Andarilho[3479] [106 9 110 11 109 120]
+
+21:00:36 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:00:41 : Solicitou ir ao mundo...
+21:00:41 : Recebido pedido para entrar no jogo
+21:00:41 : Recebido informação do personagem completa.
+21:00:41 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 413694891
+Level atual: 29
+Experiência atual: 110595
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 0
+Soul: 7
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 0 0 0]
+[01] - Cythera_Arcana[3507] [43 253 0 0 0 0]
+[02] - Armadura[1221] [43 253 0 0 0 0]
+[03] - Calça[1222] [43 253 0 0 0 0]
+[04] - Luvas[1223] [43 253 0 0 0 0]
+[05] - Botas[1224] [43 253 0 0 0 0]
+[06] - Skytalos(Anct)[2554] [43 253 2 81 2 81]
+[08] - Brinco_de_Titã[592] [43 234 0 0 0 0]
+[09] - Amuleto_Lendário_(Nv._5)[5154] [43 9 0 0 0 0]
+[10] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[11] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 5 2 21 0 128]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+[16] - Asa_Divina[3100] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Armadura(A)[1211] [2 30 0 0 0 0]
+[01] - Luvas(M)[1147] [43 0 2 20 53 3]
+[02] - Armadura(A)[1211] [43 7 2 18 0 0]
+[03] - Luvas(M)[1147] [43 0 2 20 53 3]
+[04] - Armadura(A)[1211] [43 0 0 0 0 0]
+[05] - Calça(A)[1214] [43 5 2 6 0 0]
+[06] - Essência_Mithril_D[4024] [61 17 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:00:41 : [28jdi] - Personagem 28jdi enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 6303. OverPower: 1203
+21:00:41 : [28jdi] - Gold atual: 413694891. Classe: 0 Evolução: 0. Experiência: 110595. Nível: 29. Info: 0. GuildID: 5. CP: 75. Pontos de Contribuição: 0. Limite: 0
+21:00:41 : [28jdi] - Enviado informações do personagem
+21:00:43 : [28jdi] - Comando "/day "
+21:00:43 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:00:47 : [28jdi] - Item Essência_Mithril_D [4024] [61 17 0 0 0 0] utilizado em 0x 0y
+21:00:47 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 6 0 0]
+21:00:47 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.6 0.0 - 1 6 0
+21:00:47 : [28jdi] - [Mensagem do servidor]> Aprimorado com sucesso!
+21:00:47 : [28jdi] - Essencia Mythril melhorou o adicional [1214] [43 5 2 12 0 0]
+21:00:47 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:00:49 : [28jdi] - Item Essência_Mithril_D [4024] [61 16 0 0 0 0] utilizado em 0x 0y
+21:00:49 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 12 0 0]
+21:00:49 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.12 0.0 - 1 12 0
+21:00:49 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:00:49 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:00:49 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 12 0 0]
+21:01:05 : [28jdi] - Comando "/gm +item 1214 43 5 2 18 3 20"
+21:01:05 : [28jdi] - [Mensagem do servidor]> Criou o item Calça(A)
+21:01:05 : [28jdi] - 28jdi criou o item Calça(A) [1214] [43 5 2 18 3 20]
+21:01:08 : [28jdi] - Item Calça(A) deletado [1214] [43 5 2 12 0 0]. Slot 5
+21:01:08 : [28jdi] - Moveu item Armadura(A) [1211] [43 7 2 18 0 0] do tipo INVENTÁRIO do slot 2 para tipo INVENTÁRIO slot 14
+21:01:10 : [28jdi] - Item Armadura(A) deletado [1211] [43 7 2 18 0 0]. Slot 14
+21:01:11 : [28jdi] - Item Luvas(M) deletado [1147] [43 0 2 20 53 3]. Slot 3
+21:01:11 : [28jdi] - Moveu item Armadura(A) [1211] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo INVENTÁRIO slot 14
+21:01:13 : [28jdi] - Item Armadura(A) deletado [1211] [43 0 0 0 0 0]. Slot 14
+21:01:14 : [28jdi] - Item Luvas(M) deletado [1147] [43 0 2 20 53 3]. Slot 1
+21:01:15 : [28jdi] - Item Armadura(A) deletado [1211] [2 30 0 0 0 0]. Slot 0
+21:01:16 : [28jdi] - Moveu item Calça(A) [1214] [43 5 2 18 3 20] do tipo INVENTÁRIO do slot 7 para tipo INVENTÁRIO slot 0
+21:01:17 : [28jdi] - Moveu item Essência_Mithril_D [4024] [61 15 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo INVENTÁRIO slot 1
+21:01:19 : [28jdi] - Item Essência_Mithril_D [4024] [61 15 0 0 0 0] utilizado em 0x 0y
+21:01:19 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 18 3 20]
+21:01:19 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.18 3.20 - 2 18 20
+21:01:19 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:01:19 : [28jdi] - Essencia Mythril piorou o adicional [1214] [43 5 2 18 3 15]
+21:01:21 : [28jdi] - Item Essência_Mithril_D [4024] [61 14 0 0 0 0] utilizado em 0x 0y
+21:01:21 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 18 3 15]
+21:01:21 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.18 3.15 - 2 18 15
+21:01:21 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:01:21 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:01:21 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 18 3 15]
+21:01:23 : [28jdi] - Item Essência_Mithril_D [4024] [61 13 0 0 0 0] utilizado em 0x 0y
+21:01:23 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 18 3 15]
+21:01:23 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.18 3.15 - 2 18 15
+21:01:23 : [28jdi] - [Mensagem do servidor]> Aprimorado com sucesso!
+21:01:23 : [28jdi] - Essencia Mythril melhorou o adicional [1214] [43 5 2 24 3 15]
+21:01:25 : [28jdi] - Item Essência_Mithril_D [4024] [61 12 0 0 0 0] utilizado em 0x 0y
+21:01:25 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 24 3 15]
+21:01:25 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.24 3.15 - 2 24 15
+21:01:25 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:01:25 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:01:25 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 24 3 15]
+21:03:34 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 10000
+21:03:36 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 10000
+21:03:37 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 10000
+21:03:38 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 10000
+21:03:39 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 10000
+21:03:40 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 10000
+21:03:42 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 10000
+21:03:43 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 1. HP Atual: 9999
+21:03:44 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9999
+21:03:45 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9999
+21:03:46 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9999
+21:03:47 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 1. HP Atual: 9998
+21:03:48 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9998
+21:03:49 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9998
+21:03:50 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9998
+21:03:51 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 1. HP Atual: 9997
+21:03:52 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9997
+21:03:53 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9997
+21:03:54 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9997
+21:03:55 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9997
+21:03:56 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9997
+21:03:57 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9997
+21:03:58 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9997
+21:03:59 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 1. HP Atual: 9996
+21:04:00 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9996
+21:04:01 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9996
+21:04:03 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9996
+21:04:04 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9996
+21:04:05 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9996
+21:04:06 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9996
+21:04:07 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9996
+21:04:08 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9996
+21:04:09 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9996
+21:04:10 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9996
+21:04:12 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 1. HP Atual: 9995
+21:04:13 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9995
+21:04:14 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9995
+21:04:15 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9995
+21:04:16 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9995
+21:04:17 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9995
+21:04:18 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9995
+21:04:19 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9995
+21:04:20 : [28jdi] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 9995
+21:04:25 : [28jdi] - Item Essência_Mithril_D [4024] [61 11 0 0 0 0] utilizado em 0x 0y
+21:04:25 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 24 3 15]
+21:04:25 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.24 3.15 - 2 24 15
+21:04:25 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:25 : [28jdi] - Essencia Mythril piorou o adicional [1214] [43 5 2 24 3 10]
+21:04:27 : [28jdi] - Item Essência_Mithril_D [4024] [61 10 0 0 0 0] utilizado em 0x 0y
+21:04:27 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 24 3 10]
+21:04:27 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.24 3.10 - 2 24 10
+21:04:27 : [28jdi] - [Mensagem do servidor]> Aprimorado com sucesso!
+21:04:27 : [28jdi] - Essencia Mythril melhorou o adicional [1214] [43 5 2 30 3 10]
+21:04:30 : [28jdi] - Item Essência_Mithril_D [4024] [61 9 0 0 0 0] utilizado em 0x 0y
+21:04:30 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 30 3 10]
+21:04:30 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.30 3.10 - 1 0 10
+21:04:30 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:30 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:30 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 30 3 10]
+21:04:32 : [28jdi] - Item Essência_Mithril_D [4024] [61 8 0 0 0 0] utilizado em 0x 0y
+21:04:32 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 30 3 10]
+21:04:32 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.30 3.10 - 1 0 10
+21:04:32 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:32 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:32 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 30 3 10]
+21:04:34 : [28jdi] - Item Essência_Mithril_D [4024] [61 7 0 0 0 0] utilizado em 0x 0y
+21:04:34 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 30 3 10]
+21:04:34 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.30 3.10 - 1 0 10
+21:04:34 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:34 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:34 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 30 3 10]
+21:04:36 : [28jdi] - Item Essência_Mithril_D [4024] [61 6 0 0 0 0] utilizado em 0x 0y
+21:04:36 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 30 3 10]
+21:04:36 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.30 3.10 - 1 0 10
+21:04:36 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:36 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:36 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 30 3 10]
+21:04:37 : [28jdi] - Item Essência_Mithril_D [4024] [61 5 0 0 0 0] utilizado em 0x 0y
+21:04:37 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 30 3 10]
+21:04:37 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.30 3.10 - 1 0 10
+21:04:37 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:37 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:37 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 30 3 10]
+21:04:41 : [28jdi] - Item Essência_Mithril_D [4024] [61 4 0 0 0 0] utilizado em 0x 0y
+21:04:41 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 30 3 10]
+21:04:41 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.30 3.10 - 1 0 10
+21:04:41 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:41 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:41 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 30 3 10]
+21:04:41 : [28jdi] - Item Essência_Mithril_D [4024] [61 3 0 0 0 0] utilizado em 0x 0y
+21:04:41 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 30 3 10]
+21:04:41 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.30 3.10 - 1 0 10
+21:04:41 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:41 : [28jdi] - Essencia Mythril piorou o adicional [1214] [43 5 2 30 3 5]
+21:04:42 : [28jdi] - Item Essência_Mithril_D [4024] [61 2 0 0 0 0] utilizado em 0x 0y
+21:04:42 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 30 3 5]
+21:04:42 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.30 3.5 - 1 0 5
+21:04:42 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:42 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:42 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 30 3 5]
+21:04:44 : [28jdi] - Item Essência_Mithril_D [4024] [61 1 0 0 0 0] utilizado em 0x 0y
+21:04:44 : [28jdi] - Essencia Mythril usado em Calça(A) [1214] [43 5 2 30 3 5]
+21:04:44 : [28jdi] - [Mensagem do servidor]> 1214 43.5 2.30 3.5 - 1 0 5
+21:04:44 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:44 : [28jdi] - [Mensagem do servidor]> Aprimoramento falhou
+21:04:44 : [28jdi] - Essencia Mythril não mudou o adicional [1214] [43 5 2 30 3 5]
+21:04:47 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:04:47 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:04:08 minutos online

@@ -1,0 +1,1189 @@
+
+14:23:06 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 4
+14:23:06 : Usuário logou no jogo com clientId 4. - Servidor 2. Gold do banco: 125805
+14:23:06 : [INFORMAÇÕES DO BANCO]
+Gold: 125805
+
+14:23:15 : Solicitou ir ao mundo...
+14:23:15 : Recebido pedido para entrar no jogo
+14:23:15 : Recebido informação do personagem completa.
+14:23:15 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997648300
+Level atual: 1010
+Experiência atual: 7410
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2463x 2013y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Garra_Tripla[921] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Martelo[931] [0 0 0 0 0 0]
+[01] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[02] - Machado_de_Batalha[933] [0 0 0 0 0 0]
+[03] - Grande_Machado[934] [0 0 0 0 0 0]
+[04] - Martelo_Psíquico[935] [0 0 0 0 0 0]
+[05] - Mjolnir[936] [0 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+[07] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[08] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[09] - Stiletto[951] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:23:15 : [ffff] - Personagem ffff enviado ao mundo 2463x 2013y - Canal 2 - Cash da conta: 0. OverPower: 2020
+14:23:15 : [ffff] - Gold atual: 997648300. Classe: 0 Evolução: 0. Experiência: 7410. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+14:23:15 : [ffff] - Resetado a contagem de entradas água! Day: 336-338. Total: 0
+14:23:15 : [ffff] - Enviado informações do personagem
+14:23:17 : [ffff] - Comando "/day "
+14:23:17 : [ffff] - [Mensagem do servidor]> !#11 2
+14:23:28 : [ffff] - Moveu item Stiletto [951] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 6
+14:23:30 : [ffff] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:23:31 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 6
+14:23:38 : [ffff] - Matou o mob Orc Cavaleiro. GenerID: 873
+14:23:53 : [ffff] - Matou o mob Orc Cavaleiro. GenerID: 879
+14:23:56 : [ffff] - Matou o mob Meio Orc. GenerID: 879
+14:24:13 : [ffff] - Matou o mob Meio Orc. GenerID: 875
+14:24:15 : [ffff] - Matou o mob Meio Orc. GenerID: 876
+14:25:00 : [ffff] - Moveu item Martelo [931] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 6
+14:25:05 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 6
+14:25:06 : [ffff] - Moveu item Martelo_de_Guerra [932] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 6
+14:25:10 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 6
+14:25:11 : [ffff] - Moveu item Machado_de_Batalha [933] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 6
+14:25:14 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 6
+14:25:14 : [ffff] - Moveu item Grande_Machado [934] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 6
+14:25:17 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 6
+14:25:18 : [ffff] - Moveu item Martelo_Psíquico [935] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 6
+14:25:20 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 6
+14:25:31 : [ffff] - Moveu item Mjolnir [936] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 6
+14:25:33 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 6
+14:25:35 : [ffff] - Matou o mob Orc Cavaleiro. GenerID: 873
+14:25:36 : [ffff] - Matou o mob Meio Orc. GenerID: 873
+14:25:43 : [ffff] - Matou o mob Meio Orc . GenerID: 852
+14:25:44 : [ffff] - Matou o mob Meio Orc. GenerID: 859
+14:25:56 : [ffff] - Comando "/gm +item 831"
+14:25:56 : [ffff] - [Mensagem do servidor]> Criou o item Garra
+14:25:56 : [ffff] - ffff criou o item Garra [831] [0 0 0 0 0 0]
+14:26:00 : [ffff] - Comando "/gm +item 832"
+14:26:00 : [ffff] - [Mensagem do servidor]> Criou o item Manopla_Cortante
+14:26:00 : [ffff] - ffff criou o item Manopla_Cortante [832] [0 0 0 0 0 0]
+14:26:24 : [ffff] - Comando "/gm +item 931"
+14:26:24 : [ffff] - [Mensagem do servidor]> Criou o item Martelo
+14:26:24 : [ffff] - ffff criou o item Martelo [931] [0 0 0 0 0 0]
+14:37:14 : [ffff] - Comando "/gm +item 931"
+14:37:14 : [ffff] - [Mensagem do servidor]> Criou o item Martelo
+14:37:14 : [ffff] - ffff criou o item Martelo [931] [0 0 0 0 0 0]
+14:37:15 : [ffff] - Comando "/gm +item 931"
+14:37:15 : [ffff] - [Mensagem do servidor]> Criou o item Martelo
+14:37:15 : [ffff] - ffff criou o item Martelo [931] [0 0 0 0 0 0]
+14:37:18 : [ffff] - Comando "/gm +item 938"
+14:37:18 : [ffff] - [Mensagem do servidor]> Criou o item Martelo_de_Pedra
+14:37:18 : [ffff] - ffff criou o item Martelo_de_Pedra [938] [0 0 0 0 0 0]
+14:37:21 : [ffff] - Comando "/gm +item 939"
+14:37:21 : [ffff] - [Mensagem do servidor]> Criou o item Katana
+14:37:21 : [ffff] - ffff criou o item Katana [939] [0 0 0 0 0 0]
+14:37:25 : [ffff] - Comando "/gm +item 940"
+14:37:25 : [ffff] - [Mensagem do servidor]> Criou o item Cajado_Orc
+14:37:25 : [ffff] - ffff criou o item Cajado_Orc [940] [0 0 0 0 0 0]
+14:37:26 : [ffff] - Comando "/gm +item 941"
+14:37:26 : [ffff] - [Mensagem do servidor]> Criou o item Foice_do_Mago
+14:37:26 : [ffff] - ffff criou o item Foice_do_Mago [941] [0 0 0 0 0 0]
+14:37:27 : [ffff] - Comando "/gm "
+14:37:27 : [ffff] - [Mensagem do servidor]> Utilize /gm +command
+14:37:30 : [ffff] - Comando "/gm +item 942"
+14:37:30 : [ffff] - [Mensagem do servidor]> Criou o item Foice_de_Argos
+14:37:30 : [ffff] - ffff criou o item Foice_de_Argos [942] [0 0 0 0 0 0]
+14:37:31 : [ffff] - Comando "/gm +item 943"
+14:37:31 : [ffff] - [Mensagem do servidor]> Criou o item Arco_de_Caveira
+14:37:31 : [ffff] - ffff criou o item Arco_de_Caveira [943] [0 0 0 0 0 0]
+14:37:33 : [ffff] - Comando "/gm +item 944"
+14:37:33 : [ffff] - [Mensagem do servidor]> Criou o item Lança_de_Taurus
+14:37:33 : [ffff] - ffff criou o item Lança_de_Taurus [944] [0 0 0 0 0 0]
+14:37:34 : [ffff] - Comando "/gm +item 945"
+14:37:34 : [ffff] - [Mensagem do servidor]> Criou o item Tsurugi
+14:37:34 : [ffff] - ffff criou o item Tsurugi [945] [0 0 0 0 0 0]
+14:37:38 : [ffff] - Comando "/gm +item 946"
+14:37:38 : [ffff] - [Mensagem do servidor]> Criou o item Machado_Cav_Orc
+14:37:38 : [ffff] - ffff criou o item Machado_Cav_Orc [946] [0 0 0 0 0 0]
+14:37:39 : [ffff] - Comando "/gm "
+14:37:39 : [ffff] - [Mensagem do servidor]> Utilize /gm +command
+14:37:48 : [ffff] - Comando "/gm +item 947"
+14:37:49 : [ffff] - [Mensagem do servidor]> Criou o item Martelo_Troll
+14:37:49 : [ffff] - ffff criou o item Martelo_Troll [947] [0 0 0 0 0 0]
+14:37:52 : [ffff] - Item Machado_Cav_Orc deletado [946] [0 0 0 0 0 0]. Slot 23
+14:37:54 : [ffff] - Item Martelo_Troll deletado [947] [0 0 0 0 0 0]. Slot 24
+14:38:03 : [ffff] - Moveu item Cajado_Orc [940] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo INVENTÁRIO slot 29
+14:38:04 : [ffff] - Moveu item Foice_do_Mago [941] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 18 para tipo INVENTÁRIO slot 17
+14:38:06 : [ffff] - Moveu item Foice_de_Argos [942] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 19 para tipo INVENTÁRIO slot 18
+14:38:07 : [ffff] - Moveu item Arco_de_Caveira [943] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo INVENTÁRIO slot 19
+14:38:08 : [ffff] - Moveu item Lança_de_Taurus [944] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo INVENTÁRIO slot 20
+14:38:09 : [ffff] - Moveu item Tsurugi [945] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 22 para tipo INVENTÁRIO slot 21
+14:41:27 : [ffff] - Matou o mob Dragao Menor. GenerID: 853
+14:42:21 : [ffff] - Matou o mob Dragao Menor. GenerID: 853
+14:42:22 : [ffff] - Matou o mob Meio Orc . GenerID: 852
+14:50:59 : [ffff] - Matou o mob Dragao Menor. GenerID: 853
+14:51:00 : [ffff] - Matou o mob Meio Orc. GenerID: 859
+14:51:03 : [ffff] - Matou o mob Meio Orc . GenerID: 852
+14:51:39 : [ffff] - Moveu item Lança_de_Taurus [944] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo EQUIPAMENTO slot 6
+14:51:41 : [ffff] - Moveu item Lança_de_Taurus [944] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 6 para tipo INVENTÁRIO slot 25
+14:51:43 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo EQUIPAMENTO slot 6
+14:51:44 : [ffff] - Moveu item Lança_de_Taurus [944] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 25 para tipo INVENTÁRIO slot 20
+14:51:47 : [ffff] - Moveu item Tsurugi [945] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo EQUIPAMENTO slot 6
+14:51:50 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo EQUIPAMENTO slot 6
+14:53:16 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997648300
+Level atual: 1010
+Experiência atual: 7860
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:48 horas
+Posição atual: 2499x 2037y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Garra_Tripla[921] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Martelo[931] [0 0 0 0 0 0]
+[01] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[02] - Machado_de_Batalha[933] [0 0 0 0 0 0]
+[03] - Grande_Machado[934] [0 0 0 0 0 0]
+[04] - Martelo_Psíquico[935] [0 0 0 0 0 0]
+[05] - Mjolnir[936] [0 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+[07] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[08] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[09] - Stiletto[951] [0 0 0 0 0 0]
+[10] - Garra[831] [0 0 0 0 0 0]
+[11] - Manopla_Cortante[832] [0 0 0 0 0 0]
+[12] - Martelo[931] [0 0 0 0 0 0]
+[13] - Martelo[931] [0 0 0 0 0 0]
+[14] - Martelo[931] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:53:27 : [ffff] - Moveu item Foice_de_Argos [942] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 18 para tipo EQUIPAMENTO slot 6
+14:53:28 : [ffff] - Matou o mob Dragao Menor. GenerID: 853
+14:53:29 : [ffff] - Matou o mob Meio Orc. GenerID: 858
+14:53:31 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 18 para tipo EQUIPAMENTO slot 6
+14:53:33 : [ffff] - Matou o mob Dragao Menor. GenerID: 853
+14:57:06 : [ffff] - Moveu item Foice_do_Mago [941] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 6
+14:57:07 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 6
+15:00:00 : [ffff] - [Mensagem do servidor]: !Coliseu Normal será iniciado em 3 minutos. Disponível apenas para mortais.
+15:00:00 : [ffff] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+15:08:04 : [ffff] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+15:15:37 : [ffff] - Moveu item Martelo [931] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 6
+15:17:16 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 6
+15:17:17 : [ffff] - Moveu item Martelo_de_Guerra [932] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 6
+15:17:21 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 6
+15:17:23 : [ffff] - Moveu item Machado_de_Batalha [933] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 6
+15:17:25 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 6
+15:17:26 : [ffff] - Moveu item Grande_Machado [934] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 6
+15:17:27 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 6
+15:17:29 : [ffff] - Moveu item Martelo_Psíquico [935] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 6
+15:17:31 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 6
+15:17:32 : [ffff] - Moveu item Mjolnir [936] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 6
+15:17:34 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 6
+15:17:38 : [ffff] - Moveu item Martelo [931] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 6
+15:19:25 : [ffff] - Teleportado para a posição 2117 2102
+15:20:31 : [ffff] - Item Garra deletado [831] [0 0 0 0 0 0]. Slot 10
+15:20:34 : [ffff] - Item Manopla_Cortante deletado [832] [0 0 0 0 0 0]. Slot 11
+15:20:36 : [ffff] - Item Martelo deletado [931] [0 0 0 0 0 0]. Slot 12
+15:20:38 : [ffff] - Item Martelo deletado [931] [0 0 0 0 0 0]. Slot 13
+15:20:40 : [ffff] - Item Martelo_de_Pedra deletado [938] [0 0 0 0 0 0]. Slot 7
+15:20:42 : [ffff] - Item Martelo_de_Guerra deletado [932] [0 0 0 0 0 0]. Slot 8
+15:20:44 : [ffff] - Item Stiletto deletado [951] [0 0 0 0 0 0]. Slot 9
+15:20:46 : [ffff] - Item Martelo deletado [931] [0 0 0 0 0 0]. Slot 14
+15:20:48 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 6
+15:21:36 : [ffff] - Moveu item Martelo [931] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 6
+15:21:53 : [ffff] - Moveu item Martelo_de_Guerra [932] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 6
+15:22:18 : [ffff] - Moveu item Machado_de_Batalha [933] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 6
+15:22:29 : [ffff] - Moveu item Grande_Machado [934] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 6
+15:22:42 : [ffff] - Moveu item Martelo_Psíquico [935] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 6
+15:22:53 : [ffff] - Moveu item Mjolnir [936] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 6
+15:23:16 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:59:28 horas
+Posição atual: 2101x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Mjolnir[936] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Garra_Tripla[921] [0 0 0 0 0 0]
+[01] - Martelo[931] [0 0 0 0 0 0]
+[02] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[03] - Machado_de_Batalha[933] [0 0 0 0 0 0]
+[04] - Grande_Machado[934] [0 0 0 0 0 0]
+[05] - Martelo_Psíquico[935] [0 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:27:30 : [ffff] - Comando "/gm +item 947"
+15:27:30 : [ffff] - [Mensagem do servidor]> Criou o item Martelo_Troll
+15:27:30 : [ffff] - ffff criou o item Martelo_Troll [947] [0 0 0 0 0 0]
+15:27:35 : [ffff] - Comando "/gm +item 937"
+15:27:35 : [ffff] - [Mensagem do servidor]> Criou o item Basileus
+15:27:35 : [ffff] - ffff criou o item Basileus [937] [0 0 0 0 0 0]
+15:29:13 : [ffff] - Comando "/gm +set 6 937"
+15:30:00 : [ffff] - [Mensagem do servidor]: !Coliseu Místico será iniciado em 3 minutos. Disponível para Arch ou superior
+15:30:00 : [ffff] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+15:33:27 : [ffff] - Item Garra_Tripla deletado [921] [0 0 0 0 0 0]. Slot 0
+15:33:28 : [ffff] - Moveu item Martelo [931] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo INVENTÁRIO slot 2
+15:33:33 : [ffff] - Item Martelo_de_Guerra deletado [932] [0 0 0 0 0 0]. Slot 1
+15:33:34 : [ffff] - Item Martelo deletado [931] [0 0 0 0 0 0]. Slot 2
+15:33:35 : [ffff] - Item Machado_de_Batalha deletado [933] [0 0 0 0 0 0]. Slot 3
+15:33:36 : [ffff] - Item Grande_Machado deletado [934] [0 0 0 0 0 0]. Slot 4
+15:33:37 : [ffff] - Item Basileus deletado [937] [0 0 0 0 0 0]. Slot 8
+15:33:38 : [ffff] - Item Martelo_Troll deletado [947] [0 0 0 0 0 0]. Slot 7
+15:33:39 : [ffff] - Item Basileus deletado [937] [0 0 0 0 0 0]. Slot 6
+15:33:40 : [ffff] - Item Martelo_Psíquico deletado [935] [0 0 0 0 0 0]. Slot 5
+15:33:49 : [ffff] - Comando "/gm +item 916"
+15:33:49 : [ffff] - [Mensagem do servidor]> Criou o item Machado_Apocalíptico
+15:33:49 : [ffff] - ffff criou o item Machado_Apocalíptico [916] [0 0 0 0 0 0]
+15:33:51 : [ffff] - Comando "/gm +item 917"
+15:33:51 : [ffff] - [Mensagem do servidor]> Criou o item Florete
+15:33:51 : [ffff] - ffff criou o item Florete [917] [0 0 0 0 0 0]
+15:33:52 : [ffff] - Comando "/gm "
+15:33:52 : [ffff] - [Mensagem do servidor]> Utilize /gm +command
+15:33:57 : [ffff] - Comando "/gm 918"
+15:34:01 : [ffff] - Comando "/gm +item 918"
+15:34:01 : [ffff] - [Mensagem do servidor]> Criou o item Lança_Mágica
+15:34:01 : [ffff] - ffff criou o item Lança_Mágica [918] [0 0 0 0 0 0]
+15:34:02 : [ffff] - Comando "/gm +item 919"
+15:34:02 : [ffff] - [Mensagem do servidor]> Criou o item Cajado_Mortal
+15:34:02 : [ffff] - ffff criou o item Cajado_Mortal [919] [0 0 0 0 0 0]
+15:34:04 : [ffff] - Comando "/gm +item 920"
+15:34:04 : [ffff] - [Mensagem do servidor]> Criou o item Lança_de_Caça
+15:34:04 : [ffff] - ffff criou o item Lança_de_Caça [920] [0 0 0 0 0 0]
+15:34:06 : [ffff] - Comando "/gm +item 921"
+15:34:06 : [ffff] - [Mensagem do servidor]> Criou o item Garra_Tripla
+15:34:06 : [ffff] - ffff criou o item Garra_Tripla [921] [0 0 0 0 0 0]
+15:34:08 : [ffff] - Comando "/gm +item 922"
+15:34:08 : [ffff] - [Mensagem do servidor]> Criou o item Javelin
+15:34:08 : [ffff] - ffff criou o item Javelin [922] [0 0 0 0 0 0]
+15:34:10 : [ffff] - Comando "/gm +item 923"
+15:34:10 : [ffff] - [Mensagem do servidor]> Criou o item Arco_de_Cinzas
+15:34:10 : [ffff] - ffff criou o item Arco_de_Cinzas [923] [0 0 0 0 0 0]
+15:38:04 : [ffff] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+15:53:17 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:29:06 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:23:17 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:58:44 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:53:17 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 02:28:25 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:23:18 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 02:58:04 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:53:18 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 03:27:43 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:23:19 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 03:57:23 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:53:20 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 04:27:03 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:23:20 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 04:56:42 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:53:21 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 05:26:22 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:00:00 : [ffff] - [Mensagem do servidor]: !Coliseu Normal será iniciado em 3 minutos. Disponível apenas para mortais.
+20:00:00 : [ffff] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+20:08:04 : [ffff] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+20:23:21 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 05:56:02 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:30:00 : [ffff] - [Mensagem do servidor]: !Coliseu Místico será iniciado em 3 minutos. Disponível para Arch ou superior
+20:30:00 : [ffff] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+20:38:03 : [ffff] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+20:53:22 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 06:25:42 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:55:00 : [ffff] - [Mensagem do servidor]: A guerra de reinos iniciarï¿½ em 5 minutos. Acesse o teleporte de Noatun.
+21:00:00 : [ffff] - [Mensagem do servidor]: Guerra entre Reinos iniciada. Acesse o teleporte de Noatun!
+21:23:23 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 06:55:20 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:30:00 : [ffff] - [Mensagem do servidor]: A guerra do RvR terminou em empate!
+21:37:00 : [ffff] - [Mensagem do servidor]: O PvP Premium será iniciado em 5 minutos
+21:39:00 : [ffff] - [Mensagem do servidor]: O PvP Premium será iniciado em 3 minutos
+21:41:00 : [ffff] - [Mensagem do servidor]: O PvP Premium será iniciado em 1 minutos
+21:42:00 : [ffff] - [Mensagem do servidor]: O PvP Premium foi iniciado em Noatun!
+21:53:24 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 07:24:59 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:00:00 : [ffff] - [Mensagem do servidor]: A batalha do acampamento avançado do reino foi iniciada.
+22:23:24 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 07:54:38 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:30:00 : [ffff] - [Mensagem do servidor]: A batalha de acampamento avançado do reino foi finalizada
+22:53:25 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 08:24:16 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:23:25 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 08:53:54 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:53:26 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997646500
+Level atual: 1010
+Experiência atual: 7950
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 09:23:32 horas
+Posição atual: 2106x 2147y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado_Apocalíptico[916] [0 0 0 0 0 0]
+[01] - Florete[917] [0 0 0 0 0 0]
+[02] - Lança_Mágica[918] [0 0 0 0 0 0]
+[03] - Cajado_Mortal[919] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Garra_Tripla[921] [0 0 0 0 0 0]
+[06] - Javelin[922] [0 0 0 0 0 0]
+[07] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[15] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[16] - Katana[939] [0 0 0 0 0 0]
+[17] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[18] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[19] - Arco_de_Caveira[943] [0 0 0 0 0 0]
+[20] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[21] - Tsurugi[945] [0 0 0 0 0 0]
+[29] - Cajado_Orc[940] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 

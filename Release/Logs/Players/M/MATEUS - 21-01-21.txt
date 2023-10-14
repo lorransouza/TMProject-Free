@@ -1,0 +1,568 @@
+
+02:49:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+02:49:37 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+02:49:37 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+02:49:37 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+02:49:48 : Solicitou ir ao mundo...
+02:49:48 : Recebido pedido para entrar no jogo
+02:49:48 : Recebido informação do personagem completa.
+02:49:48 : [Espadao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Espadao
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:11 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura(N)[1116] [43 0 0 0 0 0]
+[03] - Calça(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas(N)[1140] [43 0 0 0 0 0]
+[05] - Botas(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+02:49:48 : [Espadao] - Personagem Espadao enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 8
+02:49:48 : [Espadao] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+02:49:48 : [Espadao] - Resetado a contagem de entradas água! Day: 19-20. Total: 0
+02:49:48 : [Espadao] - Enviado informações do personagem
+02:49:50 : [Espadao] - Comando "/day "
+02:49:50 : [Espadao] - [Mensagem do servidor]> !#11 2
+02:50:01 : [Espadao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+02:50:02 : [Espadao] - Comando "/gm +set level 400"
+02:50:31 : [Espadao] - Comando "/gm +item 1191"
+02:50:31 : [Espadao] - [Mensagem do servidor]> Criou o item Elmo(N)
+02:50:31 : [Espadao] - Espadao criou o item Elmo(N) [1191] [0 0 0 0 0 0]
+02:50:37 : [Espadao] - Item Elmo(N) deletado [1191] [0 0 0 0 0 0]. Slot 0
+02:50:47 : [Espadao] - Comando "/gm +item 1185"
+02:50:47 : [Espadao] - [Mensagem do servidor]> Criou o item Luvas(N)
+02:50:47 : [Espadao] - Espadao criou o item Luvas(N) [1185] [0 0 0 0 0 0]
+02:51:13 : [Espadao] - Moveu item Luvas(N) [1185] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 4
+02:52:19 : [Espadao] - Comando "/gm +item 1176 43 235"
+02:52:19 : [Espadao] - [Mensagem do servidor]> Criou o item Elmo(N)
+02:52:19 : [Espadao] - Espadao criou o item Elmo(N) [1176] [43 235 0 0 0 0]
+02:52:37 : [Espadao] - Comando "/gm +item 1179 43 235"
+02:52:37 : [Espadao] - [Mensagem do servidor]> Criou o item Armadura(N)
+02:52:37 : [Espadao] - Espadao criou o item Armadura(N) [1179] [43 235 0 0 0 0]
+02:52:58 : [Espadao] - Comando "/gm +item 1182 43 235"
+02:52:58 : [Espadao] - [Mensagem do servidor]> Criou o item Calça(N)
+02:52:58 : [Espadao] - Espadao criou o item Calça(N) [1182] [43 235 0 0 0 0]
+02:53:12 : [Espadao] - Comando "/gm +item 1185 43 235"
+02:53:12 : [Espadao] - [Mensagem do servidor]> Criou o item Luvas(N)
+02:53:12 : [Espadao] - Espadao criou o item Luvas(N) [1185] [43 235 0 0 0 0]
+02:53:26 : [Espadao] - Comando "/gm +item 1188 43 235"
+02:53:26 : [Espadao] - [Mensagem do servidor]> Criou o item Botas(N)
+02:53:26 : [Espadao] - Espadao criou o item Botas(N) [1188] [43 235 0 0 0 0]
+02:53:31 : [Espadao] - Moveu item Botas(N) [1188] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 5
+02:53:32 : [Espadao] - Moveu item Elmo(N) [1176] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 1
+02:53:32 : [Espadao] - Moveu item Armadura(N) [1179] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 2
+02:53:33 : [Espadao] - Moveu item Calça(N) [1182] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 3
+02:53:33 : [Espadao] - Moveu item Luvas(N) [1185] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 4
+03:01:38 : [Espadao] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+03:01:38 : [Espadao] - 1 Personagem foi desconectado. Permaneceu 00:11:52 minutos online
+03:10:58 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:10:58 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+03:10:58 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+03:12:25 : [Mensagem do servidor]> Deleting Character, wait a moment
+03:12:25 : Tentativa de deletar personagem enquanto não na CharList. Status atual: 14
+03:12:39 : [Mensagem do servidor]> Deleting Character, wait a moment
+03:12:39 : Tentativa de deletar personagem enquanto não na CharList. Status atual: 14
+03:12:51 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:12:51 : Personagem foi desconectado. Permaneceu 00:01:51 minutos online
+03:12:59 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:12:59 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+03:12:59 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+03:13:15 : Solicitado deletar personagem Espadao
+03:13:34 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:13:34 : Personagem foi desconectado. Permaneceu 00:00:34 minutos online
+03:13:42 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:13:52 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+03:13:52 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:14:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:14:14 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:14:14 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:14:14 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:14:23 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:14:23 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:14:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 2
+03:14:27 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+03:14:27 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:14:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 2
+03:14:42 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:14:42 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:14:42 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 2
+03:14:44 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+03:14:44 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:14:56 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:14:58 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:14:58 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:14:58 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:15:00 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:15:00 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:15:00 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:15:01 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:15:01 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:15:02 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:15:03 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:15:03 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:15:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:15:05 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:15:05 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:15:05 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:15:18 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:15:18 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:15:19 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:15:25 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:15:25 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:15:25 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:15:27 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:15:27 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:15:27 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:15:29 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+03:15:29 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:15:48 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 2
+03:15:49 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:15:49 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:15:51 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 2
+03:15:53 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:15:53 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:15:53 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 2
+03:15:55 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:15:55 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:15:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 2
+03:15:58 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:15:58 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:15:58 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 2
+03:16:20 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:16:20 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:16:20 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 2
+03:16:26 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:16:26 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:16:26 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 2
+03:16:28 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+03:16:28 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:30:17 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:30:23 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:30:23 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:30:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:30:39 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:30:39 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:30:39 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:30:44 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+03:30:44 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+03:30:45 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:36:50 : Desconectado por inatividade... Last: 62733. Counter: 63456. Status: 2
+03:36:50 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+04:58:53 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+04:58:58 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+04:58:58 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+04:58:59 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+04:59:01 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+04:59:01 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+04:59:01 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+04:59:03 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+04:59:03 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+04:59:04 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+04:59:05 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+04:59:05 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+04:59:06 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+04:59:11 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+04:59:11 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+04:59:12 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+04:59:15 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+04:59:15 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+04:59:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+04:59:26 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+04:59:26 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+04:59:26 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+04:59:31 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+04:59:31 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+04:59:31 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+04:59:35 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+04:59:35 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+05:02:01 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+05:02:06 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+05:02:06 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+05:02:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+05:02:27 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+05:02:27 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+13:14:12 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+13:14:12 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:14:12 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:14:38 : Solicitou ir ao mundo...
+13:14:38 : Recebido pedido para entrar no jogo
+13:14:38 : Recebido informação do personagem completa.
+13:14:38 : [lansudo] - [INFORMAÇÕES DA CONTA]
+Personagem online: lansudo
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:26 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:14:38 : [lansudo] - Personagem lansudo enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 8
+13:14:38 : [lansudo] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+13:14:38 : [lansudo] - Enviado informações do personagem
+13:14:40 : [lansudo] - Comando "/day "
+13:14:40 : [lansudo] - [Mensagem do servidor]> !#11 2
+13:14:47 : [lansudo] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:15:40 : [lansudo] - Comando "/gm +set level 400"
+13:17:17 : [lansudo] - Comando "/gm +item 1461"
+13:17:17 : [lansudo] - [Mensagem do servidor]> Criou o item Elmo(N)
+13:17:17 : [lansudo] - lansudo criou o item Elmo(N) [1461] [0 0 0 0 0 0]
+13:17:30 : [lansudo] - Moveu item Elmo(N) [1461] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+13:18:43 : [lansudo] - Comando "/gm +item 1461 43 235"
+13:18:43 : [lansudo] - [Mensagem do servidor]> Criou o item Elmo(N)
+13:18:43 : [lansudo] - lansudo criou o item Elmo(N) [1461] [43 235 0 0 0 0]
+13:18:55 : [lansudo] - Comando "/gm +item 1464 43 235"
+13:18:55 : [lansudo] - [Mensagem do servidor]> Criou o item Armadura(N)
+13:18:55 : [lansudo] - lansudo criou o item Armadura(N) [1464] [43 235 0 0 0 0]
+13:19:09 : [lansudo] - Comando "/gm +item 1467 43 235"
+13:19:09 : [lansudo] - [Mensagem do servidor]> Criou o item Calça(N)
+13:19:09 : [lansudo] - lansudo criou o item Calça(N) [1467] [43 235 0 0 0 0]
+13:19:21 : [lansudo] - Comando "/gm +item 1470 43 235"
+13:19:21 : [lansudo] - [Mensagem do servidor]> Criou o item Luvas(N)
+13:19:21 : [lansudo] - lansudo criou o item Luvas(N) [1470] [43 235 0 0 0 0]
+13:19:33 : [lansudo] - Comando "/gm +item 1473 43 235"
+13:19:33 : [lansudo] - [Mensagem do servidor]> Criou o item Botas(N)
+13:19:33 : [lansudo] - lansudo criou o item Botas(N) [1473] [43 235 0 0 0 0]
+13:19:36 : [lansudo] - Moveu item Botas(N) [1473] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 5
+13:19:36 : [lansudo] - Moveu item Elmo(N) [1461] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 1
+13:19:37 : [lansudo] - Moveu item Armadura(N) [1464] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 2
+13:19:38 : [lansudo] - Moveu item Calça(N) [1467] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 3
+13:19:38 : [lansudo] - Moveu item Luvas(N) [1470] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 4
+13:20:58 : [lansudo] - Comando "/gm +item 2138 43 235"
+13:20:58 : [lansudo] - [Mensagem do servidor]> Criou o item Lança_do_Triunfo
+13:20:58 : [lansudo] - lansudo criou o item Lança_do_Triunfo [2138] [43 235 0 0 0 0]
+13:21:29 : [lansudo] - Comando "/gm +item 2667"
+13:21:29 : [lansudo] - [Mensagem do servidor]> Criou o item Lança_do_Triunfo(Anct)
+13:21:29 : [lansudo] - lansudo criou o item Lança_do_Triunfo(Anct) [2667] [0 0 0 0 0 0]
+13:21:33 : [lansudo] - Moveu item Lança_do_Triunfo(Anct) [2667] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 6
+13:23:46 : [lansudo] - Comando "/gm +item 2667 43 235"
+13:23:46 : [lansudo] - [Mensagem do servidor]> Criou o item Lança_do_Triunfo(Anct)
+13:23:46 : [lansudo] - lansudo criou o item Lança_do_Triunfo(Anct) [2667] [43 235 0 0 0 0]
+13:23:49 : [lansudo] - Moveu item Lança_do_Triunfo(Anct) [2667] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 6
+13:24:35 : [lansudo] - Personagem deu personagem
+13:24:59 : Solicitou ir ao mundo...
+13:24:59 : Recebido pedido para entrar no jogo
+13:24:59 : Recebido informação do personagem completa.
+13:24:59 : [Espadudo] - [INFORMAÇÕES DA CONTA]
+Personagem online: Espadudo
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:10:38 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura(N)[1116] [43 0 0 0 0 0]
+[03] - Calça(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas(N)[1140] [43 0 0 0 0 0]
+[05] - Botas(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:24:59 : [Espadudo] - Personagem Espadudo enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 8
+13:24:59 : [Espadudo] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+13:24:59 : [Espadudo] - Enviado informações do personagem
+13:25:01 : [Espadudo] - Comando "/day "
+13:25:01 : [Espadudo] - [Mensagem do servidor]> !#11 2
+13:25:12 : [Espadudo] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:25:18 : [Espadudo] - Comando "/gm +set level 400"
+13:25:59 : [Espadudo] - Comando "/gm +item 1176 43 235"
+13:25:59 : [Espadudo] - [Mensagem do servidor]> Criou o item Elmo(N)
+13:25:59 : [Espadudo] - Espadudo criou o item Elmo(N) [1176] [43 235 0 0 0 0]
+13:26:14 : [Espadudo] - Comando "/gm +item 1179 43 235"
+13:26:14 : [Espadudo] - [Mensagem do servidor]> Criou o item Armadura(N)
+13:26:14 : [Espadudo] - Espadudo criou o item Armadura(N) [1179] [43 235 0 0 0 0]
+13:26:38 : [Espadudo] - Comando "/gm +item 1182 43 235"
+13:26:38 : [Espadudo] - [Mensagem do servidor]> Criou o item Calça(N)
+13:26:38 : [Espadudo] - Espadudo criou o item Calça(N) [1182] [43 235 0 0 0 0]
+13:26:54 : [Espadudo] - Comando "/gm +item 1185 43 235"
+13:26:54 : [Espadudo] - [Mensagem do servidor]> Criou o item Luvas(N)
+13:26:54 : [Espadudo] - Espadudo criou o item Luvas(N) [1185] [43 235 0 0 0 0]
+13:27:13 : [Espadudo] - Comando "/gm +item 1188 43 235"
+13:27:13 : [Espadudo] - [Mensagem do servidor]> Criou o item Botas(N)
+13:27:13 : [Espadudo] - Espadudo criou o item Botas(N) [1188] [43 235 0 0 0 0]
+13:27:24 : [Espadudo] - Moveu item Elmo(N) [1176] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+13:27:25 : [Espadudo] - Moveu item Armadura(N) [1179] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 2
+13:27:25 : [Espadudo] - Moveu item Calça(N) [1182] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 3
+13:27:26 : [Espadudo] - Moveu item Luvas(N) [1185] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 4
+13:27:27 : [Espadudo] - Moveu item Botas(N) [1188] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 5
+13:33:26 : [Espadudo] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:33:26 : [Espadudo] - 1 Personagem foi desconectado. Permaneceu 00:18:58 minutos online
+18:54:15 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 4
+18:54:15 : Usuário logou no jogo com clientId 4. - Servidor 2. Gold do banco: 0
+18:54:15 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+18:54:15 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:55:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+18:55:40 : MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:55:40 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+20:12:14 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 3
+20:12:14 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+20:12:14 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+20:12:14 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:12:41 : Solicitou ir ao mundo...
+20:12:41 : Recebido pedido para entrar no jogo
+20:12:41 : Recebido informação do personagem completa.
+20:12:41 : [Cajaduda] - [INFORMAÇÕES DA CONTA]
+Personagem online: Cajaduda
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:27 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[02] - Robe(N)[1266] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:12:41 : [Cajaduda] - Personagem Cajaduda enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 11
+20:12:41 : [Cajaduda] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+20:12:41 : [Cajaduda] - Enviado informações do personagem
+20:12:43 : [Cajaduda] - Comando "/day "
+20:12:43 : [Cajaduda] - [Mensagem do servidor]> !#11 2
+20:12:48 : [Cajaduda] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:13:01 : [Cajaduda] - Comando "/gm +set level 40"
+20:13:30 : [Cajaduda] - Comando "/gm +set level 359"
+20:14:00 : [Cajaduda] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+20:16:40 : [Cajaduda] - Comando "/gm +item 2196 43235"
+20:16:40 : [Cajaduda] - [Mensagem do servidor]> Criou o item Elmo(Le)
+20:16:40 : [Cajaduda] - Cajaduda criou o item Elmo(Le) [2196] [176 35 0 0 0 0]
+20:17:05 : [Cajaduda] - Moveu item Elmo(Le) [2196] [176 35 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+20:17:20 : [Cajaduda] - Comando "/gm +item 2196 43 235"
+20:17:20 : [Cajaduda] - [Mensagem do servidor]> Criou o item Elmo(Le)
+20:17:20 : [Cajaduda] - Cajaduda criou o item Elmo(Le) [2196] [43 235 0 0 0 0]
+20:17:22 : [Cajaduda] - Moveu item Elmo(Le) [2196] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 1
+20:17:37 : [Cajaduda] - Comando "/gm +item 2199"
+20:17:37 : [Cajaduda] - [Mensagem do servidor]> Criou o item Luvas(Le)
+20:17:37 : [Cajaduda] - Cajaduda criou o item Luvas(Le) [2199] [0 0 0 0 0 0]
+20:17:42 : [Cajaduda] - Comando "/gm +item 2201"
+20:17:42 : [Cajaduda] - [Mensagem do servidor]> Criou o item Chapéu(Le)
+20:17:42 : [Cajaduda] - Cajaduda criou o item Chapéu(Le) [2201] [0 0 0 0 0 0]
+20:18:49 : [Cajaduda] - Comando "/gm +item 1881"
+20:18:49 : [Cajaduda] - [Mensagem do servidor]> Criou o item Elmo(A)
+20:18:49 : [Cajaduda] - Cajaduda criou o item Elmo(A) [1881] [0 0 0 0 0 0]
+20:18:52 : [Cajaduda] - Comando "/gm +item 1882"
+20:18:52 : [Cajaduda] - [Mensagem do servidor]> Criou o item Túnica(A)
+20:18:52 : [Cajaduda] - Cajaduda criou o item Túnica(A) [1882] [0 0 0 0 0 0]
+20:18:53 : [Cajaduda] - Comando "/gm +item 1883"
+20:18:53 : [Cajaduda] - [Mensagem do servidor]> Criou o item Calça(A)
+20:18:53 : [Cajaduda] - Cajaduda criou o item Calça(A) [1883] [0 0 0 0 0 0]
+20:18:54 : [Cajaduda] - Comando "/gm +item 1883"
+20:18:54 : [Cajaduda] - [Mensagem do servidor]> Criou o item Calça(A)
+20:18:54 : [Cajaduda] - Cajaduda criou o item Calça(A) [1883] [0 0 0 0 0 0]
+20:18:58 : [Cajaduda] - Comando "/gm +item 1884"
+20:18:58 : [Cajaduda] - [Mensagem do servidor]> Criou o item Luvas(A)
+20:18:58 : [Cajaduda] - Cajaduda criou o item Luvas(A) [1884] [0 0 0 0 0 0]
+20:18:59 : [Cajaduda] - Comando "/gm +item 1885"
+20:19:00 : [Cajaduda] - [Mensagem do servidor]> Criou o item Botas(A)
+20:19:00 : [Cajaduda] - Cajaduda criou o item Botas(A) [1885] [0 0 0 0 0 0]
+20:19:06 : [Cajaduda] - Moveu item Elmo(A) [1881] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 1
+20:19:08 : [Cajaduda] - Moveu item Túnica(A) [1882] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+20:19:12 : [Cajaduda] - Moveu item Calça(A) [1883] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 3
+20:19:14 : [Cajaduda] - Moveu item Luvas(A) [1884] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 4
+20:19:15 : [Cajaduda] - Moveu item Botas(A) [1885] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 5
+20:42:42 : [Cajaduda] - [INFORMAÇÕES DA CONTA]
+Personagem online: Cajaduda
+Gold atual: 0
+Level atual: 359
+Experiência atual: 2234000000
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:30:03 horas
+Posição atual: 2116x 2143y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Elmo(A)[1881] [0 0 0 0 0 0]
+[02] - Túnica(A)[1882] [0 0 0 0 0 0]
+[03] - Calça(A)[1883] [0 0 0 0 0 0]
+[04] - Luvas(A)[1884] [0 0 0 0 0 0]
+[05] - Botas(A)[1885] [0 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Robe(N)[1254] [43 0 0 0 0 0]
+[01] - Elmo(Le)[2196] [176 35 0 0 0 0]
+[02] - Luvas(Le)[2199] [0 0 0 0 0 0]
+[03] - Chapéu(Le)[2201] [0 0 0 0 0 0]
+[04] - Elmo(Le)[2196] [43 235 0 0 0 0]
+[05] - Robe(N)[1266] [43 0 0 0 0 0]
+[06] - Saia(N)[1278] [43 0 0 0 0 0]
+[07] - Calça(A)[1883] [0 0 0 0 0 0]
+[08] - Luvas(N)[1290] [43 0 0 0 0 0]
+[09] - Botas(N)[1302] [43 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:47:52 : [Cajaduda] - [Mensagem do servidor]: Sharii falhou na composição do item Arco para Ancient

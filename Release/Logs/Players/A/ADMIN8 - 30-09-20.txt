@@ -1,0 +1,2500 @@
+
+11:09:19 : [NewS4] - Falha ao tentar receber o pacote. Recv fail. ErrorCode: 10054
+11:09:19 : [NewS4] - Usuário foi desconectado. Recebeu o erro 6 no Receive
+11:09:19 : [NewS4] - Personagem foi desconectado. Permaneceu 00:00:18 minutos online
+11:12:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+11:12:08 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+11:12:08 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+11:12:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+11:12:08 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+11:12:08 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+11:12:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+11:12:08 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+11:12:08 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+11:12:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+11:12:08 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+11:12:08 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+11:12:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+11:12:08 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+11:12:08 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+11:12:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+11:12:16 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+11:12:16 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+11:12:16 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:12:48 : Solicitou ir ao mundo...
+11:12:48 : Recebido pedido para entrar no jogo
+11:12:48 : Recebido informação do personagem completa.
+11:12:48 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:33 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:12:48 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+11:12:48 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+11:12:48 : [NewS4] - Resetado a contagem de entradas água! Day: 0-273. Total: 0
+11:14:57 : [NewS4] - [Mensagem do servidor]> 
+11:14:57 : [NewS4] - Comando "/day "
+11:14:57 : [NewS4] - [Mensagem do servidor]> !#11 2
+11:14:57 : [NewS4] - err,action 1802023397 1801955156 15000 ms limit
+11:14:57 : [NewS4] - CrackError - Points: 1 type: 102
+11:14:57 : [NewS4] - O usuário não enviou o pacote de integridade de macaddress
+11:15:02 : [NewS4] - [Mensagem do servidor]> 
+11:15:03 : [NewS4] - [Mensagem do servidor]> 
+12:04:25 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+12:04:26 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+12:04:26 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:04:26 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:05:34 : Solicitou ir ao mundo...
+12:05:34 : Recebido pedido para entrar no jogo
+12:05:34 : Recebido informação do personagem completa.
+12:05:34 : [Novo] - [INFORMAÇÕES DA CONTA]
+Personagem online: Novo
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:08 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:05:34 : [Novo] - Personagem Novo enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+12:05:34 : [Novo] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:05:34 : [Novo] - Resetado a contagem de entradas água! Day: 0-273. Total: 0
+12:05:59 : [Novo] - [Mensagem do servidor]> 
+12:05:59 : [Novo] - Comando "/day "
+12:05:59 : [Novo] - [Mensagem do servidor]> !#11 2
+12:05:59 : [Novo] - O usuário não enviou o pacote de integridade de macaddress
+12:06:03 : [Novo] - [Mensagem do servidor]> 
+12:06:03 : [Novo] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+12:06:15 : [Novo] - [Mensagem do servidor]> 
+12:06:15 : [Novo] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+12:06:16 : [Novo] - [Mensagem do servidor]> 
+12:06:17 : [Novo] - [Mensagem do servidor]> 
+12:06:18 : [Novo] - [Mensagem do servidor]> 
+12:06:19 : [Novo] - [Mensagem do servidor]> 
+12:06:20 : [Novo] - [Mensagem do servidor]> 
+12:06:24 : [Novo] - [Mensagem do servidor]> 
+12:06:25 : [Novo] - [Mensagem do servidor]> 
+12:18:01 : [Novo] - [Mensagem do servidor]> 
+12:20:33 : [Novo] - [Mensagem do servidor]> 
+12:29:42 : [Novo] - [Mensagem do servidor]> 
+12:37:03 : [Novo] - [Mensagem do servidor]> 
+12:37:03 : [Novo] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:37:03 : [Novo] - Personagem foi desconectado. Permaneceu 00:01:22 minutos online
+12:45:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (C5:09:8C:EE:22:4B). ClientId: 1
+12:46:12 : Falha ao receber pacote de charlist. ID que recebeu: ADMIN5. ID correto: ADMIN8
+12:46:12 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+14:13:45 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+14:13:45 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:13:45 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+14:13:45 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:16:32 : Solicitou ir ao mundo...
+14:16:32 : Recebido pedido para entrar no jogo
+14:16:32 : Recebido informação do personagem completa.
+14:16:32 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:02:46 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:16:32 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+14:16:32 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+14:16:32 : [NewS4] - Resetado a contagem de entradas água! Day: 0-273. Total: -842150451
+14:16:32 : [NewS4] - [Mensagem do servidor]> =
+14:16:32 : [NewS4] - Enviado informações do personagem
+14:16:32 : [NewS4] - [Mensagem do servidor]> =
+14:16:33 : [NewS4] - Comando "/day "
+14:16:33 : [NewS4] - [Mensagem do servidor]> !#11 2
+14:16:34 : [NewS4] - [Mensagem do servidor]> =
+14:16:35 : [NewS4] - [Mensagem do servidor]> =
+14:16:36 : [NewS4] - [Mensagem do servidor]> =
+14:16:37 : [NewS4] - [Mensagem do servidor]> =
+14:16:38 : [NewS4] - [Mensagem do servidor]> =
+14:16:39 : [NewS4] - [Mensagem do servidor]> =
+14:16:40 : [NewS4] - [Mensagem do servidor]> =
+14:16:41 : [NewS4] - [Mensagem do servidor]> =
+14:16:42 : [NewS4] - [Mensagem do servidor]> =
+14:16:43 : [NewS4] - [Mensagem do servidor]> =
+14:16:44 : [NewS4] - [Mensagem do servidor]> =
+14:16:45 : [NewS4] - [Mensagem do servidor]> =
+14:16:46 : [NewS4] - [Mensagem do servidor]> =
+14:16:47 : [NewS4] - [Mensagem do servidor]> =
+14:16:47 : [NewS4] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:16:48 : [NewS4] - [Mensagem do servidor]> =
+14:16:49 : [NewS4] - [Mensagem do servidor]> =
+14:16:50 : [NewS4] - [Mensagem do servidor]> =
+14:16:51 : [NewS4] - [Mensagem do servidor]> =
+14:16:52 : [NewS4] - [Mensagem do servidor]> =
+14:16:53 : [NewS4] - [Mensagem do servidor]> =
+14:16:54 : [NewS4] - [Mensagem do servidor]> =
+14:16:55 : [NewS4] - [Mensagem do servidor]> =
+14:16:56 : [NewS4] - [Mensagem do servidor]> =
+14:16:57 : [NewS4] - [Mensagem do servidor]> =
+14:16:58 : [NewS4] - [Mensagem do servidor]> =
+14:16:59 : [NewS4] - [Mensagem do servidor]> =
+14:17:00 : [NewS4] - [Mensagem do servidor]> =
+14:17:01 : [NewS4] - [Mensagem do servidor]> =
+14:17:02 : [NewS4] - [Mensagem do servidor]> =
+14:17:03 : [NewS4] - [Mensagem do servidor]> =
+14:17:04 : [NewS4] - [Mensagem do servidor]> =
+14:17:05 : [NewS4] - [Mensagem do servidor]> =
+14:17:06 : [NewS4] - [Mensagem do servidor]> =
+14:17:07 : [NewS4] - [Mensagem do servidor]> =
+14:17:08 : [NewS4] - [Mensagem do servidor]> =
+14:17:09 : [NewS4] - [Mensagem do servidor]> =
+14:17:10 : [NewS4] - [Mensagem do servidor]> =
+14:17:11 : [NewS4] - [Mensagem do servidor]> =
+14:17:12 : [NewS4] - [Mensagem do servidor]> =
+14:17:13 : [NewS4] - [Mensagem do servidor]> =
+14:17:14 : [NewS4] - [Mensagem do servidor]> =
+14:17:15 : [NewS4] - [Mensagem do servidor]> =
+14:17:16 : [NewS4] - [Mensagem do servidor]> =
+14:17:17 : [NewS4] - [Mensagem do servidor]> =
+14:17:18 : [NewS4] - [Mensagem do servidor]> =
+14:17:19 : [NewS4] - [Mensagem do servidor]> =
+14:17:20 : [NewS4] - [Mensagem do servidor]> =
+14:17:21 : [NewS4] - [Mensagem do servidor]> =
+14:17:22 : [NewS4] - [Mensagem do servidor]> =
+14:17:23 : [NewS4] - [Mensagem do servidor]> =
+14:17:24 : [NewS4] - [Mensagem do servidor]> =
+14:17:25 : [NewS4] - [Mensagem do servidor]> =
+14:17:26 : [NewS4] - [Mensagem do servidor]> =
+14:17:27 : [NewS4] - [Mensagem do servidor]> =
+14:17:28 : [NewS4] - [Mensagem do servidor]> =
+14:17:29 : [NewS4] - [Mensagem do servidor]> =
+14:17:30 : [NewS4] - [Mensagem do servidor]> =
+14:17:31 : [NewS4] - [Mensagem do servidor]> =
+14:17:32 : [NewS4] - [Mensagem do servidor]> =
+14:17:33 : [NewS4] - [Mensagem do servidor]> =
+14:17:34 : [NewS4] - [Mensagem do servidor]> =
+14:17:35 : [NewS4] - [Mensagem do servidor]> =
+14:17:36 : [NewS4] - [Mensagem do servidor]> =
+14:17:37 : [NewS4] - [Mensagem do servidor]> =
+14:17:38 : [NewS4] - [Mensagem do servidor]> =
+14:17:39 : [NewS4] - [Mensagem do servidor]> =
+14:17:40 : [NewS4] - [Mensagem do servidor]> =
+14:17:41 : [NewS4] - [Mensagem do servidor]> =
+14:17:42 : [NewS4] - [Mensagem do servidor]> =
+14:17:43 : [NewS4] - [Mensagem do servidor]> =
+14:17:44 : [NewS4] - [Mensagem do servidor]> =
+14:17:45 : [NewS4] - [Mensagem do servidor]> =
+14:17:46 : [NewS4] - [Mensagem do servidor]> =
+14:17:47 : [NewS4] - [Mensagem do servidor]> =
+14:17:48 : [NewS4] - [Mensagem do servidor]> =
+14:17:49 : [NewS4] - [Mensagem do servidor]> =
+14:17:51 : [NewS4] - [Mensagem do servidor]> =
+14:17:51 : [NewS4] - [Mensagem do servidor]> =
+14:17:53 : [NewS4] - [Mensagem do servidor]> =
+14:17:54 : [NewS4] - [Mensagem do servidor]> =
+14:17:55 : [NewS4] - [Mensagem do servidor]> =
+14:17:55 : [NewS4] - [Mensagem do servidor]> =
+14:17:56 : [NewS4] - [Mensagem do servidor]> =
+14:17:57 : [NewS4] - [Mensagem do servidor]> =
+14:17:58 : [NewS4] - [Mensagem do servidor]> =
+14:17:59 : [NewS4] - [Mensagem do servidor]> =
+14:18:01 : [NewS4] - [Mensagem do servidor]> =
+14:18:02 : [NewS4] - [Mensagem do servidor]> =
+14:18:03 : [NewS4] - [Mensagem do servidor]> =
+14:18:04 : [NewS4] - [Mensagem do servidor]> =
+14:18:05 : [NewS4] - [Mensagem do servidor]> =
+14:18:06 : [NewS4] - [Mensagem do servidor]> =
+14:18:07 : [NewS4] - [Mensagem do servidor]> =
+14:18:08 : [NewS4] - [Mensagem do servidor]> =
+14:18:09 : [NewS4] - [Mensagem do servidor]> =
+14:18:10 : [NewS4] - [Mensagem do servidor]> =
+14:18:11 : [NewS4] - [Mensagem do servidor]> =
+14:18:12 : [NewS4] - [Mensagem do servidor]> =
+14:18:13 : [NewS4] - [Mensagem do servidor]> =
+14:18:14 : [NewS4] - [Mensagem do servidor]> =
+14:18:15 : [NewS4] - [Mensagem do servidor]> =
+14:18:16 : [NewS4] - [Mensagem do servidor]> =
+14:18:17 : [NewS4] - [Mensagem do servidor]> =
+14:18:18 : [NewS4] - [Mensagem do servidor]> =
+14:18:19 : [NewS4] - [Mensagem do servidor]> =
+14:18:20 : [NewS4] - [Mensagem do servidor]> =
+14:18:21 : [NewS4] - [Mensagem do servidor]> =
+14:18:22 : [NewS4] - [Mensagem do servidor]> =
+14:18:23 : [NewS4] - [Mensagem do servidor]> =
+14:18:24 : [NewS4] - [Mensagem do servidor]> =
+14:18:25 : [NewS4] - [Mensagem do servidor]> =
+14:18:26 : [NewS4] - [Mensagem do servidor]> =
+14:18:27 : [NewS4] - [Mensagem do servidor]> =
+14:18:28 : [NewS4] - [Mensagem do servidor]> =
+14:18:29 : [NewS4] - [Mensagem do servidor]> =
+14:18:30 : [NewS4] - [Mensagem do servidor]> =
+14:18:31 : [NewS4] - [Mensagem do servidor]> =
+14:18:32 : [NewS4] - [Mensagem do servidor]> =
+14:18:33 : [NewS4] - [Mensagem do servidor]> =
+14:18:34 : [NewS4] - [Mensagem do servidor]> =
+14:18:35 : [NewS4] - [Mensagem do servidor]> =
+14:18:36 : [NewS4] - [Mensagem do servidor]> =
+14:18:37 : [NewS4] - [Mensagem do servidor]> =
+14:18:38 : [NewS4] - [Mensagem do servidor]> =
+14:18:39 : [NewS4] - [Mensagem do servidor]> =
+14:18:40 : [NewS4] - [Mensagem do servidor]> =
+14:18:41 : [NewS4] - [Mensagem do servidor]> =
+14:18:42 : [NewS4] - [Mensagem do servidor]> =
+14:18:43 : [NewS4] - [Mensagem do servidor]> =
+14:18:44 : [NewS4] - [Mensagem do servidor]> =
+14:18:45 : [NewS4] - [Mensagem do servidor]> =
+14:18:46 : [NewS4] - [Mensagem do servidor]> =
+14:18:47 : [NewS4] - [Mensagem do servidor]> =
+14:18:48 : [NewS4] - [Mensagem do servidor]> =
+14:18:49 : [NewS4] - [Mensagem do servidor]> =
+14:18:50 : [NewS4] - [Mensagem do servidor]> =
+14:18:51 : [NewS4] - [Mensagem do servidor]> =
+14:18:52 : [NewS4] - [Mensagem do servidor]> =
+14:18:53 : [NewS4] - [Mensagem do servidor]> =
+14:18:54 : [NewS4] - [Mensagem do servidor]> =
+14:18:55 : [NewS4] - [Mensagem do servidor]> =
+14:18:56 : [NewS4] - [Mensagem do servidor]> =
+14:18:57 : [NewS4] - [Mensagem do servidor]> =
+14:18:58 : [NewS4] - [Mensagem do servidor]> =
+14:18:59 : [NewS4] - [Mensagem do servidor]> =
+14:19:00 : [NewS4] - [Mensagem do servidor]> =
+14:19:01 : [NewS4] - [Mensagem do servidor]> =
+14:19:02 : [NewS4] - [Mensagem do servidor]> =
+14:19:03 : [NewS4] - [Mensagem do servidor]> =
+14:19:04 : [NewS4] - [Mensagem do servidor]> =
+14:19:05 : [NewS4] - [Mensagem do servidor]> =
+14:19:06 : [NewS4] - [Mensagem do servidor]> =
+14:19:07 : [NewS4] - [Mensagem do servidor]> =
+14:19:08 : [NewS4] - [Mensagem do servidor]> =
+14:19:09 : [NewS4] - [Mensagem do servidor]> =
+14:19:10 : [NewS4] - [Mensagem do servidor]> =
+14:19:11 : [NewS4] - [Mensagem do servidor]> =
+14:19:12 : [NewS4] - [Mensagem do servidor]> =
+14:19:13 : [NewS4] - [Mensagem do servidor]> =
+14:19:14 : [NewS4] - [Mensagem do servidor]> =
+14:19:15 : [NewS4] - [Mensagem do servidor]> =
+14:19:16 : [NewS4] - [Mensagem do servidor]> =
+14:19:17 : [NewS4] - [Mensagem do servidor]> =
+14:19:18 : [NewS4] - [Mensagem do servidor]> =
+14:19:19 : [NewS4] - [Mensagem do servidor]> =
+14:19:20 : [NewS4] - [Mensagem do servidor]> =
+14:19:21 : [NewS4] - [Mensagem do servidor]> =
+14:19:22 : [NewS4] - [Mensagem do servidor]> =
+14:19:23 : [NewS4] - [Mensagem do servidor]> =
+14:19:24 : [NewS4] - [Mensagem do servidor]> =
+14:19:25 : [NewS4] - [Mensagem do servidor]> =
+14:19:26 : [NewS4] - [Mensagem do servidor]> =
+14:19:27 : [NewS4] - [Mensagem do servidor]> =
+14:19:28 : [NewS4] - [Mensagem do servidor]> =
+14:19:29 : [NewS4] - [Mensagem do servidor]> =
+14:19:30 : [NewS4] - [Mensagem do servidor]> =
+14:19:31 : [NewS4] - [Mensagem do servidor]> =
+14:19:32 : [NewS4] - [Mensagem do servidor]> =
+14:19:33 : [NewS4] - [Mensagem do servidor]> =
+14:19:34 : [NewS4] - [Mensagem do servidor]> =
+14:19:35 : [NewS4] - [Mensagem do servidor]> =
+14:19:36 : [NewS4] - [Mensagem do servidor]> =
+14:19:37 : [NewS4] - [Mensagem do servidor]> =
+14:19:39 : [NewS4] - [Mensagem do servidor]> =
+14:19:39 : [NewS4] - [Mensagem do servidor]> =
+14:19:41 : [NewS4] - [Mensagem do servidor]> =
+14:19:42 : [NewS4] - [Mensagem do servidor]> =
+14:19:43 : [NewS4] - [Mensagem do servidor]> =
+14:19:44 : [NewS4] - [Mensagem do servidor]> =
+14:19:45 : [NewS4] - [Mensagem do servidor]> =
+14:19:46 : [NewS4] - [Mensagem do servidor]> =
+14:19:47 : [NewS4] - [Mensagem do servidor]> =
+14:19:48 : [NewS4] - [Mensagem do servidor]> =
+14:19:49 : [NewS4] - [Mensagem do servidor]> =
+14:19:50 : [NewS4] - [Mensagem do servidor]> =
+14:19:51 : [NewS4] - [Mensagem do servidor]> =
+14:19:52 : [NewS4] - [Mensagem do servidor]> =
+14:19:53 : [NewS4] - [Mensagem do servidor]> =
+14:19:54 : [NewS4] - [Mensagem do servidor]> =
+14:19:55 : [NewS4] - [Mensagem do servidor]> =
+14:19:56 : [NewS4] - [Mensagem do servidor]> =
+14:19:57 : [NewS4] - [Mensagem do servidor]> =
+14:19:58 : [NewS4] - [Mensagem do servidor]> =
+14:19:59 : [NewS4] - [Mensagem do servidor]> =
+14:20:00 : [NewS4] - [Mensagem do servidor]> =
+14:20:01 : [NewS4] - [Mensagem do servidor]> =
+14:20:02 : [NewS4] - [Mensagem do servidor]> =
+14:20:03 : [NewS4] - [Mensagem do servidor]> =
+14:20:04 : [NewS4] - [Mensagem do servidor]> =
+14:20:05 : [NewS4] - [Mensagem do servidor]> =
+14:20:06 : [NewS4] - [Mensagem do servidor]> =
+14:20:07 : [NewS4] - [Mensagem do servidor]> =
+14:20:08 : [NewS4] - [Mensagem do servidor]> =
+14:20:09 : [NewS4] - [Mensagem do servidor]> =
+14:20:10 : [NewS4] - [Mensagem do servidor]> =
+14:20:11 : [NewS4] - [Mensagem do servidor]> =
+14:20:12 : [NewS4] - [Mensagem do servidor]> =
+14:20:13 : [NewS4] - [Mensagem do servidor]> =
+14:20:14 : [NewS4] - [Mensagem do servidor]> =
+14:20:15 : [NewS4] - [Mensagem do servidor]> =
+14:20:16 : [NewS4] - [Mensagem do servidor]> =
+14:20:17 : [NewS4] - [Mensagem do servidor]> =
+14:20:18 : [NewS4] - [Mensagem do servidor]> =
+14:20:19 : [NewS4] - [Mensagem do servidor]> =
+14:20:20 : [NewS4] - [Mensagem do servidor]> =
+14:20:21 : [NewS4] - [Mensagem do servidor]> =
+14:20:22 : [NewS4] - [Mensagem do servidor]> =
+14:20:23 : [NewS4] - [Mensagem do servidor]> =
+14:20:24 : [NewS4] - [Mensagem do servidor]> =
+14:20:25 : [NewS4] - [Mensagem do servidor]> =
+14:20:26 : [NewS4] - [Mensagem do servidor]> =
+14:20:27 : [NewS4] - [Mensagem do servidor]> =
+14:20:28 : [NewS4] - [Mensagem do servidor]> =
+14:20:29 : [NewS4] - [Mensagem do servidor]> =
+14:20:30 : [NewS4] - [Mensagem do servidor]> =
+14:20:31 : [NewS4] - [Mensagem do servidor]> =
+14:20:32 : [NewS4] - [Mensagem do servidor]> =
+14:20:33 : [NewS4] - [Mensagem do servidor]> =
+14:20:34 : [NewS4] - [Mensagem do servidor]> =
+14:20:35 : [NewS4] - [Mensagem do servidor]> =
+14:20:36 : [NewS4] - [Mensagem do servidor]> =
+14:20:37 : [NewS4] - [Mensagem do servidor]> =
+14:20:38 : [NewS4] - [Mensagem do servidor]> =
+14:20:39 : [NewS4] - [Mensagem do servidor]> =
+14:20:40 : [NewS4] - [Mensagem do servidor]> =
+14:20:41 : [NewS4] - [Mensagem do servidor]> =
+14:20:42 : [NewS4] - [Mensagem do servidor]> =
+14:20:43 : [NewS4] - [Mensagem do servidor]> =
+14:20:44 : [NewS4] - [Mensagem do servidor]> =
+14:20:45 : [NewS4] - [Mensagem do servidor]> =
+14:20:46 : [NewS4] - [Mensagem do servidor]> =
+14:20:47 : [NewS4] - [Mensagem do servidor]> =
+14:20:48 : [NewS4] - [Mensagem do servidor]> =
+14:20:49 : [NewS4] - [Mensagem do servidor]> =
+14:20:50 : [NewS4] - [Mensagem do servidor]> =
+14:20:51 : [NewS4] - [Mensagem do servidor]> =
+14:20:53 : [NewS4] - [Mensagem do servidor]> =
+14:20:53 : [NewS4] - [Mensagem do servidor]> =
+14:20:54 : [NewS4] - [Mensagem do servidor]> =
+14:20:55 : [NewS4] - [Mensagem do servidor]> =
+14:20:56 : [NewS4] - [Mensagem do servidor]> =
+14:20:58 : [NewS4] - [Mensagem do servidor]> =
+14:20:59 : [NewS4] - [Mensagem do servidor]> =
+14:21:00 : [NewS4] - [Mensagem do servidor]> =
+14:21:01 : [NewS4] - [Mensagem do servidor]> =
+14:21:02 : [NewS4] - [Mensagem do servidor]> =
+14:21:03 : [NewS4] - [Mensagem do servidor]> =
+14:21:04 : [NewS4] - [Mensagem do servidor]> =
+14:21:05 : [NewS4] - [Mensagem do servidor]> =
+14:21:06 : [NewS4] - [Mensagem do servidor]> =
+14:21:07 : [NewS4] - [Mensagem do servidor]> =
+14:21:08 : [NewS4] - [Mensagem do servidor]> =
+14:21:09 : [NewS4] - [Mensagem do servidor]> =
+14:21:10 : [NewS4] - [Mensagem do servidor]> =
+14:21:11 : [NewS4] - [Mensagem do servidor]> =
+14:21:12 : [NewS4] - [Mensagem do servidor]> =
+14:21:13 : [NewS4] - [Mensagem do servidor]> =
+14:21:14 : [NewS4] - [Mensagem do servidor]> =
+14:21:15 : [NewS4] - [Mensagem do servidor]> =
+14:21:16 : [NewS4] - [Mensagem do servidor]> =
+14:21:17 : [NewS4] - [Mensagem do servidor]> =
+14:21:18 : [NewS4] - [Mensagem do servidor]> =
+14:21:19 : [NewS4] - [Mensagem do servidor]> =
+14:21:20 : [NewS4] - [Mensagem do servidor]> =
+14:21:21 : [NewS4] - [Mensagem do servidor]> =
+14:21:22 : [NewS4] - [Mensagem do servidor]> =
+14:21:23 : [NewS4] - [Mensagem do servidor]> =
+14:21:24 : [NewS4] - [Mensagem do servidor]> =
+14:21:25 : [NewS4] - [Mensagem do servidor]> =
+14:21:26 : [NewS4] - [Mensagem do servidor]> =
+14:21:27 : [NewS4] - [Mensagem do servidor]> =
+14:21:28 : [NewS4] - [Mensagem do servidor]> =
+14:21:29 : [NewS4] - [Mensagem do servidor]> =
+14:21:30 : [NewS4] - [Mensagem do servidor]> =
+14:21:31 : [NewS4] - [Mensagem do servidor]> =
+14:21:32 : [NewS4] - [Mensagem do servidor]> =
+14:21:33 : [NewS4] - [Mensagem do servidor]> =
+14:21:34 : [NewS4] - [Mensagem do servidor]> =
+14:21:35 : [NewS4] - [Mensagem do servidor]> =
+14:21:36 : [NewS4] - [Mensagem do servidor]> =
+14:21:37 : [NewS4] - [Mensagem do servidor]> =
+14:21:38 : [NewS4] - [Mensagem do servidor]> =
+14:21:39 : [NewS4] - [Mensagem do servidor]> =
+14:21:40 : [NewS4] - [Mensagem do servidor]> =
+14:21:41 : [NewS4] - [Mensagem do servidor]> =
+14:21:42 : [NewS4] - [Mensagem do servidor]> =
+14:21:43 : [NewS4] - [Mensagem do servidor]> =
+14:21:44 : [NewS4] - [Mensagem do servidor]> =
+14:21:45 : [NewS4] - [Mensagem do servidor]> =
+14:21:46 : [NewS4] - [Mensagem do servidor]> =
+14:21:47 : [NewS4] - [Mensagem do servidor]> =
+14:21:48 : [NewS4] - [Mensagem do servidor]> =
+14:21:49 : [NewS4] - [Mensagem do servidor]> =
+14:21:50 : [NewS4] - [Mensagem do servidor]> =
+14:21:51 : [NewS4] - [Mensagem do servidor]> =
+14:21:52 : [NewS4] - [Mensagem do servidor]> =
+14:21:53 : [NewS4] - [Mensagem do servidor]> =
+14:21:54 : [NewS4] - [Mensagem do servidor]> =
+14:21:55 : [NewS4] - [Mensagem do servidor]> =
+14:21:56 : [NewS4] - [Mensagem do servidor]> =
+14:21:57 : [NewS4] - [Mensagem do servidor]> =
+14:21:58 : [NewS4] - [Mensagem do servidor]> =
+14:21:59 : [NewS4] - [Mensagem do servidor]> =
+14:22:00 : [NewS4] - [Mensagem do servidor]> =
+14:22:01 : [NewS4] - [Mensagem do servidor]> =
+14:22:02 : [NewS4] - [Mensagem do servidor]> =
+14:22:03 : [NewS4] - [Mensagem do servidor]> =
+14:22:04 : [NewS4] - [Mensagem do servidor]> =
+14:22:05 : [NewS4] - [Mensagem do servidor]> =
+14:22:06 : [NewS4] - [Mensagem do servidor]> =
+14:22:07 : [NewS4] - [Mensagem do servidor]> =
+14:22:08 : [NewS4] - [Mensagem do servidor]> =
+14:22:09 : [NewS4] - [Mensagem do servidor]> =
+14:22:10 : [NewS4] - [Mensagem do servidor]> =
+14:22:11 : [NewS4] - [Mensagem do servidor]> =
+14:22:13 : [NewS4] - [Mensagem do servidor]> =
+14:22:13 : [NewS4] - [Mensagem do servidor]> =
+14:22:15 : [NewS4] - [Mensagem do servidor]> =
+14:22:16 : [NewS4] - [Mensagem do servidor]> =
+14:22:17 : [NewS4] - [Mensagem do servidor]> =
+14:22:18 : [NewS4] - [Mensagem do servidor]> =
+14:22:19 : [NewS4] - [Mensagem do servidor]> =
+14:22:20 : [NewS4] - [Mensagem do servidor]> =
+14:22:21 : [NewS4] - [Mensagem do servidor]> =
+14:22:22 : [NewS4] - [Mensagem do servidor]> =
+14:22:23 : [NewS4] - [Mensagem do servidor]> =
+14:22:24 : [NewS4] - [Mensagem do servidor]> =
+14:22:25 : [NewS4] - [Mensagem do servidor]> =
+14:22:26 : [NewS4] - [Mensagem do servidor]> =
+14:22:27 : [NewS4] - [Mensagem do servidor]> =
+14:22:28 : [NewS4] - [Mensagem do servidor]> =
+14:22:29 : [NewS4] - [Mensagem do servidor]> =
+14:22:30 : [NewS4] - [Mensagem do servidor]> =
+14:22:31 : [NewS4] - [Mensagem do servidor]> =
+14:22:32 : [NewS4] - [Mensagem do servidor]> =
+14:22:33 : [NewS4] - [Mensagem do servidor]> =
+14:22:34 : [NewS4] - [Mensagem do servidor]> =
+14:22:35 : [NewS4] - [Mensagem do servidor]> =
+14:22:36 : [NewS4] - [Mensagem do servidor]> =
+14:22:37 : [NewS4] - [Mensagem do servidor]> =
+14:22:38 : [NewS4] - [Mensagem do servidor]> =
+14:22:39 : [NewS4] - [Mensagem do servidor]> =
+14:22:40 : [NewS4] - [Mensagem do servidor]> =
+14:22:41 : [NewS4] - [Mensagem do servidor]> =
+14:22:42 : [NewS4] - [Mensagem do servidor]> =
+14:22:43 : [NewS4] - [Mensagem do servidor]> =
+14:22:44 : [NewS4] - [Mensagem do servidor]> =
+14:22:45 : [NewS4] - [Mensagem do servidor]> =
+14:22:46 : [NewS4] - [Mensagem do servidor]> =
+14:22:47 : [NewS4] - [Mensagem do servidor]> =
+14:22:48 : [NewS4] - [Mensagem do servidor]> =
+14:22:49 : [NewS4] - [Mensagem do servidor]> =
+14:22:50 : [NewS4] - [Mensagem do servidor]> =
+14:22:51 : [NewS4] - [Mensagem do servidor]> =
+14:22:52 : [NewS4] - [Mensagem do servidor]> =
+14:22:53 : [NewS4] - [Mensagem do servidor]> =
+14:22:54 : [NewS4] - [Mensagem do servidor]> =
+14:22:55 : [NewS4] - [Mensagem do servidor]> =
+14:22:56 : [NewS4] - [Mensagem do servidor]> =
+14:22:57 : [NewS4] - [Mensagem do servidor]> =
+14:22:58 : [NewS4] - [Mensagem do servidor]> =
+14:22:59 : [NewS4] - [Mensagem do servidor]> =
+14:23:00 : [NewS4] - [Mensagem do servidor]> =
+14:23:01 : [NewS4] - [Mensagem do servidor]> =
+14:23:02 : [NewS4] - [Mensagem do servidor]> =
+14:23:03 : [NewS4] - [Mensagem do servidor]> =
+14:23:04 : [NewS4] - [Mensagem do servidor]> =
+14:23:05 : [NewS4] - [Mensagem do servidor]> =
+14:23:06 : [NewS4] - [Mensagem do servidor]> =
+14:23:07 : [NewS4] - [Mensagem do servidor]> =
+14:23:08 : [NewS4] - [Mensagem do servidor]> =
+14:23:09 : [NewS4] - [Mensagem do servidor]> =
+14:23:10 : [NewS4] - [Mensagem do servidor]> =
+14:23:11 : [NewS4] - [Mensagem do servidor]> =
+14:23:12 : [NewS4] - [Mensagem do servidor]> =
+14:23:13 : [NewS4] - [Mensagem do servidor]> =
+14:23:14 : [NewS4] - [Mensagem do servidor]> =
+14:23:15 : [NewS4] - [Mensagem do servidor]> =
+14:23:16 : [NewS4] - [Mensagem do servidor]> =
+14:24:56 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+14:25:18 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:25:18 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+14:25:19 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+14:25:19 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:25:19 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+14:25:19 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:25:25 : Solicitou ir ao mundo...
+14:25:25 : Recebido pedido para entrar no jogo
+14:25:25 : Recebido informação do personagem completa.
+14:25:25 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:25:25 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+14:25:25 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+14:25:25 : [NewS4] - Resetado a contagem de entradas água! Day: -842150451-273. Total: -842150451
+14:25:25 : [NewS4] - [Mensagem do servidor]> =
+14:25:25 : [NewS4] - Enviado informações do personagem
+14:25:26 : [NewS4] - [Mensagem do servidor]> =
+14:25:26 : [NewS4] - Comando "/day "
+14:25:26 : [NewS4] - [Mensagem do servidor]> !#11 2
+14:25:27 : [NewS4] - [Mensagem do servidor]> =
+14:25:28 : [NewS4] - [Mensagem do servidor]> =
+14:25:29 : [NewS4] - [Mensagem do servidor]> =
+14:25:30 : [NewS4] - [Mensagem do servidor]> =
+14:25:31 : [NewS4] - [Mensagem do servidor]> =
+14:25:32 : [NewS4] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:25:32 : [NewS4] - Personagem foi desconectado. Permaneceu 00:00:13 minutos online
+14:31:21 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+14:31:22 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:31:22 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+14:31:22 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:32:50 : Solicitou ir ao mundo...
+14:32:50 : Recebido pedido para entrar no jogo
+14:32:50 : Recebido informação do personagem completa.
+14:32:50 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:28 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:32:50 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+14:32:50 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+14:32:50 : [NewS4] - Resetado a contagem de entradas água! Day: -842150451-273. Total: -842150451
+14:32:50 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:32:50 : [NewS4] - Enviado informações do personagem
+14:32:51 : [NewS4] - Comando "/day "
+14:32:51 : [NewS4] - [Mensagem do servidor]> !#11 2
+14:32:53 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:32:58 : [NewS4] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:33:03 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:33:13 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:33:23 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:33:33 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:33:43 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:33:54 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:34:04 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:34:14 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:34:24 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:34:34 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:34:44 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:34:54 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:35:04 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:35:15 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:35:25 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:35:35 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:35:45 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:35:55 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:36:05 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:36:15 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:36:25 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:36:36 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:36:46 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:36:56 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:37:06 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:37:16 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:37:26 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:37:36 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:37:46 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:37:56 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:38:06 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:38:17 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:38:27 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:38:37 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:38:47 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:38:57 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:39:07 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:39:17 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:39:27 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:39:38 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:39:48 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:39:58 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:40:08 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:40:18 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:40:28 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:40:38 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:40:49 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:40:59 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:41:09 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:41:19 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:41:29 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:41:39 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:41:49 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:42:00 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:42:10 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:42:20 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:42:30 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:42:40 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:42:47 : [NewS4] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:42:47 : [NewS4] - Personagem foi desconectado. Permaneceu 00:11:17 minutos online
+14:43:48 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+14:43:48 : Usuário logou no jogo com clientId 2. - Servidor 1. Gold do banco: 0
+14:43:48 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+14:43:48 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:43:53 : Solicitou ir ao mundo...
+14:43:53 : Recebido pedido para entrar no jogo
+14:43:53 : Recebido informação do personagem completa.
+14:43:53 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:43:53 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+14:43:53 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+14:43:53 : [NewS4] - Resetado a contagem de entradas água! Day: 0-273. Total: 0
+14:43:53 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:43:53 : [NewS4] - Enviado informações do personagem
+14:43:54 : [NewS4] - Comando "/day "
+14:43:54 : [NewS4] - [Mensagem do servidor]> !#11 2
+14:43:58 : [NewS4] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:44:01 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:44:11 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:44:21 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:44:31 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:44:41 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:44:51 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:44:55 : [NewS4] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:44:55 : [NewS4] - Personagem foi desconectado. Permaneceu 00:01:07 minutos online
+14:48:24 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 3
+14:48:24 : Usuário logou no jogo com clientId 3. - Servidor 1. Gold do banco: 0
+14:48:24 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+14:48:25 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:48:35 : Solicitou ir ao mundo...
+14:48:35 : Recebido pedido para entrar no jogo
+14:48:35 : Recebido informação do personagem completa.
+14:48:35 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:11 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:48:35 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+14:48:35 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+14:48:35 : [NewS4] - Resetado a contagem de entradas água! Day: 0-273. Total: 0
+14:48:35 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:48:35 : [NewS4] - Enviado informações do personagem
+14:48:36 : [NewS4] - Comando "/day "
+14:48:36 : [NewS4] - [Mensagem do servidor]> !#11 2
+14:48:44 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:48:47 : [NewS4] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:48:54 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:48:58 : [NewS4] - Clicado no NPC [Chefe de Treino]. Face 60. Race: 8. GenerateId: 4411. Posição do usuário: 2120x 2043y. Posição do NPC: 2119x 2043y
+14:49:04 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:49:14 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:49:24 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:49:34 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:49:45 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:49:55 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:50:05 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:50:15 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:50:25 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:50:33 : [NewS4] - Comando "/gm +armia"
+14:50:33 : [NewS4] - Teleportado para a posição 2100 2100
+14:50:35 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:50:35 : [NewS4] - Comando "/gm +azran"
+14:50:35 : [NewS4] - Teleportado para a posição 2482 1709
+14:50:37 : [NewS4] - Comando "/gm +erion"
+14:50:37 : [NewS4] - Teleportado para a posição 2460 2009
+14:50:39 : [NewS4] - Comando "/gm +armia"
+14:50:39 : [NewS4] - Teleportado para a posição 2100 2100
+14:50:44 : [NewS4] - Comando "/gm +level 1010"
+14:50:45 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:50:55 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:51:05 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:51:15 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:51:26 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:51:37 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:51:47 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:51:57 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:52:07 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:52:17 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:52:27 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:52:37 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:52:47 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:52:58 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:53:08 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:53:18 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:53:28 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:53:38 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:53:48 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:53:58 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:54:09 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:54:19 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:54:29 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:54:39 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:54:49 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:54:59 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:55:10 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:55:20 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:55:30 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:55:40 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:55:50 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:56:00 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:56:10 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:56:20 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:56:30 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:56:41 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:56:51 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:57:01 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:57:11 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:57:21 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:57:31 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:57:41 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:57:51 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:58:01 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:58:11 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:58:22 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:58:32 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:58:42 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:58:52 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:59:02 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:59:12 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:59:22 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+14:59:32 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+14:59:42 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+14:59:52 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:00:00 : [NewS4] - [Mensagem do servidor]: !Coliseu Normal será iniciado em 3 minutos. Disponível apenas para mortais.
+15:00:00 : [NewS4] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+15:00:03 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:00:13 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:00:23 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:00:33 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:00:43 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:00:53 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:01:03 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:01:14 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:01:24 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:01:35 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:01:45 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:01:55 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:02:05 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:02:15 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:02:25 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:02:35 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:02:46 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:02:56 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:03:06 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:03:16 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:03:26 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:03:36 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:03:46 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:03:56 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:04:07 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:04:17 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:04:27 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:04:37 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:04:47 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:04:57 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:05:07 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:05:18 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:05:28 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:05:38 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:05:48 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:05:58 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:06:08 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:06:18 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:06:28 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:06:38 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:06:49 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:06:59 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:07:09 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:07:19 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:07:29 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:07:39 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:07:49 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:07:59 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:08:03 : [NewS4] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+15:08:09 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:08:19 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:08:29 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:08:39 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:08:50 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:09:00 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:09:10 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:09:20 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:09:30 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:09:40 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:09:50 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:10:00 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:10:10 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:10:21 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:10:31 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:10:41 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:10:51 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:11:01 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:11:11 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:11:21 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:11:31 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:11:41 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:11:52 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:12:02 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:12:12 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:12:22 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:12:32 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:12:42 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:12:52 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:13:02 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:13:12 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:13:23 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:13:33 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:13:43 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:13:53 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:14:03 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:14:13 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:14:23 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:14:33 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:14:43 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:14:54 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:15:04 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:15:14 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:15:24 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:15:34 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:15:44 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:15:54 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:16:04 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:16:15 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:16:25 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:16:35 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:16:45 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:16:55 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:17:05 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:17:15 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:17:25 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:17:35 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:17:46 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:17:56 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:18:06 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:18:16 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:18:26 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:18:36 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:52 horas
+Posição atual: 2103x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:18:36 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:18:46 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:18:56 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:19:06 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:19:17 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:19:27 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:19:37 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:19:47 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:19:57 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:20:07 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:20:17 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:20:27 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:20:37 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:20:48 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:20:58 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:21:08 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:21:18 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:21:28 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:21:38 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:21:48 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:21:58 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:22:08 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:22:19 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:22:29 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:22:39 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:22:49 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:22:59 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:23:09 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:23:19 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:23:29 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:23:39 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:23:50 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:24:00 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:24:10 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:24:20 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:24:30 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:24:40 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:24:50 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:25:00 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:25:10 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:25:20 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:25:31 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:25:41 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:25:51 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:26:01 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:26:11 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:26:21 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:26:31 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:26:41 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:26:52 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:27:02 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:27:12 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:27:22 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:27:32 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:27:42 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:27:52 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:28:02 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:28:13 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:28:23 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:28:33 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:28:43 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:28:53 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:29:03 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:29:13 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:29:23 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:29:34 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:29:44 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:29:54 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:30:00 : [NewS4] - [Mensagem do servidor]: !Coliseu Místico será iniciado em 3 minutos. Disponível para Arch ou superior
+15:30:00 : [NewS4] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+15:30:04 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:30:14 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:30:24 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:30:34 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:30:44 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:30:54 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:31:05 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:31:15 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:31:25 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:31:35 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:31:45 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:31:55 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:32:05 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:32:15 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:32:26 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:32:36 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:32:46 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:32:56 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:33:06 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:33:16 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:33:26 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:33:36 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:33:47 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:33:57 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:34:07 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:34:17 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:34:27 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:34:37 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:34:47 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:34:58 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:35:08 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:35:18 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:35:28 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:35:38 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:35:48 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:35:58 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:36:08 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:36:18 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:36:29 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:36:39 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:36:49 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:36:59 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:37:09 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:37:19 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:37:29 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:37:39 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:37:44 : [NewS4] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:37:44 : [NewS4] - Personagem foi desconectado. Permaneceu 00:48:46 minutos online
+15:42:11 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:42:11 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+15:42:11 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+15:42:11 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+15:42:11 : Usuário logou no jogo com clientId 2. - Servidor 1. Gold do banco: 0
+15:42:11 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:42:11 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:43:08 : Solicitou ir ao mundo...
+15:43:08 : Recebido pedido para entrar no jogo
+15:43:08 : Recebido informação do personagem completa.
+15:43:08 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:56 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:43:08 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+15:43:08 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:43:08 : [NewS4] - Resetado a contagem de entradas água! Day: 0-273. Total: 0
+15:43:08 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:43:08 : [NewS4] - Enviado informações do personagem
+15:43:09 : [NewS4] - Comando "/day "
+15:43:09 : [NewS4] - [Mensagem do servidor]> !#11 2
+15:43:13 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:43:23 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:43:24 : [NewS4] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+15:43:24 : [NewS4] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:43:33 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:43:36 : [NewS4] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+15:43:44 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:43:53 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:44:04 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:44:14 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:44:24 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:44:34 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:44:44 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:44:54 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:45:04 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:45:14 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:45:24 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:45:35 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:45:45 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:45:55 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:46:05 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:46:15 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:46:25 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:46:35 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:46:45 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:46:55 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:47:06 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:47:16 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:47:26 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:47:36 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:47:46 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:47:56 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:48:06 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:48:16 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:48:26 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:48:36 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:48:47 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:48:57 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:49:07 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:49:17 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:49:27 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:49:37 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:49:47 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:49:57 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:50:08 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:50:18 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:50:28 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:50:38 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:50:48 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:50:58 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:51:08 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:51:18 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:51:28 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:51:38 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:51:49 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:51:59 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:52:09 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:52:19 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:52:29 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:52:39 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:52:49 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:52:59 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:53:09 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:53:20 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:53:30 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:53:40 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:53:50 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:54:00 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:54:10 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:54:20 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:54:30 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:54:41 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:54:51 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:55:01 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:55:11 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:55:21 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:55:31 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:55:42 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:55:52 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:56:02 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:56:12 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:56:22 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:56:32 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:56:42 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:56:52 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:57:03 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:57:13 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:57:23 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:57:33 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:57:43 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:57:53 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:58:03 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:58:14 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:58:24 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:58:34 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:58:44 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:58:54 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:59:04 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:59:14 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:59:25 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:59:35 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:59:45 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:59:55 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:00:05 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:00:15 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:00:25 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:00:35 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:00:45 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:00:56 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:01:06 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:01:16 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:01:26 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:01:36 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:01:46 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:01:56 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:02:06 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:02:16 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:02:27 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:02:37 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:02:47 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:02:57 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:03:07 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:03:17 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:03:27 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:03:38 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:03:48 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:03:58 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:04:08 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:04:18 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:04:28 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:04:38 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:04:48 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:04:58 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:05:08 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:05:19 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:05:29 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:05:39 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:05:49 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:05:59 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:06:09 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:06:19 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:06:29 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:06:40 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:06:50 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:07:00 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:07:10 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:07:20 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:07:30 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:07:40 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:07:50 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:08:00 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:08:10 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:08:20 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:08:31 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:08:41 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:08:51 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:09:01 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:09:11 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:09:21 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:09:31 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:09:42 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:09:52 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:10:02 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:10:12 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:10:22 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:10:32 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:10:42 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:10:52 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:11:03 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:11:13 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:11:23 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:11:33 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:11:43 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:11:53 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:12:03 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:12:13 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:12:23 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:12:33 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:12:44 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:12:54 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:13:04 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:13:09 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:30:37 horas
+Posição atual: 2141x 2085y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:13:14 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:13:24 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:13:34 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:13:44 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:13:54 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:14:04 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:14:14 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:14:25 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:14:35 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:14:45 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:14:55 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:15:05 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:15:15 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:15:25 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:15:36 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:15:46 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:15:56 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:16:06 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:16:16 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:16:26 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:16:36 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:16:46 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:16:56 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:17:07 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:17:17 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:17:27 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:17:37 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:17:47 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:17:57 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:18:07 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:18:17 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:18:28 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:18:38 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:18:48 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:18:58 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:19:08 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:19:18 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:19:28 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:19:38 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:19:49 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:19:59 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:20:09 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:20:19 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:20:29 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:20:39 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:20:49 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:20:59 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:21:09 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:21:20 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:21:30 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:21:40 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:21:50 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:22:00 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:22:10 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:22:21 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:22:31 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:22:41 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:22:51 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:23:01 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:23:11 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:23:21 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:23:31 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:23:42 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:23:52 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:24:02 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:24:12 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:24:22 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:24:32 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:24:42 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:24:52 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:25:03 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:25:13 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:25:23 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:25:33 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:25:43 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:25:53 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:26:03 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:26:13 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:26:23 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:26:33 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:26:43 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:26:54 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:27:04 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:27:14 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:27:24 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:27:34 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:27:44 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:27:54 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:28:04 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:28:14 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:28:25 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:28:35 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:28:45 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:28:55 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:29:05 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:29:15 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:29:25 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:29:35 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:29:45 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:29:55 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:30:05 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:30:16 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:30:26 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:30:36 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:30:46 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:30:56 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:31:06 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:31:16 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:31:26 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:31:36 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:31:46 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:31:56 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:32:07 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:32:17 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:32:27 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:32:37 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:32:47 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:32:57 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:33:07 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:33:17 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:33:27 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:33:37 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:33:48 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:33:58 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:34:08 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:34:18 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:34:20 : [NewS4] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:34:20 : [NewS4] - Personagem foi desconectado. Permaneceu 00:51:33 minutos online
+16:35:54 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+16:35:54 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+16:35:54 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+16:35:54 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:36:00 : Solicitou ir ao mundo...
+16:36:00 : Recebido pedido para entrar no jogo
+16:36:00 : Recebido informação do personagem completa.
+16:36:00 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:36:00 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+16:36:00 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+16:36:00 : [NewS4] - Resetado a contagem de entradas água! Day: 0-273. Total: 0
+16:36:00 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:36:00 : [NewS4] - Enviado informações do personagem
+16:36:01 : [NewS4] - Comando "/day "
+16:36:01 : [NewS4] - [Mensagem do servidor]> !#11 2
+16:36:09 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:36:13 : [NewS4] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:36:19 : [NewS4] - Clicado no NPC [Perzen Mistico]. Face 11. Race: 8. GenerateId: 3277. Posição do usuário: 2131x 2080y. Posição do NPC: 2133x 2080y
+16:36:19 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:36:29 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:36:40 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:36:50 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:37:00 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:37:10 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:37:20 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:37:30 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:37:40 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:37:50 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:38:01 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:38:11 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:38:21 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:38:32 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:38:42 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:38:52 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:39:02 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:39:12 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:39:22 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:39:32 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:39:43 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:39:53 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:40:03 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:40:13 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:40:23 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:40:33 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:40:43 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:40:54 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:41:04 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:41:14 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:41:24 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:41:35 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:41:45 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:41:55 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:42:05 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:42:15 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:42:25 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:42:35 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:42:45 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:42:56 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:43:06 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:43:16 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:43:26 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:43:36 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:43:46 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:43:56 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:44:06 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:44:16 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:44:27 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:44:37 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:44:47 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:44:57 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:45:05 : [NewS4] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:45:05 : [NewS4] - Personagem foi desconectado. Permaneceu 00:09:06 minutos online
+16:45:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 3
+16:45:37 : Usuário logou no jogo com clientId 3. - Servidor 1. Gold do banco: 0
+16:45:37 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+16:45:38 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:45:45 : Solicitou ir ao mundo...
+16:45:45 : Recebido pedido para entrar no jogo
+16:45:45 : Recebido informação do personagem completa.
+16:45:45 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:45:45 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+16:45:45 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+16:45:45 : [NewS4] - Resetado a contagem de entradas água! Day: 0-273. Total: 0
+16:45:45 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:45:45 : [NewS4] - Enviado informações do personagem
+16:45:46 : [NewS4] - Comando "/day "
+16:45:46 : [NewS4] - [Mensagem do servidor]> !#11 2
+16:45:48 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:45:58 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:46:01 : [NewS4] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:46:08 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:46:17 : [NewS4] - Comando "/gm +erion"
+16:46:17 : [NewS4] - Teleportado para a posição 2460 2009
+16:46:18 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:46:28 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:46:33 : [NewS4] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:46:33 : [NewS4] - Personagem foi desconectado. Permaneceu 00:00:55 minutos online
+16:46:44 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 4
+16:46:44 : Usuário logou no jogo com clientId 4. - Servidor 1. Gold do banco: 0
+16:46:44 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+16:46:44 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:46:51 : Solicitou ir ao mundo...
+16:46:51 : Recebido pedido para entrar no jogo
+16:46:51 : Recebido informação do personagem completa.
+16:46:51 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:46:51 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+16:46:51 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+16:46:51 : [NewS4] - Resetado a contagem de entradas água! Day: 0-273. Total: 0
+16:46:51 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:46:51 : [NewS4] - Enviado informações do personagem
+16:46:52 : [NewS4] - Comando "/day "
+16:46:52 : [NewS4] - [Mensagem do servidor]> !#11 2
+16:46:57 : [NewS4] - Comando "/gm +armia"
+16:46:57 : [NewS4] - Teleportado para a posição 2100 2100
+16:46:58 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:47:02 : [NewS4] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:47:09 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:47:19 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:47:29 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:47:39 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:47:39 : [NewS4] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:47:39 : [NewS4] - Personagem foi desconectado. Permaneceu 00:00:55 minutos online
+16:47:54 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 5
+16:47:54 : Usuário logou no jogo com clientId 5. - Servidor 1. Gold do banco: 0
+16:47:54 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+16:47:55 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:48:00 : Solicitou ir ao mundo...
+16:48:00 : Recebido pedido para entrar no jogo
+16:48:00 : Recebido informação do personagem completa.
+16:48:00 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:48:00 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+16:48:00 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+16:48:00 : [NewS4] - Resetado a contagem de entradas água! Day: 0-273. Total: 0
+16:48:00 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:48:00 : [NewS4] - Enviado informações do personagem
+16:48:01 : [NewS4] - Comando "/day "
+16:48:01 : [NewS4] - [Mensagem do servidor]> !#11 2
+16:48:03 : [NewS4] - Clicado no NPC [Chefe de Treino]. Face 60. Race: 8. GenerateId: 4411. Posição do usuário: 2112x 2042y. Posição do NPC: 2116x 2041y
+16:48:04 : [NewS4] - Comando "/gm +armia"
+16:48:04 : [NewS4] - Teleportado para a posição 2100 2100
+16:48:09 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:48:14 : [NewS4] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:48:19 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:48:29 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:48:39 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+16:48:49 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+16:49:00 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+16:49:01 : [NewS4] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:49:01 : [NewS4] - Personagem foi desconectado. Permaneceu 00:01:06 minutos online
+17:03:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 6
+17:03:23 : Usuário logou no jogo com clientId 6. - Servidor 1. Gold do banco: 0
+17:03:23 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:03:23 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:03:28 : Solicitou ir ao mundo...
+17:03:28 : Recebido pedido para entrar no jogo
+17:03:28 : Recebido informação do personagem completa.
+17:03:28 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:03:28 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+17:03:28 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:03:28 : [NewS4] - Resetado a contagem de entradas água! Day: 0-273. Total: 0
+17:03:28 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:03:28 : [NewS4] - Enviado informações do personagem
+17:03:29 : [NewS4] - Comando "/day "
+17:03:29 : [NewS4] - [Mensagem do servidor]> !#11 2
+17:03:30 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:03:38 : [NewS4] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:03:40 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:03:50 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:04:00 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:04:10 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:04:20 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:04:30 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:04:40 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:04:51 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:05:01 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:05:11 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:05:21 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:05:31 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:05:41 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:05:51 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:06:01 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:06:12 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:06:22 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:06:32 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:06:42 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:06:52 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:07:02 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:07:12 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:07:22 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:07:33 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:07:43 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:07:53 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:08:03 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:08:13 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:08:23 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:08:33 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:08:43 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:08:53 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:09:04 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:09:14 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:09:24 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:09:34 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:09:44 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:09:54 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:10:04 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:10:14 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:10:24 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:10:35 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:10:45 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:10:55 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:11:05 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:11:15 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:11:25 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:11:35 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:11:45 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:11:55 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:12:06 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:12:16 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:12:26 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:12:36 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:12:46 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:12:56 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:13:06 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:13:16 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:13:26 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:13:37 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:13:47 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:13:57 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:14:07 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:14:17 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:14:27 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:14:37 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:14:47 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:14:58 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:15:08 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:15:18 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:15:28 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:15:38 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:15:48 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:15:58 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:16:08 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:16:18 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:16:20 : [NewS4] - Comando "/gm +armia"
+17:16:20 : [NewS4] - Teleportado para a posição 2100 2100
+17:16:29 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:16:39 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:16:49 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:16:59 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:17:09 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:17:15 : [NewS4] - [Mensagem do servidor]> Citizen Chatting : Off
+17:17:19 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:17:29 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:17:40 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:17:50 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:18:00 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:18:10 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:18:20 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:18:30 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:18:40 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:18:50 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:19:00 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:19:10 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:19:21 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:19:30 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:19:41 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:19:51 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:20:01 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:20:11 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:20:21 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:20:31 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:20:42 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:20:52 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:21:02 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:21:12 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:21:22 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:21:32 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:21:42 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:21:52 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:22:02 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:22:12 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:22:23 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:22:33 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:22:43 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:22:53 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:23:03 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:23:13 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:23:23 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:23:33 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:23:44 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:23:54 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:24:04 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:24:14 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:24:24 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:24:34 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:24:44 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:24:54 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:25:05 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:26:45 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+17:26:45 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+17:26:45 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+17:26:45 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+17:26:46 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+17:26:49 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+17:26:49 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+17:26:49 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:26:50 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:26:55 : Solicitou ir ao mundo...
+17:26:55 : Recebido pedido para entrar no jogo
+17:26:55 : Recebido informação do personagem completa.
+17:26:55 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:26:55 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+17:26:55 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:26:55 : [NewS4] - Resetado a contagem de entradas água! Day: 0-273. Total: 0
+17:26:55 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:26:55 : [NewS4] - Enviado informações do personagem
+17:26:56 : [NewS4] - Comando "/day "
+17:26:56 : [NewS4] - [Mensagem do servidor]> !#11 2
+17:26:57 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:26:59 : [NewS4] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:26:59 : [NewS4] - Personagem foi desconectado. Permaneceu 00:00:10 minutos online
+17:27:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+17:27:08 : Usuário logou no jogo com clientId 2. - Servidor 1. Gold do banco: 0
+17:27:08 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:27:09 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:27:13 : Solicitou ir ao mundo...
+17:27:13 : Recebido pedido para entrar no jogo
+17:27:13 : Recebido informação do personagem completa.
+17:27:13 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:27:13 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+17:27:13 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:27:13 : [NewS4] - Resetado a contagem de entradas água! Day: 0-273. Total: 0
+17:27:13 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:27:13 : [NewS4] - Enviado informações do personagem
+17:27:14 : [NewS4] - Comando "/day "
+17:27:14 : [NewS4] - [Mensagem do servidor]> !#11 2
+17:27:16 : [NewS4] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:27:16 : [NewS4] - Personagem foi desconectado. Permaneceu 00:00:08 minutos online
+17:27:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 3
+17:27:22 : Usuário logou no jogo com clientId 3. - Servidor 1. Gold do banco: 0
+17:27:22 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:27:23 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:27:29 : Solicitou ir ao mundo...
+17:27:29 : Recebido pedido para entrar no jogo
+17:27:29 : Recebido informação do personagem completa.
+17:27:29 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:27:29 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+17:27:29 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:27:29 : [NewS4] - Resetado a contagem de entradas água! Day: 0-273. Total: 0
+17:27:29 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:27:29 : [NewS4] - Enviado informações do personagem
+17:27:30 : [NewS4] - Comando "/day "
+17:27:30 : [NewS4] - [Mensagem do servidor]> !#11 2
+17:27:32 : [NewS4] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:27:32 : [NewS4] - Personagem foi desconectado. Permaneceu 00:00:10 minutos online
+17:29:14 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 4
+17:29:14 : Usuário logou no jogo com clientId 4. - Servidor 1. Gold do banco: 0
+17:29:14 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:29:15 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:29:20 : Solicitou ir ao mundo...
+17:29:20 : Recebido pedido para entrar no jogo
+17:29:20 : Recebido informação do personagem completa.
+17:29:20 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:29:20 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+17:29:20 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:29:20 : [NewS4] - Resetado a contagem de entradas água! Day: 0-273. Total: 0
+17:29:20 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:29:20 : [NewS4] - Enviado informações do personagem
+17:29:21 : [NewS4] - Comando "/day "
+17:29:21 : [NewS4] - [Mensagem do servidor]> !#11 2
+17:29:27 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:29:34 : [NewS4] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:29:38 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:29:48 : [NewS4] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+17:29:56 : [NewS4] - Comando "/cmd +item 413"
+17:29:56 : [NewS4] - [Mensagem do servidor]> Este personagem não está conectado.
+17:29:59 : [NewS4] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+17:30:02 : [NewS4] - Comando "/gm +item 413"
+17:30:02 : [NewS4] - NewS4 criou o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+17:30:09 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:30:12 : [NewS4] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:30:12 : [NewS4] - Personagem foi desconectado. Permaneceu 00:00:57 minutos online
+17:30:30 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 5
+17:30:30 : Usuário logou no jogo com clientId 5. - Servidor 1. Gold do banco: 0
+17:30:30 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:30:30 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:30:47 : Solicitou ir ao mundo...
+17:30:47 : Recebido pedido para entrar no jogo
+17:30:47 : Recebido informação do personagem completa.
+17:30:47 : [NewS4] - [INFORMAÇÕES DA CONTA]
+Personagem online: NewS4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:17 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:30:47 : [NewS4] - Personagem NewS4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+17:30:47 : [NewS4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:30:47 : [NewS4] - Resetado a contagem de entradas água! Day: 0-273. Total: 0
+17:30:47 : [NewS4] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+17:30:47 : [NewS4] - Enviado informações do personagem
+17:30:48 : [NewS4] - Comando "/day "
+17:30:48 : [NewS4] - [Mensagem do servidor]> !#11 2
+17:30:50 : [NewS4] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:30:50 : [NewS4] - Personagem foi desconectado. Permaneceu 00:00:20 minutos online

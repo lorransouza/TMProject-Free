@@ -1,0 +1,430 @@
+
+19:08:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD6) - IP: 186.230.113.222 Mac: (6F:2B:94:34:F0:47). ClientId: 1
+19:08:37 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+19:08:37 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[  1] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[  5] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[  6] - Jóia_da_Magia[3209] [61 21 0 0 0 0]
+[ 10] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 15] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 20] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 25] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 30] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 35] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+19:08:37 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:08:59 : Solicitou ir ao mundo...
+19:08:59 : Recebido pedido para entrar no jogo
+19:08:59 : Recebido informação do personagem completa.
+19:08:59 : [TETEU] - [INFORMAÇÕES DA CONTA]
+Personagem online: TETEU
+Gold atual: 837760896
+Level atual: 113
+Experiência atual: 2270203815
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:22 horas
+Posição atual: 2088x 2098y
+
+Pontos NT: 0
+Entradas Hall: 119
+Info: 496
+Soul: 8
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 2088697600
+SecLearn: 0
+Info: 519691158512
+Soul: 8
+
+[EQUIPAMENTOS]
+[00] - Rogue[36] [43 0 36 3 0 0]
+[01] - Cythera_Arcana[3507] [43 241 0 0 0 0]
+[02] - Armadura[1656] [43 241 3 30 60 10]
+[03] - Calça[1657] [43 241 3 30 60 10]
+[04] - Luvas[1658] [43 241 60 10 72 30]
+[05] - Botas[1659] [43 241 73 30 60 10]
+[06] - Gleipnir(Anct)[2674] [60 20 43 241 0 0]
+[08] - Brinco_de_Hecate[594] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 60 28 0 0]
+[10] - Pedra_Espiritual[633] [43 9 70 12 0 0]
+[11] - Pedra_Espiritual[633] [43 9 70 20 0 0]
+[14] - Skinfaxi[2371] [48 117 100 60 10 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Ração_de_Cavalo[2426] [96 1 61 91 0 0]
+[01] - Frango_Assado[3314] [61 4 0 0 0 0]
+[02] - Baú_de_Caça[4139] [61 196 0 0 0 0]
+[03] - Jóia_da_Sagacidade[3200] [61 9 0 0 0 0]
+[04] - Jóia_da_Recarga[3202] [61 5 0 0 0 0]
+[05] - Jóia_da_Absorção[3204] [61 20 0 0 0 0]
+[06] - Jóia_da_Proteção[3205] [61 20 0 0 0 0]
+[07] - Jóia_do_Poder[3206] [61 20 0 0 0 0]
+[08] - Jóia_da_Armazenagem[3207] [61 9 0 0 0 0]
+[09] - Jóia_da_Precisão[3208] [61 20 0 0 0 0]
+[10] - Eirenus(Anct)[2866] [60 20 43 241 0 0]
+[11] - Grifo_Sangrento[2386] [48 117 100 60 10 0]
+[12] - Pedido_de_Caça(Kult)[3435] [61 6 0 0 0 0]
+[13] - Brinco_de_Athena[591] [43 9 0 0 0 0]
+[14] - Ração_de_Grifo[2430] [96 1 61 119 0 0]
+[15] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[16] - Jóia_da_Magia[3209] [61 11 0 0 0 0]
+[17] - Fehu[5113] [0 0 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 5 0 0 202 20]
+[19] - Retorno_da_Habilidade[3336] [0 0 0 0 0 0]
+[20] - Pedra_Misteriosa[4148] [61 93 0 0 0 0]
+[21] - Poeira_de_Lactolerium[413] [61 14 0 0 202 20]
+[22] - Semente_de_Cristal[4032] [0 0 0 0 0 0]
+[23] - Semente_de_Cristal[4032] [0 0 0 0 0 0]
+[24] - Retorno_da_Habilidade[3336] [0 0 0 0 0 0]
+[25] - Fada_Vermelha(3dias)[3902] [106 2 107 10 108 29]
+[26] - Retorno_da_Habilidade[3336] [0 0 0 0 0 0]
+[27] - Retorno_da_Habilidade[3336] [0 0 0 0 0 0]
+[30] - Isa[5120] [0 0 0 0 0 0]
+[32] - Poção_Poderosa[3431] [61 54 0 0 0 0]
+[33] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[34] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[35] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[36] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[37] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[38] - Ehwaz[5127] [0 0 0 0 0 0]
+[40] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[41] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[43] - Berkano[5126] [0 0 0 0 0 0]
+[45] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[46] - Pergaminho_da_Água(A)LV1[3182] [61 47 0 0 0 0]
+[47] - Pergaminho_da_Água(A)LV8[3189] [0 0 0 0 0 0]
+[50] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[55] - Pergaminho_Retorno_10x[411] [61 5 0 0 0 0]
+[56] - Poeira_de_Oriharucon[412] [61 3 0 0 0 0]
+[58] - Trombeta_Mágica[3330] [61 117 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 22 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 22 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:08:59 : [TETEU] - Personagem TETEU enviado ao mundo 2088x 2098y - Canal 1 - Cash da conta: 190075. PowerLevel: 8898
+19:08:59 : [TETEU] - Gold atual: 837760896. Classe: 0 Evolução: 3. Experiência: 2270203815. Nível: 113. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+19:08:59 : [TETEU] - Logou no personagem TETEU com poção divina ativo. Validade: 19/2/2021 22:16:0
+19:08:59 : [TETEU] - Logou no personagem TETEU com frango ativo. Tempo: 1140
+19:08:59 : [TETEU] - Logou no personagem TETEU com baú de experiência ativo. Tempo: 205591
+19:08:59 : [TETEU] - Resetado a contagem de entradas água! Day: 25-31. Total: 0
+19:08:59 : [TETEU] - Evolução logada: 3
+19:08:59 : [TETEU] - Dados da capa um: [3199] [43 9 0 0 0 0]
+19:08:59 : [TETEU] - Dados da capa dois: [0] [0 0 0 0 0 0]
+19:08:59 : [TETEU] - Não foi efetuado a troca pois a refinação atual é maior
+19:08:59 : [TETEU] - Enviado informações do personagem
+19:09:01 : [TETEU] - Comando "/day "
+19:09:01 : [TETEU] - [Mensagem do servidor]> !#11 2
+19:09:12 : [TETEU] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:09:18 : [TETEU] - Moveu item Gleipnir(Anct) [2674] [60 20 43 241 0 0] do tipo EQUIPAMENTO do slot 6 para tipo INVENTÁRIO slot 28
+19:09:33 : [TETEU] - Moveu item Skinfaxi [2371] [48 117 100 60 10 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 29
+19:11:56 : [TETEU] - Personagem deu personagem
+19:12:04 : Solicitou ir ao mundo...
+19:12:04 : Recebido pedido para entrar no jogo
+19:12:04 : Recebido informação do personagem completa.
+19:12:04 : [Bidens] - [INFORMAÇÕES DA CONTA]
+Personagem online: Bidens
+Gold atual: 1961049641
+Level atual: 39
+Experiência atual: 780000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:03:23 horas
+Posição atual: 2091x 2100y
+
+Pontos NT: 0
+Entradas Hall: 69
+Info: 107374182896
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[7] [43 0 7 2 1 1]
+[01] - Cythera_Mística[3502] [43 9 0 0 0 0]
+[02] - Armadura[1221] [43 241 3 30 60 10]
+[03] - Calça[1222] [43 241 3 30 60 10]
+[04] - Luvas[1223] [43 241 60 10 72 30]
+[05] - Botas[1224] [43 241 73 30 60 10]
+[15] - Mestre_de_Hekalotia[3197] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fenrir[2376] [10 10 100 60 10 0]
+[01] - Pedido_de_Caça(Kefra)[3436] [61 10 0 0 0 0]
+[02] - Pedido_de_Caça(Kult)[3435] [61 5 0 0 0 0]
+[03] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[04] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[05] - Garnet[2444] [0 0 0 0 0 0]
+[06] - Pedido_de_Caça(Kefra)[3436] [61 9 0 0 0 0]
+[10] - Jóia_da_Recarga[3202] [61 12 0 0 0 0]
+[11] - Pedra_Espiritual[633] [43 9 70 4 0 0]
+[12] - Ankh_da_Justiça[661] [43 9 0 0 0 0]
+[19] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[22] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[23] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[24] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[27] - Pedra_Espiritual[633] [43 9 70 4 0 0]
+[28] - Pedra_Espiritual[633] [43 9 70 4 0 0]
+[29] - Pedra_Espiritual[633] [43 9 70 4 0 0]
+[31] - Poeira_de_Lactolerium[413] [61 168 0 0 0 0]
+[32] - Pedra_Espiritual[633] [43 9 70 4 0 0]
+[33] - Pedra_Espiritual[633] [43 9 70 4 0 0]
+[34] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[49] - Trombeta_Mágica[3330] [61 101 0 0 0 0]
+[50] - Selo_do_Guerreiro[4146] [61 220 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 20 110 2 109 121]
+[63] - Marca_do_Assassino[547] [141 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:12:04 : [Bidens] - Personagem Bidens enviado ao mundo 2091x 2100y - Canal 1 - Cash da conta: 190075. PowerLevel: 1693
+19:12:04 : [Bidens] - Gold atual: 1961049641. Classe: 1 Evolução: 2. Experiência: 780000000. Nível: 39. Info: 107374182896. GuildID: 7. CP: 66. Pontos de Contribuição: 0. Limite: 0
+19:12:04 : [Bidens] - Logou no personagem Bidens com poção divina ativo. Validade: 19/2/2021 22:16:0
+19:12:04 : [Bidens] - Logou no personagem Bidens com baú de experiência ativo. Tempo: 17285
+19:12:04 : [Bidens] - Enviado informações do personagem
+19:12:05 : [Bidens] - BETASD6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:12:05 : [Bidens] - 1 Personagem foi desconectado. Permaneceu 00:03:24 minutos online
+19:12:59 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD6) - IP: 186.230.113.222 Mac: (6F:2B:94:34:F0:47). ClientId: 1
+19:12:59 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+19:12:59 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[  1] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[  5] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[  6] - Jóia_da_Magia[3209] [61 21 0 0 0 0]
+[ 10] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 15] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 20] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 25] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 30] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 35] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+19:13:07 : Solicitou ir ao mundo...
+19:13:07 : Recebido pedido para entrar no jogo
+19:13:07 : Recebido informação do personagem completa.
+19:13:07 : [Bidens] - [INFORMAÇÕES DA CONTA]
+Personagem online: Bidens
+Gold atual: 1961049641
+Level atual: 39
+Experiência atual: 780000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2092x 2099y
+
+Pontos NT: 0
+Entradas Hall: 69
+Info: 107374182896
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[7] [43 0 7 2 1 1]
+[01] - Cythera_Mística[3502] [43 9 0 0 0 0]
+[02] - Armadura[1221] [43 241 3 30 60 10]
+[03] - Calça[1222] [43 241 3 30 60 10]
+[04] - Luvas[1223] [43 241 60 10 72 30]
+[05] - Botas[1224] [43 241 73 30 60 10]
+[15] - Mestre_de_Hekalotia[3197] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fenrir[2376] [10 10 100 60 10 0]
+[01] - Pedido_de_Caça(Kefra)[3436] [61 10 0 0 0 0]
+[02] - Pedido_de_Caça(Kult)[3435] [61 5 0 0 0 0]
+[03] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[04] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[05] - Garnet[2444] [0 0 0 0 0 0]
+[06] - Pedido_de_Caça(Kefra)[3436] [61 9 0 0 0 0]
+[10] - Jóia_da_Recarga[3202] [61 12 0 0 0 0]
+[11] - Pedra_Espiritual[633] [43 9 70 4 0 0]
+[12] - Ankh_da_Justiça[661] [43 9 0 0 0 0]
+[19] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[22] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[23] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[24] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[27] - Pedra_Espiritual[633] [43 9 70 4 0 0]
+[28] - Pedra_Espiritual[633] [43 9 70 4 0 0]
+[29] - Pedra_Espiritual[633] [43 9 70 4 0 0]
+[31] - Poeira_de_Lactolerium[413] [61 168 0 0 0 0]
+[32] - Pedra_Espiritual[633] [43 9 70 4 0 0]
+[33] - Pedra_Espiritual[633] [43 9 70 4 0 0]
+[34] - Refinação_Abençoada[3338] [43 9 0 0 0 0]
+[49] - Trombeta_Mágica[3330] [61 101 0 0 0 0]
+[50] - Selo_do_Guerreiro[4146] [61 220 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 20 110 2 109 121]
+[63] - Marca_do_Assassino[547] [141 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:13:07 : [Bidens] - Personagem Bidens enviado ao mundo 2092x 2099y - Canal 1 - Cash da conta: 190075. PowerLevel: 1693
+19:13:07 : [Bidens] - Gold atual: 1961049641. Classe: 1 Evolução: 2. Experiência: 780000000. Nível: 39. Info: 107374182896. GuildID: 7. CP: 66. Pontos de Contribuição: 0. Limite: 0
+19:13:07 : [Bidens] - Logou no personagem Bidens com poção divina ativo. Validade: 19/2/2021 22:16:0
+19:13:08 : [Bidens] - Logou no personagem Bidens com baú de experiência ativo. Tempo: 17285
+19:13:08 : [Bidens] - Enviado informações do personagem
+19:13:08 : [Bidens] - Comando "/day "
+19:13:08 : [Bidens] - [Mensagem do servidor]> !#11 2
+19:13:23 : [Bidens] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:16:23 : [Bidens] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2107x 2114y. Posição do NPC: 2102x 2113y
+19:16:27 : [Bidens] - Moveu item Fenrir [2376] [10 10 100 60 10 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 14
+19:16:28 : [Bidens] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 14
+19:16:28 : [Bidens] - Moveu item Fenrir [2376] [10 10 100 60 10 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 14
+19:16:32 : [Bidens] - Moveu item Fenrir [2376] [10 10 100 60 10 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 0
+19:16:33 : [Bidens] - Moveu item Fenrir [2376] [10 10 100 60 10 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 14
+19:16:35 : [Bidens] - Moveu item Fenrir [2376] [10 10 100 60 10 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 0
+19:18:47 : [Bidens] - [Mensagem do servidor]> Compra concluída!
+19:18:52 : [Bidens] - Clicado no NPC [Troca1]. Face 60. Race: 2. GenerateId: 4786. Posição do usuário: 2111x 2112y. Posição do NPC: 2109x 2112y
+19:19:52 : [Bidens] - Personagem deu personagem
+19:20:08 : Solicitou ir ao mundo...
+19:20:08 : Recebido pedido para entrar no jogo
+19:20:08 : Recebido informação do personagem completa.
+19:20:08 : [TETEU] - [INFORMAÇÕES DA CONTA]
+Personagem online: TETEU
+Gold atual: 837760896
+Level atual: 113
+Experiência atual: 2270203815
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:07:03 horas
+Posição atual: 2095x 2094y
+
+Pontos NT: 0
+Entradas Hall: 119
+Info: 496
+Soul: 8
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 2088697600
+SecLearn: 0
+Info: 519691158512
+Soul: 8
+
+[EQUIPAMENTOS]
+[00] - Rogue[36] [43 0 36 3 0 0]
+[01] - Cythera_Arcana[3507] [43 241 0 0 0 0]
+[02] - Armadura[1656] [43 241 3 30 60 10]
+[03] - Calça[1657] [43 241 3 30 60 10]
+[04] - Luvas[1658] [43 241 60 10 72 30]
+[05] - Botas[1659] [43 241 73 30 60 10]
+[08] - Brinco_de_Hecate[594] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 60 28 0 0]
+[10] - Pedra_Espiritual[633] [43 9 70 12 0 0]
+[11] - Pedra_Espiritual[633] [43 9 70 20 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Ração_de_Cavalo[2426] [96 1 61 91 0 0]
+[01] - Frango_Assado[3314] [61 4 0 0 0 0]
+[02] - Baú_de_Caça[4139] [61 196 0 0 0 0]
+[03] - Jóia_da_Sagacidade[3200] [61 9 0 0 0 0]
+[04] - Jóia_da_Recarga[3202] [61 5 0 0 0 0]
+[05] - Jóia_da_Absorção[3204] [61 20 0 0 0 0]
+[06] - Jóia_da_Proteção[3205] [61 20 0 0 0 0]
+[07] - Jóia_do_Poder[3206] [61 20 0 0 0 0]
+[08] - Jóia_da_Armazenagem[3207] [61 9 0 0 0 0]
+[09] - Jóia_da_Precisão[3208] [61 20 0 0 0 0]
+[10] - Eirenus(Anct)[2866] [60 20 43 241 0 0]
+[11] - Grifo_Sangrento[2386] [48 117 100 60 10 0]
+[12] - Pedido_de_Caça(Kult)[3435] [61 6 0 0 0 0]
+[13] - Brinco_de_Athena[591] [43 9 0 0 0 0]
+[14] - Ração_de_Grifo[2430] [96 1 61 119 0 0]
+[15] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[16] - Jóia_da_Magia[3209] [61 11 0 0 0 0]
+[17] - Fehu[5113] [0 0 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 5 0 0 202 20]
+[19] - Retorno_da_Habilidade[3336] [0 0 0 0 0 0]
+[20] - Pedra_Misteriosa[4148] [61 93 0 0 0 0]
+[21] - Poeira_de_Lactolerium[413] [61 14 0 0 202 20]
+[22] - Semente_de_Cristal[4032] [0 0 0 0 0 0]
+[23] - Semente_de_Cristal[4032] [0 0 0 0 0 0]
+[24] - Retorno_da_Habilidade[3336] [0 0 0 0 0 0]
+[25] - Fada_Vermelha(3dias)[3902] [106 2 107 10 108 29]
+[26] - Retorno_da_Habilidade[3336] [0 0 0 0 0 0]
+[27] - Retorno_da_Habilidade[3336] [0 0 0 0 0 0]
+[28] - Gleipnir(Anct)[2674] [60 20 43 241 0 0]
+[29] - Skinfaxi[2371] [48 117 100 60 10 0]
+[30] - Isa[5120] [0 0 0 0 0 0]
+[32] - Poção_Poderosa[3431] [61 54 0 0 0 0]
+[33] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[34] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[35] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[36] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[37] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[38] - Ehwaz[5127] [0 0 0 0 0 0]
+[40] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[41] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[43] - Berkano[5126] [0 0 0 0 0 0]
+[45] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[46] - Pergaminho_da_Água(A)LV1[3182] [61 47 0 0 0 0]
+[47] - Pergaminho_da_Água(A)LV8[3189] [0 0 0 0 0 0]
+[50] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[55] - Pergaminho_Retorno_10x[411] [61 5 0 0 0 0]
+[56] - Poeira_de_Oriharucon[412] [61 3 0 0 0 0]
+[58] - Trombeta_Mágica[3330] [61 117 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 22 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 22 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:20:08 : [TETEU] - Personagem TETEU enviado ao mundo 2095x 2094y - Canal 1 - Cash da conta: 184075. PowerLevel: 5148
+19:20:08 : [TETEU] - Gold atual: 837760896. Classe: 0 Evolução: 3. Experiência: 2270203815. Nível: 113. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+19:20:08 : [TETEU] - Logou no personagem TETEU com poção divina ativo. Validade: 19/2/2021 22:16:0
+19:20:08 : [TETEU] - Logou no personagem TETEU com frango ativo. Tempo: 1118
+19:20:08 : [TETEU] - Logou no personagem TETEU com baú de experiência ativo. Tempo: 205569
+19:20:08 : [TETEU] - Evolução logada: 3
+19:20:08 : [TETEU] - Dados da capa um: [3199] [43 9 0 0 0 0]
+19:20:08 : [TETEU] - Dados da capa dois: [0] [0 0 0 0 0 0]
+19:20:08 : [TETEU] - Não foi efetuado a troca pois a refinação atual é maior
+19:20:08 : [TETEU] - Enviado informações do personagem
+19:20:09 : [TETEU] - Comando "/day "
+19:20:09 : [TETEU] - [Mensagem do servidor]> !#11 2
+19:20:23 : [TETEU] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:20:40 : [TETEU] - Moveu item Skinfaxi [2371] [48 117 100 60 10 0] do tipo INVENTÁRIO do slot 29 para tipo EQUIPAMENTO slot 14
+19:20:40 : [TETEU] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 29 para tipo EQUIPAMENTO slot 14
+19:20:41 : [TETEU] - Moveu item Skinfaxi [2371] [48 117 100 60 10 0] do tipo INVENTÁRIO do slot 29 para tipo EQUIPAMENTO slot 14
+19:21:10 : [TETEU] - BETASD6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:21:10 : [TETEU] - 1 Personagem foi desconectado. Permaneceu 00:08:04 minutos online

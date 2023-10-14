@@ -1,0 +1,89 @@
+
+13:05:42 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 2
+13:05:42 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 125805
+13:05:42 : [INFORMAÇÕES DO BANCO]
+Gold: 125805
+
+13:05:43 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:05:52 : Solicitou ir ao mundo...
+13:05:52 : Recebido pedido para entrar no jogo
+13:05:52 : Recebido informação do personagem completa.
+13:05:52 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997642100
+Level atual: 1010
+Experiência atual: 13530
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2096x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 0 0 0 0]
+[01] - Elmo[1225] [0 0 0 0 0 0]
+[02] - Armadura[1226] [0 0 0 0 0 0]
+[03] - Calça[1227] [0 0 0 0 0 0]
+[04] - Monaplas[1228] [0 0 0 0 0 0]
+[05] - Botas[1229] [0 0 0 0 0 0]
+[06] - Vingadora[3571] [0 0 0 0 0 0]
+[07] - Escudo[1712] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Machado[916] [0 0 0 0 0 0]
+[01] - Adaga[917] [0 0 0 0 0 0]
+[02] - Lança[918] [0 0 0 0 0 0]
+[03] - Cajado[919] [0 0 0 0 0 0]
+[04] - Cajado_2[920] [0 0 0 0 0 0]
+[05] - Garra[921] [0 0 0 0 0 0]
+[06] - Lança[922] [0 0 0 0 0 0]
+[07] - Arco[923] [0 0 0 0 0 0]
+[08] - Asa_Draconiana[3551] [0 0 0 0 0 0]
+[09] - Foice_Platinada[3566] [0 0 0 0 0 0]
+[10] - Demolidor_Celestial[3596] [0 0 0 0 0 0]
+[11] - Força_Eterna[3581] [0 0 0 0 0 0]
+[12] - Cajado_Caótico[3582] [0 0 0 0 0 0]
+[13] - Éden[3591] [4 0 0 0 0 0]
+[14] - Demolidor_Celestial[3596] [0 0 0 0 0 0]
+[15] - Elmo(N)[1104] [43 0 0 0 0 0]
+[16] - Armadura(N)[1116] [43 0 0 0 0 0]
+[17] - Calça(N)[1128] [43 0 0 0 0 0]
+[18] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[19] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[20] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[21] - Armadura(M)[1450] [9 16 71 50 60 6]
+[22] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[23] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:05:52 : [ffff] - Personagem ffff enviado ao mundo 2096x 2093y - Canal 2 - Cash da conta: 0. OverPower: 2020
+13:05:52 : [ffff] - Gold atual: 997642100. Classe: 0 Evolução: 0. Experiência: 13530. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+13:05:52 : [ffff] - Resetado a contagem de entradas água! Day: 0-6. Total: 0
+13:05:52 : [ffff] - Enviado informações do personagem
+13:05:54 : [ffff] - Comando "/day "
+13:05:54 : [ffff] - [Mensagem do servidor]> !#11 2
+13:06:07 : [ffff] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:06:31 : [ffff] - Moveu item Adaga [917] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 6
+13:06:44 : [ffff] - Moveu item Vingadora [3571] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 7
+13:07:02 : [ffff] - Matou o mob Gremlin. GenerID: 424
+13:07:05 : [ffff] - Matou o mob Gremlin. GenerID: 425
+13:07:48 : [ffff] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:07:48 : [ffff] - 2 Personagem foi desconectado. Permaneceu 00:02:04 minutos online

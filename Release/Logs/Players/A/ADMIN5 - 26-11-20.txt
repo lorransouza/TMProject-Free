@@ -1,0 +1,75 @@
+
+17:16:57 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (CD:D4:56:BA:84:4F). ClientId: 1
+17:16:57 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+17:16:57 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:16:57 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:17:03 : Solicitou ir ao mundo...
+17:17:03 : Recebido pedido para entrar no jogo
+17:17:03 : Recebido informação do personagem completa.
+17:17:03 : [GOLIRA] - [INFORMAÇÕES DA CONTA]
+Personagem online: GOLIRA
+Gold atual: 967400
+Level atual: 15
+Experiência atual: 22890
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 8 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 8 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 8 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 8 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 8 0 0 0 0]
+[06] - Adaga[861] [43 8 0 0 0 0]
+[14] - Porco[2360] [53 27 1 16 16 0]
+
+[INVENTÁRIO]
+[00] - Shire(3dias)[3980] [106 28 110 11 109 20]
+[03] - Ração_de_Porco[2420] [61 112 0 0 0 0]
+[04] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[63] - Marca_do_Assassino[547] [120 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:17:03 : [GOLIRA] - Personagem GOLIRA enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 272
+17:17:03 : [GOLIRA] - Gold atual: 967400. Classe: 2 Evolução: 0. Experiência: 22890. Nível: 15. Info: 0. GuildID: 0. CP: 45. Pontos de Contribuição: 0. Limite: 0
+17:17:03 : [GOLIRA] - Resetado a contagem de entradas água! Day: 329-330. Total: 0
+17:17:03 : [GOLIRA] - Enviado informações do personagem
+17:17:04 : [GOLIRA] - Comando "/day "
+17:17:04 : [GOLIRA] - [Mensagem do servidor]> !#11 2
+17:17:09 : [GOLIRA] - Comando "/gm +create Porco"
+17:17:11 : [GOLIRA] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:17:12 : [GOLIRA] - Matou o mob Porco. GenerID: -1
+17:17:17 : [GOLIRA] - Comando "/gm +remove Porco"
+17:17:17 : [GOLIRA] - Matou o mob Porco. GenerID: 1252
+17:17:17 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+17:17:17 : [GOLIRA] - [Mensagem do servidor]> Mob Porco removido de 2492x 1735y
+17:17:22 : [GOLIRA] - Comando "/gm +remove Porco"
+17:17:22 : [GOLIRA] - Matou o mob Porco. GenerID: 1253
+17:17:22 : [GOLIRA] - [Mensagem do servidor]> Mob Porco removido de 2491x 1735y
+17:17:26 : [GOLIRA] - Matou o mob Porco de Guerra. GenerID: 4420
+17:17:26 : [GOLIRA] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2116x 2049y - Porco de Guerra (1/30)
+17:17:31 : [GOLIRA] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:17:31 : [GOLIRA] - 1 Personagem foi desconectado. Permaneceu 00:00:34 minutos online

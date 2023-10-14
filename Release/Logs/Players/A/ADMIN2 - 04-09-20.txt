@@ -1,0 +1,2068 @@
+
+11:34:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 2
+11:34:40 : Conta ADMIN logado na conta
+Status da conta: JOGANDO
+Personagem: Foema
+
+11:34:40 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+11:34:40 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+11:34:45 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 1
+11:34:45 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+11:34:45 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+11:35:10 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (C5:09:8C:EE:22:4B). ClientId: 2
+11:35:10 : Conta ADMIN logado na conta
+Status da conta: JOGANDO
+Personagem: Foema
+
+11:35:10 : Usuário logou no jogo com clientId 2. - Servidor 1. Gold do banco: 0
+11:35:10 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+11:35:11 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+[ADMIN]	USER_PLAY	[Foema] (level: 85 ev: 1)	
+
+11:35:33 : Solicitou ir ao mundo...
+11:35:33 : Recebido pedido para entrar no jogo
+11:35:33 : Recebido informação do personagem completa.
+11:35:33 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:23 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN]	USER_PLAY	[Foema] (level: 85 ev: 1)	
+
+11:35:33 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+11:35:33 : [BEEEMEMEE] - Gold atual: 0. Classe: 2 Evolução: 1. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+11:35:33 : [BEEEMEMEE] - Resetado a contagem de entradas água! Day: 0-247. Total: 0
+11:35:33 : [BEEEMEMEE] - Enviado informações do personagem
+11:35:34 : [BEEEMEMEE] - Comando "/day "
+11:35:34 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+11:35:42 : [BEEEMEMEE] - Moveu item Luvas_Lupinas(N) [1425] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 0
+11:35:42 : [BEEEMEMEE] - CrackError - Points: 2 type: 20
+11:35:44 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+11:36:16 : [BEEEMEMEE] - Trade com conta ADMIN
+11:36:16 : [BEEEMEMEE] - Trade - 0 - Recebido Luvas_de_Concha(M) de Foema [1321] [43 3 2 20 53 3]
+11:36:16 : [BEEEMEMEE] - Trade - 0 - Enviado Luvas_Lupinas(N) para Foema [1425] [43 0 0 0 0 0]
+11:36:16 : [BEEEMEMEE] - Trade - Enviado 0 de gold para o usuário
+11:36:16 : [BEEEMEMEE] - Trade - Recebido 0 de gold do usuário
+11:40:07 : [BEEEMEMEE] - Trade com conta ADMIN
+11:40:07 : [BEEEMEMEE] - Trade - 0 - Recebido Luvas_Lupinas(N) de Foema [1425] [43 0 0 0 0 0]
+11:40:07 : [BEEEMEMEE] - Trade - 0 - Enviado Luvas_de_Concha(M) para Foema [1321] [43 3 2 20 53 3]
+11:40:07 : [BEEEMEMEE] - Trade - Enviado 0 de gold para o usuário
+11:40:07 : [BEEEMEMEE] - Trade - Recebido 100000 de gold do usuário
+11:40:32 : [BEEEMEMEE] - Moveu item Luvas_Lupinas(N) [1425] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 4
+11:40:46 : [BEEEMEMEE] - Comprou o item Katana [939] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 0. Imposto: 0. Gold: 100000 anterior. Gold após a compra: 100000
+11:40:47 : [BEEEMEMEE] - Comprou o item Katana [939] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 0. Imposto: 0. Gold: 100000 anterior. Gold após a compra: 100000
+11:40:49 : [BEEEMEMEE] - Moveu item Katana [939] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 7
+11:40:50 : [BEEEMEMEE] - Moveu item Katana [939] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 6
+11:42:11 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4420
+11:42:11 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:42:11 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 78
+11:42:11 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:42:11 : [BEEEMEMEE] - Level UP para level 1. Ev: 1 - 2117x 2043y
+11:42:11 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 81
+11:42:11 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:42:11 : [BEEEMEMEE] - Level UP para level 2. Ev: 1 - 2117x 2043y
+11:42:13 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4421
+11:42:13 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 84
+11:42:13 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:42:13 : [BEEEMEMEE] - Level UP para level 3. Ev: 1 - 2117x 2041y
+11:42:13 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 87
+11:42:13 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:42:13 : [BEEEMEMEE] - Level UP para level 4. Ev: 1 - 2117x 2041y
+11:42:15 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4419
+11:42:15 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 90
+11:42:15 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:42:15 : [BEEEMEMEE] - Level UP para level 5. Ev: 1 - 2121x 2045y
+11:42:16 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4422
+11:42:16 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 93
+11:42:16 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:42:16 : [BEEEMEMEE] - Level UP para level 6. Ev: 1 - 2122x 2046y
+11:42:18 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4423
+11:42:18 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:42:18 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 96
+11:42:18 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:42:18 : [BEEEMEMEE] - Level UP para level 7. Ev: 1 - 2128x 2037y
+11:42:20 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4424
+11:42:20 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:42:22 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4426
+11:42:22 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:42:22 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 99
+11:42:22 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:42:22 : [BEEEMEMEE] - Level UP para level 8. Ev: 1 - 2130x 2033y
+11:42:23 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4424
+11:42:23 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:42:25 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4425
+11:42:25 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:42:28 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4435
+11:42:28 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 102
+11:42:28 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:42:28 : [BEEEMEMEE] - Level UP para level 9. Ev: 1 - 2122x 2028y
+11:42:28 : [BEEEMEMEE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2122x 2028y - Porco de Guerra (1/30)
+11:42:29 : [BEEEMEMEE] - Matou o mob Aguia. GenerID: 4435
+11:42:29 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:42:29 : [BEEEMEMEE] - Dropado item Jaqueta_Acolchoada(A) [1556] [43 1 71 40 59 0] em 2122x 2028y - Aguia (1/30)
+11:42:32 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4437
+11:42:32 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:42:35 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4439
+11:42:35 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 105
+11:42:35 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:42:35 : [BEEEMEMEE] - Level UP para level 10. Ev: 1 - 2107x 2023y
+11:42:36 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4439
+11:42:36 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:42:41 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4440
+11:42:41 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:42:41 : [BEEEMEMEE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2096x 2022y - Porco de Guerra (1/30)
+11:42:43 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4440
+11:42:43 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:42:44 : [BEEEMEMEE] - Matou o mob Aguia. GenerID: 4440
+11:42:44 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 108
+11:42:44 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:42:44 : [BEEEMEMEE] - Level UP para level 11. Ev: 1 - 2096x 2022y
+11:42:45 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4440
+11:42:45 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:42:49 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4441
+11:42:50 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4444
+11:42:50 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:42:52 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4440
+11:42:52 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:42:53 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4443
+11:42:53 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 111
+11:42:53 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:42:53 : [BEEEMEMEE] - Level UP para level 12. Ev: 1 - 2095x 2022y
+11:42:55 : [BEEEMEMEE] - Matou o mob Aguia. GenerID: 4440
+11:42:56 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4439
+11:42:56 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:42:58 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4440
+11:42:59 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4440
+11:42:59 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:43:00 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4443
+11:43:00 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:43:02 : [BEEEMEMEE] - Matou o mob Aguia. GenerID: 4440
+11:43:04 : [BEEEMEMEE] - Matou o mob Aguia. GenerID: 4439
+11:43:04 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 114
+11:43:04 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:43:04 : [BEEEMEMEE] - Level UP para level 13. Ev: 1 - 2099x 2023y
+11:43:05 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4439
+11:43:07 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4438
+11:43:07 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:43:09 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4441
+11:43:09 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:43:11 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4443
+11:43:11 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:43:11 : [BEEEMEMEE] - Dropado item Calça_de_Couro(A) [1809] [43 0 71 40 2 12] em 2093x 2025y - Krill (1/67)
+11:43:12 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4444
+11:43:13 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4443
+11:43:13 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 117
+11:43:13 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:43:13 : [BEEEMEMEE] - Level UP para level 14. Ev: 1 - 2091x 2027y
+11:43:14 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4443
+11:43:15 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4441
+11:43:17 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4442
+11:43:17 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:43:19 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4445
+11:43:19 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:43:20 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4442
+11:43:20 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:43:22 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4444
+11:43:23 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4444
+11:43:23 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 120
+11:43:23 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:43:23 : [BEEEMEMEE] - Level UP para level 15. Ev: 1 - 2085x 2027y
+11:43:24 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4442
+11:43:26 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4444
+11:43:27 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4441
+11:43:27 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:43:29 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4441
+11:43:30 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4441
+11:43:30 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:43:30 : [BEEEMEMEE] - Dropado item Calça_de_Couro(A) [1809] [43 1 71 30 59 0] em 2088x 2028y - Krill (1/67)
+11:43:31 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4443
+11:43:32 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4443
+11:43:34 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4443
+11:43:34 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:43:35 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4442
+11:43:35 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 123
+11:43:35 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:43:35 : [BEEEMEMEE] - Level UP para level 16. Ev: 1 - 2089x 2024y
+11:43:36 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4444
+11:43:37 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4444
+11:43:37 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:43:37 : [BEEEMEMEE] - Dropado item Poção_de_Mana [405] [0 0 0 0 0 0] em 2089x 2024y - Krill (1/30)
+11:43:38 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4443
+11:43:40 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4444
+11:43:40 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:43:40 : [BEEEMEMEE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2087x 2026y - Gremlin (1/30)
+11:43:41 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4442
+11:43:42 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4442
+11:43:43 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4445
+11:43:44 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4444
+11:43:44 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:43:46 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4444
+11:43:47 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4443
+11:43:48 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4443
+11:43:48 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 126
+11:43:48 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:43:48 : [BEEEMEMEE] - Level UP para level 17. Ev: 1 - 2089x 2027y
+11:43:49 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4442
+11:43:50 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4444
+11:43:50 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:43:51 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4443
+11:43:53 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4442
+11:43:54 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4444
+11:43:55 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4445
+11:43:55 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:43:57 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4444
+11:43:58 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4444
+11:43:58 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:43:59 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4442
+11:44:00 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4442
+11:44:00 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 129
+11:44:00 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:44:00 : [BEEEMEMEE] - Level UP para level 18. Ev: 1 - 2086x 2024y
+11:44:01 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4444
+11:44:01 : [BEEEMEMEE] - Dropado item Sapatos_Pele_de_Animal(N) [1413] [43 0 73 12 60 2] em 2086x 2024y - Gremlin (1/89)
+11:44:02 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4442
+11:44:03 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4445
+11:44:04 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4442
+11:44:04 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:44:06 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4445
+11:44:07 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4443
+11:44:09 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4444
+11:44:09 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:44:10 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4445
+11:44:11 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4442
+11:44:13 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4444
+11:44:14 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4445
+11:44:15 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4445
+11:44:15 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:44:17 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4445
+11:44:19 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4447
+11:44:21 : [BEEEMEMEE] - Matou o mob Gremlin Artif. GenerID: 4449
+11:44:21 : [BEEEMEMEE] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2075x 2022y - Gremlin Artif (1/1)
+11:44:22 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4444
+11:44:22 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 132
+11:44:22 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:44:22 : [BEEEMEMEE] - Level UP para level 19. Ev: 1 - 2075x 2022y
+11:44:24 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4447
+11:44:25 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4447
+11:44:25 : [BEEEMEMEE] - Dropado item Sapatos_Pele_de_Animal(N) [1413] [43 0 73 12 59 0] em 2071x 2021y - Gremlin (1/89)
+11:44:27 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4448
+11:44:28 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4446
+11:44:28 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:44:29 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4446
+11:44:31 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4446
+11:44:32 : [BEEEMEMEE] - Comando "/cp "
+11:44:32 : [BEEEMEMEE] - [Mensagem do servidor]> Seu CP Atual : 57
+11:44:33 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4442
+11:44:33 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:44:35 : [BEEEMEMEE] - Matou o mob Gremlin Artif. GenerID: 4449
+11:44:35 : [BEEEMEMEE] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2078x 2025y - Gremlin Artif (1/1)
+11:44:37 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4447
+11:44:38 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4447
+11:44:40 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4447
+11:44:40 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:44:51 : [BEEEMEMEE] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 4407. Posição do usuário: 2129x 2035y. Posição do NPC: 2133x 2032y
+11:45:23 : [BEEEMEMEE] - [Mensagem do servidor]> !Chegou no destino [Defensor da alma].
+11:45:24 : [BEEEMEMEE] - Teleportado para a posição 2372 2099
+11:45:25 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 602
+11:45:26 : [BEEEMEMEE] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3289. Posição do usuário: 2371x 2103y. Posição do NPC: 2369x 2105y
+11:45:27 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 602
+11:45:29 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 601
+11:45:29 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 135
+11:45:29 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:45:29 : [BEEEMEMEE] - Level UP para level 20. Ev: 1 - 2366x 2110y
+11:45:31 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 601
+11:45:32 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 601
+11:45:32 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:45:33 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 602
+11:45:36 : [BEEEMEMEE] - Clicado no NPC [Coveiro]. Face 58. Race: 8. GenerateId: 3282. Posição do usuário: 2369x 2103y. Posição do NPC: 2372x 2097y
+11:45:37 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 608
+11:45:38 : [BEEEMEMEE] - Clicado no NPC [Coveiro]. Face 58. Race: 8. GenerateId: 3282. Posição do usuário: 2375x 2097y. Posição do NPC: 2372x 2097y
+11:45:39 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 603
+11:45:39 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:45:40 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 603
+11:45:42 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 603
+11:45:45 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 588
+11:45:45 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:45:46 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:45:47 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:45:49 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 603
+11:45:49 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 138
+11:45:49 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:45:49 : [BEEEMEMEE] - Level UP para level 21. Ev: 1 - 2359x 2099y
+11:45:50 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 603
+11:45:52 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 588
+11:45:53 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:45:54 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 588
+11:45:54 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:45:56 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:45:58 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:45:59 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:45:59 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:46:03 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 604
+11:46:04 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 604
+11:46:06 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 604
+11:46:06 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:46:08 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 586
+11:46:09 : [BEEEMEMEE] - Matou o mob Lobo. GenerID: 607
+11:46:11 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 585
+11:46:11 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 141
+11:46:11 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:46:11 : [BEEEMEMEE] - Level UP para level 22. Ev: 1 - 2365x 2078y
+11:46:11 : [BEEEMEMEE] - Dropado item Âmago_de_Javali [2391] [0 0 0 0 0 0] em 2365x 2078y - Javali (1/300)
+11:46:13 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 586
+11:46:14 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 585
+11:46:16 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 585
+11:46:18 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 585
+11:46:18 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:46:19 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 584
+11:46:19 : [BEEEMEMEE] - Dropado item Sapatos_Pele_de_Animal(A) [1415] [43 0 73 12 59 0] em 2355x 2071y - Rei Gremlin (1/90)
+11:46:20 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 583
+11:46:22 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 585
+11:46:24 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 586
+11:46:25 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 584
+11:46:25 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:46:27 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 584
+11:46:28 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 585
+11:46:29 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 584
+11:46:29 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:46:32 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 606
+11:46:33 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 606
+11:46:35 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 604
+11:46:36 : [BEEEMEMEE] - Matou o mob Lobo. GenerID: 607
+11:46:36 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 144
+11:46:36 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:46:36 : [BEEEMEMEE] - Level UP para level 23. Ev: 1 - 2372x 2082y
+11:46:38 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:46:38 : [BEEEMEMEE] - Dropado item Âmago_de_Javali [2391] [0 0 0 0 0 0] em 2367x 2087y - Javali (1/300)
+11:46:39 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:46:41 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 604
+11:46:43 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 608
+11:46:43 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:46:45 : [BEEEMEMEE] - Matou o mob Lobo. GenerID: 607
+11:46:46 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 608
+11:46:48 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 603
+11:46:50 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 603
+11:46:51 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 603
+11:46:51 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:46:51 : [BEEEMEMEE] - Dropado item Bandana_de_Seda(A) [1822] [43 0 26 9 59 0] em 2362x 2104y - Javali (1/90)
+11:46:56 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 590
+11:46:57 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 582
+11:46:59 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 589
+11:47:00 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 589
+11:47:00 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:47:01 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 590
+11:47:02 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 589
+11:47:05 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 601
+11:47:07 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 600
+11:47:07 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 147
+11:47:07 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:47:07 : [BEEEMEMEE] - Level UP para level 24. Ev: 1 - 2360x 2122y
+11:47:07 : [BEEEMEMEE] - Recebeu o item Ovo_do_Iniciante [4615] [0 0 0 0 0 0]. STR: 6. INT: 6. DEX: 9. CON: 5
+11:47:07 : [BEEEMEMEE] - [Mensagem do servidor]> Chegou um item: [ Ovo_do_Iniciante ]
+11:47:08 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 600
+11:47:10 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 590
+11:47:11 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 591
+11:47:13 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 591
+11:47:15 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 594
+11:47:15 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:47:16 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 592
+11:47:18 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 581
+11:47:19 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 592
+11:47:21 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 592
+11:47:21 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:47:22 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 592
+11:47:24 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 581
+11:47:25 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 592
+11:47:27 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 594
+11:47:29 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 593
+11:47:31 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 598
+11:47:31 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:47:32 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 598
+11:47:34 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 598
+11:47:35 : [BEEEMEMEE] - Matou o mob Lobo. GenerID: 610
+11:47:35 : [BEEEMEMEE] - Dropado item Matadora_de_Dragão [987] [43 0 60 4 59 0] em 2369x 2147y - Lobo (1/300)
+11:47:36 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 598
+11:47:36 : [BEEEMEMEE] - Pontos CP subiu em 3. CP novo: 150
+11:47:36 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:47:36 : [BEEEMEMEE] - Level UP para level 25. Ev: 1 - 2370x 2148y
+11:47:38 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 609
+11:47:40 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 599
+11:47:41 : [BEEEMEMEE] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 6. Distância 2: 5. Range: 2.
+11:47:42 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 599
+11:47:44 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 599
+11:47:45 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 599
+11:47:48 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 609
+11:47:48 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:47:49 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 599
+11:47:49 : [BEEEMEMEE] - Dropado item Calça_Lupina(A) [1958] [43 1 3 15 59 0] em 2366x 2141y - Javali (1/300)
+11:47:50 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 600
+11:47:51 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 600
+11:47:52 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 599
+11:47:53 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 598
+11:47:53 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:47:55 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 611
+11:47:57 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 611
+11:47:58 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 599
+11:48:00 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 599
+11:48:01 : [BEEEMEMEE] - Matou o mob Lobo. GenerID: 610
+11:48:03 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 609
+11:48:03 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:48:06 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 600
+11:48:08 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 600
+11:48:10 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 601
+11:48:10 : [BEEEMEMEE] - Dropado item Botas_de_Couro(A) [1151] [43 0 73 12 59 0] em 2366x 2126y - Rei Gremlin (1/90)
+11:48:11 : [BEEEMEMEE] - Matou o mob Chefe Krill. GenerID: 590
+11:48:12 : [BEEEMEMEE] - Item Botas_de_Couro(A) deletado [1151] [43 0 73 12 59 0]. Slot 18
+11:48:13 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 601
+11:48:13 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:48:13 : [BEEEMEMEE] - Level UP para level 26. Ev: 1 - 2365x 2121y
+11:48:13 : [BEEEMEMEE] - Item Calça_Lupina(A) deletado [1958] [43 1 3 15 59 0]. Slot 17
+11:48:14 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 601
+11:48:14 : [BEEEMEMEE] - Item Matadora_de_Dragão deletado [987] [43 0 60 4 59 0]. Slot 16
+11:48:15 : [BEEEMEMEE] - Item Bandana_de_Seda(A) deletado [1822] [43 0 26 9 59 0]. Slot 15
+11:48:15 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 589
+11:48:17 : [BEEEMEMEE] - Agrupando o item Âmago_de_Javali [2391] [0 0 0 0 0 0] com o item Âmago_de_Javali [2391] [0 0 0 0 0 0]
+11:48:17 : [BEEEMEMEE] - O agrupamento foi efetuado de slot 14 tipo INVENTÁRIO para slot 12 tipo INVENTÁRIO
+11:48:17 : [BEEEMEMEE] - CrackError - Points: 2 type: 20
+11:48:17 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 589
+11:48:18 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 589
+11:48:18 : [BEEEMEMEE] - Item Âmago_de_Javali deletado [2391] [61 2 0 0 0 0]. Slot 12
+11:48:19 : [BEEEMEMEE] - Item Sapatos_Pele_de_Animal(A) deletado [1415] [43 0 73 12 59 0]. Slot 13
+11:48:20 : [BEEEMEMEE] - Item Chave_da_Primeira_Porta deletado [451] [0 0 0 0 0 0]. Slot 9
+11:48:21 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 588
+11:48:21 : [BEEEMEMEE] - Item Sapatos_Pele_de_Animal(N) deletado [1413] [43 0 73 12 60 2]. Slot 8
+11:48:23 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 588
+11:48:23 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:48:23 : [BEEEMEMEE] - Dropado item Calça_Pele_de_Animal(A) [1409] [43 4 71 30 59 0] em 2359x 2099y - Rei Gremlin (1/300)
+11:48:23 : [BEEEMEMEE] - Item Jaqueta_Acolchoada(A) deletado [1556] [43 1 71 40 59 0]. Slot 1
+11:48:24 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:48:24 : [BEEEMEMEE] - Item Calça_Pele_de_Animal(A) deletado [1409] [43 4 71 30 59 0]. Slot 2
+11:48:25 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:48:25 : [BEEEMEMEE] - Item Calça_de_Couro(A) deletado [1809] [43 0 71 40 2 12]. Slot 3
+11:48:26 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 588
+11:48:27 : [BEEEMEMEE] - Item Calça_de_Couro(A) deletado [1809] [43 1 71 30 59 0]. Slot 4
+11:48:28 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 603
+11:48:28 : [BEEEMEMEE] - Item Sapatos_Pele_de_Animal(N) deletado [1413] [43 0 73 12 59 0]. Slot 10
+11:48:29 : [BEEEMEMEE] - Item Chave_da_Primeira_Porta deletado [451] [0 0 0 0 0 0]. Slot 11
+11:48:32 : [BEEEMEMEE] - Item Adaga deletado [861] [43 0 0 0 0 0]. Slot 5
+11:48:32 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 588
+11:48:34 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 588
+11:48:34 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:48:35 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:48:37 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:48:46 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 604
+11:48:47 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 898
+11:48:48 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 604
+11:48:49 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 604
+11:48:51 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 603
+11:48:51 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:48:51 : [BEEEMEMEE] - Dropado item Âmago_de_Javali [2391] [0 0 0 0 0 0] em 2369x 2095y - Javali (1/300)
+11:48:53 : [BEEEMEMEE] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 7. Distância 2: 4. Range: 2.
+11:48:55 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 603
+11:48:55 : [BEEEMEMEE] - Dropado item Armadura_de_Couro(A) [1115] [43 0 71 30 59 0] em 2367x 2097y - Rei Gremlin (1/118)
+11:48:56 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 603
+11:48:56 : [BEEEMEMEE] - Dropado item Luvas_de_Seda(A) [1834] [43 0 72 10 74 6] em 2362x 2095y - Javali (1/90)
+11:48:57 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:48:59 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:49:01 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:49:02 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:49:02 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:49:02 : [BEEEMEMEE] - Level UP para level 27. Ev: 1 - 2361x 2091y
+11:49:05 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 603
+11:49:06 : [BEEEMEMEE] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3289. Posição do usuário: 2366x 2102y. Posição do NPC: 2369x 2105y
+11:49:08 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 602
+11:49:12 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 602
+11:49:14 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 602
+11:49:16 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 601
+11:49:18 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 589
+11:49:18 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:49:20 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 589
+11:49:21 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 589
+11:49:22 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 589
+11:49:24 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 602
+11:49:26 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 602
+11:49:28 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 588
+11:49:29 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 720
+11:49:30 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 588
+11:49:30 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:49:33 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 588
+11:49:34 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 881
+11:49:35 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 588
+11:49:37 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 601
+11:49:39 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 601
+11:49:42 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 601
+11:49:42 : [BEEEMEMEE] - Dropado item Saia_de_Pano(A) [1277] [43 0 71 50 59 0] em 2368x 2115y - Rei Gremlin (1/300)
+11:49:43 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 876
+11:49:44 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 601
+11:49:44 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:49:48 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 601
+11:49:48 : [BEEEMEMEE] - Dropado item Armadura_de_Couro(A) [1115] [14 16 71 30 60 4] em 2368x 2115y - Rei Gremlin (1/118)
+11:49:49 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 601
+11:49:53 : [BEEEMEMEE] - Item Armadura_de_Couro(A) deletado [1115] [43 0 71 30 59 0]. Slot 1
+11:49:55 : [BEEEMEMEE] - Item Luvas_de_Seda(A) deletado [1834] [43 0 72 10 74 6]. Slot 2
+11:49:56 : [BEEEMEMEE] - Item Saia_de_Pano(A) deletado [1277] [43 0 71 50 59 0]. Slot 3
+11:49:57 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 601
+11:49:57 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 815
+11:49:58 : [BEEEMEMEE] - Item Armadura_de_Couro(A) deletado [1115] [14 16 71 30 60 4]. Slot 4
+11:49:58 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 601
+11:50:00 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 602
+11:50:00 : [BEEEMEMEE] - Item Âmago_de_Javali deletado [2391] [0 0 0 0 0 0]. Slot 0
+11:50:01 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 602
+11:50:01 : [BEEEMEMEE] - Dropado item Luvas_de_Seda(A) [1834] [43 1 72 15 74 9] em 2367x 2114y - Javali (1/90)
+11:50:03 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 589
+11:50:03 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:50:03 : [BEEEMEMEE] - Level UP para level 28. Ev: 1 - 2365x 2116y
+11:50:04 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 589
+11:50:07 : [BEEEMEMEE] - Item Luvas_de_Seda(A) deletado [1834] [43 1 72 15 74 9]. Slot 0
+11:50:09 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 602
+11:50:11 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 603
+11:50:12 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 602
+11:50:14 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 588
+11:50:16 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 603
+11:50:17 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 588
+11:50:17 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:50:19 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 604
+11:50:20 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 604
+11:50:21 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:50:22 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 603
+11:50:24 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:50:26 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:50:33 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 604
+11:50:33 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:50:37 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:50:38 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:50:44 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 604
+11:50:46 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:50:48 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:50:49 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 604
+11:50:56 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 603
+11:50:56 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:50:58 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 603
+11:50:59 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 603
+11:51:00 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:51:02 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:51:03 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 603
+11:51:05 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 588
+11:51:06 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 588
+11:51:08 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:51:08 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:51:08 : [BEEEMEMEE] - Level UP para level 29. Ev: 1 - 2364x 2094y
+11:51:08 : [BEEEMEMEE] - Recebeu o item Luvas_de_Águia(M) [1456] [43 3 2 20 53 3]. STR: 6. INT: 6. DEX: 9. CON: 5
+11:51:08 : [BEEEMEMEE] - [Mensagem do servidor]> Chegou um item: [ Luvas_de_Águia(M) ]
+11:51:19 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:51:20 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:51:21 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 603
+11:51:23 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:51:24 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 603
+11:51:25 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 603
+11:51:27 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 603
+11:51:29 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:51:29 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:51:32 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 604
+11:51:36 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 604
+11:51:56 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:52:00 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:52:02 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 604
+11:52:08 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 603
+11:52:10 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 604
+11:52:11 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 603
+11:52:11 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:52:12 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 604
+11:52:13 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 603
+11:52:32 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 604
+11:52:34 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 604
+11:52:35 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 603
+11:52:37 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 603
+11:52:38 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:52:39 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 587
+11:52:39 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:53:19 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 604
+11:53:53 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 604
+11:53:55 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 604
+11:54:14 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 587
+11:54:24 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 604
+11:54:24 : [BEEEMEMEE] - Dropado item Bandana_de_Seda(A) [1822] [43 0 59 0 59 0] em 2364x 2094y - Javali (1/90)
+11:54:26 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 604
+11:54:45 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 604
+11:54:51 : [BEEEMEMEE] - Matou o mob Rei Gremlin . GenerID: 604
+11:54:51 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:54:51 : [BEEEMEMEE] - Level UP para level 30. Ev: 1 - 2364x 2094y
+11:55:44 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 602
+11:55:44 : [BEEEMEMEE] - Dropado item Saia_de_Pano(A) [1277] [43 0 71 40 59 0] em 2363x 2102y - Rei Gremlin (1/300)
+11:55:44 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 602
+11:55:45 : [BEEEMEMEE] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3289. Posição do usuário: 2363x 2102y. Posição do NPC: 2369x 2105y
+11:55:46 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 588
+11:55:48 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 589
+11:55:48 : [BEEEMEMEE] - Dropado item Armadura_de_Couro(A) [1115] [43 0 71 40 59 0] em 2357x 2108y - Rei Gremlin (1/118)
+11:55:49 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 588
+11:55:50 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 589
+11:55:52 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 601
+11:55:53 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 601
+11:55:55 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 602
+11:55:55 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:55:56 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 589
+11:55:57 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 589
+11:55:59 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 601
+11:55:59 : [BEEEMEMEE] - Dropado item Calça_de_Couro(A) [1127] [43 1 71 60 60 4] em 2361x 2116y - Rei Gremlin (1/90)
+11:56:01 : [BEEEMEMEE] - Matou o mob Rei Gremlin. GenerID: 589
+11:56:02 : [BEEEMEMEE] - Matou o mob Javali. GenerID: 589
+11:56:04 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+11:56:04 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:20:53 minutos online
+13:13:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+13:13:29 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:13:29 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+
+13:13:29 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:13:47 : Solicitou ir ao mundo...
+13:13:47 : Recebido pedido para entrar no jogo
+13:13:47 : Recebido informação do personagem completa.
+13:13:47 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 100000
+Level atual: 30
+Experiência atual: 126414
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:19 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Katana[939] [43 9 0 0 0 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Bandana_de_Seda(A)[1822] [43 0 59 0 59 0]
+[01] - Saia_de_Pano(A)[1277] [43 0 71 40 59 0]
+[02] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[03] - Calça_de_Couro(A)[1127] [43 1 71 60 60 4]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:13:47 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 150
+13:13:47 : [BEEEMEMEE] - Gold atual: 100000. Classe: 2 Evolução: 1. Experiência: 126414. Nível: 30. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:13:47 : [BEEEMEMEE] - Enviado informações do personagem
+13:13:49 : [BEEEMEMEE] - Comando "/day "
+13:13:49 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+13:13:53 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+13:14:04 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4418
+13:14:04 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 21
+13:14:06 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4417
+13:14:10 : [BEEEMEMEE] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 4407. Posição do usuário: 2124x 2038y. Posição do NPC: 2133x 2032y
+13:14:11 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4423
+13:14:11 : [BEEEMEMEE] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 4407. Posição do usuário: 2124x 2038y. Posição do NPC: 2133x 2032y
+13:14:12 : [BEEEMEMEE] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 4407. Posição do usuário: 2131x 2034y. Posição do NPC: 2133x 2032y
+13:14:15 : [BEEEMEMEE] - Matou o mob Aguia. GenerID: 4427
+13:14:17 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4426
+13:14:17 : [BEEEMEMEE] - Dropado item Calça_Acolchoada(A) [1559] [43 0 71 70 59 0] em 2130x 2027y - Porco de Guerra (1/89)
+13:14:18 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 446
+13:14:21 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4423
+13:14:43 : [BEEEMEMEE] - Clicado no NPC [Bone I]. Face 16. Race: 8. GenerateId: 4776. Posição do usuário: 2140x 2111y. Posição do NPC: 2142x 2112y
+13:15:08 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:15:08 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+13:15:11 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4422
+13:15:13 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4423
+13:15:14 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4425
+13:15:16 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4424
+13:15:18 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4425
+13:15:20 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4424
+13:15:21 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4423
+13:15:21 : [BEEEMEMEE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2127x 2038y - Porco de Guerra (1/30)
+13:15:21 : [BEEEMEMEE] - Dropado item Calça_Pele_de_Animal(A) [1409] [43 0 3 15 59 0] em 2127x 2038y - Porco de Guerra (1/67)
+13:15:23 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:15:25 : [BEEEMEMEE] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 4407. Posição do usuário: 2127x 2036y. Posição do NPC: 2133x 2032y
+13:15:28 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4426
+13:15:37 : [BEEEMEMEE] - Matou o mob Gremlin Artif. GenerID: 4449
+13:15:37 : [BEEEMEMEE] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2077x 2024y - Gremlin Artif (1/1)
+13:15:41 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4446
+13:15:52 : [BEEEMEMEE] - Matou o mob Gremlin Artif. GenerID: 4449
+13:15:52 : [BEEEMEMEE] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2077x 2025y - Gremlin Artif (1/1)
+13:15:53 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 366
+13:15:54 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4446
+13:15:55 : [BEEEMEMEE] - Matou o mob Gremlin Artif. GenerID: 4449
+13:15:55 : [BEEEMEMEE] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2077x 2025y - Gremlin Artif (1/1)
+13:15:57 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4446
+13:16:08 : [BEEEMEMEE] - Matou o mob Serpente. GenerID: 4460
+13:16:08 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:16:10 : [BEEEMEMEE] - Matou o mob Serpente. GenerID: 4460
+13:16:12 : [BEEEMEMEE] - Matou o mob Serpente. GenerID: 4460
+13:16:12 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 0
+13:16:13 : [BEEEMEMEE] - Matou o mob Serpente. GenerID: 4465
+13:17:50 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:17:50 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:04:21 minutos online
+13:18:49 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+13:18:49 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:18:49 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+
+13:18:54 : [Mensagem do servidor]> Para realizar a composição é necessário [01] Pedra do Sábio
+13:18:55 : Solicitou ir ao mundo...
+13:18:55 : Recebido pedido para entrar no jogo
+13:18:55 : Recebido informação do personagem completa.
+13:18:55 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 100000
+Level atual: 30
+Experiência atual: 132878
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Katana[939] [43 9 0 0 0 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Bandana_de_Seda(A)[1822] [43 0 59 0 59 0]
+[01] - Saia_de_Pano(A)[1277] [43 0 71 40 59 0]
+[02] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[03] - Calça_de_Couro(A)[1127] [43 1 71 60 60 4]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+[08] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:18:55 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 150
+13:18:55 : [BEEEMEMEE] - Gold atual: 100000. Classe: 2 Evolução: 1. Experiência: 132878. Nível: 30. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:18:55 : [BEEEMEMEE] - Enviado informações do personagem
+13:18:56 : [BEEEMEMEE] - Comando "/day "
+13:18:56 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+13:18:58 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:19:02 : [BEEEMEMEE] - Clicado no NPC [Chefe de Treino]. Face 60. Race: 8. GenerateId: 4411. Posição do usuário: 2118x 2046y. Posição do NPC: 2119x 2047y
+13:19:05 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+13:19:07 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4423
+13:19:09 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:19:11 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:21:09 : [BEEEMEMEE] - Teleportado para a posição 1046 1725
+13:21:09 : [BEEEMEMEE] - Solicitado teleporte na posição 2116x 2102y e teleportado para 1046x 1725y
+13:21:17 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:21:17 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:02:28 minutos online
+13:22:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+13:22:29 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:22:29 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+
+13:22:38 : [Mensagem do servidor]> Para realizar a composição é necessário [01] Pedra do Sábio
+13:22:42 : Solicitou ir ao mundo...
+13:22:42 : Recebido pedido para entrar no jogo
+13:22:42 : Recebido informação do personagem completa.
+13:22:42 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 99300
+Level atual: 30
+Experiência atual: 133598
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:13 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Katana[939] [43 9 0 0 0 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Bandana_de_Seda(A)[1822] [43 0 59 0 59 0]
+[01] - Saia_de_Pano(A)[1277] [43 0 71 40 59 0]
+[02] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[03] - Calça_de_Couro(A)[1127] [43 1 71 60 60 4]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+[08] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:22:42 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 150
+13:22:42 : [BEEEMEMEE] - Gold atual: 99300. Classe: 2 Evolução: 1. Experiência: 133598. Nível: 30. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:22:42 : [BEEEMEMEE] - Enviado informações do personagem
+13:22:43 : [BEEEMEMEE] - Comando "/day "
+13:22:43 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+13:22:47 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:22:47 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:22:47 : [BEEEMEMEE] - Level UP para level 31. Ev: 1 - 2115x 2042y
+13:22:48 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 571
+13:22:53 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+13:27:56 : [BEEEMEMEE] - Personagem deu personagem
+13:28:00 : Solicitou ir ao mundo...
+13:28:00 : Recebido pedido para entrar no jogo
+13:28:00 : Recebido informação do personagem completa.
+13:28:01 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 99300
+Level atual: 31
+Experiência atual: 133778
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:05:32 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Katana[939] [43 9 0 0 0 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Bandana_de_Seda(A)[1822] [43 0 59 0 59 0]
+[01] - Saia_de_Pano(A)[1277] [43 0 71 40 59 0]
+[02] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[03] - Calça_de_Couro(A)[1127] [43 1 71 60 60 4]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+[08] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:28:01 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 152
+13:28:01 : [BEEEMEMEE] - Gold atual: 99300. Classe: 2 Evolução: 1. Experiência: 133778. Nível: 31. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:28:01 : [BEEEMEMEE] - Enviado informações do personagem
+13:28:01 : [BEEEMEMEE] - Erro no envio do pacote. Total a ser enviado: 156. Error: 10035
+13:28:02 : [BEEEMEMEE] - Comando "/day "
+13:28:02 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+13:28:07 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:28:17 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+13:28:26 : [BEEEMEMEE] - Transferiu 1 de gold para o banco. 1 gold no banco. 99299 no inventário
+13:34:41 : [BEEEMEMEE] - Desconectado por inatividade... Last: 8669. Counter: 9408. Status: 22
+13:34:41 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:12:12 minutos online
+13:36:26 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+13:36:26 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+13:36:26 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+
+13:36:30 : [Mensagem do servidor]> Para realizar a composição é necessário [01] Pedra do Sábio
+13:36:32 : Solicitou ir ao mundo...
+13:36:32 : Recebido pedido para entrar no jogo
+13:36:32 : Recebido informação do personagem completa.
+13:36:32 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 99299
+Level atual: 31
+Experiência atual: 133958
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Katana[939] [43 9 0 0 0 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Bandana_de_Seda(A)[1822] [43 0 59 0 59 0]
+[01] - Saia_de_Pano(A)[1277] [43 0 71 40 59 0]
+[02] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[03] - Calça_de_Couro(A)[1127] [43 1 71 60 60 4]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+[08] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:36:32 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 152
+13:36:32 : [BEEEMEMEE] - Gold atual: 99299. Classe: 2 Evolução: 1. Experiência: 133958. Nível: 31. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:36:32 : [BEEEMEMEE] - Enviado informações do personagem
+13:36:33 : [BEEEMEMEE] - Comando "/day "
+13:36:33 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+13:36:41 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+13:36:56 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:36:56 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:00:30 minutos online
+13:39:06 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+13:39:06 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+13:39:06 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+
+13:39:11 : [Mensagem do servidor]> Para realizar a composição é necessário [01] Pedra do Sábio
+13:39:12 : Solicitou ir ao mundo...
+13:39:12 : Recebido pedido para entrar no jogo
+13:39:12 : Recebido informação do personagem completa.
+13:39:12 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 99299
+Level atual: 31
+Experiência atual: 133958
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Katana[939] [43 9 0 0 0 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Bandana_de_Seda(A)[1822] [43 0 59 0 59 0]
+[01] - Saia_de_Pano(A)[1277] [43 0 71 40 59 0]
+[02] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[03] - Calça_de_Couro(A)[1127] [43 1 71 60 60 4]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+[08] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:39:12 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 152
+13:39:12 : [BEEEMEMEE] - Gold atual: 99299. Classe: 2 Evolução: 1. Experiência: 133958. Nível: 31. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:39:12 : [BEEEMEMEE] - Enviado informações do personagem
+13:39:14 : [BEEEMEMEE] - Comando "/day "
+13:39:14 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+13:39:20 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4420
+13:39:22 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:39:29 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+13:40:24 : [BEEEMEMEE] - Moveu item Calça_Pele_de_Animal(A) [1409] [43 0 3 15 59 0] do tipo INVENTÁRIO do slot 6 para tipo BANCO slot 106
+13:40:24 : [BEEEMEMEE] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo BANCO slot 79
+13:40:26 : [BEEEMEMEE] - Moveu item Bandana_de_Seda(A) [1822] [43 0 59 0 59 0] do tipo INVENTÁRIO do slot 0 para tipo BANCO slot 109
+13:40:26 : [BEEEMEMEE] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo BANCO slot 79
+13:40:29 : [BEEEMEMEE] - Moveu item Saia_de_Pano(A) [1277] [43 0 71 40 59 0] do tipo INVENTÁRIO do slot 1 para tipo BANCO slot 92
+13:40:29 : [BEEEMEMEE] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo BANCO slot 79
+13:40:30 : [BEEEMEMEE] - Moveu item Armadura_de_Couro(A) [1115] [43 0 71 40 59 0] do tipo INVENTÁRIO do slot 2 para tipo BANCO slot 102
+13:40:30 : [BEEEMEMEE] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo BANCO slot 79
+13:40:31 : [BEEEMEMEE] - Moveu item Calça_de_Couro(A) [1127] [43 1 71 60 60 4] do tipo INVENTÁRIO do slot 3 para tipo BANCO slot 101
+13:40:31 : [BEEEMEMEE] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo BANCO slot 79
+13:40:38 : [BEEEMEMEE] - Clicado no NPC [Mercantil]. Face 66. Race: 10. GenerateId: 4775. Posição do usuário: 2126x 2116y. Posição do NPC: 2126x 2115y
+13:40:43 : [BEEEMEMEE] - Clicado no NPC [ArenaStore]. Face 66. Race: 10. GenerateId: 4774. Posição do usuário: 2115x 2132y. Posição do NPC: 2122x 2141y
+13:40:48 : [BEEEMEMEE] - Clicado no NPC [Odin]. Face 51. Race: 8. GenerateId: 4772. Posição do usuário: 2118x 2148y. Posição do NPC: 2122x 2149y
+13:41:10 : [BEEEMEMEE] - Teleportado para a posição 1047 1726
+13:41:10 : [BEEEMEMEE] - Solicitado teleporte na posição 2117x 2101y e teleportado para 1047x 1726y
+13:41:46 : [BEEEMEMEE] - Removido o Hp do mob Aranha Inferno. HP removido: 1. HP Atual: 29999
+13:41:47 : [BEEEMEMEE] - Removido o Hp do mob Aranha Inferno. HP removido: 0. HP Atual: 29999
+13:41:48 : [BEEEMEMEE] - Removido o Hp do mob Aranha Inferno. HP removido: 0. HP Atual: 29999
+13:41:48 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 886
+13:41:49 : [BEEEMEMEE] - Removido o Hp do mob Aranha Inferno. HP removido: 1. HP Atual: 29998
+13:44:14 : [BEEEMEMEE] - Removido o Hp do mob Torre Guardia . HP removido: 0. HP Atual: 1000
+13:44:14 : [BEEEMEMEE] - [Mensagem do servidor]: A Torre Guardião do reino Red está sendo atacado
+13:44:15 : [BEEEMEMEE] - Removido o Hp do mob Torre Guardia . HP removido: 0. HP Atual: 1000
+13:44:16 : [BEEEMEMEE] - Removido o Hp do mob Torre Guardia . HP removido: 0. HP Atual: 1000
+13:44:17 : [BEEEMEMEE] - Removido o Hp do mob Torre Guardia . HP removido: 0. HP Atual: 1000
+13:44:18 : [BEEEMEMEE] - Removido o Hp do mob Torre Guardia . HP removido: 0. HP Atual: 1000
+13:44:19 : [BEEEMEMEE] - Removido o Hp do mob Torre Guardia . HP removido: 0. HP Atual: 1000
+13:44:27 : [BEEEMEMEE] - [Mensagem do servidor]: A paz situou no Reino Red
+13:44:34 : [BEEEMEMEE] - Clicado no NPC [King Glantuar]. Face 304. Race: 15. GenerateId: 9. Posição do usuário: 1752x 1878y. Posição do NPC: 1750x 1880y
+13:44:34 : [BEEEMEMEE] - [Mensagem do servidor]> Você precisa de um level superior.
+13:44:37 : [BEEEMEMEE] - Removido o Hp do mob Aberest . HP removido: 0. HP Atual: 27000
+13:44:38 : [BEEEMEMEE] - Removido o Hp do mob Aberest . HP removido: 0. HP Atual: 27000
+13:44:39 : [BEEEMEMEE] - Removido o Hp do mob Aberest . HP removido: 0. HP Atual: 27000
+13:44:40 : [BEEEMEMEE] - Removido o Hp do mob Aberest . HP removido: 0. HP Atual: 27000
+13:44:41 : [BEEEMEMEE] - Removido o Hp do mob Aberest . HP removido: 0. HP Atual: 27000
+13:44:42 : [BEEEMEMEE] - Clicado no NPC [King Glantuar]. Face 304. Race: 15. GenerateId: 9. Posição do usuário: 1754x 1880y. Posição do NPC: 1750x 1880y
+13:44:42 : [BEEEMEMEE] - [Mensagem do servidor]> Você precisa de um level superior.
+13:44:42 : [BEEEMEMEE] - Removido o Hp do mob Aberest . HP removido: 0. HP Atual: 27000
+13:44:43 : [BEEEMEMEE] - Removido o Hp do mob Aberest . HP removido: 0. HP Atual: 27000
+13:44:45 : [BEEEMEMEE] - Removido o Hp do mob Aberest . HP removido: 0. HP Atual: 27000
+13:44:53 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:44:53 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:05:47 minutos online
+13:45:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+13:45:23 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+13:45:23 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 92] - Saia_de_Pano(A)[1277] [43 0 71 40 59 0]
+[101] - Calça_de_Couro(A)[1127] [43 1 71 60 60 4]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+[109] - Bandana_de_Seda(A)[1822] [43 0 59 0 59 0]
+
+13:45:31 : Solicitou ir ao mundo...
+13:45:31 : Recebido pedido para entrar no jogo
+13:45:31 : Recebido informação do personagem completa.
+13:45:31 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 98599
+Level atual: 31
+Experiência atual: 134318
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Katana[939] [43 9 0 0 0 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[08] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:45:31 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 152
+13:45:31 : [BEEEMEMEE] - Gold atual: 98599. Classe: 2 Evolução: 1. Experiência: 134318. Nível: 31. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:45:31 : [BEEEMEMEE] - Enviado informações do personagem
+13:45:32 : [BEEEMEMEE] - Erro no envio do pacote. Total a ser enviado: 104. Error: 10035
+13:45:32 : [BEEEMEMEE] - Erro no envio do pacote. Total a ser enviado: 156. Error: 10035
+13:45:33 : [BEEEMEMEE] - Erro no envio do pacote. Total a ser enviado: 156. Error: 10035
+13:45:33 : [BEEEMEMEE] - Erro no envio do pacote. Total a ser enviado: 104. Error: 10035
+13:45:34 : [BEEEMEMEE] - Comando "/day "
+13:45:34 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+13:45:36 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:45:41 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+13:46:17 : [BEEEMEMEE] - [Mensagem do servidor]: Boss Dark_Shadow renasceu
+13:51:45 : [BEEEMEMEE] - Desconectado por inatividade... Last: 10726. Counter: 11456. Status: 22
+13:51:45 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:06:22 minutos online
+13:56:11 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+13:56:11 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+13:56:11 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 92] - Saia_de_Pano(A)[1277] [43 0 71 40 59 0]
+[101] - Calça_de_Couro(A)[1127] [43 1 71 60 60 4]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+[109] - Bandana_de_Seda(A)[1822] [43 0 59 0 59 0]
+
+13:56:22 : Solicitou ir ao mundo...
+13:56:22 : Recebido pedido para entrar no jogo
+13:56:22 : Recebido informação do personagem completa.
+13:56:22 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 98599
+Level atual: 31
+Experiência atual: 134498
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Katana[939] [43 9 0 0 0 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[08] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:56:22 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 152
+13:56:22 : [BEEEMEMEE] - Gold atual: 98599. Classe: 2 Evolução: 1. Experiência: 134498. Nível: 31. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:56:22 : [BEEEMEMEE] - Enviado informações do personagem
+13:56:23 : [BEEEMEMEE] - Comando "/day "
+13:56:23 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+13:56:29 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+13:56:58 : [BEEEMEMEE] - Erro no envio do pacote. Total a ser enviado: 104. Error: 10035
+13:56:59 : [BEEEMEMEE] - Erro no envio do pacote. Total a ser enviado: 104. Error: 10035
+13:56:59 : [BEEEMEMEE] - Erro no envio do pacote. Total a ser enviado: 52. Error: 10035
+13:57:00 : [BEEEMEMEE] - Erro no envio do pacote. Total a ser enviado: 496. Error: 10035
+13:57:00 : [BEEEMEMEE] - Erro no envio do pacote. Total a ser enviado: 172. Error: 10035
+13:57:01 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:57:01 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:00:49 minutos online
+13:57:10 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+13:57:10 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+13:57:10 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 92] - Saia_de_Pano(A)[1277] [43 0 71 40 59 0]
+[101] - Calça_de_Couro(A)[1127] [43 1 71 60 60 4]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+[109] - Bandana_de_Seda(A)[1822] [43 0 59 0 59 0]
+
+13:57:17 : Solicitou ir ao mundo...
+13:57:17 : Recebido pedido para entrar no jogo
+13:57:17 : Recebido informação do personagem completa.
+13:57:17 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 98599
+Level atual: 31
+Experiência atual: 134498
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Katana[939] [43 9 0 0 0 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[08] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:57:17 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 152
+13:57:17 : [BEEEMEMEE] - Gold atual: 98599. Classe: 2 Evolução: 1. Experiência: 134498. Nível: 31. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:57:17 : [BEEEMEMEE] - Enviado informações do personagem
+13:57:18 : [BEEEMEMEE] - Comando "/day "
+13:57:18 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+13:57:26 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:57:26 : [BEEEMEMEE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2117x 2040y - Porco de Guerra (1/30)
+13:57:29 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+13:58:04 : [BEEEMEMEE] - Teleportado para a posição 1046 1726
+13:58:04 : [BEEEMEMEE] - Solicitado teleporte na posição 2117x 2101y e teleportado para 1046x 1726y
+13:58:10 : [BEEEMEMEE] - Teleportado para a posição 2457 2018
+13:58:10 : [BEEEMEMEE] - Solicitado teleporte na posição 1046x 1709y e teleportado para 2457x 2018y
+13:58:18 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 851
+13:58:19 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 873
+14:06:25 : [BEEEMEMEE] - Desconectado por inatividade... Last: 12490. Counter: 13216. Status: 22
+14:06:25 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:09:16 minutos online
+22:06:05 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+22:06:05 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+22:06:05 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 92] - Saia_de_Pano(A)[1277] [43 0 71 40 59 0]
+[101] - Calça_de_Couro(A)[1127] [43 1 71 60 60 4]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+[109] - Bandana_de_Seda(A)[1822] [43 0 59 0 59 0]
+
+22:06:06 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:02 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:06:10 : [Mensagem do servidor]> Para realizar a composição é necessário [01] Pedra do Sábio
+22:06:11 : Solicitou ir ao mundo...
+22:06:11 : Recebido pedido para entrar no jogo
+22:06:11 : Recebido informação do personagem completa.
+22:06:11 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 97899
+Level atual: 31
+Experiência atual: 135140
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Katana[939] [43 9 0 0 0 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[08] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:06:11 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 152
+22:06:11 : [BEEEMEMEE] - Gold atual: 97899. Classe: 2 Evolução: 1. Experiência: 135140. Nível: 31. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+22:06:11 : [BEEEMEMEE] - Enviado informações do personagem
+22:06:12 : [BEEEMEMEE] - Comando "/day "
+22:06:12 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+22:06:19 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4421
+22:06:21 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4422
+22:06:24 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4420
+22:06:24 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+22:06:26 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4419
+22:06:27 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4420
+22:06:29 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4421
+22:06:31 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4422
+22:06:35 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4424
+22:06:36 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4423
+22:06:38 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4423
+22:06:38 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:06:40 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4422
+22:06:41 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4419
+22:06:42 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4420
+22:06:42 : [BEEEMEMEE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2122x 2042y - Porco de Guerra (1/30)
+22:06:45 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4421
+22:06:45 : [BEEEMEMEE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2117x 2042y - Porco de Guerra (1/30)
+22:07:03 : [BEEEMEMEE] - Teleportado para a posição 1046 1726
+22:07:03 : [BEEEMEMEE] - Solicitado teleporte na posição 2118x 2102y e teleportado para 1046x 1726y
+22:07:08 : [BEEEMEMEE] - Clicado no NPC [God Government]. Face 271. Race: 4. GenerateId: 3276. Posição do usuário: 1049x 1715y. Posição do NPC: 1051x 1713y
+22:07:11 : [BEEEMEMEE] - Teleportado para a posição 2458 2019
+22:07:11 : [BEEEMEMEE] - Solicitado teleporte na posição 1046x 1709y e teleportado para 2458x 2019y
+22:07:19 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 873
+22:07:22 : [BEEEMEMEE] - Matou o mob Meio Orc . GenerID: 866
+22:07:24 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 873
+22:07:24 : [BEEEMEMEE] - Dropado item Botas_Vampíricas(A) [1839] [43 0 73 6 59 0] em 2484x 2019y - Meio Orc (1/135)
+22:07:29 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:07:30 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 765
+22:07:32 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 873
+22:07:32 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:07:36 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:07:42 : [BEEEMEMEE] - Teleportado para a posição 1045 1710
+22:07:42 : [BEEEMEMEE] - Solicitado teleporte na posição 2458x 2017y e teleportado para 1045x 1710y
+22:07:44 : [BEEEMEMEE] - Clicado no NPC [God Government]. Face 271. Race: 4. GenerateId: 3276. Posição do usuário: 1045x 1710y. Posição do NPC: 1051x 1713y
+22:07:47 : [BEEEMEMEE] - Teleportado para a posição 3650 3109
+22:07:47 : [BEEEMEMEE] - Solicitado teleporte na posição 1054x 1710y e teleportado para 3650x 3109y
+22:07:57 : [BEEEMEMEE] - Removido o Hp do mob Lobo Polar. HP removido: 0. HP Atual: 20000
+22:07:58 : [BEEEMEMEE] - Removido o Hp do mob Lobo Polar. HP removido: 0. HP Atual: 20000
+22:07:59 : [BEEEMEMEE] - Removido o Hp do mob Lobo Polar. HP removido: 0. HP Atual: 20000
+22:08:00 : [BEEEMEMEE] - Removido o Hp do mob Lobo Polar. HP removido: 0. HP Atual: 20000
+22:08:10 : [BEEEMEMEE] - Teleportado para a posição 1055 1709
+22:08:10 : [BEEEMEMEE] - Solicitado teleporte na posição 3649x 3109y e teleportado para 1055x 1709y
+22:08:16 : [BEEEMEMEE] - Teleportado para a posição 2117 2103
+22:08:16 : [BEEEMEMEE] - Solicitado teleporte na posição 1046x 1726y e teleportado para 2117x 2103y
+22:08:39 : [BEEEMEMEE] - Comprou o item Broquel_de_Aço [1702] [0 0 0 0 0 0] na loja de Galford. Preço total: 4600. Imposto: 600. Gold: 95499 anterior. Gold após a compra: 90899
+22:08:39 : [BEEEMEMEE] - Comprou o item Machado_de_Arremesso [877] [0 0 0 0 0 0] na loja de Galford. Preço total: 1092. Imposto: 142. Gold: 90899 anterior. Gold após a compra: 89807
+22:08:40 : [BEEEMEMEE] - Comprou o item Escudo_de_Madeira [1701] [0 0 0 0 0 0] na loja de Galford. Preço total: 1035. Imposto: 135. Gold: 89807 anterior. Gold após a compra: 88772
+22:08:41 : [BEEEMEMEE] - Comprou o item Adaga [861] [0 0 0 0 0 0] na loja de Galford. Preço total: 230. Imposto: 30. Gold: 88772 anterior. Gold após a compra: 88542
+22:08:53 : [BEEEMEMEE] - Teleportado para a posição 1046 1725
+22:08:53 : [BEEEMEMEE] - Solicitado teleporte na posição 2118x 2101y e teleportado para 1046x 1725y
+22:08:57 : [BEEEMEMEE] - Teleportado para a posição 2481 1718
+22:08:57 : [BEEEMEMEE] - Solicitado teleporte na posição 1047x 1718y e teleportado para 2481x 1718y
+22:09:04 : [BEEEMEMEE] - Comprou o item Gema_Estelar [700] [0 0 0 0 0 0] na loja de Ruti. Preço total: 57500. Imposto: 7500. Gold: 87842 anterior. Gold após a compra: 30342
+22:09:05 : [BEEEMEMEE] - Item Gema_Estelar [700] [0 0 0 0 0 0] utilizado em 2488x 1700y
+22:09:05 : [BEEEMEMEE] - [Mensagem do servidor]> Não pode usar aqui.
+22:09:05 : [BEEEMEMEE] - Item Gema_Estelar [700] [0 0 0 0 0 0] utilizado em 2488x 1700y
+22:09:05 : [BEEEMEMEE] - [Mensagem do servidor]> Não pode usar aqui.
+22:09:06 : [BEEEMEMEE] - Item Gema_Estelar [700] [0 0 0 0 0 0] utilizado em 2488x 1700y
+22:09:06 : [BEEEMEMEE] - [Mensagem do servidor]> Não pode usar aqui.
+22:09:06 : [BEEEMEMEE] - Item Gema_Estelar [700] [0 0 0 0 0 0] utilizado em 2488x 1700y
+22:09:06 : [BEEEMEMEE] - [Mensagem do servidor]> Não pode usar aqui.
+22:09:06 : [BEEEMEMEE] - Item Gema_Estelar [700] [0 0 0 0 0 0] utilizado em 2488x 1700y
+22:09:06 : [BEEEMEMEE] - [Mensagem do servidor]> Não pode usar aqui.
+22:09:07 : [BEEEMEMEE] - Item Gema_Estelar [700] [0 0 0 0 0 0] utilizado em 2488x 1700y
+22:09:07 : [BEEEMEMEE] - [Mensagem do servidor]> Não pode usar aqui.
+22:09:07 : [BEEEMEMEE] - Item Gema_Estelar [700] [0 0 0 0 0 0] utilizado em 2488x 1700y
+22:09:07 : [BEEEMEMEE] - [Mensagem do servidor]> Não pode usar aqui.
+22:09:07 : [BEEEMEMEE] - Item Gema_Estelar [700] [0 0 0 0 0 0] utilizado em 2488x 1700y
+22:09:07 : [BEEEMEMEE] - [Mensagem do servidor]> Não pode usar aqui.
+22:09:07 : [BEEEMEMEE] - Item Gema_Estelar [700] [0 0 0 0 0 0] utilizado em 2488x 1700y
+22:09:07 : [BEEEMEMEE] - [Mensagem do servidor]> Não pode usar aqui.
+22:09:08 : [BEEEMEMEE] - Item Gema_Estelar [700] [0 0 0 0 0 0] utilizado em 2488x 1700y
+22:09:08 : [BEEEMEMEE] - [Mensagem do servidor]> Não pode usar aqui.
+22:09:09 : [BEEEMEMEE] - Item Gema_Estelar [700] [0 0 0 0 0 0] utilizado em 2488x 1700y
+22:09:09 : [BEEEMEMEE] - [Mensagem do servidor]> Não pode usar aqui.
+22:09:10 : [BEEEMEMEE] - [Mensagem do servidor]> Não possui gold para comprar este item
+22:09:11 : [BEEEMEMEE] - [Mensagem do servidor]> Não possui gold para comprar este item
+22:09:13 : [BEEEMEMEE] - Vendeu o item Escudo_de_Madeira [1701] [0 0 0 0 0 0] por 192. Gold atual: 30534. Valor do imposto: 33
+22:09:13 : [BEEEMEMEE] - Vendido item no NPC Ruti
+22:09:16 : [BEEEMEMEE] - Vendeu o item Broquel_de_Aço [1702] [0 0 0 0 0 0] por 850. Gold atual: 31384. Valor do imposto: 150
+22:09:16 : [BEEEMEMEE] - Vendido item no NPC Ruti
+22:09:17 : [BEEEMEMEE] - [Mensagem do servidor]> Não possui gold para comprar este item
+22:09:21 : [BEEEMEMEE] - Vendeu o item Adaga [861] [0 0 0 0 0 0] por 43. Gold atual: 31427. Valor do imposto: 7
+22:09:21 : [BEEEMEMEE] - Vendido item no NPC Ruti
+22:09:27 : [BEEEMEMEE] - Vendeu o item Botas_Vampíricas(A) [1839] [43 0 73 6 59 0] por 3039. Gold atual: 34466. Valor do imposto: 536
+22:09:27 : [BEEEMEMEE] - Vendido item no NPC Ruti
+22:09:31 : [BEEEMEMEE] - Clicado no NPC [Dragao de Azran]. Face 200. Race: 14. GenerateId: 3824. Posição do usuário: 2488x 1700y. Posição do NPC: 2492x 1687y
+22:09:42 : [BEEEMEMEE] - Teleportado para a posição 1046 1718
+22:09:42 : [BEEEMEMEE] - Solicitado teleporte na posição 2483x 1717y e teleportado para 1046x 1718y
+22:09:46 : [BEEEMEMEE] - Teleportado para a posição 2117 2102
+22:09:46 : [BEEEMEMEE] - Solicitado teleporte na posição 1046x 1725y e teleportado para 2117x 2102y
+22:16:43 : [BEEEMEMEE] - Desconectado por inatividade... Last: 45351. Counter: 46080. Status: 22
+22:16:43 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:10:38 minutos online
+22:19:05 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+22:19:05 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+22:19:05 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 92] - Saia_de_Pano(A)[1277] [43 0 71 40 59 0]
+[101] - Calça_de_Couro(A)[1127] [43 1 71 60 60 4]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+[109] - Bandana_de_Seda(A)[1822] [43 0 59 0 59 0]
+
+22:19:11 : Solicitou ir ao mundo...
+22:19:11 : Recebido pedido para entrar no jogo
+22:19:11 : Recebido informação do personagem completa.
+22:19:11 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 33766
+Level atual: 31
+Experiência atual: 140880
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Katana[939] [43 9 0 0 0 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[08] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:19:11 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 152
+22:19:11 : [BEEEMEMEE] - Gold atual: 33766. Classe: 2 Evolução: 1. Experiência: 140880. Nível: 31. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+22:19:11 : [BEEEMEMEE] - Enviado informações do personagem
+22:19:12 : [BEEEMEMEE] - Comando "/day "
+22:19:12 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+22:19:17 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4421
+22:19:23 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4419
+22:19:24 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4422
+22:19:24 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+22:19:25 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4420
+22:19:26 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4419
+22:19:28 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4422
+22:19:31 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4423
+22:19:31 : [BEEEMEMEE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2125x 2040y - Porco de Guerra (1/30)
+22:19:36 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4424
+22:21:36 : [BEEEMEMEE] - Personagem deu personagem
+22:21:51 : Solicitou ir ao mundo...
+22:21:51 : Recebido pedido para entrar no jogo
+22:21:51 : Recebido informação do personagem completa.
+22:21:51 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 33766
+Level atual: 31
+Experiência atual: 142320
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:02:46 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Katana[939] [43 9 0 0 0 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[08] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:21:51 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 152
+22:21:51 : [BEEEMEMEE] - Gold atual: 33766. Classe: 2 Evolução: 1. Experiência: 142320. Nível: 31. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+22:21:51 : [BEEEMEMEE] - Enviado informações do personagem
+22:21:52 : [BEEEMEMEE] - Comando "/day "
+22:21:52 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+22:21:55 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4421
+22:21:57 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4419
+22:21:58 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4420
+22:21:58 : [BEEEMEMEE] - Dropado item Calça_Pele_de_Animal(A) [1409] [43 0 3 15 2 24] em 2124x 2045y - Porco de Guerra (1/67)
+22:21:59 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4422
+22:22:01 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+22:22:01 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4423
+22:22:02 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4419
+22:22:04 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4425
+22:22:04 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:22:06 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4424
+22:22:07 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4426
+22:23:13 : [BEEEMEMEE] - Personagem deu personagem
+22:23:18 : Solicitou ir ao mundo...
+22:23:18 : Recebido pedido para entrar no jogo
+22:23:18 : Recebido informação do personagem completa.
+22:23:18 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 33766
+Level atual: 31
+Experiência atual: 143940
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:04:13 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Katana[939] [43 9 0 0 0 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[08] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:23:18 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 152
+22:23:18 : [BEEEMEMEE] - Gold atual: 33766. Classe: 2 Evolução: 1. Experiência: 143940. Nível: 31. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+22:23:18 : [BEEEMEMEE] - Enviado informações do personagem
+22:23:19 : [BEEEMEMEE] - Comando "/day "
+22:23:19 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+22:23:21 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4421
+22:23:24 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4419
+22:23:25 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+22:23:25 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4423
+22:23:25 : [BEEEMEMEE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2125x 2041y - Porco de Guerra (1/30)
+22:23:25 : [BEEEMEMEE] - Dropado item Robe_Pele_de_Animal(A) [1406] [43 0 71 50 60 6] em 2125x 2041y - Porco de Guerra (1/67)
+22:23:27 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4419
+22:23:29 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4421
+22:24:25 : [BEEEMEMEE] - Personagem deu personagem
+22:24:29 : Solicitou ir ao mundo...
+22:24:29 : Recebido pedido para entrar no jogo
+22:24:29 : Recebido informação do personagem completa.
+22:24:29 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 33766
+Level atual: 31
+Experiência atual: 144840
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:05:25 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Katana[939] [43 9 0 0 0 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[02] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[08] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:24:29 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 152
+22:24:29 : [BEEEMEMEE] - Gold atual: 33766. Classe: 2 Evolução: 1. Experiência: 144840. Nível: 31. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+22:24:29 : [BEEEMEMEE] - Enviado informações do personagem
+22:24:30 : [BEEEMEMEE] - Comando "/day "
+22:24:30 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+22:24:33 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4421
+22:24:34 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4422
+22:24:36 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4419
+22:24:37 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+22:24:38 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4423
+22:24:40 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4424
+22:24:42 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4425
+22:24:43 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 318
+22:24:45 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4426
+22:24:46 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4434
+22:24:48 : [BEEEMEMEE] - Matou o mob Aguia. GenerID: 4434
+22:24:49 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4434
+22:24:50 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4434
+22:24:50 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:24:50 : [BEEEMEMEE] - Level UP para level 32. Ev: 1 - 2124x 2023y
+22:24:53 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4433
+22:24:54 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 840
+22:24:56 : [BEEEMEMEE] - Matou o mob Aguia. GenerID: 4433
+22:24:58 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4434
+22:24:59 : [BEEEMEMEE] - Matou o mob Aguia. GenerID: 4434
+22:25:56 : [BEEEMEMEE] - Personagem deu personagem
+22:26:01 : Solicitou ir ao mundo...
+22:26:01 : Recebido pedido para entrar no jogo
+22:26:01 : Recebido informação do personagem completa.
+22:26:01 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 33766
+Level atual: 32
+Experiência atual: 147450
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:06:55 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Katana[939] [43 9 0 0 0 0]
+[07] - Katana[939] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[02] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[08] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:26:01 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 154
+22:26:01 : [BEEEMEMEE] - Gold atual: 33766. Classe: 2 Evolução: 1. Experiência: 147450. Nível: 32. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+22:26:01 : [BEEEMEMEE] - Enviado informações do personagem
+22:26:02 : [BEEEMEMEE] - Comando "/day "
+22:26:02 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+22:26:05 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4419
+22:26:06 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4423
+22:26:08 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4425
+22:26:11 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4435
+22:26:12 : [BEEEMEMEE] - Matou o mob Aguia. GenerID: 4434
+22:26:13 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+22:26:14 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4434
+22:26:15 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4434
+22:26:17 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4436
+22:26:18 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 878
+22:26:19 : [BEEEMEMEE] - Matou o mob Porco de Guerra. GenerID: 4436
+22:26:20 : [BEEEMEMEE] - Matou o mob Aguia. GenerID: 4436
+22:26:39 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4450
+22:26:41 : [BEEEMEMEE] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3422. Posição do usuário: 2086x 2002y. Posição do NPC: 2087x 2001y
+22:26:45 : [BEEEMEMEE] - Moveu item Katana [939] [43 9 0 0 0 0] do tipo EQUIPAMENTO do slot 6 para tipo INVENTÁRIO slot 5
+22:26:46 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4455
+22:26:47 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4456
+22:26:49 : [BEEEMEMEE] - Moveu item Katana [939] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 7
+22:26:50 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4456
+22:26:50 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:26:53 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4456
+22:26:55 : [BEEEMEMEE] - Matou o mob Krill. GenerID: 4459
+22:26:58 : [BEEEMEMEE] - Matou o mob Serpente. GenerID: 4461
+22:26:59 : [BEEEMEMEE] - Matou o mob Serpente. GenerID: 4461
+22:27:00 : [BEEEMEMEE] - Matou o mob Serpente. GenerID: 4461
+22:27:04 : [BEEEMEMEE] - Matou o mob Serpente. GenerID: 4461
+22:27:09 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4459
+22:27:10 : [BEEEMEMEE] - Matou o mob Gremlin. GenerID: 4459
+22:27:21 : [BEEEMEMEE] - Matou o mob Serpente. GenerID: 4464
+22:27:21 : [BEEEMEMEE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:27:27 : [BEEEMEMEE] - Clicado no NPC [Treinador2]. Face 60. Race: 8. GenerateId: 4409. Posição do usuário: 2143x 1996y. Posição do NPC: 2142x 1990y
+22:27:30 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 583
+22:27:34 : [BEEEMEMEE] - Matou o mob Krill Gigante. GenerID: 4476
+22:27:34 : [BEEEMEMEE] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2143x 1996y - Krill Gigante (1/1)
+22:27:37 : [BEEEMEMEE] - Matou o mob Rei Gremlin  . GenerID: 4475
+22:27:37 : [BEEEMEMEE] - Dropado item Botas_de_Couro(A) [1151] [43 1 73 6 59 0] em 2146x 1997y - Rei Gremlin   (1/90)
+22:27:38 : [BEEEMEMEE] - Matou o mob Rei Gremlin  . GenerID: 4475
+22:27:44 : [BEEEMEMEE] - Personagem deu personagem
+22:28:14 : Solicitou ir ao mundo...
+22:28:14 : Recebido pedido para entrar no jogo
+22:28:14 : Recebido informação do personagem completa.
+22:28:14 : [Aaaa] - [INFORMAÇÕES DA CONTA]
+Personagem online: Aaaa
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:09:09 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Huntress[31] [43 0 31 1 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 0 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 0 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 0 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:28:14 : [Aaaa] - Personagem Aaaa enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 0
+22:28:14 : [Aaaa] - Gold atual: 0. Classe: 3 Evolução: 1. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+22:28:14 : [Aaaa] - Enviado informações do personagem
+22:28:15 : [Aaaa] - Comando "/day "
+22:28:15 : [Aaaa] - [Mensagem do servidor]> !#11 2
+22:28:22 : [Aaaa] - Comprou o item Cajado_Orc [940] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 0. Imposto: 0. Gold: 0 anterior. Gold após a compra: 0
+22:28:23 : [Aaaa] - Comprou o item Foice_do_Mago [941] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 0. Imposto: 0. Gold: 0 anterior. Gold após a compra: 0
+22:28:23 : [Aaaa] - Comprou o item Katana [939] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 0. Imposto: 0. Gold: 0 anterior. Gold após a compra: 0
+22:28:25 : [Aaaa] - O usuário não enviou o pacote de integridade de macaddress
+22:28:26 : [Aaaa] - Comprou o item Arco_de_Caveira [943] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 0. Imposto: 0. Gold: 0 anterior. Gold após a compra: 0
+22:28:33 : [Aaaa] - Moveu item Katana [939] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 6
+22:28:34 : [Aaaa] - Moveu item Arco_de_Caveira [943] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 6
+22:28:35 : [Aaaa] - Matou o mob Porco de Guerra. GenerID: 4420
+22:28:35 : [Aaaa] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:28:35 : [Aaaa] - Pontos CP subiu em 3. CP novo: 78
+22:28:35 : [Aaaa] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:28:35 : [Aaaa] - Level UP para level 1. Ev: 1 - 2113x 2043y
+22:28:35 : [Aaaa] - Pontos CP subiu em 3. CP novo: 81
+22:28:35 : [Aaaa] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:28:35 : [Aaaa] - Level UP para level 2. Ev: 1 - 2113x 2043y
+22:28:37 : [Aaaa] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 10. Distância 2: 9. Range: 5.
+22:28:37 : [Aaaa] - Pontos CP subiu em 3. CP novo: 84
+22:28:37 : [Aaaa] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:28:37 : [Aaaa] - Level UP para level 3. Ev: 1 - 2113x 2042y
+22:28:41 : [Aaaa] - Matou o mob Porco de Guerra. GenerID: 4419
+22:28:41 : [Aaaa] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:28:41 : [Aaaa] - Pontos CP subiu em 3. CP novo: 87
+22:28:41 : [Aaaa] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:28:41 : [Aaaa] - Level UP para level 4. Ev: 1 - 2117x 2039y
+22:28:42 : [Aaaa] - Matou o mob Porco de Guerra. GenerID: 4423
+22:28:42 : [Aaaa] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:28:42 : [Aaaa] - Pontos CP subiu em 3. CP novo: 90
+22:28:42 : [Aaaa] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:28:42 : [Aaaa] - Level UP para level 5. Ev: 1 - 2122x 2041y
+22:28:43 : [Aaaa] - Ataque mais rápido que 900ms. Diferença 895
+22:28:44 : [Aaaa] - Matou o mob Porco de Guerra. GenerID: 4420
+22:28:44 : [Aaaa] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:28:44 : [Aaaa] - Pontos CP subiu em 3. CP novo: 93
+22:28:44 : [Aaaa] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:28:44 : [Aaaa] - Level UP para level 6. Ev: 1 - 2122x 2041y
+22:28:45 : [Aaaa] - Matou o mob Porco de Guerra. GenerID: 4422
+22:28:45 : [Aaaa] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:28:45 : [Aaaa] - Dropado item Calça_Acolchoada(A) [1559] [43 1 3 25 60 8] em 2122x 2041y - Porco de Guerra (1/89)
+22:28:47 : [Aaaa] - Matou o mob Porco de Guerra. GenerID: 4425
+22:28:47 : [Aaaa] - Pontos CP subiu em 3. CP novo: 96
+22:28:47 : [Aaaa] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:28:47 : [Aaaa] - Level UP para level 7. Ev: 1 - 2124x 2039y
+22:28:48 : [Aaaa] - Matou o mob Porco de Guerra. GenerID: 4421
+22:28:48 : [Aaaa] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:28:49 : [Aaaa] - Matou o mob Porco de Guerra. GenerID: 4423
+22:28:49 : [Aaaa] - Pontos CP subiu em 3. CP novo: 99
+22:28:49 : [Aaaa] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:28:49 : [Aaaa] - Level UP para level 8. Ev: 1 - 2122x 2041y
+22:28:51 : [Aaaa] - Matou o mob Porco de Guerra. GenerID: 4422
+22:28:51 : [Aaaa] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:28:51 : [Aaaa] - Dropado item Calça_Pele_de_Animal(A) [1409] [43 0 71 50 3 20] em 2122x 2041y - Porco de Guerra (1/67)
+22:28:51 : [Aaaa] - Ataque mais rápido que 900ms. Diferença 728
+22:28:52 : [Aaaa] - Matou o mob Porco de Guerra. GenerID: 4421
+22:28:52 : [Aaaa] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:28:52 : [Aaaa] - Pontos CP subiu em 3. CP novo: 102
+22:28:52 : [Aaaa] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:28:52 : [Aaaa] - Level UP para level 9. Ev: 1 - 2122x 2041y
+22:28:52 : [Aaaa] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2122x 2041y - Porco de Guerra (1/30)
+22:28:53 : [Aaaa] - Matou o mob Porco de Guerra. GenerID: 4419
+22:28:53 : [Aaaa] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:28:56 : [Aaaa] - Matou o mob Porco de Guerra. GenerID: 4425
+22:28:56 : [Aaaa] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:28:57 : [Aaaa] - Ataque mais rápido que 900ms. Diferença 235
+22:28:57 : [Aaaa] - Matou o mob Porco de Guerra. GenerID: 4424
+22:28:57 : [Aaaa] - Pontos CP subiu em 3. CP novo: 105
+22:28:57 : [Aaaa] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:28:57 : [Aaaa] - Level UP para level 10. Ev: 1 - 2126x 2035y
+22:28:58 : [Aaaa] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 4407. Posição do usuário: 2126x 2035y. Posição do NPC: 2133x 2032y
+22:28:59 : [Aaaa] - Matou o mob Aguia. GenerID: 4428
+22:28:59 : [Aaaa] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:28:59 : [Aaaa] - Dropado item Luvas_de_Seda(A) [1292] [43 1 72 15 2 12] em 2129x 2028y - Aguia (1/30)
+22:29:01 : [Aaaa] - Matou o mob Aguia. GenerID: 4434
+22:29:01 : [Aaaa] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:29:02 : [Aaaa] - Matou o mob Porco de Guerra. GenerID: 4425
+22:29:02 : [Aaaa] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:29:02 : [Aaaa] - Matou o mob Porco de Guerra. GenerID: 4424
+22:29:02 : [Aaaa] - Pontos CP subiu em 3. CP novo: 108
+22:29:02 : [Aaaa] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:29:02 : [Aaaa] - Level UP para level 11. Ev: 1 - 2129x 2028y
+22:29:04 : [Aaaa] - Matou o mob Porco de Guerra. GenerID: 4428
+22:29:29 : [Aaaa] - [Mensagem do servidor]> Não possui gold suficiente
+22:29:42 : [Aaaa] - Vendeu o item Calça_Acolchoada(A) [1559] [43 1 3 25 60 8] por 425. Gold atual: 425. Valor do imposto: 75
+22:29:42 : [Aaaa] - Vendido item no NPC Martin
+22:29:44 : [Aaaa] - Vendeu o item Calça_Pele_de_Animal(A) [1409] [43 0 71 50 3 20] por 404. Gold atual: 829. Valor do imposto: 71
+22:29:44 : [Aaaa] - Vendido item no NPC Martin
+22:29:46 : [Aaaa] - Vendeu o item Cajado_Orc [940] [43 9 0 0 0 0] por 0. Gold atual: 829. Valor do imposto: 0
+22:29:46 : [Aaaa] - Vendido item no NPC Martin
+22:29:54 : [Aaaa] - Teleportado para a posição 1047 1726
+22:29:54 : [Aaaa] - Solicitado teleporte na posição 2118x 2102y e teleportado para 1047x 1726y
+22:30:00 : [Aaaa] - [Mensagem do servidor]: A batalha de acampamento avançado do reino foi finalizada
+22:30:02 : [Aaaa] - Teleportado para a posição 3650 3109
+22:30:02 : [Aaaa] - Solicitado teleporte na posição 1053x 1709y e teleportado para 3650x 3109y
+22:30:12 : [Aaaa] - Removido o Hp do mob Lobo Polar. HP removido: 0. HP Atual: 20000
+22:30:13 : [Aaaa] - Removido o Hp do mob Lobo Polar. HP removido: 0. HP Atual: 20000
+22:30:14 : [Aaaa] - Removido o Hp do mob Lobo Polar. HP removido: 0. HP Atual: 20000
+22:30:15 : [Aaaa] - Ataque mais rápido que 900ms. Diferença 856
+22:30:32 : [Aaaa] - Removido o Hp do mob Lobo Polar. HP removido: 0. HP Atual: 20000
+22:30:33 : [Aaaa] - Ataque mais rápido que 900ms. Diferença 745
+22:30:34 : [Aaaa] - Removido o Hp do mob Lobo Polar. HP removido: 0. HP Atual: 20000
+22:30:39 : [Aaaa] - Removido o Hp do mob Troll de Gelo. HP removido: 0. HP Atual: 17000
+22:31:01 : [Aaaa] - Removido o Hp do mob Grande Lobo. HP removido: 0. HP Atual: 29000
+22:31:03 : [Aaaa] - Removido o Hp do mob Grande Lobo. HP removido: 0. HP Atual: 29000
+22:31:05 : [Aaaa] - Removido o Hp do mob Grande Lobo. HP removido: 0. HP Atual: 29000
+22:31:06 : [Aaaa] - Removido o Hp do mob Grande Lobo. HP removido: 0. HP Atual: 29000
+22:31:09 : [Aaaa] - Removido o Hp do mob Grande Lobo. HP removido: 0. HP Atual: 29000
+22:31:10 : [Aaaa] - Removido o Hp do mob Grande Lobo. HP removido: 0. HP Atual: 29000
+22:31:12 : [Aaaa] - Removido o Hp do mob Grande Lobo. HP removido: 0. HP Atual: 29000
+22:31:12 : [Aaaa] - Ataque mais rápido que 900ms. Diferença 861
+22:31:13 : [Aaaa] - Removido o Hp do mob Grande Lobo. HP removido: 0. HP Atual: 29000
+22:31:14 : [Aaaa] - Removido o Hp do mob Grande Lobo. HP removido: 0. HP Atual: 29000
+22:31:18 : [Aaaa] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+22:31:19 : [Aaaa] - Ataque mais rápido que 900ms. Diferença 788
+22:31:20 : [Aaaa] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+22:31:21 : [Aaaa] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+22:31:23 : [Aaaa] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+22:31:24 : [Aaaa] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+22:31:26 : [Aaaa] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+22:31:27 : [Aaaa] - Ataque mais rápido que 900ms. Diferença 668
+22:32:14 : [Aaaa] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+22:32:56 : [Aaaa] - Removido o Hp do mob Grande Lobo. HP removido: 0. HP Atual: 29000
+22:33:03 : [Aaaa] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+22:33:04 : [Aaaa] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+22:33:05 : [Aaaa] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+22:33:08 : [Aaaa] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+22:33:52 : [Aaaa] - Removido o Hp do mob Bruxo Amald. HP removido: 0. HP Atual: 15340
+22:33:53 : [Aaaa] - Removido o Hp do mob Bruxo Amald. HP removido: 0. HP Atual: 15340
+22:33:54 : [Aaaa] - Removido o Hp do mob Bruxo Amald. HP removido: 0. HP Atual: 15340
+22:33:58 : [Aaaa] - Removido o Hp do mob Bruxo Amald. HP removido: 0. HP Atual: 15340
+22:33:59 : [Aaaa] - Removido o Hp do mob Bruxo Amald. HP removido: 0. HP Atual: 15340
+22:34:00 : [Aaaa] - Removido o Hp do mob Bruxo Amald. HP removido: 0. HP Atual: 15340
+22:34:51 : [Aaaa] - Removido o Hp do mob Lobo Polar. HP removido: 0. HP Atual: 20000
+22:34:52 : [Aaaa] - Removido o Hp do mob Lobo Polar. HP removido: 0. HP Atual: 20000
+22:34:53 : [Aaaa] - Removido o Hp do mob Lobo Polar. HP removido: 0. HP Atual: 20000
+22:34:56 : [Aaaa] - Removido o Hp do mob Urso Polar. HP removido: 0. HP Atual: 25000
+22:34:57 : [Aaaa] - Removido o Hp do mob Urso Polar. HP removido: 0. HP Atual: 25000
+22:34:58 : [Aaaa] - Removido o Hp do mob Urso Polar. HP removido: 0. HP Atual: 25000
+22:35:08 : [Aaaa] - Removido o Hp do mob Guerreiro Amon. HP removido: 0. HP Atual: 29000
+22:35:09 : [Aaaa] - Ataque mais rápido que 900ms. Diferença 748
+22:35:10 : [Aaaa] - Removido o Hp do mob Chefe Amon. HP removido: 0. HP Atual: 30000
+22:35:21 : [Aaaa] - Removido o Hp do mob Soldado Amon. HP removido: 0. HP Atual: 25000
+22:35:22 : [Aaaa] - Ataque mais rápido que 900ms. Diferença 858
+22:35:23 : [Aaaa] - Removido o Hp do mob Soldado Amon. HP removido: 0. HP Atual: 25000
+22:35:26 : [Aaaa] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 11. Distância 2: 6. Range: 5.
+22:35:33 : [Aaaa] - Removido o Hp do mob Soldado Amon. HP removido: 0. HP Atual: 25000
+22:35:42 : [Aaaa] - Removido o Hp do mob Guerreiro Amon. HP removido: 0. HP Atual: 29000
+22:35:43 : [Aaaa] - Ataque mais rápido que 900ms. Diferença 763
+22:35:44 : [Aaaa] - Removido o Hp do mob Guerreiro Amon. HP removido: 0. HP Atual: 29000
+22:35:45 : [Aaaa] - Removido o Hp do mob Guerreiro Amon. HP removido: 0. HP Atual: 29000
+22:35:46 : [Aaaa] - Removido o Hp do mob Guerreiro Amon. HP removido: 0. HP Atual: 29000
+22:35:48 : [Aaaa] - Removido o Hp do mob Guerreiro Amon. HP removido: 0. HP Atual: 29000
+22:35:49 : [Aaaa] - Removido o Hp do mob Guerreiro Amon. HP removido: 0. HP Atual: 29000
+22:35:51 : [Aaaa] - Removido o Hp do mob Guerreiro Amon. HP removido: 0. HP Atual: 29000
+22:35:52 : [Aaaa] - Ataque mais rápido que 900ms. Diferença 715
+22:35:53 : [Aaaa] - Removido o Hp do mob Guerreiro Amon. HP removido: 0. HP Atual: 29000
+22:35:55 : [Aaaa] - Removido o Hp do mob Guerreiro Amon. HP removido: 0. HP Atual: 29000
+22:35:56 : [Aaaa] - Removido o Hp do mob Guerreiro Amon. HP removido: 0. HP Atual: 29000
+22:35:57 : [Aaaa] - Removido o Hp do mob Guerreiro Amon. HP removido: 0. HP Atual: 29000
+22:35:58 : [Aaaa] - Removido o Hp do mob Guerreiro Amon. HP removido: 0. HP Atual: 29000
+22:35:59 : [Aaaa] - Removido o Hp do mob Guerreiro Amon. HP removido: 0. HP Atual: 29000
+22:36:01 : [Aaaa] - Removido o Hp do mob Guerreiro Amon. HP removido: 0. HP Atual: 29000
+22:36:02 : [Aaaa] - Removido o Hp do mob Guerreiro Amon. HP removido: 0. HP Atual: 29000
+22:36:24 : [Aaaa] - Removido o Hp do mob Berserker Titan. HP removido: 0. HP Atual: 15000
+22:36:29 : [Aaaa] - Removido o Hp do mob Valkyrie Tina. HP removido: 0. HP Atual: 15000
+22:36:33 : [Aaaa] - Removido o Hp do mob Berserker Titan. HP removido: 0. HP Atual: 15000
+22:36:34 : [Aaaa] - Removido o Hp do mob Berserker Titan. HP removido: 0. HP Atual: 15000
+22:36:35 : [Aaaa] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 10. Distância 2: 9. Range: 5.
+22:36:36 : [Aaaa] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 9. Distância 2: 7. Range: 5.
+22:36:37 : [Aaaa] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 9. Distância 2: 7. Range: 5.
+22:37:10 : [Aaaa] - Removido o Hp do mob Valkyrie Rosen. HP removido: 0. HP Atual: 15000
+22:37:11 : [Aaaa] - Removido o Hp do mob Valkyrie Rosen. HP removido: 0. HP Atual: 15000
+22:37:12 : [Aaaa] - Removido o Hp do mob Valkyrie Rosen. HP removido: 0. HP Atual: 15000
+22:37:13 : [Aaaa] - Removido o Hp do mob Valkyrie Rosen. HP removido: 0. HP Atual: 15000
+22:37:14 : [Aaaa] - Removido o Hp do mob Valkyrie Rosen. HP removido: 0. HP Atual: 15000
+22:37:15 : [Aaaa] - Removido o Hp do mob Valkyrie Rosen. HP removido: 0. HP Atual: 15000
+22:37:17 : [Aaaa] - Removido o Hp do mob Valkyrie Rosen. HP removido: 0. HP Atual: 15000
+22:37:18 : [Aaaa] - Removido o Hp do mob Valkyrie Rosen. HP removido: 0. HP Atual: 15000
+22:37:19 : [Aaaa] - Removido o Hp do mob Valkyrie Rosen. HP removido: 0. HP Atual: 15000
+22:37:20 : [Aaaa] - Removido o Hp do mob Valkyrie Rosen. HP removido: 0. HP Atual: 15000
+22:37:22 : [Aaaa] - Removido o Hp do mob Valkyrie Rosen. HP removido: 0. HP Atual: 15000
+22:37:23 : [Aaaa] - Removido o Hp do mob Valkyrie Rosen. HP removido: 0. HP Atual: 15000
+22:37:24 : [Aaaa] - Removido o Hp do mob Valkyrie Rosen. HP removido: 0. HP Atual: 15000
+22:37:25 : [Aaaa] - Removido o Hp do mob Valkyrie Rosen. HP removido: 0. HP Atual: 15000
+22:37:25 : [Aaaa] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:37:25 : [Aaaa] - Personagem foi desconectado. Permaneceu 00:18:19 minutos online

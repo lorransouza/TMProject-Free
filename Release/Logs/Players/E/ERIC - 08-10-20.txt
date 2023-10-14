@@ -1,0 +1,1861 @@
+
+10:58:21 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 10
+10:58:21 : [Mensagem do servidor]> Esta conta não foi encontrada.
+10:58:21 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+11:07:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 11
+11:07:03 : Usuário logou no jogo com clientId 11. - Servidor 1. Gold do banco: 0
+11:07:03 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+11:07:03 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:07:19 : Solicitou ir ao mundo...
+11:07:19 : Recebido pedido para entrar no jogo
+11:07:19 : Recebido informação do personagem completa.
+11:07:19 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:16 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:07:19 : [skewed] - Personagem skewed enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+11:07:19 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+11:07:19 : [skewed] - Resetado a contagem de entradas água! Day: 0-281. Total: 0
+11:07:19 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:07:19 : [skewed] - Enviado informações do personagem
+11:07:20 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:07:20 : [skewed] - Comando "/day "
+11:07:20 : [skewed] - [Mensagem do servidor]> !#11 2
+11:07:26 : [skewed] - Comando "/gm +set level 1010"
+11:07:30 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:07:31 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+11:07:40 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:07:50 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:07:56 : [skewed] - Comando "/gm +move 3300 130"
+11:07:56 : [skewed] - Teleportado para a posição 3300 130
+11:08:00 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:08:02 : [skewed] - Comando "/gm +move 3300 150"
+11:08:02 : [skewed] - Teleportado para a posição 3300 150
+11:08:10 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:08:21 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:08:31 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:08:41 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:08:51 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:09:01 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:09:03 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+11:09:03 : [skewed] - Personagem foi desconectado. Permaneceu 00:01:59 minutos online
+11:29:09 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 12
+11:29:09 : Usuário logou no jogo com clientId 12. - Servidor 1. Gold do banco: 0
+11:29:09 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+11:29:10 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:29:14 : Solicitou ir ao mundo...
+11:29:14 : Recebido pedido para entrar no jogo
+11:29:14 : Recebido informação do personagem completa.
+11:29:14 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2087x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:29:14 : [skewed] - Personagem skewed enviado ao mundo 2087x 2101y - Canal 1 - Cash da conta: 0. OverPower: 2020
+11:29:14 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+11:29:14 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+11:29:14 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:29:14 : [skewed] - Enviado informações do personagem
+11:29:15 : [skewed] - Comando "/day "
+11:29:15 : [skewed] - [Mensagem do servidor]> !#11 2
+11:29:16 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:29:20 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+11:29:20 : [skewed] - Personagem foi desconectado. Permaneceu 00:00:11 minutos online
+12:01:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 17
+12:01:55 : Usuário logou no jogo com clientId 17. - Servidor 1. Gold do banco: 0
+12:01:55 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:01:55 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:02:08 : Solicitou ir ao mundo...
+12:02:08 : Recebido pedido para entrar no jogo
+12:02:08 : Recebido informação do personagem completa.
+12:02:08 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:14 horas
+Posição atual: 2086x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:02:08 : [skewed] - Personagem skewed enviado ao mundo 2086x 2105y - Canal 1 - Cash da conta: 0. OverPower: 2020
+12:02:08 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:02:08 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+12:02:08 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:02:08 : [skewed] - Enviado informações do personagem
+12:02:09 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:02:09 : [skewed] - Comando "/day "
+12:02:09 : [skewed] - [Mensagem do servidor]> !#11 2
+12:02:20 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:02:21 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:02:30 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:02:40 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:02:50 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:03:00 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:03:10 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:03:20 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:03:30 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:03:40 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:03:51 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:04:01 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:04:11 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:04:21 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:04:31 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:04:41 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:04:51 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:05:02 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:05:12 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:05:18 : [skewed] - Comando "/gm +move 3330 240"
+12:05:18 : [skewed] - Teleportado para a posição 3330 240
+12:05:22 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:05:32 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:05:42 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:05:52 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:05:56 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:05:56 : [skewed] - Personagem foi desconectado. Permaneceu 00:03:58 minutos online
+12:11:49 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 18
+12:11:49 : Usuário logou no jogo com clientId 18. - Servidor 1. Gold do banco: 0
+12:11:49 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:11:50 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:11:55 : Solicitou ir ao mundo...
+12:11:55 : Recebido pedido para entrar no jogo
+12:11:55 : Recebido informação do personagem completa.
+12:11:55 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2089x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:11:55 : [skewed] - Personagem skewed enviado ao mundo 2089x 2094y - Canal 1 - Cash da conta: 0. OverPower: 2020
+12:11:55 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:11:55 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+12:11:55 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:11:55 : [skewed] - Enviado informações do personagem
+12:11:56 : [skewed] - Comando "/day "
+12:11:56 : [skewed] - [Mensagem do servidor]> !#11 2
+12:11:57 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:12:07 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:12:09 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:12:12 : [skewed] - Comando "/gm +move 3330 240"
+12:12:12 : [skewed] - Teleportado para a posição 3330 240
+12:12:17 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:12:27 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:12:37 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:12:47 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:12:58 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:13:08 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:13:15 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+12:13:15 : [skewed] - Personagem foi desconectado. Permaneceu 00:01:25 minutos online
+12:13:49 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 19
+12:13:49 : Usuário logou no jogo com clientId 19. - Servidor 1. Gold do banco: 0
+12:13:49 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:13:49 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:13:53 : Solicitou ir ao mundo...
+12:13:53 : Recebido pedido para entrar no jogo
+12:13:53 : Recebido informação do personagem completa.
+12:13:53 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2092x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:13:53 : [skewed] - Personagem skewed enviado ao mundo 2092x 2101y - Canal 1 - Cash da conta: 0. OverPower: 2020
+12:13:53 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:13:53 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+12:13:53 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:13:53 : [skewed] - Enviado informações do personagem
+12:13:54 : [skewed] - Comando "/day "
+12:13:54 : [skewed] - [Mensagem do servidor]> !#11 2
+12:13:58 : [skewed] - Comando "/gm +move 3330 240"
+12:13:58 : [skewed] - Teleportado para a posição 3330 240
+12:13:58 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:14:09 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:14:09 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:14:19 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:14:29 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:14:39 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:14:49 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:14:59 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:15:09 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:15:20 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:15:30 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:15:40 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:15:50 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:16:00 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:16:10 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:16:20 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:16:31 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:16:41 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:16:49 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+12:16:49 : [skewed] - Personagem foi desconectado. Permaneceu 00:02:58 minutos online
+12:18:27 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 20
+12:18:27 : Usuário logou no jogo com clientId 20. - Servidor 1. Gold do banco: 0
+12:18:27 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:18:28 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:18:31 : Solicitou ir ao mundo...
+12:18:31 : Recebido pedido para entrar no jogo
+12:18:31 : Recebido informação do personagem completa.
+12:18:31 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2095x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:18:31 : [skewed] - Personagem skewed enviado ao mundo 2095x 2104y - Canal 1 - Cash da conta: 0. OverPower: 2020
+12:18:31 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:18:31 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+12:18:31 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:18:31 : [skewed] - Enviado informações do personagem
+12:18:32 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:18:32 : [skewed] - Comando "/day "
+12:18:32 : [skewed] - [Mensagem do servidor]> !#11 2
+12:18:41 : [skewed] - Comando "/gm +move 3330 240"
+12:18:41 : [skewed] - Teleportado para a posição 3330 240
+12:18:42 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:18:45 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:18:52 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:19:03 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:19:13 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:19:24 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:19:34 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:19:34 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+12:19:34 : [skewed] - Personagem foi desconectado. Permaneceu 00:01:06 minutos online
+12:23:42 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 21
+12:23:42 : Usuário logou no jogo com clientId 21. - Servidor 1. Gold do banco: 0
+12:23:42 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:23:43 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:23:46 : Solicitou ir ao mundo...
+12:23:46 : Recebido pedido para entrar no jogo
+12:23:46 : Recebido informação do personagem completa.
+12:23:46 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2096x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:23:46 : [skewed] - Personagem skewed enviado ao mundo 2096x 2097y - Canal 1 - Cash da conta: 0. OverPower: 2020
+12:23:46 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:23:46 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+12:23:46 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:23:46 : [skewed] - Enviado informações do personagem
+12:23:47 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:23:47 : [skewed] - Comando "/day "
+12:23:47 : [skewed] - [Mensagem do servidor]> !#11 2
+12:23:51 : [skewed] - Comando "/gm +move 3330 240"
+12:23:51 : [skewed] - Teleportado para a posição 3330 240
+12:23:57 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:23:58 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:24:04 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:24:04 : [skewed] - Personagem foi desconectado. Permaneceu 00:00:21 minutos online
+12:25:31 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 22
+12:25:31 : Usuário logou no jogo com clientId 22. - Servidor 1. Gold do banco: 0
+12:25:31 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:25:32 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:25:35 : Solicitou ir ao mundo...
+12:25:35 : Recebido pedido para entrar no jogo
+12:25:35 : Recebido informação do personagem completa.
+12:25:35 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2096x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:25:35 : [skewed] - Personagem skewed enviado ao mundo 2096x 2096y - Canal 1 - Cash da conta: 0. OverPower: 2020
+12:25:35 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:25:35 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+12:25:35 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:25:35 : [skewed] - Enviado informações do personagem
+12:25:36 : [skewed] - Comando "/day "
+12:25:36 : [skewed] - [Mensagem do servidor]> !#11 2
+12:25:38 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:25:39 : [skewed] - Comando "/gm +move 3330 240"
+12:25:39 : [skewed] - Teleportado para a posição 3330 240
+12:25:46 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:25:48 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:25:53 : [skewed] - Comando "/gm +move 3330 240"
+12:25:53 : [skewed] - Teleportado para a posição 3330 240
+12:25:58 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:26:07 : [skewed] - Comando "/gm +move 3330 240"
+12:26:07 : [skewed] - Teleportado para a posição 3330 240
+12:26:09 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:26:19 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:26:29 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:26:39 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:26:49 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:26:59 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:27:09 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:27:20 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:27:30 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:27:40 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:27:42 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:27:42 : [skewed] - Personagem foi desconectado. Permaneceu 00:02:09 minutos online
+12:31:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 23
+12:31:29 : Usuário logou no jogo com clientId 23. - Servidor 1. Gold do banco: 0
+12:31:29 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:31:29 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:31:34 : Solicitou ir ao mundo...
+12:31:34 : Recebido pedido para entrar no jogo
+12:31:34 : Recebido informação do personagem completa.
+12:31:34 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2088x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:31:34 : [skewed] - Personagem skewed enviado ao mundo 2088x 2102y - Canal 1 - Cash da conta: 0. OverPower: 2020
+12:31:34 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:31:34 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+12:31:34 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:31:34 : [skewed] - Enviado informações do personagem
+12:31:35 : [skewed] - Comando "/day "
+12:31:35 : [skewed] - [Mensagem do servidor]> !#11 2
+12:31:38 : [skewed] - Comando "/gm +move 3330 240"
+12:31:38 : [skewed] - Teleportado para a posição 3330 240
+12:31:43 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:31:46 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:31:53 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:32:03 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:32:13 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:32:23 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:32:33 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:32:37 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+12:32:37 : [skewed] - Personagem foi desconectado. Permaneceu 00:01:07 minutos online
+12:34:10 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 24
+12:34:10 : Usuário logou no jogo com clientId 24. - Servidor 1. Gold do banco: 0
+12:34:10 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:34:11 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:34:16 : Solicitou ir ao mundo...
+12:34:16 : Recebido pedido para entrar no jogo
+12:34:16 : Recebido informação do personagem completa.
+12:34:16 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2096x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:34:16 : [skewed] - Personagem skewed enviado ao mundo 2096x 2098y - Canal 1 - Cash da conta: 0. OverPower: 2020
+12:34:16 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:34:16 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+12:34:16 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:34:16 : [skewed] - Enviado informações do personagem
+12:34:17 : [skewed] - Comando "/day "
+12:34:17 : [skewed] - [Mensagem do servidor]> !#11 2
+12:34:20 : [skewed] - Comando "/gm +move 3330 240"
+12:34:20 : [skewed] - Teleportado para a posição 3330 240
+12:34:22 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:34:25 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:34:26 : [skewed] - Comando "/gm +move 3330 290"
+12:34:26 : [skewed] - Teleportado para a posição 3330 290
+12:34:31 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+12:34:31 : [skewed] - Personagem foi desconectado. Permaneceu 00:00:21 minutos online
+12:51:25 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 25
+12:51:25 : Usuário logou no jogo com clientId 25. - Servidor 1. Gold do banco: 0
+12:51:25 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:51:25 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:51:30 : Solicitou ir ao mundo...
+12:51:30 : Recebido pedido para entrar no jogo
+12:51:30 : Recebido informação do personagem completa.
+12:51:30 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2096x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:51:30 : [skewed] - Personagem skewed enviado ao mundo 2096x 2095y - Canal 1 - Cash da conta: 0. OverPower: 2020
+12:51:30 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:51:30 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+12:51:30 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:51:30 : [skewed] - Enviado informações do personagem
+12:51:31 : [skewed] - Comando "/day "
+12:51:31 : [skewed] - [Mensagem do servidor]> !#11 2
+12:51:33 : [skewed] - Comando "/gm +move 3330 240"
+12:51:33 : [skewed] - Teleportado para a posição 3330 240
+12:51:37 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:51:46 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:51:47 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:51:48 : [skewed] - Comando "/gm +move 3330 240"
+12:51:48 : [skewed] - Teleportado para a posição 3330 240
+12:51:57 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:51:59 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:51:59 : [skewed] - Personagem foi desconectado. Permaneceu 00:00:34 minutos online
+12:53:35 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 26
+12:53:35 : Usuário logou no jogo com clientId 26. - Servidor 1. Gold do banco: 0
+12:53:35 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:53:36 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:53:40 : Solicitou ir ao mundo...
+12:53:40 : Recebido pedido para entrar no jogo
+12:53:40 : Recebido informação do personagem completa.
+12:53:40 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2098x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:53:40 : [skewed] - Personagem skewed enviado ao mundo 2098x 2093y - Canal 1 - Cash da conta: 0. OverPower: 2020
+12:53:40 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:53:40 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+12:53:40 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:53:40 : [skewed] - Enviado informações do personagem
+12:53:41 : [skewed] - Comando "/day "
+12:53:41 : [skewed] - [Mensagem do servidor]> !#11 2
+12:53:46 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:53:49 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:53:49 : [skewed] - Comando "/gm +move 3330 240"
+12:53:49 : [skewed] - Teleportado para a posição 3330 240
+12:53:59 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:54:09 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:54:19 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:54:29 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:54:39 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:54:48 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+12:54:48 : [skewed] - Personagem foi desconectado. Permaneceu 00:01:12 minutos online
+12:55:07 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 27
+12:55:07 : Usuário logou no jogo com clientId 27. - Servidor 1. Gold do banco: 0
+12:55:07 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:55:08 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:55:11 : Solicitou ir ao mundo...
+12:55:11 : Recebido pedido para entrar no jogo
+12:55:11 : Recebido informação do personagem completa.
+12:55:11 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2088x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:55:11 : [skewed] - Personagem skewed enviado ao mundo 2088x 2106y - Canal 1 - Cash da conta: 0. OverPower: 2020
+12:55:11 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:55:11 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+12:55:11 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:55:11 : [skewed] - Enviado informações do personagem
+12:55:12 : [skewed] - Comando "/day "
+12:55:12 : [skewed] - [Mensagem do servidor]> !#11 2
+12:55:15 : [skewed] - Comando "/gm +move 3330 240"
+12:55:15 : [skewed] - Teleportado para a posição 3330 240
+12:55:20 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:55:22 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:55:30 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:55:40 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:55:50 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:56:01 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:56:10 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:56:21 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:56:31 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:56:41 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:56:41 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:56:41 : [skewed] - Personagem foi desconectado. Permaneceu 00:01:33 minutos online
+12:58:12 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 28
+12:58:12 : Usuário logou no jogo com clientId 28. - Servidor 1. Gold do banco: 0
+12:58:12 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:58:13 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:58:17 : Solicitou ir ao mundo...
+12:58:17 : Recebido pedido para entrar no jogo
+12:58:17 : Recebido informação do personagem completa.
+12:58:17 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2087x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:58:17 : [skewed] - Personagem skewed enviado ao mundo 2087x 2100y - Canal 1 - Cash da conta: 0. OverPower: 2020
+12:58:17 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:58:17 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+12:58:17 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:58:17 : [skewed] - Enviado informações do personagem
+12:58:18 : [skewed] - Comando "/day "
+12:58:18 : [skewed] - [Mensagem do servidor]> !#11 2
+12:58:22 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:58:23 : [skewed] - Comando "/gm +move 3330 240"
+12:58:23 : [skewed] - Teleportado para a posição 3329 239
+12:58:32 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:58:35 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:58:43 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:58:47 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:58:47 : [skewed] - Personagem foi desconectado. Permaneceu 00:00:34 minutos online
+12:59:14 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 29
+12:59:14 : Usuário logou no jogo com clientId 29. - Servidor 1. Gold do banco: 0
+12:59:14 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:59:15 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:59:21 : Solicitou ir ao mundo...
+12:59:21 : Recebido pedido para entrar no jogo
+12:59:21 : Recebido informação do personagem completa.
+12:59:21 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2091x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:59:21 : [skewed] - Personagem skewed enviado ao mundo 2091x 2103y - Canal 1 - Cash da conta: 0. OverPower: 2020
+12:59:21 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:59:21 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+12:59:21 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:59:21 : [skewed] - Enviado informações do personagem
+12:59:22 : [skewed] - Comando "/day "
+12:59:22 : [skewed] - [Mensagem do servidor]> !#11 2
+12:59:23 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:59:26 : [skewed] - Comando "/gm +move 3330 240"
+12:59:26 : [skewed] - Teleportado para a posição 3329 239
+12:59:33 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:59:34 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:59:43 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:59:53 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:00:04 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:00:05 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:00:05 : [skewed] - Personagem foi desconectado. Permaneceu 00:00:50 minutos online
+13:00:44 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 30
+13:00:44 : Usuário logou no jogo com clientId 30. - Servidor 1. Gold do banco: 0
+13:00:44 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:00:45 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:00:49 : Solicitou ir ao mundo...
+13:00:49 : Recebido pedido para entrar no jogo
+13:00:49 : Recebido informação do personagem completa.
+13:00:49 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2090x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:00:49 : [skewed] - Personagem skewed enviado ao mundo 2090x 2103y - Canal 1 - Cash da conta: 0. OverPower: 2020
+13:00:49 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+13:00:49 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+13:00:49 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:00:49 : [skewed] - Enviado informações do personagem
+13:00:50 : [skewed] - Comando "/day "
+13:00:50 : [skewed] - [Mensagem do servidor]> !#11 2
+13:00:53 : [skewed] - Comando "/gm +move 3330 240"
+13:00:53 : [skewed] - Teleportado para a posição 3330 240
+13:00:54 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:00:59 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:01:04 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:01:15 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:01:25 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:01:35 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:01:40 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:01:40 : [skewed] - Personagem foi desconectado. Permaneceu 00:00:55 minutos online
+13:02:17 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 33
+13:02:17 : Usuário logou no jogo com clientId 33. - Servidor 1. Gold do banco: 0
+13:02:17 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:02:17 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:02:21 : Solicitou ir ao mundo...
+13:02:21 : Recebido pedido para entrar no jogo
+13:02:21 : Recebido informação do personagem completa.
+13:02:21 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2099x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:02:21 : [skewed] - Personagem skewed enviado ao mundo 2099x 2102y - Canal 1 - Cash da conta: 0. OverPower: 2020
+13:02:21 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+13:02:21 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+13:02:21 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:02:21 : [skewed] - Enviado informações do personagem
+13:02:22 : [skewed] - Comando "/day "
+13:02:22 : [skewed] - [Mensagem do servidor]> !#11 2
+13:02:24 : [skewed] - Comando "/gm +move 3330 240"
+13:02:24 : [skewed] - Teleportado para a posição 3330 240
+13:02:26 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:02:35 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:02:36 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:02:46 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:02:56 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:03:00 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:03:00 : [skewed] - Personagem foi desconectado. Permaneceu 00:00:43 minutos online
+13:03:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 35
+13:03:55 : Usuário logou no jogo com clientId 35. - Servidor 1. Gold do banco: 0
+13:03:55 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:03:56 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:03:59 : Solicitou ir ao mundo...
+13:03:59 : Recebido pedido para entrar no jogo
+13:03:59 : Recebido informação do personagem completa.
+13:03:59 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2088x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:04:00 : [skewed] - Personagem skewed enviado ao mundo 2088x 2095y - Canal 1 - Cash da conta: 0. OverPower: 2020
+13:04:00 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+13:04:00 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+13:04:00 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:04:00 : [skewed] - Enviado informações do personagem
+13:04:01 : [skewed] - Comando "/day "
+13:04:01 : [skewed] - [Mensagem do servidor]> !#11 2
+13:04:05 : [skewed] - Comando "/gm +move 3330 240"
+13:04:05 : [skewed] - Teleportado para a posição 3330 240
+13:04:07 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:04:11 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:04:17 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:04:27 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:04:37 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:04:47 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:04:57 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:05:08 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:05:18 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:05:28 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:05:38 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:05:48 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:05:51 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:05:51 : [skewed] - Personagem foi desconectado. Permaneceu 00:01:55 minutos online
+13:06:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 36
+13:06:08 : Usuário logou no jogo com clientId 36. - Servidor 1. Gold do banco: 0
+13:06:08 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:06:09 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:06:13 : Solicitou ir ao mundo...
+13:06:13 : Recebido pedido para entrar no jogo
+13:06:13 : Recebido informação do personagem completa.
+13:06:13 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2092x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:06:13 : [skewed] - Personagem skewed enviado ao mundo 2092x 2097y - Canal 1 - Cash da conta: 0. OverPower: 2020
+13:06:13 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+13:06:13 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+13:06:13 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:06:13 : [skewed] - Enviado informações do personagem
+13:06:14 : [skewed] - Comando "/day "
+13:06:14 : [skewed] - [Mensagem do servidor]> !#11 2
+13:06:16 : [skewed] - Comando "/gm +move 3330 240"
+13:06:16 : [skewed] - Teleportado para a posição 3330 240
+13:06:18 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:06:23 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:06:28 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:06:38 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:06:49 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:06:59 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:07:00 : [skewed] - Comando "/gm +move 3314 255"
+13:07:00 : [skewed] - Teleportado para a posição 3314 255
+13:07:08 : [skewed] - Comando "/gm +move 3316 225"
+13:07:08 : [skewed] - Teleportado para a posição 3316 225
+13:07:09 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:07:10 : [skewed] - Comando "/gm +move 3316 255"
+13:07:10 : [skewed] - Teleportado para a posição 3316 255
+13:07:15 : [skewed] - Comando "/gm +move 3320 255"
+13:07:15 : [skewed] - Teleportado para a posição 3320 255
+13:07:19 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:07:27 : [skewed] - Comando "/gm +move 3323 255"
+13:07:27 : [skewed] - Teleportado para a posição 3323 255
+13:07:29 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:07:35 : [skewed] - Comando "/gm +move 3325 255"
+13:07:35 : [skewed] - Teleportado para a posição 3325 255
+13:07:39 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:07:44 : [skewed] - Comando "/gm +move 3328 255"
+13:07:44 : [skewed] - Teleportado para a posição 3328 255
+13:07:50 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:07:52 : [skewed] - Comando "/gm +move 3327 255"
+13:07:52 : [skewed] - Teleportado para a posição 3327 255
+13:08:00 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:08:10 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:08:20 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:08:30 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:08:40 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:08:50 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:09:00 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:09:10 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:09:20 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:09:30 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:09:31 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:09:31 : [skewed] - Personagem foi desconectado. Permaneceu 00:03:20 minutos online
+13:10:10 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 38
+13:10:10 : Usuário logou no jogo com clientId 38. - Servidor 1. Gold do banco: 0
+13:10:10 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:10:11 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:10:15 : Solicitou ir ao mundo...
+13:10:15 : Recebido pedido para entrar no jogo
+13:10:15 : Recebido informação do personagem completa.
+13:10:15 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2094x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:10:15 : [skewed] - Personagem skewed enviado ao mundo 2094x 2095y - Canal 1 - Cash da conta: 0. OverPower: 2020
+13:10:15 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+13:10:15 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+13:10:15 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:10:15 : [skewed] - Enviado informações do personagem
+13:10:16 : [skewed] - Comando "/day "
+13:10:16 : [skewed] - [Mensagem do servidor]> !#11 2
+13:10:21 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:10:22 : [skewed] - Comando "/gm +move 3330 240"
+13:10:22 : [skewed] - Teleportado para a posição 3330 240
+13:10:23 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:10:31 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:10:41 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:10:51 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:11:02 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:11:12 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:11:22 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:11:32 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:11:42 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:11:51 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+13:11:51 : [skewed] - Personagem foi desconectado. Permaneceu 00:01:40 minutos online
+13:12:34 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 40
+13:12:34 : Usuário logou no jogo com clientId 40. - Servidor 1. Gold do banco: 0
+13:12:34 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:12:35 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:12:40 : Solicitou ir ao mundo...
+13:12:40 : Recebido pedido para entrar no jogo
+13:12:40 : Recebido informação do personagem completa.
+13:12:40 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2092x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:12:40 : [skewed] - Personagem skewed enviado ao mundo 2092x 2093y - Canal 1 - Cash da conta: 0. OverPower: 2020
+13:12:40 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+13:12:40 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+13:12:40 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:12:40 : [skewed] - Enviado informações do personagem
+13:12:41 : [skewed] - Comando "/day "
+13:12:41 : [skewed] - [Mensagem do servidor]> !#11 2
+13:12:43 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:12:43 : [skewed] - Comando "/gm +move 3330 240"
+13:12:43 : [skewed] - Teleportado para a posição 3330 240
+13:12:47 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:12:53 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:12:54 : [skewed] - Comando "/gm +move 3330 240"
+13:12:54 : [skewed] - Teleportado para a posição 3330 240
+13:13:03 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:13:05 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:13:05 : [skewed] - Personagem foi desconectado. Permaneceu 00:00:30 minutos online
+13:13:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 42
+13:13:22 : Usuário logou no jogo com clientId 42. - Servidor 1. Gold do banco: 0
+13:13:22 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:13:22 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:19:34 : Desconectado por inatividade... Last: 80907. Counter: 81641. Status: 11
+13:19:34 : Personagem foi desconectado. Permaneceu 00:06:08 minutos online
+13:24:06 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 45
+13:24:06 : Usuário logou no jogo com clientId 45. - Servidor 1. Gold do banco: 0
+13:24:06 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:24:07 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:24:11 : Solicitou ir ao mundo...
+13:24:11 : Recebido pedido para entrar no jogo
+13:24:11 : Recebido informação do personagem completa.
+13:24:11 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2088x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:24:11 : [skewed] - Personagem skewed enviado ao mundo 2088x 2094y - Canal 1 - Cash da conta: 0. OverPower: 2020
+13:24:11 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+13:24:11 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+13:24:11 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:24:11 : [skewed] - Enviado informações do personagem
+13:24:11 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:24:12 : [skewed] - Comando "/day "
+13:24:12 : [skewed] - [Mensagem do servidor]> !#11 2
+13:24:14 : [skewed] - Comando "/gm +move 3330 240"
+13:24:14 : [skewed] - Teleportado para a posição 3330 240
+13:24:21 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:24:23 : [skewed] - Comando "/gm +move 3330 240"
+13:24:23 : [skewed] - Teleportado para a posição 3330 240
+13:24:23 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:24:24 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:24:24 : [skewed] - Personagem foi desconectado. Permaneceu 00:00:17 minutos online
+13:24:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 46
+13:24:40 : Usuário logou no jogo com clientId 46. - Servidor 1. Gold do banco: 0
+13:24:40 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:24:41 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:24:46 : Solicitou ir ao mundo...
+13:24:46 : Recebido pedido para entrar no jogo
+13:24:46 : Recebido informação do personagem completa.
+13:24:46 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2090x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:24:46 : [skewed] - Personagem skewed enviado ao mundo 2090x 2097y - Canal 1 - Cash da conta: 0. OverPower: 2020
+13:24:46 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+13:24:46 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+13:24:46 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:24:46 : [skewed] - Enviado informações do personagem
+13:24:47 : [skewed] - Comando "/day "
+13:24:47 : [skewed] - [Mensagem do servidor]> !#11 2
+13:24:52 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:24:54 : [skewed] - Comando "/gm +move 3330 240"
+13:24:54 : [skewed] - Teleportado para a posição 3330 240
+13:24:59 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:25:02 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:25:12 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:25:18 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:25:18 : [skewed] - Personagem foi desconectado. Permaneceu 00:00:37 minutos online
+13:26:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 47
+13:26:08 : Usuário logou no jogo com clientId 47. - Servidor 1. Gold do banco: 0
+13:26:08 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:26:08 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:26:15 : Solicitou ir ao mundo...
+13:26:15 : Recebido pedido para entrar no jogo
+13:26:15 : Recebido informação do personagem completa.
+13:26:15 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2088x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:26:15 : [skewed] - Personagem skewed enviado ao mundo 2088x 2094y - Canal 1 - Cash da conta: 0. OverPower: 2020
+13:26:15 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+13:26:15 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+13:26:15 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:26:15 : [skewed] - Enviado informações do personagem
+13:26:16 : [skewed] - Comando "/day "
+13:26:16 : [skewed] - [Mensagem do servidor]> !#11 2
+13:26:23 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:26:23 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:26:33 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:26:34 : [skewed] - Comando "/gm +move 3330 240"
+13:26:34 : [skewed] - Teleportado para a posição 3330 240
+13:26:43 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:26:52 : [skewed] - Comando "/gm +move 3330 240"
+13:26:52 : [skewed] - Teleportado para a posição 3330 240
+13:26:53 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:27:03 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:27:04 : [skewed] - Comando "/gm +move 3330 240"
+13:27:04 : [skewed] - Teleportado para a posição 3330 240
+13:27:13 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:27:24 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:27:34 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:27:44 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:27:49 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:27:49 : [skewed] - Personagem foi desconectado. Permaneceu 00:01:40 minutos online
+13:43:06 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 50
+13:43:06 : Usuário logou no jogo com clientId 50. - Servidor 1. Gold do banco: 0
+13:43:06 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:43:07 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:43:12 : Solicitou ir ao mundo...
+13:43:12 : Recebido pedido para entrar no jogo
+13:43:12 : Recebido informação do personagem completa.
+13:43:12 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2094x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:43:12 : [skewed] - Personagem skewed enviado ao mundo 2094x 2101y - Canal 1 - Cash da conta: 0. OverPower: 2020
+13:43:12 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+13:43:12 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+13:43:12 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:43:12 : [skewed] - Enviado informações do personagem
+13:43:13 : [skewed] - Comando "/day "
+13:43:13 : [skewed] - [Mensagem do servidor]> !#11 2
+13:43:15 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:43:17 : [skewed] - Comando "/gm +move 3330 240"
+13:43:17 : [skewed] - Teleportado para a posição 3330 240
+13:43:24 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:43:25 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:43:35 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:43:38 : [skewed] - Comando "/gm +move 3330 240"
+13:43:38 : [skewed] - Teleportado para a posição 3330 240
+13:43:45 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:43:55 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:44:06 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:44:16 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:44:25 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:44:25 : [skewed] - Personagem foi desconectado. Permaneceu 00:01:18 minutos online
+13:45:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.249.29.174 Mac: (20:F2:63:3D:4C:4E). ClientId: 51
+13:45:29 : Usuário logou no jogo com clientId 51. - Servidor 1. Gold do banco: 0
+13:45:29 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:45:29 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:45:33 : Solicitou ir ao mundo...
+13:45:33 : Recebido pedido para entrar no jogo
+13:45:33 : Recebido informação do personagem completa.
+13:45:33 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2091x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:45:34 : [skewed] - Personagem skewed enviado ao mundo 2091x 2097y - Canal 1 - Cash da conta: 0. OverPower: 2020
+13:45:34 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+13:45:34 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-281. Total: -16843010
+13:45:34 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:45:34 : [skewed] - Enviado informações do personagem
+13:45:35 : [skewed] - Comando "/day "
+13:45:35 : [skewed] - [Mensagem do servidor]> !#11 2
+13:45:37 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:45:47 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:45:48 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:45:53 : [skewed] - Comando "/gm +move 3330 240"
+13:45:53 : [skewed] - Teleportado para a posição 3330 240
+13:45:57 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:46:07 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:46:17 : [skewed] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:46:27 : [skewed] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:46:38 : [skewed] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:46:41 : [skewed] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+13:46:41 : [skewed] - Personagem foi desconectado. Permaneceu 00:01:11 minutos online

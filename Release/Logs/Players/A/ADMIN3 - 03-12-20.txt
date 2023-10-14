@@ -1,0 +1,2366 @@
+
+12:18:54 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+12:18:54 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+12:18:54 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 83] - Poeira_de_Fada[414] [0 0 0 0 0 0]
+[ 89] - Página_de_Ferreiro_[F][4601] [61 1 0 0 0 0]
+
+12:19:00 : Solicitou ir ao mundo...
+12:19:00 : Recebido pedido para entrar no jogo
+12:19:00 : Recebido informação do personagem completa.
+12:19:00 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 999993000
+Level atual: 1010
+Experiência atual: 930
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2089x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Adaga[861] [43 8 0 0 0 0]
+[01] - Luvas_de_Seda(A)[1292] [43 1 72 25 60 6]
+[03] - Porco[2360] [88 27 1 20 100 0]
+[04] - Kit_de_Cura_(20_M.)[682] [61 19 0 0 0 0]
+[05] - Maça_Pesada[803] [43 0 2 27 59 0]
+[06] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[07] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[10] - Conjunto_Valquíria[4152] [96 30 0 0 0 32]
+[14] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:19:00 : [Warrior-1] - Personagem Warrior-1 enviado ao mundo 2089x 2096y - Canal 2 - Cash da conta: 49399. OverPower: 2220
+12:19:00 : [Warrior-1] - Gold atual: 999993000. Classe: 0 Evolução: 0. Experiência: 930. Nível: 1010. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+12:19:00 : [Warrior-1] - Resetado a contagem de entradas água! Day: 335-337. Total: 0
+12:19:00 : [Warrior-1] - Enviado informações do personagem
+12:19:01 : [Warrior-1] - Comando "/day "
+12:19:01 : [Warrior-1] - [Mensagem do servidor]> !#11 2
+12:19:06 : [Warrior-1] - Comando "/gm +snoop"
+12:19:06 : [Warrior-1] - [Mensagem do servidor]> SNOOP OFF
+12:19:14 : [Warrior-1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:21:36 : [Warrior-1] - [Mensagem do servidor]> Chegou no destino [Defensor da alma].
+12:21:36 : [Warrior-1] - Teleportado para a posição 2372 2099
+12:21:46 : [Warrior-1] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3289. Posição do usuário: 2371x 2101y. Posição do NPC: 2369x 2105y
+12:21:53 : [Warrior-1] - Matou o mob Javali. GenerID: 603
+12:21:54 : [Warrior-1] - Matou o mob Javali. GenerID: 602
+12:21:57 : [Warrior-1] - Matou o mob Javali. GenerID: 601
+12:21:58 : [Warrior-1] - AddCrackError, dam!= -2 -1 0 : 0
+12:21:58 : [Warrior-1] - CrackError - Points: 10 type: 20
+12:21:59 : [Warrior-1] - Matou o mob Rei Gremlin. GenerID: 602
+12:21:59 : [Warrior-1] - Dropado item Broquel_de_Aço [1702] [0 0 0 0 0 0] em 2370x 2111y - Rei Gremlin (1/300)
+12:22:00 : [Warrior-1] - Matou o mob Rei Gremlin. GenerID: 601
+12:22:48 : [Warrior-1] - Comando "/gm +item 4140"
+12:22:48 : [Warrior-1] - [Mensagem do servidor]> Criou o item Baú_de_Experiência
+12:22:48 : [Warrior-1] - Warrior-1 criou o item Baú_de_Experiência [4140] [0 0 0 0 0 0]
+12:22:49 : [Warrior-1] - Item Baú_de_Experiência [4140] [0 0 0 0 0 0] utilizado em 2369x 2175y
+12:22:54 : [Warrior-1] - Comando "/gm +item 4141"
+12:22:54 : [Warrior-1] - [Mensagem do servidor]> Criou o item Lactolerium_100
+12:22:54 : [Warrior-1] - Warrior-1 criou o item Lactolerium_100 [4141] [0 0 0 0 0 0]
+12:22:58 : [Warrior-1] - Comando "/gm +item 4139"
+12:22:58 : [Warrior-1] - [Mensagem do servidor]> Criou o item Baú_de_Caça
+12:22:58 : [Warrior-1] - Warrior-1 criou o item Baú_de_Caça [4139] [0 0 0 0 0 0]
+12:24:24 : [Warrior-1] - Comando "/gm +item 3318"
+12:24:24 : [Warrior-1] - [Mensagem do servidor]> Criou o item Frango_Assado_(Pacote)
+12:24:24 : [Warrior-1] - Warrior-1 criou o item Frango_Assado_(Pacote) [3318] [0 0 0 0 0 0]
+12:24:26 : [Warrior-1] - Item Frango_Assado_(Pacote) [3318] [0 0 0 0 0 0] utilizado em 2367x 2171y
+12:24:36 : [Warrior-1] - Comando "/gm +item 3314"
+12:24:36 : [Warrior-1] - [Mensagem do servidor]> Criou o item Frango_Assado
+12:24:36 : [Warrior-1] - Warrior-1 criou o item Frango_Assado [3314] [0 0 0 0 0 0]
+12:24:38 : [Warrior-1] - Item Frango_Assado [3314] [0 0 0 0 0 0] utilizado em 2367x 2171y
+12:28:30 : [Warrior-1] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 7. Distância 2: 5. Range: 1.
+12:28:31 : [Warrior-1] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 7. Distância 2: 5. Range: 1.
+12:28:33 : [Warrior-1] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 5. Distância 2: 7. Range: 1.
+12:28:35 : [Warrior-1] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 5. Distância 2: 3. Range: 1.
+12:28:37 : [Warrior-1] - Matou o mob Lobo. GenerID: 634
+12:43:35 : [Warrior-1] - Comando "/gm +armia"
+12:43:35 : [Warrior-1] - Teleportado para a posição 2100 2100
+12:43:46 : [Warrior-1] - O login admin4 tentou logar na conta com o mesmo mac.
+12:48:35 : [Warrior-1] - Trade com conta ADMIN4
+12:48:35 : [Warrior-1] - Trade - Recebido 0 de gold do usuário
+12:48:35 : [Warrior-1] - Trade - Enviado 123456789 de gold para o usuário
+12:49:00 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 876536211
+Level atual: 1010
+Experiência atual: 1140
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:47 horas
+Posição atual: 2094x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Adaga[861] [43 8 0 0 0 0]
+[01] - Luvas_de_Seda(A)[1292] [43 1 72 25 60 6]
+[02] - Broquel_de_Aço[1702] [0 0 0 0 0 0]
+[03] - Porco[2360] [88 27 1 20 100 0]
+[04] - Kit_de_Cura_(20_M.)[682] [61 19 0 0 0 0]
+[05] - Maça_Pesada[803] [43 0 2 27 59 0]
+[06] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[07] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[08] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[09] - Baú_de_Caça[4139] [0 0 0 0 0 0]
+[10] - Conjunto_Valquíria[4152] [96 30 0 0 0 32]
+[11] - Frango_Assado_(Pacote)[3318] [0 0 0 0 0 0]
+[14] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN4]	USER_PLAY	[Do1Ao400] (level: 1010 ev: -1)	
+
+12:55:18 : [Warrior-1] - Clicado no NPC [Kibita]. Face 51. Race: 10. GenerateId: 3288. Posição do usuário: 2130x 2104y. Posição do NPC: 2135x 2105y
+12:55:18 : [Warrior-1] - [Mensagem do servidor]> Você agora é um cidadão
+12:55:43 : [Warrior-1] - Clicado no NPC [Kibita]. Face 51. Race: 10. GenerateId: 3288. Posição do usuário: 2130x 2104y. Posição do NPC: 2135x 2105y
+12:55:43 : [Warrior-1] - [Mensagem do servidor]> Você já possui uma cidadania
+12:56:55 : [Warrior-1] - Comando "/Warrior-1 "
+12:56:55 : [Warrior-1] - [Mensagem do servidor]> Warrior-1 - Cidadania: 2 Fama: 0
+12:58:55 : [Warrior-1] - Mensagem Privada recebida: Do1Ao400: ola amigo
+12:59:07 : [Warrior-1] - Mensagem Privada recebida: Do1Ao400: como você está?
+12:59:27 : [Warrior-1] - Mensagem Privada recebida: Do1Ao400: fico feliz que esteja bem
+12:59:34 : [Warrior-1] - Mensagem Privada recebida: Do1Ao400: vamos jogar um pouco?
+13:01:30 : [Warrior-1] - Moveu item Adaga [861] [43 8 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo BANCO slot 0
+13:02:40 : [Warrior-1] - Personagem deu personagem
+13:02:43 : Solicitou ir ao mundo...
+13:02:43 : Recebido pedido para entrar no jogo
+13:02:43 : Recebido informação do personagem completa.
+13:02:43 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 826536211
+Level atual: 1010
+Experiência atual: 1140
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:43:19 horas
+Posição atual: 2094x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[01] - Luvas_de_Seda(A)[1292] [43 1 72 25 60 6]
+[02] - Broquel_de_Aço[1702] [0 0 0 0 0 0]
+[03] - Porco[2360] [88 27 1 20 100 0]
+[04] - Kit_de_Cura_(20_M.)[682] [61 19 0 0 0 0]
+[05] - Maça_Pesada[803] [43 0 2 27 59 0]
+[06] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[07] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[08] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[09] - Baú_de_Caça[4139] [0 0 0 0 0 0]
+[10] - Conjunto_Valquíria[4152] [96 30 0 0 0 32]
+[11] - Frango_Assado_(Pacote)[3318] [0 0 0 0 0 0]
+[14] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN4]	USER_PLAY	[Do1Ao400] (level: 1010 ev: -1)	
+
+13:02:43 : [Warrior-1] - Personagem Warrior-1 enviado ao mundo 2094x 2100y - Canal 2 - Cash da conta: 49399. OverPower: 2220
+13:02:43 : [Warrior-1] - Gold atual: 826536211. Classe: 0 Evolução: 0. Experiência: 1140. Nível: 1010. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+13:02:43 : [Warrior-1] - Logou no personagem Warrior-1 com baú de experiência ativo. Tempo: 604
+13:02:43 : [Warrior-1] - Logou no personagem Warrior-1 com frango ativo. Tempo: 1518
+13:02:43 : [Warrior-1] - Enviado informações do personagem
+13:02:44 : [Warrior-1] - Comando "/day "
+13:02:44 : [Warrior-1] - [Mensagem do servidor]> !#11 2
+13:02:52 : [Warrior-1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:06:38 : [Warrior-1] - Moveu item Frango_Assado_(Pacote) [3318] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo BANCO slot 5
+13:06:39 : [Warrior-1] - Moveu item Maça_Pesada [803] [43 0 2 27 59 0] do tipo INVENTÁRIO do slot 5 para tipo BANCO slot 10
+13:06:39 : [Warrior-1] - Moveu item Âmago_de_Porco [2390] [61 20 43 9 0 0] do tipo INVENTÁRIO do slot 6 para tipo BANCO slot 15
+13:06:40 : [Warrior-1] - Moveu item Ração_de_Porco [2420] [61 120 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo BANCO slot 20
+13:06:40 : [Warrior-1] - Moveu item Lactolerium_100 [4141] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo BANCO slot 25
+13:06:41 : [Warrior-1] - Moveu item Baú_de_Caça [4139] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo BANCO slot 30
+13:06:41 : [Warrior-1] - Moveu item Skytalos(Anct) [2551] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo BANCO slot 35
+13:06:42 : [Warrior-1] - Moveu item Kit_de_Cura_(20_M.) [682] [61 19 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo BANCO slot 1
+13:06:42 : [Warrior-1] - Moveu item Broquel_de_Aço [1702] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo BANCO slot 6
+13:06:43 : [Warrior-1] - Moveu item Luvas_de_Seda(A) [1292] [43 1 72 25 60 6] do tipo INVENTÁRIO do slot 1 para tipo BANCO slot 11
+13:06:50 : [Warrior-1] - Comando "/gm +item 3448 61 20"
+13:06:50 : [Warrior-1] - [Mensagem do servidor]> Criou o item Pacote_Lactolerium
+13:06:50 : [Warrior-1] - Warrior-1 criou o item Pacote_Lactolerium [3448] [61 20 0 0 0 0]
+13:06:51 : [Warrior-1] - Item Pacote_Lactolerium [3448] [61 20 0 0 0 0] utilizado em 2102x 2110y
+13:06:54 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo BANCO slot 16
+13:06:54 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo BANCO slot 21
+13:06:56 : [Warrior-1] - Moveu item Porco [2360] [88 27 1 20 100 0] do tipo INVENTÁRIO do slot 3 para tipo INVENTÁRIO slot 0
+13:06:57 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo BANCO slot 26
+13:06:57 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo BANCO slot 31
+13:06:58 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo BANCO slot 36
+13:06:59 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo BANCO slot 2
+13:06:59 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo BANCO slot 7
+13:07:00 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo BANCO slot 12
+13:07:01 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo BANCO slot 17
+13:07:01 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo BANCO slot 22
+13:07:02 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo BANCO slot 27
+13:07:03 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo BANCO slot 32
+13:07:04 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 15 para tipo BANCO slot 37
+13:07:04 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 16 para tipo BANCO slot 3
+13:07:05 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo BANCO slot 8
+13:07:06 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 18 para tipo BANCO slot 13
+13:07:06 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 19 para tipo BANCO slot 18
+13:07:07 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 22 para tipo BANCO slot 23
+13:07:08 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo BANCO slot 28
+13:07:08 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo BANCO slot 33
+13:07:10 : [Warrior-1] - Comando "/gm +item 3448 61 20"
+13:07:10 : [Warrior-1] - [Mensagem do servidor]> Criou o item Pacote_Lactolerium
+13:07:10 : [Warrior-1] - Warrior-1 criou o item Pacote_Lactolerium [3448] [61 20 0 0 0 0]
+13:07:11 : [Warrior-1] - Item Pacote_Lactolerium [3448] [61 20 0 0 0 0] utilizado em 2102x 2110y
+13:07:12 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo BANCO slot 38
+13:07:13 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo BANCO slot 4
+13:07:13 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo BANCO slot 9
+13:07:14 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo BANCO slot 14
+13:07:15 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo BANCO slot 19
+13:07:15 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo BANCO slot 24
+13:07:16 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo BANCO slot 29
+13:07:16 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo BANCO slot 34
+13:07:17 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo BANCO slot 39
+13:07:17 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo BANCO slot 40
+13:07:18 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo BANCO slot 45
+13:07:18 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo BANCO slot 50
+13:07:20 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 15 para tipo BANCO slot 55
+13:07:20 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo BANCO slot 60
+13:07:21 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo BANCO slot 65
+13:07:21 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 16 para tipo BANCO slot 70
+13:07:22 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo BANCO slot 75
+13:07:23 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 22 para tipo BANCO slot 41
+13:07:23 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 18 para tipo BANCO slot 46
+13:07:24 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 19 para tipo BANCO slot 51
+13:07:26 : [Warrior-1] - Comando "/gm +item 3448 61 20"
+13:07:26 : [Warrior-1] - [Mensagem do servidor]> Criou o item Pacote_Lactolerium
+13:07:26 : [Warrior-1] - Warrior-1 criou o item Pacote_Lactolerium [3448] [61 20 0 0 0 0]
+13:07:27 : [Warrior-1] - Item Pacote_Lactolerium [3448] [61 20 0 0 0 0] utilizado em 2102x 2110y
+13:07:28 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo BANCO slot 56
+13:07:29 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo BANCO slot 61
+13:07:30 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo BANCO slot 66
+13:07:30 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo BANCO slot 71
+13:07:31 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo BANCO slot 76
+13:07:31 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo BANCO slot 42
+13:07:32 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo BANCO slot 47
+13:07:32 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo BANCO slot 52
+13:07:33 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo BANCO slot 57
+13:07:34 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo BANCO slot 62
+13:07:34 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo BANCO slot 67
+13:07:35 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo BANCO slot 72
+13:07:36 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 15 para tipo BANCO slot 77
+13:07:37 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo BANCO slot 43
+13:07:37 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo BANCO slot 48
+13:07:38 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 22 para tipo BANCO slot 53
+13:07:39 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 16 para tipo BANCO slot 58
+13:07:39 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo BANCO slot 63
+13:07:40 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 18 para tipo BANCO slot 68
+13:07:40 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 19 para tipo BANCO slot 73
+13:07:44 : [Warrior-1] - Comando "/gm +item 3448 61 30"
+13:07:44 : [Warrior-1] - [Mensagem do servidor]> Criou o item Pacote_Lactolerium
+13:07:44 : [Warrior-1] - Warrior-1 criou o item Pacote_Lactolerium [3448] [61 30 0 0 0 0]
+13:07:45 : [Warrior-1] - Item Pacote_Lactolerium [3448] [61 30 0 0 0 0] utilizado em 2102x 2110y
+13:07:45 : [Warrior-1] - [Mensagem do servidor]> Você não possui espaço livre no inventório.
+13:07:50 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo BANCO slot 78
+13:07:51 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo BANCO slot 44
+13:07:51 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo BANCO slot 49
+13:07:52 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo BANCO slot 54
+13:07:52 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo BANCO slot 59
+13:07:53 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo BANCO slot 64
+13:07:53 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo BANCO slot 69
+13:07:54 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo BANCO slot 74
+13:07:54 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo BANCO slot 79
+13:07:55 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo BANCO slot 80
+13:07:55 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo BANCO slot 85
+13:07:56 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo BANCO slot 90
+13:07:57 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 25 para tipo BANCO slot 95
+13:07:57 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 26 para tipo BANCO slot 100
+13:07:58 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 27 para tipo BANCO slot 105
+13:07:59 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 28 para tipo BANCO slot 110
+13:07:59 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 29 para tipo BANCO slot 115
+13:08:00 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 24 para tipo BANCO slot 81
+13:08:01 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 23 para tipo BANCO slot 86
+13:08:02 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 22 para tipo BANCO slot 91
+13:08:02 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo BANCO slot 96
+13:08:03 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo BANCO slot 101
+13:08:03 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 15 para tipo BANCO slot 106
+13:08:04 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 16 para tipo BANCO slot 111
+13:08:04 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo BANCO slot 116
+13:08:05 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 18 para tipo BANCO slot 82
+13:08:05 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 19 para tipo BANCO slot 87
+13:08:14 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo BANCO do slot 2 para tipo BANCO slot 108
+13:08:16 : [Warrior-1] - Comando "/gm +item 3448 61 30"
+13:08:16 : [Warrior-1] - [Mensagem do servidor]> Criou o item Pacote_Lactolerium
+13:08:16 : [Warrior-1] - Warrior-1 criou o item Pacote_Lactolerium [3448] [61 30 0 0 0 0]
+13:08:17 : [Warrior-1] - Item Pacote_Lactolerium [3448] [61 30 0 0 0 0] utilizado em 2102x 2110y
+13:08:17 : [Warrior-1] - [Mensagem do servidor]> Você não possui espaço livre no inventório.
+13:08:18 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo BANCO slot 92
+13:08:19 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo BANCO slot 97
+13:08:19 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo BANCO slot 102
+13:08:20 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo BANCO slot 107
+13:08:20 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo BANCO slot 112
+13:08:21 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo BANCO slot 117
+13:08:21 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo BANCO slot 88
+13:08:21 : [Warrior-1] - Item Pacote_Lactolerium [3448] [61 3 0 0 0 0] utilizado em 2102x 2110y
+13:08:22 : [Warrior-1] - Moveu item Porco [2360] [88 27 1 20 100 0] do tipo INVENTÁRIO do slot 0 para tipo BANCO slot 93
+13:08:22 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo BANCO slot 98
+13:08:23 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo BANCO slot 103
+13:08:23 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo BANCO slot 113
+13:08:24 : [Warrior-1] - Moveu item Porco [2360] [88 27 1 20 100 0] do tipo BANCO do slot 93 para tipo INVENTÁRIO slot 0
+13:08:25 : [Warrior-1] - Item Pacote_Lactolerium [3448] [61 4 0 0 0 0] utilizado em 2102x 2110y
+13:08:26 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo BANCO slot 93
+13:08:26 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo BANCO slot 118
+13:08:27 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo BANCO slot 84
+13:08:28 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo BANCO slot 94
+13:08:28 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo BANCO slot 99
+13:08:29 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo BANCO slot 104
+13:08:29 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo BANCO slot 109
+13:08:30 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo BANCO slot 114
+13:08:31 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 15 para tipo BANCO slot 119
+13:08:32 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo BANCO slot 2
+13:08:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo BANCO do slot 52 para tipo INVENTÁRIO slot 15
+13:08:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 26 para tipo BANCO slot 52
+13:08:56 : [Warrior-1] - Comando "/gm "
+13:08:56 : [Warrior-1] - [Mensagem do servidor]> Utilize /gm +command
+13:13:32 : [Warrior-1] - Comando "/gm +learn 1"
+13:13:32 : [Warrior-1] - [Mensagem do servidor]> SET LEARN
+13:13:42 : [Warrior-1] - Comando "/gm +learn 25"
+13:13:42 : [Warrior-1] - [Mensagem do servidor]> SET LEARN
+13:13:45 : [Warrior-1] - Comando "/gm +learn 26"
+13:13:45 : [Warrior-1] - [Mensagem do servidor]> SET LEARN
+13:13:49 : [Warrior-1] - Comando "/gm +learn 27"
+13:13:49 : [Warrior-1] - [Mensagem do servidor]> SET LEARN
+13:13:54 : [Warrior-1] - Comando "/gm +learn 28"
+13:13:54 : [Warrior-1] - [Mensagem do servidor]> SET LEARN
+13:13:58 : [Warrior-1] - Comando "/gm +learn 29"
+13:13:58 : [Warrior-1] - [Mensagem do servidor]> SET LEARN
+13:14:00 : [Warrior-1] - Comando "/gm +learn 30"
+13:14:00 : [Warrior-1] - [Mensagem do servidor]> SET LEARN
+13:14:11 : [Warrior-1] - Personagem deu personagem
+13:14:14 : Solicitou ir ao mundo...
+13:14:14 : Recebido pedido para entrar no jogo
+13:14:14 : Recebido informação do personagem completa.
+13:14:14 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 826536211
+Level atual: 1010
+Experiência atual: 1140
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:54:42 horas
+Posição atual: 2086x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Porco[2360] [88 27 1 20 100 0]
+[10] - Conjunto_Valquíria[4152] [96 30 0 0 0 32]
+[15] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[17] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[18] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[19] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[21] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[22] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[23] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[24] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[25] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[27] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[28] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[29] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN4]	USER_PLAY	[HTzin] (level: 0 ev: -1)	
+
+13:14:14 : [Warrior-1] - Personagem Warrior-1 enviado ao mundo 2086x 2094y - Canal 2 - Cash da conta: 49399. OverPower: 2220
+13:14:14 : [Warrior-1] - Gold atual: 826536211. Classe: 0 Evolução: 0. Experiência: 1140. Nível: 1010. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+13:14:14 : [Warrior-1] - Logou no personagem Warrior-1 com baú de experiência ativo. Tempo: 519
+13:14:14 : [Warrior-1] - Logou no personagem Warrior-1 com frango ativo. Tempo: 1433
+13:14:14 : [Warrior-1] - Enviado informações do personagem
+13:14:15 : [Warrior-1] - Comando "/day "
+13:14:15 : [Warrior-1] - [Mensagem do servidor]> !#11 2
+13:14:28 : [Warrior-1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:14:38 : [Warrior-1] - Personagem deu personagem
+13:14:42 : Solicitou ir ao mundo...
+13:14:42 : Recebido pedido para entrar no jogo
+13:14:42 : Recebido informação do personagem completa.
+13:14:42 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 826536211
+Level atual: 1010
+Experiência atual: 1140
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:55:09 horas
+Posição atual: 2091x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Porco[2360] [88 27 1 20 100 0]
+[10] - Conjunto_Valquíria[4152] [96 30 0 0 0 32]
+[15] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[17] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[18] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[19] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[21] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[22] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[23] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[24] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[25] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[27] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[28] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[29] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN4]	USER_PLAY	[HTzin] (level: 0 ev: -1)	
+
+13:14:42 : [Warrior-1] - Personagem Warrior-1 enviado ao mundo 2091x 2104y - Canal 2 - Cash da conta: 49399. OverPower: 2220
+13:14:42 : [Warrior-1] - Gold atual: 826536211. Classe: 0 Evolução: 0. Experiência: 1140. Nível: 1010. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+13:14:42 : [Warrior-1] - Logou no personagem Warrior-1 com baú de experiência ativo. Tempo: 516
+13:14:42 : [Warrior-1] - Logou no personagem Warrior-1 com frango ativo. Tempo: 1430
+13:14:42 : [Warrior-1] - Enviado informações do personagem
+13:14:43 : [Warrior-1] - Comando "/day "
+13:14:43 : [Warrior-1] - [Mensagem do servidor]> !#11 2
+13:14:52 : [Warrior-1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:16:15 : [Warrior-1] - Comando "/gm +learn 8"
+13:16:15 : [Warrior-1] - [Mensagem do servidor]> SET LEARN
+13:16:17 : [Warrior-1] - Comando "/gm +learn 8"
+13:16:17 : [Warrior-1] - [Mensagem do servidor]> SET LEARN
+13:16:24 : [Warrior-1] - Comando "/gm +learn 14"
+13:16:24 : [Warrior-1] - [Mensagem do servidor]> SET LEARN
+13:16:25 : [Warrior-1] - Comando "/gm +learn 15"
+13:16:25 : [Warrior-1] - [Mensagem do servidor]> SET LEARN
+13:16:47 : [Warrior-1] - Comando "/gm +item 2386 100 100 100 100 0"
+13:16:47 : [Warrior-1] - [Mensagem do servidor]> Criou o item Grifo_Sangrento
+13:16:47 : [Warrior-1] - Warrior-1 criou o item Grifo_Sangrento [2386] [100 100 100 100 0 0]
+13:16:51 : [Warrior-1] - Moveu item Grifo_Sangrento [2386] [100 100 100 100 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 14
+13:16:57 : [Warrior-1] - Moveu item Grifo_Sangrento [2386] [100 100 100 100 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+13:16:59 : [Warrior-1] - Moveu item Grifo_Sangrento [2386] [100 100 100 100 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 14
+13:18:02 : [Warrior-1] - Moveu item Grifo_Sangrento [2386] [100 100 100 100 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+13:18:37 : [Warrior-1] - Moveu item Grifo_Sangrento [2386] [100 100 100 100 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 14
+13:18:37 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 14
+13:18:37 : [Warrior-1] - Moveu item Grifo_Sangrento [2386] [100 100 100 100 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 14
+13:19:26 : [Warrior-1] - Moveu item Porco [2360] [88 27 1 20 100 0] do tipo INVENTÁRIO do slot 0 para tipo INVENTÁRIO slot 5
+13:19:28 : [Warrior-1] - Moveu item Porco [2360] [88 27 1 20 100 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 0
+13:19:28 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 0
+13:19:41 : [Warrior-1] - Agrupando o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] com o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+13:19:41 : [Warrior-1] - O agrupamento foi efetuado de slot 7 tipo BANCO para slot 12 tipo BANCO
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:41 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:42 : [Warrior-1] - Moveu item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] do tipo BANCO do slot 7 para tipo BANCO slot 12
+13:19:45 : [Warrior-1] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:19:45 : [Warrior-1] - 2 Personagem foi desconectado. Permaneceu 01:00:09 minutos online
+13:20:35 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+13:20:35 : Conta ADMIN4 logado na conta
+Status da conta: JOGANDO
+Personagem: HTzin
+
+13:20:35 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:20:35 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Adaga[861] [43 8 0 0 0 0]
+[  1] - Kit_de_Cura_(20_M.)[682] [61 19 0 0 0 0]
+[  2] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  3] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  4] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  5] - Frango_Assado_(Pacote)[3318] [0 0 0 0 0 0]
+[  6] - Broquel_de_Aço[1702] [0 0 0 0 0 0]
+[  8] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  9] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 10] - Maça_Pesada[803] [43 0 2 27 59 0]
+[ 11] - Luvas_de_Seda(A)[1292] [43 1 72 25 60 6]
+[ 12] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 14] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 15] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[ 16] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 17] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 18] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 19] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 20] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[ 21] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 22] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 23] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 24] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 25] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 26] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 27] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 28] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 29] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 30] - Baú_de_Caça[4139] [0 0 0 0 0 0]
+[ 31] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 32] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 33] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 34] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 35] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[ 36] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 37] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 38] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 39] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 40] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 41] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 42] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 43] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 44] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 45] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 46] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 47] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 48] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 49] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 50] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 51] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 52] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 53] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 54] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 55] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 56] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 57] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 58] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 59] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 60] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 61] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 62] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 63] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 64] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 65] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 66] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 67] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 68] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 69] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 70] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 71] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 72] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 73] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 74] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 75] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 76] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 77] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 78] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 79] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 80] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 81] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 82] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 83] - Poeira_de_Fada[414] [0 0 0 0 0 0]
+[ 84] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 85] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 86] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 87] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 88] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 89] - Página_de_Ferreiro_[F][4601] [61 1 0 0 0 0]
+[ 90] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 91] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 92] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 93] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 94] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 95] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 96] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 97] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 98] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 99] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[100] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[101] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[102] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[103] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[104] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[105] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[106] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[107] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[108] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[109] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[110] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[111] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[112] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[113] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[114] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[115] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[116] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[117] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[118] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[119] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+
+13:20:49 : Solicitou ir ao mundo...
+13:20:49 : Recebido pedido para entrar no jogo
+13:20:49 : Recebido informação do personagem completa.
+13:20:49 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 826536211
+Level atual: 1010
+Experiência atual: 1140
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:14 horas
+Posição atual: 2087x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[14] - Grifo_Sangrento[2386] [100 100 100 100 0 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[10] - Conjunto_Valquíria[4152] [96 30 0 0 0 32]
+[15] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[17] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[18] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[19] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[21] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[22] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[23] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[24] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[25] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[27] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[28] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[29] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN4]	USER_PLAY	[HTzin] (level: 0 ev: -1)	
+
+13:20:49 : [Warrior-1] - Personagem Warrior-1 enviado ao mundo 2087x 2099y - Canal 2 - Cash da conta: 49399. OverPower: 2420
+13:20:49 : [Warrior-1] - Gold atual: 826536211. Classe: 0 Evolução: 0. Experiência: 1140. Nível: 1010. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+13:20:49 : [Warrior-1] - Logou no personagem Warrior-1 com baú de experiência ativo. Tempo: 479
+13:20:49 : [Warrior-1] - Logou no personagem Warrior-1 com frango ativo. Tempo: 1393
+13:20:49 : [Warrior-1] - Enviado informações do personagem
+13:20:50 : [Warrior-1] - Comando "/day "
+13:20:50 : [Warrior-1] - [Mensagem do servidor]> !#11 2
+13:21:04 : [Warrior-1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:21:33 : [Warrior-1] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 27
+13:21:34 : [Warrior-1] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 28
+13:21:35 : [Warrior-1] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 29
+13:21:36 : [Warrior-1] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 24
+13:21:36 : [Warrior-1] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 23
+13:21:37 : [Warrior-1] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 25
+13:21:38 : [Warrior-1] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 22
+13:21:40 : [Warrior-1] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 21
+13:21:42 : [Warrior-1] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 16
+13:21:42 : [Warrior-1] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 18
+13:21:43 : [Warrior-1] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 19
+13:21:44 : [Warrior-1] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 17
+13:21:45 : [Warrior-1] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 15
+13:29:36 : [Warrior-1] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2102x 2102y. Posição do NPC: 2110x 2110y
+13:50:49 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 826536211
+Level atual: 1010
+Experiência atual: 1140
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:51 horas
+Posição atual: 2105x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[14] - Grifo_Sangrento[2386] [100 100 100 100 0 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[10] - Conjunto_Valquíria[4152] [96 30 0 0 0 32]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN4]	USER_PLAY	[HTzin] (level: 0 ev: -1)	
+
+14:20:50 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 826536211
+Level atual: 1010
+Experiência atual: 1140
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:59:30 horas
+Posição atual: 2133x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[14] - Grifo_Sangrento[2386] [100 100 100 100 0 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[10] - Conjunto_Valquíria[4152] [96 30 0 0 0 32]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN4]	USER_PLAY	[HTzin] (level: 0 ev: -1)	
+
+14:21:30 : [Warrior-1] - [Mensagem do servidor]> Sua montaria morreu.
+14:21:30 : [Warrior-1] - Montaria Grifo_Sangrento [2386] [0 0 100 100 4 0] morreu por falta de ração
+14:25:25 : [Warrior-1] - Comando "/day "
+14:25:25 : [Warrior-1] - [Mensagem do servidor]> !#11 2
+14:50:51 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 826536211
+Level atual: 1010
+Experiência atual: 1140
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:29:10 horas
+Posição atual: 2133x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[14] - Grifo_Sangrento[2386] [0 0 100 100 4 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[10] - Conjunto_Valquíria[4152] [96 30 0 0 0 32]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:20:51 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 826536211
+Level atual: 1010
+Experiência atual: 1140
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:58:50 horas
+Posição atual: 2133x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[14] - Grifo_Sangrento[2386] [0 0 100 100 4 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[10] - Conjunto_Valquíria[4152] [96 30 0 0 0 32]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:41:55 : [Warrior-1] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:41:55 : [Warrior-1] - 1 Personagem foi desconectado. Permaneceu 02:19:39 minutos online
+16:47:56 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+16:47:56 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+16:47:56 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Adaga[861] [43 8 0 0 0 0]
+[  1] - Kit_de_Cura_(20_M.)[682] [61 19 0 0 0 0]
+[  2] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  3] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  4] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  5] - Frango_Assado_(Pacote)[3318] [0 0 0 0 0 0]
+[  6] - Broquel_de_Aço[1702] [0 0 0 0 0 0]
+[  8] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  9] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 10] - Maça_Pesada[803] [43 0 2 27 59 0]
+[ 11] - Luvas_de_Seda(A)[1292] [43 1 72 25 60 6]
+[ 12] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 14] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 15] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[ 16] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 17] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 18] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 19] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 20] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[ 21] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 22] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 23] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 24] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 25] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 26] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 27] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 28] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 29] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 30] - Baú_de_Caça[4139] [0 0 0 0 0 0]
+[ 31] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 32] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 33] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 34] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 35] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[ 36] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 37] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 38] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 39] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 40] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 41] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 42] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 43] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 44] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 45] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 46] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 47] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 48] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 49] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 50] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 51] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 52] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 53] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 54] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 55] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 56] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 57] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 58] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 59] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 60] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 61] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 62] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 63] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 64] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 65] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 66] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 67] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 68] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 69] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 70] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 71] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 72] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 73] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 74] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 75] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 76] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 77] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 78] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 79] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 80] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 81] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 82] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 83] - Poeira_de_Fada[414] [0 0 0 0 0 0]
+[ 84] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 85] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 86] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 87] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 88] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 89] - Página_de_Ferreiro_[F][4601] [61 1 0 0 0 0]
+[ 90] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 91] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 92] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 93] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 94] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 95] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 96] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 97] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 98] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 99] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[100] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[101] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[102] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[103] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[104] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[105] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[106] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[107] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[108] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[109] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[110] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[111] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[112] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[113] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[114] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[115] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[116] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[117] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[118] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[119] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+
+16:47:56 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:48:01 : Solicitou ir ao mundo...
+16:48:01 : Recebido pedido para entrar no jogo
+16:48:01 : Recebido informação do personagem completa.
+16:48:01 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 826536211
+Level atual: 1010
+Experiência atual: 1140
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2097x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[14] - Grifo_Sangrento[2386] [0 0 100 100 4 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[10] - Conjunto_Valquíria[4152] [96 30 0 0 0 32]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:48:01 : [Warrior-1] - Personagem Warrior-1 enviado ao mundo 2097x 2094y - Canal 2 - Cash da conta: 49399. OverPower: 2420
+16:48:01 : [Warrior-1] - Gold atual: 826536211. Classe: 0 Evolução: 0. Experiência: 1140. Nível: 1010. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+16:48:01 : [Warrior-1] - Logou no personagem Warrior-1 com frango ativo. Tempo: 347
+16:48:01 : [Warrior-1] - Enviado informações do personagem
+16:48:02 : [Warrior-1] - Comando "/day "
+16:48:02 : [Warrior-1] - [Mensagem do servidor]> !#11 2
+16:48:11 : [Warrior-1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:51:32 : [Warrior-1] - Personagem deu personagem
+16:51:45 : Solicitou ir ao mundo...
+16:51:45 : Recebido pedido para entrar no jogo
+16:51:45 : Recebido informação do personagem completa.
+16:51:45 : [BonecoNv1] - [INFORMAÇÕES DA CONTA]
+Personagem online: BonecoNv1
+Gold atual: 996965966
+Level atual: 1010
+Experiência atual: 210
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:03:47 horas
+Posição atual: 2095x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[02] - Armadura_Flamejante[1221] [0 0 0 0 0 0]
+[03] - Armadura_Flamejante[1221] [0 0 0 0 0 0]
+[04] - Armadura_Flamejante[1221] [0 0 0 0 0 0]
+[05] - Armadura_Flamejante[1221] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo_de_Malha(N)[1110] [0 0 0 0 0 0]
+[01] - Armadura_de_Malha(N)[1122] [0 0 0 0 0 0]
+[02] - Calça_de_Malha(N)[1134] [0 0 0 0 0 0]
+[03] - Manoplas_de_Malha(N)[1146] [0 0 0 0 0 0]
+[04] - Botas_de_Malha(N)[1158] [0 0 0 0 0 0]
+[05] - Elmo_Dourado(A)[1178] [0 0 0 0 0 0]
+[06] - Calça_Dourada(A)[1184] [0 0 0 0 0 0]
+[07] - Armadura_Dourada(A)[1181] [0 0 0 0 0 0]
+[08] - Manoplas_Douradas(A)[1187] [0 0 0 0 0 0]
+[09] - Botas_Douradas(A)[1190] [0 0 0 0 0 0]
+[10] - Elmo_Mortal[1225] [0 0 0 0 0 0]
+[11] - Armadura_Mortal[1226] [0 0 0 0 0 0]
+[12] - Calça_Mortal[1227] [0 0 0 0 0 0]
+[13] - Monaplas_Mortais[1228] [0 0 0 0 0 0]
+[14] - Botas_Mortais[1229] [0 0 0 0 0 0]
+[15] - Fenrir[2376] [100 100 100 1 0 0]
+[16] - Brinco_de_Athena[591] [43 234 0 0 0 0]
+[17] - Poeira_de_Lactolerium[413] [61 115 0 0 0 0]
+[18] - Brinco_de_Athena[591] [43 0 0 0 0 0]
+[20] - Manoplas_Flamejantes[1223] [0 0 0 0 0 0]
+[21] - Fênix[2389] [100 100 100 1 0 0]
+[22] - Botas_Flamejantes[1224] [0 0 0 0 0 0]
+[23] - Armadura_Flamejante[1221] [0 0 0 0 0 0]
+[24] - Calça_Flamejante[1222] [0 0 0 0 0 0]
+[25] - Armadura_Flamejante[1221] [0 0 0 0 0 0]
+[26] - Calça_Flamejante[1222] [0 0 0 0 0 0]
+[27] - Manoplas_Flamejantes[1223] [0 0 0 0 0 0]
+[28] - Botas_Flamejantes[1224] [0 0 0 0 0 0]
+[29] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [117 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:51:45 : [BonecoNv1] - Personagem BonecoNv1 enviado ao mundo 2095x 2105y - Canal 2 - Cash da conta: 49399. OverPower: 2020
+16:51:45 : [BonecoNv1] - Gold atual: 996965966. Classe: 0 Evolução: 0. Experiência: 210. Nível: 1010. Info: 0. GuildID: 0. CP: 42. Pontos de Contribuição: 0. Limite: 0
+16:51:45 : [BonecoNv1] - Enviado informações do personagem
+16:51:46 : [BonecoNv1] - Comando "/day "
+16:51:46 : [BonecoNv1] - [Mensagem do servidor]> !#11 2
+16:51:56 : [BonecoNv1] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:51:56 : [BonecoNv1] - 2 Personagem foi desconectado. Permaneceu 00:03:58 minutos online
+17:52:48 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 5
+17:52:48 : Conta ADMIN2 logado na conta
+Status da conta: JOGANDO
+Personagem: FoeFoe2
+
+17:52:48 : Usuário logou no jogo com clientId 5. - Servidor 2. Gold do banco: 0
+17:52:48 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Adaga[861] [43 8 0 0 0 0]
+[  1] - Kit_de_Cura_(20_M.)[682] [61 19 0 0 0 0]
+[  2] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  3] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  4] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  5] - Frango_Assado_(Pacote)[3318] [0 0 0 0 0 0]
+[  6] - Broquel_de_Aço[1702] [0 0 0 0 0 0]
+[  8] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  9] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 10] - Maça_Pesada[803] [43 0 2 27 59 0]
+[ 11] - Luvas_de_Seda(A)[1292] [43 1 72 25 60 6]
+[ 12] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 14] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 15] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[ 16] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 17] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 18] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 19] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 20] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[ 21] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 22] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 23] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 24] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 25] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 26] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 27] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 28] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 29] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 30] - Baú_de_Caça[4139] [0 0 0 0 0 0]
+[ 31] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 32] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 33] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 34] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 35] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[ 36] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 37] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 38] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 39] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 40] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 41] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 42] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 43] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 44] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 45] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 46] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 47] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 48] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 49] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 50] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 51] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 52] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 53] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 54] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 55] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 56] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 57] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 58] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 59] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 60] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 61] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 62] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 63] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 64] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 65] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 66] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 67] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 68] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 69] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 70] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 71] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 72] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 73] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 74] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 75] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 76] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 77] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 78] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 79] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 80] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 81] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 82] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 83] - Poeira_de_Fada[414] [0 0 0 0 0 0]
+[ 84] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 85] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 86] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 87] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 88] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 89] - Página_de_Ferreiro_[F][4601] [61 1 0 0 0 0]
+[ 90] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 91] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 92] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 93] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 94] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 95] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 96] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 97] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 98] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 99] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[100] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[101] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[102] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[103] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[104] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[105] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[106] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[107] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[108] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[109] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[110] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[111] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[112] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[113] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[114] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[115] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[116] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[117] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[118] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[119] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+
+17:52:48 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[FoeFoe2] (level: 1010 ev: -1)	
+
+17:52:52 : Solicitou ir ao mundo...
+17:52:52 : Recebido pedido para entrar no jogo
+17:52:52 : Recebido informação do personagem completa.
+17:52:52 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 826536211
+Level atual: 1010
+Experiência atual: 1140
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2099x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[14] - Grifo_Sangrento[2386] [0 0 100 100 4 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[10] - Conjunto_Valquíria[4152] [96 30 0 0 0 32]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[FoeFoe2] (level: 1010 ev: -1)	
+
+17:52:52 : [Warrior-1] - Personagem Warrior-1 enviado ao mundo 2099x 2093y - Canal 2 - Cash da conta: 49399. OverPower: 2420
+17:52:52 : [Warrior-1] - Gold atual: 826536211. Classe: 0 Evolução: 0. Experiência: 1140. Nível: 1010. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+17:52:52 : [Warrior-1] - Logou no personagem Warrior-1 com frango ativo. Tempo: 321
+17:52:52 : [Warrior-1] - Enviado informações do personagem
+17:52:54 : [Warrior-1] - Comando "/day "
+17:52:54 : [Warrior-1] - [Mensagem do servidor]> !#11 2
+17:53:01 : [Warrior-1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:53:19 : [Warrior-1] - Personagem deu personagem
+17:53:26 : Solicitou ir ao mundo...
+17:53:26 : Recebido pedido para entrar no jogo
+17:53:26 : Recebido informação do personagem completa.
+17:53:26 : [Guardian-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Guardian-1
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:38 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[FoeFoe2] (level: 1010 ev: -1)	
+
+17:53:26 : [Guardian-1] - Personagem Guardian-1 enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 49399. OverPower: 0
+17:53:26 : [Guardian-1] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:53:26 : [Guardian-1] - Enviado informações do personagem
+17:53:27 : [Guardian-1] - Comando "/day "
+17:53:27 : [Guardian-1] - [Mensagem do servidor]> !#11 2
+17:53:37 : [Guardian-1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:53:38 : [Guardian-1] - Personagem deu personagem
+17:53:42 : Solicitou ir ao mundo...
+17:53:42 : Recebido pedido para entrar no jogo
+17:53:42 : Recebido informação do personagem completa.
+17:53:42 : [Guerreiro2] - [INFORMAÇÕES DA CONTA]
+Personagem online: Guerreiro2
+Gold atual: 997846100
+Level atual: 1010
+Experiência atual: 210
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:54 horas
+Posição atual: 2089x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Adaga[861] [43 9 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [43 9 0 0 0 0]
+[14] - Shire[3986] [106 27 110 12 109 20]
+
+[INVENTÁRIO]
+[00] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 59 0]
+[01] - Calça_Pele_de_Animal(A)[1409] [8 15 71 60 59 0]
+[02] - Jaqueta_Acolchoada(A)[1556] [43 0 71 70 60 8]
+[03] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[04] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[05] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[06] - Poeira_de_Lactolerium[413] [61 5 204 204 204 204]
+[07] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[09] - Fehu[5113] [0 0 0 0 0 0]
+[10] - Pedido_de_Caça(Kult)[3435] [61 92 0 0 0 0]
+[63] - Marca_do_Assassino[547] [111 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[FoeFoe2] (level: 1010 ev: -1)	
+
+17:53:42 : [Guerreiro2] - Personagem Guerreiro2 enviado ao mundo 2089x 2094y - Canal 2 - Cash da conta: 49399. OverPower: 2555
+17:53:42 : [Guerreiro2] - Gold atual: 997846100. Classe: 0 Evolução: 0. Experiência: 210. Nível: 1010. Info: 0. GuildID: 0. CP: 36. Pontos de Contribuição: 0. Limite: 0
+17:53:42 : [Guerreiro2] - Enviado informações do personagem
+17:53:44 : [Guerreiro2] - Comando "/day "
+17:53:44 : [Guerreiro2] - [Mensagem do servidor]> !#11 2
+17:53:49 : [Guerreiro2] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:54:02 : [Guerreiro2] - Comando "/gm +set 15 736"
+17:54:08 : [Guerreiro2] - Personagem deu personagem
+17:54:13 : Solicitou ir ao mundo...
+17:54:13 : Recebido pedido para entrar no jogo
+17:54:13 : Recebido informação do personagem completa.
+17:54:13 : [Guerreiro2] - [INFORMAÇÕES DA CONTA]
+Personagem online: Guerreiro2
+Gold atual: 997846100
+Level atual: 1010
+Experiência atual: 210
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:24 horas
+Posição atual: 2093x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Adaga[861] [43 9 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [43 9 0 0 0 0]
+[14] - Shire[3986] [106 27 110 12 109 20]
+[15] - Capa_de_Hekalotia[736] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 59 0]
+[01] - Calça_Pele_de_Animal(A)[1409] [8 15 71 60 59 0]
+[02] - Jaqueta_Acolchoada(A)[1556] [43 0 71 70 60 8]
+[03] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[04] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[05] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[06] - Poeira_de_Lactolerium[413] [61 5 204 204 204 204]
+[07] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[09] - Fehu[5113] [0 0 0 0 0 0]
+[10] - Pedido_de_Caça(Kult)[3435] [61 92 0 0 0 0]
+[63] - Marca_do_Assassino[547] [111 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[FoeFoe2] (level: 1010 ev: -1)	
+
+17:54:13 : [Guerreiro2] - Personagem Guerreiro2 enviado ao mundo 2093x 2095y - Canal 2 - Cash da conta: 49399. OverPower: 2555
+17:54:13 : [Guerreiro2] - Gold atual: 997846100. Classe: 0 Evolução: 0. Experiência: 210. Nível: 1010. Info: 0. GuildID: 0. CP: 36. Pontos de Contribuição: 0. Limite: 0
+17:54:13 : [Guerreiro2] - Enviado informações do personagem
+17:54:14 : [Guerreiro2] - Comando "/day "
+17:54:14 : [Guerreiro2] - [Mensagem do servidor]> !#11 2
+17:54:25 : [Guerreiro2] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:54:33 : [Guerreiro2] - Personagem deu personagem
+17:54:39 : Solicitou ir ao mundo...
+17:54:39 : Recebido pedido para entrar no jogo
+17:54:39 : Recebido informação do personagem completa.
+17:54:39 : [Guardian-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Guardian-1
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:50 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[FoeFoe2] (level: 1010 ev: -1)	
+
+17:54:39 : [Guardian-1] - Personagem Guardian-1 enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 49399. OverPower: 0
+17:54:39 : [Guardian-1] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:54:39 : [Guardian-1] - Enviado informações do personagem
+17:54:40 : [Guardian-1] - Comando "/day "
+17:54:40 : [Guardian-1] - [Mensagem do servidor]> !#11 2
+17:54:44 : [Guardian-1] - Comando "/gm +set level 1010"
+17:54:49 : [Guardian-1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:54:49 : [Guardian-1] - Comando "/gm +set 15 737"
+17:54:56 : [Guardian-1] - Personagem deu personagem
+17:55:00 : Solicitou ir ao mundo...
+17:55:00 : Recebido pedido para entrar no jogo
+17:55:00 : Recebido informação do personagem completa.
+17:55:00 : [Guardian-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Guardian-1
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:02:11 horas
+Posição atual: 2087x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[FoeFoe2] (level: 1010 ev: -1)	
+
+17:55:00 : [Guardian-1] - Personagem Guardian-1 enviado ao mundo 2087x 2096y - Canal 2 - Cash da conta: 49399. OverPower: 2020
+17:55:00 : [Guardian-1] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:55:00 : [Guardian-1] - Enviado informações do personagem
+17:55:01 : [Guardian-1] - Comando "/day "
+17:55:01 : [Guardian-1] - [Mensagem do servidor]> !#11 2
+17:55:13 : [Guardian-1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:55:19 : [Guardian-1] - Personagem deu personagem
+17:55:24 : Solicitou ir ao mundo...
+17:55:24 : Recebido pedido para entrar no jogo
+17:55:24 : Recebido informação do personagem completa.
+17:55:24 : [Guardian-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Guardian-1
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:02:35 horas
+Posição atual: 2092x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[FoeFoe2] (level: 1010 ev: -1)	
+
+17:55:24 : [Guardian-1] - Personagem Guardian-1 enviado ao mundo 2092x 2098y - Canal 2 - Cash da conta: 49399. OverPower: 2020
+17:55:24 : [Guardian-1] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:55:24 : [Guardian-1] - Enviado informações do personagem
+17:55:25 : [Guardian-1] - Comando "/day "
+17:55:25 : [Guardian-1] - [Mensagem do servidor]> !#11 2
+17:55:32 : [Guardian-1] - Personagem deu personagem
+17:55:35 : Solicitou ir ao mundo...
+17:55:35 : Recebido pedido para entrar no jogo
+17:55:35 : Recebido informação do personagem completa.
+17:55:35 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 826536211
+Level atual: 1010
+Experiência atual: 1140
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:02:46 horas
+Posição atual: 2087x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[14] - Grifo_Sangrento[2386] [0 0 100 100 4 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[10] - Conjunto_Valquíria[4152] [96 30 0 0 0 32]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[FoeFoe2] (level: 1010 ev: -1)	
+
+17:55:35 : [Warrior-1] - Personagem Warrior-1 enviado ao mundo 2087x 2097y - Canal 2 - Cash da conta: 49399. OverPower: 2420
+17:55:35 : [Warrior-1] - Gold atual: 826536211. Classe: 0 Evolução: 0. Experiência: 1140. Nível: 1010. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+17:55:35 : [Warrior-1] - Logou no personagem Warrior-1 com frango ativo. Tempo: 317
+17:55:35 : [Warrior-1] - Enviado informações do personagem
+17:55:37 : [Warrior-1] - Comando "/day "
+17:55:37 : [Warrior-1] - [Mensagem do servidor]> !#11 2
+17:55:49 : [Warrior-1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:01:59 : [Warrior-1] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:01:59 : [Warrior-1] - 5 Personagem foi desconectado. Permaneceu 00:09:06 minutos online
+18:02:35 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 4
+18:02:35 : Usuário logou no jogo com clientId 4. - Servidor 2. Gold do banco: 0
+18:02:35 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Adaga[861] [43 8 0 0 0 0]
+[  1] - Kit_de_Cura_(20_M.)[682] [61 19 0 0 0 0]
+[  2] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  3] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  4] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  5] - Frango_Assado_(Pacote)[3318] [0 0 0 0 0 0]
+[  6] - Broquel_de_Aço[1702] [0 0 0 0 0 0]
+[  8] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  9] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 10] - Maça_Pesada[803] [43 0 2 27 59 0]
+[ 11] - Luvas_de_Seda(A)[1292] [43 1 72 25 60 6]
+[ 12] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 14] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 15] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[ 16] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 17] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 18] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 19] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 20] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[ 21] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 22] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 23] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 24] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 25] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 26] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 27] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 28] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 29] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 30] - Baú_de_Caça[4139] [0 0 0 0 0 0]
+[ 31] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 32] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 33] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 34] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 35] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[ 36] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 37] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 38] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 39] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 40] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 41] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 42] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 43] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 44] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 45] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 46] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 47] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 48] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 49] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 50] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 51] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 52] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 53] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 54] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 55] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 56] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 57] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 58] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 59] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 60] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 61] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 62] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 63] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 64] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 65] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 66] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 67] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 68] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 69] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 70] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 71] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 72] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 73] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 74] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 75] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 76] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 77] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 78] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 79] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 80] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 81] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 82] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 83] - Poeira_de_Fada[414] [0 0 0 0 0 0]
+[ 84] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 85] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 86] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 87] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 88] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 89] - Página_de_Ferreiro_[F][4601] [61 1 0 0 0 0]
+[ 90] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 91] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 92] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 93] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 94] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 95] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 96] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 97] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 98] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 99] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[100] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[101] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[102] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[103] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[104] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[105] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[106] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[107] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[108] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[109] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[110] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[111] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[112] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[113] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[114] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[115] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[116] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[117] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[118] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[119] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+
+18:02:43 : ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:02:43 : Personagem foi desconectado. Permaneceu 00:00:08 minutos online
+18:39:44 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 3
+18:39:44 : Conta ADMIN2 logado na conta
+Status da conta: JOGANDO
+Personagem: BoeBoe12
+
+18:39:44 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+18:39:44 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Adaga[861] [43 8 0 0 0 0]
+[  1] - Kit_de_Cura_(20_M.)[682] [61 19 0 0 0 0]
+[  2] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  3] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  4] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  5] - Frango_Assado_(Pacote)[3318] [0 0 0 0 0 0]
+[  6] - Broquel_de_Aço[1702] [0 0 0 0 0 0]
+[  8] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  9] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 10] - Maça_Pesada[803] [43 0 2 27 59 0]
+[ 11] - Luvas_de_Seda(A)[1292] [43 1 72 25 60 6]
+[ 12] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 14] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 15] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[ 16] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 17] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 18] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 19] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 20] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[ 21] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 22] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 23] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 24] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 25] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 26] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 27] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 28] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 29] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 30] - Baú_de_Caça[4139] [0 0 0 0 0 0]
+[ 31] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 32] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 33] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 34] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 35] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[ 36] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 37] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 38] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 39] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 40] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 41] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 42] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 43] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 44] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 45] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 46] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 47] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 48] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 49] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 50] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 51] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 52] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 53] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 54] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 55] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 56] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 57] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 58] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 59] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 60] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 61] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 62] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 63] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 64] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 65] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 66] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 67] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 68] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 69] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 70] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 71] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 72] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 73] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 74] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 75] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 76] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 77] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 78] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 79] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 80] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 81] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 82] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 83] - Poeira_de_Fada[414] [0 0 0 0 0 0]
+[ 84] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 85] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 86] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 87] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 88] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 89] - Página_de_Ferreiro_[F][4601] [61 1 0 0 0 0]
+[ 90] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 91] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 92] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 93] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 94] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 95] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 96] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 97] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 98] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 99] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[100] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[101] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[102] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[103] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[104] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[105] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[106] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[107] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[108] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[109] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[110] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[111] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[112] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[113] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[114] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[115] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[116] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[117] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[118] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[119] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+
+18:39:45 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[BoeBoe12] (level: 1010 ev: -1)	
+
+18:39:48 : Solicitou ir ao mundo...
+18:39:48 : Recebido pedido para entrar no jogo
+18:39:48 : Recebido informação do personagem completa.
+18:39:48 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 826536211
+Level atual: 1010
+Experiência atual: 1140
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2094x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[14] - Grifo_Sangrento[2386] [0 0 100 100 4 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[10] - Conjunto_Valquíria[4152] [96 30 0 0 0 32]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[BoeBoe12] (level: 1010 ev: -1)	
+
+18:39:48 : [Warrior-1] - Personagem Warrior-1 enviado ao mundo 2094x 2105y - Canal 2 - Cash da conta: 49399. OverPower: 2420
+18:39:48 : [Warrior-1] - Gold atual: 826536211. Classe: 0 Evolução: 0. Experiência: 1140. Nível: 1010. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+18:39:48 : [Warrior-1] - Logou no personagem Warrior-1 com frango ativo. Tempo: 270
+18:39:48 : [Warrior-1] - Enviado informações do personagem
+18:39:49 : [Warrior-1] - Comando "/day "
+18:39:49 : [Warrior-1] - [Mensagem do servidor]> !#11 2
+18:40:02 : [Warrior-1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:42:25 : [Warrior-1] - Personagem deu personagem
+18:42:29 : Solicitou ir ao mundo...
+18:42:29 : Recebido pedido para entrar no jogo
+18:42:29 : Recebido informação do personagem completa.
+18:42:29 : [Guerreiro2] - [INFORMAÇÕES DA CONTA]
+Personagem online: Guerreiro2
+Gold atual: 997846100
+Level atual: 1010
+Experiência atual: 210
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:02:43 horas
+Posição atual: 2094x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Adaga[861] [43 9 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [43 9 0 0 0 0]
+[14] - Shire[3986] [106 27 110 12 109 20]
+[15] - Capa_de_Hekalotia[736] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 59 0]
+[01] - Calça_Pele_de_Animal(A)[1409] [8 15 71 60 59 0]
+[02] - Jaqueta_Acolchoada(A)[1556] [43 0 71 70 60 8]
+[03] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[04] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[05] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[06] - Poeira_de_Lactolerium[413] [61 5 204 204 204 204]
+[07] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[09] - Fehu[5113] [0 0 0 0 0 0]
+[10] - Pedido_de_Caça(Kult)[3435] [61 92 0 0 0 0]
+[63] - Marca_do_Assassino[547] [111 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[BoeBoe12] (level: 1010 ev: -1)	
+
+18:42:29 : [Guerreiro2] - Personagem Guerreiro2 enviado ao mundo 2094x 2094y - Canal 2 - Cash da conta: 49399. OverPower: 2555
+18:42:29 : [Guerreiro2] - Gold atual: 997846100. Classe: 0 Evolução: 0. Experiência: 210. Nível: 1010. Info: 0. GuildID: 0. CP: 36. Pontos de Contribuição: 0. Limite: 0
+18:42:29 : [Guerreiro2] - Enviado informações do personagem
+18:42:29 : [Guerreiro2] - Comando "/day "
+18:42:29 : [Guerreiro2] - [Mensagem do servidor]> !#11 2
+18:42:38 : [Guerreiro2] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:43:48 : [Guerreiro2] - Trade com conta ADMIN2
+18:43:48 : [Guerreiro2] - Trade - Recebido 0 de gold do usuário
+18:43:48 : [Guerreiro2] - Trade - Enviado 123456789 de gold para o usuário
+18:51:12 : [Guerreiro2] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:51:12 : [Guerreiro2] - 3 Personagem foi desconectado. Permaneceu 00:11:22 minutos online
+19:06:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+19:06:03 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+19:06:03 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Adaga[861] [43 8 0 0 0 0]
+[  1] - Kit_de_Cura_(20_M.)[682] [61 19 0 0 0 0]
+[  2] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  3] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  4] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  5] - Frango_Assado_(Pacote)[3318] [0 0 0 0 0 0]
+[  6] - Broquel_de_Aço[1702] [0 0 0 0 0 0]
+[  8] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  9] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 10] - Maça_Pesada[803] [43 0 2 27 59 0]
+[ 11] - Luvas_de_Seda(A)[1292] [43 1 72 25 60 6]
+[ 12] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 14] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 15] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[ 16] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 17] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 18] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 19] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 20] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[ 21] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 22] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 23] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 24] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 25] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 26] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 27] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 28] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 29] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 30] - Baú_de_Caça[4139] [0 0 0 0 0 0]
+[ 31] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 32] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 33] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 34] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 35] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[ 36] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 37] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 38] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 39] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 40] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 41] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 42] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 43] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 44] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 45] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 46] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 47] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 48] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 49] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 50] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 51] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 52] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 53] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 54] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 55] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 56] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 57] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 58] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 59] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 60] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 61] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 62] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 63] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 64] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 65] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 66] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 67] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 68] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 69] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 70] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 71] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 72] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 73] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 74] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 75] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 76] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 77] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 78] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 79] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 80] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 81] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 82] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 83] - Poeira_de_Fada[414] [0 0 0 0 0 0]
+[ 84] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 85] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 86] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 87] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 88] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 89] - Página_de_Ferreiro_[F][4601] [61 1 0 0 0 0]
+[ 90] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 91] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 92] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 93] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 94] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 95] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 96] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 97] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 98] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 99] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[100] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[101] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[102] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[103] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[104] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[105] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[106] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[107] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[108] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[109] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[110] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[111] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[112] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[113] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[114] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[115] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[116] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[117] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[118] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[119] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+
+19:06:07 : Solicitou ir ao mundo...
+19:06:07 : Recebido pedido para entrar no jogo
+19:06:07 : Recebido informação do personagem completa.
+19:06:07 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 826536211
+Level atual: 1010
+Experiência atual: 1140
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2090x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[14] - Grifo_Sangrento[2386] [0 0 100 100 4 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[10] - Conjunto_Valquíria[4152] [96 30 0 0 0 32]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:06:07 : [Warrior-1] - Personagem Warrior-1 enviado ao mundo 2090x 2094y - Canal 2 - Cash da conta: 49399. OverPower: 2420
+19:06:07 : [Warrior-1] - Gold atual: 826536211. Classe: 0 Evolução: 0. Experiência: 1140. Nível: 1010. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+19:06:07 : [Warrior-1] - Logou no personagem Warrior-1 com frango ativo. Tempo: 250
+19:06:07 : [Warrior-1] - Enviado informações do personagem
+19:06:08 : [Warrior-1] - Comando "/day "
+19:06:08 : [Warrior-1] - [Mensagem do servidor]> !#11 2
+19:06:15 : [Warrior-1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:36:08 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 826536211
+Level atual: 1010
+Experiência atual: 1140
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:50 horas
+Posição atual: 2100x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[14] - Grifo_Sangrento[2386] [0 0 100 100 4 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[10] - Conjunto_Valquíria[4152] [96 30 0 0 0 32]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:03:43 : [Warrior-1] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:03:43 : [Warrior-1] - 1 Personagem foi desconectado. Permaneceu 00:57:10 minutos online

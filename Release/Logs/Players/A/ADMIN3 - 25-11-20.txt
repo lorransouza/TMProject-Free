@@ -1,0 +1,539 @@
+
+00:10:05 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 80.103.120.181 Mac: (3F:A8:1C:D7:F7:48). ClientId: 2
+00:10:05 : Conta ADMIN5 logado na conta
+Status da conta: JOGANDO
+Personagem: GOLIRA
+
+00:10:05 : Usuário logou no jogo com clientId 2. - Servidor 1. Gold do banco: 0
+00:10:05 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 83] - Poeira_de_Fada[414] [0 0 0 0 0 0]
+[ 89] - Adaga_do_Duelo(M)[4601] [61 1 0 0 0 0]
+
+00:10:06 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+[ADMIN5]	USER_PLAY	[GOLIRA] (level: 15 ev: -1)	
+
+00:10:10 : Solicitou ir ao mundo...
+00:10:10 : Recebido pedido para entrar no jogo
+00:10:10 : Recebido informação do personagem completa.
+00:10:10 : [Guerreiro2] - [INFORMAÇÕES DA CONTA]
+Personagem online: Guerreiro2
+Gold atual: 998846100
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2099x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Adaga[861] [43 9 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 59 0]
+[01] - Calça_Pele_de_Animal(A)[1409] [8 15 71 60 59 0]
+[02] - Jaqueta_Acolchoada(A)[1556] [43 0 71 70 60 8]
+[03] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[04] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[05] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[06] - Martelo_Assassino[810] [0 0 0 0 0 0]
+[07] - Martelo_Dragão[809] [0 0 0 0 0 0]
+[08] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[09] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[10] - Poeira_de_Lactolerium[413] [61 21 0 0 0 0]
+[11] - Pedido_de_Caça(Kult)[3435] [61 92 0 0 0 0]
+[12] - Poeira_de_Lactolerium[413] [61 11 0 0 0 0]
+[63] - Marca_do_Assassino[547] [111 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN5]	USER_PLAY	[GOLIRA] (level: 15 ev: -1)	
+
+00:10:10 : [Guerreiro2] - Personagem Guerreiro2 enviado ao mundo 2099x 2106y - Canal 1 - Cash da conta: 0. OverPower: 2335
+00:10:10 : [Guerreiro2] - Gold atual: 998846100. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 36. Pontos de Contribuição: 0. Limite: 0
+00:10:10 : [Guerreiro2] - Resetado a contagem de entradas água! Day: 328-329. Total: 0
+00:10:10 : [Guerreiro2] - Enviado informações do personagem
+00:10:11 : [Guerreiro2] - Comando "/day "
+00:10:11 : [Guerreiro2] - [Mensagem do servidor]> !#11 2
+00:10:13 : [Guerreiro2] - Comando "/gm +erion"
+00:10:13 : [Guerreiro2] - Teleportado para a posição 2460 2009
+00:10:19 : [Guerreiro2] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+00:13:34 : [Guerreiro2] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+00:13:34 : [Guerreiro2] - 2 Personagem foi desconectado. Permaneceu 00:03:27 minutos online
+21:40:24 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+21:40:24 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+21:40:24 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 83] - Poeira_de_Fada[414] [0 0 0 0 0 0]
+[ 89] - Adaga_do_Duelo(M)[4601] [61 1 0 0 0 0]
+
+21:40:25 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:40:32 : Solicitou ir ao mundo...
+21:40:32 : Recebido pedido para entrar no jogo
+21:40:32 : Recebido informação do personagem completa.
+21:40:32 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 0
+Level atual: 9090
+Experiência atual: 30
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2091x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Shire(3dias)[3980] [106 27 110 11 109 20]
+[01] - Luvas_de_Seda(A)[1292] [43 1 72 25 60 6]
+[02] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[04] - Kit_de_Cura_(20_M.)[682] [61 19 0 0 0 0]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[06] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[07] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[09] - Maça_Pesada[803] [43 0 2 27 59 0]
+[10] - Adaga[861] [43 8 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:40:32 : [Warrior-1] - Personagem Warrior-1 enviado ao mundo 2091x 2102y - Canal 2 - Cash da conta: 0. OverPower: 18410
+21:40:32 : [Warrior-1] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 30. Nível: 9090. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+21:40:32 : [Warrior-1] - Enviado informações do personagem
+21:40:33 : [Warrior-1] - Comando "/day "
+21:40:33 : [Warrior-1] - [Mensagem do servidor]> !#11 2
+21:40:44 : [Warrior-1] - Personagem deu personagem
+21:40:51 : Solicitou ir ao mundo...
+21:40:51 : Recebido pedido para entrar no jogo
+21:40:51 : Recebido informação do personagem completa.
+21:40:51 : [Guerreiro2] - [INFORMAÇÕES DA CONTA]
+Personagem online: Guerreiro2
+Gold atual: 998846100
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:26 horas
+Posição atual: 2091x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Adaga[861] [43 9 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 59 0]
+[01] - Calça_Pele_de_Animal(A)[1409] [8 15 71 60 59 0]
+[02] - Jaqueta_Acolchoada(A)[1556] [43 0 71 70 60 8]
+[03] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[04] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[05] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[06] - Martelo_Assassino[810] [0 0 0 0 0 0]
+[07] - Martelo_Dragão[809] [0 0 0 0 0 0]
+[08] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[09] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[10] - Poeira_de_Lactolerium[413] [61 21 0 0 0 0]
+[11] - Pedido_de_Caça(Kult)[3435] [61 92 0 0 0 0]
+[12] - Poeira_de_Lactolerium[413] [61 11 0 0 0 0]
+[63] - Marca_do_Assassino[547] [111 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:40:51 : [Guerreiro2] - Personagem Guerreiro2 enviado ao mundo 2091x 2096y - Canal 2 - Cash da conta: 0. OverPower: 2335
+21:40:51 : [Guerreiro2] - Gold atual: 998846100. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 36. Pontos de Contribuição: 0. Limite: 0
+21:40:51 : [Guerreiro2] - Enviado informações do personagem
+21:40:52 : [Guerreiro2] - Comando "/day "
+21:40:52 : [Guerreiro2] - [Mensagem do servidor]> !#11 2
+21:40:59 : [Guerreiro2] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:43:02 : [Guerreiro2] - Teleportado para a posição 2366 3878
+21:45:55 : [Guerreiro2] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:45:55 : [Guerreiro2] - 1 Personagem foi desconectado. Permaneceu 00:05:26 minutos online
+22:14:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+22:14:55 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+22:14:55 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 83] - Poeira_de_Fada[414] [0 0 0 0 0 0]
+[ 89] - Adaga_do_Duelo(M)[4601] [61 1 0 0 0 0]
+
+22:14:55 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:15:00 : Solicitou ir ao mundo...
+22:15:00 : Recebido pedido para entrar no jogo
+22:15:00 : Recebido informação do personagem completa.
+22:15:00 : [Guerreiro2] - [INFORMAÇÕES DA CONTA]
+Personagem online: Guerreiro2
+Gold atual: 997846100
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2092x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 9 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 9 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 9 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 9 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 9 0 0 0 0]
+[06] - Adaga[861] [43 9 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 59 0]
+[01] - Calça_Pele_de_Animal(A)[1409] [8 15 71 60 59 0]
+[02] - Jaqueta_Acolchoada(A)[1556] [43 0 71 70 60 8]
+[03] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[04] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[05] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[06] - Martelo_Assassino[810] [0 0 0 0 0 0]
+[07] - Martelo_Dragão[809] [0 0 0 0 0 0]
+[08] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[09] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[10] - Poeira_de_Lactolerium[413] [61 21 0 0 0 0]
+[11] - Pedido_de_Caça(Kult)[3435] [61 92 0 0 0 0]
+[12] - Poeira_de_Lactolerium[413] [61 11 0 0 0 0]
+[63] - Marca_do_Assassino[547] [111 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:15:00 : [Guerreiro2] - Personagem Guerreiro2 enviado ao mundo 2092x 2098y - Canal 2 - Cash da conta: 0. OverPower: 2335
+22:15:00 : [Guerreiro2] - Gold atual: 997846100. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 36. Pontos de Contribuição: 0. Limite: 0
+22:15:00 : [Guerreiro2] - Enviado informações do personagem
+22:15:01 : [Guerreiro2] - Comando "/day "
+22:15:01 : [Guerreiro2] - [Mensagem do servidor]> !#11 2
+22:15:12 : [Guerreiro2] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:15:25 : [Guerreiro2] - Teleportado para a posição 2591 2098
+22:15:25 : [Guerreiro2] - Solicitado teleporte na posição 2141x 2070y e teleportado para 2591x 2098y
+22:15:30 : [Guerreiro2] - Matou o mob Troll Mago . GenerID: 1204
+22:15:48 : [Guerreiro2] - Teleportado para a posição 147 3776
+22:15:48 : [Guerreiro2] - Solicitado teleporte na posição 2669x 2157y e teleportado para 147x 3776y
+22:15:53 : [Guerreiro2] - Teleportado para a posição 1006 4030
+22:15:53 : [Guerreiro2] - Solicitado teleporte na posição 147x 3780y e teleportado para 1006x 4030y
+22:28:24 : [Guerreiro2] - Comando "/gm +armias"
+22:28:26 : [Guerreiro2] - Comando "/gm +armia"
+22:28:26 : [Guerreiro2] - Teleportado para a posição 2100 2100
+22:28:28 : [Guerreiro2] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2105x 2103y. Posição do NPC: 2110x 2110y
+22:28:42 : [Guerreiro2] - [Mensagem do servidor]> Deve possuir os itens corretos
+22:28:53 : [Guerreiro2] - Personagem deu personagem
+22:28:59 : Solicitou ir ao mundo...
+22:28:59 : Recebido pedido para entrar no jogo
+22:28:59 : Recebido informação do personagem completa.
+22:28:59 : [Druida] - [INFORMAÇÕES DA CONTA]
+Personagem online: Druida
+Gold atual: 1997995032
+Level atual: 399
+Experiência atual: 4000000660
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:13:55 horas
+Posição atual: 2093x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[02] - BeastMaster[21] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Adaga[861] [43 0 0 0 0 0]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[05] - Brinco_de_Athena[591] [43 234 0 0 0 0]
+[06] - Brinco_de_Athena[591] [43 234 0 0 0 0]
+[07] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[08] - Brinco_de_Athena[591] [43 0 0 0 0 0]
+[09] - Foice_de_Argos[942] [43 6 2 45 0 0]
+[10] - Amuleto_de_Cristal[563] [43 9 0 0 0 0]
+[11] - [4503] [61 1 0 0 0 0]
+[12] - [4503] [61 2 0 0 0 0]
+[13] - [4503] [61 2 0 0 0 0]
+[14] - Poeira_de_Lactolerium[413] [61 220 0 0 0 0]
+[16] - Jóia_da_Escuridão[772] [0 0 0 0 0 0]
+[17] - [4508] [0 0 0 0 0 0]
+[18] - Dente_de_Lobo_I[4510] [0 0 0 0 0 0]
+[19] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[20] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[21] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[23] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [81 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:28:59 : [Druida] - Personagem Druida enviado ao mundo 2093x 2105y - Canal 2 - Cash da conta: 0. OverPower: 798
+22:28:59 : [Druida] - Gold atual: 1997995032. Classe: 2 Evolução: 0. Experiência: 4000000660. Nível: 399. Info: 0. GuildID: 0. CP: 6. Pontos de Contribuição: 0. Limite: 0
+22:28:59 : [Druida] - Enviado informações do personagem
+22:29:00 : [Druida] - Comando "/day "
+22:29:00 : [Druida] - [Mensagem do servidor]> !#11 2
+22:29:03 : [Druida] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2105x 2103y. Posição do NPC: 2110x 2110y
+22:29:12 : [Druida] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:29:18 : [Druida] - Personagem deu personagem
+22:29:22 : Solicitou ir ao mundo...
+22:29:22 : Recebido pedido para entrar no jogo
+22:29:22 : Recebido informação do personagem completa.
+22:29:22 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 0
+Level atual: 9090
+Experiência atual: 30
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:14:18 horas
+Posição atual: 2097x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Shire(3dias)[3980] [106 27 110 11 109 20]
+[01] - Luvas_de_Seda(A)[1292] [43 1 72 25 60 6]
+[02] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[04] - Kit_de_Cura_(20_M.)[682] [61 19 0 0 0 0]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[06] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[07] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[09] - Maça_Pesada[803] [43 0 2 27 59 0]
+[10] - Adaga[861] [43 8 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:29:22 : [Warrior-1] - Personagem Warrior-1 enviado ao mundo 2097x 2100y - Canal 2 - Cash da conta: 0. OverPower: 18410
+22:29:22 : [Warrior-1] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 30. Nível: 9090. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+22:29:22 : [Warrior-1] - Enviado informações do personagem
+22:29:23 : [Warrior-1] - Comando "/day "
+22:29:23 : [Warrior-1] - [Mensagem do servidor]> !#11 2
+22:29:30 : [Warrior-1] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2113x 2111y. Posição do NPC: 2110x 2110y
+22:29:36 : [Warrior-1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:30:00 : [Warrior-1] - [Mensagem do servidor]: A batalha de acampamento avançado do reino foi finalizada
+22:47:38 : [Warrior-1] - Comando "/gm +set level 1010"
+22:59:22 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:43:57 horas
+Posição atual: 2103x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Shire(3dias)[3980] [106 27 110 11 109 20]
+[01] - Luvas_de_Seda(A)[1292] [43 1 72 25 60 6]
+[02] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[04] - Kit_de_Cura_(20_M.)[682] [61 19 0 0 0 0]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[06] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[07] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[09] - Maça_Pesada[803] [43 0 2 27 59 0]
+[10] - Adaga[861] [43 8 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:29:23 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:13:36 horas
+Posição atual: 2103x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Shire(3dias)[3980] [106 27 110 11 109 20]
+[01] - Luvas_de_Seda(A)[1292] [43 1 72 25 60 6]
+[02] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[04] - Kit_de_Cura_(20_M.)[682] [61 19 0 0 0 0]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[06] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[07] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[09] - Maça_Pesada[803] [43 0 2 27 59 0]
+[10] - Adaga[861] [43 8 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:59:24 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:43:15 horas
+Posição atual: 2103x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[06] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Shire(3dias)[3980] [106 27 110 11 109 20]
+[01] - Luvas_de_Seda(A)[1292] [43 1 72 25 60 6]
+[02] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[04] - Kit_de_Cura_(20_M.)[682] [61 19 0 0 0 0]
+[05] - Porco[2360] [88 27 1 20 100 0]
+[06] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[07] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[09] - Maça_Pesada[803] [43 0 2 27 59 0]
+[10] - Adaga[861] [43 8 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 

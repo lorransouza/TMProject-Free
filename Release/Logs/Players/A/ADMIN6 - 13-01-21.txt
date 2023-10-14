@@ -1,0 +1,577 @@
+
+14:28:02 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+14:28:02 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1829750000
+14:28:02 : [INFORMAÇÕES DO BANCO]
+Gold: 1829750000
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1297] [43 3 60 6 53 3]
+[  2] - Botas(M)[1309] [43 3 60 6 74 12]
+[  3] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[  4] - Calça(M)[1285] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1321] [43 3 60 6 53 3]
+[  7] - Botas(M)[1324] [43 3 60 6 74 12]
+[  9] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 10] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 11] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 13] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 15] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 16] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 17] - Cajado[899] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 20] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 22] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 23] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 24] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 25] - [4646] [0 0 0 0 0 0]
+[ 26] - Armadura[1506] [43 6 0 0 0 0]
+[ 27] - Calça[1507] [43 6 0 0 0 0]
+[ 28] - Luvas[1508] [43 6 0 0 0 0]
+[ 29] - Botas[1509] [43 6 0 0 0 0]
+[ 30] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 31] - Luvas(M)[1297] [43 3 60 6 53 3]
+[ 32] - Botas(M)[1309] [43 3 60 6 74 12]
+[ 33] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[ 34] - Calça(M)[1285] [43 3 60 6 3 20]
+[ 35] - Robe(M)[1273] [43 3 60 6 3 20]
+[ 36] - Luvas(M)[1321] [43 3 60 6 53 3]
+[ 37] - Botas(M)[1324] [43 3 60 6 74 12]
+[ 38] - Chapéu(M)[1312] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 40] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 41] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 42] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 43] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 44] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 45] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 46] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 47] - Cajado[899] [43 6 60 16 0 0]
+[ 48] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 49] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 50] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 51] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 52] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 53] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 54] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 55] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 56] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 57] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 58] - Botas(M)[1159] [43 3 73 18 74 12]
+[ 59] - Elmo(M)[1111] [43 3 4 20 0 0]
+[ 60] - Calça(M)[1135] [43 3 2 20 3 20]
+[ 61] - Armadura(M)[1123] [43 3 2 20 3 20]
+[ 62] - Luvas(M)[1186] [43 3 2 20 53 3]
+[ 63] - Botas(M)[1189] [43 3 73 18 74 12]
+[ 64] - Elmo(M)[1177] [43 3 4 20 0 0]
+[ 65] - Calça(M)[1183] [43 3 2 20 3 20]
+[ 66] - Armadura(M)[1180] [43 3 2 20 3 20]
+[ 67] - Manopla(M)[1201] [43 3 2 20 53 3]
+[ 84] - Túnica[1356] [43 253 0 0 0 0]
+[ 89] - Botass[1359] [43 252 0 0 0 0]
+[ 94] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[ 99] - Calça[1357] [43 252 0 0 0 0]
+[104] - Luvass[1358] [43 252 0 0 0 0]
+[109] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+
+14:28:03 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:28:25 : Solicitou ir ao mundo...
+14:28:25 : Recebido pedido para entrar no jogo
+14:28:25 : Recebido informação do personagem completa.
+14:28:25 : [Shariiii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariiii
+Gold atual: 1011038000
+Level atual: 320
+Experiência atual: 1024275530
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:23 horas
+Posição atual: 2086x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1112] [0 0 0 0 0 0]
+[02] - Armadura(A)[1124] [0 0 0 0 0 0]
+[03] - Calça(M)[1135] [0 0 0 0 0 0]
+[04] - Luvas(A)[1148] [0 0 0 0 0 0]
+[05] - Botas(N)[1155] [0 0 0 0 0 0]
+[06] - Foice_Platinada[3566] [43 6 60 16 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:28:25 : [Shariiii] - Personagem Shariiii enviado ao mundo 2086x 2094y - Canal 2 - Cash da conta: 0. OverPower: 670
+14:28:25 : [Shariiii] - Gold atual: 1011038000. Classe: 0 Evolução: 0. Experiência: 1024275530. Nível: 320. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:28:25 : [Shariiii] - Logou no personagem Shariiii com frango ativo. Tempo: 359
+14:28:25 : [Shariiii] - Resetado a contagem de entradas água! Day: 11-12. Total: 0
+14:28:25 : [Shariiii] - Enviado informações do personagem
+14:28:26 : [Shariiii] - Comando "/day "
+14:28:26 : [Shariiii] - [Mensagem do servidor]> !#11 2
+14:28:39 : [Shariiii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:58:25 : [Shariiii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariiii
+Gold atual: 1011038000
+Level atual: 320
+Experiência atual: 1024275530
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:56 horas
+Posição atual: 2122x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1112] [0 0 0 0 0 0]
+[02] - Armadura(A)[1124] [0 0 0 0 0 0]
+[03] - Calça(M)[1135] [0 0 0 0 0 0]
+[04] - Luvas(A)[1148] [0 0 0 0 0 0]
+[05] - Botas(N)[1155] [0 0 0 0 0 0]
+[06] - Foice_Platinada[3566] [43 6 60 16 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:28:26 : [Shariiii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariiii
+Gold atual: 1011038000
+Level atual: 320
+Experiência atual: 1024275530
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:59:35 horas
+Posição atual: 2112x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1112] [0 0 0 0 0 0]
+[02] - Armadura(A)[1124] [0 0 0 0 0 0]
+[03] - Calça(M)[1135] [0 0 0 0 0 0]
+[04] - Luvas(A)[1148] [0 0 0 0 0 0]
+[05] - Botas(N)[1155] [0 0 0 0 0 0]
+[06] - Foice_Platinada[3566] [43 6 60 16 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:58:27 : [Shariiii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariiii
+Gold atual: 1011038000
+Level atual: 320
+Experiência atual: 1024275530
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:29:13 horas
+Posição atual: 2112x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1112] [0 0 0 0 0 0]
+[02] - Armadura(A)[1124] [0 0 0 0 0 0]
+[03] - Calça(M)[1135] [0 0 0 0 0 0]
+[04] - Luvas(A)[1148] [0 0 0 0 0 0]
+[05] - Botas(N)[1155] [0 0 0 0 0 0]
+[06] - Foice_Platinada[3566] [43 6 60 16 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:28:27 : [Shariiii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariiii
+Gold atual: 1011038000
+Level atual: 320
+Experiência atual: 1024275530
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:58:51 horas
+Posição atual: 2112x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1112] [0 0 0 0 0 0]
+[02] - Armadura(A)[1124] [0 0 0 0 0 0]
+[03] - Calça(M)[1135] [0 0 0 0 0 0]
+[04] - Luvas(A)[1148] [0 0 0 0 0 0]
+[05] - Botas(N)[1155] [0 0 0 0 0 0]
+[06] - Foice_Platinada[3566] [43 6 60 16 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:58:28 : [Shariiii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariiii
+Gold atual: 1011038000
+Level atual: 320
+Experiência atual: 1024275530
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 02:28:26 horas
+Posição atual: 2112x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1112] [0 0 0 0 0 0]
+[02] - Armadura(A)[1124] [0 0 0 0 0 0]
+[03] - Calça(M)[1135] [0 0 0 0 0 0]
+[04] - Luvas(A)[1148] [0 0 0 0 0 0]
+[05] - Botas(N)[1155] [0 0 0 0 0 0]
+[06] - Foice_Platinada[3566] [43 6 60 16 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:28:29 : [Shariiii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariiii
+Gold atual: 1011038000
+Level atual: 320
+Experiência atual: 1024275530
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 02:58:03 horas
+Posição atual: 2112x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1112] [0 0 0 0 0 0]
+[02] - Armadura(A)[1124] [0 0 0 0 0 0]
+[03] - Calça(M)[1135] [0 0 0 0 0 0]
+[04] - Luvas(A)[1148] [0 0 0 0 0 0]
+[05] - Botas(N)[1155] [0 0 0 0 0 0]
+[06] - Foice_Platinada[3566] [43 6 60 16 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:58:30 : [Shariiii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariiii
+Gold atual: 1011038000
+Level atual: 320
+Experiência atual: 1024275530
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 03:27:40 horas
+Posição atual: 2102x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1112] [0 0 0 0 0 0]
+[02] - Armadura(A)[1124] [0 0 0 0 0 0]
+[03] - Calça(M)[1135] [0 0 0 0 0 0]
+[04] - Luvas(A)[1148] [0 0 0 0 0 0]
+[05] - Botas(N)[1155] [0 0 0 0 0 0]
+[06] - Foice_Platinada[3566] [43 6 60 16 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:58:54 : [Shariiii] - ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:58:54 : [Shariiii] - 1 Personagem foi desconectado. Permaneceu 03:28:04 minutos online
+19:50:14 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 2
+19:50:14 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 1829750000
+19:50:14 : [INFORMAÇÕES DO BANCO]
+Gold: 1829750000
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1297] [43 3 60 6 53 3]
+[  2] - Botas(M)[1309] [43 3 60 6 74 12]
+[  3] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[  4] - Calça(M)[1285] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1321] [43 3 60 6 53 3]
+[  7] - Botas(M)[1324] [43 3 60 6 74 12]
+[  9] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 10] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 11] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 13] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 15] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 16] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 17] - Cajado[899] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 20] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 22] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 23] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 24] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 25] - [4646] [0 0 0 0 0 0]
+[ 26] - Armadura[1506] [43 6 0 0 0 0]
+[ 27] - Calça[1507] [43 6 0 0 0 0]
+[ 28] - Luvas[1508] [43 6 0 0 0 0]
+[ 29] - Botas[1509] [43 6 0 0 0 0]
+[ 30] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 31] - Luvas(M)[1297] [43 3 60 6 53 3]
+[ 32] - Botas(M)[1309] [43 3 60 6 74 12]
+[ 33] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[ 34] - Calça(M)[1285] [43 3 60 6 3 20]
+[ 35] - Robe(M)[1273] [43 3 60 6 3 20]
+[ 36] - Luvas(M)[1321] [43 3 60 6 53 3]
+[ 37] - Botas(M)[1324] [43 3 60 6 74 12]
+[ 38] - Chapéu(M)[1312] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 40] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 41] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 42] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 43] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 44] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 45] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 46] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 47] - Cajado[899] [43 6 60 16 0 0]
+[ 48] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 49] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 50] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 51] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 52] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 53] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 54] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 55] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 56] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 57] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 58] - Botas(M)[1159] [43 3 73 18 74 12]
+[ 59] - Elmo(M)[1111] [43 3 4 20 0 0]
+[ 60] - Calça(M)[1135] [43 3 2 20 3 20]
+[ 61] - Armadura(M)[1123] [43 3 2 20 3 20]
+[ 62] - Luvas(M)[1186] [43 3 2 20 53 3]
+[ 63] - Botas(M)[1189] [43 3 73 18 74 12]
+[ 64] - Elmo(M)[1177] [43 3 4 20 0 0]
+[ 65] - Calça(M)[1183] [43 3 2 20 3 20]
+[ 66] - Armadura(M)[1180] [43 3 2 20 3 20]
+[ 67] - Manopla(M)[1201] [43 3 2 20 53 3]
+[ 84] - Túnica[1356] [43 253 0 0 0 0]
+[ 89] - Botass[1359] [43 252 0 0 0 0]
+[ 94] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[ 99] - Calça[1357] [43 252 0 0 0 0]
+[104] - Luvass[1358] [43 252 0 0 0 0]
+[109] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+
+19:50:14 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:50:22 : Solicitou ir ao mundo...
+19:50:22 : Recebido pedido para entrar no jogo
+19:50:22 : Recebido informação do personagem completa.
+19:50:22 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 570708294
+Level atual: 0
+Experiência atual: 3388436
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2088x 2097y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[06] - [2939] [0 0 0 0 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 92 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Calça[1357] [43 250 2 42 71 90]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 9 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [120 120 120 120 0 0]
+[10] - Cérberus[2378] [10 10 17 10 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Saia(A)[1280] [43 3 0 0 0 0]
+[16] - Elmo(A)[1802] [43 3 0 0 0 0]
+[17] - Elmo(A)[1956] [43 3 0 0 0 0]
+[18] - Peitoral(A)[2047] [43 3 0 0 0 0]
+[19] - Armadura(A)[1466] [43 3 3 10 0 0]
+[20] - Botas(M)[2159] [43 3 0 0 0 0]
+[21] - Robe(M)[2164] [43 3 0 0 0 0]
+[22] - Armadura(N)[1434] [43 3 0 0 0 0]
+[23] - Chapéu(M)[1582] [43 2 0 0 0 0]
+[24] - Skytalos(Anct)[2551] [171 10 0 0 0 0]
+[25] - Armadura(A)[1862] [43 3 0 0 0 0]
+[26] - Elmo(A)[1881] [43 3 0 0 0 0]
+[27] - Armadura(A)[1972] [43 3 0 0 0 0]
+[28] - Botas(A)[1625] [43 3 0 0 0 0]
+[29] - Pegasus[2382] [120 120 120 120 0 0]
+[30] - Botas(A)[1355] [0 0 0 0 0 0]
+[35] - Arco[826] [0 0 0 0 0 0]
+[40] - Escudo[1712] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:50:22 : [Sharii] - Personagem Sharii enviado ao mundo 2088x 2097y - Canal 2 - Cash da conta: 0. OverPower: 1475
+19:50:22 : [Sharii] - Gold atual: 570708294. Classe: 1 Evolução: 3. Experiência: 3388436. Nível: 0. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+19:50:22 : [Sharii] - Evolução logada: 3
+19:50:22 : [Sharii] - Dados da capa um: [3199] [43 230 47 10 0 0]
+19:50:22 : [Sharii] - Dados da capa dois: [0] [0 0 0 0 0 0]
+19:50:22 : [Sharii] - Não foi efetuado a troca pois a refinação atual é maior
+19:50:22 : [Sharii] - Enviado informações do personagem
+19:50:23 : [Sharii] - Comando "/day "
+19:50:23 : [Sharii] - [Mensagem do servidor]> !#11 2
+19:50:37 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:50:56 : [Sharii] - Moveu item Arco [826] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 35 para tipo EQUIPAMENTO slot 6
+19:51:07 : [Sharii] - Moveu item Pegasus [2382] [120 120 120 120 0 0] do tipo INVENTÁRIO do slot 29 para tipo EQUIPAMENTO slot 14
+19:51:25 : [Sharii] - Moveu item Cérberus [2378] [10 10 17 10 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 14
+19:51:33 : [Sharii] - Moveu item Cérberus [2378] [120 120 120 120 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 14
+19:52:03 : [Sharii] - Moveu item Calça [1357] [43 252 0 0 0 0] do tipo BANCO do slot 99 para tipo INVENTÁRIO slot 31
+19:52:04 : [Sharii] - Moveu item  [0] [0 0 0 0 0 0] do tipo BANCO do slot 99 para tipo INVENTÁRIO slot 31
+19:52:04 : [Sharii] - Moveu item Luvass [1358] [43 252 0 0 0 0] do tipo BANCO do slot 104 para tipo INVENTÁRIO slot 36
+19:52:05 : [Sharii] - Moveu item Calça [1357] [43 252 0 0 0 0] do tipo BANCO do slot 99 para tipo INVENTÁRIO slot 31
+19:52:06 : [Sharii] - Moveu item Botass [1359] [43 252 0 0 0 0] do tipo BANCO do slot 89 para tipo INVENTÁRIO slot 41
+19:52:07 : [Sharii] - Moveu item Túnica [1356] [43 253 0 0 0 0] do tipo BANCO do slot 84 para tipo INVENTÁRIO slot 32
+19:52:08 : [Sharii] - Moveu item Gleipnir(Anct) [2674] [43 250 60 100 0 0] do tipo BANCO do slot 109 para tipo INVENTÁRIO slot 37
+19:52:11 : [Sharii] - Moveu item Cérberus [2378] [120 120 120 120 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 42
+19:52:12 : [Sharii] - Moveu item Arco [826] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 6 para tipo INVENTÁRIO slot 33
+19:52:15 : [Sharii] - Moveu item Botass [1359] [43 252 0 0 0 0] do tipo INVENTÁRIO do slot 41 para tipo EQUIPAMENTO slot 5
+19:52:16 : [Sharii] - Moveu item Luvass [1358] [43 252 0 0 0 0] do tipo INVENTÁRIO do slot 36 para tipo EQUIPAMENTO slot 4
+19:52:17 : [Sharii] - Moveu item Calça [1357] [43 252 0 0 0 0] do tipo INVENTÁRIO do slot 31 para tipo EQUIPAMENTO slot 3
+19:52:18 : [Sharii] - Moveu item Túnica [1356] [43 253 0 0 0 0] do tipo INVENTÁRIO do slot 32 para tipo EQUIPAMENTO slot 2
+19:52:45 : [Sharii] - Moveu item Gleipnir(Anct) [2674] [43 250 60 100 0 0] do tipo INVENTÁRIO do slot 37 para tipo EQUIPAMENTO slot 6
+19:53:28 : [Sharii] - Moveu item Pegasus [2382] [120 120 120 120 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 14
+19:54:29 : [Sharii] - Moveu item Pegasus [2382] [120 120 120 120 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 10
+19:54:42 : [Sharii] - Removido o Hp do mob Verid. HP removido: 0. HP Atual: 17
+19:54:43 : [Sharii] - Removido o Hp do mob Verid. HP removido: 0. HP Atual: 17
+19:56:10 : [Sharii] - Removido o Hp do mob Verid. HP removido: 22. HP Atual: 75
+19:57:12 : [Sharii] - Matou o mob Esqueleto. GenerID: 4247
+19:57:12 : [Sharii] - Dropado item Botas(M) [1309] [43 1 73 18 59 0] em 2390x 2131y - Esqueleto (1/300)
+20:00:52 : [Sharii] - Teleportado para a posição 145 3788
+20:00:52 : [Sharii] - Solicitado teleporte na posição 2365x 2284y e teleportado para 145x 3788y
+20:02:19 : [Sharii] - ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:02:19 : [Sharii] - 2 Personagem foi desconectado. Permaneceu 00:11:56 minutos online

@@ -1,0 +1,589 @@
+
+19:36:25 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 189.27.127.221 Mac: (57:97:A2:B8:71:46). ClientId: 1
+19:36:25 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+19:36:25 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:36:26 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:36:34 : Solicitou ir ao mundo...
+19:36:34 : Recebido pedido para entrar no jogo
+19:36:34 : Recebido informação do personagem completa.
+19:36:34 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1194939000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2097x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[14] - Unicórnio[2381] [105 244 120 60 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[01] - Adaga_do_Duelo(M)[4601] [0 0 0 0 0 0]
+[03] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[07] - Pedido_de_Caça(Kefra)[3436] [61 99 0 0 0 0]
+[08] - Lança_do_Vento(Anct)[2641] [118 9 0 0 0 0]
+[10] - Pedido_de_Caça(Kult)[3435] [61 100 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:36:34 : [28jdi] - Personagem 28jdi enviado ao mundo 2097x 2094y - Canal 2 - Cash da conta: 0. OverPower: 1168
+19:36:34 : [28jdi] - Gold atual: 1194939000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:36:34 : [28jdi] - Resetado a contagem de entradas água! Day: 326-327. Total: 0
+19:36:34 : [28jdi] - Enviado informações do personagem
+19:36:36 : [28jdi] - Comando "/day "
+19:36:36 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:36:42 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:36:50 : [28jdi] - Moveu item Pedido_de_Caça(Kult) [3435] [61 100 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo INVENTÁRIO slot 11
+19:36:55 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2110x 2109y. Posição do NPC: 2110x 2110y
+19:36:55 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:37:18 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+19:37:30 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+19:38:31 : [28jdi] - Comando "/cmd +readfile Evento"
+19:38:31 : [28jdi] - [Mensagem do servidor]> Este personagem não está conectado.
+19:38:40 : [28jdi] - Comando "/gm +readfile Evento"
+19:38:40 : [28jdi] - [Mensagem do servidor]> FILE Evento READ SUCCESS
+19:38:44 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2117x 2110y. Posição do NPC: 2110x 2110y
+19:38:44 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:38:57 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:38:57 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:02:30 minutos online
+19:40:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 189.27.127.221 Mac: (57:97:A2:B8:71:46). ClientId: 1
+19:40:23 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+19:40:23 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:40:29 : Solicitou ir ao mundo...
+19:40:29 : Recebido pedido para entrar no jogo
+19:40:29 : Recebido informação do personagem completa.
+19:40:29 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1194939000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2090x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[14] - Unicórnio[2381] [105 244 120 60 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[01] - Adaga_do_Duelo(M)[4601] [0 0 0 0 0 0]
+[03] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[07] - Pedido_de_Caça(Kefra)[3436] [61 99 0 0 0 0]
+[08] - Lança_do_Vento(Anct)[2641] [118 9 0 0 0 0]
+[11] - Pedido_de_Caça(Kult)[3435] [61 100 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:40:29 : [28jdi] - Personagem 28jdi enviado ao mundo 2090x 2095y - Canal 2 - Cash da conta: 0. OverPower: 1168
+19:40:29 : [28jdi] - Gold atual: 1194939000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:40:29 : [28jdi] - Enviado informações do personagem
+19:40:30 : [28jdi] - Comando "/day "
+19:40:30 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:40:37 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2107x 2105y. Posição do NPC: 2110x 2110y
+19:40:37 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:40:42 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:40:45 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2112x 2111y. Posição do NPC: 2110x 2110y
+19:40:46 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:41:56 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:41:56 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:01:31 minutos online
+19:43:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 189.27.127.221 Mac: (57:97:A2:B8:71:46). ClientId: 1
+19:43:03 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+19:43:03 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:43:07 : Solicitou ir ao mundo...
+19:43:07 : Recebido pedido para entrar no jogo
+19:43:07 : Recebido informação do personagem completa.
+19:43:07 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1194939000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2099x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[14] - Unicórnio[2381] [105 244 120 60 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[01] - Adaga_do_Duelo(M)[4601] [0 0 0 0 0 0]
+[03] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[07] - Pedido_de_Caça(Kefra)[3436] [61 99 0 0 0 0]
+[08] - Lança_do_Vento(Anct)[2641] [118 9 0 0 0 0]
+[11] - Pedido_de_Caça(Kult)[3435] [61 100 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:43:07 : [28jdi] - Personagem 28jdi enviado ao mundo 2099x 2093y - Canal 2 - Cash da conta: 0. OverPower: 1168
+19:43:07 : [28jdi] - Gold atual: 1194939000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:43:07 : [28jdi] - Enviado informações do personagem
+19:43:08 : [28jdi] - Comando "/day "
+19:43:08 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:43:10 : [28jdi] - Moveu item Unicórnio [2381] [105 244 120 60 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 0
+19:43:12 : [28jdi] - Moveu item Unicórnio [2381] [105 244 120 60 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 14
+19:43:18 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:43:20 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2110x 2104y. Posição do NPC: 2110x 2110y
+19:43:20 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:43:22 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2111x 2110y. Posição do NPC: 2110x 2110y
+19:43:22 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:46:02 : [28jdi] - [Mensagem do servidor]> Deve possuir os itens corretos
+19:46:07 : [28jdi] - Comando "/gm +item 412 61 1"
+19:46:07 : [28jdi] - 28jdi criou o item Poeira_de_Oriharucon [412] [61 1 0 0 0 0]
+19:46:08 : [28jdi] - [Mensagem do servidor]> Troca realizada com sucesso!
+19:46:11 : [28jdi] - Comando "/gm +item 412 61 1"
+19:46:11 : [28jdi] - 28jdi criou o item Poeira_de_Oriharucon [412] [61 1 0 0 0 0]
+19:46:12 : [28jdi] - [Mensagem do servidor]> Troca realizada com sucesso!
+19:46:15 : [28jdi] - Comando "/gm +item 412 61 1"
+19:46:15 : [28jdi] - 28jdi criou o item Poeira_de_Oriharucon [412] [61 1 0 0 0 0]
+19:46:17 : [28jdi] - [Mensagem do servidor]> Troca realizada com sucesso!
+19:46:53 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:46:53 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:03:47 minutos online
+19:47:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 189.27.127.221 Mac: (57:97:A2:B8:71:46). ClientId: 1
+19:47:22 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+19:47:22 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:47:26 : Solicitou ir ao mundo...
+19:47:26 : Recebido pedido para entrar no jogo
+19:47:26 : Recebido informação do personagem completa.
+19:47:26 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1194939000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2088x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[14] - Unicórnio[2381] [105 244 120 60 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Oriharucon[412] [61 2 0 0 0 0]
+[01] - Adaga_do_Duelo(M)[4601] [0 0 0 0 0 0]
+[02] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[03] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[04] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[05] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[06] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[07] - Pedido_de_Caça(Kefra)[3436] [61 99 0 0 0 0]
+[08] - Lança_do_Vento(Anct)[2641] [118 9 0 0 0 0]
+[09] - Poeira_de_Oriharucon[412] [61 3 0 0 0 0]
+[10] - Poeira_de_Oriharucon[412] [61 3 0 0 0 0]
+[11] - Pedido_de_Caça(Kult)[3435] [61 100 0 0 0 0]
+[12] - Poeira_de_Oriharucon[412] [61 3 0 0 0 0]
+[13] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[14] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[15] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[16] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[17] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:47:26 : [28jdi] - Personagem 28jdi enviado ao mundo 2088x 2103y - Canal 2 - Cash da conta: 0. OverPower: 1168
+19:47:26 : [28jdi] - Gold atual: 1194939000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:47:26 : [28jdi] - Enviado informações do personagem
+19:47:27 : [28jdi] - Comando "/day "
+19:47:27 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:47:32 : [28jdi] - Moveu item Poeira_de_Oriharucon [412] [61 4 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo INVENTÁRIO slot 18
+19:47:32 : [28jdi] - Derrubou o item Poeira_de_Oriharucon [412] [61 4 0 0 0 0] em 2094x 2104y - InvType: 1 - InvSlot: 2
+19:47:36 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2104x 2105y. Posição do NPC: 2110x 2110y
+19:47:36 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:47:39 : [28jdi] - [Mensagem do servidor]> Troca realizada com sucesso!
+19:47:42 : [28jdi] - [Mensagem do servidor]> Troca realizada com sucesso!
+19:47:42 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:47:43 : [28jdi] - [Mensagem do servidor]> Troca realizada com sucesso!
+19:47:44 : [28jdi] - [Mensagem do servidor]> Troca realizada com sucesso!
+19:47:46 : [28jdi] - [Mensagem do servidor]> Troca realizada com sucesso!
+19:47:48 : [28jdi] - [Mensagem do servidor]> Troca realizada com sucesso!
+19:48:53 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:48:53 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:01:30 minutos online
+19:50:47 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 189.27.127.221 Mac: (57:97:A2:B8:71:46). ClientId: 1
+19:50:47 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+19:50:47 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:50:54 : Solicitou ir ao mundo...
+19:50:54 : Recebido pedido para entrar no jogo
+19:50:54 : Recebido informação do personagem completa.
+19:50:54 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1194939000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2092x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[14] - Unicórnio[2381] [105 244 120 60 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Oriharucon[412] [61 2 0 0 0 0]
+[01] - Adaga_do_Duelo(M)[4601] [0 0 0 0 0 0]
+[02] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[03] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[04] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[05] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[06] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[07] - Pedido_de_Caça(Kefra)[3436] [61 99 0 0 0 0]
+[08] - Lança_do_Vento(Anct)[2641] [118 9 0 0 0 0]
+[09] - Poeira_de_Oriharucon[412] [61 3 0 0 0 0]
+[10] - Poeira_de_Oriharucon[412] [61 3 0 0 0 0]
+[11] - Pedido_de_Caça(Kult)[3435] [61 100 0 0 0 0]
+[12] - Poeira_de_Oriharucon[412] [61 3 0 0 0 0]
+[13] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[14] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[15] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[16] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[17] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[19] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[20] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[21] - Poeira_de_Oriharucon[412] [61 2 0 0 0 0]
+[22] - Poeira_de_Oriharucon[412] [61 2 0 0 0 0]
+[23] - Poeira_de_Oriharucon[412] [61 2 0 0 0 0]
+[24] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[25] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[26] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[27] - Poeira_de_Oriharucon[412] [61 2 0 0 0 0]
+[28] - Poeira_de_Oriharucon[412] [61 2 0 0 0 0]
+[29] - Poeira_de_Oriharucon[412] [61 5 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:50:54 : [28jdi] - Personagem 28jdi enviado ao mundo 2092x 2097y - Canal 2 - Cash da conta: 0. OverPower: 1168
+19:50:54 : [28jdi] - Gold atual: 1194939000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:50:54 : [28jdi] - Enviado informações do personagem
+19:50:55 : [28jdi] - Comando "/day "
+19:50:55 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:51:02 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2111x 2107y. Posição do NPC: 2110x 2110y
+19:51:02 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:51:06 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:52:13 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:52:13 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:01:25 minutos online
+19:52:31 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 189.27.127.221 Mac: (57:97:A2:B8:71:46). ClientId: 1
+19:52:31 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+19:52:31 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:52:35 : Solicitou ir ao mundo...
+19:52:35 : Recebido pedido para entrar no jogo
+19:52:35 : Recebido informação do personagem completa.
+19:52:35 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1194939000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2090x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[14] - Unicórnio[2381] [105 244 120 60 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Oriharucon[412] [61 2 0 0 0 0]
+[01] - Adaga_do_Duelo(M)[4601] [0 0 0 0 0 0]
+[02] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[03] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[04] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[05] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[06] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[07] - Pedido_de_Caça(Kefra)[3436] [61 99 0 0 0 0]
+[08] - Lança_do_Vento(Anct)[2641] [118 9 0 0 0 0]
+[09] - Poeira_de_Oriharucon[412] [61 3 0 0 0 0]
+[10] - Poeira_de_Oriharucon[412] [61 3 0 0 0 0]
+[11] - Pedido_de_Caça(Kult)[3435] [61 100 0 0 0 0]
+[12] - Poeira_de_Oriharucon[412] [61 3 0 0 0 0]
+[13] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[14] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[15] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[16] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[17] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[19] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[20] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[21] - Poeira_de_Oriharucon[412] [61 2 0 0 0 0]
+[22] - Poeira_de_Oriharucon[412] [61 2 0 0 0 0]
+[23] - Poeira_de_Oriharucon[412] [61 2 0 0 0 0]
+[24] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[25] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[26] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[27] - Poeira_de_Oriharucon[412] [61 2 0 0 0 0]
+[28] - Poeira_de_Oriharucon[412] [61 2 0 0 0 0]
+[29] - Poeira_de_Oriharucon[412] [61 5 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:52:35 : [28jdi] - Personagem 28jdi enviado ao mundo 2090x 2106y - Canal 2 - Cash da conta: 0. OverPower: 1168
+19:52:35 : [28jdi] - Gold atual: 1194939000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:52:35 : [28jdi] - Enviado informações do personagem
+19:52:37 : [28jdi] - Comando "/day "
+19:52:37 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:52:42 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:52:48 : [28jdi] - Comando "/gm +clearinv"
+19:52:48 : [28jdi] - [Mensagem do servidor]> CLEARINV
+19:52:49 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2108x 2107y. Posição do NPC: 2110x 2110y
+19:52:49 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:52:51 : [28jdi] - [Mensagem do servidor]> Deve possuir os itens corretos
+19:54:44 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:54:44 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:02:11 minutos online
+19:55:04 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 189.27.127.221 Mac: (57:97:A2:B8:71:46). ClientId: 1
+19:55:04 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+19:55:04 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:55:08 : Solicitou ir ao mundo...
+19:55:08 : Recebido pedido para entrar no jogo
+19:55:08 : Recebido informação do personagem completa.
+19:55:08 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1194939000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2094x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[14] - Unicórnio[2381] [105 244 120 60 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:55:08 : [28jdi] - Personagem 28jdi enviado ao mundo 2094x 2101y - Canal 2 - Cash da conta: 0. OverPower: 1168
+19:55:08 : [28jdi] - Gold atual: 1194939000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:55:08 : [28jdi] - Enviado informações do personagem
+19:55:09 : [28jdi] - Comando "/day "
+19:55:09 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:55:18 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:55:40 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2111x 2108y. Posição do NPC: 2110x 2110y
+19:55:40 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:55:50 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2109x 2106y. Posição do NPC: 2110x 2110y
+19:55:50 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:56:16 : [28jdi] - Comando "/gm +readfile Evento"
+19:56:16 : [28jdi] - [Mensagem do servidor]> FILE Evento READ SUCCESS
+19:56:18 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2110x 2112y. Posição do NPC: 2110x 2110y
+19:56:18 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:56:37 : [28jdi] - Comando "/gm +readfile Evento"
+19:56:37 : [28jdi] - [Mensagem do servidor]> FILE Evento READ SUCCESS
+19:56:39 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2111x 2110y. Posição do NPC: 2110x 2110y
+19:56:39 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:56:59 : [28jdi] - Comando "/gm +readfile Evento"
+19:56:59 : [28jdi] - [Mensagem do servidor]> FILE Evento READ SUCCESS
+19:57:00 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2111x 2114y. Posição do NPC: 2110x 2110y
+19:57:00 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:57:11 : [28jdi] - Comando "/gm +readfile Evento"
+19:57:11 : [28jdi] - [Mensagem do servidor]> FILE Evento READ SUCCESS
+19:57:12 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2111x 2114y. Posição do NPC: 2110x 2110y
+19:57:12 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:57:40 : [28jdi] - Comando "/gm +readfile Evento"
+19:57:40 : [28jdi] - [Mensagem do servidor]> FILE Evento READ SUCCESS
+19:57:43 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2111x 2111y. Posição do NPC: 2110x 2110y
+19:57:43 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:57:44 : [28jdi] - [Mensagem do servidor]> Deve possuir os itens corretos
+19:57:46 : [28jdi] - [Mensagem do servidor]> Deve possuir os itens corretos
+19:57:47 : [28jdi] - [Mensagem do servidor]> Deve possuir os itens corretos
+19:58:11 : [28jdi] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2110x 2112y. Posição do NPC: 2110x 2110y
+19:58:11 : [28jdi] - [Mensagem do servidor]> Troca1 - Troca1
+19:58:12 : [28jdi] - [Mensagem do servidor]> Deve possuir os itens corretos
+20:25:09 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1194939000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:43 horas
+Posição atual: 2113x 2108y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[14] - Unicórnio[2381] [105 244 120 60 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:29:50 : [28jdi] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:29:50 : [28jdi] - 1 Personagem foi desconectado. Permaneceu 00:34:21 minutos online

@@ -1,0 +1,3474 @@
+
+18:15:31 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:15:32 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+18:15:32 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+18:15:32 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:15:37 : Solicitou ir ao mundo...
+18:15:37 : Recebido pedido para entrar no jogo
+18:15:37 : Recebido informação do personagem completa.
+18:15:37 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999999960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2097x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Almas_Rúnicas[4850] [0 0 0 0 0 0]
+[01] - Almas_Rúnicas[4850] [96 0 0 0 0 0]
+[02] - Almas_Rúnicas[4850] [96 1 0 0 0 0]
+[03] - Brinco_de_Titã[592] [43 230 2 25 0 0]
+[04] - Ansuz[5110] [0 0 0 0 0 0]
+[05] - Uraz[5111] [0 0 0 0 0 0]
+[06] - Thurisaz[5112] [0 0 0 0 0 0]
+[07] - Fehu[5113] [0 0 0 0 0 0]
+[08] - Raidho[5114] [0 0 0 0 0 0]
+[09] - Kenaz[5115] [0 0 0 0 0 0]
+[10] - Naudhiz[5116] [0 0 0 0 0 0]
+[11] - Gebo[5117] [0 0 0 0 0 0]
+[12] - Gebo[5117] [0 0 0 0 0 0]
+[13] - Wunjo[5118] [0 0 0 0 0 0]
+[14] - Hagalaz[5119] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:15:37 : [28jdi] - Personagem 28jdi enviado ao mundo 2097x 2102y - Canal 2 - Cash da conta: 0. OverPower: 800
+18:15:37 : [28jdi] - Gold atual: 999999960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+18:15:37 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+18:15:37 : [28jdi] - Enviado informações do personagem
+18:15:38 : [28jdi] - Comando "/day "
+18:15:38 : [28jdi] - [Mensagem do servidor]> !#11 2
+18:15:38 : [28jdi] - Comando "/day "
+18:15:38 : [28jdi] - [Mensagem do servidor]> !#11 2
+18:15:47 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:16:22 : [28jdi] - Comando "/cmd +readfile PvpPremium"
+18:16:22 : [28jdi] - [Mensagem do servidor]> Este personagem não está conectado.
+18:16:28 : [28jdi] - Comando "/gm +readfile PvpPremium"
+18:16:28 : [28jdi] - [Mensagem do servidor]> FILE PvpPremium READ SUCCESS
+18:16:35 : [28jdi] - Comando "/gm +notun"
+18:16:35 : [28jdi] - [Mensagem do servidor]: un
+18:16:38 : [28jdi] - Comando "/gm +noatun"
+18:16:38 : [28jdi] - Teleportado para a posição 963 1748
+18:16:47 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+18:16:59 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+18:17:02 : [28jdi] - Comando "/time "
+18:17:02 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:17:02 01-11-2020 939x 1763y - Canal 2
+18:17:03 : [28jdi] - Comando "/time "
+18:17:03 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:17:03 01-11-2020 939x 1763y - Canal 2
+18:17:03 : [28jdi] - Comando "/time "
+18:17:03 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:17:03 01-11-2020 939x 1763y - Canal 2
+18:17:04 : [28jdi] - Comando "/time "
+18:17:04 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:17:04 01-11-2020 939x 1763y - Canal 2
+18:17:16 : [28jdi] - Comando "/time "
+18:17:16 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:17:16 01-11-2020 939x 1763y - Canal 2
+18:17:16 : [28jdi] - Comando "/time "
+18:17:16 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:17:16 01-11-2020 939x 1763y - Canal 2
+18:17:17 : [28jdi] - Comando "/time "
+18:17:17 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:17:17 01-11-2020 939x 1763y - Canal 2
+18:19:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:19:40 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:19:40 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:19:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+18:19:40 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:19:40 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:19:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:19:40 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:19:40 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:19:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+18:19:40 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:19:40 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:19:42 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:19:42 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+18:19:42 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+18:19:42 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:19:45 : Solicitou ir ao mundo...
+18:19:45 : Recebido pedido para entrar no jogo
+18:19:45 : Recebido informação do personagem completa.
+18:19:45 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999999960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2088x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Almas_Rúnicas[4850] [0 0 0 0 0 0]
+[01] - Almas_Rúnicas[4850] [96 0 0 0 0 0]
+[02] - Almas_Rúnicas[4850] [96 1 0 0 0 0]
+[03] - Brinco_de_Titã[592] [43 230 2 25 0 0]
+[04] - Ansuz[5110] [0 0 0 0 0 0]
+[05] - Uraz[5111] [0 0 0 0 0 0]
+[06] - Thurisaz[5112] [0 0 0 0 0 0]
+[07] - Fehu[5113] [0 0 0 0 0 0]
+[08] - Raidho[5114] [0 0 0 0 0 0]
+[09] - Kenaz[5115] [0 0 0 0 0 0]
+[10] - Naudhiz[5116] [0 0 0 0 0 0]
+[11] - Gebo[5117] [0 0 0 0 0 0]
+[12] - Gebo[5117] [0 0 0 0 0 0]
+[13] - Wunjo[5118] [0 0 0 0 0 0]
+[14] - Hagalaz[5119] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:19:45 : [28jdi] - Personagem 28jdi enviado ao mundo 2088x 2100y - Canal 2 - Cash da conta: 0. OverPower: 800
+18:19:45 : [28jdi] - Gold atual: 999999960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+18:19:45 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+18:19:45 : [28jdi] - Enviado informações do personagem
+18:19:47 : [28jdi] - Comando "/day "
+18:19:47 : [28jdi] - [Mensagem do servidor]> !#11 2
+18:19:47 : [28jdi] - Comando "/day "
+18:19:47 : [28jdi] - [Mensagem do servidor]> !#11 2
+18:19:53 : [28jdi] - Comando "/time "
+18:19:53 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:19:53 01-11-2020 2102x 2102y - Canal 2
+18:19:54 : [28jdi] - Comando "/time "
+18:19:54 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:19:54 01-11-2020 2107x 2103y - Canal 2
+18:19:54 : [28jdi] - Comando "/time "
+18:19:54 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:19:54 01-11-2020 2107x 2103y - Canal 2
+18:19:55 : [28jdi] - Comando "/time "
+18:19:55 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:19:55 01-11-2020 2107x 2103y - Canal 2
+18:19:55 : [28jdi] - Comando "/time "
+18:19:55 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:19:55 01-11-2020 2107x 2103y - Canal 2
+18:19:56 : [28jdi] - Comando "/time "
+18:19:56 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:19:56 01-11-2020 2107x 2103y - Canal 2
+18:19:56 : [28jdi] - Comando "/time "
+18:19:56 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:19:56 01-11-2020 2107x 2103y - Canal 2
+18:19:57 : [28jdi] - Comando "/time "
+18:19:57 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:19:57 01-11-2020 2107x 2103y - Canal 2
+18:19:57 : [28jdi] - Comando "/time "
+18:19:57 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:19:57 01-11-2020 2107x 2103y - Canal 2
+18:19:57 : [28jdi] - Comando "/time "
+18:19:57 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:19:57 01-11-2020 2107x 2103y - Canal 2
+18:19:58 : [28jdi] - Comando "/time "
+18:19:58 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:19:58 01-11-2020 2107x 2103y - Canal 2
+18:19:58 : [28jdi] - Comando "/time "
+18:19:58 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:19:58 01-11-2020 2107x 2103y - Canal 2
+18:19:59 : [28jdi] - Comando "/time "
+18:19:59 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:19:59 01-11-2020 2107x 2103y - Canal 2
+18:19:59 : [28jdi] - Comando "/time "
+18:19:59 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:19:59 01-11-2020 2107x 2103y - Canal 2
+18:19:59 : [28jdi] - Comando "/time "
+18:19:59 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:19:59 01-11-2020 2107x 2103y - Canal 2
+18:19:59 : [28jdi] - Comando "/time "
+18:19:59 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:19:59 01-11-2020 2107x 2103y - Canal 2
+18:20:00 : [28jdi] - Comando "/time "
+18:20:00 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:20:00 01-11-2020 2107x 2103y - Canal 2
+18:20:01 : [28jdi] - Comando "/time "
+18:20:01 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:20:01 01-11-2020 2107x 2103y - Canal 2
+18:20:02 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:21:02 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+18:21:14 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+18:25:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:25:17 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:25:17 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:25:18 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:25:18 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+18:25:18 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+18:25:18 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:25:21 : Solicitou ir ao mundo...
+18:25:21 : Recebido pedido para entrar no jogo
+18:25:21 : Recebido informação do personagem completa.
+18:25:21 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999999960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2087x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Almas_Rúnicas[4850] [0 0 0 0 0 0]
+[01] - Almas_Rúnicas[4850] [96 0 0 0 0 0]
+[02] - Almas_Rúnicas[4850] [96 1 0 0 0 0]
+[03] - Brinco_de_Titã[592] [43 230 2 25 0 0]
+[04] - Ansuz[5110] [0 0 0 0 0 0]
+[05] - Uraz[5111] [0 0 0 0 0 0]
+[06] - Thurisaz[5112] [0 0 0 0 0 0]
+[07] - Fehu[5113] [0 0 0 0 0 0]
+[08] - Raidho[5114] [0 0 0 0 0 0]
+[09] - Kenaz[5115] [0 0 0 0 0 0]
+[10] - Naudhiz[5116] [0 0 0 0 0 0]
+[11] - Gebo[5117] [0 0 0 0 0 0]
+[12] - Gebo[5117] [0 0 0 0 0 0]
+[13] - Wunjo[5118] [0 0 0 0 0 0]
+[14] - Hagalaz[5119] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:25:21 : [28jdi] - Personagem 28jdi enviado ao mundo 2087x 2097y - Canal 2 - Cash da conta: 0. OverPower: 800
+18:25:21 : [28jdi] - Gold atual: 999999960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+18:25:21 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+18:25:21 : [28jdi] - Enviado informações do personagem
+18:25:23 : [28jdi] - Comando "/day "
+18:25:23 : [28jdi] - [Mensagem do servidor]> !#11 2
+18:25:23 : [28jdi] - Comando "/day "
+18:25:23 : [28jdi] - [Mensagem do servidor]> !#11 2
+18:25:34 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:25:37 : [28jdi] - Comando "/time "
+18:25:37 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:37 01-11-2020 2100x 2102y - Canal 2
+18:25:38 : [28jdi] - Comando "/time "
+18:25:38 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:38 01-11-2020 2100x 2102y - Canal 2
+18:25:39 : [28jdi] - Comando "/time "
+18:25:39 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:39 01-11-2020 2100x 2102y - Canal 2
+18:25:43 : [28jdi] - Comando "/time "
+18:25:43 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:43 01-11-2020 2105x 2101y - Canal 2
+18:25:44 : [28jdi] - Comando "/time "
+18:25:44 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:44 01-11-2020 2105x 2101y - Canal 2
+18:25:44 : [28jdi] - Comando "/time "
+18:25:44 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:44 01-11-2020 2105x 2101y - Canal 2
+18:25:45 : [28jdi] - Comando "/time "
+18:25:45 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:45 01-11-2020 2105x 2101y - Canal 2
+18:25:45 : [28jdi] - Comando "/time "
+18:25:45 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:45 01-11-2020 2105x 2101y - Canal 2
+18:25:45 : [28jdi] - Comando "/time "
+18:25:45 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:45 01-11-2020 2105x 2101y - Canal 2
+18:25:45 : [28jdi] - Comando "/time "
+18:25:45 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:45 01-11-2020 2105x 2101y - Canal 2
+18:25:46 : [28jdi] - Comando "/time "
+18:25:46 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:46 01-11-2020 2105x 2101y - Canal 2
+18:25:46 : [28jdi] - Comando "/time "
+18:25:46 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:46 01-11-2020 2105x 2101y - Canal 2
+18:25:46 : [28jdi] - Comando "/time "
+18:25:46 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:46 01-11-2020 2105x 2101y - Canal 2
+18:25:46 : [28jdi] - Comando "/time "
+18:25:46 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:46 01-11-2020 2105x 2101y - Canal 2
+18:25:47 : [28jdi] - Comando "/time "
+18:25:47 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:47 01-11-2020 2105x 2101y - Canal 2
+18:25:47 : [28jdi] - Comando "/time "
+18:25:47 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:47 01-11-2020 2105x 2101y - Canal 2
+18:25:47 : [28jdi] - Comando "/time "
+18:25:47 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:47 01-11-2020 2105x 2101y - Canal 2
+18:25:47 : [28jdi] - Comando "/time "
+18:25:47 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:25:47 01-11-2020 2105x 2101y - Canal 2
+18:26:06 : [28jdi] - Comando "/time "
+18:26:06 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:26:06 01-11-2020 2105x 2102y - Canal 2
+18:26:07 : [28jdi] - Comando "/time "
+18:26:07 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:26:07 01-11-2020 2105x 2102y - Canal 2
+18:26:22 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+18:26:34 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+18:26:59 : [28jdi] - Comando "/time "
+18:26:59 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:26:59 01-11-2020 2103x 2102y - Canal 2
+18:27:00 : [28jdi] - Comando "/time "
+18:27:00 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:27:00 01-11-2020 2103x 2102y - Canal 2
+18:27:00 : [28jdi] - [Mensagem do servidor]: O PvP Premium será iniciado em 3 minutos
+18:27:06 : [28jdi] - Comando "/gm +noatun"
+18:27:06 : [28jdi] - Teleportado para a posição 963 1748
+18:27:46 : [28jdi] - Comando "/time "
+18:27:46 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:27:46 01-11-2020 920x 1766y - Canal 2
+18:27:47 : [28jdi] - Comando "/time "
+18:27:47 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:27:47 01-11-2020 920x 1766y - Canal 2
+18:27:48 : [28jdi] - Comando "/time "
+18:27:48 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:27:48 01-11-2020 920x 1766y - Canal 2
+18:27:48 : [28jdi] - Comando "/time "
+18:27:48 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:27:48 01-11-2020 920x 1766y - Canal 2
+18:27:48 : [28jdi] - Comando "/time "
+18:27:48 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:27:48 01-11-2020 920x 1766y - Canal 2
+18:28:26 : [28jdi] - Comando "/time "
+18:28:26 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:28:26 01-11-2020 920x 1766y - Canal 2
+18:28:26 : [28jdi] - Comando "/time "
+18:28:26 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:28:26 01-11-2020 920x 1766y - Canal 2
+18:28:27 : [28jdi] - Comando "/time "
+18:28:27 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:28:27 01-11-2020 920x 1766y - Canal 2
+18:28:28 : [28jdi] - Comando "/time "
+18:28:28 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:28:28 01-11-2020 920x 1766y - Canal 2
+18:28:28 : [28jdi] - Comando "/time "
+18:28:28 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:28:28 01-11-2020 920x 1766y - Canal 2
+18:28:29 : [28jdi] - Comando "/time "
+18:28:29 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:28:29 01-11-2020 920x 1766y - Canal 2
+18:28:29 : [28jdi] - Comando "/time "
+18:28:29 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:28:29 01-11-2020 920x 1766y - Canal 2
+18:28:29 : [28jdi] - Comando "/time "
+18:28:29 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:28:29 01-11-2020 920x 1766y - Canal 2
+18:28:30 : [28jdi] - Comando "/time "
+18:28:30 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:28:30 01-11-2020 920x 1766y - Canal 2
+18:29:00 : [28jdi] - [Mensagem do servidor]: O PvP Premium será iniciado em 1 minutos
+18:29:08 : [28jdi] - Comando "/time "
+18:29:08 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:08 01-11-2020 920x 1767y - Canal 2
+18:29:09 : [28jdi] - Comando "/time "
+18:29:09 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:09 01-11-2020 920x 1767y - Canal 2
+18:29:09 : [28jdi] - Comando "/time "
+18:29:09 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:09 01-11-2020 920x 1767y - Canal 2
+18:29:09 : [28jdi] - Comando "/time "
+18:29:09 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:09 01-11-2020 920x 1767y - Canal 2
+18:29:54 : [28jdi] - Comando "/time "
+18:29:54 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:54 01-11-2020 920x 1767y - Canal 2
+18:29:55 : [28jdi] - Comando "/time "
+18:29:55 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:55 01-11-2020 920x 1767y - Canal 2
+18:29:55 : [28jdi] - Comando "/time "
+18:29:55 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:55 01-11-2020 920x 1767y - Canal 2
+18:29:56 : [28jdi] - Comando "/time "
+18:29:56 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:56 01-11-2020 920x 1767y - Canal 2
+18:29:56 : [28jdi] - Comando "/time "
+18:29:56 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:56 01-11-2020 920x 1767y - Canal 2
+18:29:56 : [28jdi] - Comando "/time "
+18:29:56 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:56 01-11-2020 920x 1767y - Canal 2
+18:29:56 : [28jdi] - Comando "/time "
+18:29:56 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:56 01-11-2020 920x 1767y - Canal 2
+18:29:57 : [28jdi] - Comando "/time "
+18:29:57 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:57 01-11-2020 920x 1767y - Canal 2
+18:29:57 : [28jdi] - Comando "/time "
+18:29:57 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:57 01-11-2020 920x 1767y - Canal 2
+18:29:57 : [28jdi] - Comando "/time "
+18:29:57 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:57 01-11-2020 920x 1767y - Canal 2
+18:29:58 : [28jdi] - Comando "/time "
+18:29:58 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:58 01-11-2020 920x 1767y - Canal 2
+18:29:58 : [28jdi] - Comando "/time "
+18:29:58 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:58 01-11-2020 920x 1767y - Canal 2
+18:29:58 : [28jdi] - Comando "/time "
+18:29:58 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:58 01-11-2020 920x 1767y - Canal 2
+18:29:58 : [28jdi] - Comando "/time "
+18:29:58 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:58 01-11-2020 920x 1767y - Canal 2
+18:29:59 : [28jdi] - Comando "/time "
+18:29:59 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:59 01-11-2020 920x 1767y - Canal 2
+18:29:59 : [28jdi] - Comando "/time "
+18:29:59 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:59 01-11-2020 920x 1767y - Canal 2
+18:29:59 : [28jdi] - Comando "/time "
+18:29:59 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:59 01-11-2020 920x 1767y - Canal 2
+18:29:59 : [28jdi] - Comando "/time "
+18:29:59 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:29:59 01-11-2020 920x 1767y - Canal 2
+18:30:00 : [28jdi] - Comando "/time "
+18:30:00 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:30:00 01-11-2020 920x 1767y - Canal 2
+18:30:00 : [28jdi] - [Mensagem do servidor]: O PvP Premium foi iniciado em Noatun!
+18:30:00 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 920x 1767y. Teleportado para "Noatun PvP"
+18:30:00 : [28jdi] - Teleportado para a posição 939 1774
+18:30:00 : [28jdi] - Comando "/time "
+18:30:00 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:30:00 01-11-2020 939x 1774y - Canal 2
+18:30:19 : [28jdi] - [Mensagem do servidor]: O PvP Premium foi finalizado!
+18:30:19 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 916x 1767y. Teleportado para "Noatun PvP"
+18:30:19 : [28jdi] - Teleportado para a posição 939 1774
+18:30:19 : [28jdi] - [Mensagem do servidor]: O PvP Premium foi iniciado em Noatun!
+18:31:16 : [28jdi] - Comando "/time "
+18:31:16 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:31:16 01-11-2020 929x 1766y - Canal 2
+18:31:17 : [28jdi] - Comando "/time "
+18:31:17 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:31:17 01-11-2020 929x 1766y - Canal 2
+18:41:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:41:08 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:41:08 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:41:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+18:41:08 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:41:08 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:41:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:41:08 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+18:41:08 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+18:41:08 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:41:15 : Solicitou ir ao mundo...
+18:41:15 : Recebido pedido para entrar no jogo
+18:41:15 : Recebido informação do personagem completa.
+18:41:15 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999999960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2096x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Almas_Rúnicas[4850] [0 0 0 0 0 0]
+[01] - Almas_Rúnicas[4850] [96 0 0 0 0 0]
+[02] - Almas_Rúnicas[4850] [96 1 0 0 0 0]
+[03] - Brinco_de_Titã[592] [43 230 2 25 0 0]
+[04] - Ansuz[5110] [0 0 0 0 0 0]
+[05] - Uraz[5111] [0 0 0 0 0 0]
+[06] - Thurisaz[5112] [0 0 0 0 0 0]
+[07] - Fehu[5113] [0 0 0 0 0 0]
+[08] - Raidho[5114] [0 0 0 0 0 0]
+[09] - Kenaz[5115] [0 0 0 0 0 0]
+[10] - Naudhiz[5116] [0 0 0 0 0 0]
+[11] - Gebo[5117] [0 0 0 0 0 0]
+[12] - Gebo[5117] [0 0 0 0 0 0]
+[13] - Wunjo[5118] [0 0 0 0 0 0]
+[14] - Hagalaz[5119] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:41:15 : [28jdi] - Personagem 28jdi enviado ao mundo 2096x 2100y - Canal 2 - Cash da conta: 0. OverPower: 800
+18:41:15 : [28jdi] - Gold atual: 999999960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+18:41:15 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+18:41:15 : [28jdi] - Enviado informações do personagem
+18:41:16 : [28jdi] - Comando "/day "
+18:41:16 : [28jdi] - [Mensagem do servidor]> !#11 2
+18:41:17 : [28jdi] - Comando "/day "
+18:41:17 : [28jdi] - [Mensagem do servidor]> !#11 2
+18:41:22 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:41:52 : [28jdi] - Comando "/time "
+18:41:52 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:41:52 01-11-2020 2107x 2101y - Canal 2
+18:41:55 : [28jdi] - Comando "/gm +noatun"
+18:41:55 : [28jdi] - Teleportado para a posição 963 1748
+18:42:10 : [28jdi] - Comando "/gm +readfile PvpPremium"
+18:42:10 : [28jdi] - [Mensagem do servidor]> FILE PvpPremium READ SUCCESS
+18:42:13 : [28jdi] - Comando "/time "
+18:42:13 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:42:13 01-11-2020 930x 1766y - Canal 2
+18:42:14 : [28jdi] - Comando "/time "
+18:42:14 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:42:14 01-11-2020 930x 1766y - Canal 2
+18:42:14 : [28jdi] - Comando "/time "
+18:42:14 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:42:14 01-11-2020 930x 1766y - Canal 2
+18:42:15 : [28jdi] - Comando "/time "
+18:42:15 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:42:15 01-11-2020 930x 1766y - Canal 2
+18:42:15 : [28jdi] - Comando "/time "
+18:42:15 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:42:15 01-11-2020 930x 1766y - Canal 2
+18:42:15 : [28jdi] - Comando "/time "
+18:42:15 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:42:15 01-11-2020 930x 1766y - Canal 2
+18:42:16 : [28jdi] - Comando "/time "
+18:42:16 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:42:16 01-11-2020 930x 1766y - Canal 2
+18:42:16 : [28jdi] - Comando "/time "
+18:42:16 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:42:16 01-11-2020 930x 1766y - Canal 2
+18:42:16 : [28jdi] - Comando "/time "
+18:42:16 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:42:16 01-11-2020 930x 1766y - Canal 2
+18:42:17 : [28jdi] - Comando "/time "
+18:42:17 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:42:17 01-11-2020 930x 1766y - Canal 2
+18:42:17 : [28jdi] - Comando "/time "
+18:42:17 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:42:17 01-11-2020 930x 1766y - Canal 2
+18:42:22 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+18:42:34 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+18:43:09 : [28jdi] - Comando "/time "
+18:43:09 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:09 01-11-2020 921x 1767y - Canal 2
+18:43:10 : [28jdi] - Comando "/time "
+18:43:10 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:10 01-11-2020 921x 1767y - Canal 2
+18:43:11 : [28jdi] - Comando "/time "
+18:43:11 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:11 01-11-2020 921x 1767y - Canal 2
+18:43:11 : [28jdi] - Comando "/time "
+18:43:11 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:11 01-11-2020 921x 1767y - Canal 2
+18:43:24 : [28jdi] - Comando "/time "
+18:43:24 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:24 01-11-2020 923x 1765y - Canal 2
+18:43:25 : [28jdi] - Comando "/time "
+18:43:25 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:25 01-11-2020 923x 1765y - Canal 2
+18:43:26 : [28jdi] - Comando "/time "
+18:43:26 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:26 01-11-2020 923x 1765y - Canal 2
+18:43:26 : [28jdi] - Comando "/time "
+18:43:26 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:26 01-11-2020 923x 1765y - Canal 2
+18:43:26 : [28jdi] - Comando "/time "
+18:43:26 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:26 01-11-2020 923x 1765y - Canal 2
+18:43:26 : [28jdi] - Comando "/time "
+18:43:26 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:26 01-11-2020 923x 1765y - Canal 2
+18:43:27 : [28jdi] - Comando "/time "
+18:43:27 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:27 01-11-2020 923x 1765y - Canal 2
+18:43:27 : [28jdi] - Comando "/time "
+18:43:27 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:27 01-11-2020 923x 1765y - Canal 2
+18:43:27 : [28jdi] - Comando "/time "
+18:43:27 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:27 01-11-2020 923x 1765y - Canal 2
+18:43:27 : [28jdi] - Comando "/time "
+18:43:27 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:27 01-11-2020 923x 1765y - Canal 2
+18:43:28 : [28jdi] - Comando "/time "
+18:43:28 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:28 01-11-2020 923x 1765y - Canal 2
+18:43:28 : [28jdi] - Comando "/time "
+18:43:28 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:28 01-11-2020 923x 1765y - Canal 2
+18:43:28 : [28jdi] - Comando "/time "
+18:43:28 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:28 01-11-2020 923x 1765y - Canal 2
+18:43:28 : [28jdi] - Comando "/time "
+18:43:28 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:28 01-11-2020 923x 1765y - Canal 2
+18:43:28 : [28jdi] - Comando "/time "
+18:43:28 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:28 01-11-2020 923x 1765y - Canal 2
+18:43:29 : [28jdi] - Comando "/time "
+18:43:29 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:29 01-11-2020 923x 1765y - Canal 2
+18:43:29 : [28jdi] - Comando "/time "
+18:43:29 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:29 01-11-2020 923x 1765y - Canal 2
+18:43:29 : [28jdi] - Comando "/time "
+18:43:29 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:29 01-11-2020 923x 1765y - Canal 2
+18:43:46 : [28jdi] - Comando "/time "
+18:43:46 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:46 01-11-2020 920x 1767y - Canal 2
+18:43:47 : [28jdi] - Comando "/time "
+18:43:47 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:47 01-11-2020 920x 1767y - Canal 2
+18:43:47 : [28jdi] - Comando "/time "
+18:43:47 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:47 01-11-2020 920x 1767y - Canal 2
+18:43:47 : [28jdi] - Comando "/time "
+18:43:47 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:47 01-11-2020 920x 1767y - Canal 2
+18:43:47 : [28jdi] - Comando "/time "
+18:43:47 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:47 01-11-2020 920x 1767y - Canal 2
+18:43:48 : [28jdi] - Comando "/time "
+18:43:48 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:48 01-11-2020 920x 1767y - Canal 2
+18:43:48 : [28jdi] - Comando "/time "
+18:43:48 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:48 01-11-2020 920x 1767y - Canal 2
+18:43:48 : [28jdi] - Comando "/time "
+18:43:48 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:48 01-11-2020 920x 1767y - Canal 2
+18:43:48 : [28jdi] - Comando "/time "
+18:43:48 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:48 01-11-2020 920x 1767y - Canal 2
+18:43:48 : [28jdi] - Comando "/time "
+18:43:48 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:48 01-11-2020 920x 1767y - Canal 2
+18:43:49 : [28jdi] - Comando "/time "
+18:43:49 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:49 01-11-2020 920x 1767y - Canal 2
+18:43:49 : [28jdi] - Comando "/time "
+18:43:49 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:49 01-11-2020 920x 1767y - Canal 2
+18:43:49 : [28jdi] - Comando "/time "
+18:43:49 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:49 01-11-2020 920x 1767y - Canal 2
+18:43:49 : [28jdi] - Comando "/time "
+18:43:49 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:49 01-11-2020 920x 1767y - Canal 2
+18:43:58 : [28jdi] - Comando "/time "
+18:43:58 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:58 01-11-2020 920x 1767y - Canal 2
+18:43:59 : [28jdi] - Comando "/time "
+18:43:59 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:59 01-11-2020 920x 1767y - Canal 2
+18:43:59 : [28jdi] - Comando "/time "
+18:43:59 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:43:59 01-11-2020 920x 1767y - Canal 2
+18:44:00 : [28jdi] - [Mensagem do servidor]: O PvP Premium foi iniciado em Noatun!
+18:44:00 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 920x 1767y. Teleportado para "Noatun PvP"
+18:44:00 : [28jdi] - Teleportado para a posição 939 1774
+18:44:06 : [28jdi] - Comando "/gm +clearinv"
+18:44:06 : [28jdi] - [Mensagem do servidor]> CLEARINV
+18:44:15 : [28jdi] - Comando "/time "
+18:44:15 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:15 01-11-2020 916x 1767y - Canal 2
+18:44:15 : [28jdi] - Comando "/time "
+18:44:15 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:15 01-11-2020 916x 1767y - Canal 2
+18:44:16 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+18:44:17 : [28jdi] - Comando "/time "
+18:44:17 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:17 01-11-2020 916x 1767y - Canal 2
+18:44:26 : [28jdi] - Comando "/time "
+18:44:26 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:26 01-11-2020 916x 1767y - Canal 2
+18:44:27 : [28jdi] - Comando "/time "
+18:44:27 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:27 01-11-2020 916x 1767y - Canal 2
+18:44:28 : [28jdi] - Comando "/time "
+18:44:28 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:28 01-11-2020 916x 1767y - Canal 2
+18:44:28 : [28jdi] - Comando "/time "
+18:44:29 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:29 01-11-2020 916x 1767y - Canal 2
+18:44:29 : [28jdi] - Comando "/time "
+18:44:29 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:29 01-11-2020 916x 1767y - Canal 2
+18:44:30 : [28jdi] - Comando "/time "
+18:44:30 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:30 01-11-2020 916x 1767y - Canal 2
+18:44:30 : [28jdi] - Comando "/time "
+18:44:30 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:30 01-11-2020 916x 1767y - Canal 2
+18:44:31 : [28jdi] - Comando "/time "
+18:44:31 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:31 01-11-2020 916x 1767y - Canal 2
+18:44:31 : [28jdi] - Comando "/time "
+18:44:31 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:31 01-11-2020 916x 1767y - Canal 2
+18:44:32 : [28jdi] - Comando "/time "
+18:44:32 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:32 01-11-2020 916x 1767y - Canal 2
+18:44:33 : [28jdi] - Comando "/time "
+18:44:33 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:33 01-11-2020 916x 1767y - Canal 2
+18:44:34 : [28jdi] - Comando "/time "
+18:44:34 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:34 01-11-2020 916x 1767y - Canal 2
+18:44:34 : [28jdi] - Comando "/time "
+18:44:34 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:34 01-11-2020 916x 1767y - Canal 2
+18:44:36 : [28jdi] - Comando "/time "
+18:44:36 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:36 01-11-2020 916x 1767y - Canal 2
+18:44:36 : [28jdi] - Comando "/time "
+18:44:36 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:36 01-11-2020 916x 1767y - Canal 2
+18:44:37 : [28jdi] - Comando "/time "
+18:44:37 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:37 01-11-2020 916x 1767y - Canal 2
+18:44:37 : [28jdi] - Comando "/time "
+18:44:37 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:37 01-11-2020 916x 1767y - Canal 2
+18:44:39 : [28jdi] - Comando "/time "
+18:44:39 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:39 01-11-2020 916x 1767y - Canal 2
+18:44:40 : [28jdi] - Comando "/time "
+18:44:40 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:40 01-11-2020 916x 1767y - Canal 2
+18:44:41 : [28jdi] - Comando "/time "
+18:44:41 : [28jdi] - [Mensagem do servidor]> [28jdi] - 18:44:41 01-11-2020 916x 1767y - Canal 2
+18:44:47 : [28jdi] - [Mensagem do servidor]: 28jdi venceu o PvP Premium!
+18:44:47 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 916x 1767y. Teleportado para "Noatun PvP"
+18:44:47 : [28jdi] - Teleportado para a posição 939 1774
+19:05:25 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+19:05:25 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+19:05:25 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+19:05:25 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+19:05:25 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+19:05:25 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+19:05:25 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+19:05:25 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+19:05:25 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:05:25 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:05:48 : Solicitou ir ao mundo...
+19:05:48 : Recebido pedido para entrar no jogo
+19:05:48 : Recebido informação do personagem completa.
+19:05:48 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999999960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:23 horas
+Posição atual: 2098x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:05:48 : [28jdi] - Personagem 28jdi enviado ao mundo 2098x 2099y - Canal 2 - Cash da conta: 0. OverPower: 800
+19:05:48 : [28jdi] - Gold atual: 999999960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:05:48 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+19:05:48 : [28jdi] - Enviado informações do personagem
+19:05:49 : [28jdi] - Comando "/day "
+19:05:49 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:05:49 : [28jdi] - Comando "/day "
+19:05:49 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:05:49 : [28jdi] - Comando "/day "
+19:05:49 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:05:53 : [28jdi] - Comando "/time "
+19:05:53 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:05:53 01-11-2020 2105x 2102y - Canal 2
+19:05:54 : [28jdi] - Comando "/time "
+19:05:54 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:05:54 01-11-2020 2105x 2102y - Canal 2
+19:05:58 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:06:09 : [28jdi] - Comando "/gm +readfile PvpPremium"
+19:06:09 : [28jdi] - [Mensagem do servidor]> FILE PvpPremium READ SUCCESS
+19:06:11 : [28jdi] - Comando "/gm +noatun"
+19:06:11 : [28jdi] - Teleportado para a posição 963 1748
+19:06:12 : [28jdi] - Comando "/time "
+19:06:12 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:12 01-11-2020 963x 1748y - Canal 2
+19:06:12 : [28jdi] - Comando "/time "
+19:06:12 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:12 01-11-2020 963x 1748y - Canal 2
+19:06:13 : [28jdi] - Comando "/time "
+19:06:13 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:13 01-11-2020 963x 1748y - Canal 2
+19:06:13 : [28jdi] - Comando "/time "
+19:06:13 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:13 01-11-2020 963x 1748y - Canal 2
+19:06:13 : [28jdi] - Comando "/time "
+19:06:13 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:13 01-11-2020 963x 1748y - Canal 2
+19:06:13 : [28jdi] - Comando "/time "
+19:06:13 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:13 01-11-2020 963x 1748y - Canal 2
+19:06:46 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+19:06:49 : [28jdi] - Comando "/time "
+19:06:49 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:49 01-11-2020 922x 1767y - Canal 2
+19:06:49 : [28jdi] - Comando "/time "
+19:06:49 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:49 01-11-2020 922x 1767y - Canal 2
+19:06:50 : [28jdi] - Comando "/time "
+19:06:50 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:50 01-11-2020 922x 1767y - Canal 2
+19:06:50 : [28jdi] - Comando "/time "
+19:06:50 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:50 01-11-2020 922x 1767y - Canal 2
+19:06:50 : [28jdi] - Comando "/time "
+19:06:50 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:50 01-11-2020 922x 1767y - Canal 2
+19:06:51 : [28jdi] - Comando "/time "
+19:06:51 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:51 01-11-2020 922x 1767y - Canal 2
+19:06:51 : [28jdi] - Comando "/time "
+19:06:51 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:51 01-11-2020 922x 1767y - Canal 2
+19:06:51 : [28jdi] - Comando "/time "
+19:06:51 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:51 01-11-2020 922x 1767y - Canal 2
+19:06:52 : [28jdi] - Comando "/time "
+19:06:52 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:52 01-11-2020 922x 1767y - Canal 2
+19:06:52 : [28jdi] - Comando "/time "
+19:06:52 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:52 01-11-2020 922x 1767y - Canal 2
+19:06:54 : [28jdi] - Comando "/time "
+19:06:54 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:54 01-11-2020 922x 1767y - Canal 2
+19:06:54 : [28jdi] - Comando "/time "
+19:06:54 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:54 01-11-2020 922x 1767y - Canal 2
+19:06:55 : [28jdi] - Comando "/time "
+19:06:55 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:55 01-11-2020 922x 1767y - Canal 2
+19:06:55 : [28jdi] - Comando "/time "
+19:06:55 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:55 01-11-2020 922x 1767y - Canal 2
+19:06:55 : [28jdi] - Comando "/time "
+19:06:55 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:55 01-11-2020 922x 1767y - Canal 2
+19:06:56 : [28jdi] - Comando "/time "
+19:06:56 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:56 01-11-2020 922x 1767y - Canal 2
+19:06:56 : [28jdi] - Comando "/time "
+19:06:56 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:56 01-11-2020 922x 1767y - Canal 2
+19:06:58 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+19:06:58 : [28jdi] - Comando "/time "
+19:06:58 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:06:58 01-11-2020 922x 1767y - Canal 2
+19:07:00 : [28jdi] - [Mensagem do servidor]: O PvP Premium foi iniciado em Noatun!
+19:07:00 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 922x 1767y. Teleportado para "Noatun PvP"
+19:07:00 : [28jdi] - Teleportado para a posição 939 1774
+19:07:12 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+19:07:31 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+19:08:19 : [28jdi] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:08:19 : [28jdi] - Personagem foi desconectado. Permaneceu 00:02:52 minutos online
+19:08:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+19:08:37 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+19:08:37 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:08:38 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:08:41 : Solicitou ir ao mundo...
+19:08:41 : Recebido pedido para entrar no jogo
+19:08:41 : Recebido informação do personagem completa.
+19:08:41 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999999960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2087x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:08:41 : [28jdi] - Personagem 28jdi enviado ao mundo 2087x 2101y - Canal 2 - Cash da conta: 0. OverPower: 800
+19:08:41 : [28jdi] - Gold atual: 999999960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:08:41 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+19:08:41 : [28jdi] - Enviado informações do personagem
+19:08:42 : [28jdi] - Comando "/day "
+19:08:42 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:08:42 : [28jdi] - Comando "/day "
+19:08:42 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:08:43 : [28jdi] - Comando "/gm +noatun"
+19:08:43 : [28jdi] - Teleportado para a posição 963 1748
+19:08:46 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:08:58 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+19:09:29 : [28jdi] - [Mensagem do servidor]: 28jdi venceu o PvP Premium!
+19:09:29 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 916x 1767y. Teleportado para "Noatun PvP"
+19:09:29 : [28jdi] - Teleportado para a posição 939 1774
+19:12:53 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+19:12:53 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+19:12:56 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+19:12:57 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+19:12:57 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:12:57 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:13:01 : Solicitou ir ao mundo...
+19:13:01 : Recebido pedido para entrar no jogo
+19:13:01 : Recebido informação do personagem completa.
+19:13:01 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999999960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2094x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:13:01 : [28jdi] - Personagem 28jdi enviado ao mundo 2094x 2100y - Canal 2 - Cash da conta: 0. OverPower: 800
+19:13:01 : [28jdi] - Gold atual: 999999960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:13:01 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+19:13:01 : [28jdi] - Enviado informações do personagem
+19:13:02 : [28jdi] - Comando "/day "
+19:13:02 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:13:02 : [28jdi] - Comando "/day "
+19:13:02 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:13:11 : [28jdi] - Comando "/time "
+19:13:11 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:13:11 01-11-2020 2094x 2100y - Canal 2
+19:13:13 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:13:20 : [28jdi] - Comando "/gm +readfile PvpPremium"
+19:13:20 : [28jdi] - [Mensagem do servidor]> FILE PvpPremium READ SUCCESS
+19:13:22 : [28jdi] - Comando "/time "
+19:13:22 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:13:22 01-11-2020 2102x 2103y - Canal 2
+19:13:25 : [28jdi] - Comando "/gm +noatun"
+19:13:25 : [28jdi] - Teleportado para a posição 963 1748
+19:13:37 : [28jdi] - Comando "/28jdi testando"
+19:13:37 : [28jdi] - Mensagem Privada para: 28jdi: testando
+19:13:37 : [28jdi] - Mensagem Privada recebida: 28jdi: testando
+19:13:39 : [28jdi] - Comando "/28jdi testando"
+19:13:39 : [28jdi] - Mensagem Privada para: 28jdi: testando
+19:13:39 : [28jdi] - Mensagem Privada recebida: 28jdi: testando
+19:13:47 : [28jdi] - Comando "/28jdi testando"
+19:13:47 : [28jdi] - Mensagem Privada para: 28jdi: testando
+19:13:47 : [28jdi] - Mensagem Privada recebida: 28jdi: testando
+19:13:48 : [28jdi] - Comando "/28jdi testando"
+19:13:48 : [28jdi] - Mensagem Privada para: 28jdi: testando
+19:13:48 : [28jdi] - Mensagem Privada recebida: 28jdi: testando
+19:13:55 : [28jdi] - Comando "/time "
+19:13:55 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:13:55 01-11-2020 922x 1769y - Canal 2
+19:13:55 : [28jdi] - Comando "/time "
+19:13:55 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:13:55 01-11-2020 922x 1769y - Canal 2
+19:13:56 : [28jdi] - Comando "/time "
+19:13:56 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:13:56 01-11-2020 922x 1769y - Canal 2
+19:13:56 : [28jdi] - Comando "/time "
+19:13:56 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:13:56 01-11-2020 922x 1769y - Canal 2
+19:13:56 : [28jdi] - Comando "/time "
+19:13:56 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:13:56 01-11-2020 922x 1769y - Canal 2
+19:13:57 : [28jdi] - Comando "/time "
+19:13:57 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:13:57 01-11-2020 922x 1769y - Canal 2
+19:13:57 : [28jdi] - Comando "/time "
+19:13:57 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:13:57 01-11-2020 922x 1769y - Canal 2
+19:14:00 : [28jdi] - [Mensagem do servidor]: O PvP Premium foi iniciado em Noatun!
+19:14:00 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 919x 1767y. Teleportado para "Noatun PvP"
+19:14:00 : [28jdi] - Teleportado para a posição 939 1774
+19:14:01 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+19:14:13 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+19:14:13 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+19:14:57 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+19:15:15 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+19:15:40 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+19:16:10 : [28jdi] - [Mensagem do servidor]: 28jdi venceu o PvP Premium!
+19:16:10 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 916x 1767y. Teleportado para "Noatun PvP"
+19:16:10 : [28jdi] - Teleportado para a posição 939 1774
+19:17:46 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+19:17:46 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+19:17:46 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+19:17:46 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+19:17:46 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+19:17:46 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+19:17:46 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+19:17:47 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+19:17:47 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:17:47 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:18:03 : Solicitou ir ao mundo...
+19:18:03 : Recebido pedido para entrar no jogo
+19:18:03 : Recebido informação do personagem completa.
+19:18:03 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999999960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:17 horas
+Posição atual: 2096x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:18:03 : [28jdi] - Personagem 28jdi enviado ao mundo 2096x 2095y - Canal 2 - Cash da conta: 0. OverPower: 800
+19:18:03 : [28jdi] - Gold atual: 999999960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:18:03 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+19:18:03 : [28jdi] - Enviado informações do personagem
+19:18:04 : [28jdi] - Comando "/day "
+19:18:04 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:18:05 : [28jdi] - Comando "/day "
+19:18:05 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:18:08 : [28jdi] - Comando "/gm +noatun"
+19:18:08 : [28jdi] - Teleportado para a posição 963 1748
+19:18:14 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:18:28 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+19:18:58 : [28jdi] - [Mensagem do servidor]: 28jdi venceu o PvP Premium!
+19:18:58 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 916x 1767y. Teleportado para "Noatun PvP"
+19:18:58 : [28jdi] - Teleportado para a posição 939 1774
+19:19:02 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+19:19:14 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+19:19:32 : [28jdi] - Comando "/gm +readfile PvpPremium"
+19:19:32 : [28jdi] - [Mensagem do servidor]> FILE PvpPremium READ SUCCESS
+19:19:34 : [28jdi] - Comando "/time "
+19:19:34 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:19:34 01-11-2020 927x 1766y - Canal 2
+19:20:00 : [28jdi] - [Mensagem do servidor]: O PvP Premium foi iniciado em Noatun!
+19:20:00 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 919x 1766y. Teleportado para "Noatun PvP"
+19:20:00 : [28jdi] - Teleportado para a posição 939 1774
+19:20:13 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+19:20:43 : [28jdi] - [Mensagem do servidor]: 28jdi venceu o PvP Premium!
+19:20:43 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 916x 1767y. Teleportado para "Noatun PvP"
+19:20:43 : [28jdi] - Teleportado para a posição 939 1774
+19:20:44 : [28jdi] - [Mensagem do servidor]: O PvP Premium foi iniciado em Noatun!
+19:28:41 : [28jdi] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+19:28:41 : [28jdi] - Personagem foi desconectado. Permaneceu 00:10:46 minutos online
+19:29:02 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+19:29:02 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+19:29:02 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:29:02 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:29:06 : Solicitou ir ao mundo...
+19:29:06 : Recebido pedido para entrar no jogo
+19:29:06 : Recebido informação do personagem completa.
+19:29:06 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999999960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2096x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:29:06 : [28jdi] - Personagem 28jdi enviado ao mundo 2096x 2096y - Canal 2 - Cash da conta: 0. OverPower: 800
+19:29:06 : [28jdi] - Gold atual: 999999960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:29:06 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+19:29:06 : [28jdi] - Enviado informações do personagem
+19:29:07 : [28jdi] - Comando "/day "
+19:29:07 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:29:08 : [28jdi] - Comando "/day "
+19:29:08 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:29:12 : [28jdi] - Comando "/gm +readfile PvpPremium"
+19:29:12 : [28jdi] - [Mensagem do servidor]> FILE PvpPremium READ SUCCESS
+19:29:14 : [28jdi] - Comando "/gm +noatun"
+19:29:14 : [28jdi] - Teleportado para a posição 963 1748
+19:29:15 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:29:22 : [28jdi] - Comando "/time "
+19:29:22 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:29:22 01-11-2020 924x 1767y - Canal 2
+19:29:22 : [28jdi] - Comando "/time "
+19:29:22 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:29:22 01-11-2020 924x 1767y - Canal 2
+19:29:23 : [28jdi] - Comando "/time "
+19:29:23 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:29:23 01-11-2020 924x 1767y - Canal 2
+19:29:23 : [28jdi] - Comando "/time "
+19:29:23 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:29:23 01-11-2020 924x 1767y - Canal 2
+19:29:23 : [28jdi] - Comando "/time "
+19:29:23 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:29:23 01-11-2020 924x 1767y - Canal 2
+19:30:00 : [28jdi] - [Mensagem do servidor]: O PvP Premium foi iniciado em Noatun!
+19:30:00 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 916x 1767y. Teleportado para "Noatun PvP"
+19:30:00 : [28jdi] - Teleportado para a posição 939 1774
+19:30:20 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+19:30:52 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+19:31:05 : [28jdi] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:31:05 : [28jdi] - Personagem foi desconectado. Permaneceu 00:02:02 minutos online
+19:31:43 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 3
+19:31:43 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+19:31:43 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:31:44 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:31:47 : Solicitou ir ao mundo...
+19:31:47 : Recebido pedido para entrar no jogo
+19:31:47 : Recebido informação do personagem completa.
+19:31:47 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999999960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2096x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:31:47 : [28jdi] - Personagem 28jdi enviado ao mundo 2096x 2100y - Canal 2 - Cash da conta: 0. OverPower: 800
+19:31:47 : [28jdi] - Gold atual: 999999960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:31:47 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+19:31:47 : [28jdi] - Enviado informações do personagem
+19:31:48 : [28jdi] - Comando "/day "
+19:31:48 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:31:48 : [28jdi] - Comando "/day "
+19:31:48 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:31:49 : [28jdi] - Comando "/g +noatun"
+19:31:49 : [28jdi] - [Mensagem do servidor]> Este personagem não está conectado.
+19:31:52 : [28jdi] - Comando "/gm +noatun"
+19:31:52 : [28jdi] - Teleportado para a posição 963 1748
+19:32:03 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:32:07 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+19:32:28 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+19:33:15 : [28jdi] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+19:33:15 : [28jdi] - Personagem foi desconectado. Permaneceu 00:01:30 minutos online
+19:33:28 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 4
+19:33:28 : Usuário logou no jogo com clientId 4. - Servidor 2. Gold do banco: 0
+19:33:28 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:33:28 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:33:32 : Solicitou ir ao mundo...
+19:33:32 : Recebido pedido para entrar no jogo
+19:33:32 : Recebido informação do personagem completa.
+19:33:32 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999999960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2094x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:33:32 : [28jdi] - Personagem 28jdi enviado ao mundo 2094x 2099y - Canal 2 - Cash da conta: 0. OverPower: 800
+19:33:32 : [28jdi] - Gold atual: 999999960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:33:32 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+19:33:32 : [28jdi] - Enviado informações do personagem
+19:33:33 : [28jdi] - Comando "/day "
+19:33:33 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:33:33 : [28jdi] - Comando "/day "
+19:33:33 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:33:36 : [28jdi] - Comando "/gm +noatun"
+19:33:36 : [28jdi] - Teleportado para a posição 963 1748
+19:33:39 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:33:52 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+19:34:22 : [28jdi] - [Mensagem do servidor]: 28jdi venceu o PvP Premium!
+19:34:22 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 916x 1767y. Teleportado para "Noatun PvP"
+19:34:22 : [28jdi] - Teleportado para a posição 939 1774
+19:36:51 : [28jdi] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:36:51 : [28jdi] - Personagem foi desconectado. Permaneceu 00:03:20 minutos online
+19:37:07 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 5
+19:37:07 : Usuário logou no jogo com clientId 5. - Servidor 2. Gold do banco: 0
+19:37:07 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:37:07 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:37:10 : Solicitou ir ao mundo...
+19:37:10 : Recebido pedido para entrar no jogo
+19:37:10 : Recebido informação do personagem completa.
+19:37:10 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999999960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2094x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:37:10 : [28jdi] - Personagem 28jdi enviado ao mundo 2094x 2096y - Canal 2 - Cash da conta: 0. OverPower: 800
+19:37:10 : [28jdi] - Gold atual: 999999960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:37:10 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+19:37:10 : [28jdi] - Enviado informações do personagem
+19:37:12 : [28jdi] - Comando "/day "
+19:37:12 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:37:12 : [28jdi] - Comando "/day "
+19:37:12 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:37:12 : [28jdi] - Comando "/day "
+19:37:12 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:37:15 : [28jdi] - Comando "/gm +noatun"
+19:37:15 : [28jdi] - Teleportado para a posição 963 1748
+19:37:22 : [28jdi] - Comando "/time "
+19:37:22 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:37:22 01-11-2020 933x 1767y - Canal 2
+19:37:27 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:37:32 : [28jdi] - Comando "/gm +readfile PvpPremium"
+19:37:32 : [28jdi] - [Mensagem do servidor]> FILE PvpPremium READ SUCCESS
+19:37:33 : [28jdi] - Comando "/time "
+19:37:33 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:37:33 01-11-2020 922x 1767y - Canal 2
+19:37:34 : [28jdi] - Comando "/time "
+19:37:34 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:37:34 01-11-2020 922x 1767y - Canal 2
+19:37:34 : [28jdi] - Comando "/time "
+19:37:34 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:37:34 01-11-2020 922x 1767y - Canal 2
+19:37:53 : [28jdi] - Comando "/time "
+19:37:53 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:37:53 01-11-2020 922x 1767y - Canal 2
+19:37:54 : [28jdi] - Comando "/time "
+19:37:54 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:37:54 01-11-2020 922x 1767y - Canal 2
+19:37:54 : [28jdi] - Comando "/time "
+19:37:54 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:37:54 01-11-2020 922x 1767y - Canal 2
+19:37:54 : [28jdi] - Comando "/time "
+19:37:54 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:37:54 01-11-2020 922x 1767y - Canal 2
+19:37:55 : [28jdi] - Comando "/time "
+19:37:55 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:37:55 01-11-2020 922x 1767y - Canal 2
+19:37:55 : [28jdi] - Comando "/time "
+19:37:55 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:37:55 01-11-2020 922x 1767y - Canal 2
+19:37:55 : [28jdi] - Comando "/time "
+19:37:55 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:37:55 01-11-2020 922x 1767y - Canal 2
+19:37:55 : [28jdi] - Comando "/time "
+19:37:55 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:37:55 01-11-2020 922x 1767y - Canal 2
+19:37:56 : [28jdi] - Comando "/time "
+19:37:56 : [28jdi] - [Mensagem do servidor]> [28jdi] - 19:37:56 01-11-2020 922x 1767y - Canal 2
+19:38:00 : [28jdi] - [Mensagem do servidor]: O PvP Premium foi iniciado em Noatun!
+19:38:00 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 921x 1767y. Teleportado para "Noatun PvP"
+19:38:00 : [28jdi] - Teleportado para a posição 939 1774
+19:38:09 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+19:38:39 : [28jdi] - [Mensagem do servidor]: 28jdi venceu o PvP Premium!
+19:38:39 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 916x 1767y. Teleportado para "Noatun PvP"
+19:38:39 : [28jdi] - Teleportado para a posição 939 1774
+19:38:40 : [28jdi] - [Mensagem do servidor]: O PvP Premium foi iniciado em Noatun!
+19:42:26 : [28jdi] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:42:26 : [28jdi] - Personagem foi desconectado. Permaneceu 00:05:15 minutos online
+19:42:34 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 6
+19:42:34 : Usuário logou no jogo com clientId 6. - Servidor 2. Gold do banco: 0
+19:42:34 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:42:35 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:42:38 : Solicitou ir ao mundo...
+19:42:38 : Recebido pedido para entrar no jogo
+19:42:38 : Recebido informação do personagem completa.
+19:42:38 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999999960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2088x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:42:38 : [28jdi] - Personagem 28jdi enviado ao mundo 2088x 2106y - Canal 2 - Cash da conta: 0. OverPower: 800
+19:42:38 : [28jdi] - Gold atual: 999999960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:42:38 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+19:42:38 : [28jdi] - Enviado informações do personagem
+19:42:39 : [28jdi] - Comando "/day "
+19:42:39 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:42:39 : [28jdi] - Comando "/day "
+19:42:39 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:42:51 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:43:38 : [28jdi] - Comando "/testest "
+19:43:38 : [28jdi] - [Mensagem do servidor]> Este personagem não está conectado.
+19:44:31 : [28jdi] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+19:44:31 : [28jdi] - Personagem foi desconectado. Permaneceu 00:01:56 minutos online
+19:44:44 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 7
+19:44:44 : Usuário logou no jogo com clientId 7. - Servidor 2. Gold do banco: 0
+19:44:44 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+19:44:45 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:44:59 : Solicitou ir ao mundo...
+19:44:59 : Recebido pedido para entrar no jogo
+19:44:59 : Recebido informação do personagem completa.
+19:44:59 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999999960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:15 horas
+Posição atual: 2094x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:44:59 : [28jdi] - Personagem 28jdi enviado ao mundo 2094x 2104y - Canal 2 - Cash da conta: 0. OverPower: 800
+19:44:59 : [28jdi] - Gold atual: 999999960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+19:44:59 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+19:44:59 : [28jdi] - Enviado informações do personagem
+19:45:00 : [28jdi] - Comando "/day "
+19:45:00 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:45:01 : [28jdi] - Comando "/day "
+19:45:01 : [28jdi] - [Mensagem do servidor]> !#11 2
+19:45:15 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:15:00 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999999960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:54 horas
+Posição atual: 2111x 2111y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:41:49 : [28jdi] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:41:49 : [28jdi] - Personagem foi desconectado. Permaneceu 00:56:22 minutos online
+20:42:30 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 8
+20:42:30 : Usuário logou no jogo com clientId 8. - Servidor 2. Gold do banco: 0
+20:42:30 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+20:42:31 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:45:38 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+20:45:38 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+20:45:38 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+20:45:38 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+20:45:38 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+20:45:38 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+20:45:38 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+20:45:38 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+20:45:38 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+20:45:43 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+20:45:43 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+20:45:43 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+20:45:43 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:45:47 : Solicitou ir ao mundo...
+20:45:47 : Recebido pedido para entrar no jogo
+20:45:47 : Recebido informação do personagem completa.
+20:45:47 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999999960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2094x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:45:47 : [28jdi] - Personagem 28jdi enviado ao mundo 2094x 2103y - Canal 2 - Cash da conta: 0. OverPower: 800
+20:45:47 : [28jdi] - Gold atual: 999999960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+20:45:47 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+20:45:47 : [28jdi] - Enviado informações do personagem
+20:45:48 : [28jdi] - Comando "/day "
+20:45:48 : [28jdi] - [Mensagem do servidor]> !#11 2
+20:45:48 : [28jdi] - Comando "/day "
+20:45:48 : [28jdi] - [Mensagem do servidor]> !#11 2
+20:45:54 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:45:59 : [28jdi] - Teleportado para a posição 960 1761
+20:46:33 : [28jdi] - Comando "/time "
+20:46:33 : [28jdi] - [Mensagem do servidor]> [28jdi] - 20:46:33 01-11-2020 916x 1767y - Canal 2
+20:46:42 : [28jdi] - Comando "/time "
+20:46:42 : [28jdi] - [Mensagem do servidor]> [28jdi] - 20:46:42 01-11-2020 919x 1767y - Canal 2
+20:46:43 : [28jdi] - Comando "/time "
+20:46:43 : [28jdi] - [Mensagem do servidor]> [28jdi] - 20:46:43 01-11-2020 919x 1767y - Canal 2
+20:46:54 : [28jdi] - Comando "/gm +readfile PvpPremium"
+20:46:54 : [28jdi] - [Mensagem do servidor]> FILE PvpPremium READ SUCCESS
+20:46:54 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+20:46:55 : [28jdi] - Comando "/time "
+20:46:55 : [28jdi] - [Mensagem do servidor]> [28jdi] - 20:46:55 01-11-2020 919x 1767y - Canal 2
+20:46:56 : [28jdi] - Comando "/time "
+20:46:56 : [28jdi] - [Mensagem do servidor]> [28jdi] - 20:46:56 01-11-2020 919x 1767y - Canal 2
+20:47:00 : [28jdi] - [Mensagem do servidor]: O PvP Premium foi iniciado em Noatun!
+20:47:00 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 919x 1767y. Teleportado para "Noatun PvP"
+20:47:00 : [28jdi] - Teleportado para a posição 939 1774
+20:47:06 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+20:47:13 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+20:47:37 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+20:48:08 : [28jdi] - [Mensagem do servidor]> 28jdi está dominando o Altar Premium
+20:48:20 : [28jdi] - Ataque mais rápido que 900ms. Diferença 708
+20:48:23 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 0
+20:49:08 : [28jdi] - Personagem deu personagem
+20:49:08 : CrackError - Points: 3 type: 19
+20:49:23 : Solicitou ir ao mundo...
+20:49:23 : Recebido pedido para entrar no jogo
+20:49:23 : Recebido informação do personagem completa.
+20:49:23 : [Chartest] - [INFORMAÇÕES DA CONTA]
+Personagem online: Chartest
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:03:37 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:49:23 : [Chartest] - Personagem Chartest enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 0
+20:49:23 : [Chartest] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+20:49:23 : [Chartest] - Enviado informações do personagem
+20:49:24 : [Chartest] - Comando "/day "
+20:49:24 : [Chartest] - [Mensagem do servidor]> !#11 2
+20:49:25 : [Chartest] - Comando "/gm +noatun"
+20:49:25 : [Chartest] - Teleportado para a posição 963 1748
+20:49:30 : [Chartest] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:49:54 : [Chartest] - Comando "/gm +armia"
+20:49:54 : [Chartest] - Teleportado para a posição 2100 2100
+20:50:26 : [Chartest] - Ataque mais rápido que 900ms. Diferença 720
+20:50:26 : [Chartest] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+20:50:26 : [Chartest] - Personagem foi desconectado. Permaneceu 00:04:40 minutos online
+20:52:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 3
+20:52:13 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+20:52:13 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+20:52:13 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:52:19 : Solicitou ir ao mundo...
+20:52:19 : Recebido pedido para entrar no jogo
+20:52:19 : Recebido informação do personagem completa.
+20:52:19 : [Chartest] - [INFORMAÇÕES DA CONTA]
+Personagem online: Chartest
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:52:19 : [Chartest] - Personagem Chartest enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 0
+20:52:19 : [Chartest] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+20:52:19 : [Chartest] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+20:52:19 : [Chartest] - Enviado informações do personagem
+20:52:20 : [Chartest] - Comando "/day "
+20:52:20 : [Chartest] - [Mensagem do servidor]> !#11 2
+20:52:25 : [Chartest] - Ataque mais rápido que 900ms. Diferença 788
+20:52:27 : [Chartest] - Matou o mob Porco de Guerra. GenerID: 4421
+20:52:27 : [Chartest] - Pontos CP subiu em 3. CP novo: 78
+20:52:27 : [Chartest] - [Mensagem do servidor]> + + + LEVEL UP + + +
+20:52:27 : [Chartest] - Level UP para level 1. Ev: 0 - 2117x 2041y
+20:52:29 : [Chartest] - Removido o Hp do mob Baleia. HP removido: 0. HP Atual: 10000
+20:52:30 : [Chartest] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:52:32 : [Chartest] - Clicado no NPC [Guard ]. Face 60. Race: 8. GenerateId: 3253. Posição do usuário: 2115x 2068y. Posição do NPC: 2115x 2072y
+20:52:32 : [Chartest] - [Mensagem do servidor]> Level inadequado.
+20:56:16 : [Chartest] - Personagem deu personagem
+20:56:16 : CrackError - Points: 3 type: 19
+20:56:34 : Solicitou ir ao mundo...
+20:56:34 : Recebido pedido para entrar no jogo
+20:56:34 : Recebido informação do personagem completa.
+20:56:34 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:04:18 horas
+Posição atual: 2089x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[07] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Unicórnio[2381] [1 1 1 2 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:56:34 : [28jdi] - Personagem 28jdi enviado ao mundo 2089x 2097y - Canal 2 - Cash da conta: 0. OverPower: 798
+20:56:34 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+20:56:34 : [28jdi] - Enviado informações do personagem
+20:56:35 : [28jdi] - Comando "/day "
+20:56:35 : [28jdi] - [Mensagem do servidor]> !#11 2
+20:56:35 : [28jdi] - Comando "/day "
+20:56:35 : [28jdi] - [Mensagem do servidor]> !#11 2
+20:56:38 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 14
+20:56:43 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:57:38 : [28jdi] - Comando "/gm +item 2866 43 253"
+20:57:38 : [28jdi] - 28jdi criou o item Eirenus(Anct) [2866] [43 253 0 0 0 0]
+20:57:41 : [28jdi] - Item Eirenus(Anct) deletado [2866] [43 253 0 0 0 0]. Slot 0
+20:57:43 : [28jdi] - Comando "/gm +item 2865"
+20:57:43 : [28jdi] - 28jdi criou o item Eirenus(Anct) [2865] [0 0 0 0 0 0]
+20:57:45 : [28jdi] - Item Eirenus(Anct) deletado [2865] [0 0 0 0 0 0]. Slot 0
+20:57:47 : [28jdi] - Comando "/gm +item 2864"
+20:57:47 : [28jdi] - 28jdi criou o item Eirenus(Anct) [2864] [0 0 0 0 0 0]
+20:57:52 : [28jdi] - Item Eirenus(Anct) deletado [2864] [0 0 0 0 0 0]. Slot 0
+20:57:55 : [28jdi] - Comando "/gm +item 2864 43 251"
+20:57:55 : [28jdi] - 28jdi criou o item Eirenus(Anct) [2864] [43 251 0 0 0 0]
+20:57:58 : [28jdi] - Moveu item Adaga [861] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 6 para tipo INVENTÁRIO slot 5
+20:58:00 : [28jdi] - Moveu item Escudo_de_Madeira [1701] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 7 para tipo INVENTÁRIO slot 10
+20:58:06 : [28jdi] - Comando "/gm +set 0 6"
+20:58:09 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 1
+20:58:23 : [28jdi] - Personagem deu personagem
+20:58:53 : Solicitou ir ao mundo...
+20:58:54 : Recebido pedido para entrar no jogo
+20:58:54 : Recebido informação do personagem completa.
+20:58:54 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 399
+Experiência atual: 150
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:06:36 horas
+Posição atual: 2086x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[01] - Unicórnio[2381] [1 1 1 2 0 0]
+[05] - Adaga[861] [43 0 0 0 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:58:54 : [28jdi] - Personagem 28jdi enviado ao mundo 2086x 2094y - Canal 2 - Cash da conta: 0. OverPower: 798
+20:58:54 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 150. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+20:58:54 : [28jdi] - Enviado informações do personagem
+20:58:55 : [28jdi] - Comando "/day "
+20:58:55 : [28jdi] - [Mensagem do servidor]> !#11 2
+20:58:55 : [28jdi] - Comando "/day "
+20:58:55 : [28jdi] - [Mensagem do servidor]> !#11 2
+20:59:07 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:00:00 : [28jdi] - [Mensagem do servidor]: Guerra de Noatum irá se iniciar dentro de 5 minutos.
+21:00:32 : [28jdi] - Comando "/gm +level 1010"
+21:00:37 : [28jdi] - Comando "/gm +set level 1010"
+21:05:00 : [28jdi] - [Mensagem do servidor]: Guerra de Noatum iniciou.
+21:05:34 : [28jdi] - Ataque mais rápido que 900ms. Diferença 859
+21:05:54 : [28jdi] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+21:05:54 : [28jdi] - Personagem foi desconectado. Permaneceu 00:13:31 minutos online
+21:06:14 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 4
+21:06:14 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+21:06:14 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:07:14 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 4
+21:07:14 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+21:07:14 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:07:59 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 4
+21:07:59 : Usuário logou no jogo com clientId 4. - Servidor 2. Gold do banco: 0
+21:07:59 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+21:08:00 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:08:03 : Solicitou ir ao mundo...
+21:08:03 : Recebido pedido para entrar no jogo
+21:08:03 : Recebido informação do personagem completa.
+21:08:03 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2093x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[01] - Unicórnio[2381] [1 1 1 2 0 0]
+[05] - Adaga[861] [43 0 0 0 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:08:03 : [28jdi] - Personagem 28jdi enviado ao mundo 2093x 2102y - Canal 2 - Cash da conta: 0. OverPower: 2020
+21:08:03 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+21:08:03 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+21:08:03 : [28jdi] - Enviado informações do personagem
+21:08:04 : [28jdi] - Comando "/day "
+21:08:04 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:08:08 : [28jdi] - Moveu item Adaga [861] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 6
+21:08:13 : [28jdi] - Item Adaga deletado [861] [43 0 0 0 0 0]. Slot 6
+21:08:14 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 14
+21:08:19 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:08:23 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+21:09:16 : [28jdi] - Comando "/gm +server 0"
+21:09:16 : [28jdi] - [Mensagem do servidor]> Servidor foi aberto
+21:09:22 : [28jdi] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:09:22 : [28jdi] - Personagem foi desconectado. Permaneceu 00:01:22 minutos online
+21:10:00 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 5
+21:10:00 : Usuário logou no jogo com clientId 5. - Servidor 2. Gold do banco: 0
+21:10:00 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+21:10:00 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:10:04 : Solicitou ir ao mundo...
+21:10:04 : Recebido pedido para entrar no jogo
+21:10:04 : Recebido informação do personagem completa.
+21:10:04 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2092x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[05] - Unicórnio[2381] [1 1 1 2 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:10:04 : [28jdi] - Personagem 28jdi enviado ao mundo 2092x 2105y - Canal 2 - Cash da conta: 0. OverPower: 2020
+21:10:04 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+21:10:04 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+21:10:04 : [28jdi] - Enviado informações do personagem
+21:10:05 : [28jdi] - Comando "/day "
+21:10:05 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:10:07 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 14
+21:10:18 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+21:10:19 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:10:33 : [28jdi] - Comando "/gm +server 0"
+21:10:33 : [28jdi] - [Mensagem do servidor]> Servidor foi aberto
+21:21:54 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:21:54 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+21:21:54 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:21:54 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+21:21:54 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+21:21:54 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:21:54 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:21:54 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+21:21:54 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:22:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:22:03 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+21:22:03 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:22:05 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:22:05 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+21:22:05 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:22:39 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+21:22:39 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:22:44 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+21:22:44 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+21:22:44 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+21:22:45 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:22:48 : Solicitou ir ao mundo...
+21:22:48 : Recebido pedido para entrar no jogo
+21:22:48 : Recebido informação do personagem completa.
+21:22:48 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2091x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[05] - Unicórnio[2381] [1 1 1 2 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:22:48 : [28jdi] - Personagem 28jdi enviado ao mundo 2091x 2104y - Canal 2 - Cash da conta: 0. OverPower: 2020
+21:22:48 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+21:22:48 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+21:22:48 : [28jdi] - Enviado informações do personagem
+21:22:49 : [28jdi] - Comando "/day "
+21:22:49 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:22:53 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 14
+21:22:57 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:23:09 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+21:23:21 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+21:23:33 : [28jdi] - Comando "/gm +readfile AttributeMap"
+21:23:33 : [28jdi] - [Mensagem do servidor]> FILE AttributeMap READ SUCCESS
+21:23:58 : [28jdi] - Ataque mais rápido que 900ms. Diferença 869
+21:24:00 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+21:24:00 : [28jdi] - Moveu item  [0] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+21:24:02 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+21:24:08 : [28jdi] - Comando "/gm +set level 399"
+21:24:18 : [28jdi] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:24:18 : [28jdi] - Personagem foi desconectado. Permaneceu 00:01:33 minutos online
+21:25:59 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 3
+21:25:59 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+21:25:59 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+21:25:59 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:26:03 : Solicitou ir ao mundo...
+21:26:03 : Recebido pedido para entrar no jogo
+21:26:03 : Recebido informação do personagem completa.
+21:26:03 : [JoaoJoao] - [INFORMAÇÕES DA CONTA]
+Personagem online: JoaoJoao
+Gold atual: 0
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2088x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 0 1 1]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:26:03 : [JoaoJoao] - Personagem JoaoJoao enviado ao mundo 2088x 2096y - Canal 2 - Cash da conta: 0. OverPower: 798
+21:26:03 : [JoaoJoao] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+21:26:03 : [JoaoJoao] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+21:26:03 : [JoaoJoao] - Enviado informações do personagem
+21:26:04 : [JoaoJoao] - Comando "/day "
+21:26:04 : [JoaoJoao] - [Mensagem do servidor]> !#11 2
+21:26:09 : [JoaoJoao] - Comando "/gm +set 0 8"
+21:26:10 : [JoaoJoao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:26:12 : [JoaoJoao] - Comando "/gm +set 0 9"
+21:26:15 : [JoaoJoao] - Comando "/gm +learnall"
+21:26:15 : [JoaoJoao] - [Mensagem do servidor]> Comando inválido
+21:26:19 : [JoaoJoao] - Comando "/gm +learn all"
+21:26:19 : [JoaoJoao] - [Mensagem do servidor]> Comando inválido
+21:26:23 : [JoaoJoao] - Comando "/gm +skill"
+21:26:37 : [JoaoJoao] - Comando "/gm "
+21:26:37 : [JoaoJoao] - [Mensagem do servidor]> Utilize /gm +command
+21:26:40 : [JoaoJoao] - Comando "/gm +learnall 1"
+21:26:40 : [JoaoJoao] - [Mensagem do servidor]> SET LEARN ALL 1
+21:26:46 : [JoaoJoao] - MSG_Attack, Request other class 95
+21:26:46 : [JoaoJoao] - CrackError - Points: 10 type: 20
+21:27:30 : [JoaoJoao] - MSG_Attack, Request other class 95
+21:27:30 : [JoaoJoao] - CrackError - Points: 10 type: 20
+21:27:38 : [JoaoJoao] - Personagem deu personagem
+21:27:42 : Solicitou ir ao mundo...
+21:27:42 : Recebido pedido para entrar no jogo
+21:27:42 : Recebido informação do personagem completa.
+21:27:42 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:42 horas
+Posição atual: 2097x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[05] - Unicórnio[2381] [1 1 1 2 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:27:42 : [28jdi] - Personagem 28jdi enviado ao mundo 2097x 2101y - Canal 2 - Cash da conta: 0. OverPower: 798
+21:27:42 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+21:27:42 : [28jdi] - Enviado informações do personagem
+21:27:43 : [28jdi] - Comando "/day "
+21:27:43 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:27:43 : [28jdi] - Comando "/day "
+21:27:43 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:27:52 : [28jdi] - Personagem deu personagem
+21:27:57 : Solicitou ir ao mundo...
+21:27:57 : Recebido pedido para entrar no jogo
+21:27:57 : Recebido informação do personagem completa.
+21:27:57 : [JoaoJoao] - [INFORMAÇÕES DA CONTA]
+Personagem online: JoaoJoao
+Gold atual: 0
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:57 horas
+Posição atual: 2096x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[9] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:27:57 : [JoaoJoao] - Personagem JoaoJoao enviado ao mundo 2096x 2104y - Canal 2 - Cash da conta: 0. OverPower: 798
+21:27:57 : [JoaoJoao] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+21:27:57 : [JoaoJoao] - Enviado informações do personagem
+21:27:58 : [JoaoJoao] - Comando "/day "
+21:27:58 : [JoaoJoao] - [Mensagem do servidor]> !#11 2
+21:27:58 : [JoaoJoao] - Comando "/day "
+21:27:58 : [JoaoJoao] - [Mensagem do servidor]> !#11 2
+21:28:03 : [JoaoJoao] - MSG_Attack, Request other class 95
+21:28:03 : [JoaoJoao] - CrackError - Points: 10 type: 20
+21:28:10 : [JoaoJoao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:28:13 : [JoaoJoao] - MSG_Attack, Request other class 79
+21:28:13 : [JoaoJoao] - CrackError - Points: 10 type: 20
+21:28:32 : [JoaoJoao] - Ataque mais rápido que 900ms. Diferença 768
+21:28:33 : [JoaoJoao] - MSG_Attack, Request other class 95
+21:28:33 : [JoaoJoao] - CrackError - Points: 10 type: 20
+21:28:33 : [JoaoJoao] - Desconectado - CrackCount: 30 - point: 10 - type: 20
+21:28:33 : [JoaoJoao] - [Mensagem do servidor]> Ocorreu um erro, contate a administração relatando o bug.
+21:28:33 : Enviado para a tela de personagem. CrackError atingiu o limite
+21:28:37 : Solicitou ir ao mundo...
+21:28:37 : Recebido pedido para entrar no jogo
+21:28:37 : Recebido informação do personagem completa.
+21:28:37 : [JoaoJoao] - [INFORMAÇÕES DA CONTA]
+Personagem online: JoaoJoao
+Gold atual: 0
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:02:37 horas
+Posição atual: 2093x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[9] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:28:37 : [JoaoJoao] - Personagem JoaoJoao enviado ao mundo 2093x 2101y - Canal 2 - Cash da conta: 0. OverPower: 798
+21:28:37 : [JoaoJoao] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+21:28:37 : [JoaoJoao] - Enviado informações do personagem
+21:28:38 : [JoaoJoao] - Comando "/day "
+21:28:38 : [JoaoJoao] - [Mensagem do servidor]> !#11 2
+21:28:39 : [JoaoJoao] - Comando "/day "
+21:28:39 : [JoaoJoao] - [Mensagem do servidor]> !#11 2
+21:28:46 : [JoaoJoao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:29:17 : [JoaoJoao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:29:17 : [JoaoJoao] - Personagem foi desconectado. Permaneceu 00:03:16 minutos online
+21:30:54 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 4
+21:30:54 : Usuário logou no jogo com clientId 4. - Servidor 2. Gold do banco: 0
+21:30:54 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+21:30:54 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:30:58 : Solicitou ir ao mundo...
+21:30:58 : Recebido pedido para entrar no jogo
+21:30:58 : Recebido informação do personagem completa.
+21:30:58 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2088x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[6] [43 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[05] - Unicórnio[2381] [1 1 1 2 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:30:58 : [28jdi] - Personagem 28jdi enviado ao mundo 2088x 2100y - Canal 2 - Cash da conta: 0. OverPower: 798
+21:30:58 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+21:30:58 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+21:30:58 : [28jdi] - Enviado informações do personagem
+21:30:59 : [28jdi] - Comando "/day "
+21:30:59 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:31:00 : [28jdi] - Comando "/day "
+21:31:00 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:31:04 : [28jdi] - Comando "/gm +set 0 7"
+21:31:07 : [28jdi] - MSG_Attack, Request other class 45
+21:31:08 : [28jdi] - CrackError - Points: 10 type: 20
+21:31:10 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:31:40 : [28jdi] - MSG_Attack, Request other class 45
+21:31:40 : [28jdi] - CrackError - Points: 10 type: 20
+21:31:48 : [28jdi] - Personagem deu personagem
+21:31:57 : Solicitou ir ao mundo...
+21:31:57 : Recebido pedido para entrar no jogo
+21:31:58 : Recebido informação do personagem completa.
+21:31:58 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:03 horas
+Posição atual: 2098x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[05] - Unicórnio[2381] [1 1 1 2 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:31:58 : [28jdi] - Personagem 28jdi enviado ao mundo 2098x 2106y - Canal 2 - Cash da conta: 0. OverPower: 798
+21:31:58 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+21:31:58 : [28jdi] - Enviado informações do personagem
+21:31:59 : [28jdi] - Comando "/day "
+21:31:59 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:31:59 : [28jdi] - Comando "/day "
+21:31:59 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:32:10 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:32:10 : [28jdi] - Personagem deu personagem
+21:32:14 : Solicitou ir ao mundo...
+21:32:14 : Recebido pedido para entrar no jogo
+21:32:14 : Recebido informação do personagem completa.
+21:32:14 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:19 horas
+Posição atual: 2099x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[05] - Unicórnio[2381] [1 1 1 2 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:32:14 : [28jdi] - Personagem 28jdi enviado ao mundo 2099x 2102y - Canal 2 - Cash da conta: 0. OverPower: 798
+21:32:14 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+21:32:14 : [28jdi] - Enviado informações do personagem
+21:32:15 : [28jdi] - Comando "/day "
+21:32:15 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:32:15 : [28jdi] - Comando "/day "
+21:32:15 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:32:20 : [28jdi] - MSG_Attack, Request other class 45
+21:32:20 : [28jdi] - CrackError - Points: 10 type: 20
+21:32:22 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:32:27 : [28jdi] - Personagem deu personagem
+21:32:34 : Solicitou ir ao mundo...
+21:32:34 : Recebido pedido para entrar no jogo
+21:32:34 : Recebido informação do personagem completa.
+21:32:34 : [Chartest] - [INFORMAÇÕES DA CONTA]
+Personagem online: Chartest
+Gold atual: 0
+Level atual: 1
+Experiência atual: 1030
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:39 horas
+Posição atual: 2111x 2041y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:32:34 : [Chartest] - Personagem Chartest enviado ao mundo 2111x 2041y - Canal 2 - Cash da conta: 0. OverPower: 2
+21:32:34 : [Chartest] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 1030. Nível: 1. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+21:32:34 : [Chartest] - Enviado informações do personagem
+21:32:35 : [Chartest] - Comando "/day "
+21:32:35 : [Chartest] - [Mensagem do servidor]> !#11 2
+21:32:40 : [Chartest] - Matou o mob Porco de Guerra. GenerID: 4421
+21:32:40 : [Chartest] - Pontos CP subiu em 3. CP novo: 81
+21:32:40 : [Chartest] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:32:40 : [Chartest] - Level UP para level 2. Ev: 0 - 2114x 2046y
+21:32:40 : [Chartest] - Pontos CP subiu em 3. CP novo: 84
+21:32:40 : [Chartest] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:32:40 : [Chartest] - Level UP para level 3. Ev: 0 - 2114x 2046y
+21:32:42 : [Chartest] - Matou o mob Porco de Guerra. GenerID: 4419
+21:32:42 : [Chartest] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:32:46 : [Chartest] - Ataque mais rápido que 900ms. Diferença 785
+21:32:46 : [Chartest] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:32:48 : [Chartest] - Matou o mob Porco de Guerra. GenerID: 4422
+21:32:48 : [Chartest] - Pontos CP subiu em 3. CP novo: 87
+21:32:48 : [Chartest] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:32:48 : [Chartest] - Level UP para level 4. Ev: 0 - 2120x 2045y
+21:32:50 : [Chartest] - Ataque mais rápido que 900ms. Diferença 867
+21:32:52 : [Chartest] - Matou o mob Porco de Guerra. GenerID: 4420
+21:32:52 : [Chartest] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:32:52 : [Chartest] - Pontos CP subiu em 3. CP novo: 90
+21:32:52 : [Chartest] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:32:52 : [Chartest] - Level UP para level 5. Ev: 0 - 2123x 2046y
+21:32:55 : [Chartest] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 4407. Posição do usuário: 2124x 2036y. Posição do NPC: 2133x 2032y
+21:32:55 : [Chartest] - Matou o mob Porco de Guerra. GenerID: 4425
+21:32:55 : [Chartest] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:32:56 : [Chartest] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 4407. Posição do usuário: 2123x 2034y. Posição do NPC: 2133x 2032y
+21:33:02 : [Chartest] - Matou o mob Porco de Guerra. GenerID: 4426
+21:33:02 : [Chartest] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:33:03 : [Chartest] - Matou o mob Porco de Guerra. GenerID: 4425
+21:33:03 : [Chartest] - Pontos CP subiu em 3. CP novo: 93
+21:33:03 : [Chartest] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:33:03 : [Chartest] - Level UP para level 6. Ev: 0 - 2130x 2033y
+21:33:06 : [Chartest] - Matou o mob Aguia. GenerID: 4427
+21:33:06 : [Chartest] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:33:08 : [Chartest] - Matou o mob Aguia. GenerID: 4431
+21:33:08 : [Chartest] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:33:08 : [Chartest] - Comando "/gm +item 4140"
+21:33:08 : [Chartest] - Chartest criou o item Baú_de_Experiência [4140] [0 0 0 0 0 0]
+21:33:09 : [Chartest] - Matou o mob Porco de Guerra. GenerID: 4431
+21:33:09 : [Chartest] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:33:09 : [Chartest] - Item Baú_de_Experiência [4140] [0 0 0 0 0 0] utilizado em 2140x 2026y
+21:33:10 : [Chartest] - Matou o mob Aguia. GenerID: 4429
+21:33:10 : [Chartest] - Pontos CP subiu em 3. CP novo: 96
+21:33:10 : [Chartest] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:33:10 : [Chartest] - Level UP para level 7. Ev: 0 - 2138x 2025y
+21:33:10 : [Chartest] - Dropado item Elmo_de_Couro_Duro(A) [1106] [43 2 59 0 59 0] em 2138x 2025y - Aguia (1/30)
+21:33:12 : [Chartest] - Matou o mob Porco de Guerra. GenerID: 4430
+21:33:12 : [Chartest] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:33:15 : [Chartest] - Matou o mob Aguia. GenerID: 4431
+21:33:15 : [Chartest] - Pontos CP subiu em 3. CP novo: 99
+21:33:15 : [Chartest] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:33:15 : [Chartest] - Level UP para level 8. Ev: 0 - 2141x 2027y
+21:33:16 : [Chartest] - Matou o mob Porco de Guerra. GenerID: 4431
+21:33:16 : [Chartest] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:33:18 : [Chartest] - Matou o mob Porco de Guerra. GenerID: 4429
+21:33:18 : [Chartest] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:33:36 : [Chartest] - Moveu item Elmo_de_Couro_Duro(A) [1106] [43 2 59 0 59 0] do tipo INVENTÁRIO do slot 0 para tipo INVENTÁRIO slot 1
+21:33:39 : [Chartest] - Moveu item Elmo_de_Couro_Duro(A) [1106] [43 2 59 0 59 0] do tipo INVENTÁRIO do slot 1 para tipo INVENTÁRIO slot 2
+21:33:59 : [Chartest] - Comando "/gm +erion"
+21:33:59 : [Chartest] - Teleportado para a posição 2460 2009
+21:34:09 : [Chartest] - Ataque mais rápido que 900ms. Diferença 792
+21:34:12 : [Chartest] - Matou o mob Orc Cavaleiro. GenerID: 873
+21:34:12 : [Chartest] - Pontos CP subiu em 3. CP novo: 102
+21:34:12 : [Chartest] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:34:12 : [Chartest] - Level UP para level 9. Ev: 0 - 2488x 2014y
+21:34:16 : [Chartest] - Ataque mais rápido que 900ms. Diferença 796
+21:34:23 : [Chartest] - Matou o mob Meio Orc. GenerID: 873
+21:34:23 : [Chartest] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:34:23 : [Chartest] - Pontos CP subiu em 3. CP novo: 105
+21:34:23 : [Chartest] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:34:23 : [Chartest] - Level UP para level 10. Ev: 0 - 2486x 2018y
+21:34:37 : [Chartest] - Matou o mob Meio Orc . GenerID: 866
+21:34:37 : [Chartest] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:34:37 : [Chartest] - Pontos CP subiu em 3. CP novo: 108
+21:34:37 : [Chartest] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:34:37 : [Chartest] - Level UP para level 11. Ev: 0 - 2487x 2029y
+21:34:38 : [Chartest] - Comando "/gm +item 3998"
+21:34:38 : [Chartest] - Chartest criou o item Urso_Zumbi(3dias) [3998] [0 0 0 0 0 0]
+21:34:40 : [Chartest] - Item Urso_Zumbi(3dias) deletado [3998] [0 0 0 0 0 0]. Slot 0
+21:34:45 : [Chartest] - Matou o mob Meio Orc. GenerID: 867
+21:34:45 : [Chartest] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:34:46 : [Chartest] - Comando "/gm +armia"
+21:34:46 : [Chartest] - Teleportado para a posição 2100 2100
+21:34:46 : [Chartest] - CrackError - Points: 1 type: 5
+21:34:52 : [Chartest] - ApplyBonus RequestTargetId is out of bound
+21:38:01 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:38:01 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+21:38:01 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+21:38:01 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:38:36 : Solicitou ir ao mundo...
+21:38:36 : Recebido pedido para entrar no jogo
+21:38:36 : Recebido informação do personagem completa.
+21:38:36 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:35 horas
+Posição atual: 2086x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[05] - Unicórnio[2381] [1 1 1 2 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:38:36 : [28jdi] - Personagem 28jdi enviado ao mundo 2086x 2101y - Canal 1 - Cash da conta: 0. OverPower: 798
+21:38:36 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+21:38:36 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+21:38:36 : [28jdi] - Enviado informações do personagem
+21:38:37 : [28jdi] - Comando "/day "
+21:38:37 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:38:37 : [28jdi] - Comando "/day "
+21:38:37 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:38:40 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 14
+21:38:46 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:38:53 : [28jdi] - Moveu item Conjunto_Yin-Yang(30dias) [4150] [96 30 11 20 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 5
+21:38:54 : [28jdi] - Moveu item Conjunto_Yin-Yang(30dias) [4150] [96 30 11 20 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 12
+21:38:55 : [28jdi] - Moveu item Conjunto_Yin-Yang(30dias) [4150] [96 30 11 20 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 5
+21:38:56 : [28jdi] - Moveu item Conjunto_Yin-Yang(30dias) [4150] [96 30 11 20 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 12
+21:38:58 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+21:38:58 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 14
+21:39:22 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+21:39:34 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+21:39:39 : [28jdi] - Comando "/srv 2"
+21:39:39 : [28jdi] - Solicitou trocar para o servidor 2
+21:39:39 : [28jdi] - Personagem foi desconectado. Permaneceu 00:01:37 minutos online
+21:39:42 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:39:42 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+21:39:42 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+21:39:42 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:39:46 : Solicitou ir ao mundo...
+21:39:46 : Recebido pedido para entrar no jogo
+21:39:46 : Recebido informação do personagem completa.
+21:39:46 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2097x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:39:46 : [28jdi] - Personagem 28jdi enviado ao mundo 2097x 2106y - Canal 2 - Cash da conta: 0. OverPower: 800
+21:39:46 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+21:39:46 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+21:39:46 : [28jdi] - Enviado informações do personagem
+21:39:47 : [28jdi] - Comando "/day "
+21:39:47 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:39:47 : [28jdi] - Comando "/day "
+21:39:47 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:39:51 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:39:55 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+21:39:56 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 14
+21:40:35 : [28jdi] - Comando "/gm +noatun"
+21:40:35 : [28jdi] - Teleportado para a posição 963 1748
+21:41:09 : [28jdi] - Comando "/gm +readfile PvpPremium"
+21:41:09 : [28jdi] - [Mensagem do servidor]> FILE PvpPremium READ SUCCESS
+21:41:11 : [28jdi] - Comando "/time "
+21:41:11 : [28jdi] - [Mensagem do servidor]> [28jdi] - 21:41:11 01-11-2020 922x 1766y - Canal 2
+21:41:48 : [28jdi] - Comando "/time "
+21:41:48 : [28jdi] - [Mensagem do servidor]> [28jdi] - 21:41:48 01-11-2020 922x 1766y - Canal 2
+21:41:50 : [28jdi] - Comando "/time "
+21:41:50 : [28jdi] - [Mensagem do servidor]> [28jdi] - 21:41:50 01-11-2020 922x 1766y - Canal 2
+21:41:50 : [28jdi] - Comando "/time "
+21:41:50 : [28jdi] - [Mensagem do servidor]> [28jdi] - 21:41:50 01-11-2020 922x 1766y - Canal 2
+21:42:00 : [28jdi] - [Mensagem do servidor]: O PvP Premium foi iniciado em Noatun!
+21:42:00 : [28jdi] - Enviado para a cidade através do ClearAreaTeleport. Posição: 922x 1768y. Teleportado para "Noatun PvP"
+21:42:00 : [28jdi] - Teleportado para a posição 939 1774
+21:42:01 : [28jdi] - Comando "/gm +joalheiro"
+21:42:06 : [28jdi] - Comando "/gm +joalheiro"
+21:42:29 : [28jdi] - [Mensagem do servidor]> BonecoNv1 está dominando o Altar Premium
+21:44:51 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:45:16 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+21:45:16 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:45:17 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:45:17 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+21:45:17 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+21:45:17 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:45:20 : Solicitou ir ao mundo...
+21:45:20 : Recebido pedido para entrar no jogo
+21:45:20 : Recebido informação do personagem completa.
+21:45:20 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2090x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:45:20 : [28jdi] - Personagem 28jdi enviado ao mundo 2090x 2102y - Canal 2 - Cash da conta: 0. OverPower: 800
+21:45:20 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+21:45:20 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+21:45:20 : [28jdi] - Enviado informações do personagem
+21:45:21 : [28jdi] - Comando "/day "
+21:45:21 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:45:21 : [28jdi] - Comando "/day "
+21:45:21 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:45:23 : [28jdi] - Comando "/gm +armia"
+21:45:23 : [28jdi] - Teleportado para a posição 2100 2100
+21:45:26 : [28jdi] - Comando "/gm +noatun"
+21:45:26 : [28jdi] - Teleportado para a posição 963 1748
+21:45:30 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:46:06 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+21:46:18 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+21:46:20 : [28jdi] - Comando "/gm +armia"
+21:46:20 : [28jdi] - Teleportado para a posição 2100 2100
+21:47:00 : [28jdi] - Comando "/gm +kefra"
+21:47:00 : [28jdi] - Teleportado para a posição 3290 1695
+21:47:04 : [28jdi] - Comando "/gm +hallkefra"
+21:47:04 : [28jdi] - Teleportado para a posição 2365 3888
+21:47:08 : [28jdi] - Clicado no NPC [Sobrevivente]. Face 1. Race: 8. GenerateId: 3419. Posição do usuário: 2365x 3885y. Posição do NPC: 2369x 3888y
+21:47:19 : [28jdi] - Comando "/gm +server 0"
+21:47:19 : [28jdi] - [Mensagem do servidor]> Servidor foi aberto
+21:47:27 : [28jdi] - Ataque mais rápido que 900ms. Diferença 809
+21:48:53 : [28jdi] - Comando "/gm +admin"
+21:51:01 : [28jdi] - Comando "/SenhaParaDesblo queio"
+21:51:01 : [28jdi] - [Mensagem do servidor]> Este personagem não está conectado.
+21:51:03 : [28jdi] - Comando "/SenhaParaDesblo queio "
+21:51:03 : [28jdi] - [Mensagem do servidor]> Este personagem não está conectado.
+21:53:50 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:53:51 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+21:53:51 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:53:52 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:53:52 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+21:53:52 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+21:53:53 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:53:55 : Solicitou ir ao mundo...
+21:53:55 : Recebido pedido para entrar no jogo
+21:53:55 : Recebido informação do personagem completa.
+21:53:55 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2095x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:53:55 : [28jdi] - Personagem 28jdi enviado ao mundo 2095x 2104y - Canal 2 - Cash da conta: 0. OverPower: 800
+21:53:55 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+21:53:55 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+21:53:56 : [28jdi] - Enviado informações do personagem
+21:53:56 : [28jdi] - Comando "/day "
+21:53:56 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:53:57 : [28jdi] - Comando "/day "
+21:53:57 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:53:59 : [28jdi] - Comando "/Desbloquear "
+21:53:59 : [28jdi] - [Mensagem do servidor]> Este personagem não está conectado.
+21:54:03 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:54:16 : [28jdi] - Comando "/evasao "
+21:54:16 : [28jdi] - [Mensagem do servidor]> O usuário não está conectado
+21:54:34 : [28jdi] - Comando "/spk 12312312"
+21:55:03 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+21:56:06 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:56:06 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+21:56:06 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:56:06 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+21:56:06 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+21:56:06 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:56:06 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:56:07 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+21:56:07 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+21:56:07 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:56:16 : Solicitou ir ao mundo...
+21:56:16 : Recebido pedido para entrar no jogo
+21:56:16 : Recebido informação do personagem completa.
+21:56:16 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2089x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:56:16 : [28jdi] - Personagem 28jdi enviado ao mundo 2089x 2099y - Canal 2 - Cash da conta: 0. OverPower: 800
+21:56:16 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+21:56:16 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+21:56:16 : [28jdi] - Enviado informações do personagem
+21:56:17 : [28jdi] - Comando "/day "
+21:56:17 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:56:17 : [28jdi] - Comando "/day "
+21:56:17 : [28jdi] - [Mensagem do servidor]> !#11 2
+21:56:31 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:56:34 : [28jdi] - Comando "/gm +hallkefra"
+21:56:37 : [28jdi] - Comando "/gm "
+21:56:37 : [28jdi] - [Mensagem do servidor]> Utilize /gm +command
+21:56:43 : [28jdi] - Comando "/gm +kefra"
+21:56:48 : [28jdi] - Comando "/gm +armia"
+21:57:19 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+21:57:31 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+21:58:33 : [28jdi] - Comando "/Desbloquear "
+21:58:33 : [28jdi] - [Mensagem do servidor]> Este personagem não está conectado.
+21:58:38 : [28jdi] - Comando "/gm +armia"
+21:58:38 : [28jdi] - Teleportado para a posição 2100 2100
+21:58:42 : [28jdi] - Comando "/gm +hallkefra"
+21:58:42 : [28jdi] - Teleportado para a posição 2365 3888
+21:59:14 : [28jdi] - Matou BonecoNv1 em 2365x 3885y
+21:59:46 : [28jdi] - Matou BonecoNv1 em 2363x 3873y
+22:00:04 : [28jdi] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:00:04 : [28jdi] - Personagem foi desconectado. Permaneceu 00:03:57 minutos online
+22:00:15 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 3
+22:00:15 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+22:00:15 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+22:00:15 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:00:19 : Solicitou ir ao mundo...
+22:00:19 : Recebido pedido para entrar no jogo
+22:00:19 : Recebido informação do personagem completa.
+22:00:19 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2091x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 6 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:00:19 : [28jdi] - Personagem 28jdi enviado ao mundo 2091x 2100y - Canal 2 - Cash da conta: 0. OverPower: 800
+22:00:19 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+22:00:19 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+22:00:19 : [28jdi] - Enviado informações do personagem
+22:00:20 : [28jdi] - Comando "/day "
+22:00:20 : [28jdi] - [Mensagem do servidor]> !#11 2
+22:00:20 : [28jdi] - Comando "/day "
+22:00:20 : [28jdi] - [Mensagem do servidor]> !#11 2
+22:00:23 : [28jdi] - Comando "/Desbloquear "
+22:00:23 : [28jdi] - [Mensagem do servidor]> Este personagem não está conectado.
+22:00:30 : [28jdi] - Comando "/gm +hallkefra"
+22:00:30 : [28jdi] - Teleportado para a posição 2365 3888
+22:00:31 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:00:40 : [28jdi] - Matou BonecoNv1 em 2363x 3874y
+22:00:57 : [28jdi] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:00:57 : [28jdi] - Personagem foi desconectado. Permaneceu 00:00:42 minutos online
+22:01:33 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 4
+22:01:33 : Usuário logou no jogo com clientId 4. - Servidor 2. Gold do banco: 0
+22:01:33 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+22:01:34 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:01:37 : Solicitou ir ao mundo...
+22:01:37 : Recebido pedido para entrar no jogo
+22:01:37 : Recebido informação do personagem completa.
+22:01:37 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2086x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 6 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:01:37 : [28jdi] - Personagem 28jdi enviado ao mundo 2086x 2096y - Canal 2 - Cash da conta: 0. OverPower: 800
+22:01:37 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+22:01:37 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+22:01:37 : [28jdi] - Enviado informações do personagem
+22:01:38 : [28jdi] - Comando "/day "
+22:01:38 : [28jdi] - [Mensagem do servidor]> !#11 2
+22:01:38 : [28jdi] - Comando "/day "
+22:01:38 : [28jdi] - [Mensagem do servidor]> !#11 2
+22:01:39 : [28jdi] - Comando "/Desbloquear "
+22:01:39 : [28jdi] - [Mensagem do servidor]> Este personagem não está conectado.
+22:01:43 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:01:43 : [28jdi] - Comando "/gm +hallkefra"
+22:01:43 : [28jdi] - Teleportado para a posição 2365 3888
+22:01:49 : [28jdi] - Matou BonecoNv1 em 2364x 3876y
+22:03:16 : [28jdi] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+22:03:16 : [28jdi] - Personagem foi desconectado. Permaneceu 00:01:42 minutos online
+22:05:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 5
+22:05:03 : Usuário logou no jogo com clientId 5. - Servidor 2. Gold do banco: 0
+22:05:03 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+22:05:04 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:05:07 : Solicitou ir ao mundo...
+22:05:07 : Recebido pedido para entrar no jogo
+22:05:07 : Recebido informação do personagem completa.
+22:05:07 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2096x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[12] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:05:07 : [28jdi] - Personagem 28jdi enviado ao mundo 2096x 2098y - Canal 2 - Cash da conta: 0. OverPower: 800
+22:05:07 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+22:05:07 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+22:05:07 : [28jdi] - Enviado informações do personagem
+22:05:08 : [28jdi] - Comando "/day "
+22:05:08 : [28jdi] - [Mensagem do servidor]> !#11 2
+22:05:08 : [28jdi] - Comando "/day "
+22:05:08 : [28jdi] - [Mensagem do servidor]> !#11 2
+22:05:11 : [28jdi] - Comando "/Desbloquear "
+22:05:11 : [28jdi] - [Mensagem do servidor]> Este personagem não está conectado.
+22:05:14 : [28jdi] - Comando "/gm +hallkefra"
+22:05:14 : [28jdi] - Teleportado para a posição 2365 3888
+22:05:19 : [28jdi] - Matou BonecoNv1 em 2365x 3875y
+22:05:19 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:05:41 : [28jdi] - Matou BonecoNv1 em 2365x 3883y
+22:07:39 : [28jdi] - Matou BonecoNv1 em 2366x 3881y
+22:08:05 : [28jdi] - Comando "/gm "
+22:08:05 : [28jdi] - [Mensagem do servidor]> Utilize /gm +command
+22:08:13 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+22:08:57 : [28jdi] - Moveu item Conjunto_Yin-Yang(30dias) [4150] [96 30 11 20 0 0] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 1
+22:09:02 : [28jdi] - Comando "/Desbloquear "
+22:09:02 : [28jdi] - [Mensagem do servidor]> Este personagem não está conectado.
+22:09:08 : [28jdi] - Comando "/gm +hallkefra"
+22:09:10 : [28jdi] - Comando "/gm +hallkefra"
+22:09:13 : [28jdi] - Moveu item Conjunto_Yin-Yang(30dias) [4150] [96 30 11 20 0 0] do tipo INVENTÁRIO do slot 1 para tipo INVENTÁRIO slot 11
+22:09:29 : [28jdi] - Morreu para BonecoNv1 2364x 3879y
+22:09:29 : [28jdi] - [Mensagem do servidor]> Você perdeu 0 de experiência
+22:09:29 : [28jdi] - Perdeu 0 de experiência.
+22:11:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+22:11:40 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:11:43 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.132.231.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+22:11:43 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+22:11:43 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+22:11:43 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:11:47 : Solicitou ir ao mundo...
+22:11:47 : Recebido pedido para entrar no jogo
+22:11:47 : Recebido informação do personagem completa.
+22:11:47 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[05] - Unicórnio[2381] [1 1 1 2 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[11] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:11:47 : [28jdi] - Personagem 28jdi enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 0
+22:11:47 : [28jdi] - Gold atual: 999998960. Classe: 0 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+22:11:47 : [28jdi] - Resetado a contagem de entradas água! Day: 1095715393-305. Total: -16908209
+22:11:47 : [28jdi] - Enviado informações do personagem
+22:11:48 : [28jdi] - Comando "/day "
+22:11:48 : [28jdi] - [Mensagem do servidor]> !#11 2
+22:11:48 : [28jdi] - Comando "/day "
+22:11:48 : [28jdi] - [Mensagem do servidor]> !#11 2
+22:11:48 : [28jdi] - Comando "/day "
+22:11:48 : [28jdi] - [Mensagem do servidor]> !#11 2
+22:11:50 : [28jdi] - Comando "/gm +hallkefra"
+22:11:50 : [28jdi] - Teleportado para a posição 2365 3888
+22:12:02 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:12:20 : [28jdi] - Comando "/Desbloquear "
+22:12:20 : [28jdi] - [Mensagem do servidor]> Este personagem não está conectado.
+22:12:20 : [28jdi] - Morreu para BonecoNv1 2367x 3883y
+22:12:20 : [28jdi] - [Mensagem do servidor]> Level abaixo de 20 não perde experiência.
+22:12:31 : [28jdi] - DoRecall - Enviado para cidade: 2099x 2106y
+22:12:31 : [28jdi] - Usuário reviveu
+22:12:50 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+22:13:02 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+22:22:21 : [28jdi] - [Mensagem do servidor]> Guild Chatting : Off
+22:22:24 : [28jdi] - [Mensagem do servidor]> Guild Chatting : On
+22:22:30 : [28jdi] - Comando "/gm +set level 399"
+22:22:33 : [28jdi] - Comando "/Desbloquear "
+22:22:33 : [28jdi] - [Mensagem do servidor]> Este personagem não está conectado.
+22:22:34 : [28jdi] - Comando "/gm +set level 399"
+22:22:37 : [28jdi] - Moveu item Unicórnio [2381] [1 1 1 2 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 14
+22:41:47 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 999998960
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:52 horas
+Posição atual: 2092x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [1 1 1 2 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[10] - Escudo_de_Madeira[1701] [0 0 0 0 0 0]
+[11] - Conjunto_Yin-Yang(30dias)[4150] [96 30 11 20 0 0]
+[60] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[61] - Bolsa_do_Andarílho[3467] [106 9 110 11 109 120]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:51:39 : [28jdi] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:51:39 : [28jdi] - Personagem foi desconectado. Permaneceu 00:39:40 minutos online

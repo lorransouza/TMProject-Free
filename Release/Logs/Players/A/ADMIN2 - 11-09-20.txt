@@ -1,0 +1,1658 @@
+
+00:20:30 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.233.17.206 Mac: (EA:C9:7D:F2:29:49). ClientId: 1
+00:20:30 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 1
+00:20:30 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+00:20:34 : O login admin2 tentou logar na conta com o mesmo mac.
+00:20:34 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 186.233.17.206 Mac: (EA:C9:7D:F2:29:49). ClientId: 2
+00:20:34 : Conta ADMIN2 logado na conta
+Status da conta: SELEÇÃO DE PERSONAGEM
+
+00:20:34 : [Mensagem do servidor]> Senha incorreta.
+00:20:34 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+00:20:37 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+00:20:40 : O login admin tentou logar na conta com o mesmo mac.
+00:20:47 : Solicitou ir ao mundo...
+00:20:47 : Recebido pedido para entrar no jogo
+00:20:47 : Recebido informação do personagem completa.
+00:20:47 : [Aaaa] - [INFORMAÇÕES DA CONTA]
+Personagem online: Aaaa
+Gold atual: 58
+Level atual: 22
+Experiência atual: 52720
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:18 horas
+Posição atual: 2098x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rei_Rubro[304] [0 0 0 0 0 0]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 0 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 0 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 0 0 0 0 0]
+[06] - Arco_de_Caveira[943] [43 9 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Robe_Pele_de_Animal(A)[1406] [43 0 71 40 60 10]
+[63] - Marca_do_Assassino[547] [141 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN]	USER_PLAY	[Foema] (level: 1010 ev: 1)	
+
+00:20:47 : [Aaaa] - Personagem Aaaa enviado ao mundo 2098x 2097y - Canal 1 - Cash da conta: 0. OverPower: 89
+00:20:47 : [Aaaa] - Gold atual: 58. Classe: 3 Evolução: 0. Experiência: 52720. Nível: 22. Info: 0. GuildID: 0. CP: 66. Pontos de Contribuição: 0. Limite: 0
+00:20:47 : [Aaaa] - Resetado a contagem de entradas água! Day: 253-254. Total: 0
+00:20:47 : [Aaaa] - Enviado informações do personagem
+00:20:48 : [Aaaa] - Comando "/day "
+00:20:48 : [Aaaa] - [Mensagem do servidor]> !#11 2
+00:20:54 : [Aaaa] - O usuário não enviou o pacote de integridade de macaddress
+00:21:02 : [Aaaa] - Teleportado para a posição 290 3742
+00:21:11 : [Aaaa] - Removido o Hp do mob Arq Caveira. HP removido: 0. HP Atual: 5000
+00:21:13 : [Aaaa] - Removido o Hp do mob Arq Caveira. HP removido: 0. HP Atual: 5000
+00:21:14 : [Aaaa] - Removido o Hp do mob Arq Caveira. HP removido: 0. HP Atual: 5000
+00:21:15 : [Aaaa] - Removido o Hp do mob Arq Caveira. HP removido: 0. HP Atual: 5000
+00:21:32 : [Aaaa] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+00:21:32 : [Aaaa] - Personagem foi desconectado. Permaneceu 00:01:03 minutos online
+11:05:38 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+11:05:38 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+11:05:38 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+11:05:38 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:06:51 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+11:06:56 : Solicitou ir ao mundo...
+11:06:56 : Recebido pedido para entrar no jogo
+11:06:56 : Recebido informação do personagem completa.
+11:06:56 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 997471377
+Level atual: 40
+Experiência atual: 311021
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:18 horas
+Posição atual: 2098x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rosto_de_Esqueleto[260] [0 0 0 0 0 0]
+[01] - Corpo_de_Esqueleto_Mago[273] [0 0 0 0 0 0]
+[06] - Katana[939] [43 250 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Pedido_de_Caça(Dung)[3433] [61 87 0 0 0 0]
+[02] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[06] - Botas_de_Couro(A)[1151] [43 1 73 6 59 0]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 2 71 40 2 12]
+[08] - Calça_de_Couro_Duro(A)[1130] [43 0 71 60 60 10]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Jaqueta_Acolchoada(A)[1556] [43 0 71 60 60 6]
+[11] - Botas_Vampíricas(A)[1839] [43 0 73 12 59 0]
+[12] - Calça_Sombria(M)[1285] [43 0 3 15 59 0]
+[13] - Chapéu_de_Bandagem(A)[2051] [43 0 59 0 3 5]
+[14] - Calça_de_Osso(M)[1998] [43 1 3 15 59 0]
+[15] - Calça_de_Malha(N)[1134] [11 22 71 40 2 18]
+[16] - Katana[939] [43 9 0 0 0 0]
+[17] - Katana[939] [43 250 2 255 0 0]
+[18] - Varinha_da_Guerra[892] [43 1 74 3 59 0]
+[19] - Armadura_de_Couro(A)[1115] [43 1 71 40 59 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[22] - Elmo_Dourado(N)[1176] [43 0 59 0 4 20]
+[24] - Katana[939] [43 9 0 0 0 0]
+[25] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[26] - Katana[939] [43 250 2 255 255 0]
+[27] - Katana[939] [43 250 2 255 0 0]
+[28] - Pedido_de_Caça(Dung)[3433] [61 93 0 0 0 0]
+[29] - Arco_Hidra[2121] [43 0 2 9 26 12]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:06:56 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2098x 2100y - Canal 2 - Cash da conta: 0. OverPower: 155
+11:06:56 : [BEEEMEMEE] - Gold atual: 997471377. Classe: 2 Evolução: 0. Experiência: 311021. Nível: 40. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+11:06:56 : [BEEEMEMEE] - Enviado informações do personagem
+11:06:58 : [BEEEMEMEE] - Comando "/day "
+11:06:58 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+11:07:03 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+11:10:00 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+11:10:00 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:04:22 minutos online
+11:41:06 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+11:41:06 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+11:41:06 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+11:41:07 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:41:11 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+11:41:13 : Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+11:41:13 : Personagem foi desconectado. Permaneceu 00:00:06 minutos online
+11:43:21 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+11:43:21 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+11:43:21 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+11:43:25 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+11:43:29 : Solicitou ir ao mundo...
+11:43:29 : Recebido pedido para entrar no jogo
+11:43:29 : Recebido informação do personagem completa.
+11:43:29 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 997471377
+Level atual: 40
+Experiência atual: 311021
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:09 horas
+Posição atual: 2091x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rosto_de_Esqueleto[260] [0 0 0 0 0 0]
+[01] - Corpo_de_Esqueleto_Mago[273] [0 0 0 0 0 0]
+[06] - Katana[939] [43 250 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Pedido_de_Caça(Dung)[3433] [61 87 0 0 0 0]
+[02] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[06] - Botas_de_Couro(A)[1151] [43 1 73 6 59 0]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 2 71 40 2 12]
+[08] - Calça_de_Couro_Duro(A)[1130] [43 0 71 60 60 10]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Jaqueta_Acolchoada(A)[1556] [43 0 71 60 60 6]
+[11] - Botas_Vampíricas(A)[1839] [43 0 73 12 59 0]
+[12] - Calça_Sombria(M)[1285] [43 0 3 15 59 0]
+[13] - Chapéu_de_Bandagem(A)[2051] [43 0 59 0 3 5]
+[14] - Calça_de_Osso(M)[1998] [43 1 3 15 59 0]
+[15] - Calça_de_Malha(N)[1134] [11 22 71 40 2 18]
+[16] - Katana[939] [43 9 0 0 0 0]
+[17] - Katana[939] [43 250 2 255 0 0]
+[18] - Varinha_da_Guerra[892] [43 1 74 3 59 0]
+[19] - Armadura_de_Couro(A)[1115] [43 1 71 40 59 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[22] - Elmo_Dourado(N)[1176] [43 0 59 0 4 20]
+[24] - Katana[939] [43 9 0 0 0 0]
+[25] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[26] - Katana[939] [43 250 2 255 255 0]
+[27] - Katana[939] [43 250 2 255 0 0]
+[28] - Pedido_de_Caça(Dung)[3433] [61 93 0 0 0 0]
+[29] - Arco_Hidra[2121] [43 0 2 9 26 12]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:43:29 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2091x 2101y - Canal 2 - Cash da conta: 0. OverPower: 155
+11:43:29 : [BEEEMEMEE] - Gold atual: 997471377. Classe: 2 Evolução: 0. Experiência: 311021. Nível: 40. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+11:43:29 : [BEEEMEMEE] - Enviado informações do personagem
+11:43:31 : [BEEEMEMEE] - Comando "/day "
+11:43:31 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+11:43:40 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+11:43:41 : [BEEEMEMEE] - Comando "/gm +set 0 76"
+11:43:52 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+11:43:52 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:00:31 minutos online
+11:44:02 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+11:44:02 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+11:44:02 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+11:44:07 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+11:44:08 : Solicitou ir ao mundo...
+11:44:08 : Recebido pedido para entrar no jogo
+11:44:08 : Recebido informação do personagem completa.
+11:44:09 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 997471377
+Level atual: 40
+Experiência atual: 311021
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2091x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rena[76] [0 0 0 0 0 0]
+[01] - Corpo_de_Esqueleto_Mago[273] [0 0 0 0 0 0]
+[06] - Katana[939] [43 250 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Pedido_de_Caça(Dung)[3433] [61 87 0 0 0 0]
+[02] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[06] - Botas_de_Couro(A)[1151] [43 1 73 6 59 0]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 2 71 40 2 12]
+[08] - Calça_de_Couro_Duro(A)[1130] [43 0 71 60 60 10]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Jaqueta_Acolchoada(A)[1556] [43 0 71 60 60 6]
+[11] - Botas_Vampíricas(A)[1839] [43 0 73 12 59 0]
+[12] - Calça_Sombria(M)[1285] [43 0 3 15 59 0]
+[13] - Chapéu_de_Bandagem(A)[2051] [43 0 59 0 3 5]
+[14] - Calça_de_Osso(M)[1998] [43 1 3 15 59 0]
+[15] - Calça_de_Malha(N)[1134] [11 22 71 40 2 18]
+[16] - Katana[939] [43 9 0 0 0 0]
+[17] - Katana[939] [43 250 2 255 0 0]
+[18] - Varinha_da_Guerra[892] [43 1 74 3 59 0]
+[19] - Armadura_de_Couro(A)[1115] [43 1 71 40 59 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[22] - Elmo_Dourado(N)[1176] [43 0 59 0 4 20]
+[24] - Katana[939] [43 9 0 0 0 0]
+[25] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[26] - Katana[939] [43 250 2 255 255 0]
+[27] - Katana[939] [43 250 2 255 0 0]
+[28] - Pedido_de_Caça(Dung)[3433] [61 93 0 0 0 0]
+[29] - Arco_Hidra[2121] [43 0 2 9 26 12]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:44:09 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2091x 2093y - Canal 2 - Cash da conta: 0. OverPower: 155
+11:44:09 : [BEEEMEMEE] - Gold atual: 997471377. Classe: 2 Evolução: 0. Experiência: 311021. Nível: 40. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+11:44:09 : [BEEEMEMEE] - Enviado informações do personagem
+11:44:10 : [BEEEMEMEE] - Comando "/day "
+11:44:10 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+11:44:16 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+11:45:06 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+11:45:06 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:01:03 minutos online
+11:45:41 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+11:45:41 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+11:45:41 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+11:45:41 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+11:45:41 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+11:45:41 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+11:45:41 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+11:45:41 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+11:45:47 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+11:45:48 : Solicitou ir ao mundo...
+11:45:48 : Recebido pedido para entrar no jogo
+11:45:48 : Recebido informação do personagem completa.
+11:45:48 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 997471377
+Level atual: 40
+Experiência atual: 311021
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2096x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rena[76] [0 0 0 0 0 0]
+[01] - Corpo_de_Esqueleto_Mago[273] [0 0 0 0 0 0]
+[06] - Katana[939] [43 250 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Pedido_de_Caça(Dung)[3433] [61 87 0 0 0 0]
+[02] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[06] - Botas_de_Couro(A)[1151] [43 1 73 6 59 0]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 2 71 40 2 12]
+[08] - Calça_de_Couro_Duro(A)[1130] [43 0 71 60 60 10]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Jaqueta_Acolchoada(A)[1556] [43 0 71 60 60 6]
+[11] - Botas_Vampíricas(A)[1839] [43 0 73 12 59 0]
+[12] - Calça_Sombria(M)[1285] [43 0 3 15 59 0]
+[13] - Chapéu_de_Bandagem(A)[2051] [43 0 59 0 3 5]
+[14] - Calça_de_Osso(M)[1998] [43 1 3 15 59 0]
+[15] - Calça_de_Malha(N)[1134] [11 22 71 40 2 18]
+[16] - Katana[939] [43 9 0 0 0 0]
+[17] - Katana[939] [43 250 2 255 0 0]
+[18] - Varinha_da_Guerra[892] [43 1 74 3 59 0]
+[19] - Armadura_de_Couro(A)[1115] [43 1 71 40 59 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[22] - Elmo_Dourado(N)[1176] [43 0 59 0 4 20]
+[24] - Katana[939] [43 9 0 0 0 0]
+[25] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[26] - Katana[939] [43 250 2 255 255 0]
+[27] - Katana[939] [43 250 2 255 0 0]
+[28] - Pedido_de_Caça(Dung)[3433] [61 93 0 0 0 0]
+[29] - Arco_Hidra[2121] [43 0 2 9 26 12]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:45:48 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2096x 2096y - Canal 2 - Cash da conta: 0. OverPower: 155
+11:45:48 : [BEEEMEMEE] - Gold atual: 997471377. Classe: 2 Evolução: 0. Experiência: 311021. Nível: 40. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+11:45:48 : [BEEEMEMEE] - Enviado informações do personagem
+11:45:50 : [BEEEMEMEE] - Comando "/day "
+11:45:50 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+11:46:04 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+11:46:21 : [BEEEMEMEE] - Teleportado para a posição 1046 1725
+11:46:21 : [BEEEMEMEE] - Solicitado teleporte na posição 2117x 2101y e teleportado para 1046x 1725y
+11:46:30 : [BEEEMEMEE] - Teleportado para a posição 2458 2019
+11:46:30 : [BEEEMEMEE] - Solicitado teleporte na posição 1046x 1709y e teleportado para 2458x 2019y
+11:46:41 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 873
+11:46:44 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 859
+11:46:45 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 873
+11:46:48 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 873
+11:47:02 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 875
+11:47:10 : [BEEEMEMEE] - Matou o mob Meio Orc . GenerID: 866
+11:47:13 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 873
+11:47:14 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 873
+11:47:27 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 873
+11:47:32 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 671
+11:47:34 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 875
+11:47:35 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 875
+11:47:42 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 875
+11:47:48 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 682
+11:47:50 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 873
+11:47:50 : [BEEEMEMEE] - Dropado item Botas_de_Bandagem(A) [2055] [43 0 73 24 74 9] em 2484x 2010y - Meio Orc (1/294)
+11:47:52 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 873
+11:47:53 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 873
+11:47:56 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 875
+11:48:17 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 873
+11:48:18 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 873
+11:48:22 : [BEEEMEMEE] - Matou o mob Meio Orc . GenerID: 866
+11:48:30 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 684
+11:48:32 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 875
+11:48:35 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 792
+11:48:35 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 875
+11:48:41 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 839
+11:48:42 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 873
+11:48:44 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 873
+11:48:53 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 846
+11:48:54 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 875
+11:48:56 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 875
+11:49:09 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 875
+11:49:09 : [BEEEMEMEE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:49:09 : [BEEEMEMEE] - Level UP para level 41. Ev: 0 - 2487x 2009y
+11:49:14 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 731
+11:49:15 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 873
+11:49:16 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 873
+11:49:19 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 873
+11:49:22 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 873
+11:49:39 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 873
+11:49:43 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 873
+11:49:45 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 0
+11:49:46 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 873
+11:49:47 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 716
+11:49:48 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 873
+11:56:12 : [BEEEMEMEE] - Desconectado por inatividade... Last: 1177240. Counter: 1177984. Status: 22
+11:56:12 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:10:30 minutos online
+12:17:41 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+12:17:41 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+12:17:41 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+12:17:42 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:17:46 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+12:17:47 : Solicitou ir ao mundo...
+12:17:47 : Recebido pedido para entrar no jogo
+12:17:47 : Recebido informação do personagem completa.
+12:17:47 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 997470677
+Level atual: 41
+Experiência atual: 317930
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2099x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rena[76] [0 0 0 0 0 0]
+[01] - Corpo_de_Esqueleto_Mago[273] [0 0 0 0 0 0]
+[06] - Katana[939] [43 250 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Pedido_de_Caça(Dung)[3433] [61 87 0 0 0 0]
+[02] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[06] - Botas_de_Couro(A)[1151] [43 1 73 6 59 0]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 2 71 40 2 12]
+[08] - Calça_de_Couro_Duro(A)[1130] [43 0 71 60 60 10]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Jaqueta_Acolchoada(A)[1556] [43 0 71 60 60 6]
+[11] - Botas_Vampíricas(A)[1839] [43 0 73 12 59 0]
+[12] - Calça_Sombria(M)[1285] [43 0 3 15 59 0]
+[13] - Chapéu_de_Bandagem(A)[2051] [43 0 59 0 3 5]
+[14] - Calça_de_Osso(M)[1998] [43 1 3 15 59 0]
+[15] - Calça_de_Malha(N)[1134] [11 22 71 40 2 18]
+[16] - Katana[939] [43 9 0 0 0 0]
+[17] - Katana[939] [43 250 2 255 0 0]
+[18] - Varinha_da_Guerra[892] [43 1 74 3 59 0]
+[19] - Armadura_de_Couro(A)[1115] [43 1 71 40 59 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[22] - Elmo_Dourado(N)[1176] [43 0 59 0 4 20]
+[23] - Botas_de_Bandagem(A)[2055] [43 0 73 24 74 9]
+[24] - Katana[939] [43 9 0 0 0 0]
+[25] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[26] - Katana[939] [43 250 2 255 255 0]
+[27] - Katana[939] [43 250 2 255 0 0]
+[28] - Pedido_de_Caça(Dung)[3433] [61 93 0 0 0 0]
+[29] - Arco_Hidra[2121] [43 0 2 9 26 12]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:17:47 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2099x 2094y - Canal 2 - Cash da conta: 0. OverPower: 157
+12:17:47 : [BEEEMEMEE] - Gold atual: 997470677. Classe: 2 Evolução: 0. Experiência: 317930. Nível: 41. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+12:17:47 : [BEEEMEMEE] - Enviado informações do personagem
+12:17:50 : [BEEEMEMEE] - Comando "/day "
+12:17:50 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+12:17:52 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+12:17:56 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:17:56 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:00:15 minutos online
+13:31:00 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+13:31:00 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+13:31:00 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+13:31:00 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:31:04 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+13:31:07 : Solicitou ir ao mundo...
+13:31:07 : Recebido pedido para entrar no jogo
+13:31:07 : Recebido informação do personagem completa.
+13:31:07 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 997470677
+Level atual: 41
+Experiência atual: 317930
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2089x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rena[76] [0 0 0 0 0 0]
+[01] - Corpo_de_Esqueleto_Mago[273] [0 0 0 0 0 0]
+[06] - Katana[939] [43 250 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Pedido_de_Caça(Dung)[3433] [61 87 0 0 0 0]
+[02] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[06] - Botas_de_Couro(A)[1151] [43 1 73 6 59 0]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 2 71 40 2 12]
+[08] - Calça_de_Couro_Duro(A)[1130] [43 0 71 60 60 10]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Jaqueta_Acolchoada(A)[1556] [43 0 71 60 60 6]
+[11] - Botas_Vampíricas(A)[1839] [43 0 73 12 59 0]
+[12] - Calça_Sombria(M)[1285] [43 0 3 15 59 0]
+[13] - Chapéu_de_Bandagem(A)[2051] [43 0 59 0 3 5]
+[14] - Calça_de_Osso(M)[1998] [43 1 3 15 59 0]
+[15] - Calça_de_Malha(N)[1134] [11 22 71 40 2 18]
+[16] - Katana[939] [43 9 0 0 0 0]
+[17] - Katana[939] [43 250 2 255 0 0]
+[18] - Varinha_da_Guerra[892] [43 1 74 3 59 0]
+[19] - Armadura_de_Couro(A)[1115] [43 1 71 40 59 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[22] - Elmo_Dourado(N)[1176] [43 0 59 0 4 20]
+[23] - Botas_de_Bandagem(A)[2055] [43 0 73 24 74 9]
+[24] - Katana[939] [43 9 0 0 0 0]
+[25] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[26] - Katana[939] [43 250 2 255 255 0]
+[27] - Katana[939] [43 250 2 255 0 0]
+[28] - Pedido_de_Caça(Dung)[3433] [61 93 0 0 0 0]
+[29] - Arco_Hidra[2121] [43 0 2 9 26 12]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:31:07 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2089x 2100y - Canal 2 - Cash da conta: 0. OverPower: 157
+13:31:07 : [BEEEMEMEE] - Gold atual: 997470677. Classe: 2 Evolução: 0. Experiência: 317930. Nível: 41. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:31:07 : [BEEEMEMEE] - Enviado informações do personagem
+13:31:09 : [BEEEMEMEE] - Comando "/day "
+13:31:09 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+13:31:17 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+13:31:18 : [BEEEMEMEE] - Comando "/gm +set 0 77"
+13:31:25 : [BEEEMEMEE] - Comando "/gm +set 0 260"
+13:34:24 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:34:24 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:03:24 minutos online
+13:34:39 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+13:34:39 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+13:34:39 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+13:34:45 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+13:34:46 : Solicitou ir ao mundo...
+13:34:46 : Recebido pedido para entrar no jogo
+13:34:46 : Recebido informação do personagem completa.
+13:34:46 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 997470677
+Level atual: 41
+Experiência atual: 317930
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2087x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rosto_de_Esqueleto[260] [0 0 0 0 0 0]
+[01] - Corpo_de_Esqueleto_Mago[273] [0 0 0 0 0 0]
+[06] - Katana[939] [43 250 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Pedido_de_Caça(Dung)[3433] [61 87 0 0 0 0]
+[02] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[06] - Botas_de_Couro(A)[1151] [43 1 73 6 59 0]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 2 71 40 2 12]
+[08] - Calça_de_Couro_Duro(A)[1130] [43 0 71 60 60 10]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Jaqueta_Acolchoada(A)[1556] [43 0 71 60 60 6]
+[11] - Botas_Vampíricas(A)[1839] [43 0 73 12 59 0]
+[12] - Calça_Sombria(M)[1285] [43 0 3 15 59 0]
+[13] - Chapéu_de_Bandagem(A)[2051] [43 0 59 0 3 5]
+[14] - Calça_de_Osso(M)[1998] [43 1 3 15 59 0]
+[15] - Calça_de_Malha(N)[1134] [11 22 71 40 2 18]
+[16] - Katana[939] [43 9 0 0 0 0]
+[17] - Katana[939] [43 250 2 255 0 0]
+[18] - Varinha_da_Guerra[892] [43 1 74 3 59 0]
+[19] - Armadura_de_Couro(A)[1115] [43 1 71 40 59 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[22] - Elmo_Dourado(N)[1176] [43 0 59 0 4 20]
+[23] - Botas_de_Bandagem(A)[2055] [43 0 73 24 74 9]
+[24] - Katana[939] [43 9 0 0 0 0]
+[25] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[26] - Katana[939] [43 250 2 255 255 0]
+[27] - Katana[939] [43 250 2 255 0 0]
+[28] - Pedido_de_Caça(Dung)[3433] [61 93 0 0 0 0]
+[29] - Arco_Hidra[2121] [43 0 2 9 26 12]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:34:46 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2087x 2100y - Canal 2 - Cash da conta: 0. OverPower: 157
+13:34:46 : [BEEEMEMEE] - Gold atual: 997470677. Classe: 2 Evolução: 0. Experiência: 317930. Nível: 41. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:34:46 : [BEEEMEMEE] - Enviado informações do personagem
+13:34:48 : [BEEEMEMEE] - Comando "/day "
+13:34:48 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+13:34:53 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+13:34:55 : [BEEEMEMEE] - Comando "/gm +set 0 277"
+13:35:02 : [BEEEMEMEE] - Comando "/gm +set 0 76"
+13:35:31 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:35:31 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:00:52 minutos online
+14:19:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+14:19:37 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+14:19:37 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+14:19:38 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:19:42 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+14:19:43 : Solicitou ir ao mundo...
+14:19:43 : Recebido pedido para entrar no jogo
+14:19:43 : Recebido informação do personagem completa.
+14:19:43 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 997470677
+Level atual: 41
+Experiência atual: 317930
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2089x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rena[76] [0 0 0 0 0 0]
+[01] - Corpo_de_Esqueleto_Mago[273] [0 0 0 0 0 0]
+[06] - Katana[939] [43 250 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Pedido_de_Caça(Dung)[3433] [61 87 0 0 0 0]
+[02] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[06] - Botas_de_Couro(A)[1151] [43 1 73 6 59 0]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 2 71 40 2 12]
+[08] - Calça_de_Couro_Duro(A)[1130] [43 0 71 60 60 10]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Jaqueta_Acolchoada(A)[1556] [43 0 71 60 60 6]
+[11] - Botas_Vampíricas(A)[1839] [43 0 73 12 59 0]
+[12] - Calça_Sombria(M)[1285] [43 0 3 15 59 0]
+[13] - Chapéu_de_Bandagem(A)[2051] [43 0 59 0 3 5]
+[14] - Calça_de_Osso(M)[1998] [43 1 3 15 59 0]
+[15] - Calça_de_Malha(N)[1134] [11 22 71 40 2 18]
+[16] - Katana[939] [43 9 0 0 0 0]
+[17] - Katana[939] [43 250 2 255 0 0]
+[18] - Varinha_da_Guerra[892] [43 1 74 3 59 0]
+[19] - Armadura_de_Couro(A)[1115] [43 1 71 40 59 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[22] - Elmo_Dourado(N)[1176] [43 0 59 0 4 20]
+[23] - Botas_de_Bandagem(A)[2055] [43 0 73 24 74 9]
+[24] - Katana[939] [43 9 0 0 0 0]
+[25] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[26] - Katana[939] [43 250 2 255 255 0]
+[27] - Katana[939] [43 250 2 255 0 0]
+[28] - Pedido_de_Caça(Dung)[3433] [61 93 0 0 0 0]
+[29] - Arco_Hidra[2121] [43 0 2 9 26 12]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:19:43 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2089x 2095y - Canal 2 - Cash da conta: 0. OverPower: 157
+14:19:44 : [BEEEMEMEE] - Gold atual: 997470677. Classe: 2 Evolução: 0. Experiência: 317930. Nível: 41. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:19:44 : [BEEEMEMEE] - Enviado informações do personagem
+14:19:45 : [BEEEMEMEE] - Comando "/day "
+14:19:45 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+14:19:54 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+14:20:00 : [BEEEMEMEE] - Comando "/gm +set 0 75"
+14:20:14 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:20:14 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:00:36 minutos online
+14:21:17 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+14:21:18 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+14:21:18 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+14:21:22 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+14:21:24 : Solicitou ir ao mundo...
+14:21:24 : Recebido pedido para entrar no jogo
+14:21:24 : Recebido informação do personagem completa.
+14:21:24 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 997470677
+Level atual: 41
+Experiência atual: 317930
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2096x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Pônei_Amaldiçoado[75] [0 0 0 0 0 0]
+[01] - Corpo_de_Esqueleto_Mago[273] [0 0 0 0 0 0]
+[06] - Katana[939] [43 250 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Pedido_de_Caça(Dung)[3433] [61 87 0 0 0 0]
+[02] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[06] - Botas_de_Couro(A)[1151] [43 1 73 6 59 0]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 2 71 40 2 12]
+[08] - Calça_de_Couro_Duro(A)[1130] [43 0 71 60 60 10]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Jaqueta_Acolchoada(A)[1556] [43 0 71 60 60 6]
+[11] - Botas_Vampíricas(A)[1839] [43 0 73 12 59 0]
+[12] - Calça_Sombria(M)[1285] [43 0 3 15 59 0]
+[13] - Chapéu_de_Bandagem(A)[2051] [43 0 59 0 3 5]
+[14] - Calça_de_Osso(M)[1998] [43 1 3 15 59 0]
+[15] - Calça_de_Malha(N)[1134] [11 22 71 40 2 18]
+[16] - Katana[939] [43 9 0 0 0 0]
+[17] - Katana[939] [43 250 2 255 0 0]
+[18] - Varinha_da_Guerra[892] [43 1 74 3 59 0]
+[19] - Armadura_de_Couro(A)[1115] [43 1 71 40 59 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[22] - Elmo_Dourado(N)[1176] [43 0 59 0 4 20]
+[23] - Botas_de_Bandagem(A)[2055] [43 0 73 24 74 9]
+[24] - Katana[939] [43 9 0 0 0 0]
+[25] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[26] - Katana[939] [43 250 2 255 255 0]
+[27] - Katana[939] [43 250 2 255 0 0]
+[28] - Pedido_de_Caça(Dung)[3433] [61 93 0 0 0 0]
+[29] - Arco_Hidra[2121] [43 0 2 9 26 12]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:21:24 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2096x 2103y - Canal 2 - Cash da conta: 0. OverPower: 157
+14:21:24 : [BEEEMEMEE] - Gold atual: 997470677. Classe: 2 Evolução: 0. Experiência: 317930. Nível: 41. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:21:24 : [BEEEMEMEE] - Enviado informações do personagem
+14:21:25 : [BEEEMEMEE] - Comando "/day "
+14:21:25 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+14:21:29 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+14:23:00 : [BEEEMEMEE] - Teleportado para a posição 1046 1725
+14:23:01 : [BEEEMEMEE] - Solicitado teleporte na posição 2117x 2102y e teleportado para 1046x 1725y
+14:23:10 : [BEEEMEMEE] - Clicado no NPC [God Government]. Face 271. Race: 4. GenerateId: 3276. Posição do usuário: 1053x 1713y. Posição do NPC: 1051x 1713y
+14:23:14 : [BEEEMEMEE] - [Mensagem do servidor]: Boss Imperador_Amon renasceu
+14:23:17 : [BEEEMEMEE] - Teleportado para a posição 2458 2018
+14:23:17 : [BEEEMEMEE] - Solicitado teleporte na posição 1046x 1710y e teleportado para 2458x 2018y
+14:23:17 : [BEEEMEMEE] - CrackError - Points: 1 type: 5
+14:23:17 : [BEEEMEMEE] - CrackError - Points: 1 type: 5
+14:23:17 : [BEEEMEMEE] - Teleportado para a posição 1046 1710
+14:23:17 : [BEEEMEMEE] - Solicitado teleporte na posição 2458x 2018y e teleportado para 1046x 1710y
+14:23:17 : [BEEEMEMEE] - Teleportado para a posição 2458 2019
+14:23:17 : [BEEEMEMEE] - Solicitado teleporte na posição 1046x 1710y e teleportado para 2458x 2019y
+14:23:26 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 873
+14:23:28 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 873
+14:23:33 : [BEEEMEMEE] - Matou o mob Orc Cavaleiro. GenerID: 873
+14:23:34 : [BEEEMEMEE] - Matou o mob Meio Orc. GenerID: 873
+14:23:42 : [BEEEMEMEE] - Teleportado para a posição 1046 1709
+14:23:42 : [BEEEMEMEE] - Solicitado teleporte na posição 2456x 2018y e teleportado para 1046x 1709y
+14:23:47 : [BEEEMEMEE] - Teleportado para a posição 2117 2103
+14:23:47 : [BEEEMEMEE] - Solicitado teleporte na posição 1045x 1725y e teleportado para 2117x 2103y
+14:24:04 : [BEEEMEMEE] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 14. Distância 2: 14. Range: 2.
+14:24:07 : [BEEEMEMEE] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 11. Distância 2: 7. Range: 2.
+14:24:11 : [BEEEMEMEE] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 7. Distância 2: 7. Range: 2.
+14:24:11 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 208
+14:24:13 : [BEEEMEMEE] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 24. Distância 2: 2. Range: 2.
+14:24:14 : [BEEEMEMEE] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 23. Distância 2: 3. Range: 2.
+14:24:28 : [BEEEMEMEE] - [Mensagem do servidor]: Boss Dark_Shadow renasceu
+14:24:34 : [BEEEMEMEE] - Teleportado para a posição 1047 1726
+14:24:34 : [BEEEMEMEE] - Solicitado teleporte na posição 2117x 2101y e teleportado para 1047x 1726y
+14:24:38 : [BEEEMEMEE] - Teleportado para a posição 2481 1717
+14:24:38 : [BEEEMEMEE] - Solicitado teleporte na posição 1046x 1717y e teleportado para 2481x 1717y
+14:30:53 : [BEEEMEMEE] - Desconectado por inatividade... Last: 1195782. Counter: 1196512. Status: 22
+14:30:53 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:09:34 minutos online
+14:38:41 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+14:38:41 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+14:38:41 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+14:38:46 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+14:38:47 : Solicitou ir ao mundo...
+14:38:47 : Recebido pedido para entrar no jogo
+14:38:47 : Recebido informação do personagem completa.
+14:38:47 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 997467877
+Level atual: 41
+Experiência atual: 318746
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2092x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Pônei_Amaldiçoado[75] [0 0 0 0 0 0]
+[01] - Corpo_de_Esqueleto_Mago[273] [0 0 0 0 0 0]
+[06] - Katana[939] [43 250 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Pedido_de_Caça(Dung)[3433] [61 87 0 0 0 0]
+[02] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[06] - Botas_de_Couro(A)[1151] [43 1 73 6 59 0]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 2 71 40 2 12]
+[08] - Calça_de_Couro_Duro(A)[1130] [43 0 71 60 60 10]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Jaqueta_Acolchoada(A)[1556] [43 0 71 60 60 6]
+[11] - Botas_Vampíricas(A)[1839] [43 0 73 12 59 0]
+[12] - Calça_Sombria(M)[1285] [43 0 3 15 59 0]
+[13] - Chapéu_de_Bandagem(A)[2051] [43 0 59 0 3 5]
+[14] - Calça_de_Osso(M)[1998] [43 1 3 15 59 0]
+[15] - Calça_de_Malha(N)[1134] [11 22 71 40 2 18]
+[16] - Katana[939] [43 9 0 0 0 0]
+[17] - Katana[939] [43 250 2 255 0 0]
+[18] - Varinha_da_Guerra[892] [43 1 74 3 59 0]
+[19] - Armadura_de_Couro(A)[1115] [43 1 71 40 59 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[22] - Elmo_Dourado(N)[1176] [43 0 59 0 4 20]
+[23] - Botas_de_Bandagem(A)[2055] [43 0 73 24 74 9]
+[24] - Katana[939] [43 9 0 0 0 0]
+[25] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[26] - Katana[939] [43 250 2 255 255 0]
+[27] - Katana[939] [43 250 2 255 0 0]
+[28] - Pedido_de_Caça(Dung)[3433] [61 93 0 0 0 0]
+[29] - Arco_Hidra[2121] [43 0 2 9 26 12]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:38:47 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2092x 2100y - Canal 2 - Cash da conta: 0. OverPower: 157
+14:38:47 : [BEEEMEMEE] - Gold atual: 997467877. Classe: 2 Evolução: 0. Experiência: 318746. Nível: 41. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:38:47 : [BEEEMEMEE] - Enviado informações do personagem
+14:38:48 : [BEEEMEMEE] - Comando "/day "
+14:38:48 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+14:38:54 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+14:38:57 : [BEEEMEMEE] - Comando "/gm +set 0 75"
+14:39:00 : [BEEEMEMEE] - Comando "/gm +set 0 74"
+14:39:01 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:39:01 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:00:20 minutos online
+14:42:42 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+14:42:42 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+14:42:42 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+14:42:43 : Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:42:43 : Personagem foi desconectado. Permaneceu 00:00:01 minutos online
+15:35:54 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+15:35:54 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+15:35:54 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+15:35:55 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:36:02 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+15:36:04 : Solicitou ir ao mundo...
+15:36:04 : Recebido pedido para entrar no jogo
+15:36:04 : Recebido informação do personagem completa.
+15:36:04 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 997467877
+Level atual: 41
+Experiência atual: 318746
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2098x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Anubis[74] [0 0 0 0 0 0]
+[01] - Corpo_de_Esqueleto_Mago[273] [0 0 0 0 0 0]
+[06] - Katana[939] [43 250 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Pedido_de_Caça(Dung)[3433] [61 87 0 0 0 0]
+[02] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[06] - Botas_de_Couro(A)[1151] [43 1 73 6 59 0]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 2 71 40 2 12]
+[08] - Calça_de_Couro_Duro(A)[1130] [43 0 71 60 60 10]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Jaqueta_Acolchoada(A)[1556] [43 0 71 60 60 6]
+[11] - Botas_Vampíricas(A)[1839] [43 0 73 12 59 0]
+[12] - Calça_Sombria(M)[1285] [43 0 3 15 59 0]
+[13] - Chapéu_de_Bandagem(A)[2051] [43 0 59 0 3 5]
+[14] - Calça_de_Osso(M)[1998] [43 1 3 15 59 0]
+[15] - Calça_de_Malha(N)[1134] [11 22 71 40 2 18]
+[16] - Katana[939] [43 9 0 0 0 0]
+[17] - Katana[939] [43 250 2 255 0 0]
+[18] - Varinha_da_Guerra[892] [43 1 74 3 59 0]
+[19] - Armadura_de_Couro(A)[1115] [43 1 71 40 59 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[22] - Elmo_Dourado(N)[1176] [43 0 59 0 4 20]
+[23] - Botas_de_Bandagem(A)[2055] [43 0 73 24 74 9]
+[24] - Katana[939] [43 9 0 0 0 0]
+[25] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[26] - Katana[939] [43 250 2 255 255 0]
+[27] - Katana[939] [43 250 2 255 0 0]
+[28] - Pedido_de_Caça(Dung)[3433] [61 93 0 0 0 0]
+[29] - Arco_Hidra[2121] [43 0 2 9 26 12]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:36:04 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2098x 2095y - Canal 2 - Cash da conta: 0. OverPower: 157
+15:36:04 : [BEEEMEMEE] - Gold atual: 997467877. Classe: 2 Evolução: 0. Experiência: 318746. Nível: 41. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+15:36:04 : [BEEEMEMEE] - Enviado informações do personagem
+15:36:06 : [BEEEMEMEE] - Comando "/day "
+15:36:06 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+15:36:18 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+15:37:07 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:37:07 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:01:12 minutos online
+19:53:27 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+19:53:27 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+19:53:27 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+19:53:27 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:53:56 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+19:53:58 : Solicitou ir ao mundo...
+19:53:58 : Recebido pedido para entrar no jogo
+19:53:58 : Recebido informação do personagem completa.
+19:53:58 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 997467877
+Level atual: 41
+Experiência atual: 318746
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:31 horas
+Posição atual: 2091x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Anubis[74] [0 0 0 0 0 0]
+[01] - Corpo_de_Esqueleto_Mago[273] [0 0 0 0 0 0]
+[06] - Katana[939] [43 250 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Pedido_de_Caça(Dung)[3433] [61 87 0 0 0 0]
+[02] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[06] - Botas_de_Couro(A)[1151] [43 1 73 6 59 0]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 2 71 40 2 12]
+[08] - Calça_de_Couro_Duro(A)[1130] [43 0 71 60 60 10]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Jaqueta_Acolchoada(A)[1556] [43 0 71 60 60 6]
+[11] - Botas_Vampíricas(A)[1839] [43 0 73 12 59 0]
+[12] - Calça_Sombria(M)[1285] [43 0 3 15 59 0]
+[13] - Chapéu_de_Bandagem(A)[2051] [43 0 59 0 3 5]
+[14] - Calça_de_Osso(M)[1998] [43 1 3 15 59 0]
+[15] - Calça_de_Malha(N)[1134] [11 22 71 40 2 18]
+[16] - Katana[939] [43 9 0 0 0 0]
+[17] - Katana[939] [43 250 2 255 0 0]
+[18] - Varinha_da_Guerra[892] [43 1 74 3 59 0]
+[19] - Armadura_de_Couro(A)[1115] [43 1 71 40 59 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[22] - Elmo_Dourado(N)[1176] [43 0 59 0 4 20]
+[23] - Botas_de_Bandagem(A)[2055] [43 0 73 24 74 9]
+[24] - Katana[939] [43 9 0 0 0 0]
+[25] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[26] - Katana[939] [43 250 2 255 255 0]
+[27] - Katana[939] [43 250 2 255 0 0]
+[28] - Pedido_de_Caça(Dung)[3433] [61 93 0 0 0 0]
+[29] - Arco_Hidra[2121] [43 0 2 9 26 12]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:53:58 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2091x 2099y - Canal 2 - Cash da conta: 0. OverPower: 157
+19:53:58 : [BEEEMEMEE] - Gold atual: 997467877. Classe: 2 Evolução: 0. Experiência: 318746. Nível: 41. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+19:53:58 : [BEEEMEMEE] - Enviado informações do personagem
+19:53:59 : [BEEEMEMEE] - Comando "/day "
+19:53:59 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+19:54:09 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+19:54:09 : [BEEEMEMEE] - Item Pedido_de_Caça(Dung) [3433] [61 87 0 0 0 0] utilizado em 2091x 2099y
+19:54:09 : [BEEEMEMEE] - Teleportado para a posição 290 3799
+19:54:25 : [BEEEMEMEE] - Removido o Hp do mob Arq Caveira. HP removido: 122. HP Atual: 4878
+19:54:26 : [BEEEMEMEE] - Removido o Hp do mob Arq Caveira. HP removido: 120. HP Atual: 4758
+19:54:27 : [BEEEMEMEE] - Removido o Hp do mob Arq Caveira. HP removido: 111. HP Atual: 4647
+19:54:28 : [BEEEMEMEE] - Removido o Hp do mob Arq Caveira. HP removido: 119. HP Atual: 4528
+19:54:29 : [BEEEMEMEE] - Removido o Hp do mob Arq Caveira. HP removido: 230. HP Atual: 4298
+19:54:30 : [BEEEMEMEE] - Removido o Hp do mob Arq Caveira. HP removido: 111. HP Atual: 4187
+19:54:31 : [BEEEMEMEE] - Removido o Hp do mob Arq Caveira. HP removido: 117. HP Atual: 4070
+19:54:32 : [BEEEMEMEE] - Removido o Hp do mob Arq Caveira. HP removido: 291. HP Atual: 3779
+19:54:33 : [BEEEMEMEE] - Removido o Hp do mob Arq Caveira. HP removido: 241. HP Atual: 3538
+19:54:42 : [BEEEMEMEE] - Removido o Hp do mob Troll Zumbi. HP removido: 101. HP Atual: 3019
+19:54:43 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 724
+19:54:44 : [BEEEMEMEE] - Removido o Hp do mob Troll Zumbi. HP removido: 288. HP Atual: 2731
+19:54:45 : [BEEEMEMEE] - Removido o Hp do mob Troll Zumbi. HP removido: 218. HP Atual: 2513
+19:54:48 : [BEEEMEMEE] - Removido o Hp do mob Troll Zumbi. HP removido: 111. HP Atual: 2402
+19:54:48 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 1
+19:54:48 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 383
+19:54:49 : [BEEEMEMEE] - Removido o Hp do mob Troll Zumbi. HP removido: 214. HP Atual: 2188
+19:54:50 : [BEEEMEMEE] - Removido o Hp do mob Troll Zumbi. HP removido: 107. HP Atual: 2081
+19:54:51 : [BEEEMEMEE] - Removido o Hp do mob Troll Zumbi. HP removido: 109. HP Atual: 1972
+19:54:52 : [BEEEMEMEE] - Removido o Hp do mob Troll Zumbi. HP removido: 311. HP Atual: 1661
+19:54:54 : [BEEEMEMEE] - Removido o Hp do mob Troll Zumbi. HP removido: 222. HP Atual: 1439
+19:54:55 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 892
+19:54:56 : [BEEEMEMEE] - Removido o Hp do mob Troll Zumbi. HP removido: 101. HP Atual: 1338
+19:54:57 : [BEEEMEMEE] - Removido o Hp do mob Troll Zumbi. HP removido: 106. HP Atual: 1232
+19:56:14 : [BEEEMEMEE] - Removido o Hp do mob Caveira Lanc. HP removido: 134. HP Atual: 3634
+19:56:14 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 526
+19:56:15 : [BEEEMEMEE] - Removido o Hp do mob Caveira Lanc. HP removido: 64. HP Atual: 3570
+19:56:19 : [BEEEMEMEE] - Removido o Hp do mob Caveira Lanc. HP removido: 65. HP Atual: 3505
+19:56:41 : [BEEEMEMEE] - Matou o mob Serpent Gigante. GenerID: 2091
+19:56:43 : [BEEEMEMEE] - Removido o Hp do mob Hidra. HP removido: 47. HP Atual: 751
+19:56:45 : [BEEEMEMEE] - Removido o Hp do mob Hidra. HP removido: 52. HP Atual: 699
+19:56:46 : [BEEEMEMEE] - Removido o Hp do mob Hidra. HP removido: 52. HP Atual: 647
+19:56:47 : [BEEEMEMEE] - Removido o Hp do mob Hidra. HP removido: 436. HP Atual: 211
+19:56:48 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 848
+19:56:49 : [BEEEMEMEE] - Removido o Hp do mob Hidra. HP removido: 224. HP Atual: 0
+19:56:49 : [BEEEMEMEE] - Matou o mob Hidra. GenerID: 2091
+19:57:06 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:57:06 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:03:39 minutos online
+19:59:15 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+19:59:15 : [Mensagem do servidor]> Senha incorreta.
+19:59:15 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+20:00:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+20:00:13 : [Mensagem do servidor]> Senha incorreta.
+20:00:13 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+20:00:20 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+20:00:20 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+20:00:20 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+20:00:49 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+20:00:53 : Solicitou ir ao mundo...
+20:00:53 : Recebido pedido para entrar no jogo
+20:00:53 : Recebido informação do personagem completa.
+20:00:53 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 997467877
+Level atual: 41
+Experiência atual: 319706
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:33 horas
+Posição atual: 2091x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Anubis[74] [0 0 0 0 0 0]
+[01] - Corpo_de_Esqueleto_Mago[273] [0 0 0 0 0 0]
+[06] - Katana[939] [43 250 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Pedido_de_Caça(Dung)[3433] [61 86 0 0 0 0]
+[02] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[06] - Botas_de_Couro(A)[1151] [43 1 73 6 59 0]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 2 71 40 2 12]
+[08] - Calça_de_Couro_Duro(A)[1130] [43 0 71 60 60 10]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Jaqueta_Acolchoada(A)[1556] [43 0 71 60 60 6]
+[11] - Botas_Vampíricas(A)[1839] [43 0 73 12 59 0]
+[12] - Calça_Sombria(M)[1285] [43 0 3 15 59 0]
+[13] - Chapéu_de_Bandagem(A)[2051] [43 0 59 0 3 5]
+[14] - Calça_de_Osso(M)[1998] [43 1 3 15 59 0]
+[15] - Calça_de_Malha(N)[1134] [11 22 71 40 2 18]
+[16] - Katana[939] [43 9 0 0 0 0]
+[17] - Katana[939] [43 250 2 255 0 0]
+[18] - Varinha_da_Guerra[892] [43 1 74 3 59 0]
+[19] - Armadura_de_Couro(A)[1115] [43 1 71 40 59 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[22] - Elmo_Dourado(N)[1176] [43 0 59 0 4 20]
+[23] - Botas_de_Bandagem(A)[2055] [43 0 73 24 74 9]
+[24] - Katana[939] [43 9 0 0 0 0]
+[25] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[26] - Katana[939] [43 250 2 255 255 0]
+[27] - Katana[939] [43 250 2 255 0 0]
+[28] - Pedido_de_Caça(Dung)[3433] [61 93 0 0 0 0]
+[29] - Arco_Hidra[2121] [43 0 2 9 26 12]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:00:53 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2091x 2093y - Canal 2 - Cash da conta: 0. OverPower: 157
+20:00:53 : [BEEEMEMEE] - Gold atual: 997467877. Classe: 2 Evolução: 0. Experiência: 319706. Nível: 41. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+20:00:53 : [BEEEMEMEE] - Enviado informações do personagem
+20:01:09 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+20:04:00 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:04:00 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:03:40 minutos online
+20:04:50 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+20:04:50 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+20:04:50 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+20:04:57 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+20:05:08 : Solicitou ir ao mundo...
+20:05:08 : Recebido pedido para entrar no jogo
+20:05:08 : Recebido informação do personagem completa.
+20:05:08 : [rgrg] - [INFORMAÇÕES DA CONTA]
+Personagem online: rgrg
+Gold atual: 0
+Level atual: 14
+Experiência atual: 19580
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:17 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 1 1]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Calça_de_Couro_Duro(A)[1130] [43 2 71 60 3 15]
+[01] - Calça_Pele_de_Animal(A)[1409] [43 0 71 50 59 0]
+[02] - Calça_Pele_de_Animal(A)[1409] [43 1 3 30 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [12 15 71 40 59 0]
+[04] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[05] - Jaqueta_Acolchoada(A)[1556] [43 0 71 50 3 20]
+[06] - Jaqueta_Acolchoada(A)[1556] [9 14 3 30 60 8]
+[07] - Botas_Acolchoadas(A)[1565] [43 0 73 24 59 0]
+[10] - Katana[939] [43 9 0 0 0 0]
+[63] - Marca_do_Assassino[547] [117 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:05:08 : [rgrg] - Personagem rgrg enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 28
+20:05:08 : [rgrg] - Gold atual: 0. Classe: 1 Evolução: 1. Experiência: 19580. Nível: 14. Info: 0. GuildID: 0. CP: 42. Pontos de Contribuição: 0. Limite: 0
+20:05:08 : [rgrg] - Enviado informações do personagem
+20:05:09 : [rgrg] - Erro no envio do pacote. Total a ser enviado: 208. Error: 10035
+20:05:09 : [rgrg] - Erro no envio do pacote. Total a ser enviado: 156. Error: 10035
+20:05:10 : [rgrg] - Comando "/day "
+20:05:10 : [rgrg] - [Mensagem do servidor]> !#11 2
+20:05:14 : [rgrg] - Matou o mob Porco de Guerra. GenerID: 4421
+20:05:14 : [rgrg] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+20:05:21 : [rgrg] - O usuário não enviou o pacote de integridade de macaddress
+20:05:23 : [rgrg] - Personagem deu personagem
+20:05:31 : Solicitou ir ao mundo...
+20:05:31 : Recebido pedido para entrar no jogo
+20:05:31 : Recebido informação do personagem completa.
+20:05:31 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 997467877
+Level atual: 41
+Experiência atual: 319706
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:40 horas
+Posição atual: 2094x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Anubis[74] [0 0 0 0 0 0]
+[01] - Corpo_de_Esqueleto_Mago[273] [0 0 0 0 0 0]
+[06] - Katana[939] [43 250 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Pedido_de_Caça(Dung)[3433] [61 86 0 0 0 0]
+[02] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[06] - Botas_de_Couro(A)[1151] [43 1 73 6 59 0]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 2 71 40 2 12]
+[08] - Calça_de_Couro_Duro(A)[1130] [43 0 71 60 60 10]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Jaqueta_Acolchoada(A)[1556] [43 0 71 60 60 6]
+[11] - Botas_Vampíricas(A)[1839] [43 0 73 12 59 0]
+[12] - Calça_Sombria(M)[1285] [43 0 3 15 59 0]
+[13] - Chapéu_de_Bandagem(A)[2051] [43 0 59 0 3 5]
+[14] - Calça_de_Osso(M)[1998] [43 1 3 15 59 0]
+[15] - Calça_de_Malha(N)[1134] [11 22 71 40 2 18]
+[16] - Katana[939] [43 9 0 0 0 0]
+[17] - Katana[939] [43 250 2 255 0 0]
+[18] - Varinha_da_Guerra[892] [43 1 74 3 59 0]
+[19] - Armadura_de_Couro(A)[1115] [43 1 71 40 59 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[22] - Elmo_Dourado(N)[1176] [43 0 59 0 4 20]
+[23] - Botas_de_Bandagem(A)[2055] [43 0 73 24 74 9]
+[24] - Katana[939] [43 9 0 0 0 0]
+[25] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[26] - Katana[939] [43 250 2 255 255 0]
+[27] - Katana[939] [43 250 2 255 0 0]
+[28] - Pedido_de_Caça(Dung)[3433] [61 93 0 0 0 0]
+[29] - Arco_Hidra[2121] [43 0 2 9 26 12]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:05:31 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2094x 2093y - Canal 2 - Cash da conta: 0. OverPower: 157
+20:05:31 : [BEEEMEMEE] - Gold atual: 997467877. Classe: 2 Evolução: 0. Experiência: 319706. Nível: 41. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+20:05:31 : [BEEEMEMEE] - Enviado informações do personagem
+20:05:32 : [BEEEMEMEE] - Comando "/day "
+20:05:32 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+20:05:42 : [BEEEMEMEE] - Item Pedido_de_Caça(Dung) [3433] [61 86 0 0 0 0] utilizado em 2094x 2093y
+20:05:42 : [BEEEMEMEE] - Teleportado para a posição 724 3781
+20:05:45 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+20:05:55 : [BEEEMEMEE] - Removido o Hp do mob Cav.Caveira. HP removido: 8. HP Atual: 8092
+20:06:21 : [BEEEMEMEE] - Removido o Hp do mob Cav.Caveira. HP removido: 8. HP Atual: 8092
+20:06:26 : [BEEEMEMEE] - Removido o Hp do mob Cav.Caveira. HP removido: 8. HP Atual: 8084
+20:06:27 : [BEEEMEMEE] - Removido o Hp do mob Cav.Caveira. HP removido: 8. HP Atual: 8076
+20:06:28 : [BEEEMEMEE] - Removido o Hp do mob Cav.Caveira. HP removido: 17. HP Atual: 8059
+20:06:34 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:06:34 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:01:44 minutos online
+20:31:42 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 85.53.82.71 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+20:31:42 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1
+20:31:42 : [INFORMAÇÕES DO BANCO]
+Gold: 1
+[  0] - Ovo_do_Iniciante[4615] [0 0 0 0 0 0]
+[  1] - Luvas_de_Águia(M)[1456] [43 3 2 20 53 3]
+[ 22] - Arco_Curto[816] [43 0 0 0 0 0]
+[102] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[106] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 59 0]
+
+20:31:46 : [Mensagem do servidor]> Só é possível utilizar em equipamentos.
+20:31:48 : Solicitou ir ao mundo...
+20:31:48 : Recebido pedido para entrar no jogo
+20:31:48 : Recebido informação do personagem completa.
+20:31:48 : [BEEEMEMEE] - [INFORMAÇÕES DA CONTA]
+Personagem online: BEEEMEMEE
+Gold atual: 997467877
+Level atual: 41
+Experiência atual: 319706
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2093x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Anubis[74] [0 0 0 0 0 0]
+[01] - Corpo_de_Esqueleto_Mago[273] [0 0 0 0 0 0]
+[06] - Katana[939] [43 250 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Pedido_de_Caça(Dung)[3433] [61 85 0 0 0 0]
+[02] - Calça_Pele_de_Animal(A)[1409] [43 0 3 15 2 24]
+[03] - Robe_Pele_de_Animal(A)[1406] [43 0 71 50 60 6]
+[04] - Calça_Acolchoada(A)[1559] [43 0 71 70 59 0]
+[05] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[06] - Botas_de_Couro(A)[1151] [43 1 73 6 59 0]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 2 71 40 2 12]
+[08] - Calça_de_Couro_Duro(A)[1130] [43 0 71 60 60 10]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Jaqueta_Acolchoada(A)[1556] [43 0 71 60 60 6]
+[11] - Botas_Vampíricas(A)[1839] [43 0 73 12 59 0]
+[12] - Calça_Sombria(M)[1285] [43 0 3 15 59 0]
+[13] - Chapéu_de_Bandagem(A)[2051] [43 0 59 0 3 5]
+[14] - Calça_de_Osso(M)[1998] [43 1 3 15 59 0]
+[15] - Calça_de_Malha(N)[1134] [11 22 71 40 2 18]
+[16] - Katana[939] [43 9 0 0 0 0]
+[17] - Katana[939] [43 250 2 255 0 0]
+[18] - Varinha_da_Guerra[892] [43 1 74 3 59 0]
+[19] - Armadura_de_Couro(A)[1115] [43 1 71 40 59 0]
+[20] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[21] - Gema_Estelar[700] [0 0 0 0 0 0]
+[22] - Elmo_Dourado(N)[1176] [43 0 59 0 4 20]
+[23] - Botas_de_Bandagem(A)[2055] [43 0 73 24 74 9]
+[24] - Katana[939] [43 9 0 0 0 0]
+[25] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[26] - Katana[939] [43 250 2 255 255 0]
+[27] - Katana[939] [43 250 2 255 0 0]
+[28] - Pedido_de_Caça(Dung)[3433] [61 93 0 0 0 0]
+[29] - Arco_Hidra[2121] [43 0 2 9 26 12]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:31:48 : [BEEEMEMEE] - Personagem BEEEMEMEE enviado ao mundo 2093x 2096y - Canal 2 - Cash da conta: 0. OverPower: 157
+20:31:48 : [BEEEMEMEE] - Gold atual: 997467877. Classe: 2 Evolução: 0. Experiência: 319706. Nível: 41. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+20:31:48 : [BEEEMEMEE] - Enviado informações do personagem
+20:31:49 : [BEEEMEMEE] - Comando "/day "
+20:31:49 : [BEEEMEMEE] - [Mensagem do servidor]> !#11 2
+20:31:54 : [BEEEMEMEE] - Comando "/cmd +set 0 309"
+20:31:54 : [BEEEMEMEE] - [Mensagem do servidor]> Este personagem não está conectado.
+20:31:58 : [BEEEMEMEE] - O usuário não enviou o pacote de integridade de macaddress
+20:32:03 : [BEEEMEMEE] - Comando "/gm +set 0 309"
+20:32:21 : [BEEEMEMEE] - Item Pedido_de_Caça(Dung) [3433] [61 85 0 0 0 0] utilizado em 2092x 2099y
+20:32:21 : [BEEEMEMEE] - Teleportado para a posição 808 3876
+20:32:28 : [BEEEMEMEE] - Removido o Hp do mob Golem de Fogo. HP removido: 0. HP Atual: 18000
+20:32:29 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 839
+20:32:30 : [BEEEMEMEE] - Removido o Hp do mob Golem de Fogo. HP removido: 0. HP Atual: 18000
+20:32:31 : [BEEEMEMEE] - Removido o Hp do mob Golem de Fogo. HP removido: 0. HP Atual: 18000
+20:32:32 : [BEEEMEMEE] - Removido o Hp do mob Golem de Fogo. HP removido: 1. HP Atual: 17999
+20:32:40 : [BEEEMEMEE] - Removido o Hp do mob Golem de Fogo. HP removido: 0. HP Atual: 17999
+20:32:41 : [BEEEMEMEE] - Removido o Hp do mob Golem de Fogo. HP removido: 0. HP Atual: 17999
+20:32:42 : [BEEEMEMEE] - Removido o Hp do mob Golem de Fogo. HP removido: 0. HP Atual: 17999
+20:32:43 : [BEEEMEMEE] - Removido o Hp do mob Golem de Fogo. HP removido: 1. HP Atual: 17998
+20:33:07 : [BEEEMEMEE] - Item Pedido_de_Caça(Dung) [3433] [61 93 0 0 0 0] utilizado em 806x 3868y
+20:33:07 : [BEEEMEMEE] - Teleportado para a posição 724 3781
+20:33:20 : [BEEEMEMEE] - Item Calça_Sombria(M) deletado [1285] [43 0 3 15 59 0]. Slot 12
+20:33:21 : [BEEEMEMEE] - Item Calça_de_Osso(M) deletado [1998] [43 1 3 15 59 0]. Slot 14
+20:33:22 : [BEEEMEMEE] - Item Chapéu_de_Bandagem(A) deletado [2051] [43 0 59 0 3 5]. Slot 13
+20:33:32 : [BEEEMEMEE] - Comando "/gm +move 2100 2100"
+20:33:32 : [BEEEMEMEE] - Teleportado para a posição 2100 2100
+20:33:37 : [BEEEMEMEE] - Teleportado para a posição 1047 1726
+20:33:37 : [BEEEMEMEE] - Solicitado teleporte na posição 2118x 2102y e teleportado para 1047x 1726y
+20:33:44 : [BEEEMEMEE] - Teleportado para a posição 3651 3110
+20:33:44 : [BEEEMEMEE] - Solicitado teleporte na posição 1052x 1711y e teleportado para 3651x 3110y
+20:33:56 : [BEEEMEMEE] - Comprou o item Pedido_de_Caça(SubM) [3434] [61 100 0 0 0 0] na loja de Martin . Preço total: 1265000. Imposto: 165000. Gold: 997467177 anterior. Gold após a compra: 996202177
+20:34:05 : [BEEEMEMEE] - Item Pedido_de_Caça(SubM) [3434] [61 100 0 0 0 0] utilizado em 3645x 3111y
+20:34:05 : [BEEEMEMEE] - Teleportado para a posição 1264 4017
+20:34:07 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 20000
+20:34:08 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 876
+20:34:09 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 20000
+20:34:10 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 1. HP Atual: 19999
+20:34:11 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 19999
+20:34:13 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 19999
+20:34:13 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 741
+20:34:14 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 1. HP Atual: 19998
+20:34:15 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 19998
+20:34:17 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 19998
+20:34:18 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 19998
+20:34:20 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 1. HP Atual: 19997
+20:34:21 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 19997
+20:34:22 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 19997
+20:34:23 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 19997
+20:34:24 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 1. HP Atual: 19996
+20:34:31 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 20000
+20:34:32 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 20000
+20:34:34 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 20000
+20:34:35 : [BEEEMEMEE] - Ataque mais rápido que 900ms. Diferença 869
+20:34:36 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 20000
+20:34:37 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 20000
+20:34:38 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 20000
+20:34:39 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 1. HP Atual: 19999
+20:34:40 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 19999
+20:34:41 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 19999
+20:34:42 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 19999
+20:34:43 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 1. HP Atual: 19998
+20:34:47 : [BEEEMEMEE] - Removido o Hp do mob Aqua Golem. HP removido: 0. HP Atual: 19996
+20:34:56 : [BEEEMEMEE] - Item Pedido_de_Caça(SubM) [3434] [61 99 0 0 0 0] utilizado em 1261x 4017y
+20:34:56 : [BEEEMEMEE] - Teleportado para a posição 1333 3994
+20:35:08 : [BEEEMEMEE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:35:08 : [BEEEMEMEE] - Personagem foi desconectado. Permaneceu 00:03:26 minutos online

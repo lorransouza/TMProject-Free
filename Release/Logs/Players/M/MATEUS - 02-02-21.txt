@@ -1,0 +1,797 @@
+
+06:15:18 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.181.59 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+06:15:18 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+06:15:18 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+06:15:19 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+06:16:24 : Solicitou ir ao mundo...
+06:16:24 : Recebido pedido para entrar no jogo
+06:16:24 : Recebido informação do personagem completa.
+06:16:24 : [lansudo] - [INFORMAÇÕES DA CONTA]
+Personagem online: lansudo
+Gold atual: 0
+Level atual: 400
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:05 horas
+Posição atual: 2090x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1446] [43 235 0 0 0 0]
+[02] - Armadura(N)[1449] [43 235 0 0 0 0]
+[03] - Calça(N)[1452] [43 235 0 0 0 0]
+[04] - Luvas(N)[1455] [43 235 0 0 0 0]
+[05] - Botas(N)[1458] [43 235 0 0 0 0]
+[06] - Lança_do_Triunfo(Anct)[2667] [43 235 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo(N)[1416] [43 0 0 0 0 0]
+[01] - Elmo(N)[1461] [0 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Lança_do_Triunfo[2138] [43 235 0 0 0 0]
+[07] - Adaga[861] [43 0 0 0 0 0]
+[08] - Lança_do_Triunfo(Anct)[2667] [0 0 0 0 0 0]
+[09] - Elmo(N)[1461] [43 235 0 0 0 0]
+[10] - Elmo(N)[1461] [43 235 0 0 0 0]
+[11] - Armadura(N)[1449] [0 0 0 0 0 0]
+[12] - Armadura(N)[1464] [43 235 0 0 0 0]
+[13] - Calça(N)[1467] [43 235 0 0 0 0]
+[14] - Luvas(N)[1470] [43 235 0 0 0 0]
+[15] - Botas(N)[1473] [43 235 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+06:16:24 : [lansudo] - Personagem lansudo enviado ao mundo 2090x 2102y - Canal 2 - Cash da conta: 0. PowerLevel: 2232
+06:16:24 : [lansudo] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 400. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+06:16:24 : [lansudo] - Resetado a contagem de entradas água! Day: 26-32. Total: 0
+06:16:24 : [lansudo] - Enviado informações do personagem
+06:16:26 : [lansudo] - Comando "/day "
+06:16:26 : [lansudo] - [Mensagem do servidor]> !#11 2
+06:16:35 : [lansudo] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+06:17:21 : [lansudo] - Comando "/gm +item 1401 43 235"
+06:17:21 : [lansudo] - [Mensagem do servidor]> Criou o item Chapéu(N)
+06:17:21 : [lansudo] - lansudo criou o item Chapéu(N) [1401] [43 235 0 0 0 0]
+06:17:27 : [lansudo] - Moveu item Chapéu(N) [1401] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 16 para tipo EQUIPAMENTO slot 1
+06:17:49 : [lansudo] - Comando "/gm +item 1404 43 235"
+06:17:49 : [lansudo] - [Mensagem do servidor]> Criou o item Robe(N)
+06:17:49 : [lansudo] - lansudo criou o item Robe(N) [1404] [43 235 0 0 0 0]
+06:17:51 : [lansudo] - Moveu item Robe(N) [1404] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 2
+06:18:13 : [lansudo] - Comando "/gm +item 1407 43 235"
+06:18:13 : [lansudo] - [Mensagem do servidor]> Criou o item Calça(N)
+06:18:13 : [lansudo] - lansudo criou o item Calça(N) [1407] [43 235 0 0 0 0]
+06:18:15 : [lansudo] - Moveu item Calça(N) [1407] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 18 para tipo EQUIPAMENTO slot 3
+06:18:43 : [lansudo] - Comando "/gm +item 1410 43 235"
+06:18:43 : [lansudo] - [Mensagem do servidor]> Criou o item Luvas(N)
+06:18:43 : [lansudo] - lansudo criou o item Luvas(N) [1410] [43 235 0 0 0 0]
+06:18:45 : [lansudo] - Moveu item Luvas(N) [1410] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 19 para tipo EQUIPAMENTO slot 4
+06:19:12 : [lansudo] - Comando "/gm +item 1413 43 235"
+06:19:12 : [lansudo] - [Mensagem do servidor]> Criou o item Sapatos(N)
+06:19:12 : [lansudo] - lansudo criou o item Sapatos(N) [1413] [43 235 0 0 0 0]
+06:19:14 : [lansudo] - Moveu item Sapatos(N) [1413] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo EQUIPAMENTO slot 5
+06:19:40 : [lansudo] - Personagem deu personagem
+06:20:01 : Solicitou ir ao mundo...
+06:20:01 : Recebido pedido para entrar no jogo
+06:20:01 : Recebido informação do personagem completa.
+06:20:01 : [Espadudo] - [INFORMAÇÕES DA CONTA]
+Personagem online: Espadudo
+Gold atual: 0
+Level atual: 400
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:04:39 horas
+Posição atual: 2098x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1110] [43 235 0 0 0 0]
+[02] - Armadura(N)[1122] [43 235 0 0 0 0]
+[03] - Calça(N)[1134] [43 235 0 0 0 0]
+[04] - Luvas(N)[1146] [43 235 0 0 0 0]
+[05] - Botas(N)[1158] [43 235 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo(N)[1104] [43 0 0 0 0 0]
+[01] - Armadura(N)[1116] [43 0 0 0 0 0]
+[02] - Calça(N)[1128] [43 0 0 0 0 0]
+[03] - Luvas(N)[1140] [43 0 0 0 0 0]
+[04] - Botas(N)[1152] [43 0 0 0 0 0]
+[05] - Elmo(N)[1161] [43 235 0 0 0 0]
+[06] - Elmo(N)[1176] [43 235 0 0 0 0]
+[07] - Armadura(N)[1179] [43 235 0 0 0 0]
+[08] - Calça(N)[1182] [43 235 0 0 0 0]
+[09] - Luvas(N)[1185] [43 235 0 0 0 0]
+[10] - Botas(M)[1156] [43 235 0 0 0 0]
+[11] - Botas(N)[1188] [43 235 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+06:20:01 : [Espadudo] - Personagem Espadudo enviado ao mundo 2098x 2104y - Canal 2 - Cash da conta: 0. PowerLevel: 315
+06:20:01 : [Espadudo] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 400. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+06:20:01 : [Espadudo] - Enviado informações do personagem
+06:20:02 : [Espadudo] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+06:20:02 : [Espadudo] - 1 Personagem foi desconectado. Permaneceu 00:04:40 minutos online
+06:20:15 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.181.59 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+06:20:15 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+06:20:15 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+06:20:21 : Solicitou ir ao mundo...
+06:20:21 : Recebido pedido para entrar no jogo
+06:20:21 : Recebido informação do personagem completa.
+06:20:21 : [Espadudo] - [INFORMAÇÕES DA CONTA]
+Personagem online: Espadudo
+Gold atual: 0
+Level atual: 400
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2093x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1110] [43 235 0 0 0 0]
+[02] - Armadura(N)[1122] [43 235 0 0 0 0]
+[03] - Calça(N)[1134] [43 235 0 0 0 0]
+[04] - Luvas(N)[1146] [43 235 0 0 0 0]
+[05] - Botas(N)[1158] [43 235 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo(N)[1104] [43 0 0 0 0 0]
+[01] - Armadura(N)[1116] [43 0 0 0 0 0]
+[02] - Calça(N)[1128] [43 0 0 0 0 0]
+[03] - Luvas(N)[1140] [43 0 0 0 0 0]
+[04] - Botas(N)[1152] [43 0 0 0 0 0]
+[05] - Elmo(N)[1161] [43 235 0 0 0 0]
+[06] - Elmo(N)[1176] [43 235 0 0 0 0]
+[07] - Armadura(N)[1179] [43 235 0 0 0 0]
+[08] - Calça(N)[1182] [43 235 0 0 0 0]
+[09] - Luvas(N)[1185] [43 235 0 0 0 0]
+[10] - Botas(M)[1156] [43 235 0 0 0 0]
+[11] - Botas(N)[1188] [43 235 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+06:20:21 : [Espadudo] - Personagem Espadudo enviado ao mundo 2093x 2095y - Canal 2 - Cash da conta: 0. PowerLevel: 315
+06:20:21 : [Espadudo] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 400. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+06:20:21 : [Espadudo] - Enviado informações do personagem
+06:20:23 : [Espadudo] - Comando "/day "
+06:20:23 : [Espadudo] - [Mensagem do servidor]> !#11 2
+06:20:35 : [Espadudo] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+06:21:10 : [Espadudo] - Comando "/gm +item 1101"
+06:21:10 : [Espadudo] - [Mensagem do servidor]> Criou o item Elmo(N)
+06:21:10 : [Espadudo] - Espadudo criou o item Elmo(N) [1101] [0 0 0 0 0 0]
+06:21:22 : [Espadudo] - Comando "/gm +item 1101 43 235"
+06:21:22 : [Espadudo] - [Mensagem do servidor]> Criou o item Elmo(N)
+06:21:22 : [Espadudo] - Espadudo criou o item Elmo(N) [1101] [43 235 0 0 0 0]
+06:21:24 : [Espadudo] - Moveu item Elmo(N) [1101] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 1
+06:22:18 : [Espadudo] - Moveu item Elmo(N) [1101] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 1
+06:23:09 : [Espadudo] - Comando "/gm +item 1113 43 235"
+06:23:09 : [Espadudo] - [Mensagem do servidor]> Criou o item Armadura(N)
+06:23:09 : [Espadudo] - Espadudo criou o item Armadura(N) [1113] [43 235 0 0 0 0]
+06:23:10 : [Espadudo] - Moveu item Armadura(N) [1113] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 2
+06:23:37 : [Espadudo] - Comando "/gm +item 1125 43 235"
+06:23:37 : [Espadudo] - [Mensagem do servidor]> Criou o item Calça(N)
+06:23:37 : [Espadudo] - Espadudo criou o item Calça(N) [1125] [43 235 0 0 0 0]
+06:23:40 : [Espadudo] - Moveu item Calça(N) [1125] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 15 para tipo EQUIPAMENTO slot 3
+06:25:31 : [Espadudo] - Comando "/gm +item 1137 43 235"
+06:25:31 : [Espadudo] - [Mensagem do servidor]> Criou o item Luvas(N)
+06:25:31 : [Espadudo] - Espadudo criou o item Luvas(N) [1137] [43 235 0 0 0 0]
+06:25:34 : [Espadudo] - Moveu item Luvas(N) [1137] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 16 para tipo EQUIPAMENTO slot 4
+06:26:02 : [Espadudo] - Comando "/gm +item 1149 43 235"
+06:26:03 : [Espadudo] - [Mensagem do servidor]> Criou o item Botas(N)
+06:26:03 : [Espadudo] - Espadudo criou o item Botas(N) [1149] [43 235 0 0 0 0]
+06:26:05 : [Espadudo] - Moveu item Botas(N) [1149] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 5
+06:26:28 : [Espadudo] - Comando "/gm +item 1152 43 235"
+06:26:28 : [Espadudo] - [Mensagem do servidor]> Criou o item Botas(N)
+06:26:28 : [Espadudo] - Espadudo criou o item Botas(N) [1152] [43 235 0 0 0 0]
+06:26:31 : [Espadudo] - Moveu item Botas(N) [1152] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 18 para tipo EQUIPAMENTO slot 5
+06:27:10 : [Espadudo] - Comando "/gm +item 1155 43 235"
+06:27:10 : [Espadudo] - [Mensagem do servidor]> Criou o item Botas(N)
+06:27:10 : [Espadudo] - Espadudo criou o item Botas(N) [1155] [43 235 0 0 0 0]
+06:27:12 : [Espadudo] - Moveu item Botas(N) [1155] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 19 para tipo EQUIPAMENTO slot 5
+06:27:41 : [Espadudo] - Comando "/gm +item 1173 43 235"
+06:27:41 : [Espadudo] - [Mensagem do servidor]> Criou o item Botas(N)
+06:27:41 : [Espadudo] - Espadudo criou o item Botas(N) [1173] [43 235 0 0 0 0]
+06:27:42 : [Espadudo] - Moveu item Botas(N) [1173] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo EQUIPAMENTO slot 5
+06:27:52 : [Espadudo] - Moveu item Elmo(N) [1104] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+06:27:53 : [Espadudo] - Moveu item Elmo(N) [1101] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+06:27:54 : [Espadudo] - Moveu item Elmo(N) [1176] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 1
+06:28:17 : [Espadudo] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+06:28:17 : [Espadudo] - 1 Personagem foi desconectado. Permaneceu 00:07:55 minutos online
+06:34:09 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.181.59 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+06:34:09 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+06:34:09 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+06:35:48 : Solicitou ir ao mundo...
+06:35:48 : Recebido pedido para entrar no jogo
+06:35:48 : Recebido informação do personagem completa.
+06:35:48 : [Cajaduda] - [INFORMAÇÕES DA CONTA]
+Personagem online: Cajaduda
+Gold atual: 0
+Level atual: 400
+Experiência atual: 14
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:38 horas
+Posição atual: 2090x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 0 0 0 0]
+[01] - Chapéu(N)[1851] [43 236 0 0 0 0]
+[02] - Túnica(N)[1853] [43 236 0 0 0 0]
+[03] - Saia(N)[1855] [43 236 0 0 0 0]
+[04] - Luvas(N)[1857] [43 236 0 0 0 0]
+[05] - Botas(N)[1859] [43 236 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Robe(N)[1254] [43 0 0 0 0 0]
+[01] - Elmo(Le)[2196] [176 35 0 0 0 0]
+[02] - Luvas(Le)[2199] [0 0 0 0 0 0]
+[03] - Chapéu(Le)[2201] [0 0 0 0 0 0]
+[04] - Elmo(A)[1881] [0 0 0 0 0 0]
+[05] - Robe(N)[1266] [43 0 0 0 0 0]
+[06] - Saia(N)[1278] [43 0 0 0 0 0]
+[07] - Calça(A)[1883] [0 0 0 0 0 0]
+[08] - Luvas(N)[1290] [43 0 0 0 0 0]
+[09] - Botas(N)[1302] [43 0 0 0 0 0]
+[10] - Elmo(A)[1881] [43 235 0 0 0 0]
+[11] - Túnica(A)[1882] [0 0 0 0 0 0]
+[12] - Calça(A)[1883] [0 0 0 0 0 0]
+[13] - Luvas(A)[1884] [0 0 0 0 0 0]
+[14] - Botas(A)[1885] [0 0 0 0 0 0]
+[15] - Botas(M)[2169] [43 235 0 0 0 0]
+[16] - Gema_de_Esmeralda[3387] [61 100 0 0 0 0]
+[17] - Gema_de_Diamante[3386] [61 113 0 0 0 0]
+[18] - Gema_de_Coral[3388] [61 103 0 0 0 0]
+[19] - Gema_de_Garnet[3389] [61 95 0 0 0 0]
+[20] - Luvas(N)[1293] [43 235 0 0 0 0]
+[21] - Túnica(A)[1271] [43 235 0 0 0 0]
+[22] - Chapéu(M)[2161] [43 235 0 0 0 0]
+[23] - Saia(N)[1281] [43 235 0 0 0 0]
+[24] - Botas(N)[1305] [43 235 0 0 0 0]
+[25] - Túnica(A)[1882] [43 234 0 0 0 0]
+[26] - Calça(A)[1883] [43 234 0 0 0 0]
+[27] - Elmo(Le)[2196] [43 234 0 0 0 0]
+[28] - Luvas(A)[1884] [43 234 0 0 0 0]
+[29] - Botas(A)[1885] [43 234 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+06:35:48 : [Cajaduda] - Personagem Cajaduda enviado ao mundo 2090x 2099y - Canal 2 - Cash da conta: 0. PowerLevel: 318
+06:35:48 : [Cajaduda] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 14. Nível: 400. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+06:35:48 : [Cajaduda] - Enviado informações do personagem
+06:35:49 : [Cajaduda] - Comando "/day "
+06:35:49 : [Cajaduda] - [Mensagem do servidor]> !#11 2
+06:36:00 : [Cajaduda] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+06:38:27 : [Cajaduda] - Comando "/gm +set 0 11"
+06:38:58 : [Cajaduda] - Item Túnica(A) deletado [1882] [43 234 0 0 0 0]. Slot 25
+06:39:00 : [Cajaduda] - Item Calça(A) deletado [1883] [43 234 0 0 0 0]. Slot 26
+06:39:01 : [Cajaduda] - Item Elmo(Le) deletado [2196] [43 234 0 0 0 0]. Slot 27
+06:39:02 : [Cajaduda] - Item Luvas(A) deletado [1884] [43 234 0 0 0 0]. Slot 28
+06:39:03 : [Cajaduda] - Item Botas(A) deletado [1885] [43 234 0 0 0 0]. Slot 29
+06:39:05 : [Cajaduda] - Item Luvas(N) deletado [1293] [43 235 0 0 0 0]. Slot 20
+06:39:07 : [Cajaduda] - Item Túnica(A) deletado [1271] [43 235 0 0 0 0]. Slot 21
+06:39:08 : [Cajaduda] - Item Chapéu(M) deletado [2161] [43 235 0 0 0 0]. Slot 22
+06:39:09 : [Cajaduda] - Item Saia(N) deletado [1281] [43 235 0 0 0 0]. Slot 23
+06:39:10 : [Cajaduda] - Item Botas(N) deletado [1305] [43 235 0 0 0 0]. Slot 24
+06:39:30 : [Cajaduda] - Comando "/gm +item 1254 43 235"
+06:39:30 : [Cajaduda] - [Mensagem do servidor]> Criou o item Robe(N)
+06:39:30 : [Cajaduda] - Cajaduda criou o item Robe(N) [1254] [43 235 0 0 0 0]
+06:39:47 : [Cajaduda] - Comando "/gm +set 1 1254 43 235"
+06:40:32 : [Cajaduda] - Comando "/gm +set 2 1266 43 235"
+06:42:03 : [Cajaduda] - Comando "/gm +set 3 1278 43 235"
+06:43:21 : [Cajaduda] - Comando "/gm +set 4 1290 43 235"
+06:43:43 : [Cajaduda] - Comando "/gm +set 5 1302 43 235"
+06:44:04 : [Cajaduda] - Personagem deu personagem
+06:44:10 : Solicitou ir ao mundo...
+06:44:10 : Recebido pedido para entrar no jogo
+06:44:10 : Recebido informação do personagem completa.
+06:44:10 : [Espadudo] - [INFORMAÇÕES DA CONTA]
+Personagem online: Espadudo
+Gold atual: 0
+Level atual: 400
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:09:54 horas
+Posição atual: 2093x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1176] [43 235 0 0 0 0]
+[02] - Armadura(N)[1113] [43 235 0 0 0 0]
+[03] - Calça(N)[1125] [43 235 0 0 0 0]
+[04] - Luvas(N)[1137] [43 235 0 0 0 0]
+[05] - Botas(N)[1173] [43 235 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo(N)[1104] [43 0 0 0 0 0]
+[01] - Armadura(N)[1116] [43 0 0 0 0 0]
+[02] - Calça(N)[1128] [43 0 0 0 0 0]
+[03] - Luvas(N)[1140] [43 0 0 0 0 0]
+[04] - Botas(N)[1152] [43 0 0 0 0 0]
+[05] - Elmo(N)[1161] [43 235 0 0 0 0]
+[06] - Elmo(N)[1101] [0 0 0 0 0 0]
+[07] - Armadura(N)[1179] [43 235 0 0 0 0]
+[08] - Calça(N)[1182] [43 235 0 0 0 0]
+[09] - Luvas(N)[1185] [43 235 0 0 0 0]
+[10] - Botas(M)[1156] [43 235 0 0 0 0]
+[11] - Botas(N)[1188] [43 235 0 0 0 0]
+[12] - Elmo(N)[1101] [43 235 0 0 0 0]
+[13] - Elmo(N)[1110] [43 235 0 0 0 0]
+[14] - Armadura(N)[1122] [43 235 0 0 0 0]
+[15] - Calça(N)[1134] [43 235 0 0 0 0]
+[16] - Luvas(N)[1146] [43 235 0 0 0 0]
+[17] - Botas(N)[1158] [43 235 0 0 0 0]
+[18] - Botas(N)[1149] [43 235 0 0 0 0]
+[19] - Botas(N)[1152] [43 235 0 0 0 0]
+[20] - Botas(N)[1155] [43 235 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+06:44:10 : [Espadudo] - Personagem Espadudo enviado ao mundo 2093x 2101y - Canal 2 - Cash da conta: 0. PowerLevel: 343
+06:44:10 : [Espadudo] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 400. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+06:44:10 : [Espadudo] - Enviado informações do personagem
+06:44:11 : [Espadudo] - Comando "/day "
+06:44:11 : [Espadudo] - [Mensagem do servidor]> !#11 2
+06:44:15 : [Espadudo] - Moveu item Elmo(N) [1101] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 1
+06:44:24 : [Espadudo] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+06:44:26 : [Espadudo] - Moveu item Botas(N) [1149] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 18 para tipo EQUIPAMENTO slot 5
+06:45:17 : [Espadudo] - Personagem deu personagem
+06:45:31 : Solicitou ir ao mundo...
+06:45:31 : Recebido pedido para entrar no jogo
+06:45:31 : Recebido informação do personagem completa.
+06:45:31 : [Zinah] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zinah
+Gold atual: 0
+Level atual: 400
+Experiência atual: 180
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:11:13 horas
+Posição atual: 2094x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(N)[1596] [43 235 0 0 0 0]
+[02] - Peitoral(N)[1599] [43 235 0 0 0 0]
+[03] - Calça(N)[1602] [43 235 0 0 0 0]
+[04] - Braçadeira(N)[1605] [43 235 0 0 0 0]
+[05] - Botas(N)[1608] [43 235 0 0 0 0]
+[06] - Garra[831] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Peitoral(N)[1569] [0 0 0 0 0 0]
+[01] - Chapéu(M)[1582] [0 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 0 0 0 0 0]
+[03] - Chapéu(M)[1597] [0 0 0 0 0 0]
+[04] - Peitoral(N)[1599] [0 0 0 0 0 0]
+[05] - Braçadeira(N)[1575] [43 0 0 0 0 0]
+[06] - Chapéu(N)[1581] [0 0 0 0 0 0]
+[07] - Calça(N)[1572] [43 0 0 0 0 0]
+[08] - Calça(A)[1604] [0 0 0 0 0 0]
+[09] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[10] - Orc_I[164] [0 0 0 0 0 0]
+[11] - Peitoral(M)[1585] [0 0 0 0 0 0]
+[12] - Peitoral(M)[1615] [0 0 0 0 0 0]
+[13] - Calça(A)[1589] [6 0 0 0 0 0]
+[14] - Braçadeira(N)[1605] [0 0 0 0 0 0]
+[15] - Botas(N)[1623] [0 0 0 0 0 0]
+[16] - Peitoral(N)[1614] [0 0 0 0 0 0]
+[17] - Elmo(A)[1613] [0 0 0 0 0 0]
+[18] - Calça(N)[1617] [0 0 0 0 0 0]
+[19] - Braçadeira(N)[1620] [0 0 0 0 0 0]
+[20] - Botas(N)[1578] [43 0 0 0 0 0]
+[21] - Saia(N)[1281] [43 235 0 0 0 0]
+[22] - Elmo(N)[1611] [43 235 0 0 0 0]
+[23] - Peitoral(N)[1614] [43 235 0 0 0 0]
+[24] - Calça(N)[1617] [43 235 0 0 0 0]
+[25] - Botas(N)[1623] [43 235 0 0 0 0]
+[26] - Braçadeira(N)[1620] [43 235 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+06:45:31 : [Zinah] - Personagem Zinah enviado ao mundo 2094x 2097y - Canal 2 - Cash da conta: 0. PowerLevel: 318
+06:45:31 : [Zinah] - Gold atual: 0. Classe: 3 Evolução: 0. Experiência: 180. Nível: 400. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+06:45:31 : [Zinah] - Enviado informações do personagem
+06:45:32 : [Zinah] - Comando "/day "
+06:45:32 : [Zinah] - [Mensagem do servidor]> !#11 2
+06:45:36 : [Zinah] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+06:45:42 : [Zinah] - Item Braçadeira(N) deletado [1620] [43 235 0 0 0 0]. Slot 26
+06:45:44 : [Zinah] - Item Botas(N) deletado [1623] [43 235 0 0 0 0]. Slot 25
+06:46:35 : [Zinah] - Comando "/gm +item 1551 43 235"
+06:46:35 : [Zinah] - [Mensagem do servidor]> Criou o item Chapéu(N)
+06:46:35 : [Zinah] - Zinah criou o item Chapéu(N) [1551] [43 235 0 0 0 0]
+06:46:37 : [Zinah] - Moveu item Chapéu(N) [1551] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 25 para tipo EQUIPAMENTO slot 1
+06:46:41 : [Zinah] - Moveu item Elmo(A) [1613] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 1
+06:46:43 : [Zinah] - Moveu item Chapéu(N) [1596] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 25 para tipo EQUIPAMENTO slot 1
+06:46:45 : [Zinah] - Moveu item Chapéu(N) [1551] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 1
+06:47:17 : [Zinah] - Comando "/gm +item 1554 43 235"
+06:47:17 : [Zinah] - [Mensagem do servidor]> Criou o item Jaqueta(N)
+06:47:17 : [Zinah] - Zinah criou o item Jaqueta(N) [1554] [43 235 0 0 0 0]
+06:47:28 : [Zinah] - Comando "/gm +item 1557 43 235"
+06:47:28 : [Zinah] - [Mensagem do servidor]> Criou o item Calça(N)
+06:47:28 : [Zinah] - Zinah criou o item Calça(N) [1557] [43 235 0 0 0 0]
+06:47:38 : [Zinah] - Comando "/gm +item 1560 43 235"
+06:47:38 : [Zinah] - [Mensagem do servidor]> Criou o item Luvas(N)
+06:47:38 : [Zinah] - Zinah criou o item Luvas(N) [1560] [43 235 0 0 0 0]
+06:47:48 : [Zinah] - Comando "/gm +item 1563 43 235"
+06:47:48 : [Zinah] - [Mensagem do servidor]> Criou o item Botas(N)
+06:47:48 : [Zinah] - Zinah criou o item Botas(N) [1563] [43 235 0 0 0 0]
+06:47:50 : [Zinah] - Moveu item Jaqueta(N) [1554] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 26 para tipo EQUIPAMENTO slot 2
+06:47:51 : [Zinah] - Moveu item Calça(N) [1557] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 27 para tipo EQUIPAMENTO slot 3
+06:47:52 : [Zinah] - Moveu item Luvas(N) [1560] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 28 para tipo EQUIPAMENTO slot 4
+06:47:53 : [Zinah] - Moveu item Botas(N) [1563] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 29 para tipo EQUIPAMENTO slot 5
+06:47:55 : [Zinah] - Moveu item Chapéu(N) [1596] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo INVENTÁRIO slot 25
+06:48:42 : [Zinah] - Personagem deu personagem
+06:49:09 : Solicitou ir ao mundo...
+06:49:09 : Recebido pedido para entrar no jogo
+06:49:09 : Recebido informação do personagem completa.
+06:49:09 : [Espadudo] - [INFORMAÇÕES DA CONTA]
+Personagem online: Espadudo
+Gold atual: 0
+Level atual: 400
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:14:49 horas
+Posição atual: 2094x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1101] [43 235 0 0 0 0]
+[02] - Armadura(N)[1113] [43 235 0 0 0 0]
+[03] - Calça(N)[1125] [43 235 0 0 0 0]
+[04] - Luvas(N)[1137] [43 235 0 0 0 0]
+[05] - Botas(N)[1149] [43 235 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo(N)[1104] [43 0 0 0 0 0]
+[01] - Armadura(N)[1116] [43 0 0 0 0 0]
+[02] - Calça(N)[1128] [43 0 0 0 0 0]
+[03] - Luvas(N)[1140] [43 0 0 0 0 0]
+[04] - Botas(N)[1152] [43 0 0 0 0 0]
+[05] - Elmo(N)[1161] [43 235 0 0 0 0]
+[06] - Elmo(N)[1101] [0 0 0 0 0 0]
+[07] - Armadura(N)[1179] [43 235 0 0 0 0]
+[08] - Calça(N)[1182] [43 235 0 0 0 0]
+[09] - Luvas(N)[1185] [43 235 0 0 0 0]
+[10] - Botas(M)[1156] [43 235 0 0 0 0]
+[11] - Botas(N)[1188] [43 235 0 0 0 0]
+[12] - Elmo(N)[1176] [43 235 0 0 0 0]
+[13] - Elmo(N)[1110] [43 235 0 0 0 0]
+[14] - Armadura(N)[1122] [43 235 0 0 0 0]
+[15] - Calça(N)[1134] [43 235 0 0 0 0]
+[16] - Luvas(N)[1146] [43 235 0 0 0 0]
+[17] - Botas(N)[1158] [43 235 0 0 0 0]
+[18] - Botas(N)[1173] [43 235 0 0 0 0]
+[19] - Botas(N)[1152] [43 235 0 0 0 0]
+[20] - Botas(N)[1155] [43 235 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+06:49:09 : [Espadudo] - Personagem Espadudo enviado ao mundo 2094x 2095y - Canal 2 - Cash da conta: 0. PowerLevel: 285
+06:49:09 : [Espadudo] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 400. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+06:49:09 : [Espadudo] - Enviado informações do personagem
+06:49:11 : [Espadudo] - Comando "/day "
+06:49:11 : [Espadudo] - [Mensagem do servidor]> !#11 2
+06:49:20 : [Espadudo] - Comando "/gm +item 1197 43 235"
+06:49:20 : [Espadudo] - [Mensagem do servidor]> Criou o item Calça(N)
+06:49:20 : [Espadudo] - Espadudo criou o item Calça(N) [1197] [43 235 0 0 0 0]
+06:49:24 : [Espadudo] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+06:49:25 : [Espadudo] - Moveu item Calça(N) [1197] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo EQUIPAMENTO slot 3
+06:49:32 : [Espadudo] - Moveu item Calça(N) [1125] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 21 para tipo EQUIPAMENTO slot 3
+06:50:01 : [Espadudo] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+06:50:01 : [Espadudo] - 1 Personagem foi desconectado. Permaneceu 00:15:40 minutos online
+07:01:01 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.181.59 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+07:01:01 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+07:01:01 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+07:01:13 : Solicitou ir ao mundo...
+07:01:13 : Recebido pedido para entrar no jogo
+07:01:13 : Recebido informação do personagem completa.
+07:01:13 : [Cajaduda] - [INFORMAÇÕES DA CONTA]
+Personagem online: Cajaduda
+Gold atual: 0
+Level atual: 400
+Experiência atual: 14
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:12 horas
+Posição atual: 2088x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 0 0 0 0]
+[01] - Robe(N)[1254] [43 235 0 0 0 0]
+[02] - Robe(N)[1266] [43 235 0 0 0 0]
+[03] - Saia(N)[1278] [43 235 0 0 0 0]
+[04] - Luvas(N)[1290] [43 235 0 0 0 0]
+[05] - Botas(N)[1302] [43 235 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Robe(N)[1254] [43 0 0 0 0 0]
+[01] - Elmo(Le)[2196] [176 35 0 0 0 0]
+[02] - Luvas(Le)[2199] [0 0 0 0 0 0]
+[03] - Chapéu(Le)[2201] [0 0 0 0 0 0]
+[04] - Elmo(A)[1881] [0 0 0 0 0 0]
+[05] - Robe(N)[1266] [43 0 0 0 0 0]
+[06] - Saia(N)[1278] [43 0 0 0 0 0]
+[07] - Calça(A)[1883] [0 0 0 0 0 0]
+[08] - Luvas(N)[1290] [43 0 0 0 0 0]
+[09] - Botas(N)[1302] [43 0 0 0 0 0]
+[10] - Elmo(A)[1881] [43 235 0 0 0 0]
+[11] - Túnica(A)[1882] [0 0 0 0 0 0]
+[12] - Calça(A)[1883] [0 0 0 0 0 0]
+[13] - Luvas(A)[1884] [0 0 0 0 0 0]
+[14] - Botas(A)[1885] [0 0 0 0 0 0]
+[15] - Botas(M)[2169] [43 235 0 0 0 0]
+[16] - Gema_de_Esmeralda[3387] [61 100 0 0 0 0]
+[17] - Gema_de_Diamante[3386] [61 113 0 0 0 0]
+[18] - Gema_de_Coral[3388] [61 103 0 0 0 0]
+[19] - Gema_de_Garnet[3389] [61 95 0 0 0 0]
+[20] - Robe(N)[1254] [43 235 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+07:01:13 : [Cajaduda] - Personagem Cajaduda enviado ao mundo 2088x 2102y - Canal 2 - Cash da conta: 0. PowerLevel: 288
+07:01:13 : [Cajaduda] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 14. Nível: 400. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+07:01:13 : [Cajaduda] - Enviado informações do personagem
+07:01:15 : [Cajaduda] - Comando "/day "
+07:01:15 : [Cajaduda] - [Mensagem do servidor]> !#11 2
+07:01:24 : [Cajaduda] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+07:01:42 : [Cajaduda] - Personagem deu personagem
+07:01:45 : Solicitou ir ao mundo...
+07:01:45 : Recebido pedido para entrar no jogo
+07:01:45 : Recebido informação do personagem completa.
+07:01:45 : [Zinah] - [INFORMAÇÕES DA CONTA]
+Personagem online: Zinah
+Gold atual: 0
+Level atual: 400
+Experiência atual: 180
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:43 horas
+Posição atual: 2088x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(N)[1551] [43 235 0 0 0 0]
+[02] - Jaqueta(N)[1554] [43 235 0 0 0 0]
+[03] - Calça(N)[1557] [43 235 0 0 0 0]
+[04] - Luvas(N)[1560] [43 235 0 0 0 0]
+[05] - Botas(N)[1563] [43 235 0 0 0 0]
+[06] - Garra[831] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Peitoral(N)[1569] [0 0 0 0 0 0]
+[01] - Chapéu(M)[1582] [0 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 0 0 0 0 0]
+[03] - Chapéu(M)[1597] [0 0 0 0 0 0]
+[04] - Peitoral(N)[1599] [0 0 0 0 0 0]
+[05] - Braçadeira(N)[1575] [43 0 0 0 0 0]
+[06] - Chapéu(N)[1581] [0 0 0 0 0 0]
+[07] - Calça(N)[1572] [43 0 0 0 0 0]
+[08] - Calça(A)[1604] [0 0 0 0 0 0]
+[09] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[10] - Orc_I[164] [0 0 0 0 0 0]
+[11] - Peitoral(M)[1585] [0 0 0 0 0 0]
+[12] - Peitoral(M)[1615] [0 0 0 0 0 0]
+[13] - Calça(A)[1589] [6 0 0 0 0 0]
+[14] - Braçadeira(N)[1605] [0 0 0 0 0 0]
+[15] - Botas(N)[1623] [0 0 0 0 0 0]
+[16] - Peitoral(N)[1614] [0 0 0 0 0 0]
+[17] - Elmo(A)[1613] [0 0 0 0 0 0]
+[18] - Calça(N)[1617] [0 0 0 0 0 0]
+[19] - Braçadeira(N)[1620] [0 0 0 0 0 0]
+[20] - Botas(N)[1578] [43 0 0 0 0 0]
+[21] - Saia(N)[1281] [43 235 0 0 0 0]
+[22] - Elmo(N)[1611] [43 235 0 0 0 0]
+[23] - Peitoral(N)[1614] [43 235 0 0 0 0]
+[24] - Calça(N)[1617] [43 235 0 0 0 0]
+[25] - Chapéu(N)[1596] [43 235 0 0 0 0]
+[26] - Peitoral(N)[1599] [43 235 0 0 0 0]
+[27] - Calça(N)[1602] [43 235 0 0 0 0]
+[28] - Braçadeira(N)[1605] [43 235 0 0 0 0]
+[29] - Botas(N)[1608] [43 235 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+07:01:45 : [Zinah] - Personagem Zinah enviado ao mundo 2088x 2105y - Canal 2 - Cash da conta: 0. PowerLevel: 288
+07:01:45 : [Zinah] - Gold atual: 0. Classe: 3 Evolução: 0. Experiência: 180. Nível: 400. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+07:01:45 : [Zinah] - Enviado informações do personagem
+07:01:46 : [Zinah] - Comando "/day "
+07:01:46 : [Zinah] - [Mensagem do servidor]> !#11 2
+07:02:00 : [Zinah] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+07:02:10 : [Zinah] - Personagem deu personagem
+07:02:13 : Solicitou ir ao mundo...
+07:02:13 : Recebido pedido para entrar no jogo
+07:02:13 : Recebido informação do personagem completa.
+07:02:13 : [Espadudo] - [INFORMAÇÕES DA CONTA]
+Personagem online: Espadudo
+Gold atual: 0
+Level atual: 400
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:11 horas
+Posição atual: 2093x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1101] [43 235 0 0 0 0]
+[02] - Armadura(N)[1113] [43 235 0 0 0 0]
+[03] - Calça(N)[1125] [43 235 0 0 0 0]
+[04] - Luvas(N)[1137] [43 235 0 0 0 0]
+[05] - Botas(N)[1149] [43 235 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo(N)[1104] [43 0 0 0 0 0]
+[01] - Armadura(N)[1116] [43 0 0 0 0 0]
+[02] - Calça(N)[1128] [43 0 0 0 0 0]
+[03] - Luvas(N)[1140] [43 0 0 0 0 0]
+[04] - Botas(N)[1152] [43 0 0 0 0 0]
+[05] - Elmo(N)[1161] [43 235 0 0 0 0]
+[06] - Elmo(N)[1101] [0 0 0 0 0 0]
+[07] - Armadura(N)[1179] [43 235 0 0 0 0]
+[08] - Calça(N)[1182] [43 235 0 0 0 0]
+[09] - Luvas(N)[1185] [43 235 0 0 0 0]
+[10] - Botas(M)[1156] [43 235 0 0 0 0]
+[11] - Botas(N)[1188] [43 235 0 0 0 0]
+[12] - Elmo(N)[1176] [43 235 0 0 0 0]
+[13] - Elmo(N)[1110] [43 235 0 0 0 0]
+[14] - Armadura(N)[1122] [43 235 0 0 0 0]
+[15] - Calça(N)[1134] [43 235 0 0 0 0]
+[16] - Luvas(N)[1146] [43 235 0 0 0 0]
+[17] - Botas(N)[1158] [43 235 0 0 0 0]
+[18] - Botas(N)[1173] [43 235 0 0 0 0]
+[19] - Botas(N)[1152] [43 235 0 0 0 0]
+[20] - Botas(N)[1155] [43 235 0 0 0 0]
+[21] - Calça(N)[1197] [43 235 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+07:02:13 : [Espadudo] - Personagem Espadudo enviado ao mundo 2093x 2103y - Canal 2 - Cash da conta: 0. PowerLevel: 285
+07:02:13 : [Espadudo] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 400. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+07:02:13 : [Espadudo] - Enviado informações do personagem
+07:02:15 : [Espadudo] - Comando "/day "
+07:02:15 : [Espadudo] - [Mensagem do servidor]> !#11 2
+07:02:25 : [Espadudo] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+07:02:34 : [Espadudo] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+07:02:34 : [Espadudo] - 1 Personagem foi desconectado. Permaneceu 00:01:32 minutos online

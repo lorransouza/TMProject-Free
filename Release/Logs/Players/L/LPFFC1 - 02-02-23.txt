@@ -1,0 +1,1054 @@
+
+21:55:54 : =========================== NOVA SESS√O ==========================
+Tentativa de logar na conta - IP: 127.0.0.1 Mac: (F8:AC:68:4B:44:4F). ClientId: 2
+21:55:54 : Conta LPFFC logado na conta
+Status da conta: JOGANDO
+Personagem: gfhfghf
+
+21:55:54 : Usu·rio logou no jogo com clientId 2. - Servidor 1. Gold do banco: 0
+21:55:54 : [INFORMA«’ES DO BANCO]
+Gold: 0
+[ 30] - Frango_Assado[3314] [61 2 200 1 0 0]
+
+21:55:54 : A prÛxima miss„o acontecer· em aproximadamente 25 minutos
+21:55:54 : [INFORMA«’ES DA CONTA]
+Personagem na seleÁ„o de personagem. Sem informaÁıes no momento
+Tempo online atÈ o momento: 00 dias e 00:00:01 horas
+
+[USU¡RIOS LOGADOS]
+[LPFFC]	USER_PLAY	[gfhfghf] (level: 197 ev: 1)	
+
+21:56:55 : Solicitou ir ao mundo...
+21:56:55 : Recebido pedido para entrar no jogo
+21:56:55 : Recebido informaÁ„o do personagem completa.
+21:56:55 : [test] - [INFORMA«’ES DA CONTA]
+Personagem online: test
+Gold atual: 0
+Level atual: 0
+ExperiÍncia atual: 0
+EvoluÁ„o atual: Mortal
+Tempo online atÈ o momento: 00 dias e 00:01:01 horas
+PosiÁ„o atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 98 21]
+[01] - Chap√©u_Pele_de_Animal(A)[1403] [0 0 0 0 0 0]
+[02] - Robe_Pele_de_Animal(A)[1406] [0 0 0 0 0 0]
+[03] - Cal√ßa_Pele_de_Animal(A)[1409] [0 0 0 0 0 0]
+[04] - Luvas_Pele_de_Animal(A)[1412] [0 0 0 0 0 0]
+[05] - Sapatos_Pele_de_Animal(A)[1415] [0 0 0 0 0 0]
+[06] - Adaga[861] [0 0 0 0 0 0]
+
+[INVENT¡RIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USU¡RIOS LOGADOS]
+[LPFFC]	USER_PLAY	[gfhfghf] (level: 209 ev: 1)	
+
+21:56:55 : [test] - Personagem test enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+21:56:55 : [test] - Gold atual: 0. Classe: 2 EvoluÁ„o: 1. ExperiÍncia: 0. NÌvel: 0. Info: 0. GuildID: 0. CP: 0. Pontos de ContribuiÁ„o: 0. Limite: 0
+21:56:55 : [test] - Resetado a contagem de entradas ·gua! Day: 30-32. Total: 0
+21:56:55 : [test] - Enviado informaÁıes do personagem
+21:56:56 : [test] - Comando "/day "
+21:56:56 : [test] - [Mensagem do servidor]> !#11 2
+21:57:05 : [test] - O usu·rio n„o enviou o pacote de integridade de macaddress
+21:57:39 : [test] - [Mensagem do servidor]> N„o possui gold suficiente
+21:58:02 : [test] - Comando "/admin +move 1157 1695"
+21:58:02 : [test] - Teleportado para a posiÁ„o 1156 1694
+21:58:13 : [test] - Comando "/admin +set item 414 "
+21:58:13 : [test] - [Mensagem do servidor]> Comando inv·lido
+21:58:19 : [test] - Comando "/admin +item 414"
+21:58:19 : [test] - test criou o item Poeira_de_Fada [414] [0 0 0 0 0 0]
+21:58:20 : [test] - Item Poeira_de_Fada [414] [0 0 0 0 0 0] utilizado em 1157x 1696y
+21:58:20 : [test] - [Mensagem do servidor]> Recebeu 4.000.000.000 de experiÍncia
+21:58:21 : [test] - Pontos CP subiu em 3. CP novo: 78
+21:58:21 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:21 : [test] - Level UP para level 1. Ev: 1 - 1157x 1696y
+21:58:22 : [test] - Pontos CP subiu em 3. CP novo: 81
+21:58:22 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:22 : [test] - Level UP para level 2. Ev: 1 - 1157x 1696y
+21:58:23 : [test] - Pontos CP subiu em 3. CP novo: 84
+21:58:23 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:23 : [test] - Level UP para level 3. Ev: 1 - 1157x 1696y
+21:58:24 : [test] - Pontos CP subiu em 3. CP novo: 87
+21:58:24 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:24 : [test] - Level UP para level 4. Ev: 1 - 1157x 1696y
+21:58:25 : [test] - Pontos CP subiu em 3. CP novo: 90
+21:58:25 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:25 : [test] - Level UP para level 5. Ev: 1 - 1157x 1696y
+21:58:26 : [test] - Pontos CP subiu em 3. CP novo: 93
+21:58:26 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:26 : [test] - Level UP para level 6. Ev: 1 - 1157x 1696y
+21:58:28 : [test] - Pontos CP subiu em 3. CP novo: 96
+21:58:28 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:28 : [test] - Level UP para level 7. Ev: 1 - 1157x 1696y
+21:58:29 : [test] - Pontos CP subiu em 3. CP novo: 99
+21:58:29 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:29 : [test] - Level UP para level 8. Ev: 1 - 1157x 1696y
+21:58:30 : [test] - Pontos CP subiu em 3. CP novo: 102
+21:58:30 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:30 : [test] - Level UP para level 9. Ev: 1 - 1157x 1696y
+21:58:31 : [test] - Pontos CP subiu em 3. CP novo: 105
+21:58:31 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:31 : [test] - Level UP para level 10. Ev: 1 - 1157x 1696y
+21:58:32 : [test] - Pontos CP subiu em 3. CP novo: 108
+21:58:32 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:32 : [test] - Level UP para level 11. Ev: 1 - 1157x 1696y
+21:58:33 : [test] - Pontos CP subiu em 3. CP novo: 111
+21:58:33 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:33 : [test] - Level UP para level 12. Ev: 1 - 1157x 1696y
+21:58:34 : [test] - Pontos CP subiu em 3. CP novo: 114
+21:58:34 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:34 : [test] - Level UP para level 13. Ev: 1 - 1157x 1696y
+21:58:35 : [test] - Pontos CP subiu em 3. CP novo: 117
+21:58:35 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:35 : [test] - Level UP para level 14. Ev: 1 - 1157x 1696y
+21:58:36 : [test] - Pontos CP subiu em 3. CP novo: 120
+21:58:36 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:36 : [test] - Level UP para level 15. Ev: 1 - 1157x 1696y
+21:58:37 : [test] - Pontos CP subiu em 3. CP novo: 123
+21:58:37 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:37 : [test] - Level UP para level 16. Ev: 1 - 1157x 1696y
+21:58:38 : [test] - Pontos CP subiu em 3. CP novo: 126
+21:58:38 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:38 : [test] - Level UP para level 17. Ev: 1 - 1157x 1696y
+21:58:39 : [test] - Pontos CP subiu em 3. CP novo: 129
+21:58:39 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:39 : [test] - Level UP para level 18. Ev: 1 - 1157x 1696y
+21:58:40 : [test] - Pontos CP subiu em 3. CP novo: 132
+21:58:40 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:40 : [test] - Level UP para level 19. Ev: 1 - 1157x 1696y
+21:58:41 : [test] - Pontos CP subiu em 3. CP novo: 135
+21:58:41 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:41 : [test] - Level UP para level 20. Ev: 1 - 1157x 1696y
+21:58:42 : [test] - Pontos CP subiu em 3. CP novo: 138
+21:58:42 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:42 : [test] - Level UP para level 21. Ev: 1 - 1157x 1696y
+21:58:43 : [test] - Pontos CP subiu em 3. CP novo: 141
+21:58:43 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:43 : [test] - Level UP para level 22. Ev: 1 - 1157x 1696y
+21:58:44 : [test] - Pontos CP subiu em 3. CP novo: 144
+21:58:44 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:44 : [test] - Level UP para level 23. Ev: 1 - 1157x 1696y
+21:58:45 : [test] - Pontos CP subiu em 3. CP novo: 147
+21:58:45 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:45 : [test] - Level UP para level 24. Ev: 1 - 1157x 1696y
+21:58:45 : [test] - Recebeu o item  [4615] [0 0 0 0 0 0]. STR: 6. INT: 6. DEX: 9. CON: 5
+21:58:45 : [test] - [Mensagem do servidor]> Chegou um item: [  ]
+21:58:46 : [test] - Pontos CP subiu em 3. CP novo: 150
+21:58:46 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:46 : [test] - Level UP para level 25. Ev: 1 - 1157x 1696y
+21:58:47 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:47 : [test] - Level UP para level 26. Ev: 1 - 1157x 1696y
+21:58:49 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:49 : [test] - Level UP para level 27. Ev: 1 - 1157x 1696y
+21:58:50 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:50 : [test] - Level UP para level 28. Ev: 1 - 1157x 1696y
+21:58:51 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:51 : [test] - Level UP para level 29. Ev: 1 - 1157x 1696y
+21:58:51 : [test] - Recebeu o item Luvas_de_√Åguia(M) [1456] [43 3 2 20 53 3]. STR: 6. INT: 6. DEX: 9. CON: 5
+21:58:51 : [test] - [Mensagem do servidor]> Chegou um item: [ Luvas_de_√Åguia(M) ]
+21:58:51 : [test] - Item  deletado [4615] [0 0 0 0 0 0]. Slot 0
+21:58:52 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:52 : [test] - Level UP para level 30. Ev: 1 - 1157x 1696y
+21:58:52 : [test] - Item Luvas_de_√Åguia(M) deletado [1456] [43 3 2 20 53 3]. Slot 1
+21:58:53 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:53 : [test] - Level UP para level 31. Ev: 1 - 1157x 1696y
+21:58:54 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:54 : [test] - Level UP para level 32. Ev: 1 - 1157x 1696y
+21:58:55 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:55 : [test] - Level UP para level 33. Ev: 1 - 1157x 1696y
+21:58:56 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:56 : [test] - Level UP para level 34. Ev: 1 - 1157x 1696y
+21:58:56 : [test] - Recebeu o item Botas_de_√Åguia(M) [1459] [43 3 73 18 74 12]. STR: 6. INT: 6. DEX: 9. CON: 5
+21:58:56 : [test] - [Mensagem do servidor]> Chegou um item: [ Botas_de_√Åguia(M) ]
+21:58:57 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:57 : [test] - Level UP para level 35. Ev: 1 - 1157x 1696y
+21:58:58 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:58 : [test] - Level UP para level 36. Ev: 1 - 1157x 1696y
+21:59:03 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:03 : [test] - Level UP para level 37. Ev: 1 - 1157x 1696y
+21:59:06 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:06 : [test] - Level UP para level 38. Ev: 1 - 1157x 1696y
+21:59:07 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:07 : [test] - Level UP para level 39. Ev: 1 - 1157x 1696y
+21:59:07 : [test] - Recebeu o item Elmo_de_√Åguia(M) [1447] [43 3 4 20 0 0]. STR: 6. INT: 6. DEX: 9. CON: 5
+21:59:07 : [test] - [Mensagem do servidor]> Chegou um item: [ Elmo_de_√Åguia(M) ]
+21:59:08 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:08 : [test] - Level UP para level 40. Ev: 1 - 1157x 1696y
+21:59:09 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:09 : [test] - Level UP para level 41. Ev: 1 - 1157x 1696y
+21:59:10 : [test] - Item Elmo_de_√Åguia(M) deletado [1447] [43 3 4 20 0 0]. Slot 1
+21:59:10 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:10 : [test] - Level UP para level 42. Ev: 1 - 1157x 1696y
+21:59:11 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:11 : [test] - Level UP para level 43. Ev: 1 - 1157x 1696y
+21:59:12 : [test] - Item Botas_de_√Åguia(M) deletado [1459] [43 3 73 18 74 12]. Slot 0
+21:59:12 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:12 : [test] - Level UP para level 44. Ev: 1 - 1157x 1696y
+21:59:12 : [test] - Recebeu o item Cal√ßa_de_√Åguia(M) [1453] [43 3 2 20 3 20]. STR: 6. INT: 6. DEX: 9. CON: 5
+21:59:12 : [test] - [Mensagem do servidor]> Chegou um item: [ Cal√ßa_de_√Åguia(M) ]
+21:59:13 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:13 : [test] - Level UP para level 45. Ev: 1 - 1157x 1696y
+21:59:14 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:14 : [test] - Level UP para level 46. Ev: 1 - 1157x 1696y
+21:59:15 : [test] - Item Cal√ßa_de_√Åguia(M) deletado [1453] [43 3 2 20 3 20]. Slot 0
+21:59:15 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:15 : [test] - Level UP para level 47. Ev: 1 - 1157x 1696y
+21:59:16 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:16 : [test] - Level UP para level 48. Ev: 1 - 1157x 1696y
+21:59:17 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:17 : [test] - Level UP para level 49. Ev: 1 - 1157x 1696y
+21:59:17 : [test] - Recebeu o item Armadura_de_√Åguia(M) [1450] [43 3 2 20 3 20]. STR: 6. INT: 6. DEX: 9. CON: 5
+21:59:17 : [test] - [Mensagem do servidor]> Chegou um item: [ Armadura_de_√Åguia(M) ]
+21:59:18 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:18 : [test] - Level UP para level 50. Ev: 1 - 1157x 1696y
+21:59:19 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:19 : [test] - Level UP para level 51. Ev: 1 - 1157x 1696y
+21:59:20 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:20 : [test] - Level UP para level 52. Ev: 1 - 1157x 1696y
+21:59:22 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:22 : [test] - Level UP para level 53. Ev: 1 - 1157x 1696y
+21:59:23 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:23 : [test] - Level UP para level 54. Ev: 1 - 1157x 1696y
+21:59:24 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:24 : [test] - Level UP para level 55. Ev: 1 - 1157x 1696y
+21:59:25 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:25 : [test] - Level UP para level 56. Ev: 1 - 1157x 1696y
+21:59:26 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:26 : [test] - Level UP para level 57. Ev: 1 - 1157x 1696y
+21:59:27 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:27 : [test] - Level UP para level 58. Ev: 1 - 1157x 1696y
+21:59:28 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:28 : [test] - Level UP para level 59. Ev: 1 - 1157x 1696y
+21:59:29 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:29 : [test] - Level UP para level 60. Ev: 1 - 1157x 1696y
+21:59:29 : [test] - Item Armadura_de_√Åguia(M) deletado [1450] [43 3 2 20 3 20]. Slot 0
+21:59:30 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:30 : [test] - Level UP para level 61. Ev: 1 - 1157x 1696y
+21:59:31 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:31 : [test] - Level UP para level 62. Ev: 1 - 1157x 1696y
+21:59:32 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:32 : [test] - Level UP para level 63. Ev: 1 - 1157x 1696y
+21:59:33 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:33 : [test] - Level UP para level 64. Ev: 1 - 1157x 1696y
+21:59:34 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:34 : [test] - Level UP para level 65. Ev: 1 - 1157x 1696y
+21:59:35 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:35 : [test] - Level UP para level 66. Ev: 1 - 1157x 1696y
+21:59:36 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:36 : [test] - Level UP para level 67. Ev: 1 - 1157x 1696y
+21:59:37 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:37 : [test] - Level UP para level 68. Ev: 1 - 1157x 1696y
+21:59:38 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:38 : [test] - Level UP para level 69. Ev: 1 - 1157x 1696y
+21:59:39 : [test] - Foi atualizado o LastUpdate da miss„o di·ria para 02/02/2023 21:59:39
+21:59:39 : [test] - [Mensagem do servidor]> !Chegou uma nova miss„o!
+21:59:39 : [test] - Recebeu a miss„o Gremlins Malditos. (1)
+21:59:39 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:39 : [test] - Level UP para level 70. Ev: 1 - 1157x 1696y
+21:59:40 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:40 : [test] - Level UP para level 71. Ev: 1 - 1157x 1696y
+21:59:41 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:41 : [test] - Level UP para level 72. Ev: 1 - 1157x 1696y
+21:59:42 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:42 : [test] - Level UP para level 73. Ev: 1 - 1157x 1696y
+21:59:44 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:44 : [test] - Level UP para level 74. Ev: 1 - 1157x 1696y
+21:59:45 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:45 : [test] - Level UP para level 75. Ev: 1 - 1157x 1696y
+21:59:46 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:46 : [test] - Level UP para level 76. Ev: 1 - 1157x 1696y
+21:59:47 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:47 : [test] - Level UP para level 77. Ev: 1 - 1157x 1696y
+21:59:48 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:48 : [test] - Level UP para level 78. Ev: 1 - 1157x 1696y
+21:59:49 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:49 : [test] - Level UP para level 79. Ev: 1 - 1157x 1696y
+21:59:50 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:50 : [test] - Level UP para level 80. Ev: 1 - 1157x 1696y
+21:59:51 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:51 : [test] - Level UP para level 81. Ev: 1 - 1157x 1696y
+21:59:52 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:52 : [test] - Level UP para level 82. Ev: 1 - 1157x 1696y
+21:59:53 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:53 : [test] - Level UP para level 83. Ev: 1 - 1157x 1696y
+21:59:54 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:54 : [test] - Level UP para level 84. Ev: 1 - 1157x 1696y
+21:59:54 : [test] - Recebeu o item Manoplas_de_Osso(M) [1471] [43 3 2 20 53 3]. STR: 6. INT: 6. DEX: 9. CON: 5
+21:59:54 : [test] - [Mensagem do servidor]> Chegou um item: [ Manoplas_de_Osso(M) ]
+21:59:55 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:55 : [test] - Level UP para level 85. Ev: 1 - 1157x 1696y
+21:59:56 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:56 : [test] - Level UP para level 86. Ev: 1 - 1157x 1696y
+21:59:57 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:57 : [test] - Level UP para level 87. Ev: 1 - 1157x 1696y
+21:59:58 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:58 : [test] - Level UP para level 88. Ev: 1 - 1157x 1696y
+21:59:59 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:59 : [test] - Level UP para level 89. Ev: 1 - 1157x 1696y
+21:59:59 : [test] - Recebeu o item Botas_de_Osso(M) [1474] [43 3 73 18 74 12]. STR: 6. INT: 6. DEX: 9. CON: 5
+21:59:59 : [test] - [Mensagem do servidor]> Chegou um item: [ Botas_de_Osso(M) ]
+22:00:00 : [test] - [Mensagem do servidor]: A batalha do acampamento avanÁado do reino foi iniciada.
+22:00:00 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:00 : [test] - Level UP para level 90. Ev: 1 - 1157x 1696y
+22:00:01 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:01 : [test] - Level UP para level 91. Ev: 1 - 1157x 1696y
+22:00:02 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:02 : [test] - Level UP para level 92. Ev: 1 - 1157x 1696y
+22:00:03 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:04 : [test] - Level UP para level 93. Ev: 1 - 1157x 1696y
+22:00:05 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:05 : [test] - Level UP para level 94. Ev: 1 - 1157x 1696y
+22:00:05 : [test] - Recebeu o item Elmo_de_Osso(M) [1462] [43 3 4 20 0 0]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:00:05 : [test] - [Mensagem do servidor]> Chegou um item: [ Elmo_de_Osso(M) ]
+22:00:05 : [test] - Item Manoplas_de_Osso(M) deletado [1471] [43 3 2 20 53 3]. Slot 0
+22:00:06 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:06 : [test] - Level UP para level 95. Ev: 1 - 1157x 1696y
+22:00:06 : [test] - Item Botas_de_Osso(M) deletado [1474] [43 3 73 18 74 12]. Slot 1
+22:00:07 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:07 : [test] - Level UP para level 96. Ev: 1 - 1157x 1696y
+22:00:07 : [test] - Item Elmo_de_Osso(M) deletado [1462] [43 3 4 20 0 0]. Slot 2
+22:00:08 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:08 : [test] - Level UP para level 97. Ev: 1 - 1157x 1696y
+22:00:09 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:09 : [test] - Level UP para level 98. Ev: 1 - 1157x 1696y
+22:00:10 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:10 : [test] - Level UP para level 99. Ev: 1 - 1157x 1696y
+22:00:10 : [test] - Recebeu o item Cal√ßa_de_Osso(M) [1468] [43 3 2 20 3 20]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:00:10 : [test] - [Mensagem do servidor]> Chegou um item: [ Cal√ßa_de_Osso(M) ]
+22:00:11 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:11 : [test] - Level UP para level 100. Ev: 1 - 1157x 1696y
+22:00:12 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:12 : [test] - Level UP para level 101. Ev: 1 - 1157x 1696y
+22:00:12 : [test] - Item Cal√ßa_de_Osso(M) deletado [1468] [43 3 2 20 3 20]. Slot 0
+22:00:13 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:13 : [test] - Level UP para level 102. Ev: 1 - 1157x 1696y
+22:00:14 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:14 : [test] - Level UP para level 103. Ev: 1 - 1157x 1696y
+22:00:15 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:15 : [test] - Level UP para level 104. Ev: 1 - 1157x 1696y
+22:00:15 : [test] - Recebeu o item Armadura_de_Osso(M) [1465] [43 3 2 20 3 20]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:00:15 : [test] - [Mensagem do servidor]> Chegou um item: [ Armadura_de_Osso(M) ]
+22:00:16 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:16 : [test] - Level UP para level 105. Ev: 1 - 1157x 1696y
+22:00:17 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:17 : [test] - Level UP para level 106. Ev: 1 - 1157x 1696y
+22:00:18 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:18 : [test] - Level UP para level 107. Ev: 1 - 1157x 1696y
+22:00:19 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:19 : [test] - Level UP para level 108. Ev: 1 - 1157x 1696y
+22:00:20 : [test] - Item Armadura_de_Osso(M) deletado [1465] [43 3 2 20 3 20]. Slot 0
+22:00:20 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:20 : [test] - Level UP para level 109. Ev: 1 - 1157x 1696y
+22:00:21 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:21 : [test] - Level UP para level 110. Ev: 1 - 1157x 1696y
+22:00:22 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:22 : [test] - Level UP para level 111. Ev: 1 - 1157x 1696y
+22:00:23 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:23 : [test] - Level UP para level 112. Ev: 1 - 1157x 1696y
+22:00:24 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:24 : [test] - Level UP para level 113. Ev: 1 - 1157x 1696y
+22:00:26 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:26 : [test] - Level UP para level 114. Ev: 1 - 1157x 1696y
+22:00:27 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:27 : [test] - Level UP para level 115. Ev: 1 - 1157x 1696y
+22:00:28 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:28 : [test] - Level UP para level 116. Ev: 1 - 1157x 1696y
+22:00:29 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:29 : [test] - Level UP para level 117. Ev: 1 - 1157x 1696y
+22:00:30 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:30 : [test] - Level UP para level 118. Ev: 1 - 1157x 1696y
+22:00:31 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:31 : [test] - Level UP para level 119. Ev: 1 - 1157x 1696y
+22:00:31 : [test] - Recebeu o item Manoplas_Aeon(M) [1486] [43 3 2 20 53 3]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:00:31 : [test] - [Mensagem do servidor]> Chegou um item: [ Manoplas_Aeon(M) ]
+22:00:32 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:32 : [test] - Level UP para level 120. Ev: 1 - 1157x 1696y
+22:00:33 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:33 : [test] - Level UP para level 121. Ev: 1 - 1157x 1696y
+22:00:34 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:34 : [test] - Level UP para level 122. Ev: 1 - 1157x 1696y
+22:00:35 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:35 : [test] - Level UP para level 123. Ev: 1 - 1157x 1696y
+22:00:36 : [test] - Item Manoplas_Aeon(M) deletado [1486] [43 3 2 20 53 3]. Slot 0
+22:00:36 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:36 : [test] - Level UP para level 124. Ev: 1 - 1157x 1696y
+22:00:36 : [test] - Recebeu o item Botas_Aeon(M) [1489] [43 3 73 18 74 12]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:00:36 : [test] - [Mensagem do servidor]> Chegou um item: [ Botas_Aeon(M) ]
+22:00:37 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:37 : [test] - Level UP para level 125. Ev: 1 - 1157x 1696y
+22:00:38 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:38 : [test] - Level UP para level 126. Ev: 1 - 1157x 1696y
+22:00:39 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:39 : [test] - Level UP para level 127. Ev: 1 - 1157x 1696y
+22:00:40 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:40 : [test] - Level UP para level 128. Ev: 1 - 1157x 1696y
+22:00:41 : [test] - Item Botas_Aeon(M) deletado [1489] [43 3 73 18 74 12]. Slot 0
+22:00:41 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:41 : [test] - Level UP para level 129. Ev: 1 - 1157x 1696y
+22:00:41 : [test] - Recebeu o item Elmo_Aeon(M) [1477] [43 3 4 20 0 0]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:00:41 : [test] - [Mensagem do servidor]> Chegou um item: [ Elmo_Aeon(M) ]
+22:00:42 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:42 : [test] - Level UP para level 130. Ev: 1 - 1157x 1696y
+22:00:43 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:43 : [test] - Level UP para level 131. Ev: 1 - 1157x 1696y
+22:00:44 : [test] - Item Elmo_Aeon(M) deletado [1477] [43 3 4 20 0 0]. Slot 0
+22:00:44 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:44 : [test] - Level UP para level 132. Ev: 1 - 1157x 1696y
+22:00:45 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:45 : [test] - Level UP para level 133. Ev: 1 - 1157x 1696y
+22:00:46 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:46 : [test] - Level UP para level 134. Ev: 1 - 1157x 1696y
+22:00:46 : [test] - Recebeu o item Cal√ßa_Aeon(M) [1483] [43 3 2 20 3 20]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:00:46 : [test] - [Mensagem do servidor]> Chegou um item: [ Cal√ßa_Aeon(M) ]
+22:00:48 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:48 : [test] - Level UP para level 135. Ev: 1 - 1157x 1696y
+22:00:49 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:49 : [test] - Level UP para level 136. Ev: 1 - 1157x 1696y
+22:00:50 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:50 : [test] - Level UP para level 137. Ev: 1 - 1157x 1696y
+22:00:51 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:51 : [test] - Level UP para level 138. Ev: 1 - 1157x 1696y
+22:00:52 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:52 : [test] - Level UP para level 139. Ev: 1 - 1157x 1696y
+22:00:52 : [test] - Recebeu o item Armadura_Aeon(M) [1480] [43 3 2 20 3 20]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:00:52 : [test] - [Mensagem do servidor]> Chegou um item: [ Armadura_Aeon(M) ]
+22:00:53 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:53 : [test] - Level UP para level 140. Ev: 1 - 1157x 1696y
+22:00:54 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:54 : [test] - Level UP para level 141. Ev: 1 - 1157x 1696y
+22:00:55 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:55 : [test] - Level UP para level 142. Ev: 1 - 1157x 1696y
+22:00:56 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:56 : [test] - Level UP para level 143. Ev: 1 - 1157x 1696y
+22:00:57 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:57 : [test] - Level UP para level 144. Ev: 1 - 1157x 1696y
+22:00:58 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:58 : [test] - Level UP para level 145. Ev: 1 - 1157x 1696y
+22:00:59 : [test] - Item Cal√ßa_Aeon(M) deletado [1483] [43 3 2 20 3 20]. Slot 0
+22:00:59 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:59 : [test] - Level UP para level 146. Ev: 1 - 1157x 1696y
+22:01:00 : [test] - Item Armadura_Aeon(M) deletado [1480] [43 3 2 20 3 20]. Slot 1
+22:01:00 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:00 : [test] - Level UP para level 147. Ev: 1 - 1157x 1696y
+22:01:01 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:01 : [test] - Level UP para level 148. Ev: 1 - 1157x 1696y
+22:01:02 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:02 : [test] - Level UP para level 149. Ev: 1 - 1157x 1696y
+22:01:02 : [test] - Recebeu o item Cavalo_Fantasm_N [2367] [100 100 5 5 100 0]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:01:02 : [test] - [Mensagem do servidor]> Chegou um item: [ Cavalo_Fantasm_N ]
+22:01:03 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:03 : [test] - Level UP para level 150. Ev: 1 - 1157x 1696y
+22:01:04 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:04 : [test] - Level UP para level 151. Ev: 1 - 1157x 1696y
+22:01:05 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:05 : [test] - Level UP para level 152. Ev: 1 - 1157x 1696y
+22:01:06 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:06 : [test] - Level UP para level 153. Ev: 1 - 1157x 1696y
+22:01:08 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:08 : [test] - Level UP para level 154. Ev: 1 - 1157x 1696y
+22:01:08 : [test] - Recebeu o item Lan√ßa_Rel√¢mpago [884] [43 6 2 36 0 0]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:01:08 : [test] - [Mensagem do servidor]> Chegou um item: [ Lan√ßa_Rel√¢mpago ]
+22:01:09 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:09 : [test] - Level UP para level 155. Ev: 1 - 1157x 1696y
+22:01:10 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:10 : [test] - Level UP para level 156. Ev: 1 - 1157x 1696y
+22:01:11 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:11 : [test] - Level UP para level 157. Ev: 1 - 1157x 1696y
+22:01:12 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:12 : [test] - Level UP para level 158. Ev: 1 - 1157x 1696y
+22:01:13 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:13 : [test] - Level UP para level 159. Ev: 1 - 1157x 1696y
+22:01:13 : [test] - Recebeu o item Manoplas_Elementais(M) [1501] [43 3 2 20 53 3]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:01:13 : [test] - [Mensagem do servidor]> Chegou um item: [ Manoplas_Elementais(M) ]
+22:01:14 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:14 : [test] - Level UP para level 160. Ev: 1 - 1157x 1696y
+22:01:15 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:15 : [test] - Level UP para level 161. Ev: 1 - 1157x 1696y
+22:01:16 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:16 : [test] - Level UP para level 162. Ev: 1 - 1157x 1696y
+22:01:17 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:17 : [test] - Level UP para level 163. Ev: 1 - 1157x 1696y
+22:01:18 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:18 : [test] - Level UP para level 164. Ev: 1 - 1157x 1696y
+22:01:19 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:19 : [test] - Level UP para level 165. Ev: 1 - 1157x 1696y
+22:01:20 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:20 : [test] - Level UP para level 166. Ev: 1 - 1157x 1696y
+22:01:21 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:21 : [test] - Level UP para level 167. Ev: 1 - 1157x 1696y
+22:01:22 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:22 : [test] - Level UP para level 168. Ev: 1 - 1157x 1696y
+22:01:23 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:23 : [test] - Level UP para level 169. Ev: 1 - 1157x 1696y
+22:01:23 : [test] - Recebeu o item Botas_Elementais(M) [1504] [43 3 73 18 74 12]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:01:23 : [test] - [Mensagem do servidor]> Chegou um item: [ Botas_Elementais(M) ]
+22:01:24 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:24 : [test] - Level UP para level 170. Ev: 1 - 1157x 1696y
+22:01:25 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:25 : [test] - Level UP para level 171. Ev: 1 - 1157x 1696y
+22:01:26 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:26 : [test] - Level UP para level 172. Ev: 1 - 1157x 1696y
+22:01:27 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:27 : [test] - Level UP para level 173. Ev: 1 - 1157x 1696y
+22:01:29 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:29 : [test] - Level UP para level 174. Ev: 1 - 1157x 1696y
+22:01:30 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:30 : [test] - Level UP para level 175. Ev: 1 - 1157x 1696y
+22:01:31 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:31 : [test] - Level UP para level 176. Ev: 1 - 1157x 1696y
+22:01:32 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:32 : [test] - Level UP para level 177. Ev: 1 - 1157x 1696y
+22:01:33 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:33 : [test] - Level UP para level 178. Ev: 1 - 1157x 1696y
+22:01:34 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:34 : [test] - Level UP para level 179. Ev: 1 - 1157x 1696y
+22:01:34 : [test] - Recebeu o item Elmo_Elemental(M) [1492] [43 3 4 20 0 0]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:01:34 : [test] - [Mensagem do servidor]> Chegou um item: [ Elmo_Elemental(M) ]
+22:01:35 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:35 : [test] - Level UP para level 180. Ev: 1 - 1157x 1696y
+22:01:36 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:36 : [test] - Level UP para level 181. Ev: 1 - 1157x 1696y
+22:01:37 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:37 : [test] - Level UP para level 182. Ev: 1 - 1157x 1696y
+22:01:38 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:38 : [test] - Level UP para level 183. Ev: 1 - 1157x 1696y
+22:01:39 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:39 : [test] - Level UP para level 184. Ev: 1 - 1157x 1696y
+22:01:40 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:40 : [test] - Level UP para level 185. Ev: 1 - 1157x 1696y
+22:01:41 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:41 : [test] - Level UP para level 186. Ev: 1 - 1157x 1696y
+22:01:42 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:42 : [test] - Level UP para level 187. Ev: 1 - 1157x 1696y
+22:01:43 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:43 : [test] - Level UP para level 188. Ev: 1 - 1157x 1696y
+22:01:44 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:44 : [test] - Level UP para level 189. Ev: 1 - 1157x 1696y
+22:01:44 : [test] - Recebeu o item Cal√ßa_Elemental(M) [1498] [43 3 2 20 3 20]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:01:44 : [test] - [Mensagem do servidor]> Chegou um item: [ Cal√ßa_Elemental(M) ]
+22:01:45 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:45 : [test] - Level UP para level 190. Ev: 1 - 1157x 1696y
+22:01:46 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:46 : [test] - Level UP para level 191. Ev: 1 - 1157x 1696y
+22:01:47 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:47 : [test] - Level UP para level 192. Ev: 1 - 1157x 1696y
+22:01:48 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:48 : [test] - Level UP para level 193. Ev: 1 - 1157x 1696y
+22:01:49 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:50 : [test] - Level UP para level 194. Ev: 1 - 1157x 1696y
+22:01:51 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:51 : [test] - Level UP para level 195. Ev: 1 - 1157x 1696y
+22:01:52 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:52 : [test] - Level UP para level 196. Ev: 1 - 1157x 1696y
+22:01:53 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:53 : [test] - Level UP para level 197. Ev: 1 - 1157x 1696y
+22:01:54 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:54 : [test] - Level UP para level 198. Ev: 1 - 1157x 1696y
+22:01:54 : [test] - Item Cal√ßa_Elemental(M) deletado [1498] [43 3 2 20 3 20]. Slot 5
+22:01:55 : [test] - Item Manoplas_Elementais(M) deletado [1501] [43 3 2 20 53 3]. Slot 2
+22:01:55 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:55 : [test] - Level UP para level 199. Ev: 1 - 1157x 1696y
+22:01:55 : [test] - Recebeu o item Armadura_Elemental(M) [1495] [43 3 2 20 3 20]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:01:55 : [test] - [Mensagem do servidor]> Chegou um item: [ Armadura_Elemental(M) ]
+22:01:55 : [test] - Item Botas_Elementais(M) deletado [1504] [43 3 73 18 74 12]. Slot 3
+22:01:56 : [test] - Item Elmo_Elemental(M) deletado [1492] [43 3 4 20 0 0]. Slot 4
+22:01:57 : [test] - Item Armadura_Elemental(M) deletado [1495] [43 3 2 20 3 20]. Slot 2
+22:01:58 : [test] - Item Lan√ßa_Rel√¢mpago deletado [884] [43 6 2 36 0 0]. Slot 1
+22:02:17 : [test] - Moveu item Cavalo_Fantasm_N [2367] [100 100 5 5 100 0] do tipo INVENT¡RIO do slot 0 para tipo EQUIPAMENTO slot 14
+22:03:03 : [test] - Comando "/admin +item 414"
+22:03:03 : [test] - test criou o item Poeira_de_Fada [414] [0 0 0 0 0 0]
+22:03:04 : [test] - Item Poeira_de_Fada [414] [0 0 0 0 0 0] utilizado em 1157x 1696y
+22:03:04 : [test] - [Mensagem do servidor]> Recebeu 4.000.000.000 de experiÍncia
+22:03:04 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:04 : [test] - Level UP para level 200. Ev: 1 - 1157x 1696y
+22:03:05 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:05 : [test] - Level UP para level 201. Ev: 1 - 1157x 1696y
+22:03:06 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:06 : [test] - Level UP para level 202. Ev: 1 - 1157x 1696y
+22:03:07 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:07 : [test] - Level UP para level 203. Ev: 1 - 1157x 1696y
+22:03:08 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:08 : [test] - Level UP para level 204. Ev: 1 - 1157x 1696y
+22:03:09 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:09 : [test] - Level UP para level 205. Ev: 1 - 1157x 1696y
+22:03:11 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:11 : [test] - Level UP para level 206. Ev: 1 - 1157x 1696y
+22:03:12 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:12 : [test] - Level UP para level 207. Ev: 1 - 1157x 1696y
+22:03:13 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:13 : [test] - Level UP para level 208. Ev: 1 - 1157x 1696y
+22:03:14 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:14 : [test] - Level UP para level 209. Ev: 1 - 1157x 1696y
+22:03:15 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:15 : [test] - Level UP para level 210. Ev: 1 - 1157x 1696y
+22:03:16 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:16 : [test] - Level UP para level 211. Ev: 1 - 1157x 1696y
+22:03:17 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:17 : [test] - Level UP para level 212. Ev: 1 - 1157x 1696y
+22:03:18 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:18 : [test] - Level UP para level 213. Ev: 1 - 1157x 1696y
+22:03:19 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:19 : [test] - Level UP para level 214. Ev: 1 - 1157x 1696y
+22:03:20 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:20 : [test] - Level UP para level 215. Ev: 1 - 1157x 1696y
+22:03:21 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:21 : [test] - Level UP para level 216. Ev: 1 - 1157x 1696y
+22:03:22 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:22 : [test] - Level UP para level 217. Ev: 1 - 1157x 1696y
+22:03:23 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:23 : [test] - Level UP para level 218. Ev: 1 - 1157x 1696y
+22:03:24 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:24 : [test] - Level UP para level 219. Ev: 1 - 1157x 1696y
+22:03:25 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:25 : [test] - Level UP para level 220. Ev: 1 - 1157x 1696y
+22:03:26 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:26 : [test] - Level UP para level 221. Ev: 1 - 1157x 1696y
+22:03:27 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:27 : [test] - Level UP para level 222. Ev: 1 - 1157x 1696y
+22:03:28 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:28 : [test] - Level UP para level 223. Ev: 1 - 1157x 1696y
+22:03:29 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:29 : [test] - Level UP para level 224. Ev: 1 - 1157x 1696y
+22:03:31 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:31 : [test] - Level UP para level 225. Ev: 1 - 1157x 1696y
+22:03:32 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:32 : [test] - Level UP para level 226. Ev: 1 - 1157x 1696y
+22:03:33 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:33 : [test] - Level UP para level 227. Ev: 1 - 1157x 1696y
+22:03:34 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:34 : [test] - Level UP para level 228. Ev: 1 - 1157x 1696y
+22:03:35 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:35 : [test] - Level UP para level 229. Ev: 1 - 1157x 1696y
+22:03:36 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:36 : [test] - Level UP para level 230. Ev: 1 - 1157x 1696y
+22:03:37 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:37 : [test] - Level UP para level 231. Ev: 1 - 1157x 1696y
+22:03:38 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:38 : [test] - Level UP para level 232. Ev: 1 - 1157x 1696y
+22:03:39 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:39 : [test] - Level UP para level 233. Ev: 1 - 1157x 1696y
+22:03:40 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:40 : [test] - Level UP para level 234. Ev: 1 - 1157x 1696y
+22:03:41 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:41 : [test] - Level UP para level 235. Ev: 1 - 1157x 1696y
+22:03:42 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:42 : [test] - Level UP para level 236. Ev: 1 - 1157x 1696y
+22:03:43 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:43 : [test] - Level UP para level 237. Ev: 1 - 1157x 1696y
+22:03:44 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:44 : [test] - Level UP para level 238. Ev: 1 - 1157x 1696y
+22:03:45 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:45 : [test] - Level UP para level 239. Ev: 1 - 1157x 1696y
+22:03:46 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:46 : [test] - Level UP para level 240. Ev: 1 - 1157x 1696y
+22:03:47 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:47 : [test] - Level UP para level 241. Ev: 1 - 1157x 1696y
+22:03:48 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:48 : [test] - Level UP para level 242. Ev: 1 - 1157x 1696y
+22:03:50 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:50 : [test] - Level UP para level 243. Ev: 1 - 1157x 1696y
+22:03:51 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:51 : [test] - Level UP para level 244. Ev: 1 - 1157x 1696y
+22:03:52 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:52 : [test] - Level UP para level 245. Ev: 1 - 1157x 1696y
+22:03:53 : [test] - Pet Cavalo_Fantasm_N [2367] [26 255 5 5 0 0] morreu. Hit: 303
+22:03:53 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:53 : [test] - Level UP para level 246. Ev: 1 - 1157x 1696y
+22:03:54 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:54 : [test] - Level UP para level 247. Ev: 1 - 1157x 1696y
+22:03:55 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:55 : [test] - Level UP para level 248. Ev: 1 - 1157x 1696y
+22:03:56 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:56 : [test] - Level UP para level 249. Ev: 1 - 1157x 1696y
+22:03:57 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:57 : [test] - Level UP para level 250. Ev: 1 - 1157x 1696y
+22:03:58 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:58 : [test] - Level UP para level 251. Ev: 1 - 1157x 1696y
+22:03:59 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:59 : [test] - Level UP para level 252. Ev: 1 - 1157x 1696y
+22:04:00 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:00 : [test] - Level UP para level 253. Ev: 1 - 1157x 1696y
+22:04:01 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:01 : [test] - Level UP para level 254. Ev: 1 - 1157x 1696y
+22:04:01 : [test] - Recebeu o item Asa_Draconiana [3551] [43 6 2 36 0 0]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:04:01 : [test] - [Mensagem do servidor]> Chegou um item: [ Asa_Draconiana ]
+22:04:01 : [test] - Recebeu o item Asa_Draconiana [3551] [43 6 2 36 0 0]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:04:01 : [test] - [Mensagem do servidor]> Chegou um item: [ Asa_Draconiana ]
+22:04:02 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:02 : [test] - Level UP para level 255. Ev: 1 - 1157x 1696y
+22:04:03 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:03 : [test] - Level UP para level 256. Ev: 1 - 1157x 1696y
+22:04:04 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:04 : [test] - Level UP para level 257. Ev: 1 - 1157x 1696y
+22:04:05 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:05 : [test] - Level UP para level 258. Ev: 1 - 1157x 1696y
+22:04:06 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:06 : [test] - Level UP para level 259. Ev: 1 - 1157x 1696y
+22:04:07 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:07 : [test] - Level UP para level 260. Ev: 1 - 1157x 1696y
+22:04:08 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:08 : [test] - Level UP para level 261. Ev: 1 - 1157x 1696y
+22:04:10 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:10 : [test] - Level UP para level 262. Ev: 1 - 1157x 1696y
+22:04:11 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:11 : [test] - Level UP para level 263. Ev: 1 - 1157x 1696y
+22:04:12 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:12 : [test] - Level UP para level 264. Ev: 1 - 1157x 1696y
+22:04:13 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:13 : [test] - Level UP para level 265. Ev: 1 - 1157x 1696y
+22:04:14 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:14 : [test] - Level UP para level 266. Ev: 1 - 1157x 1696y
+22:04:15 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:15 : [test] - Level UP para level 267. Ev: 1 - 1157x 1696y
+22:04:16 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:16 : [test] - Level UP para level 268. Ev: 1 - 1157x 1696y
+22:04:17 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:17 : [test] - Level UP para level 269. Ev: 1 - 1157x 1696y
+22:04:18 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:18 : [test] - Level UP para level 270. Ev: 1 - 1157x 1696y
+22:04:19 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:19 : [test] - Level UP para level 271. Ev: 1 - 1157x 1696y
+22:04:20 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:20 : [test] - Level UP para level 272. Ev: 1 - 1157x 1696y
+22:04:21 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:21 : [test] - Level UP para level 273. Ev: 1 - 1157x 1696y
+22:04:26 : [test] - Personagem deu personagem
+22:04:53 : Solicitou ir ao mundo...
+22:04:53 : Recebido pedido para entrar no jogo
+22:04:53 : Recebido informaÁ„o do personagem completa.
+22:04:53 : [test] - [INFORMA«’ES DA CONTA]
+Personagem online: test
+Gold atual: 0
+Level atual: 273
+ExperiÍncia atual: 4000000000
+EvoluÁ„o atual: Mortal
+Tempo online atÈ o momento: 00 dias e 00:08:55 horas
+PosiÁ„o atual: 2097x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 98 21]
+[01] - Chap√©u_Pele_de_Animal(A)[1403] [0 0 0 0 0 0]
+[02] - Robe_Pele_de_Animal(A)[1406] [0 0 0 0 0 0]
+[03] - Cal√ßa_Pele_de_Animal(A)[1409] [0 0 0 0 0 0]
+[04] - Luvas_Pele_de_Animal(A)[1412] [0 0 0 0 0 0]
+[05] - Sapatos_Pele_de_Animal(A)[1415] [0 0 0 0 0 0]
+[06] - Adaga[861] [0 0 0 0 0 0]
+[14] - Cavalo_Fantasm_N[2367] [26 255 5 5 0 0]
+
+[INVENT¡RIO]
+[00] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[01] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USU¡RIOS LOGADOS]
+[LPFFC]	USER_PLAY	[gfhfghf] (level: 399 ev: 1)	
+
+22:04:53 : [test] - Personagem test enviado ao mundo 2097x 2104y - Canal 1 - Cash da conta: 0. OverPower: 556
+22:04:53 : [test] - Gold atual: 0. Classe: 2 EvoluÁ„o: 1. ExperiÍncia: 4000000000. NÌvel: 273. Info: 0. GuildID: 0. CP: 75. Pontos de ContribuiÁ„o: 0. Limite: 0
+22:04:53 : [test] - Enviado informaÁıes do personagem
+22:04:55 : [test] - Comando "/day "
+22:04:55 : [test] - [Mensagem do servidor]> !#11 2
+22:05:04 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:04 : [test] - Level UP para level 274. Ev: 1 - 2128x 2146y
+22:05:05 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:05 : [test] - Level UP para level 275. Ev: 1 - 2128x 2146y
+22:05:05 : [test] - O usu·rio n„o enviou o pacote de integridade de macaddress
+22:05:06 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:06 : [test] - Level UP para level 276. Ev: 1 - 2128x 2146y
+22:05:07 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:07 : [test] - Level UP para level 277. Ev: 1 - 2128x 2146y
+22:05:08 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:08 : [test] - Level UP para level 278. Ev: 1 - 2128x 2146y
+22:05:09 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:09 : [test] - Level UP para level 279. Ev: 1 - 2128x 2146y
+22:05:10 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:10 : [test] - Level UP para level 280. Ev: 1 - 2128x 2146y
+22:05:11 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:11 : [test] - Level UP para level 281. Ev: 1 - 2128x 2146y
+22:05:12 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:12 : [test] - Level UP para level 282. Ev: 1 - 2128x 2146y
+22:05:13 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:13 : [test] - Level UP para level 283. Ev: 1 - 2128x 2146y
+22:05:14 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:14 : [test] - Level UP para level 284. Ev: 1 - 2128x 2146y
+22:05:15 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:15 : [test] - Level UP para level 285. Ev: 1 - 2128x 2146y
+22:05:17 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:17 : [test] - Level UP para level 286. Ev: 1 - 2128x 2146y
+22:05:18 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:18 : [test] - Level UP para level 287. Ev: 1 - 2128x 2146y
+22:05:19 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:19 : [test] - Level UP para level 288. Ev: 1 - 2128x 2146y
+22:05:20 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:20 : [test] - Level UP para level 289. Ev: 1 - 2128x 2146y
+22:05:21 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:21 : [test] - Level UP para level 290. Ev: 1 - 2128x 2146y
+22:05:22 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:22 : [test] - Level UP para level 291. Ev: 1 - 2128x 2146y
+22:05:23 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:23 : [test] - Level UP para level 292. Ev: 1 - 2128x 2146y
+22:05:24 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:24 : [test] - Level UP para level 293. Ev: 1 - 2128x 2146y
+22:05:25 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:25 : [test] - Level UP para level 294. Ev: 1 - 2128x 2146y
+22:05:26 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:26 : [test] - Level UP para level 295. Ev: 1 - 2128x 2146y
+22:05:27 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:27 : [test] - Level UP para level 296. Ev: 1 - 2128x 2146y
+22:05:28 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:28 : [test] - Level UP para level 297. Ev: 1 - 2128x 2146y
+22:05:29 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:29 : [test] - Level UP para level 298. Ev: 1 - 2128x 2146y
+22:05:30 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:30 : [test] - Level UP para level 299. Ev: 1 - 2128x 2146y
+22:05:31 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:31 : [test] - Level UP para level 300. Ev: 1 - 2128x 2146y
+22:05:32 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:32 : [test] - Level UP para level 301. Ev: 1 - 2128x 2146y
+22:05:33 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:33 : [test] - Level UP para level 302. Ev: 1 - 2128x 2146y
+22:05:34 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:34 : [test] - Level UP para level 303. Ev: 1 - 2128x 2146y
+22:05:35 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:35 : [test] - Level UP para level 304. Ev: 1 - 2128x 2146y
+22:05:36 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:36 : [test] - Level UP para level 305. Ev: 1 - 2128x 2146y
+22:05:37 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:37 : [test] - Level UP para level 306. Ev: 1 - 2128x 2146y
+22:05:39 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:39 : [test] - Level UP para level 307. Ev: 1 - 2128x 2146y
+22:05:40 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:40 : [test] - Level UP para level 308. Ev: 1 - 2128x 2146y
+22:05:41 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:41 : [test] - Level UP para level 309. Ev: 1 - 2128x 2146y
+22:05:42 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:42 : [test] - Level UP para level 310. Ev: 1 - 2128x 2146y
+22:05:43 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:43 : [test] - Level UP para level 311. Ev: 1 - 2128x 2146y
+22:05:44 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:44 : [test] - Level UP para level 312. Ev: 1 - 2128x 2146y
+22:05:45 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:45 : [test] - Level UP para level 313. Ev: 1 - 2128x 2146y
+22:05:46 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:46 : [test] - Level UP para level 314. Ev: 1 - 2128x 2146y
+22:07:20 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:20 : [test] - Level UP para level 315. Ev: 1 - 2130x 2147y
+22:07:21 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:21 : [test] - Level UP para level 316. Ev: 1 - 2130x 2147y
+22:07:22 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:22 : [test] - Level UP para level 317. Ev: 1 - 2130x 2147y
+22:07:23 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:23 : [test] - Level UP para level 318. Ev: 1 - 2130x 2147y
+22:07:23 : [test] - Moveu item Asa_Draconiana [3551] [43 6 2 36 0 0] do tipo INVENT¡RIO do slot 0 para tipo EQUIPAMENTO slot 7
+22:07:24 : [test] - Moveu item Asa_Draconiana [3551] [43 6 2 36 0 0] do tipo INVENT¡RIO do slot 1 para tipo EQUIPAMENTO slot 7
+22:07:24 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:24 : [test] - Level UP para level 319. Ev: 1 - 2130x 2147y
+22:07:25 : [test] - Moveu item Asa_Draconiana [3551] [43 6 2 36 0 0] do tipo INVENT¡RIO do slot 1 para tipo EQUIPAMENTO slot 6
+22:07:25 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:25 : [test] - Level UP para level 320. Ev: 1 - 2130x 2147y
+22:07:26 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:26 : [test] - Level UP para level 321. Ev: 1 - 2130x 2147y
+22:07:27 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:27 : [test] - Level UP para level 322. Ev: 1 - 2130x 2147y
+22:07:35 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:35 : [test] - Level UP para level 323. Ev: 1 - 2130x 2149y
+22:07:36 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:36 : [test] - Level UP para level 324. Ev: 1 - 2130x 2148y
+22:07:37 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:37 : [test] - Level UP para level 325. Ev: 1 - 2130x 2148y
+22:07:38 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:38 : [test] - Level UP para level 326. Ev: 1 - 2130x 2148y
+22:07:39 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:39 : [test] - Level UP para level 327. Ev: 1 - 2130x 2148y
+22:07:40 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:40 : [test] - Level UP para level 328. Ev: 1 - 2130x 2148y
+22:07:41 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:41 : [test] - Level UP para level 329. Ev: 1 - 2130x 2148y
+22:07:42 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:42 : [test] - Level UP para level 330. Ev: 1 - 2130x 2148y
+22:07:43 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:43 : [test] - Level UP para level 331. Ev: 1 - 2130x 2148y
+22:07:44 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:44 : [test] - Level UP para level 332. Ev: 1 - 2130x 2148y
+22:07:45 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:45 : [test] - Level UP para level 333. Ev: 1 - 2130x 2148y
+22:07:46 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:46 : [test] - Level UP para level 334. Ev: 1 - 2130x 2148y
+22:07:48 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:48 : [test] - Level UP para level 335. Ev: 1 - 2130x 2148y
+22:07:49 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:49 : [test] - Level UP para level 336. Ev: 1 - 2130x 2148y
+22:07:50 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:50 : [test] - Level UP para level 337. Ev: 1 - 2130x 2148y
+22:07:51 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:51 : [test] - Level UP para level 338. Ev: 1 - 2130x 2148y
+22:07:52 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:52 : [test] - Level UP para level 339. Ev: 1 - 2130x 2148y
+22:07:53 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:53 : [test] - Level UP para level 340. Ev: 1 - 2130x 2148y
+22:07:54 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:54 : [test] - Level UP para level 341. Ev: 1 - 2130x 2148y
+22:07:55 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:55 : [test] - Level UP para level 342. Ev: 1 - 2130x 2148y
+22:07:56 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:56 : [test] - Level UP para level 343. Ev: 1 - 2130x 2148y
+22:07:57 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:57 : [test] - Level UP para level 344. Ev: 1 - 2130x 2148y
+22:07:58 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:58 : [test] - Level UP para level 345. Ev: 1 - 2130x 2148y
+22:07:59 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:59 : [test] - Level UP para level 346. Ev: 1 - 2130x 2148y
+22:08:00 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:00 : [test] - Level UP para level 347. Ev: 1 - 2130x 2148y
+22:08:01 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:01 : [test] - Level UP para level 348. Ev: 1 - 2130x 2148y
+22:08:02 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:02 : [test] - Level UP para level 349. Ev: 1 - 2130x 2148y
+22:08:03 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:03 : [test] - Level UP para level 350. Ev: 1 - 2130x 2148y
+22:08:04 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:04 : [test] - Level UP para level 351. Ev: 1 - 2130x 2148y
+22:08:05 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:05 : [test] - Level UP para level 352. Ev: 1 - 2130x 2148y
+22:08:06 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:06 : [test] - Level UP para level 353. Ev: 1 - 2130x 2148y
+22:08:07 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:07 : [test] - Level UP para level 354. Ev: 1 - 2130x 2148y
+22:08:09 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:09 : [test] - Level UP para level 355. Ev: 1 - 2130x 2148y
+22:08:10 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:10 : [test] - Level UP para level 356. Ev: 1 - 2130x 2148y
+22:08:11 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:11 : [test] - Level UP para level 357. Ev: 1 - 2130x 2148y
+22:08:12 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:12 : [test] - Level UP para level 358. Ev: 1 - 2130x 2148y
+22:08:13 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:13 : [test] - Level UP para level 359. Ev: 1 - 2130x 2148y
+22:08:14 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:14 : [test] - Level UP para level 360. Ev: 1 - 2130x 2148y
+22:08:15 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:15 : [test] - Level UP para level 361. Ev: 1 - 2130x 2148y
+22:08:16 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:16 : [test] - Level UP para level 362. Ev: 1 - 2130x 2148y
+22:08:17 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:17 : [test] - Level UP para level 363. Ev: 1 - 2130x 2148y
+22:08:18 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:18 : [test] - Level UP para level 364. Ev: 1 - 2130x 2148y
+22:08:19 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:19 : [test] - Level UP para level 365. Ev: 1 - 2130x 2148y
+22:08:20 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:20 : [test] - Level UP para level 366. Ev: 1 - 2130x 2148y
+22:08:21 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:21 : [test] - Level UP para level 367. Ev: 1 - 2130x 2148y
+22:08:22 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:22 : [test] - Level UP para level 368. Ev: 1 - 2130x 2148y
+22:08:23 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:23 : [test] - Level UP para level 369. Ev: 1 - 2130x 2148y
+22:08:24 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:24 : [test] - Level UP para level 370. Ev: 1 - 2130x 2148y
+22:08:25 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:25 : [test] - Level UP para level 371. Ev: 1 - 2130x 2148y
+22:08:26 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:26 : [test] - Level UP para level 372. Ev: 1 - 2130x 2148y
+22:08:27 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:27 : [test] - Level UP para level 373. Ev: 1 - 2130x 2148y
+22:08:29 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:29 : [test] - Level UP para level 374. Ev: 1 - 2130x 2148y
+22:08:30 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:30 : [test] - Level UP para level 375. Ev: 1 - 2130x 2148y
+22:08:31 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:31 : [test] - Level UP para level 376. Ev: 1 - 2130x 2148y
+22:08:32 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:32 : [test] - Level UP para level 377. Ev: 1 - 2130x 2148y
+22:08:33 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:33 : [test] - Level UP para level 378. Ev: 1 - 2130x 2148y
+22:08:34 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:34 : [test] - Level UP para level 379. Ev: 1 - 2130x 2148y
+22:08:35 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:35 : [test] - Level UP para level 380. Ev: 1 - 2130x 2148y
+22:08:36 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:36 : [test] - Level UP para level 381. Ev: 1 - 2130x 2148y
+22:08:37 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:37 : [test] - Level UP para level 382. Ev: 1 - 2130x 2148y
+22:08:38 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:38 : [test] - Level UP para level 383. Ev: 1 - 2130x 2148y
+22:08:39 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:39 : [test] - Level UP para level 384. Ev: 1 - 2130x 2148y
+22:08:40 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:40 : [test] - Level UP para level 385. Ev: 1 - 2130x 2148y
+22:08:41 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:41 : [test] - Level UP para level 386. Ev: 1 - 2130x 2148y
+22:08:42 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:42 : [test] - Level UP para level 387. Ev: 1 - 2130x 2148y
+22:08:43 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:43 : [test] - Level UP para level 388. Ev: 1 - 2130x 2148y
+22:08:44 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:44 : [test] - Level UP para level 389. Ev: 1 - 2130x 2148y
+22:08:45 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:45 : [test] - Level UP para level 390. Ev: 1 - 2130x 2148y
+22:08:46 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:46 : [test] - Level UP para level 391. Ev: 1 - 2130x 2148y
+22:08:47 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:47 : [test] - Level UP para level 392. Ev: 1 - 2130x 2148y
+22:08:49 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:49 : [test] - Level UP para level 393. Ev: 1 - 2130x 2148y
+22:08:50 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:50 : [test] - Level UP para level 394. Ev: 1 - 2130x 2148y
+22:08:51 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:51 : [test] - Level UP para level 395. Ev: 1 - 2130x 2148y
+22:08:52 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:52 : [test] - Level UP para level 396. Ev: 1 - 2130x 2148y
+22:08:53 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:53 : [test] - Level UP para level 397. Ev: 1 - 2130x 2148y
+22:08:54 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:54 : [test] - Level UP para level 398. Ev: 1 - 2130x 2148y
+22:08:55 : [test] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:08:55 : [test] - Level UP para level 399. Ev: 1 - 2130x 2148y
+22:08:55 : [test] - Recebeu o item Pedra_da_Imortalidade [1742] [0 0 0 0 0 0]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:08:55 : [test] - [Mensagem do servidor]> Chegou um item: [ Pedra_da_Imortalidade ]
+22:08:55 : [test] - Recebeu o item  [4646] [0 0 0 0 0 0]. STR: 6. INT: 6. DEX: 9. CON: 5
+22:08:55 : [test] - [Mensagem do servidor]> Chegou um item: [  ]
+22:14:36 : [test] - Comprou uma skill Lobisomem. Learn antigo: 281475117301748, Learn atual: 1157409917229924352. Learn da skill: 7668848.
+22:14:37 : [test] - Comprou uma skill Armadura_Elemental. Learn antigo: 844425070723060, Learn atual: 1157409917229989888. Learn da skill: 7668848.
+22:14:38 : [test] - Comprou uma skill Homem_Urso. Learn antigo: 1970324977565684, Learn atual: 1157409917230120960. Learn da skill: 7668848.
+22:14:38 : [test] - Comprou uma skill Escudo_do_Tormento. Learn antigo: 4222124791250932, Learn atual: 1157409917230383104. Learn da skill: 7668848.
+22:14:39 : [test] - Comprou uma skill Astaroth. Learn antigo: 8725724418621428, Learn atual: 1157409917230907392. Learn da skill: 7668848.
+22:14:39 : [test] - Comprou uma skill Metamorfose_Superior. Learn antigo: 17732923673362420, Learn atual: 1157409917231955968. Learn da skill: 7668848.
+22:14:40 : [test] - Comprou uma skill Tit√£. Learn antigo: 35747322182844404, Learn atual: 1157409917234053120. Learn da skill: 7668848.
+22:14:46 : [test] - Comando "/admin +coin 2000000"
+22:14:54 : [test] - Comando "/admin +set coin 2000000"
+22:14:54 : [test] - [Mensagem do servidor]> Gold setado para: 2000000.
+22:14:59 : [test] - Comando "/admin +set coin 200000000"
+22:14:59 : [test] - [Mensagem do servidor]> Gold setado para: 200000000.
+22:15:00 : [test] - Comando "/admin +set coin 2000000000"
+22:15:00 : [test] - [Mensagem do servidor]> Gold setado para: 2000000000.
+22:15:03 : [test] - Comprou uma skill √âden. Learn antigo: 71776119201808372, Learn atual: 1157409917238247424. Learn da skill: 7668848.
+22:15:08 : [test] - Comprou uma skill Evocar_Grande_Tigre. Learn antigo: 71793711387852788, Learn atual: 1157409917229862912. Learn da skill: 7668848.
+22:15:10 : [test] - Comprou uma skill Chamas_Et√©reas. Learn antigo: 71793719977787380, Learn atual: 1157409917229858818. Learn da skill: 7668848.
+22:15:10 : [test] - Comprou uma skill Enfraquecer. Learn antigo: 71793754337525748, Learn atual: 1157409917229858824. Learn da skill: 7668848.
+22:15:11 : [test] - Comprou uma skill For√ßa_Elemental. Learn antigo: 71794029215432692, Learn atual: 1157409917229858880. Learn da skill: 7668848.
+22:15:12 : [test] - Comprou uma skill Prote√ß√£o_Elemental. Learn antigo: 71794166654386164, Learn atual: 1157409917229858848. Learn da skill: 7668848.
+22:28:00 : [test] - Recebeu lParam (WndProc) como 32. Erro possÌvel: 10053. Desconectando o usu·rio.
+22:28:00 : [test] - Personagem foi desconectado. Permaneceu 00:31:50 minutos online

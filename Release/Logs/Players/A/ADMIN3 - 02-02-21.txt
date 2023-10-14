@@ -1,0 +1,148 @@
+
+13:14:52 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+13:14:52 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:14:52 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 80] - Metamorfose[5605] [96 2 0 0 0 0]
+
+13:14:52 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:14:57 : ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+13:14:57 : Personagem foi desconectado. Permaneceu 00:00:06 minutos online
+13:15:04 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+13:15:04 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:15:04 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 80] - Metamorfose[5605] [96 2 0 0 0 0]
+
+13:15:08 : ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:15:08 : Personagem foi desconectado. Permaneceu 00:00:04 minutos online
+13:28:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+13:28:16 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:28:16 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 80] - Metamorfose[5605] [96 2 0 0 0 0]
+
+13:28:21 : ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+13:28:21 : Personagem foi desconectado. Permaneceu 00:00:04 minutos online
+13:28:43 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+13:28:43 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:28:43 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 80] - Metamorfose[5605] [96 2 0 0 0 0]
+
+13:28:47 : Solicitou ir ao mundo...
+13:28:47 : Recebido pedido para entrar no jogo
+13:28:47 : Recebido informação do personagem completa.
+13:28:47 : [Foeteste] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foeteste
+Gold atual: 997998000
+Level atual: 399
+Experiência atual: 4000000000
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2093x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[02] - Robe(N)[1266] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Alma_do_Unicórnio[1740] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:28:47 : [Foeteste] - Personagem Foeteste enviado ao mundo 2093x 2105y - Canal 2 - Cash da conta: 7789. PowerLevel: 462
+13:28:47 : [Foeteste] - Gold atual: 997998000. Classe: 1 Evolução: 0. Experiência: 4000000000. Nível: 399. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:28:47 : [Foeteste] - Resetado a contagem de entradas água! Day: 30-32. Total: 0
+13:28:47 : [Foeteste] - Enviado informações do personagem
+13:28:48 : [Foeteste] - Comando "/day "
+13:28:48 : [Foeteste] - [Mensagem do servidor]> !#11 2
+13:28:52 : [Foeteste] - Comando "/gm +move noatun"
+13:28:52 : [Foeteste] - Teleportado para a posição 963 1748
+13:29:01 : [Foeteste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:29:30 : [Foeteste] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:29:30 : [Foeteste] - 1 Personagem foi desconectado. Permaneceu 00:00:47 minutos online
+23:00:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+23:00:13 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+23:00:13 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 80] - Metamorfose[5605] [96 2 0 0 0 0]
+
+23:00:18 : Solicitou ir ao mundo...
+23:00:18 : Recebido pedido para entrar no jogo
+23:00:18 : Recebido informação do personagem completa.
+23:00:18 : [Foeteste] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foeteste
+Gold atual: 98995058
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2089x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 515396076528
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[16] [43 0 16 2 1 1]
+[01] - Cythera_Arcana[3507] [0 0 0 0 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[01] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[02] - Selo_do_Guerreiro[4146] [61 131 0 0 0 0]
+[06] - Pedra_Secreta_(Água)[5334] [0 0 0 0 0 0]
+[08] - Pedra_Secreta_(Terra)[5335] [0 0 0 0 0 0]
+[10] - Pedra_Secreta_(Sol)[5336] [0 0 0 0 0 0]
+[12] - Pedra_Secreta_(Vento)[5337] [0 0 0 0 0 0]
+[13] - Pedra_Secreta_(Vento)[5337] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [99 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:00:18 : [Foeteste] - Personagem Foeteste enviado ao mundo 2089x 2106y - Canal 2 - Cash da conta: 7789. PowerLevel: 990
+23:00:18 : [Foeteste] - Gold atual: 98995058. Classe: 0 Evolução: 2. Experiência: 4000000000. Nível: 199. Info: 515396076528. GuildID: 0. CP: 24. Pontos de Contribuição: 0. Limite: 0
+23:00:18 : [Foeteste] - Enviado informações do personagem
+23:00:19 : [Foeteste] - Comando "/day "
+23:00:19 : [Foeteste] - [Mensagem do servidor]> !#11 2
+23:00:29 : [Foeteste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:08:32 : [Foeteste] - Teleportado para a posição 960 1761
+23:08:56 : [Foeteste] - Personagem deu personagem
+23:14:29 : ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+23:14:29 : Personagem foi desconectado. Permaneceu 00:14:06 minutos online

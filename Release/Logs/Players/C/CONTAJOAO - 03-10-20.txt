@@ -1,0 +1,2494 @@
+
+15:15:50 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:15:50 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+15:15:50 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:17:49 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+15:17:49 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+15:17:49 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:17:49 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+15:17:49 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:25:06 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:25:22 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+15:25:22 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+15:25:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:25:23 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+15:25:23 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:25:26 : Solicitou ir ao mundo...
+15:25:26 : Recebido pedido para entrar no jogo
+15:25:26 : Recebido informação do personagem completa.
+15:25:26 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2092x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:25:26 : [Joao] - Personagem Joao enviado ao mundo 2092x 2101y - Canal 1 - Cash da conta: 0. OverPower: 798
+15:25:26 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:25:26 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+15:25:26 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:25:26 : [Joao] - Enviado informações do personagem
+15:25:27 : [Joao] - Comando "/day "
+15:25:27 : [Joao] - [Mensagem do servidor]> !#11 2
+15:25:31 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:25:32 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:25:39 : [Joao] - Comando "/gm +set level 399"
+15:25:42 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:25:52 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:26:02 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:26:12 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:26:22 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:26:32 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:26:42 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:26:53 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:27:03 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:27:13 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:27:23 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:27:33 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:27:43 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:27:53 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:28:03 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:28:13 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:28:24 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:28:34 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:28:44 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:28:54 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:29:04 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:29:14 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:29:24 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:29:34 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:29:45 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:29:55 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:30:05 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:30:15 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:30:25 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:30:34 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo BANCO slot 0
+15:30:35 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:30:35 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo BANCO do slot 0 para tipo INVENTÁRIO slot 5
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item Lança_de_Caça [920] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:37 : [Joao] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 7
+15:30:42 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:30:42 : [Joao] - Personagem foi desconectado. Permaneceu 00:05:15 minutos online
+15:30:47 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 2
+15:30:47 : Usuário logou no jogo com clientId 2. - Servidor 1. Gold do banco: 0
+15:30:47 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:30:47 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:30:51 : Solicitou ir ao mundo...
+15:30:51 : Recebido pedido para entrar no jogo
+15:30:51 : Recebido informação do personagem completa.
+15:30:51 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2096x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:30:51 : [Joao] - Personagem Joao enviado ao mundo 2096x 2104y - Canal 1 - Cash da conta: 0. OverPower: 798
+15:30:51 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:30:51 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+15:30:51 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:30:51 : [Joao] - Enviado informações do personagem
+15:30:52 : [Joao] - Comando "/day "
+15:30:52 : [Joao] - [Mensagem do servidor]> !#11 2
+15:30:55 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:31:06 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:31:08 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:31:16 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:31:26 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:31:36 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:31:46 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:31:56 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:32:06 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:32:16 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:32:26 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:32:37 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:32:47 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:32:57 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:33:07 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:33:17 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:33:27 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:33:37 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:33:48 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:33:58 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:34:08 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:34:18 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:34:28 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:34:38 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:34:48 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:34:58 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:35:08 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:35:19 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:35:29 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:35:39 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:35:49 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:35:59 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:36:09 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:36:19 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:36:29 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:36:40 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:36:50 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:37:00 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:37:10 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:37:20 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:37:30 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:37:40 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:37:50 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:38:00 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:38:10 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:38:21 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:38:31 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:38:41 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:38:51 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:39:01 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:39:11 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:39:21 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:39:31 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:39:41 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:39:50 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:39:50 : [Joao] - Personagem foi desconectado. Permaneceu 00:08:57 minutos online
+15:42:41 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 4
+15:42:41 : Usuário logou no jogo com clientId 4. - Servidor 1. Gold do banco: 0
+15:42:41 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:42:45 : Solicitou ir ao mundo...
+15:42:45 : Recebido pedido para entrar no jogo
+15:42:45 : Recebido informação do personagem completa.
+15:42:45 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2093x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:42:45 : [Joao] - Personagem Joao enviado ao mundo 2093x 2097y - Canal 1 - Cash da conta: 0. OverPower: 798
+15:42:45 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:42:45 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+15:42:45 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:42:45 : [Joao] - Enviado informações do personagem
+15:42:46 : [Joao] - Comando "/day "
+15:42:46 : [Joao] - [Mensagem do servidor]> !#11 2
+15:42:54 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:42:54 : [Joao] - Comando "/cmd +item 2866"
+15:42:54 : [Joao] - [Mensagem do servidor]> Este personagem não está conectado.
+15:42:56 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:42:59 : [Joao] - Comando "/gm +item 2866"
+15:42:59 : [Joao] - Joao criou o item Eirenus(Anct) [2866] [0 0 0 0 0 0]
+15:43:04 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:43:14 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:43:24 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:43:34 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:43:44 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:43:54 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:44:04 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:44:14 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:44:25 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:44:35 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:44:45 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:44:55 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:45:05 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:45:15 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:45:25 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:45:35 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:45:46 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:45:56 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:46:06 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:46:16 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:46:26 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:46:36 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:46:46 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:46:56 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:47:07 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:47:15 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:47:15 : [Joao] - Personagem foi desconectado. Permaneceu 00:04:30 minutos online
+15:47:27 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 5
+15:47:27 : Usuário logou no jogo com clientId 5. - Servidor 1. Gold do banco: 0
+15:47:27 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:47:28 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:47:39 : Solicitou ir ao mundo...
+15:47:39 : Recebido pedido para entrar no jogo
+15:47:39 : Recebido informação do personagem completa.
+15:47:39 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:12 horas
+Posição atual: 2090x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:47:40 : [Joao] - Personagem Joao enviado ao mundo 2090x 2095y - Canal 1 - Cash da conta: 0. OverPower: 798
+15:47:40 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:47:40 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+15:47:40 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:47:40 : [Joao] - Enviado informações do personagem
+15:47:41 : [Joao] - Comando "/day "
+15:47:41 : [Joao] - [Mensagem do servidor]> !#11 2
+15:47:47 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:47:56 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:47:57 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:48:03 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:48:03 : [Joao] - Personagem foi desconectado. Permaneceu 00:00:36 minutos online
+15:48:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 6
+15:48:22 : Usuário logou no jogo com clientId 6. - Servidor 1. Gold do banco: 0
+15:48:22 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:48:22 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:48:26 : Solicitou ir ao mundo...
+15:48:26 : Recebido pedido para entrar no jogo
+15:48:26 : Recebido informação do personagem completa.
+15:48:26 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2092x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:48:26 : [Joao] - Personagem Joao enviado ao mundo 2092x 2106y - Canal 1 - Cash da conta: 0. OverPower: 798
+15:48:26 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:48:26 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+15:48:26 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:48:26 : [Joao] - Enviado informações do personagem
+15:48:27 : [Joao] - Comando "/day "
+15:48:27 : [Joao] - [Mensagem do servidor]> !#11 2
+15:48:27 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:48:32 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:48:38 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:48:48 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:48:58 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:49:08 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:49:18 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:49:28 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:49:29 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:49:29 : [Joao] - Personagem foi desconectado. Permaneceu 00:01:06 minutos online
+15:49:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 7
+15:49:40 : Usuário logou no jogo com clientId 7. - Servidor 1. Gold do banco: 0
+15:49:40 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:49:40 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:49:43 : Solicitou ir ao mundo...
+15:49:43 : Recebido pedido para entrar no jogo
+15:49:43 : Recebido informação do personagem completa.
+15:49:43 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2090x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:49:43 : [Joao] - Personagem Joao enviado ao mundo 2090x 2106y - Canal 1 - Cash da conta: 0. OverPower: 798
+15:49:43 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:49:43 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+15:49:43 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:49:43 : [Joao] - Enviado informações do personagem
+15:49:44 : [Joao] - Comando "/day "
+15:49:44 : [Joao] - [Mensagem do servidor]> !#11 2
+15:49:48 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:49:56 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:49:58 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:50:09 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:50:09 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:50:09 : [Joao] - Personagem foi desconectado. Permaneceu 00:00:29 minutos online
+15:50:20 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 8
+15:50:20 : Usuário logou no jogo com clientId 8. - Servidor 1. Gold do banco: 0
+15:50:20 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:50:21 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:50:23 : Solicitou ir ao mundo...
+15:50:23 : Recebido pedido para entrar no jogo
+15:50:23 : Recebido informação do personagem completa.
+15:50:23 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2093x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:50:23 : [Joao] - Personagem Joao enviado ao mundo 2093x 2105y - Canal 1 - Cash da conta: 0. OverPower: 798
+15:50:23 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:50:23 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+15:50:23 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:50:23 : [Joao] - Enviado informações do personagem
+15:50:24 : [Joao] - Comando "/day "
+15:50:24 : [Joao] - [Mensagem do servidor]> !#11 2
+15:50:29 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:50:32 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:50:34 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:50:34 : [Joao] - Personagem foi desconectado. Permaneceu 00:00:14 minutos online
+15:54:50 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 9
+15:54:50 : Usuário logou no jogo com clientId 9. - Servidor 1. Gold do banco: 0
+15:54:50 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:54:51 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:54:54 : Solicitou ir ao mundo...
+15:54:54 : Recebido pedido para entrar no jogo
+15:54:54 : Recebido informação do personagem completa.
+15:54:54 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2087x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:54:54 : [Joao] - Personagem Joao enviado ao mundo 2087x 2098y - Canal 1 - Cash da conta: 0. OverPower: 798
+15:54:54 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:54:54 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+15:54:54 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:54:54 : [Joao] - Enviado informações do personagem
+15:54:55 : [Joao] - Comando "/day "
+15:54:55 : [Joao] - [Mensagem do servidor]> !#11 2
+15:55:02 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:55:08 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:55:12 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:55:22 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:55:32 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:55:38 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:55:38 : [Joao] - Personagem foi desconectado. Permaneceu 00:00:48 minutos online
+15:55:49 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 10
+15:55:49 : Usuário logou no jogo com clientId 10. - Servidor 1. Gold do banco: 0
+15:55:49 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:55:49 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:55:53 : Solicitou ir ao mundo...
+15:55:53 : Recebido pedido para entrar no jogo
+15:55:53 : Recebido informação do personagem completa.
+15:55:53 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2096x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:55:53 : [Joao] - Personagem Joao enviado ao mundo 2096x 2103y - Canal 1 - Cash da conta: 0. OverPower: 798
+15:55:53 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:55:53 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+15:55:53 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:55:53 : [Joao] - Enviado informações do personagem
+15:55:54 : [Joao] - Comando "/day "
+15:55:54 : [Joao] - [Mensagem do servidor]> !#11 2
+15:56:02 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:56:08 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:56:12 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:56:23 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:56:33 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:56:43 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:56:53 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:57:03 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:57:13 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:57:23 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:57:33 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:57:44 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:57:55 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:58:05 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:58:15 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:58:25 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:58:35 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:58:45 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:58:55 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+15:59:05 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:59:15 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:59:15 : [Joao] - Personagem foi desconectado. Permaneceu 00:03:24 minutos online
+15:59:26 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 11
+15:59:26 : Usuário logou no jogo com clientId 11. - Servidor 1. Gold do banco: 0
+15:59:26 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+15:59:38 : Solicitou ir ao mundo...
+15:59:38 : Recebido pedido para entrar no jogo
+15:59:38 : Recebido informação do personagem completa.
+15:59:38 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:12 horas
+Posição atual: 2090x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:59:38 : [Joao] - Personagem Joao enviado ao mundo 2090x 2094y - Canal 1 - Cash da conta: 0. OverPower: 798
+15:59:38 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:59:38 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+15:59:38 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+15:59:38 : [Joao] - Enviado informações do personagem
+15:59:39 : [Joao] - Comando "/day "
+15:59:39 : [Joao] - [Mensagem do servidor]> !#11 2
+15:59:44 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:59:46 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+15:59:47 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:59:47 : [Joao] - Personagem foi desconectado. Permaneceu 00:00:21 minutos online
+19:29:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 15
+19:29:16 : Usuário logou no jogo com clientId 15. - Servidor 1. Gold do banco: 0
+19:29:16 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:29:17 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:29:20 : Solicitou ir ao mundo...
+19:29:20 : Recebido pedido para entrar no jogo
+19:29:20 : Recebido informação do personagem completa.
+19:29:20 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2088x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:29:20 : [Joao] - Personagem Joao enviado ao mundo 2088x 2105y - Canal 1 - Cash da conta: 0. OverPower: 798
+19:29:20 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:29:20 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+19:29:20 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:29:20 : [Joao] - Enviado informações do personagem
+19:29:21 : [Joao] - Comando "/day "
+19:29:21 : [Joao] - [Mensagem do servidor]> !#11 2
+19:29:22 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:29:26 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:29:30 : [Joao] - Comando "/gm +item 2381 120 120 120 60 0 1"
+19:29:30 : [Joao] - Joao criou o item Unicórnio [2381] [120 120 120 60 0 1]
+19:29:32 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:29:32 : [Joao] - Moveu item Unicórnio [2381] [120 120 120 60 0 1] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 14
+19:29:33 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:29:33 : [Joao] - Personagem foi desconectado. Permaneceu 00:00:17 minutos online
+19:29:44 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 16
+19:29:44 : Usuário logou no jogo com clientId 16. - Servidor 1. Gold do banco: 0
+19:29:44 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:29:45 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:29:48 : Solicitou ir ao mundo...
+19:29:48 : Recebido pedido para entrar no jogo
+19:29:48 : Recebido informação do personagem completa.
+19:29:48 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2096x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 0 1]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:29:48 : [Joao] - Personagem Joao enviado ao mundo 2096x 2093y - Canal 1 - Cash da conta: 0. OverPower: 1138
+19:29:48 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:29:48 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+19:29:48 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:29:48 : [Joao] - Enviado informações do personagem
+19:29:49 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:29:49 : [Joao] - Personagem foi desconectado. Permaneceu 00:00:04 minutos online
+19:30:17 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 17
+19:30:17 : Usuário logou no jogo com clientId 17. - Servidor 1. Gold do banco: 0
+19:30:17 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:30:18 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:30:21 : Solicitou ir ao mundo...
+19:30:21 : Recebido pedido para entrar no jogo
+19:30:21 : Recebido informação do personagem completa.
+19:30:21 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2088x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 0 1]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:30:21 : [Joao] - Personagem Joao enviado ao mundo 2088x 2102y - Canal 1 - Cash da conta: 0. OverPower: 1138
+19:30:21 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:30:21 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+19:30:21 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:30:21 : [Joao] - Enviado informações do personagem
+19:30:22 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:30:22 : [Joao] - Personagem foi desconectado. Permaneceu 00:00:05 minutos online
+19:32:20 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 18
+19:32:20 : Usuário logou no jogo com clientId 18. - Servidor 1. Gold do banco: 0
+19:32:20 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:32:20 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:32:23 : Solicitou ir ao mundo...
+19:32:23 : Recebido pedido para entrar no jogo
+19:32:23 : Recebido informação do personagem completa.
+19:32:23 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2095x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 0 1]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:32:23 : [Joao] - Personagem Joao enviado ao mundo 2095x 2106y - Canal 1 - Cash da conta: 0. OverPower: 1138
+19:32:23 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:32:23 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+19:32:23 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:32:23 : [Joao] - Enviado informações do personagem
+19:32:24 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:32:34 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:32:39 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:32:44 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:32:55 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:33:00 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:33:00 : [Joao] - Personagem foi desconectado. Permaneceu 00:00:40 minutos online
+19:34:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 19
+19:34:13 : Usuário logou no jogo com clientId 19. - Servidor 1. Gold do banco: 0
+19:34:13 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:34:13 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:34:16 : Solicitou ir ao mundo...
+19:34:16 : Recebido pedido para entrar no jogo
+19:34:16 : Recebido informação do personagem completa.
+19:34:16 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2095x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 0 1]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:34:17 : [Joao] - Personagem Joao enviado ao mundo 2095x 2105y - Canal 1 - Cash da conta: 0. OverPower: 1138
+19:34:17 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:34:17 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+19:34:17 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:34:17 : [Joao] - Enviado informações do personagem
+19:34:18 : [Joao] - Comando "/day "
+19:34:18 : [Joao] - [Mensagem do servidor]> !#11 2
+19:34:22 : [Joao] - Moveu item Eirenus(Anct) [2866] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo INVENTÁRIO slot 7
+19:34:25 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:34:27 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:34:36 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:34:46 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:34:56 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:35:06 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:35:16 : [Joao] - Comando "/gm +item 2381 120 120 120 60 1 1"
+19:35:16 : [Joao] - Joao criou o item Unicórnio [2381] [120 120 120 60 1 1]
+19:35:16 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:35:18 : [Joao] - Moveu item Unicórnio [2381] [120 120 120 60 1 1] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 14
+19:35:21 : [Joao] - Comando "/gm +item 2381 120 120 120 60 1 1"
+19:35:21 : [Joao] - Joao criou o item Unicórnio [2381] [120 120 120 60 1 1]
+19:35:24 : [Joao] - Item Unicórnio deletado [2381] [120 120 120 60 0 1]. Slot 6
+19:35:26 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:35:36 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:35:47 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:35:47 : [Joao] - Comando "/gm +item 2381 120 120 120 60 3 1"
+19:35:47 : [Joao] - Joao criou o item Unicórnio [2381] [120 120 120 60 3 1]
+19:35:49 : [Joao] - Moveu item Unicórnio [2381] [120 120 120 60 3 1] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 14
+19:35:53 : [Joao] - Item Unicórnio deletado [2381] [120 120 120 60 1 1]. Slot 6
+19:35:54 : [Joao] - Item Unicórnio deletado [2381] [120 120 120 60 1 1]. Slot 9
+19:35:55 : [Joao] - Comando "/gm +item 2381 120 120 120 60 3 1"
+19:35:55 : [Joao] - Joao criou o item Unicórnio [2381] [120 120 120 60 3 1]
+19:35:57 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:35:57 : [Joao] - Moveu item Unicórnio [2381] [120 120 120 60 3 1] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 14
+19:35:59 : [Joao] - Item Unicórnio deletado [2381] [120 120 120 60 3 1]. Slot 6
+19:36:00 : [Joao] - Comando "/gm +item 2381 120 120 120 60 3 1"
+19:36:00 : [Joao] - Joao criou o item Unicórnio [2381] [120 120 120 60 3 1]
+19:36:05 : [Joao] - Comando "/gm +item 2381 120 120 120 60"
+19:36:05 : [Joao] - Joao criou o item Unicórnio [2381] [120 120 120 60 0 0]
+19:36:07 : [Joao] - Moveu item Unicórnio [2381] [120 120 120 60 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 14
+19:36:07 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:36:08 : [Joao] - Item Unicórnio deletado [2381] [120 120 120 60 3 1]. Slot 9
+19:36:09 : [Joao] - Moveu item Unicórnio [2381] [120 120 120 60 3 1] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 14
+19:36:12 : [Joao] - Moveu item Unicórnio [2381] [120 120 120 60 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 14
+19:36:14 : [Joao] - Item Unicórnio deletado [2381] [120 120 120 60 3 1]. Slot 6
+19:36:17 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:36:22 : [Joao] - Comando "/gm +item 2381 120 120 120 60 1"
+19:36:22 : [Joao] - Joao criou o item Unicórnio [2381] [120 120 120 60 1 0]
+19:36:26 : [Joao] - Item Unicórnio deletado [2381] [120 120 120 60 1 0]. Slot 6
+19:36:27 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:36:30 : [Joao] - Comando "/gm +item 2381 120 120 120 60 1"
+19:36:30 : [Joao] - Joao criou o item Unicórnio [2381] [120 120 120 60 1 0]
+19:36:37 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:36:47 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:36:57 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:37:07 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:37:17 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:37:28 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:37:38 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:37:48 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:37:58 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:38:08 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:38:18 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:38:28 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:38:38 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:38:42 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:38:42 : [Joao] - Personagem foi desconectado. Permaneceu 00:04:26 minutos online
+19:39:04 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 20
+19:39:04 : Usuário logou no jogo com clientId 20. - Servidor 1. Gold do banco: 0
+19:39:04 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:39:05 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:39:20 : Solicitou ir ao mundo...
+19:39:20 : Recebido pedido para entrar no jogo
+19:39:20 : Recebido informação do personagem completa.
+19:39:20 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:16 horas
+Posição atual: 2094x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Unicórnio[2381] [120 120 120 60 1 0]
+[07] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:39:20 : [Joao] - Personagem Joao enviado ao mundo 2094x 2105y - Canal 1 - Cash da conta: 0. OverPower: 1138
+19:39:20 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:39:20 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+19:39:20 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:39:20 : [Joao] - Enviado informações do personagem
+19:39:21 : [Joao] - Comando "/day "
+19:39:21 : [Joao] - [Mensagem do servidor]> !#11 2
+19:39:27 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:39:29 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:39:39 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:39:44 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:39:44 : [Joao] - Personagem foi desconectado. Permaneceu 00:00:39 minutos online
+19:40:02 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 21
+19:40:02 : Usuário logou no jogo com clientId 21. - Servidor 1. Gold do banco: 0
+19:40:02 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:40:02 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:40:06 : Solicitou ir ao mundo...
+19:40:06 : Recebido pedido para entrar no jogo
+19:40:06 : Recebido informação do personagem completa.
+19:40:06 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2091x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Unicórnio[2381] [120 120 120 60 1 0]
+[07] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:40:06 : [Joao] - Personagem Joao enviado ao mundo 2091x 2098y - Canal 1 - Cash da conta: 0. OverPower: 1138
+19:40:06 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:40:06 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+19:40:06 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:40:06 : [Joao] - Enviado informações do personagem
+19:40:07 : [Joao] - Comando "/day "
+19:40:07 : [Joao] - [Mensagem do servidor]> !#11 2
+19:40:10 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:40:15 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:40:18 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:40:18 : [Joao] - Personagem foi desconectado. Permaneceu 00:00:16 minutos online
+19:40:26 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 22
+19:40:26 : Usuário logou no jogo com clientId 22. - Servidor 1. Gold do banco: 0
+19:40:26 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:40:27 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:40:30 : Solicitou ir ao mundo...
+19:40:30 : Recebido pedido para entrar no jogo
+19:40:30 : Recebido informação do personagem completa.
+19:40:30 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2096x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Unicórnio[2381] [120 120 120 60 1 0]
+[07] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:40:30 : [Joao] - Personagem Joao enviado ao mundo 2096x 2098y - Canal 1 - Cash da conta: 0. OverPower: 1138
+19:40:30 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:40:30 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+19:40:30 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:40:30 : [Joao] - Enviado informações do personagem
+19:40:31 : [Joao] - Comando "/day "
+19:40:31 : [Joao] - [Mensagem do servidor]> !#11 2
+19:40:39 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:40:40 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:40:50 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:41:00 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:41:10 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:41:20 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:41:29 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:41:29 : [Joao] - Personagem foi desconectado. Permaneceu 00:01:02 minutos online
+19:41:42 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 24
+19:41:42 : Usuário logou no jogo com clientId 24. - Servidor 1. Gold do banco: 0
+19:41:42 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:41:43 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:41:47 : Solicitou ir ao mundo...
+19:41:47 : Recebido pedido para entrar no jogo
+19:41:47 : Recebido informação do personagem completa.
+19:41:47 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2097x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Unicórnio[2381] [120 120 120 60 1 0]
+[07] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:41:47 : [Joao] - Personagem Joao enviado ao mundo 2097x 2096y - Canal 1 - Cash da conta: 0. OverPower: 1138
+19:41:47 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:41:47 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+19:41:47 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:41:47 : [Joao] - Enviado informações do personagem
+19:41:48 : [Joao] - Comando "/day "
+19:41:48 : [Joao] - [Mensagem do servidor]> !#11 2
+19:41:51 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:42:01 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:42:03 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:42:11 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:42:12 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:42:12 : [Joao] - Personagem foi desconectado. Permaneceu 00:00:30 minutos online
+19:42:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 25
+19:42:16 : Usuário logou no jogo com clientId 25. - Servidor 1. Gold do banco: 0
+19:42:16 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:42:16 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:42:19 : Solicitou ir ao mundo...
+19:42:19 : Recebido pedido para entrar no jogo
+19:42:19 : Recebido informação do personagem completa.
+19:42:19 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2088x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Unicórnio[2381] [120 120 120 60 1 0]
+[07] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:42:19 : [Joao] - Personagem Joao enviado ao mundo 2088x 2097y - Canal 1 - Cash da conta: 0. OverPower: 1138
+19:42:19 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:42:19 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+19:42:19 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:42:19 : [Joao] - Enviado informações do personagem
+19:42:20 : [Joao] - Comando "/day "
+19:42:20 : [Joao] - [Mensagem do servidor]> !#11 2
+19:42:21 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:42:27 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:42:31 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:42:41 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:42:52 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:43:02 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:43:12 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:43:22 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:43:32 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:43:42 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:43:52 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:44:02 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:44:12 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:44:23 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:44:33 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:44:43 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:44:53 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:45:03 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:45:13 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:45:23 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:45:34 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:45:36 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+19:45:36 : [Joao] - Personagem foi desconectado. Permaneceu 00:03:18 minutos online
+19:45:54 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 26
+19:45:54 : Usuário logou no jogo com clientId 26. - Servidor 1. Gold do banco: 0
+19:45:54 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:45:55 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:46:01 : Solicitou ir ao mundo...
+19:46:01 : Recebido pedido para entrar no jogo
+19:46:01 : Recebido informação do personagem completa.
+19:46:01 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2094x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Unicórnio[2381] [120 120 120 60 1 0]
+[07] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:46:01 : [Joao] - Personagem Joao enviado ao mundo 2094x 2095y - Canal 1 - Cash da conta: 0. OverPower: 1138
+19:46:01 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:46:01 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+19:46:01 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:46:01 : [Joao] - Enviado informações do personagem
+19:46:02 : [Joao] - Comando "/day "
+19:46:02 : [Joao] - [Mensagem do servidor]> !#11 2
+19:46:04 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:46:14 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:46:15 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:46:24 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:46:34 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:46:44 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:46:54 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:46:59 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:46:59 : [Joao] - Personagem foi desconectado. Permaneceu 00:01:04 minutos online
+19:47:44 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 27
+19:47:44 : Usuário logou no jogo com clientId 27. - Servidor 1. Gold do banco: 0
+19:47:44 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:47:44 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:47:48 : Solicitou ir ao mundo...
+19:47:48 : Recebido pedido para entrar no jogo
+19:47:48 : Recebido informação do personagem completa.
+19:47:48 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2098x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Unicórnio[2381] [120 120 120 60 1 0]
+[07] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:47:48 : [Joao] - Personagem Joao enviado ao mundo 2098x 2098y - Canal 1 - Cash da conta: 0. OverPower: 1138
+19:47:48 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:47:48 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+19:47:48 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:47:48 : [Joao] - Enviado informações do personagem
+19:47:48 : [Joao] - Comando "/day "
+19:47:48 : [Joao] - [Mensagem do servidor]> !#11 2
+19:47:55 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:48:03 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:48:05 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:48:15 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:48:25 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:48:35 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:48:45 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:48:52 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:48:52 : [Joao] - Personagem foi desconectado. Permaneceu 00:01:08 minutos online
+19:49:12 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 28
+19:49:12 : Usuário logou no jogo com clientId 28. - Servidor 1. Gold do banco: 0
+19:49:12 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:49:13 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:49:15 : Solicitou ir ao mundo...
+19:49:15 : Recebido pedido para entrar no jogo
+19:49:15 : Recebido informação do personagem completa.
+19:49:15 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2087x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Unicórnio[2381] [120 120 120 60 1 0]
+[07] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:49:15 : [Joao] - Personagem Joao enviado ao mundo 2087x 2098y - Canal 1 - Cash da conta: 0. OverPower: 1138
+19:49:15 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:49:15 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+19:49:15 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:49:15 : [Joao] - Enviado informações do personagem
+19:49:16 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:49:16 : [Joao] - Comando "/day "
+19:49:16 : [Joao] - [Mensagem do servidor]> !#11 2
+19:49:26 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:49:27 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:49:36 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:49:46 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:49:56 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:50:06 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:50:17 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:50:27 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:50:37 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:50:47 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:50:57 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:51:07 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:51:17 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:51:27 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:51:37 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:51:47 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:51:58 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:52:08 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:52:18 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:52:28 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:52:38 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:52:48 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:52:58 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:53:08 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:53:19 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:53:29 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:53:39 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:53:49 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:53:59 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:54:09 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:54:19 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:54:29 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:54:40 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:54:50 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:54:58 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+19:54:58 : [Joao] - Personagem foi desconectado. Permaneceu 00:05:42 minutos online
+19:55:14 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 29
+19:55:14 : Usuário logou no jogo com clientId 29. - Servidor 1. Gold do banco: 0
+19:55:14 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:55:14 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:55:18 : Solicitou ir ao mundo...
+19:55:18 : Recebido pedido para entrar no jogo
+19:55:18 : Recebido informação do personagem completa.
+19:55:18 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2087x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 0 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Unicórnio[2381] [120 120 120 60 1 0]
+[07] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:55:18 : [Joao] - Personagem Joao enviado ao mundo 2087x 2106y - Canal 1 - Cash da conta: 0. OverPower: 1138
+19:55:18 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:55:18 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+19:55:18 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:55:18 : [Joao] - Enviado informações do personagem
+19:55:19 : [Joao] - Comando "/day "
+19:55:19 : [Joao] - [Mensagem do servidor]> !#11 2
+19:55:20 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:55:27 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:55:28 : [Joao] - Moveu item Unicórnio [2381] [120 120 120 60 1 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 14
+19:55:30 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:55:40 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:55:50 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:56:01 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:56:11 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:56:21 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:56:31 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:56:41 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:56:51 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:57:01 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:57:12 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:57:22 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:57:32 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:57:42 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:57:52 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:58:02 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:58:12 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:58:22 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:58:32 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:58:43 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:58:53 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:59:03 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:59:13 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:59:23 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+19:59:33 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+19:59:43 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+19:59:53 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:00:03 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:00:14 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:00:24 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:00:34 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:00:44 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:00:54 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:01:04 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:01:14 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:01:24 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:01:34 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:01:45 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:01:55 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:02:05 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:02:15 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:02:25 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:02:35 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:02:45 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:02:55 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:03:05 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:03:16 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:03:26 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:03:36 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:03:46 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:03:56 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:04:06 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:04:16 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:04:26 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:04:36 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:04:47 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:04:57 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:05:07 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:05:17 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:05:27 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:05:37 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:05:47 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:05:57 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:06:07 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:06:18 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:06:28 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:06:38 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:06:48 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:06:58 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:07:08 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:07:18 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:07:28 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:07:39 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:07:49 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:07:59 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:08:09 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:08:19 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:08:29 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:08:39 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:08:49 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:09:00 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:09:10 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:09:20 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:09:30 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:09:40 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:09:50 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:10:00 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:10:10 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:10:20 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:10:31 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:10:41 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:10:51 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:11:01 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:11:11 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:11:21 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:11:31 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:11:41 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:11:52 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:12:02 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:12:12 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:12:22 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:12:32 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:12:42 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:12:52 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:13:02 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:13:12 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:13:22 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:13:33 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:13:43 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:13:53 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:14:03 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:14:13 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:14:23 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:14:33 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:14:44 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:14:54 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:15:04 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:15:14 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:15:24 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:15:34 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:15:44 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:15:54 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:16:04 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:16:15 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:16:25 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:16:35 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:16:45 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:16:55 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:17:05 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:17:15 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:17:25 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:17:36 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:17:46 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:17:56 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:18:06 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:18:14 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:18:14 : [Joao] - Personagem foi desconectado. Permaneceu 00:22:45 minutos online
+20:19:17 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 30
+20:19:17 : Usuário logou no jogo com clientId 30. - Servidor 1. Gold do banco: 0
+20:19:17 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+20:19:18 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:19:21 : Solicitou ir ao mundo...
+20:19:21 : Recebido pedido para entrar no jogo
+20:19:21 : Recebido informação do personagem completa.
+20:19:21 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2091x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Unicórnio[2381] [120 120 120 60 0 0]
+[07] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:19:21 : [Joao] - Personagem Joao enviado ao mundo 2091x 2095y - Canal 1 - Cash da conta: 0. OverPower: 1138
+20:19:21 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+20:19:21 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+20:19:21 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:19:21 : [Joao] - Enviado informações do personagem
+20:19:22 : [Joao] - Comando "/day "
+20:19:22 : [Joao] - [Mensagem do servidor]> !#11 2
+20:19:27 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:19:28 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:19:37 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:19:47 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:19:57 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:20:07 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:20:17 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:20:28 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:20:38 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:20:48 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:20:58 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:21:08 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:21:18 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:21:28 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:21:38 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:21:41 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:21:41 : [Joao] - Personagem foi desconectado. Permaneceu 00:02:22 minutos online
+20:22:19 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 31
+20:22:19 : Usuário logou no jogo com clientId 31. - Servidor 1. Gold do banco: 0
+20:22:19 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+20:22:20 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:22:22 : Solicitou ir ao mundo...
+20:22:22 : Recebido pedido para entrar no jogo
+20:22:22 : Recebido informação do personagem completa.
+20:22:22 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2087x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Unicórnio[2381] [120 120 120 60 0 0]
+[07] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:22:22 : [Joao] - Personagem Joao enviado ao mundo 2087x 2100y - Canal 1 - Cash da conta: 0. OverPower: 1138
+20:22:22 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+20:22:22 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+20:22:22 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:22:22 : [Joao] - Enviado informações do personagem
+20:22:23 : [Joao] - Comando "/day "
+20:22:23 : [Joao] - [Mensagem do servidor]> !#11 2
+20:22:28 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:22:29 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:22:39 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:22:49 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:22:59 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:23:09 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:23:19 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:23:29 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:23:40 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:23:50 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:24:00 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:24:10 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:24:20 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:24:30 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:24:40 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:24:51 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:25:01 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:25:11 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:25:21 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:25:31 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:25:41 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:25:51 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:26:01 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:26:02 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:26:02 : [Joao] - Personagem foi desconectado. Permaneceu 00:03:40 minutos online
+20:27:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 32
+20:27:16 : Usuário logou no jogo com clientId 32. - Servidor 1. Gold do banco: 0
+20:27:16 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+20:27:17 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:27:20 : Solicitou ir ao mundo...
+20:27:20 : Recebido pedido para entrar no jogo
+20:27:20 : Recebido informação do personagem completa.
+20:27:20 : [Joao] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao
+Gold atual: 1995860000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2095x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 0]
+
+[INVENTÁRIO]
+[00] - Eirenus(Anct)[2866] [43 253 0 0 0 0]
+[01] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[02] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[03] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[04] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[05] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[06] - Unicórnio[2381] [120 120 120 60 0 0]
+[07] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[08] - Arco_de_Cinzas[923] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:27:20 : [Joao] - Personagem Joao enviado ao mundo 2095x 2102y - Canal 1 - Cash da conta: 0. OverPower: 1138
+20:27:20 : [Joao] - Gold atual: 1995860000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+20:27:20 : [Joao] - Resetado a contagem de entradas água! Day: 0-276. Total: 0
+20:27:20 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:27:20 : [Joao] - Enviado informações do personagem
+20:27:21 : [Joao] - Comando "/day "
+20:27:21 : [Joao] - [Mensagem do servidor]> !#11 2
+20:27:22 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:27:28 : [Joao] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:27:32 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:27:43 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:27:53 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:28:03 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:28:13 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:28:23 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:28:33 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:28:43 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:28:53 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:29:04 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:29:14 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:29:24 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:29:34 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:29:44 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:29:54 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:30:04 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:30:14 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:30:24 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:30:35 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:30:45 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:30:55 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:31:05 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:31:15 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:31:25 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:31:35 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:31:46 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:31:56 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:32:06 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:32:16 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:32:26 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:32:36 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:32:46 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:32:56 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:33:06 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:33:16 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:33:27 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:33:37 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:33:47 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:33:57 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:34:07 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:34:17 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:34:27 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:34:37 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:34:47 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:34:57 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:35:08 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:35:18 : [Joao] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+20:35:28 : [Joao] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+20:35:38 : [Joao] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+20:35:42 : [Joao] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:35:42 : [Joao] - Personagem foi desconectado. Permaneceu 00:08:20 minutos online

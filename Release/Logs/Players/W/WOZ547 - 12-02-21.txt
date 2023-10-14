@@ -1,0 +1,765 @@
+
+01:07:19 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (WOZ547) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 49
+01:07:19 : Conta ADMIN5 logado na conta
+Status da conta: JOGANDO
+Personagem: Wozzzzzzzzz
+
+01:07:19 : Usuário logou no jogo com clientId 49. - Servidor 2. Gold do banco: 0
+01:07:19 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[  1] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[  2] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[ 80] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[ 85] - Lobo_Polar[3980] [96 3 0 0 0 0]
+
+01:07:20 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+[ADMIN5]	USER_PLAY	[Wozzzzzzzzz] (level: 1010 ev: -1)	
+
+01:07:24 : Solicitou ir ao mundo...
+01:07:24 : Recebido pedido para entrar no jogo
+01:07:24 : Recebido informação do personagem completa.
+01:07:24 : [Bubble] - [INFORMAÇÕES DA CONTA]
+Personagem online: Bubble
+Gold atual: 99988840
+Level atual: 19
+Experiência atual: 37797
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 8 0 0 0 0]
+[03] - Calça(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira(N)[1575] [43 8 0 0 0 0]
+[05] - Botas(N)[1578] [43 8 0 0 0 0]
+[06] - Skeleton_Bow[943] [43 9 0 0 0 0]
+[14] - Aranha[2360] [84 27 39 20 0 0]
+
+[INVENTÁRIO]
+[00] - Calça(A)[1409] [43 0 71 50 60 10]
+[11] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[12] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[13] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[29] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[63] - Marca_do_Assassino[547] [132 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN5]	USER_PLAY	[Wozzzzzzzzz] (level: 1010 ev: -1)	
+
+01:07:24 : [Bubble] - Personagem Bubble enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 200
+01:07:24 : [Bubble] - Gold atual: 99988840. Classe: 3 Evolução: 0. Experiência: 37797. Nível: 19. Info: 0. GuildID: 0. CP: 57. Pontos de Contribuição: 0. Limite: 0
+01:07:24 : [Bubble] - Resetado a contagem de entradas água! Day: 38-42. Total: 0
+01:07:24 : [Bubble] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+01:07:24 : [Bubble] - Enviado informações do personagem
+01:07:25 : [Bubble] - Comando "/day "
+01:07:25 : [Bubble] - [Mensagem do servidor]> !#11 2
+01:07:29 : [Bubble] - Matou o mob Porco de Guerra. GenerID: 4421
+01:07:29 : [Bubble] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2114x 2040y - Porco de Guerra (1/30)
+01:07:33 : [Bubble] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+01:07:36 : [Bubble] - Clicado no NPC [Mestre Grifo]. Face 21. Race: 2. GenerateId: 3418. Posição do usuário: 2115x 2082y. Posição do NPC: 2115x 2080y
+01:07:49 : [Bubble] - [Mensagem do servidor]> Chegou no destino [Defensor da alma].
+01:07:49 : [Bubble] - Teleportado para a posição 2372 2099
+01:07:57 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 603
+01:07:58 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 603
+01:07:58 : [Bubble] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+01:08:02 : [Bubble] - Matou o mob Rei Gremlin . GenerID: 604
+01:08:12 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 603
+01:08:13 : [Bubble] - Matou o mob Javali. GenerID: 603
+01:08:13 : [Bubble] - Dropado item Âmago_de_Javali [2391] [0 0 0 0 0 0] em 2366x 2093y - Javali (1/250)
+01:08:16 : [Bubble] - Matou o mob Javali. GenerID: 604
+01:08:16 : [Bubble] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+01:08:17 : [Bubble] - Matou o mob Rei Gremlin . GenerID: 604
+01:08:22 : [Bubble] - Matou o mob Javali. GenerID: 604
+01:08:42 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:08:43 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:08:43 : [Bubble] - Pontos CP subiu em 3. CP novo: 135
+01:08:43 : [Bubble] - [Mensagem do servidor]> + + + LEVEL UP + + +
+01:08:43 : [Bubble] - Level UP para level 20. Ev: 0/0 - 2367x 2111y
+01:08:44 : [Bubble] - Matou o mob Javali. GenerID: 588
+01:08:45 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:08:47 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:08:51 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:08:51 : [Bubble] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+01:08:52 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:08:53 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 589
+01:08:54 : [Bubble] - Matou o mob Javali. GenerID: 589
+01:09:00 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:09:02 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:09:02 : [Bubble] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+01:09:07 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 589
+01:09:08 : [Bubble] - Matou o mob Javali. GenerID: 589
+01:09:16 : [Bubble] - Matou o mob Javali. GenerID: 588
+01:09:22 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:09:22 : [Bubble] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+01:09:23 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:09:35 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:09:49 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:09:52 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:09:52 : [Bubble] - Dropado item Armadura(A) [1115] [4 57 71 50 60 4] em 2367x 2111y - Rei Gremlin (1/118)
+01:09:55 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:09:55 : [Bubble] - Pontos CP subiu em 3. CP novo: 138
+01:09:55 : [Bubble] - [Mensagem do servidor]> + + + LEVEL UP + + +
+01:09:55 : [Bubble] - Level UP para level 21. Ev: 0/0 - 2367x 2111y
+01:09:57 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:09:58 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:10:04 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:10:05 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:10:05 : [Bubble] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+01:10:10 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:10:11 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:10:18 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:10:19 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:10:30 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:10:30 : [Bubble] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+01:10:31 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:10:32 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:10:33 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:10:34 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:10:40 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:10:40 : [Bubble] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+01:10:44 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:10:44 : [Bubble] - Dropado item Calça(A) [1409] [43 1 3 10 59 0] em 2367x 2111y - Rei Gremlin (1/300)
+01:10:45 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:10:46 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:10:47 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:10:48 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:10:48 : [Bubble] - Pontos CP subiu em 3. CP novo: 141
+01:10:48 : [Bubble] - [Mensagem do servidor]> + + + LEVEL UP + + +
+01:10:48 : [Bubble] - Level UP para level 22. Ev: 0/0 - 2367x 2111y
+01:11:04 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:11:06 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:11:07 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:11:08 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:11:09 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:11:09 : [Bubble] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+01:11:10 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:11:11 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:11:21 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:11:22 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:11:30 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:11:36 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:11:36 : [Bubble] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+01:11:47 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:11:54 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:11:58 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:12:00 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:12:01 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 589
+01:12:09 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:12:09 : [Bubble] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+01:12:12 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:12:21 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:12:30 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:12:31 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:12:33 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:12:33 : [Bubble] - Pontos CP subiu em 3. CP novo: 144
+01:12:33 : [Bubble] - [Mensagem do servidor]> + + + LEVEL UP + + +
+01:12:33 : [Bubble] - Level UP para level 23. Ev: 0/0 - 2369x 2112y
+01:12:42 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:12:43 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:12:45 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:12:46 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:12:49 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:12:56 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:12:56 : [Bubble] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+01:12:56 : [Bubble] - Dropado item Calça(A) [1958] [43 0 71 50 3 5] em 2369x 2112y - Javali (1/300)
+01:13:06 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:13:07 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:13:10 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:13:17 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:13:20 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:13:29 : [Bubble] - Matou o mob Javali. GenerID: 588
+01:13:29 : [Bubble] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+01:13:35 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:13:44 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:13:46 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:13:47 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:13:48 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:13:51 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:13:51 : [Bubble] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+01:13:55 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 588
+01:13:58 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:14:00 : [Bubble] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+01:14:05 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:14:06 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:14:10 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:14:11 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:14:11 : [Bubble] - Dropado item Calça(A) [1127] [43 1 71 40 59 0] em 2369x 2112y - Rei Gremlin (1/90)
+01:14:12 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:14:12 : [Bubble] - Pontos CP subiu em 3. CP novo: 147
+01:14:12 : [Bubble] - [Mensagem do servidor]> + + + LEVEL UP + + +
+01:14:12 : [Bubble] - Level UP para level 24. Ev: 0/0 - 2369x 2112y
+01:14:19 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:14:19 : [Bubble] - Dropado item Âmago_de_Javali [2391] [0 0 0 0 0 0] em 2369x 2112y - Javali (1/300)
+01:14:22 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:14:31 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:14:32 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:14:44 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:14:45 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:14:45 : [Bubble] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+01:15:09 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:15:10 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:15:11 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:15:12 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:15:13 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:15:14 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:15:22 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:15:22 : [Bubble] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+01:15:22 : [Bubble] - Dropado item Calça(A) [1958] [43 0 3 15 60 4] em 2369x 2112y - Javali (1/300)
+01:15:23 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:15:34 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:15:36 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:15:46 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:15:47 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:15:56 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:15:56 : [Bubble] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+01:15:58 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:15:59 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:16:00 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:16:13 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:16:16 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:16:21 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:16:22 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:16:22 : [Bubble] - Pontos CP subiu em 3. CP novo: 150
+01:16:22 : [Bubble] - [Mensagem do servidor]> + + + LEVEL UP + + +
+01:16:22 : [Bubble] - Level UP para level 25. Ev: 0/0 - 2369x 2112y
+01:16:34 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:16:35 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:16:44 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:16:46 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:16:49 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:16:57 : [Bubble] - [Mensagem do servidor]: Mob foi derrotado por -Satan
+01:16:58 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:16:59 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:17:04 : [Bubble] - [Mensagem do servidor]: Jogador ByMito obteve sucesso na composição de Lança_do_Triunfo(Anct)
+01:17:10 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:17:10 : [Bubble] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+01:17:19 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:17:19 : [Bubble] - Dropado item Sapatos(A) [1415] [43 0 73 12 59 0] em 2369x 2112y - Rei Gremlin (1/90)
+01:17:20 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:17:34 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:17:35 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:17:35 : [Bubble] - Dropado item Armadura(A) [1115] [43 0 71 30 60 8] em 2369x 2112y - Rei Gremlin (1/118)
+01:17:43 : [Bubble] - O login admin5 tentou logar na conta com o mesmo mac.
+01:17:46 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:17:47 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:17:47 : [Bubble] - Dropado item Calça(A) [1409] [43 1 71 30 2 6] em 2369x 2112y - Rei Gremlin (1/300)
+01:17:53 : [Bubble] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+01:17:56 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:17:57 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:18:00 : [Bubble] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+01:18:04 : [Bubble] - [Mensagem do servidor]> + + + LEVEL UP + + +
+01:18:04 : [Bubble] - Level UP para level 26. Ev: 0/0 - 2369x 2112y
+01:18:08 : [Bubble] - [Mensagem do servidor]: Jogador Cabulloso obteve sucesso na composição de Martelo_Assassino(Anct)
+01:18:10 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:18:11 : [Bubble] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+01:18:11 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:18:19 : [Bubble] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+01:18:30 : [Bubble] - [Mensagem do servidor]: Cabulloso falhou na composição do item Machado para Ancient
+01:18:31 : [Bubble] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+01:18:32 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:18:32 : [Bubble] - Dropado item Lança [986] [43 0 60 12 74 12] em 2369x 2112y - Javali (1/300)
+01:18:34 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:18:35 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:18:36 : [Bubble] - [Mensagem do servidor]> + + + LEVEL UP + + +
+01:18:36 : [Bubble] - Level UP para level 27. Ev: 0/0 - 2369x 2112y
+01:18:41 : [Bubble] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+01:18:48 : [Bubble] - [Mensagem do servidor]: Jogador RhadamanthyS falhou a composição do item Luvas(A) +10
+01:18:48 : [Bubble] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+01:18:55 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:18:55 : [Bubble] - Dropado item Robe(A) [1253] [43 1 26 6 3 5] em 2369x 2112y - Rei Gremlin (1/300)
+01:18:55 : [Bubble] - Dropado item Túnica(A) [1265] [43 1 71 40 59 0] em 2369x 2112y - Rei Gremlin (1/300)
+01:18:56 : [Bubble] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+01:18:56 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:18:57 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:18:59 : [Bubble] - [Mensagem do servidor]> + + + LEVEL UP + + +
+01:18:59 : [Bubble] - Level UP para level 28. Ev: 0/0 - 2369x 2112y
+01:19:00 : [Bubble] - Matou o mob Javali. GenerID: 603
+01:19:01 : [Bubble] - Matou o mob Javali. GenerID: 589
+01:19:05 : [Bubble] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+01:19:06 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:19:08 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:19:10 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:19:11 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:19:11 : [Bubble] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+01:19:12 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:19:13 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:19:13 : [Bubble] - Dropado item Escudo [1702] [0 0 0 0 0 0] em 2369x 2112y - Rei Gremlin (1/300)
+01:19:17 : [Bubble] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+01:19:22 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:19:23 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:19:23 : [Bubble] - Dropado item Arco [817] [43 0 26 9 59 0] em 2369x 2112y - Rei Gremlin (1/300)
+01:19:23 : [Bubble] - [Mensagem do servidor]> + + + LEVEL UP + + +
+01:19:23 : [Bubble] - Level UP para level 29. Ev: 0/0 - 2369x 2112y
+01:19:23 : [Bubble] - Recebeu o item Braçadeira(M) [1606] [43 0 2 20 53 3]. STR: 8. INT: 9. DEX: 13. CON: 6
+01:19:31 : [Bubble] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+01:19:34 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:19:37 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:19:37 : [Bubble] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+01:19:40 : [Bubble] - [Mensagem do servidor]: ByMito falhou na composição do item Lança para Ancient
+01:19:46 : [Bubble] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+01:19:46 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:19:47 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:19:53 : [Bubble] - [Mensagem do servidor]> + + + LEVEL UP + + +
+01:19:53 : [Bubble] - Level UP para level 30. Ev: 0/0 - 2369x 2112y
+01:20:00 : [Bubble] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+01:20:00 : [Bubble] - [Mensagem do servidor]: Jogador RhadamanthyS falhou a composição do item Luvas(A) +10
+01:20:08 : [Bubble] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+01:20:10 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:20:11 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:20:12 : [Bubble] - [Mensagem do servidor]: Jadi falhou na composição do item Garra para Ancient
+01:20:14 : [Bubble] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+01:20:15 : [Bubble] - [Mensagem do servidor]: Jogador RhadamanthyS falhou a composição do item Luvas(A) +10
+01:20:22 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:20:22 : [Bubble] - [Mensagem do servidor]> + + + LEVEL UP + + +
+01:20:22 : [Bubble] - Level UP para level 31. Ev: 0/0 - 2369x 2112y
+01:20:22 : [Bubble] - [Mensagem do servidor]: Jadi falhou na composição do item Garra para Ancient
+01:20:23 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:20:25 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:20:30 : [Bubble] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+01:20:30 : [Bubble] - [Mensagem do servidor]: Jadi falhou na composição do item Garra para Ancient
+01:20:34 : [Bubble] - [Mensagem do servidor]: Jogador RhadamanthyS falhou a composição do item Luvas(A) +10
+01:20:34 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:20:35 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:20:36 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:20:40 : [Bubble] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+01:20:40 : [Bubble] - [Mensagem do servidor]: Jadi falhou na composição do item Garra para Ancient
+01:20:40 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:20:46 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:20:46 : [Bubble] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+01:20:47 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:20:49 : [Bubble] - [Mensagem do servidor]: Jogador Jadi obteve sucesso na composição de Khyrius(Anct)
+01:20:55 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:20:56 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:20:58 : [Bubble] - [Mensagem do servidor]> + + + LEVEL UP + + +
+01:20:58 : [Bubble] - Level UP para level 32. Ev: 0/0 - 2369x 2112y
+01:20:58 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:20:59 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:21:00 : [Bubble] - [Mensagem do servidor]: Jadi falhou na composição do item Garra para Ancient
+01:21:00 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:21:02 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:21:02 : [Bubble] - Dropado item Elmo(A) [1103] [43 0 26 9 59 0] em 2369x 2112y - Rei Gremlin (1/300)
+01:21:07 : [Bubble] - [Mensagem do servidor]: Jogador ByMito obteve sucesso na composição de Lança_do_Triunfo(Anct)
+01:21:08 : [Bubble] - [Mensagem do servidor]: Jogador Jadi obteve sucesso na composição de Basileus(Anct)
+01:21:10 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:21:11 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:21:11 : [Bubble] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+01:21:21 : [Bubble] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+01:21:21 : [Bubble] - [Mensagem do servidor]: Jadi falhou na composição do item Martelo para Ancient
+01:21:22 : [Bubble] - Matou o mob Javali. GenerID: 602
+01:21:23 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 602
+01:21:24 : [Bubble] - Matou o mob Javali. GenerID: 601
+01:21:25 : [Bubble] - Matou o mob Javali. GenerID: 589
+01:21:27 : [Bubble] - Matou o mob Rei Gremlin. GenerID: 601
+01:21:29 : [Bubble] - [Mensagem do servidor]: Jadi falhou na composição do item Martelo para Ancient
+01:21:30 : [Bubble] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+01:21:37 : [Bubble] - Matou o mob Javali. GenerID: 588
+01:21:40 : [Bubble] - [Mensagem do servidor]> + + + LEVEL UP + + +
+01:21:40 : [Bubble] - Level UP para level 33. Ev: 0/0 - 2369x 2112y
+01:21:52 : [Bubble] - WOZ547 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+01:21:52 : [Bubble] - 49 Personagem foi desconectado. Permaneceu 00:14:21 minutos online
+02:37:58 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (WOZ547) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 19
+02:37:58 : Usuário logou no jogo com clientId 19. - Servidor 2. Gold do banco: 0
+02:37:58 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[  1] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[  2] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[ 80] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[ 85] - Lobo_Polar[3980] [96 3 0 0 0 0]
+
+02:38:02 : Solicitou ir ao mundo...
+02:38:02 : Recebido pedido para entrar no jogo
+02:38:02 : Recebido informação do personagem completa.
+02:38:02 : [Bubble] - [INFORMAÇÕES DA CONTA]
+Personagem online: Bubble
+Gold atual: 99988840
+Level atual: 33
+Experiência atual: 164351
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 8 0 0 0 0]
+[03] - Calça(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira(N)[1575] [43 8 0 0 0 0]
+[05] - Botas(N)[1578] [43 8 0 0 0 0]
+[06] - Skeleton_Bow[943] [43 9 0 0 0 0]
+[14] - Aranha[2360] [84 27 39 20 0 0]
+
+[INVENTÁRIO]
+[00] - Calça(A)[1409] [43 0 71 50 60 10]
+[01] - Calça(A)[1127] [43 1 71 40 59 0]
+[02] - Âmago_de_Javali[2391] [0 0 0 0 0 0]
+[03] - Armadura(A)[1115] [4 57 71 50 60 4]
+[04] - Calça(A)[1409] [43 1 3 10 59 0]
+[05] - Calça(A)[1958] [43 0 71 50 3 5]
+[06] - Âmago_de_Javali[2391] [0 0 0 0 0 0]
+[07] - Calça(A)[1958] [43 0 3 15 60 4]
+[08] - Sapatos(A)[1415] [43 0 73 12 59 0]
+[09] - Armadura(A)[1115] [43 0 71 30 60 8]
+[10] - Calça(A)[1409] [43 1 71 30 2 6]
+[11] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[12] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[13] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[14] - Lança[986] [43 0 60 12 74 12]
+[15] - Robe(A)[1253] [43 1 26 6 3 5]
+[16] - Túnica(A)[1265] [43 1 71 40 59 0]
+[17] - Escudo[1702] [0 0 0 0 0 0]
+[18] - Arco[817] [43 0 26 9 59 0]
+[19] - Braçadeira(M)[1606] [43 0 2 20 53 3]
+[20] - Elmo(A)[1103] [43 0 26 9 59 0]
+[29] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+02:38:02 : [Bubble] - Personagem Bubble enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 209
+02:38:02 : [Bubble] - Gold atual: 99988840. Classe: 3 Evolução: 0. Experiência: 164351. Nível: 33. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+02:38:02 : [Bubble] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+02:38:02 : [Bubble] - Enviado informações do personagem
+02:38:04 : [Bubble] - Comando "/day "
+02:38:04 : [Bubble] - [Mensagem do servidor]> !#11 2
+02:38:08 : [Bubble] - [Mensagem do servidor]: Lafirma falhou a refinação de Escudo para 12
+02:38:10 : [Bubble] - Matou o mob Porco de Guerra. GenerID: 4421
+02:38:11 : [Bubble] - Matou o mob Porco de Guerra. GenerID: 4419
+02:38:12 : [Bubble] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+02:38:15 : [Bubble] - Teleportado para a posição 1150 1721
+02:38:22 : [Bubble] - Morreu para FoeFoe12 1151x 1722y
+02:38:22 : [Bubble] - [Mensagem do servidor]> Você perdeu 123 de experiência
+02:38:22 : [Bubble] - Perdeu 123 de experiência.
+02:38:29 : [Bubble] - DoRecall - Enviado para cidade: 2098x 2093y
+02:38:29 : [Bubble] - Usuário reviveu
+02:38:38 : [Bubble] - Teleportado para a posição 1150 1721
+02:38:44 : [Bubble] - Morreu para FoeFoe12 1151x 1722y
+02:38:44 : [Bubble] - [Mensagem do servidor]> Você perdeu 123 de experiência
+02:38:44 : [Bubble] - Perdeu 123 de experiência.
+02:38:58 : [Bubble] - Teleportado para a posição 1150 1721
+02:38:58 : [Bubble] - [Mensagem do servidor]: Jogador Lafirma obteve sucesso na refinação item +12
+02:39:02 : [Bubble] - DoRecall - Enviado para cidade: 2089x 2102y
+02:39:02 : [Bubble] - Usuário reviveu
+02:39:13 : [Bubble] - Teleportado para a posição 1150 1721
+02:39:19 : [Bubble] - Morreu para Caffetina 1151x 1721y
+02:39:19 : [Bubble] - [Mensagem do servidor]> Você perdeu 123 de experiência
+02:39:19 : [Bubble] - Perdeu 123 de experiência.
+02:39:20 : [Bubble] - [Mensagem do servidor]: Lafirma falhou a refinação de Escudo para 13
+02:39:26 : [Bubble] - DoRecall - Enviado para cidade: 2100x 2093y
+02:39:26 : [Bubble] - Usuário reviveu
+02:39:39 : [Bubble] - Teleportado para a posição 1148 1721
+02:39:48 : [Bubble] - [Mensagem do servidor]: Jogador Lafirma obteve sucesso na refinação item +12
+02:39:52 : [Bubble] - Morreu para Caffetina 1150x 1718y
+02:39:52 : [Bubble] - [Mensagem do servidor]> Você perdeu 123 de experiência
+02:39:52 : [Bubble] - Perdeu 123 de experiência.
+02:40:00 : [Bubble] - Teleportado para a posição 1148 1721
+02:40:02 : [Bubble] - DoRecall - Enviado para cidade: 2089x 2104y
+02:40:02 : [Bubble] - Usuário reviveu
+02:40:04 : [Bubble] - Teleportado para a posição 1146 1719
+02:40:10 : [Bubble] - [Mensagem do servidor]: Lafirma falhou a refinação de Escudo para 13
+02:40:11 : [Bubble] - [Mensagem do servidor]: Parabéns Suvaco pela criação do personagem Arch
+02:40:30 : [Bubble] - [Mensagem do servidor]: Jogador Lafirma obteve sucesso na refinação item +12
+02:41:01 : [Bubble] - [Mensagem do servidor]: Lafirma falhou a refinação de Escudo para 13
+02:41:13 : [Bubble] - [Mensagem do servidor]: Jogador Lafirma obteve sucesso na refinação item +12
+02:41:13 : [Bubble] - [Mensagem do servidor]: Parabéns Rogo pela criação do personagem Arch
+02:41:26 : [Bubble] - [Mensagem do servidor]: Lafirma falhou a refinação de Escudo para 13
+02:41:51 : [Bubble] - [Mensagem do servidor]: Jogador Lafirma obteve sucesso na refinação item +12
+02:42:07 : [Bubble] - [Mensagem do servidor]: Lafirma falhou a refinação de Escudo para 13
+02:42:29 : [Bubble] - [Mensagem do servidor]: Jogador Lafirma obteve sucesso na refinação item +12
+02:42:54 : [Bubble] - [Mensagem do servidor]: Jogador Thea obteve sucesso na composição de Thrasytes(Anct)
+02:43:07 : [Bubble] - [Mensagem do servidor]: Thea falhou na composição do item Espada para Ancient
+02:43:07 : [Bubble] - [Mensagem do servidor]: Lafirma falhou a refinação de Escudo para 13
+02:43:18 : [Bubble] - [Mensagem do servidor]: Thea falhou na composição do item Espada para Ancient
+02:43:25 : [Bubble] - [Mensagem do servidor]: Jogador Lafirma obteve sucesso na refinação item +12
+02:43:27 : [Bubble] - [Mensagem do servidor]: Thea falhou na composição do item Espada para Ancient
+02:43:35 : [Bubble] - [Mensagem do servidor]: Parabéns Suvaco pela criação do personagem Arch
+02:43:35 : [Bubble] - [Mensagem do servidor]: Jogador Thea obteve sucesso na composição de Thrasytes(Anct)
+02:44:56 : [Bubble] - [Mensagem do servidor]: Parabéns Caffetina pela criação do personagem Arch
+02:45:19 : [Bubble] - Morreu para FoeFoe12 1150x 1722y
+02:45:19 : [Bubble] - [Mensagem do servidor]> Você perdeu 123 de experiência
+02:45:19 : [Bubble] - Perdeu 123 de experiência.
+02:45:20 : [Bubble] - [Mensagem do servidor]: Jogador yHuntress obteve sucesso na composição de Arco_Divino(Anct)
+02:45:35 : [Bubble] - WOZ547 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+02:45:35 : [Bubble] - 19 Personagem foi desconectado. Permaneceu 00:07:30 minutos online
+13:00:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (WOZ547) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 27
+13:00:16 : Conta ADMIN5 logado na conta
+Status da conta: JOGANDO
+Personagem: Wozzzzzzzzz
+
+13:00:16 : Usuário logou no jogo com clientId 27. - Servidor 2. Gold do banco: 0
+13:00:16 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[  1] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[  2] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[ 80] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[ 85] - Lobo_Polar[3980] [96 3 0 0 0 0]
+
+13:00:22 : Solicitou ir ao mundo...
+13:00:22 : Recebido pedido para entrar no jogo
+13:00:22 : Recebido informação do personagem completa.
+13:00:22 : [Bubble] - [INFORMAÇÕES DA CONTA]
+Personagem online: Bubble
+Gold atual: 99988840
+Level atual: 33
+Experiência atual: 163906
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2111x 2041y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 8 0 0 0 0]
+[03] - Calça(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira(N)[1575] [43 8 0 0 0 0]
+[05] - Botas(N)[1578] [43 8 0 0 0 0]
+[06] - Skeleton_Bow[943] [43 9 0 0 0 0]
+[14] - Aranha[2360] [216 24 39 20 0 0]
+
+[INVENTÁRIO]
+[00] - Calça(A)[1409] [43 0 71 50 60 10]
+[01] - Calça(A)[1127] [43 1 71 40 59 0]
+[02] - Âmago_de_Javali[2391] [0 0 0 0 0 0]
+[03] - Armadura(A)[1115] [4 57 71 50 60 4]
+[04] - Calça(A)[1409] [43 1 3 10 59 0]
+[05] - Calça(A)[1958] [43 0 71 50 3 5]
+[06] - Âmago_de_Javali[2391] [0 0 0 0 0 0]
+[07] - Calça(A)[1958] [43 0 3 15 60 4]
+[08] - Sapatos(A)[1415] [43 0 73 12 59 0]
+[09] - Armadura(A)[1115] [43 0 71 30 60 8]
+[10] - Calça(A)[1409] [43 1 71 30 2 6]
+[11] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[12] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[13] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[14] - Lança[986] [43 0 60 12 74 12]
+[15] - Robe(A)[1253] [43 1 26 6 3 5]
+[16] - Túnica(A)[1265] [43 1 71 40 59 0]
+[17] - Escudo[1702] [0 0 0 0 0 0]
+[18] - Arco[817] [43 0 26 9 59 0]
+[19] - Braçadeira(M)[1606] [43 0 2 20 53 3]
+[20] - Elmo(A)[1103] [43 0 26 9 59 0]
+[29] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN5]	USER_PLAY	[Wozzzzzzzzz] (level: 1010 ev: -1)	
+
+13:00:22 : [Bubble] - Personagem Bubble enviado ao mundo 2111x 2041y - Canal 2 - Cash da conta: 0. PowerLevel: 209
+13:00:22 : [Bubble] - Gold atual: 99988840. Classe: 3 Evolução: 0. Experiência: 163906. Nível: 33. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:00:22 : [Bubble] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+13:00:22 : [Bubble] - Enviado informações do personagem
+13:00:23 : [Bubble] - Comando "/day "
+13:00:23 : [Bubble] - [Mensagem do servidor]> !#11 2
+13:00:32 : [Bubble] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:01:01 : [Bubble] - Teleportado para a posição 1146 1717
+13:01:09 : [Bubble] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 1148x 1716y
+13:01:09 : [Bubble] - Gold atual: 99988840.
+13:01:10 : [Bubble] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 1148x 1716y
+13:01:10 : [Bubble] - Gold atual: 199988840.
+13:01:10 : [Bubble] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 1148x 1716y
+13:01:10 : [Bubble] - Gold atual: 299988840.
+13:01:15 : [Bubble] - Comando "/gm +clearinv"
+13:01:24 : [Bubble] - Comando "/Desbloquear "
+13:01:24 : [Bubble] - [Mensagem do servidor]> Este personagem não está conectado.
+13:01:25 : [Bubble] - Comando "/gm +clearinv"
+13:01:38 : [Bubble] - WOZ547 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+13:01:38 : [Bubble] - 27 Personagem foi desconectado. Permaneceu 00:01:21 minutos online
+15:39:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (WOZ547) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 3
+15:39:55 : Conta ADMIN5 logado na conta
+Status da conta: SELEÇÃO DE PERSONAGEM
+
+15:39:55 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+15:39:55 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+15:40:00 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (WOZ547) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 27
+15:40:00 : Usuário logou no jogo com clientId 27. - Servidor 1. Gold do banco: 0
+15:40:00 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[  1] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[  2] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[ 80] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[ 85] - Lobo_Polar[3980] [96 3 0 0 0 0]
+
+15:40:01 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:40:04 : Enviou senha numérica correta. 
+15:40:06 : WOZ547 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+15:40:06 : Personagem foi desconectado. Permaneceu 00:00:06 minutos online
+15:49:32 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (WOZ547) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 2
+15:49:32 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+15:49:32 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+15:49:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (WOZ547) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 12
+15:49:37 : Usuário logou no jogo com clientId 12. - Servidor 1. Gold do banco: 0
+15:49:37 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[  1] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[  2] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[ 80] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[ 85] - Lobo_Polar[3980] [96 3 0 0 0 0]
+
+15:49:39 : Errou senha numérica: 1.
+15:49:45 : Errou senha numérica: 2.
+15:49:50 : Errou senha numérica: 3.
+15:49:55 : WOZ547 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+15:49:55 : Personagem foi desconectado. Permaneceu 00:00:19 minutos online
+15:50:01 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (WOZ547) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 12
+15:50:01 : Usuário logou no jogo com clientId 12. - Servidor 1. Gold do banco: 0
+15:50:01 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[  1] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[  2] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[ 80] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[ 85] - Lobo_Polar[3980] [96 3 0 0 0 0]
+
+15:50:06 : Errou senha numérica: 1.
+15:50:17 : WOZ547 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+15:50:17 : Personagem foi desconectado. Permaneceu 00:00:16 minutos online
+19:24:58 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (WOZ547) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 23
+19:24:58 : Usuário logou no jogo com clientId 23. - Servidor 1. Gold do banco: 0
+19:24:58 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[  1] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[  2] - Barra_de_Prata_(1Bi)[4011] [0 0 0 0 0 0]
+[ 80] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[ 85] - Lobo_Polar[3980] [96 3 0 0 0 0]
+
+19:25:02 : Enviou senha numérica correta. 
+19:25:03 : Solicitou ir ao mundo...
+19:25:03 : Recebido pedido para entrar no jogo
+19:25:03 : Recebido informação do personagem completa.
+19:25:03 : [Bubble] - [INFORMAÇÕES DA CONTA]
+Personagem online: Bubble
+Gold atual: 399988840
+Level atual: 33
+Experiência atual: 163906
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2111x 2041y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 8 0 0 0 0]
+[03] - Calça(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira(N)[1575] [43 8 0 0 0 0]
+[05] - Botas(N)[1578] [43 8 0 0 0 0]
+[06] - Skeleton_Bow[943] [43 9 0 0 0 0]
+[14] - Aranha[2360] [216 24 39 20 0 0]
+
+[INVENTÁRIO]
+[00] - Calça(A)[1409] [43 0 71 50 60 10]
+[01] - Calça(A)[1127] [43 1 71 40 59 0]
+[02] - Âmago_de_Javali[2391] [0 0 0 0 0 0]
+[03] - Armadura(A)[1115] [4 57 71 50 60 4]
+[04] - Calça(A)[1409] [43 1 3 10 59 0]
+[05] - Calça(A)[1958] [43 0 71 50 3 5]
+[06] - Âmago_de_Javali[2391] [0 0 0 0 0 0]
+[07] - Calça(A)[1958] [43 0 3 15 60 4]
+[08] - Sapatos(A)[1415] [43 0 73 12 59 0]
+[09] - Armadura(A)[1115] [43 0 71 30 60 8]
+[10] - Calça(A)[1409] [43 1 71 30 2 6]
+[14] - Lança[986] [43 0 60 12 74 12]
+[15] - Robe(A)[1253] [43 1 26 6 3 5]
+[16] - Túnica(A)[1265] [43 1 71 40 59 0]
+[17] - Escudo[1702] [0 0 0 0 0 0]
+[18] - Arco[817] [43 0 26 9 59 0]
+[19] - Braçadeira(M)[1606] [43 0 2 20 53 3]
+[20] - Elmo(A)[1103] [43 0 26 9 59 0]
+[29] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:25:03 : [Bubble] - Personagem Bubble enviado ao mundo 2111x 2041y - Canal 1 - Cash da conta: 0. PowerLevel: 209
+19:25:03 : [Bubble] - Gold atual: 399988840. Classe: 3 Evolução: 0. Experiência: 163906. Nível: 33. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+19:25:03 : [Bubble] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+19:25:03 : [Bubble] - Enviado informações do personagem
+19:25:05 : [Bubble] - Comando "/day "
+19:25:05 : [Bubble] - [Mensagem do servidor]> !#11 2
+19:25:12 : [Bubble] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:25:45 : [Bubble] - [Mensagem do servidor]: Jogador I-Zoe-I falhou a composição do item Túnica +10
+19:25:53 : [Bubble] - [Mensagem do servidor]: Jogador I-Zoe-I falhou a composição do item Túnica +10
+19:26:01 : [Bubble] - [Mensagem do servidor]: Jogador I-Zoe-I falhou a composição do item Túnica +10
+19:26:12 : [Bubble] - [Mensagem do servidor]: Jogador I-Zoe-I falhou a composição do item Túnica +10
+19:26:25 : [Bubble] - [Mensagem do servidor]: Jogador I-Zoe-I falhou a composição do item Túnica +10
+19:26:41 : [Bubble] - [Mensagem do servidor]: -Mikau- falhou na composição do item Cajado para Ancient
+19:26:53 : [Bubble] - [Mensagem do servidor]: -Mikau- falhou na composição do item Cajado para Ancient
+19:27:07 : [Bubble] - [Mensagem do servidor]: Jogador Rabixo obteve sucesso na composição de Eirenus(Anct)
+19:27:22 : [Bubble] - [Mensagem do servidor]: Rabixo falhou na composição do item Cajado para Ancient
+19:27:37 : [Bubble] - [Mensagem do servidor]: Rabixo falhou na composição do item Cajado para Ancient
+19:27:40 : [Bubble] - [Mensagem do servidor]: Jogador I-Zoe-I falhou a composição do item Túnica +10
+19:28:03 : [Bubble] - [Mensagem do servidor]: Jogador Rabixo obteve sucesso na composição de Eirenus(Anct)
+19:28:25 : [Bubble] - [Mensagem do servidor]: Jogador -Mikau- obteve sucesso na composição de Eirenus(Anct)
+19:28:38 : [Bubble] - [Mensagem do servidor]: -Mikau- falhou na composição do item Cajado para Ancient
+19:28:54 : [Bubble] - [Mensagem do servidor]: -Mikau- falhou na composição do item Cajado para Ancient
+19:29:09 : [Bubble] - [Mensagem do servidor]: -Mikau- falhou na composição do item Cajado para Ancient
+19:30:59 : [Bubble] - [Mensagem do servidor]: -Mikau- falhou na composição do item Cajado para Ancient
+19:31:46 : [Bubble] - WOZ547 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:31:46 : [Bubble] - 23 Personagem foi desconectado. Permaneceu 00:06:42 minutos online

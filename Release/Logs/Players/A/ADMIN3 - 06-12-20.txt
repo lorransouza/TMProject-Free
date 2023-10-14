@@ -1,0 +1,597 @@
+
+14:51:41 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+14:51:41 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 123456789
+14:51:41 : [INFORMAÇÕES DO BANCO]
+Gold: 123456789
+[  0] - Adaga[861] [43 8 0 0 0 0]
+[  1] - Kit_de_Cura_(20_M.)[682] [61 19 0 0 0 0]
+[  2] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  3] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  4] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  5] - Frango_Assado_(Pacote)[3318] [0 0 0 0 0 0]
+[  6] - Broquel_de_Aço[1702] [0 0 0 0 0 0]
+[  8] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[  9] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 10] - Maça_Pesada[803] [43 0 2 27 59 0]
+[ 11] - Luvas_de_Seda(A)[1292] [43 1 72 25 60 6]
+[ 12] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 14] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 15] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[ 16] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 17] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 18] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 19] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 20] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[ 21] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 22] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 23] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 24] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 25] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[ 26] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 27] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 28] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 29] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 30] - Baú_de_Caça[4139] [0 0 0 0 0 0]
+[ 31] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 32] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 33] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 34] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 35] - Skytalos(Anct)[2551] [0 0 0 0 0 0]
+[ 36] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 37] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 38] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 39] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 40] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 41] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 42] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 43] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 44] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 45] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 46] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 47] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 48] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 49] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 50] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 51] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 52] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 53] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 54] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 55] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 56] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 57] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 58] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 59] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 60] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 61] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 62] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 63] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 64] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 65] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 66] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 67] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 68] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 69] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 70] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 71] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 72] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 73] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 74] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 75] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 76] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 77] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 78] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 79] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 80] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 81] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 82] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 83] - Poeira_de_Fada[414] [0 0 0 0 0 0]
+[ 84] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 85] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 86] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 87] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 88] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 89] - Página_de_Ferreiro_[F][4601] [61 1 0 0 0 0]
+[ 90] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 91] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 92] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 93] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 94] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 95] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 96] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 97] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 98] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[ 99] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[100] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[101] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[102] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[103] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[104] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[105] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[106] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[107] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[108] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[109] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[110] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[111] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[112] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[113] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[114] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[115] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[116] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[117] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[118] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[119] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+
+14:51:42 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:51:47 : Solicitou ir ao mundo...
+14:51:47 : Recebido pedido para entrar no jogo
+14:51:47 : Recebido informação do personagem completa.
+14:51:47 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 726535211
+Level atual: 1010
+Experiência atual: 1140
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2094x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[14] - Grifo[2384] [100 100 100 100 0 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[01] - Conjunto_Valquíria[4152] [96 3 13 20 0 64]
+[05] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[06] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[10] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:51:47 : [Warrior-1] - Personagem Warrior-1 enviado ao mundo 2094x 2105y - Canal 2 - Cash da conta: 49219. OverPower: 2220
+14:51:47 : [Warrior-1] - Gold atual: 726535211. Classe: 0 Evolução: 0. Experiência: 1140. Nível: 1010. Info: 0. GuildID: 2. CP: 54. Pontos de Contribuição: 0. Limite: 0
+14:51:47 : [Warrior-1] - Logou no personagem Warrior-1 com frango ativo. Tempo: 1238
+14:51:47 : [Warrior-1] - Resetado a contagem de entradas água! Day: 339-340. Total: 0
+14:51:47 : [Warrior-1] - Enviado informações do personagem
+14:51:48 : [Warrior-1] - Comando "/day "
+14:51:48 : [Warrior-1] - [Mensagem do servidor]> !#11 2
+14:51:55 : [Warrior-1] - Comando "/gm +erion"
+14:51:55 : [Warrior-1] - Teleportado para a posição 2460 2009
+14:52:00 : [Warrior-1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:52:02 : [Warrior-1] - [Mensagem do servidor]> Saia do grupo para criar um.
+14:52:38 : [Warrior-1] - Matou o mob Meio Orc. GenerID: 875
+14:52:47 : [Warrior-1] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 6. Distância 2: 7. Range: 2.
+14:52:49 : [Warrior-1] - Matou o mob Orc Cavaleiro. GenerID: 876
+14:52:53 : [Warrior-1] - Matou o mob Orc Cavaleiro. GenerID: 875
+14:52:56 : [Warrior-1] - Matou o mob Meio Orc. GenerID: 875
+14:53:01 : [Warrior-1] - Matou o mob Orc Cavaleiro. GenerID: 877
+14:53:06 : [Warrior-1] - Matou o mob Troll. GenerID: 878
+14:53:19 : [Warrior-1] - Matou o mob Orc Cavaleiro. GenerID: 875
+14:53:24 : [Warrior-1] - Moveu item Grifo [2384] [100 100 100 100 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 11
+14:53:26 : [Warrior-1] - Matou o mob Meio Orc. GenerID: 875
+14:53:29 : [Warrior-1] - Moveu item Grifo [2384] [100 100 100 100 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 14
+14:53:34 : [Warrior-1] - Matou o mob Meio Orc. GenerID: 876
+14:53:37 : [Warrior-1] - Matou o mob Orc Cavaleiro. GenerID: 875
+14:53:38 : [Warrior-1] - Matou o mob Meio Orc. GenerID: 875
+14:53:39 : [Warrior-1] - Matou o mob Meio Orc. GenerID: 876
+14:54:08 : [Warrior-1] - Moveu item Armadura_Couro_Duro(N) [1116] [43 8 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 2
+14:54:09 : [Warrior-1] - Moveu item Luvas_de_Couro_Duro(N) [1140] [43 8 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 4
+14:54:09 : [Warrior-1] - Moveu item Elmo_de_Couro_Duro(N) [1104] [43 8 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 1
+14:54:10 : [Warrior-1] - Moveu item Calça_de_Couro_Duro(N) [1128] [43 8 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 3
+14:54:10 : [Warrior-1] - Moveu item Conjunto_Valquíria [4152] [96 3 13 20 0 64] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 12
+15:21:48 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 726535211
+Level atual: 1010
+Experiência atual: 1980
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:44 horas
+Posição atual: 2488x 2005y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[12] - Conjunto_Valquíria[4152] [96 3 13 20 0 64]
+[14] - Grifo[2384] [100 100 100 100 0 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:51:48 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 726535211
+Level atual: 1010
+Experiência atual: 1980
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:59:22 horas
+Posição atual: 2488x 2005y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[12] - Conjunto_Valquíria[4152] [96 3 13 20 0 64]
+[14] - Grifo[2384] [100 100 100 100 0 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:52:32 : [Warrior-1] - [Mensagem do servidor]> Sua montaria morreu.
+15:52:32 : [Warrior-1] - Montaria Grifo [2384] [0 0 100 100 4 0] morreu por falta de ração
+16:21:49 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 726535211
+Level atual: 1010
+Experiência atual: 1980
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:29:00 horas
+Posição atual: 2488x 2005y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[12] - Conjunto_Valquíria[4152] [96 3 13 20 0 64]
+[14] - Grifo[2384] [0 0 100 100 4 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:51:50 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 726535211
+Level atual: 1010
+Experiência atual: 1980
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:58:39 horas
+Posição atual: 2488x 2005y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[12] - Conjunto_Valquíria[4152] [96 3 13 20 0 64]
+[14] - Grifo[2384] [0 0 100 100 4 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:21:51 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 726535211
+Level atual: 1010
+Experiência atual: 1980
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 02:28:18 horas
+Posição atual: 2488x 2005y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[12] - Conjunto_Valquíria[4152] [96 3 13 20 0 64]
+[14] - Grifo[2384] [0 0 100 100 4 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:38:54 : [Warrior-1] - Comando "/day "
+17:38:54 : [Warrior-1] - [Mensagem do servidor]> !#11 2
+17:51:51 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 726535211
+Level atual: 1010
+Experiência atual: 1980
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 02:57:54 horas
+Posição atual: 2488x 2005y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[12] - Conjunto_Valquíria[4152] [96 3 13 20 0 64]
+[14] - Grifo[2384] [0 0 100 100 4 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:21:51 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 726535211
+Level atual: 1010
+Experiência atual: 1980
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 03:27:33 horas
+Posição atual: 2488x 2005y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[12] - Conjunto_Valquíria[4152] [96 3 13 20 0 64]
+[14] - Grifo[2384] [0 0 100 100 4 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:51:52 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 726535211
+Level atual: 1010
+Experiência atual: 1980
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 03:57:11 horas
+Posição atual: 2488x 2005y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[12] - Conjunto_Valquíria[4152] [96 3 13 20 0 64]
+[14] - Grifo[2384] [0 0 100 100 4 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:00:00 : [Warrior-1] - [Mensagem do servidor]: O boss Anubis nasceu! Derrote-o e garanta bônus
+19:21:52 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 726535211
+Level atual: 1010
+Experiência atual: 1980
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 04:26:49 horas
+Posição atual: 2488x 2005y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[12] - Conjunto_Valquíria[4152] [96 3 13 20 0 64]
+[14] - Grifo[2384] [0 0 100 100 4 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:51:52 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 726535211
+Level atual: 1010
+Experiência atual: 1980
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 04:56:28 horas
+Posição atual: 2488x 2005y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[12] - Conjunto_Valquíria[4152] [96 3 13 20 0 64]
+[14] - Grifo[2384] [0 0 100 100 4 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:00:00 : [Warrior-1] - [Mensagem do servidor]: Participantes da guerra, aguardem na cidade em que apostou.
+20:06:00 : [Warrior-1] - [Mensagem do servidor]: Guerra iniciada.
+20:21:53 : [Warrior-1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Warrior-1
+Gold atual: 726535211
+Level atual: 1010
+Experiência atual: 1980
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 05:26:07 horas
+Posição atual: 2488x 2005y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[12] - Conjunto_Valquíria[4152] [96 3 13 20 0 64]
+[14] - Grifo[2384] [0 0 100 100 4 0]
+[15] - Capa_de_Akelonia[737] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:30:00 : [Warrior-1] - [Mensagem do servidor]: Guerra finalizada.
+20:44:06 : [Warrior-1] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:44:06 : [Warrior-1] - 2 Personagem foi desconectado. Permaneceu 05:48:03 minutos online

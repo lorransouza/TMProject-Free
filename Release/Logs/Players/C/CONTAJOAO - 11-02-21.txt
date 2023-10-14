@@ -1,0 +1,85 @@
+
+21:59:06 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.176.97.231 Mac: (57:97:A2:B8:71:46). ClientId: 2
+21:59:06 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+21:59:06 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  5] - Luvas[1223] [0 0 0 0 0 0]
+[ 10] - Estabilizador_de_Crescimento[3461] [61 10 0 0 0 0]
+[ 15] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[ 20] - Pedido_de_Caça(Kult)[3435] [61 8 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+21:59:07 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:59:59 : Solicitou ir ao mundo...
+21:59:59 : Recebido pedido para entrar no jogo
+21:59:59 : Recebido informação do personagem completa.
+21:59:59 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 100113146
+Level atual: 399
+Experiência atual: 8200000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:52 horas
+Posição atual: 2091x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 2 0 0]
+[02] - Armadura[1221] [116 253 0 0 0 0]
+[03] - Calça[1222] [116 251 0 0 0 0]
+[04] - Luvas[1223] [116 252 0 0 0 0]
+[05] - Luvas[1223] [116 250 0 0 0 0]
+[06] - Skytalos(Anct)[2554] [43 253 2 81 71 127]
+[14] - Unicórnio[2381] [120 120 120 60 0 0]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[00] - Pergaminho_da_Água(A)LV1[3182] [61 115 0 0 0 0]
+[01] - Barra_de_Bronze(100Mi)[4010] [61 20 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [81 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:59:59 : [Joao1] - Personagem Joao1 enviado ao mundo 2091x 2100y - Canal 2 - Cash da conta: 0. PowerLevel: 7300
+21:59:59 : [Joao1] - Gold atual: 100113146. Classe: 0 Evolução: 2. Experiência: 8200000000. Nível: 399. Info: 103079215584. GuildID: 0. CP: 6. Pontos de Contribuição: 0. Limite: 0
+21:59:59 : [Joao1] - Resetado a contagem de entradas água! Day: 40-41. Total: 0
+21:59:59 : [Joao1] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+21:59:59 : [Joao1] - Enviado informações do personagem
+22:00:00 : [Joao1] - [Mensagem do servidor]: A batalha do acampamento avançado do reino foi iniciada.
+22:00:01 : [Joao1] - Comando "/day "
+22:00:01 : [Joao1] - [Mensagem do servidor]> !#11 2
+22:00:04 : [Joao1] - Comando "/gm +move 2446 1899"
+22:00:04 : [Joao1] - Teleportado para a posição 2448 1897
+22:00:11 : [Joao1] - Comando "/gm +move 2446 1599"
+22:00:11 : [Joao1] - Falha ao encontrar espaço vago no mapa para o usuário. Posição: 2446x 1599y
+22:00:15 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:00:22 : [Joao1] - Comando "/gm +move 2446 1599"
+22:00:22 : [Joao1] - Falha ao encontrar espaço vago no mapa para o usuário. Posição: 2446x 1599y
+22:00:24 : [Joao1] - Comando "/gm +move 2446 2100"
+22:00:24 : [Joao1] - Teleportado para a posição 2446 2100
+22:00:27 : [Joao1] - Comando "/gm +move 2446 1599"
+22:00:27 : [Joao1] - Falha ao encontrar espaço vago no mapa para o usuário. Posição: 2446x 1599y
+22:00:30 : [Joao1] - Matou o mob Orc Arqueiro . GenerID: 746
+22:00:31 : [Joao1] - Matou o mob Orc Arqueiro. GenerID: 738
+22:00:48 : [Joao1] - Personagem deu personagem
+22:01:03 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:01:03 : Personagem foi desconectado. Permaneceu 00:01:55 minutos online

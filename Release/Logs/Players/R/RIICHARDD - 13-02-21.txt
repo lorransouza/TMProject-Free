@@ -1,0 +1,1833 @@
+
+13:28:49 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (RIICHARDD) - IP: 179.232.255.49 Mac: (C0:67:2F:5A:E8:44). ClientId: 1
+13:28:49 : [Mensagem do servidor]> Senha incorreta.
+13:28:49 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+13:28:57 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (RIICHARDD) - IP: 179.232.255.49 Mac: (C0:67:2F:5A:E8:44). ClientId: 1
+13:28:59 : [Mensagem do servidor]> Senha incorreta.
+13:28:59 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+13:29:07 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (RIICHARDD) - IP: 179.232.255.49 Mac: (C0:67:2F:5A:E8:44). ClientId: 1
+13:29:07 : [Mensagem do servidor]> Senha incorreta.
+13:29:07 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+13:29:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (RIICHARDD) - IP: 179.232.255.49 Mac: (C0:67:2F:5A:E8:44). ClientId: 1
+13:29:13 : [Mensagem do servidor]> Você errou a senha 3 vezes ou mais.
+13:29:28 : RIICHARDD Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+13:29:28 : Usuário desconectado com status 1
+13:29:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (RIICHARDD) - IP: 179.232.255.49 Mac: (C0:67:2F:5A:E8:44). ClientId: 2
+13:29:29 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+13:29:29 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+13:29:43 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (RIICHARDD) - IP: 179.232.255.49 Mac: (C0:67:2F:5A:E8:44). ClientId: 1
+13:29:43 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+13:29:43 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Chave_do_Pacote[5382] [96 3 0 0 0 0]
+[  4] - Poção_Divina(15dias)[3380] [0 0 0 0 0 0]
+[  5] - Chave_do_Pacote[5382] [96 3 0 0 0 0]
+[  9] - Poção_Divina(15dias)[3380] [0 0 0 0 0 0]
+[ 10] - Chave_do_Pacote[5382] [96 3 0 0 0 0]
+[ 14] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[ 15] - Chave_do_Pacote[5382] [96 3 0 0 0 0]
+[ 20] - Chave_do_Pacote[5382] [96 3 0 0 0 0]
+[ 25] - Chave_do_Pacote[5382] [96 4 0 0 0 0]
+[ 80] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[ 81] - Poção_Poderosa[3431] [61 75 0 0 0 0]
+[ 85] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[ 86] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 87] - [S]Caixa_Poção_de_Cura[3322] [61 120 0 0 0 0]
+[ 90] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[ 95] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[ 96] - Bolsa_do_Andarilho[3467] [0 0 0 0 0 0]
+[100] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[101] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[105] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[106] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[110] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[111] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[114] - Baú_de_Experiência[4140] [61 236 0 0 0 0]
+[119] - Frango_Assado[3314] [61 238 0 0 0 0]
+
+13:30:06 : Enviou senha numérica correta. 
+13:30:08 : Solicitou ir ao mundo...
+13:30:08 : Recebido pedido para entrar no jogo
+13:30:08 : Recebido informação do personagem completa.
+13:30:08 : [Sentinela-PK] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sentinela-PK
+Gold atual: 98587396
+Level atual: 399
+Experiência atual: 4136502122
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:26 horas
+Posição atual: 2087x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral(A)[1646] [43 9 2 30 71 70]
+[03] - Calça(A)[1649] [43 9 2 30 71 70]
+[04] - Braçadeira(A)[1652] [43 9 54 18 72 30]
+[05] - Botas(A)[1655] [43 9 73 30 74 18]
+[06] - Arco[825] [2 45 0 0 0 0]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 52]
+[14] - Grifo_Sangrento[2386] [232 109 100 60 10 0]
+
+[INVENTÁRIO]
+[00] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[04] - Pergaminho_de_Portal(10)[776] [61 9 0 0 0 0]
+[14] - Poeira_de_Lactolerium[413] [61 10 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:30:08 : [Sentinela-PK] - Personagem Sentinela-PK enviado ao mundo 2087x 2095y - Canal 1 - Cash da conta: 272210. PowerLevel: 2980
+13:30:08 : [Sentinela-PK] - Gold atual: 98587396. Classe: 3 Evolução: 0. Experiência: 4136502122. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:30:08 : [Sentinela-PK] - Logou no personagem Sentinela-PK com baú de experiência ativo. Tempo: 1316
+13:30:08 : [Sentinela-PK] - Logou no personagem Sentinela-PK com frango ativo. Tempo: 1318
+13:30:08 : [Sentinela-PK] - Resetado a contagem de entradas água! Day: 42-43. Total: 0
+13:30:08 : [Sentinela-PK] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+13:30:08 : [Sentinela-PK] - Enviado informações do personagem
+13:30:17 : [Sentinela-PK] - Comando "/day "
+13:30:17 : [Sentinela-PK] - [Mensagem do servidor]> !#11 2
+13:30:23 : [Sentinela-PK] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:31:30 : [Sentinela-PK] - Teleportado para a posição 3649 3110
+13:32:10 : [Sentinela-PK] - Item Pedido_de_Caça(Kefra) [3436] [61 10 0 0 0 0] utilizado em 3642x 3112y
+13:32:10 : [Sentinela-PK] - Teleportado para a posição 2534 3897
+13:32:31 : [Sentinela-PK] - Personagem deu personagem
+13:32:36 : Solicitou ir ao mundo...
+13:32:36 : Recebido pedido para entrar no jogo
+13:32:36 : Recebido informação do personagem completa.
+13:32:36 : [Sentinela-PK] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sentinela-PK
+Gold atual: 96543886
+Level atual: 398
+Experiência atual: 3918177154
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:02:51 horas
+Posição atual: 3653x 3128y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[39] [43 0 39 1 1 1]
+[02] - Armadura[1656] [43 6 0 0 0 0]
+[03] - Calça[1657] [43 6 0 0 0 0]
+[04] - Luvas[1658] [43 6 0 0 0 0]
+[05] - Botas[1659] [43 6 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[14] - Unicórnio[2381] [216 89 100 60 10 0]
+
+[INVENTÁRIO]
+[05] - Peitoral(A)[1646] [43 9 2 30 71 70]
+[06] - Túnica(A)[1346] [43 9 2 30 71 70]
+[07] - Calça(A)[1649] [43 9 2 30 71 70]
+[08] - Braçadeira(A)[1652] [43 9 54 18 72 30]
+[09] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[11] - Espada[912] [43 9 0 0 0 0]
+[49] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[54] - Ração_de_Grifo[2430] [96 1 61 119 0 0]
+[59] - Ração_de_Unicórnio[2429] [96 1 61 119 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:32:36 : [Sentinela-PK] - Personagem Sentinela-PK enviado ao mundo 3653x 3128y - Canal 1 - Cash da conta: 272210. PowerLevel: 3673
+13:32:36 : [Sentinela-PK] - Gold atual: 96543886. Classe: 3 Evolução: 1. Experiência: 3918177154. Nível: 398. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:32:36 : [Sentinela-PK] - Logou no personagem Sentinela-PK com frango ativo. Tempo: 1591
+13:32:36 : [Sentinela-PK] - Logou no personagem Sentinela-PK com baú de experiência ativo. Tempo: 1591
+13:32:36 : [Sentinela-PK] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+13:32:36 : [Sentinela-PK] - Enviado informações do personagem
+13:32:40 : [Sentinela-PK] - Comando "/day "
+13:32:40 : [Sentinela-PK] - [Mensagem do servidor]> !#11 2
+13:32:47 : [Sentinela-PK] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:34:48 : [Sentinela-PK] - Teleportado para a posição 2117 2102
+13:35:10 : [Sentinela-PK] - Comprou uma skill Ligação_Espectral. Learn antigo: 2199154694252, Learn atual: 940948650752737792. Learn da skill: 219081680.
+13:35:10 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Ligação_Espectral aprendida com sucesso
+13:35:12 : [Sentinela-PK] - Comprou uma skill Ilusão. Learn antigo: 2207744628844, Learn atual: 940948650752737282. Learn da skill: 219081680.
+13:35:12 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Ilusão aprendida com sucesso
+13:35:13 : [Sentinela-PK] - Comprou uma skill Ataque_Fatal. Learn antigo: 2212039596140, Learn atual: 940948650752737281. Learn da skill: 219081680.
+13:35:13 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Ataque_Fatal aprendida com sucesso
+13:35:14 : [Sentinela-PK] - Comprou uma skill Agressividade. Learn antigo: 2229219465324, Learn atual: 940948650752737284. Learn da skill: 219081680.
+13:35:14 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Agressividade aprendida com sucesso
+13:35:14 : [Sentinela-PK] - Comprou uma skill Encantar_Gelo. Learn antigo: 2263579203692, Learn atual: 940948650752737288. Learn da skill: 219081680.
+13:35:14 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Encantar_Gelo aprendida com sucesso
+13:35:15 : [Sentinela-PK] - Comprou uma skill Imunidade. Learn antigo: 2332298680428, Learn atual: 940948650752737296. Learn da skill: 219081680.
+13:35:15 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Imunidade aprendida com sucesso
+13:35:16 : [Sentinela-PK] - Comprou uma skill Meditação. Learn antigo: 2469737633900, Learn atual: 940948650752737312. Learn da skill: 219081680.
+13:35:16 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Meditação aprendida com sucesso
+13:35:17 : [Sentinela-PK] - Comprou uma skill Lança_de_Ferro. Learn antigo: 2744615540844, Learn atual: 940948650752737344. Learn da skill: 219081680.
+13:35:17 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Lança_de_Ferro aprendida com sucesso
+13:35:18 : [Sentinela-PK] - [Mensagem do servidor]> Você ja aprendeu esta skill.
+13:35:29 : [Sentinela-PK] - Comprou uma skill Perícia_de_Caçador. Learn antigo: 7142662051948, Learn atual: 940948650752738304. Learn da skill: 219081680.
+13:35:29 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Perícia_de_Caçador aprendida com sucesso
+13:36:11 : [Sentinela-PK] - Comprou uma skill Evasão_Aprimorada. Learn antigo: 570092615473260, Learn atual: 940948650752868352. Learn da skill: 219081680.
+13:36:11 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Evasão_Aprimorada aprendida com sucesso
+13:36:15 : [Sentinela-PK] - Comprou uma skill Visão_de_Caçadora. Learn antigo: 1695992522315884, Learn atual: 940948650752999424. Learn da skill: 219081680.
+13:36:15 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Visão_de_Caçadora aprendida com sucesso
+13:36:16 : [Sentinela-PK] - Comprou uma skill Olhos_de_Aguia. Learn antigo: 3947792336001132, Learn atual: 940948650753261568. Learn da skill: 219081680.
+13:36:16 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Olhos_de_Aguia aprendida com sucesso
+13:36:22 : [Sentinela-PK] - [Mensagem do servidor]> Você precisa de mais pontos da linhagem.
+13:36:23 : [Sentinela-PK] - [Mensagem do servidor]> Você precisa de mais pontos da linhagem.
+13:36:27 : [Sentinela-PK] - Comprou uma skill Tempestade_de_Raios. Learn antigo: 3948342091815020, Learn atual: 940948650752737408. Learn da skill: 219081680.
+13:36:27 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Tempestade_de_Raios aprendida com sucesso
+13:36:58 : [Sentinela-PK] - Comprou uma skill Escudo_Dourado. Learn antigo: 3983526463903852, Learn atual: 940948650752745472. Learn da skill: 219081680.
+13:36:58 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Escudo_Dourado aprendida com sucesso
+13:37:05 : [Sentinela-PK] - Comprou uma skill Instinto_de_Predador. Learn antigo: 4001118649948268, Learn atual: 940948650752741376. Learn da skill: 219081680.
+13:37:05 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Instinto_de_Predador aprendida com sucesso
+13:37:10 : [Sentinela-PK] - Usado buff Escudo Dourado. Gold consumido: 20000. Gold atual: 91522086
+13:37:18 : [Sentinela-PK] - Comprou uma skill Explosão_Etérea. Learn antigo: 4071487394125932, Learn atual: 940948650752753664. Learn da skill: 219081680.
+13:37:18 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Explosão_Etérea aprendida com sucesso
+13:37:27 : [Sentinela-PK] - Comprou uma skill Vingança. Learn antigo: 4080283487148140, Learn atual: 940948650752739328. Learn da skill: 219081680.
+13:37:27 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Vingança aprendida com sucesso
+13:37:48 : [Sentinela-PK] - Teleportado para a posição 3649 3110
+13:38:05 : [Sentinela-PK] - Item Pedido_de_Caça(Kefra) [3436] [61 10 0 0 0 0] utilizado em 3642x 3110y
+13:38:05 : [Sentinela-PK] - Teleportado para a posição 2534 3897
+13:38:32 : [Sentinela-PK] - Morreu para SimioBleg 2528x 3896y
+13:38:33 : [Sentinela-PK] - Tentativa de mover enquanto morto. Posição: 2529x 3897y
+13:38:33 : [Sentinela-PK] - Tentativa de mover enquanto morto. Posição: 2529x 3897y
+13:38:34 : [Sentinela-PK] - Tentativa de mover enquanto morto. Posição: 2529x 3897y
+13:38:44 : [Sentinela-PK] - DoRecall - Enviado para cidade: 3656x 3138y
+13:38:44 : [Sentinela-PK] - Usuário reviveu
+13:38:45 : [Sentinela-PK] - CrackError - Points: 1 type: 5
+13:39:46 : [Sentinela-PK] - Moveu item Peitoral(A) [1646] [43 9 2 30 71 70] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+13:39:49 : [Sentinela-PK] - Moveu item Armadura [1656] [43 6 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+13:39:53 : [Sentinela-PK] - Moveu item Braçadeira(A) [1652] [43 9 54 18 72 30] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 4
+13:39:54 : [Sentinela-PK] - Moveu item Calça(A) [1649] [43 9 2 30 71 70] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 3
+13:39:56 : [Sentinela-PK] - Moveu item Peitoral(A) [1646] [43 9 2 30 71 70] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+13:40:17 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Foemablack obteve sucesso na composição de Skytalos(Anct)
+13:40:24 : [Sentinela-PK] - Teleportado para a posição 2117 2102
+13:40:43 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Foemablack obteve sucesso na composição de Arco_Divino(Anct)
+13:41:12 : [Sentinela-PK] - Moveu item Botas(A) [1655] [43 9 73 30 74 18] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 5
+13:42:04 : [Sentinela-PK] - Item Pedido_de_Caça(Kefra) [3436] [61 9 0 0 0 0] utilizado em 2123x 2112y
+13:42:04 : [Sentinela-PK] - Teleportado para a posição 2534 3897
+13:42:49 : [Sentinela-PK] - Item Luvas deletado [1658] [43 6 0 0 0 0]. Slot 8
+13:42:51 : [Sentinela-PK] - Item Calça deletado [1657] [43 6 0 0 0 0]. Slot 7
+13:42:53 : [Sentinela-PK] - Item Armadura deletado [1656] [43 6 0 0 0 0]. Slot 5
+13:42:54 : [Sentinela-PK] - Morreu para SimioBleg 2528x 3896y
+13:43:01 : [Sentinela-PK] - DoRecall - Enviado para cidade: 2098x 2098y
+13:43:01 : [Sentinela-PK] - Usuário reviveu
+13:43:05 : [Sentinela-PK] - Item Botas(A) deletado [1505] [43 9 73 30 74 18]. Slot 1
+13:43:08 : [Sentinela-PK] - Item Botas deletado [1659] [43 6 0 0 0 0]. Slot 2
+13:43:13 : [Sentinela-PK] - Item Túnica(A) deletado [1346] [43 9 2 30 71 70]. Slot 6
+13:43:15 : [Sentinela-PK] - Item Espada deletado [912] [43 9 0 0 0 0]. Slot 11
+13:44:05 : [Sentinela-PK] - Item Muro_de_Espinhos [668] [0 0 0 0 0 0] utilizado em 2120x 2118y
+13:44:05 : [Sentinela-PK] - Aprendido skill Muro_de_Espinhos
+13:44:06 : [Sentinela-PK] - Item Ressurreição [669] [0 0 0 0 0 0] utilizado em 2120x 2118y
+13:44:06 : [Sentinela-PK] - Aprendido skill Ressurreição
+13:44:07 : [Sentinela-PK] - Item Concentração [670] [0 0 0 0 0 0] utilizado em 2120x 2118y
+13:44:07 : [Sentinela-PK] - Aprendido skill Concentração
+13:44:08 : [Sentinela-PK] - Moveu item Brinco_de_Titã [592] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 8
+13:44:14 : [Sentinela-PK] - Item Força_Espectral [671] [0 0 0 0 0 0] utilizado em 2120x 2118y
+13:44:14 : [Sentinela-PK] - Aprendido skill Força_Espectral
+13:44:37 : [Sentinela-PK] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2108x 2113y. Posição do NPC: 2102x 2113y
+13:44:43 : [Sentinela-PK] - Moveu item Poção_Divina(15dias) [3380] [0 0 0 0 0 0] do tipo BANCO do slot 9 para tipo INVENTÁRIO slot 5
+13:44:44 : [Sentinela-PK] - Item Poção_Divina(15dias) [3380] [0 0 0 0 0 0] utilizado em 2107x 2115y
+13:44:44 : [Sentinela-PK] - Poção Divina utilizada até dia 28/02/2021 13:44:44
+13:44:56 : [Sentinela-PK] - [Mensagem do servidor]> Compra concluída!
+13:45:06 : [Sentinela-PK] - [Mensagem do servidor]> Compra concluída!
+13:45:16 : [Sentinela-PK] - Comando "/nig "
+13:45:16 : [Sentinela-PK] - [Mensagem do servidor]> !!134516
+13:45:28 : [Sentinela-PK] - [Mensagem do servidor]> Compra concluída!
+13:45:34 : [Sentinela-PK] - [Mensagem do servidor]> Compra concluída!
+13:46:03 : [Sentinela-PK] - [Mensagem do servidor]> Ative para poder utilizar
+13:46:07 : [Sentinela-PK] - [Mensagem do servidor]> Ativação concluída
+13:46:07 : [Sentinela-PK] - Aplicado tempo no item Conjunto_Yin-Yang [4150] [96 15 3 21 0 0] - 15
+13:46:11 : [Sentinela-PK] - Moveu item Conjunto_Yin-Yang [4150] [96 15 3 21 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 12
+13:46:15 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Chapéu(A) +10
+13:46:15 : [Sentinela-PK] - Moveu item Fada_Vermelha(3dias) [3902] [106 3 107 0 108 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 13
+13:46:17 : [Sentinela-PK] - Item Frango_Assado [3314] [61 10 0 0 0 0] utilizado em 2108x 2103y
+13:46:25 : [Sentinela-PK] - Item Pedido_de_Caça(Kefra) [3436] [61 8 0 0 0 0] utilizado em 2108x 2103y
+13:46:25 : [Sentinela-PK] - Teleportado para a posição 2534 3897
+13:46:39 : [Sentinela-PK] - Dropado item Armadura(A) [1211] [43 0 71 60 60 8] em 2529x 3898y - SimioBleg (1/252)
+13:46:51 : [Sentinela-PK] - Item Armadura(A) deletado [1211] [43 0 71 60 60 8]. Slot 2
+13:47:06 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Foemablack falhou a composição do item Calça(A) +10
+13:47:17 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Calça(A) +10
+13:47:42 : [Sentinela-PK] - Moveu item Poção_Poderosa [3431] [61 82 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo INVENTÁRIO slot 0
+13:47:48 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Foemablack falhou a composição do item Botas(A) +10
+13:47:56 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Foemablack falhou a composição do item Botas(A) +10
+13:48:06 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Foemablack falhou a composição do item Botas(A) +10
+13:48:11 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Braçadeira(A) +10
+13:48:41 : [Sentinela-PK] - Morreu para Batorero 2513x 3928y
+13:48:46 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Foemablack falhou a composição do item Botas(A) +10
+13:48:49 : [Sentinela-PK] - Usou uma skill estando com 0 de HP. SkillID: -1
+13:48:49 : [Sentinela-PK] - Usou uma skill estando com 0 de HP. SkillID: -1
+13:48:49 : [Sentinela-PK] - Usou uma skill estando com 0 de HP. SkillID: -1
+13:48:49 : [Sentinela-PK] - Usou uma skill estando com 0 de HP. SkillID: -1
+13:48:49 : [Sentinela-PK] - Usou uma skill estando com 0 de HP. SkillID: -1
+13:48:53 : [Sentinela-PK] - DoRecall - Enviado para cidade: 2093x 2095y
+13:48:53 : [Sentinela-PK] - Usuário reviveu
+13:49:49 : [Sentinela-PK] - Usado buff Escudo Dourado. Gold consumido: 23400. Gold atual: 88041828
+13:50:05 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Botas(A) +10
+13:50:13 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Botas(A) +10
+13:50:25 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Botas(A) +10
+13:50:33 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Botas(A) +10
+13:50:45 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Botas(A) +10
+13:51:29 : [Sentinela-PK] - Item Pedido_de_Caça(Kefra) [3436] [61 7 0 0 0 0] utilizado em 2107x 2104y
+13:51:29 : [Sentinela-PK] - Teleportado para a posição 2534 3897
+13:54:43 : [Sentinela-PK] - Dropado item Resto_de_Lactolerium [420] [59 54 59 4 59 47] em 2526x 3956y - SimioBleg (1/84)
+13:54:52 : [Sentinela-PK] - [Mensagem do servidor]> Compra concluída!
+13:55:07 : [Sentinela-PK] - [Mensagem do servidor]: Jogador MimAcher falhou a composição do item Armadura(A) +10
+13:55:18 : [Sentinela-PK] - [Mensagem do servidor]: Jogador MimAcher falhou a composição do item Armadura(A) +10
+13:55:33 : [Sentinela-PK] - Item Pedido_de_Caça(Kefra) [3436] [61 6 0 0 0 0] utilizado em 2533x 3964y
+13:55:33 : [Sentinela-PK] - Teleportado para a posição 2269 3910
+13:56:47 : [Sentinela-PK] - Moveu item Resto_de_Lactolerium [420] [59 54 59 4 59 47] do tipo INVENTÁRIO do slot 2 para tipo INVENTÁRIO slot 14
+13:56:48 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Chapéu(A) +10
+13:56:50 : [Sentinela-PK] - Moveu item Poção_Poderosa [3431] [61 100 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo INVENTÁRIO slot 1
+13:57:12 : [Sentinela-PK] - Dropado item Cristal_Thelion [4108] [0 0 0 0 0 0] em 2243x 3885y - Simio  (1/1)
+13:57:16 : [Sentinela-PK] - Item Cristal_Thelion [4108] [0 0 0 0 0 0] utilizado em 2243x 3885y
+13:57:16 : [Sentinela-PK] - [Mensagem do servidor]> Conclua a quest anterior para continuar
+13:57:22 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Peitoral(A) +10
+13:57:30 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Peitoral(A) +10
+13:57:46 : [Sentinela-PK] - Item Pedido_de_Caça(Kefra) [3436] [61 5 0 0 0 0] utilizado em 2237x 3885y
+13:57:46 : [Sentinela-PK] - Teleportado para a posição 2236 4044
+13:57:48 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Calça(A) +10
+13:58:14 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Calça(A) +10
+13:58:24 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Calça(A) +10
+13:58:44 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Braçadeira(A) +10
+13:58:47 : [Sentinela-PK] - Item Cristal_Thelion [4108] [0 0 0 0 0 0] utilizado em 2212x 4017y
+13:58:47 : [Sentinela-PK] - [Mensagem do servidor]> Conclua a quest anterior para continuar
+13:58:53 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Braçadeira(A) +10
+13:59:05 : [Sentinela-PK] - [Mensagem do servidor]: Jogador MimAcher falhou a composição do item Luvas(A) +10
+13:59:07 : [Sentinela-PK] - Dropado item Cristal_Elime [4106] [0 0 0 0 0 0] em 2203x 4016y - Funer Seamer (1/1)
+13:59:07 : [Sentinela-PK] - Dropado item Cristal_Elime [4106] [0 0 0 0 0 0] em 2203x 4016y - Funer Seamer (1/1)
+13:59:10 : [Sentinela-PK] - Item Cristal_Elime [4106] [0 0 0 0 0 0] utilizado em 2203x 4016y
+13:59:14 : [Sentinela-PK] - Item Cristal_Thelion [4108] [0 0 0 0 0 0] utilizado em 2203x 4016y
+13:59:14 : [Sentinela-PK] - [Mensagem do servidor]> Conclua a quest anterior para continuar
+13:59:25 : [Sentinela-PK] - [Mensagem do servidor]: Jogador MimAcher falhou a composição do item Botas(A) +10
+13:59:32 : [Sentinela-PK] - [Mensagem do servidor]: Jogador MimAcher falhou a composição do item Botas(A) +10
+13:59:40 : [Sentinela-PK] - [Mensagem do servidor]: Jogador MimAcher falhou a composição do item Botas(A) +10
+13:59:49 : [Sentinela-PK] - [Mensagem do servidor]: Jogador MimAcher falhou a composição do item Botas(A) +10
+13:59:51 : [Sentinela-PK] - Item Pedido_de_Caça(Kefra) [3436] [61 4 0 0 0 0] utilizado em 2203x 4016y
+13:59:51 : [Sentinela-PK] - Teleportado para a posição 2489 3919
+14:00:03 : [Sentinela-PK] - [Mensagem do servidor]: Jogador MimAcher falhou a composição do item Botas(A) +10
+14:00:07 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Braçadeira(A) +10
+14:00:14 : [Sentinela-PK] - [Mensagem do servidor]: Jogador MimAcher falhou a composição do item Botas(A) +10
+14:00:35 : [Sentinela-PK] - Dropado item Cristal_Noas [4109] [0 0 0 0 0 0] em 2501x 3906y - Batorero  (1/4)
+14:00:40 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Braçadeira(A) +10
+14:00:45 : [Sentinela-PK] - Item Cristal_Noas [4109] [0 0 0 0 0 0] utilizado em 2501x 3906y
+14:00:45 : [Sentinela-PK] - [Mensagem do servidor]> Conclua a quest anterior para continuar
+14:00:53 : [Sentinela-PK] - Item Cristal_Elime [4106] [0 0 0 0 0 0] utilizado em 2489x 3921y
+14:00:53 : [Sentinela-PK] - [Mensagem do servidor]> Você ja completou esta quest.
+14:01:23 : [Sentinela-PK] - Item Pedido_de_Caça(Kefra) [3436] [61 3 0 0 0 0] utilizado em 2489x 3921y
+14:01:23 : [Sentinela-PK] - Teleportado para a posição 2485 4043
+14:01:57 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Braçadeira(A) +10
+14:02:08 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Braçadeira(A) +10
+14:02:18 : [Sentinela-PK] - [Mensagem do servidor]: Jogador MimAcher falhou a composição do item Calça(A) +10
+14:02:27 : [Sentinela-PK] - [Mensagem do servidor]: Jogador MimAcher falhou a composição do item Calça(A) +10
+14:02:36 : [Sentinela-PK] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sentinela-PK
+Gold atual: 88041828
+Level atual: 398
+Experiência atual: 3818177154
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:32:30 horas
+Posição atual: 2522x 4013y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 32
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[39] [43 0 39 1 1 1]
+[02] - Peitoral(A)[1646] [43 9 2 30 71 70]
+[03] - Calça(A)[1649] [43 9 2 30 71 70]
+[04] - Braçadeira(A)[1652] [43 9 54 18 72 30]
+[05] - Botas(A)[1655] [43 9 73 30 74 18]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[08] - Brinco_de_Titã[592] [0 0 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 15 3 21 0 98]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 44]
+[14] - Unicórnio[2381] [166 67 100 60 10 0]
+
+[INVENTÁRIO]
+[00] - Poção_Poderosa[3431] [61 20 0 0 0 0]
+[01] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[02] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[03] - Pedido_de_Caça(Kefra)[3436] [61 2 0 0 0 0]
+[04] - Frango_Assado[3314] [61 9 0 0 0 0]
+[05] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[06] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[07] - Cristal_Noas[4109] [0 0 0 0 0 0]
+[08] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[09] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[14] - Resto_de_Lactolerium[420] [59 54 59 4 59 47]
+[49] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[54] - Ração_de_Grifo[2430] [96 1 61 119 0 0]
+[59] - Ração_de_Unicórnio[2429] [96 1 61 118 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:03:23 : [Sentinela-PK] - Usado buff Escudo Dourado. Gold consumido: 23400. Gold atual: 88018428
+14:04:05 : [Sentinela-PK] - RIICHARDD Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:04:05 : [Sentinela-PK] - 1 Personagem foi desconectado. Permaneceu 00:33:57 minutos online
+14:05:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (RIICHARDD) - IP: 179.232.255.49 Mac: (C0:67:2F:5A:E8:44). ClientId: 1
+14:05:23 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:05:23 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Chave_do_Pacote[5382] [96 3 0 0 0 0]
+[  4] - Poção_Divina(15dias)[3380] [0 0 0 0 0 0]
+[  5] - Chave_do_Pacote[5382] [96 3 0 0 0 0]
+[ 10] - Chave_do_Pacote[5382] [96 3 0 0 0 0]
+[ 14] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[ 15] - Chave_do_Pacote[5382] [96 3 0 0 0 0]
+[ 20] - Chave_do_Pacote[5382] [96 3 0 0 0 0]
+[ 25] - Chave_do_Pacote[5382] [96 4 0 0 0 0]
+[ 80] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[ 81] - Poção_Poderosa[3431] [61 75 0 0 0 0]
+[ 85] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[ 86] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 87] - [S]Caixa_Poção_de_Cura[3322] [61 120 0 0 0 0]
+[ 90] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[ 95] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[ 96] - Bolsa_do_Andarilho[3467] [0 0 0 0 0 0]
+[100] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[101] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[105] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[106] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[110] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[111] - Pesadelo_(A/Grupo)[3326] [0 0 0 0 0 0]
+[114] - Baú_de_Experiência[4140] [61 236 0 0 0 0]
+[119] - Frango_Assado[3314] [61 238 0 0 0 0]
+
+14:05:33 : Enviou senha numérica correta. 
+14:05:35 : Solicitou ir ao mundo...
+14:05:35 : Recebido pedido para entrar no jogo
+14:05:35 : Recebido informação do personagem completa.
+14:05:35 : [Sentinela-PK] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sentinela-PK
+Gold atual: 88018428
+Level atual: 398
+Experiência atual: 3818177154
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:11 horas
+Posição atual: 2099x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 32
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[39] [43 0 39 1 1 1]
+[02] - Peitoral(A)[1646] [43 9 2 30 71 70]
+[03] - Calça(A)[1649] [43 9 2 30 71 70]
+[04] - Braçadeira(A)[1652] [43 9 54 18 72 30]
+[05] - Botas(A)[1655] [43 9 73 30 74 18]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[08] - Brinco_de_Titã[592] [0 0 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 15 3 21 0 98]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 42]
+[14] - Unicórnio[2381] [188 65 100 60 10 0]
+
+[INVENTÁRIO]
+[00] - Poção_Poderosa[3431] [61 20 0 0 0 0]
+[01] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[02] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[03] - Pedido_de_Caça(Kefra)[3436] [61 2 0 0 0 0]
+[04] - Frango_Assado[3314] [61 9 0 0 0 0]
+[05] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[06] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[07] - Cristal_Noas[4109] [0 0 0 0 0 0]
+[08] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[09] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[14] - Resto_de_Lactolerium[420] [59 54 59 4 59 47]
+[49] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[54] - Ração_de_Grifo[2430] [96 1 61 119 0 0]
+[59] - Ração_de_Unicórnio[2429] [96 1 61 118 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:05:35 : [Sentinela-PK] - Personagem Sentinela-PK enviado ao mundo 2099x 2099y - Canal 1 - Cash da conta: 271250. PowerLevel: 3701
+14:05:35 : [Sentinela-PK] - Gold atual: 88018428. Classe: 3 Evolução: 1. Experiência: 3818177154. Nível: 398. Info: 32. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:05:35 : [Sentinela-PK] - Logou no personagem Sentinela-PK com poção divina ativo. Validade: 28/2/2021 13:44:44
+14:05:35 : [Sentinela-PK] - Logou no personagem Sentinela-PK com baú de experiência ativo. Tempo: 1362
+14:05:35 : [Sentinela-PK] - Logou no personagem Sentinela-PK com frango ativo. Tempo: 1670
+14:05:35 : [Sentinela-PK] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+14:05:35 : [Sentinela-PK] - Enviado informações do personagem
+14:05:37 : [Sentinela-PK] - Comando "/day "
+14:05:37 : [Sentinela-PK] - [Mensagem do servidor]> !#11 2
+14:05:48 : [Sentinela-PK] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:05:56 : [Sentinela-PK] - Item Pedido_de_Caça(Kefra) [3436] [61 2 0 0 0 0] utilizado em 2101x 2102y
+14:05:56 : [Sentinela-PK] - Teleportado para a posição 2485 4043
+14:07:34 : [Sentinela-PK] - Dropado item Cristal_Sylphed [4107] [0 0 0 0 0 0] em 2525x 4005y - Funer Sickler (1/1)
+14:07:34 : [Sentinela-PK] - Dropado item Cristal_Sylphed [4107] [0 0 0 0 0 0] em 2525x 4005y - Funer Sickler (1/189)
+14:07:37 : [Sentinela-PK] - Item Cristal_Sylphed [4107] [0 0 0 0 0 0] utilizado em 2525x 4005y
+14:07:41 : [Sentinela-PK] - Item Cristal_Noas [4109] [0 0 0 0 0 0] utilizado em 2525x 4005y
+14:07:41 : [Sentinela-PK] - [Mensagem do servidor]> Conclua a quest anterior para continuar
+14:07:44 : [Sentinela-PK] - Item Cristal_Elime [4106] [0 0 0 0 0 0] utilizado em 2525x 4005y
+14:07:44 : [Sentinela-PK] - [Mensagem do servidor]> Você ja completou esta quest.
+14:07:46 : [Sentinela-PK] - Item Cristal_Thelion [4108] [0 0 0 0 0 0] utilizado em 2525x 4005y
+14:07:49 : [Sentinela-PK] - Item Cristal_Sylphed deletado [4107] [0 0 0 0 0 0]. Slot 10
+14:07:51 : [Sentinela-PK] - Item Cristal_Noas deletado [4109] [0 0 0 0 0 0]. Slot 7
+14:07:52 : [Sentinela-PK] - Item Cristal_Elime deletado [4106] [0 0 0 0 0 0]. Slot 8
+14:08:40 : [Sentinela-PK] - Morreu para Simio 2523x 4008y
+14:08:47 : [Sentinela-PK] - DoRecall - Enviado para cidade: 2098x 2097y
+14:08:47 : [Sentinela-PK] - Usuário reviveu
+14:09:08 : [Sentinela-PK] - Item Pedido_de_Caça(Kult) [3435] [61 9 0 0 0 0] utilizado em 2121x 2106y
+14:09:08 : [Sentinela-PK] - Teleportado para a posição 1182 1714
+14:09:20 : [Sentinela-PK] - [Mensagem do servidor]> Saia do grupo para criar um.
+14:09:22 : [Sentinela-PK] - [Mensagem do servidor]> Saia do grupo para criar um.
+14:09:29 : [Sentinela-PK] - Usado buff Escudo Dourado. Gold consumido: 23400. Gold atual: 87995028
+14:11:13 : [Sentinela-PK] - Personagem deu personagem
+14:11:13 : [Sentinela-PK] - Recebeu 1906 de gold em 1 mobs no total. Total de gold: 87996934
+14:11:17 : Solicitou ir ao mundo...
+14:11:17 : Recebido pedido para entrar no jogo
+14:11:17 : Recebido informação do personagem completa.
+14:11:17 : [Sentinela-PK] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sentinela-PK
+Gold atual: 87996934
+Level atual: 393
+Experiência atual: 3618177154
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:05:49 horas
+Posição atual: 2092x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 224
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[39] [43 0 39 1 1 1]
+[02] - Peitoral(A)[1646] [43 9 2 30 71 70]
+[03] - Calça(A)[1649] [43 9 2 30 71 70]
+[04] - Braçadeira(A)[1652] [43 9 54 18 72 30]
+[05] - Botas(A)[1655] [43 9 73 30 74 18]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[08] - Brinco_de_Titã[592] [0 0 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 15 3 21 0 98]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 36]
+[14] - Unicórnio[2381] [229 43 100 60 10 0]
+
+[INVENTÁRIO]
+[00] - Poção_Poderosa[3431] [61 16 0 0 0 0]
+[01] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[03] - Pedido_de_Caça(Kefra)[3436] [61 1 0 0 0 0]
+[04] - Frango_Assado[3314] [61 9 0 0 0 0]
+[05] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[06] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[09] - Pedido_de_Caça(Kult)[3435] [61 8 0 0 0 0]
+[14] - Resto_de_Lactolerium[420] [59 54 59 4 59 47]
+[49] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[54] - Ração_de_Grifo[2430] [96 1 61 119 0 0]
+[59] - Ração_de_Unicórnio[2429] [96 1 61 118 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:11:17 : [Sentinela-PK] - Personagem Sentinela-PK enviado ao mundo 2092x 2106y - Canal 1 - Cash da conta: 271250. PowerLevel: 3716
+14:11:17 : [Sentinela-PK] - Gold atual: 87996934. Classe: 3 Evolução: 1. Experiência: 3618177154. Nível: 393. Info: 224. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:11:17 : [Sentinela-PK] - Logou no personagem Sentinela-PK com poção divina ativo. Validade: 28/2/2021 13:44:44
+14:11:17 : [Sentinela-PK] - Logou no personagem Sentinela-PK com baú de experiência ativo. Tempo: 1321
+14:11:17 : [Sentinela-PK] - Logou no personagem Sentinela-PK com frango ativo. Tempo: 1629
+14:11:17 : [Sentinela-PK] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+14:11:17 : [Sentinela-PK] - Enviado informações do personagem
+14:11:19 : [Sentinela-PK] - Comando "/day "
+14:11:19 : [Sentinela-PK] - [Mensagem do servidor]> !#11 2
+14:11:24 : [Sentinela-PK] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:11:35 : [Sentinela-PK] - Item Pedido_de_Caça(Kult) [3435] [61 8 0 0 0 0] utilizado em 2107x 2103y
+14:11:35 : [Sentinela-PK] - Teleportado para a posição 1182 1714
+14:11:38 : [Sentinela-PK] - Usado buff Escudo Dourado. Gold consumido: 23400. Gold atual: 87973534
+14:13:19 : [Sentinela-PK] - Dropado item Elmo(M) [1207] [43 0 59 0 3 5] em 1165x 1697y - Tauron (1/252)
+14:13:23 : [Sentinela-PK] - Item Elmo(M) deletado [1207] [43 0 59 0 3 5]. Slot 2
+14:14:20 : [Sentinela-PK] - Dropado item Gema_da_Siren [658] [0 0 0 0 0 0] em 1185x 1697y - Tauron (1/252)
+14:14:23 : [Sentinela-PK] - Recebeu 16951 de gold em 10 mobs no total. Total de gold: 87990485
+14:14:30 : [Sentinela-PK] - Dropado item Gema_da_Siren [658] [0 0 0 0 0 0] em 1186x 1697y - Tauron Bandido (1/252)
+14:14:41 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +12
+14:15:21 : [Sentinela-PK] - [Mensagem do servidor]> Só é permitido a entrada de membros da guilda.
+14:15:21 : [Sentinela-PK] - DoRecall - Enviado para cidade: 2087x 2106y
+14:16:33 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +12
+14:16:37 : [Sentinela-PK] - Comando "/Reino "
+14:16:37 : [Sentinela-PK] - [Mensagem do servidor]> Necessário ter um pergaminho do portal no inventário.
+14:16:45 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +12
+14:16:49 : [Sentinela-PK] - Teleportado para a posição 959 1760
+14:16:52 : [Sentinela-PK] - Clicado no NPC [Angela]. Face 107. Race: 2. GenerateId: 4369. Posição do usuário: 967x 1764y. Posição do NPC: 963x 1773y
+14:16:56 : [Sentinela-PK] - Clicado no NPC [Angela]. Face 107. Race: 2. GenerateId: 4369. Posição do usuário: 967x 1764y. Posição do NPC: 963x 1773y
+14:16:57 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +12
+14:17:08 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +13
+14:17:17 : [Sentinela-PK] - Teleportado para a posição 2117 2102
+14:17:25 : [Sentinela-PK] - Teleportado para a posição 2366 3878
+14:17:31 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Calça(A) para 13
+14:17:32 : [Sentinela-PK] - Clicado no NPC [Sobrevivente]. Face 1. Race: 3. GenerateId: 3419. Posição do usuário: 2368x 3883y. Posição do NPC: 2369x 3888y
+14:17:32 : [Sentinela-PK] - Nova Entrada Hall Kefra. Total: 25
+14:17:37 : [Sentinela-PK] - [Mensagem do servidor]> Você possui 24 entradas
+14:17:37 : [Sentinela-PK] - Teleportado para hallkefra. Entradas restantes: 24
+14:17:37 : [Sentinela-PK] - Teleportado para a posição 2366 3911
+14:17:37 : [Sentinela-PK] - Solicitado teleporte na posição 2365x 3894y e teleportado para 2366x 3911y
+14:17:39 : [Sentinela-PK] - [Mensagem do servidor]> Você possui 23 entradas
+14:17:39 : [Sentinela-PK] - Teleportado para hallkefra. Entradas restantes: 23
+14:17:39 : [Sentinela-PK] - Teleportado para a posição 2367 3911
+14:17:39 : [Sentinela-PK] - Solicitado teleporte na posição 2365x 3893y e teleportado para 2367x 3911y
+14:17:42 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +12
+14:17:52 : [Sentinela-PK] - Teleportado para a posição 3251 1704
+14:17:52 : [Sentinela-PK] - Solicitado teleporte na posição 2367x 3924y e teleportado para 3251x 1704y
+14:17:55 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +13
+14:18:06 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +13
+14:18:11 : [Sentinela-PK] - [Mensagem do servidor]: TETEU- falhou a refinação de Gleipnir(Anct) para 12
+14:18:13 : [Sentinela-PK] - Clicado no NPC [Urnamu]. Face 1. Race: 3. GenerateId: 3431. Posição do usuário: 3246x 1685y. Posição do NPC: 3247x 1685y
+14:18:42 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +13
+14:18:56 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +14
+14:19:03 : [Sentinela-PK] - Personagem deu personagem
+14:19:14 : Solicitou ir ao mundo...
+14:19:14 : Recebido pedido para entrar no jogo
+14:19:14 : Recebido informação do personagem completa.
+14:19:14 : [Sentinela-PK] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sentinela-PK
+Gold atual: 86987635
+Level atual: 393
+Experiência atual: 3618177154
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:13:40 horas
+Posição atual: 2087x 2106y
+
+Pontos NT: 0
+Entradas Hall: 23
+Info: 224
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[39] [43 0 39 1 1 1]
+[02] - Peitoral(A)[1646] [43 9 2 30 71 70]
+[03] - Calça(A)[1649] [43 9 2 30 71 70]
+[04] - Braçadeira(A)[1652] [43 9 54 18 72 30]
+[05] - Botas(A)[1655] [43 9 73 30 74 18]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[08] - Brinco_de_Titã[592] [0 0 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 15 3 21 0 98]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 28]
+[14] - Unicórnio[2381] [85 34 100 60 10 0]
+
+[INVENTÁRIO]
+[00] - Poção_Poderosa[3431] [61 16 0 0 0 0]
+[01] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[02] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[03] - Pedido_de_Caça(Kefra)[3436] [61 1 0 0 0 0]
+[04] - Frango_Assado[3314] [61 9 0 0 0 0]
+[05] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[06] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[07] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[08] - Poeira_de_Lactolerium[413] [61 240 0 0 0 0]
+[09] - Pedido_de_Caça(Kult)[3435] [61 7 0 0 0 0]
+[11] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[12] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[13] - Selo_do_Guerreiro[4146] [61 240 0 0 0 0]
+[14] - Resto_de_Lactolerium[420] [59 54 59 4 59 47]
+[49] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[54] - Ração_de_Grifo[2430] [96 1 61 119 0 0]
+[59] - Ração_de_Unicórnio[2429] [96 1 61 118 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:19:14 : [Sentinela-PK] - Personagem Sentinela-PK enviado ao mundo 2087x 2106y - Canal 1 - Cash da conta: 271250. PowerLevel: 3716
+14:19:14 : [Sentinela-PK] - Gold atual: 86987635. Classe: 3 Evolução: 1. Experiência: 3618177154. Nível: 393. Info: 224. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:19:14 : [Sentinela-PK] - Logou no personagem Sentinela-PK com poção divina ativo. Validade: 28/2/2021 13:44:44
+14:19:14 : [Sentinela-PK] - Logou no personagem Sentinela-PK com baú de experiência ativo. Tempo: 1264
+14:19:14 : [Sentinela-PK] - Logou no personagem Sentinela-PK com frango ativo. Tempo: 1572
+14:19:14 : [Sentinela-PK] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+14:19:14 : [Sentinela-PK] - Enviado informações do personagem
+14:19:17 : [Sentinela-PK] - Comando "/day "
+14:19:17 : [Sentinela-PK] - [Mensagem do servidor]> !#11 2
+14:19:24 : [Sentinela-PK] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:19:31 : [Sentinela-PK] - Teleportado para a posição 2482 1717
+14:19:44 : [Sentinela-PK] - Moveu item Pergaminho_de_Portal(10) [776] [61 10 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo INVENTÁRIO slot 48
+14:19:51 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Botas(A) para 14
+14:20:05 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +13
+14:20:05 : [Sentinela-PK] - Comando "/Reino "
+14:20:05 : [Sentinela-PK] - Teleportado para a posição 1760 1726
+14:20:05 : [Sentinela-PK] - Usado o comando /Reino
+14:20:12 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +13
+14:20:14 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +14
+14:20:24 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +14
+14:20:29 : [Sentinela-PK] - Clicado no NPC [Lindy]. Face 67. Race: 2. GenerateId: 3429. Posição do usuário: 1707x 1725y. Posição do NPC: 1704x 1725y
+14:20:31 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +14
+14:20:35 : [Sentinela-PK] - Desagrupando o item [413] [61 130 0 0 0 0]. Tirando 110 unidades. Novo item colocado no slot 10
+14:20:36 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +15
+14:20:37 : [Sentinela-PK] - Desagrupando o item [413] [61 100 0 0 0 0]. Tirando 10 unidades. Novo item colocado no slot 15
+14:20:39 : [Sentinela-PK] - Desagrupando o item [413] [61 90 0 0 0 0]. Tirando 10 unidades. Novo item colocado no slot 16
+14:20:40 : [Sentinela-PK] - Desagrupando o item [413] [61 89 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 17
+14:20:41 : [Sentinela-PK] - Desagrupando o item [413] [61 88 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 18
+14:20:41 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +12
+14:20:42 : [Sentinela-PK] - Desagrupando o item [413] [61 87 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 19
+14:20:43 : [Sentinela-PK] - Desagrupando o item [413] [61 86 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 20
+14:20:43 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Braçadeira(A) para 14
+14:20:45 : [Sentinela-PK] - Desagrupando o item [413] [61 85 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 21
+14:20:46 : [Sentinela-PK] - Desagrupando o item [413] [61 84 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 22
+14:20:47 : [Sentinela-PK] - Desagrupando o item [413] [61 83 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 23
+14:20:48 : [Sentinela-PK] - Desagrupando o item [413] [61 82 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 24
+14:20:49 : [Sentinela-PK] - Desagrupando o item [413] [61 81 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 25
+14:20:51 : [Sentinela-PK] - Desagrupando o item [413] [61 80 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 26
+14:20:53 : [Sentinela-PK] - Clicado no NPC [Lindy]. Face 67. Race: 2. GenerateId: 3429. Posição do usuário: 1706x 1725y. Posição do NPC: 1704x 1725y
+14:20:56 : [Sentinela-PK] - Lindy - 0 - Pergaminho_Selado [4127] [0 0 0 0 0 0] - 11
+14:20:56 : [Sentinela-PK] - Lindy - 1 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 17
+14:20:56 : [Sentinela-PK] - Lindy - 2 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 18
+14:20:56 : [Sentinela-PK] - Lindy - 3 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 19
+14:20:56 : [Sentinela-PK] - Lindy - 4 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 20
+14:20:56 : [Sentinela-PK] - [Mensagem do servidor]> Houve uma falha na composição do item.
+14:20:56 : [Sentinela-PK] - Composição de desbloqueio 355 efetuada com FALHA - 91/90
+14:20:56 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +13
+14:21:00 : [Sentinela-PK] - Item Selo_do_Guerreiro [4146] [61 240 0 0 0 0] utilizado em 1705x 1720y
+14:21:01 : [Sentinela-PK] - Item Selo_do_Guerreiro [4146] [61 239 0 0 0 0] utilizado em 1705x 1720y
+14:21:01 : [Sentinela-PK] - Item Selo_do_Guerreiro [4146] [61 238 0 0 0 0] utilizado em 1705x 1720y
+14:21:02 : [Sentinela-PK] - Clicado no NPC [Lindy]. Face 67. Race: 2. GenerateId: 3429. Posição do usuário: 1705x 1720y. Posição do NPC: 1704x 1725y
+14:21:07 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +12
+14:21:07 : [Sentinela-PK] - Lindy - 0 - Pergaminho_Selado [4127] [0 0 0 0 0 0] - 12
+14:21:07 : [Sentinela-PK] - Lindy - 1 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 21
+14:21:07 : [Sentinela-PK] - Lindy - 2 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 22
+14:21:07 : [Sentinela-PK] - Lindy - 3 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 23
+14:21:07 : [Sentinela-PK] - Lindy - 4 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 24
+14:21:07 : [Sentinela-PK] - Adicionado adicional de resistência na capa
+14:21:07 : [Sentinela-PK] - [Mensagem do servidor]> Composição concluída!
+14:21:07 : [Sentinela-PK] - Composição de desbloqueio 355 efetuada com SUCESSO 0- 1/90
+14:21:08 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +12
+14:21:18 : [Sentinela-PK] - Item Pedido_de_Caça(Kult) [3435] [61 7 0 0 0 0] utilizado em 1705x 1720y
+14:21:18 : [Sentinela-PK] - Teleportado para a posição 1182 1714
+14:21:26 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +14
+14:21:33 : [Sentinela-PK] - [Mensagem do servidor]: Gandra falhou a refinação de Balmung(Anct) para 13
+14:21:35 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +15
+14:21:42 : [Sentinela-PK] - [Mensagem do servidor]> Saia do grupo para criar um.
+14:22:38 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Peitoral(A) para 15
+14:22:49 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +14
+14:22:59 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +15
+14:23:12 : [Sentinela-PK] - Usado buff Escudo Dourado. Gold consumido: 23400. Gold atual: 85812435
+14:24:22 : [Sentinela-PK] - Item Pergaminho_Retorno_10x [411] [61 10 0 0 0 0] utilizado em 981x 1725y
+14:24:22 : [Sentinela-PK] - DoRecall - Enviado para cidade: 2508x 1713y
+14:24:26 : [Sentinela-PK] - [Mensagem do servidor]: TETEU- falhou a refinação de Armadura para 13
+14:24:32 : [Sentinela-PK] - Teleportado para a posição 2117 2102
+14:24:40 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +12
+14:25:02 : [Sentinela-PK] - Item Pedido_de_Caça(Kult) [3435] [61 6 0 0 0 0] utilizado em 2112x 2112y
+14:25:02 : [Sentinela-PK] - Teleportado para a posição 1634 1727
+14:25:16 : [Sentinela-PK] - Desagrupando o item [413] [61 79 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 20
+14:25:18 : [Sentinela-PK] - Desagrupando o item [413] [61 78 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 21
+14:25:19 : [Sentinela-PK] - Desagrupando o item [413] [61 77 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 22
+14:25:20 : [Sentinela-PK] - Desagrupando o item [413] [61 76 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 23
+14:25:23 : [Sentinela-PK] - Clicado no NPC [Lindy]. Face 67. Race: 2. GenerateId: 3429. Posição do usuário: 1705x 1725y. Posição do NPC: 1704x 1725y
+14:25:26 : [Sentinela-PK] - Lindy - 0 - Pergaminho_Selado [4127] [0 0 0 0 0 0] - 12
+14:25:26 : [Sentinela-PK] - Lindy - 1 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 20
+14:25:26 : [Sentinela-PK] - Lindy - 2 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 21
+14:25:26 : [Sentinela-PK] - Lindy - 3 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 22
+14:25:26 : [Sentinela-PK] - Lindy - 4 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 23
+14:25:26 : [Sentinela-PK] - Adicionado adicional de resistência na capa
+14:25:26 : [Sentinela-PK] - [Mensagem do servidor]> Composição concluída!
+14:25:26 : [Sentinela-PK] - Composição de desbloqueio 355 efetuada com SUCESSO 0- 54/90
+14:25:33 : [Sentinela-PK] - Desagrupando o item [413] [61 75 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 12
+14:25:33 : [Sentinela-PK] - [Mensagem do servidor]: Jogador BmMacho falhou a composição do item Botas(A) +10
+14:25:34 : [Sentinela-PK] - Desagrupando o item [413] [61 74 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 20
+14:25:36 : [Sentinela-PK] - Desagrupando o item [413] [61 73 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 21
+14:25:37 : [Sentinela-PK] - Desagrupando o item [413] [61 72 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 22
+14:25:38 : [Sentinela-PK] - Desagrupando o item [413] [61 71 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 23
+14:25:39 : [Sentinela-PK] - Clicado no NPC [Lindy]. Face 67. Race: 2. GenerateId: 3429. Posição do usuário: 1708x 1722y. Posição do NPC: 1704x 1725y
+14:25:42 : [Sentinela-PK] - Lindy - 0 - Pergaminho_Selado [4127] [0 0 0 0 0 0] - 17
+14:25:42 : [Sentinela-PK] - Lindy - 1 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 12
+14:25:42 : [Sentinela-PK] - Lindy - 2 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 20
+14:25:42 : [Sentinela-PK] - Lindy - 3 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 21
+14:25:42 : [Sentinela-PK] - Lindy - 4 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 22
+14:25:42 : [Sentinela-PK] - [Mensagem do servidor]> Composição incorreta
+14:25:47 : [Sentinela-PK] - Lindy - 0 - Pergaminho_Selado [4127] [0 0 0 0 0 0] - 17
+14:25:47 : [Sentinela-PK] - Lindy - 1 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 12
+14:25:47 : [Sentinela-PK] - Lindy - 2 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 20
+14:25:47 : [Sentinela-PK] - Lindy - 3 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 21
+14:25:47 : [Sentinela-PK] - Lindy - 4 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 22
+14:25:47 : [Sentinela-PK] - [Mensagem do servidor]> Composição incorreta
+14:25:53 : [Sentinela-PK] - Item Selo_do_Guerreiro [4146] [61 237 0 0 0 0] utilizado em 1708x 1722y
+14:25:54 : [Sentinela-PK] - Item Selo_do_Guerreiro [4146] [61 236 0 0 0 0] utilizado em 1708x 1722y
+14:25:54 : [Sentinela-PK] - Item Selo_do_Guerreiro [4146] [61 235 0 0 0 0] utilizado em 1708x 1722y
+14:25:55 : [Sentinela-PK] - [Mensagem do servidor]: Jogador BmMacho falhou a composição do item Botas(A) +10
+14:25:55 : [Sentinela-PK] - Item Selo_do_Guerreiro [4146] [61 234 0 0 0 0] utilizado em 1708x 1722y
+14:25:56 : [Sentinela-PK] - Item Selo_do_Guerreiro [4146] [61 233 0 0 0 0] utilizado em 1708x 1722y
+14:25:57 : [Sentinela-PK] - Clicado no NPC [Lindy]. Face 67. Race: 2. GenerateId: 3429. Posição do usuário: 1708x 1722y. Posição do NPC: 1704x 1725y
+14:26:01 : [Sentinela-PK] - Lindy - 0 - Pergaminho_Selado [4127] [0 0 0 0 0 0] - 17
+14:26:01 : [Sentinela-PK] - Lindy - 1 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 12
+14:26:01 : [Sentinela-PK] - Lindy - 2 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 20
+14:26:01 : [Sentinela-PK] - Lindy - 3 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 21
+14:26:01 : [Sentinela-PK] - Lindy - 4 - Poeira_de_Lactolerium [413] [61 1 0 0 0 0] - 22
+14:26:01 : [Sentinela-PK] - [Mensagem do servidor]> Composição incorreta
+14:26:03 : [Sentinela-PK] - [Mensagem do servidor]: Gandra falhou a refinação de Balmung(Anct) para 13
+14:26:08 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +15
+14:26:16 : [Sentinela-PK] - Item Pedido_de_Caça(Kult) [3435] [61 5 0 0 0 0] utilizado em 1705x 1721y
+14:26:16 : [Sentinela-PK] - Teleportado para a posição 1181 1713
+14:26:34 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +15
+14:26:37 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +12
+14:26:59 : [Sentinela-PK] - [Mensagem do servidor]: TETEU- falhou a refinação de Armadura para 13
+14:27:10 : [Sentinela-PK] - [Mensagem do servidor]: TETEU- falhou a refinação de Armadura para 12
+14:27:18 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +13
+14:28:01 : [Sentinela-PK] - [Mensagem do servidor]: Gandra falhou a refinação de Balmung(Anct) para 14
+14:28:13 : [Sentinela-PK] - [Mensagem do servidor]: Gandra falhou a refinação de Balmung(Anct) para 13
+14:28:20 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +12
+14:28:24 : [Sentinela-PK] - Dropado item Luvas(M) [1216] [43 0 72 10 59 0] em 1196x 1717y - Tauron (1/252)
+14:28:32 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:28:47 : [Sentinela-PK] - [Mensagem do servidor]: Gandra falhou a refinação de Balmung(Anct) para 12
+14:29:17 : [Sentinela-PK] - [Mensagem do servidor]: Jogador BmMacho falhou a composição do item Calça(A) +10
+14:29:18 : [Sentinela-PK] - Agrupando o item Poeira_de_Lactolerium [413] [61 1 0 0 0 0] com o item Poeira_de_Lactolerium [413] [61 1 0 0 0 0]
+14:29:18 : [Sentinela-PK] - O agrupamento foi efetuado de slot 23 tipo INVENTÁRIO para slot 22 tipo INVENTÁRIO
+14:29:20 : [Sentinela-PK] - Agrupando o item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] com o item Poeira_de_Lactolerium [413] [61 1 0 0 0 0]
+14:29:20 : [Sentinela-PK] - O agrupamento foi efetuado de slot 22 tipo INVENTÁRIO para slot 21 tipo INVENTÁRIO
+14:29:21 : [Sentinela-PK] - Agrupando o item Poeira_de_Lactolerium [413] [61 1 0 0 0 0] com o item Poeira_de_Lactolerium [413] [61 3 0 0 0 0]
+14:29:21 : [Sentinela-PK] - O agrupamento foi efetuado de slot 26 tipo INVENTÁRIO para slot 21 tipo INVENTÁRIO
+14:29:23 : [Sentinela-PK] - Agrupando o item Poeira_de_Lactolerium [413] [61 1 0 0 0 0] com o item Poeira_de_Lactolerium [413] [61 1 0 0 0 0]
+14:29:23 : [Sentinela-PK] - O agrupamento foi efetuado de slot 25 tipo INVENTÁRIO para slot 20 tipo INVENTÁRIO
+14:29:24 : [Sentinela-PK] - Moveu item  [0] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 25 para tipo INVENTÁRIO slot 21
+14:29:25 : [Sentinela-PK] - Agrupando o item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] com o item Poeira_de_Lactolerium [413] [61 10 0 0 0 0]
+14:29:25 : [Sentinela-PK] - O agrupamento foi efetuado de slot 20 tipo INVENTÁRIO para slot 15 tipo INVENTÁRIO
+14:29:27 : [Sentinela-PK] - Agrupando o item Poeira_de_Lactolerium [413] [61 4 0 0 0 0] com o item Poeira_de_Lactolerium [413] [61 12 0 0 0 0]
+14:29:27 : [Sentinela-PK] - O agrupamento foi efetuado de slot 25 tipo INVENTÁRIO para slot 15 tipo INVENTÁRIO
+14:29:28 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +12
+14:29:28 : [Sentinela-PK] - Agrupando o item Poeira_de_Lactolerium [413] [61 10 0 0 0 0] com o item Poeira_de_Lactolerium [413] [61 16 0 0 0 0]
+14:29:28 : [Sentinela-PK] - O agrupamento foi efetuado de slot 16 tipo INVENTÁRIO para slot 15 tipo INVENTÁRIO
+14:29:31 : [Sentinela-PK] - Agrupando o item Poeira_de_Lactolerium [413] [61 26 0 0 0 0] com o item Poeira_de_Lactolerium [413] [61 1 0 0 0 0]
+14:29:31 : [Sentinela-PK] - O agrupamento foi efetuado de slot 15 tipo INVENTÁRIO para slot 12 tipo INVENTÁRIO
+14:29:32 : [Sentinela-PK] - Agrupando o item Poeira_de_Lactolerium [413] [61 27 0 0 0 0] com o item Poeira_de_Lactolerium [413] [61 71 0 0 0 0]
+14:29:32 : [Sentinela-PK] - O agrupamento foi efetuado de slot 12 tipo INVENTÁRIO para slot 10 tipo INVENTÁRIO
+14:29:34 : [Sentinela-PK] - Agrupando o item Poeira_de_Lactolerium [413] [61 98 0 0 0 0] com o item Poeira_de_Lactolerium [413] [61 130 0 0 0 0]
+14:29:34 : [Sentinela-PK] - O agrupamento foi efetuado de slot 10 tipo INVENTÁRIO para slot 8 tipo INVENTÁRIO
+14:29:35 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:29:38 : [Sentinela-PK] - Item Gema_da_Siren deletado [658] [0 0 0 0 0 0]. Slot 7
+14:29:43 : [Sentinela-PK] - Item Gema_da_Siren deletado [658] [0 0 0 0 0 0]. Slot 2
+14:29:46 : [Sentinela-PK] - Moveu item Pergaminho_Retorno_10x [411] [61 9 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo INVENTÁRIO slot 29
+14:30:10 : [Sentinela-PK] - Recebeu 17636 de gold em 10 mobs no total. Total de gold: 84828227
+14:30:11 : [Sentinela-PK] - Comando "/ @ PESA ALGUEM"
+14:30:11 : [Sentinela-PK] - Mensagem enviada: @ PESA ALGUEM
+14:30:16 : [Sentinela-PK] - Comando "/ @ PESA ALGUEM"
+14:30:16 : [Sentinela-PK] - [Mensagem do servidor]> Tempo mínimo para enviar outra mensagem é de 5 segundos.
+14:30:24 : [Sentinela-PK] - Comando "/ @ ALGEUM LEVANDO PESA"
+14:30:24 : [Sentinela-PK] - Mensagem enviada: @ ALGEUM LEVANDO PESA
+14:30:26 : [Sentinela-PK] - Dropado item Braçadeira(M) [1651] [43 1 72 15 74 12] em 1194x 1715y - Tauron (1/252)
+14:30:31 : [Sentinela-PK] - [Mensagem do servidor]: I-Zoe-I falhou a refinação de Calça(A) para 13
+14:30:41 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage falhou a composição do item Martelo_Assassino(Anct) +10
+14:30:42 : [Sentinela-PK] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:30:42 : [Sentinela-PK] - Level UP para level 394. Ev: 1/1 - 1197x 1717y
+14:30:54 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +13
+14:31:00 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd falhou a composição do item Calça +10
+14:31:02 : [Sentinela-PK] - [Mensagem do servidor]: I-Zoe-I falhou a refinação de Calça(A) para 12
+14:31:03 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +14
+14:31:12 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +15
+14:31:23 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd falhou a composição do item Calça +10
+14:31:25 : [Sentinela-PK] - [Mensagem do servidor]: I-Zoe-I falhou a refinação de Luvas(A) para 13
+14:31:25 : [Sentinela-PK] - Item Braçadeira(M) deletado [1651] [43 1 72 15 74 12]. Slot 2
+14:31:29 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:31:34 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +12
+14:31:40 : [Sentinela-PK] - Dropado item Chapéu(M) [1342] [43 0 59 0 59 0] em 1194x 1717y - Tauron (1/252)
+14:31:44 : [Sentinela-PK] - Item Chapéu(M) deletado [1342] [43 0 59 0 59 0]. Slot 2
+14:31:48 : [Sentinela-PK] - [Mensagem do servidor]: I-Zoe-I falhou a refinação de Luvas(A) para 12
+14:32:02 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +13
+14:32:03 : [Sentinela-PK] - [Mensagem do servidor]: I-Zoe-I falhou a refinação de Túnica(A) para 13
+14:32:14 : [Sentinela-PK] - Recebeu 18314 de gold em 10 mobs no total. Total de gold: 84846541
+14:32:20 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:32:32 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +12
+14:32:34 : [Sentinela-PK] - Comando "/ @ ALGEUM LEVANDO PESA"
+14:32:34 : [Sentinela-PK] - Mensagem enviada: @ ALGEUM LEVANDO PESA
+14:32:51 : [Sentinela-PK] - [Mensagem do servidor]: I-Zoe-I falhou a refinação de Túnica(A) para 13
+14:33:06 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:33:16 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd falhou a composição do item Botas +10
+14:33:18 : [Sentinela-PK] - Item Pergaminho_Retorno_10x [411] [61 9 0 0 0 0] utilizado em 1195x 1716y
+14:33:18 : [Sentinela-PK] - DoRecall - Enviado para cidade: 2096x 2099y
+14:33:22 : [Sentinela-PK] - [Mensagem do servidor]: TETEU- falhou a refinação de Luvas para 14
+14:33:30 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd falhou a composição do item Botas +10
+14:33:35 : [Sentinela-PK] - O login RICHARDD tentou logar na conta com o mesmo mac.
+14:33:38 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +13
+14:33:44 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Martelo_Assassino(Anct) para 12
+14:33:45 : [Sentinela-PK] - [Mensagem do servidor]: I-Zoe-I falhou a refinação de Túnica(A) para 12
+14:33:50 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 228 0 0 0 0] utilizado em 0x 0y
+14:33:50 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+14:33:50 : [Sentinela-PK] - Item Brinco_de_Titã refinado com sucesso para 1 - [592] [0 0 0 0 0 0] 64/100
+14:33:53 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 227 0 0 0 0] utilizado em 0x 0y
+14:33:53 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+14:33:53 : [Sentinela-PK] - Item Brinco_de_Titã refinado com sucesso para 2 - [592] [43 1 0 0 0 0] 87/100
+14:33:55 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 226 0 0 0 0] utilizado em 0x 0y
+14:33:55 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+14:33:55 : [Sentinela-PK] - Item Brinco_de_Titã refinado com sucesso para 3 - [592] [43 2 0 0 0 0] 16/100
+14:33:57 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +13
+14:33:57 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 225 0 0 0 0] utilizado em 0x 0y
+14:33:57 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+14:33:57 : [Sentinela-PK] - Item Brinco_de_Titã refinado com sucesso para 4 - [592] [43 3 0 0 0 0] 89/100
+14:34:00 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 224 0 0 0 0] utilizado em 0x 0y
+14:34:00 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+14:34:00 : [Sentinela-PK] - Item Brinco_de_Titã refinado com sucesso para 5 - [592] [43 4 0 0 0 0] 98/100
+14:34:03 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 223 0 0 0 0] utilizado em 0x 0y
+14:34:03 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+14:34:03 : [Sentinela-PK] - Item Brinco_de_Titã refinado com sucesso para 6 - [592] [43 5 0 0 0 0] 41/100
+14:34:05 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 222 0 0 0 0] utilizado em 0x 0y
+14:34:05 : [Sentinela-PK] - [Mensagem do servidor]> Refinação NÃO sucedida.
+14:34:05 : [Sentinela-PK] - Falha na refinação de Brinco_de_Titã para 7 - [592] [43 6 0 0 0 0] 66/65
+14:34:07 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 221 0 0 0 0] utilizado em 0x 0y
+14:34:07 : [Sentinela-PK] - [Mensagem do servidor]> Refinação NÃO sucedida.
+14:34:07 : [Sentinela-PK] - Falha na refinação de Brinco_de_Titã para 7 - [592] [43 6 0 0 0 0] 67/65
+14:34:09 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 220 0 0 0 0] utilizado em 0x 0y
+14:34:09 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+14:34:09 : [Sentinela-PK] - Item Brinco_de_Titã refinado com sucesso para 7 - [592] [43 6 0 0 0 0] 62/65
+14:34:09 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +14
+14:34:11 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd falhou a composição do item Botas +10
+14:34:12 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 219 0 0 0 0] utilizado em 0x 0y
+14:34:12 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+14:34:12 : [Sentinela-PK] - Item Brinco_de_Titã refinado com sucesso para 8 - [592] [43 7 0 0 0 0] 40/50
+14:34:14 : [Sentinela-PK] - [Mensagem do servidor]: I-Zoe-I falhou a refinação de Botas(A) para 14
+14:34:14 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 218 0 0 0 0] utilizado em 0x 0y
+14:34:14 : [Sentinela-PK] - [Mensagem do servidor]> Refinação NÃO sucedida.
+14:34:14 : [Sentinela-PK] - Falha na refinação de Brinco_de_Titã para 9 - [592] [43 8 0 0 0 0] 82/45
+14:34:18 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 217 0 0 0 0] utilizado em 0x 0y
+14:34:18 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+14:34:18 : [Sentinela-PK] - Item Brinco_de_Titã refinado com sucesso para 9 - [592] [43 8 0 0 0 0] 12/45
+14:34:22 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 216 0 0 0 0] utilizado em 0x 0y
+14:34:22 : [Sentinela-PK] - [Mensagem do servidor]> Impossível refinar mais este item.
+14:34:23 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +15
+14:34:33 : [Sentinela-PK] - Teleportado para a posição 2482 1717
+14:34:41 : [Sentinela-PK] - Teleportado para a posição 1970 1711
+14:34:41 : [Sentinela-PK] - Solicitado teleporte na posição 2454x 1717y e teleportado para 1970x 1711y
+14:34:59 : [Sentinela-PK] - [Mensagem do servidor]: I-Zoe-I falhou a refinação de Botas(A) para 13
+14:35:15 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +12
+14:35:18 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +12
+14:35:24 : [Sentinela-PK] - [Mensagem do servidor]> Compra concluída!
+14:35:25 : [Sentinela-PK] - Comando "/nig "
+14:35:25 : [Sentinela-PK] - [Mensagem do servidor]> !!143525
+14:35:28 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +13
+14:35:29 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 50 0 0 0 0] utilizado em 1967x 1769y
+14:35:29 : [Sentinela-PK] - [Mensagem do servidor]> Use na Zona Elemental da Água!
+14:35:33 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 50 0 0 0 0] utilizado em 1965x 1775y
+14:35:33 : [Sentinela-PK] - Teleportado para a posição 1216 3647
+14:35:33 : [Sentinela-PK] - Água 3182 - Grupo teleportado para a área. Entradas restantes: 1080
+14:35:43 : [Sentinela-PK] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na refinação item +14
+14:36:00 : [Sentinela-PK] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:36:00 : [Sentinela-PK] - Level UP para level 395. Ev: 1/1 - 1212x 3644y
+14:36:16 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:36:17 : [Sentinela-PK] - Usado buff Escudo Dourado. Gold consumido: 23400. Gold atual: 84833292
+14:36:22 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Balmung(Anct) para 13
+14:36:33 : [Sentinela-PK] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1215x 3647y. Teleportado para ""
+14:36:33 : [Sentinela-PK] - Teleportado para a posição 1964 1769
+14:36:46 : [Sentinela-PK] - Teleportado para a posição 1217 3648
+14:36:46 : [Sentinela-PK] - Água 3182 - Grupo de TETEU-. Entradas restantes: 1079
+14:36:49 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:36:50 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +12
+14:37:12 : [Sentinela-PK] - [Mensagem do servidor]: I-Zoe-I falhou a refinação de Túnica para 13
+14:37:22 : [Sentinela-PK] - [Mensagem do servidor]: I-Zoe-I falhou a refinação de Botass para 13
+14:37:30 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +13
+14:37:32 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +13
+14:37:41 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +14
+14:37:52 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Balmung(Anct) para 15
+14:37:52 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1214x 3646y
+14:37:52 : [Sentinela-PK] - [Mensagem do servidor]> Use na Zona Elemental da Água!
+14:38:04 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Balmung(Anct) para 14
+14:38:16 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +13
+14:38:26 : [Sentinela-PK] - Item Pergaminho_Retorno_10x [411] [61 8 0 0 0 0] utilizado em 1216x 3646y
+14:38:26 : [Sentinela-PK] - DoRecall - Enviado para cidade: 2499x 1717y
+14:38:37 : [Sentinela-PK] - Teleportado para a posição 1970 1711
+14:38:37 : [Sentinela-PK] - Solicitado teleporte na posição 2453x 1717y e teleportado para 1970x 1711y
+14:38:38 : [Sentinela-PK] - CrackError - Points: 1 type: 5
+14:38:45 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Balmung(Anct) para 14
+14:38:57 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:38:57 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:38:58 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:38:58 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:38:58 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:38:58 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:38:59 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:38:59 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:38:59 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +13
+14:38:59 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:38:59 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:00 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:00 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:00 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:00 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:01 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:01 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:02 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:02 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:02 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:02 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:03 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:03 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:03 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:03 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:04 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:04 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:04 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:04 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:05 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:05 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:05 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:05 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:06 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:06 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:07 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:07 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:07 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:07 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:08 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:08 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:08 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:08 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:09 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:09 : [Sentinela-PK] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+14:39:09 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:09 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:39:10 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:10 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:39:11 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:11 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:39:11 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1774y
+14:39:11 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:39:29 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Balmung(Anct) para 14
+14:39:34 : [Sentinela-PK] - Comando "/nig "
+14:39:34 : [Sentinela-PK] - [Mensagem do servidor]> !!143934
+14:39:35 : [Sentinela-PK] - Comando "/nig "
+14:39:35 : [Sentinela-PK] - [Mensagem do servidor]> !!143935
+14:39:35 : [Sentinela-PK] - Comando "/nig "
+14:39:35 : [Sentinela-PK] - [Mensagem do servidor]> !!143935
+14:39:35 : [Sentinela-PK] - Comando "/nig "
+14:39:35 : [Sentinela-PK] - [Mensagem do servidor]> !!143935
+14:39:35 : [Sentinela-PK] - Comando "/nig "
+14:39:35 : [Sentinela-PK] - [Mensagem do servidor]> !!143935
+14:39:35 : [Sentinela-PK] - Comando "/nig "
+14:39:35 : [Sentinela-PK] - [Mensagem do servidor]> !!143935
+14:39:35 : [Sentinela-PK] - Comando "/nig "
+14:39:35 : [Sentinela-PK] - [Mensagem do servidor]> !!143935
+14:39:35 : [Sentinela-PK] - Comando "/nig "
+14:39:35 : [Sentinela-PK] - [Mensagem do servidor]> !!143935
+14:39:35 : [Sentinela-PK] - Comando "/nig "
+14:39:35 : [Sentinela-PK] - [Mensagem do servidor]> !!143935
+14:39:35 : [Sentinela-PK] - O pacote recebido esperava tamanho 160 e recebemos 148
+14:39:36 : [Sentinela-PK] - Comando "/nig "
+14:39:36 : [Sentinela-PK] - [Mensagem do servidor]> !!143936
+14:39:36 : [Sentinela-PK] - Comando "/nig "
+14:39:36 : [Sentinela-PK] - [Mensagem do servidor]> !!143936
+14:39:36 : [Sentinela-PK] - Comando "/nig "
+14:39:36 : [Sentinela-PK] - [Mensagem do servidor]> !!143936
+14:39:36 : [Sentinela-PK] - Comando "/nig "
+14:39:36 : [Sentinela-PK] - [Mensagem do servidor]> !!143936
+14:39:36 : [Sentinela-PK] - Comando "/nig "
+14:39:36 : [Sentinela-PK] - [Mensagem do servidor]> !!143936
+14:39:36 : [Sentinela-PK] - Comando "/nig "
+14:39:36 : [Sentinela-PK] - [Mensagem do servidor]> !!143936
+14:39:36 : [Sentinela-PK] - Comando "/nig "
+14:39:36 : [Sentinela-PK] - [Mensagem do servidor]> !!143936
+14:39:36 : [Sentinela-PK] - Comando "/nig "
+14:39:36 : [Sentinela-PK] - [Mensagem do servidor]> !!143936
+14:39:36 : [Sentinela-PK] - Comando "/nig "
+14:39:36 : [Sentinela-PK] - [Mensagem do servidor]> !!143936
+14:39:36 : [Sentinela-PK] - Comando "/nig "
+14:39:36 : [Sentinela-PK] - [Mensagem do servidor]> !!143936
+14:39:36 : [Sentinela-PK] - Posição nRecvPosition - nProcPosition é inválida. Valor 8
+14:39:38 : [Sentinela-PK] - Comando "/nig "
+14:39:38 : [Sentinela-PK] - [Mensagem do servidor]> !!143938
+14:39:38 : [Sentinela-PK] - Comando "/nig "
+14:39:38 : [Sentinela-PK] - [Mensagem do servidor]> !!143938
+14:39:38 : [Sentinela-PK] - Comando "/nig "
+14:39:38 : [Sentinela-PK] - [Mensagem do servidor]> !!143938
+14:39:38 : [Sentinela-PK] - Comando "/nig "
+14:39:38 : [Sentinela-PK] - [Mensagem do servidor]> !!143938
+14:39:38 : [Sentinela-PK] - Comando "/nig "
+14:39:38 : [Sentinela-PK] - [Mensagem do servidor]> !!143938
+14:39:43 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Balmung(Anct) para 13
+14:39:45 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1773y
+14:39:45 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:39:45 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1773y
+14:39:45 : [Sentinela-PK] - O usuário usou itens muito rapidamente. Tempo para usar o item: 0. Item: Pergaminho_da_Água(A)LV1
+14:39:45 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:39:45 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1773y
+14:39:45 : [Sentinela-PK] - O usuário usou itens muito rapidamente. Tempo para usar o item: 0. Item: Pergaminho_da_Água(A)LV1
+14:39:45 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:39:45 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1773y
+14:39:45 : [Sentinela-PK] - O usuário usou itens muito rapidamente. Tempo para usar o item: 0. Item: Pergaminho_da_Água(A)LV1
+14:39:45 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:39:45 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1773y
+14:39:45 : [Sentinela-PK] - O usuário usou itens muito rapidamente. Tempo para usar o item: 0. Item: Pergaminho_da_Água(A)LV1
+14:39:45 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:39:45 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1773y
+14:39:45 : [Sentinela-PK] - O usuário usou itens muito rapidamente. Tempo para usar o item: 0. Item: Pergaminho_da_Água(A)LV1
+14:39:45 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:39:45 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1773y
+14:39:45 : [Sentinela-PK] - O usuário usou itens muito rapidamente. Tempo para usar o item: 0. Item: Pergaminho_da_Água(A)LV1
+14:39:45 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:39:45 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1773y
+14:39:45 : [Sentinela-PK] - O usuário usou itens muito rapidamente. Tempo para usar o item: 0. Item: Pergaminho_da_Água(A)LV1
+14:39:45 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:39:46 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1773y
+14:39:46 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:39:49 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1773y
+14:39:49 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:39:49 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1773y
+14:39:49 : [Sentinela-PK] - O usuário usou itens muito rapidamente. Tempo para usar o item: 0. Item: Pergaminho_da_Água(A)LV1
+14:39:49 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:39:50 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1773y
+14:39:50 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:39:50 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1965x 1773y
+14:39:50 : [Sentinela-PK] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+14:40:02 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +12
+14:40:26 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +13
+14:41:12 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +14
+14:41:34 : [Sentinela-PK] - [Mensagem do servidor]: I-Zoe-I falhou a refinação de Calça para 14
+14:41:34 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +15
+14:41:43 : [Sentinela-PK] - [Mensagem do servidor]: BmMacho falhou na composição do item Foice_Platinada para Ancient
+14:41:46 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +12
+14:42:02 : [Sentinela-PK] - Teleportado para a posição 1341 3517
+14:42:02 : [Sentinela-PK] - Água 3182 - Grupo de Dark-Foema. Entradas restantes: 1078
+14:42:03 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:42:19 : [Sentinela-PK] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:42:19 : [Sentinela-PK] - Level UP para level 396. Ev: 1/1 - 1341x 3517y
+14:42:28 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +13
+14:42:29 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +12
+14:42:37 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:42:39 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +12
+14:42:49 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +13
+14:42:56 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:43:07 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +13
+14:43:14 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +14
+14:43:38 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +13
+14:43:40 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:43:55 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +14
+14:44:23 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +15
+14:44:34 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +14
+14:44:38 : [Sentinela-PK] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1341x 3517y. Teleportado para ""
+14:44:38 : [Sentinela-PK] - Teleportado para a posição 1964 1769
+14:44:41 : [Sentinela-PK] - Teleportado para a posição 1217 3648
+14:44:41 : [Sentinela-PK] - Água 3182 - Grupo de Dark-Foema. Entradas restantes: 1077
+14:44:43 : [Sentinela-PK] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:44:43 : [Sentinela-PK] - Level UP para level 397. Ev: 1/1 - 1217x 3648y
+14:44:46 : [Sentinela-PK] - [Mensagem do servidor]: I-Zoe-I falhou a refinação de Calça para 15
+14:45:01 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +14
+14:45:01 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:45:20 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +15
+14:45:21 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:45:37 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:45:51 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +12
+14:46:08 : [Sentinela-PK] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:46:08 : [Sentinela-PK] - Level UP para level 398. Ev: 1/1 - 1213x 3646y
+14:46:11 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +13
+14:46:26 : [Sentinela-PK] - [Mensagem do servidor]: BmMacho falhou na composição do item Lança para Ancient
+14:46:46 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +14
+14:47:04 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +15
+14:47:07 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +15
+14:47:18 : [Sentinela-PK] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1213x 3646y. Teleportado para ""
+14:47:18 : [Sentinela-PK] - Teleportado para a posição 1965 1770
+14:47:19 : [Sentinela-PK] - [Mensagem do servidor]: BmMacho falhou na composição do item Lança para Ancient
+14:47:21 : [Sentinela-PK] - Teleportado para a posição 1213 3645
+14:47:21 : [Sentinela-PK] - Água 3182 - Grupo de Dark-Foema. Entradas restantes: 1076
+14:47:21 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +13
+14:47:35 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +12
+14:47:40 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +14
+14:47:52 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +15
+14:47:54 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +13
+14:47:54 : [Sentinela-PK] - Moveu item Conjunto_Yin-Yang [4150] [96 15 3 21 0 98] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 10
+14:47:57 : [Sentinela-PK] - Moveu item Conjunto_Yin-Yang [4150] [96 15 3 21 0 98] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 12
+14:48:03 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+14:48:13 : [Sentinela-PK] - [Mensagem do servidor]: Sthysd falhou a refinação de Botas para 14
+14:48:16 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +14
+14:48:23 : [Sentinela-PK] - [Mensagem do servidor]: Jogador BmMacho obteve sucesso na composição de Lança_do_Triunfo(Anct)
+14:48:27 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I obteve sucesso na refinação item +15
+14:49:13 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +14
+14:49:14 : [Sentinela-PK] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sentinela-PK
+Gold atual: 84839872
+Level atual: 398
+Experiência atual: 3889448976
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:43:20 horas
+Posição atual: 1215x 3647y
+
+Pontos NT: 0
+Entradas Hall: 23
+Info: 103079215328
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[39] [43 0 39 1 1 1]
+[02] - Peitoral(A)[1646] [43 9 2 30 71 70]
+[03] - Calça(A)[1649] [43 9 2 30 71 70]
+[04] - Braçadeira(A)[1652] [43 9 54 18 72 30]
+[05] - Botas(A)[1655] [43 9 73 30 74 18]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[08] - Brinco_de_Titã[592] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 15 3 21 0 32]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 22 108 58]
+[14] - Unicórnio[2381] [134 73 100 60 10 0]
+[15] - Elite_dos_Aventureiros[3193] [0 0 54 10 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_Poderosa[3431] [61 16 0 0 0 0]
+[01] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[02] - Pergaminho_da_Água(A)LV1[3182] [61 49 0 0 0 0]
+[03] - Pedido_de_Caça(Kefra)[3436] [61 1 0 0 0 0]
+[04] - Frango_Assado[3314] [61 9 0 0 0 0]
+[05] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[06] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[08] - Poeira_de_Lactolerium[413] [61 216 0 0 0 0]
+[09] - Pedido_de_Caça(Kult)[3435] [61 4 0 0 0 0]
+[13] - Selo_do_Guerreiro[4146] [61 232 0 0 0 0]
+[14] - Resto_de_Lactolerium[420] [59 54 59 4 59 47]
+[17] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[18] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[19] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[24] - Luvas(M)[1216] [43 0 72 10 59 0]
+[29] - Pergaminho_Retorno_10x[411] [61 7 0 0 0 0]
+[48] - Pergaminho_de_Portal(10)[776] [61 9 0 0 0 0]
+[49] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[54] - Ração_de_Grifo[2430] [96 1 61 119 0 0]
+[59] - Ração_de_Unicórnio[2429] [96 1 61 117 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:49:22 : [Sentinela-PK] - Recebeu 20448 de gold em 10 mobs no total. Total de gold: 84841789
+14:49:37 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Balmung(Anct) para 12
+14:49:45 : [Sentinela-PK] - Usado buff Escudo Dourado. Gold consumido: 23400. Gold atual: 84820372
+14:49:47 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +15
+14:49:58 : [Sentinela-PK] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1215x 3647y. Teleportado para ""
+14:49:58 : [Sentinela-PK] - Teleportado para a posição 1965 1770
+14:50:00 : [Sentinela-PK] - Teleportado para a posição 1216 3646
+14:50:00 : [Sentinela-PK] - Água 3182 - Grupo de Dark-Foema. Entradas restantes: 1075
+14:50:07 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Balmung(Anct) para 12
+14:50:07 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +13
+14:50:19 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+14:50:24 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +12
+14:50:27 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +14
+14:50:46 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Sthysd obteve sucesso na refinação item +15
+14:50:47 : [Sentinela-PK] - [Mensagem do servidor]: Jogador I-Zoe-I falhou a composição do item Cythera_Mística +10
+14:51:03 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Balmung(Anct) para 12
+14:51:48 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+14:52:04 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +12
+14:52:49 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +13
+14:52:55 : [Sentinela-PK] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1215x 3646y. Teleportado para ""
+14:52:55 : [Sentinela-PK] - Teleportado para a posição 1965 1770
+14:52:56 : [Sentinela-PK] - Teleportado para a posição 1216 3648
+14:52:56 : [Sentinela-PK] - Água 3182 - Grupo de Dark-Foema. Entradas restantes: 1074
+14:53:07 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +14
+14:53:49 : [Sentinela-PK] - [Mensagem do servidor]> + + + LEVEL UP + + +
+14:53:49 : [Sentinela-PK] - Level UP para level 399. Ev: 1/1 - 1215x 3646y
+14:55:22 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX falhou a composição do item Cythera_Mística +10
+14:55:24 : [Sentinela-PK] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1215x 3646y - Ladrao Tauron  (1/1)
+14:55:43 : [Sentinela-PK] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1215x 3646y. Teleportado para ""
+14:55:43 : [Sentinela-PK] - Teleportado para a posição 1965 1769
+14:56:18 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +13
+14:56:37 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +14
+14:56:38 : [Sentinela-PK] - Dropado item Botas(N) [1203] [59 4 73 0 60 2] em 1987x 1761y - Ciclope Cruel (1/252)
+14:56:40 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Balmung(Anct) para 15
+14:56:48 : [Sentinela-PK] - Dropado item Defesa_contra_Fogo [612] [0 0 0 0 0 0] em 1980x 1754y - Orc Medico  (1/252)
+14:56:55 : [Sentinela-PK] - Dropado item Elmo(M) [1886] [59 112 59 0 59 0] em 1983x 1750y - Ciclope Sang  (1/252)
+14:56:55 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +14
+14:57:07 : [Sentinela-PK] - Dropado item Elmo(M) [1886] [43 0 59 79 59 118] em 1982x 1747y - Ciclope Sang (1/252)
+14:57:18 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +15
+14:57:31 : [Sentinela-PK] - Dropado item Cajado [896] [43 0 59 70 59 0] em 1979x 1750y - Orc Medico (1/84)
+14:57:31 : [Sentinela-PK] - Dropado item Skeleton_Staff [940] [9 13 60 20 74 15] em 1979x 1750y - Orc Medico (1/84)
+14:57:32 : [Sentinela-PK] - Dropado item Luvas(N) [1185] [59 121 72 5 54 3] em 1982x 1753y - Ciclope Sang  (1/252)
+14:57:39 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +12
+14:57:49 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +15
+14:57:59 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +13
+14:58:16 : [Sentinela-PK] - Teleportado para a posição 1084 3518
+14:58:16 : [Sentinela-PK] - Água 3182 - Grupo de Dark-Foema. Entradas restantes: 1073
+14:58:17 : [Sentinela-PK] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 1774. Distância 2: 1772. Range: 4.
+14:58:55 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +13
+14:59:09 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +14
+14:59:20 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Balmung(Anct) para 15
+14:59:30 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +14
+14:59:44 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Balmung(Anct) para 15
+14:59:57 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Balmung(Anct) para 14
+14:59:59 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX falhou a composição do item Cythera_Mística +10
+15:00:41 : [Sentinela-PK] - Recebeu 21952 de gold em 10 mobs no total. Total de gold: 84840341
+15:00:43 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +13
+15:00:53 : [Sentinela-PK] - [Mensagem do servidor]: DeathSavage falhou a refinação de Balmung(Anct) para 14
+15:01:34 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +13
+15:01:41 : [Sentinela-PK] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1086x 3519y - Ladrao Tauron  (1/1)
+15:01:44 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +14
+15:01:49 : [Sentinela-PK] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1086x 3519y - Ladrao Tauron  (1/1)
+15:01:53 : [Sentinela-PK] - [Mensagem do servidor]: Jogador DeathSavage obteve sucesso na refinação item +15
+15:02:01 : [Sentinela-PK] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1086x 3519y. Teleportado para ""
+15:02:01 : [Sentinela-PK] - Teleportado para a posição 1966 1769
+15:03:15 : [Sentinela-PK] - Usado buff Escudo Dourado. Gold consumido: 23400. Gold atual: 84816941
+15:09:39 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +14
+15:09:59 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +15
+15:10:17 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +12
+15:10:27 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +13
+15:10:38 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +14
+15:11:47 : [Sentinela-PK] - [Mensagem do servidor]: SAFADEX falhou a refinação de Calça(A) para 15
+15:12:09 : [Sentinela-PK] - [Mensagem do servidor]: Parabéns FeAssis pela criação do personagem Arch
+15:13:09 : [Sentinela-PK] - [Mensagem do servidor]: SAFADEX falhou a refinação de Calça(A) para 14
+15:13:17 : [Sentinela-PK] - Item Pedra_Ideal [5338] [0 0 0 0 0 0] utilizado em 1966x 1769y
+15:13:17 : [Sentinela-PK] - Celestial criado. Level: 399 - Cythera: 3502. Points 300. Cape 3199
+15:13:17 : [Mensagem do servidor]> Que Deus abençoe seu caminho!
+15:13:20 : Solicitou ir ao mundo...
+15:13:20 : Recebido pedido para entrar no jogo
+15:13:20 : Recebido informação do personagem completa.
+15:13:20 : [Sentinela-PK] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sentinela-PK
+Gold atual: 84816941
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 01:07:07 horas
+Posição atual: 2505x 1713y
+
+Pontos NT: 0
+Entradas Hall: 23
+Info: 103079215344
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[39] [43 0 39 2 1 1]
+[01] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[02] - Peitoral(A)[1646] [43 9 2 30 71 70]
+[03] - Calça(A)[1649] [43 9 2 30 71 70]
+[04] - Braçadeira(A)[1652] [43 9 54 18 72 30]
+[05] - Botas(A)[1655] [43 9 73 30 74 18]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[08] - Brinco_de_Titã[592] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 15 3 21 0 32]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 22 108 34]
+[14] - Unicórnio[2381] [254 51 100 60 10 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_Poderosa[3431] [61 5 0 0 0 0]
+[01] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[02] - Pergaminho_da_Água(A)LV1[3182] [61 49 0 0 0 0]
+[03] - Pedido_de_Caça(Kefra)[3436] [61 1 0 0 0 0]
+[04] - Frango_Assado[3314] [61 9 0 0 0 0]
+[05] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[06] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[08] - Poeira_de_Lactolerium[413] [61 216 0 0 0 0]
+[09] - Pedido_de_Caça(Kult)[3435] [61 4 0 0 0 0]
+[10] - Botas(N)[1203] [59 4 73 0 60 2]
+[11] - Defesa_contra_Fogo[612] [0 0 0 0 0 0]
+[12] - Elmo(M)[1886] [59 112 59 0 59 0]
+[13] - Selo_do_Guerreiro[4146] [61 232 0 0 0 0]
+[14] - Resto_de_Lactolerium[420] [59 54 59 4 59 47]
+[15] - Elmo(M)[1886] [43 0 59 79 59 118]
+[16] - Cajado[896] [43 0 59 70 59 0]
+[17] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[18] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[19] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[20] - Skeleton_Staff[940] [9 13 60 20 74 15]
+[21] - Luvas(N)[1185] [59 121 72 5 54 3]
+[22] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[23] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[24] - Luvas(M)[1216] [43 0 72 10 59 0]
+[29] - Pergaminho_Retorno_10x[411] [61 7 0 0 0 0]
+[48] - Pergaminho_de_Portal(10)[776] [61 9 0 0 0 0]
+[54] - Ração_de_Grifo[2430] [96 1 61 119 0 0]
+[59] - Ração_de_Unicórnio[2429] [96 1 61 117 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:13:20 : [Sentinela-PK] - Personagem Sentinela-PK enviado ao mundo 2505x 1713y - Canal 1 - Cash da conta: 270650. PowerLevel: 3866
+15:13:20 : [Sentinela-PK] - Gold atual: 84816941. Classe: 3 Evolução: 2. Experiência: 0. Nível: 0. Info: 103079215344. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+15:13:20 : [Sentinela-PK] - Logou no personagem Sentinela-PK com poção divina ativo. Validade: 28/2/2021 13:44:44
+15:13:20 : [Sentinela-PK] - Logou no personagem Sentinela-PK com baú de experiência ativo. Tempo: 863
+15:13:20 : [Sentinela-PK] - Logou no personagem Sentinela-PK com frango ativo. Tempo: 1171
+15:13:20 : [Sentinela-PK] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+15:13:20 : [Sentinela-PK] - Enviado informações do personagem
+15:13:23 : [Sentinela-PK] - Comando "/day "
+15:13:23 : [Sentinela-PK] - [Mensagem do servidor]> !#11 2
+15:13:23 : [Sentinela-PK] - Comando "/day "
+15:13:23 : [Sentinela-PK] - [Mensagem do servidor]> !#11 2
+15:13:26 : [Sentinela-PK] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:13:28 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +13
+15:13:48 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +14
+15:13:55 : [Sentinela-PK] - Item Pedido_de_Caça(Kult) [3435] [61 4 0 0 0 0] utilizado em 2482x 1711y
+15:13:55 : [Sentinela-PK] - Teleportado para a posição 1182 1714
+15:14:08 : [Sentinela-PK] - [Mensagem do servidor]: SAFADEX falhou a refinação de Calça(A) para 15
+15:15:39 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +14
+15:15:58 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +15
+15:16:28 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +12
+15:16:48 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +13
+15:17:08 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +14
+15:18:18 : [Sentinela-PK] - Comando "/ @ algum up ai"
+15:18:18 : [Sentinela-PK] - Mensagem enviada: @ algum up ai
+15:18:18 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +15
+15:18:56 : [Sentinela-PK] - Comando "/ @ algum up ai"
+15:18:56 : [Sentinela-PK] - Mensagem enviada: @ algum up ai
+15:19:02 : [Sentinela-PK] - Item Defesa_contra_Fogo deletado [612] [0 0 0 0 0 0]. Slot 11
+15:19:04 : [Sentinela-PK] - Item Elmo(M) deletado [1886] [59 112 59 0 59 0]. Slot 12
+15:19:06 : [Sentinela-PK] - Item Botas(N) deletado [1203] [59 4 73 0 60 2]. Slot 10
+15:19:10 : [Sentinela-PK] - [Mensagem do servidor]> O outro jogador já é líder de um grupo.
+15:19:14 : [Sentinela-PK] - [Mensagem do servidor]> O outro jogador já é líder de um grupo.
+15:19:31 : [Sentinela-PK] - Item Pergaminho_Retorno_10x [411] [61 7 0 0 0 0] utilizado em 1150x 1726y
+15:19:31 : [Sentinela-PK] - DoRecall - Enviado para cidade: 2495x 1708y
+15:19:33 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +12
+15:19:44 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +13
+15:19:51 : [Sentinela-PK] - Clicado no NPC [Tera]. Face 18. Race: 2. GenerateId: 1237. Posição do usuário: 2474x 1694y. Posição do NPC: 2475x 1687y
+15:20:13 : [Sentinela-PK] - Moveu item Conjunto_Yin-Yang [4150] [96 15 3 21 0 32] do tipo EQUIPAMENTO do slot 12 para tipo INVENTÁRIO slot 10
+15:20:15 : [Sentinela-PK] - Moveu item Conjunto_Yin-Yang [4150] [96 15 3 21 0 32] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 12
+15:20:32 : [Sentinela-PK] - Teleportado para a posição 1970 1712
+15:20:32 : [Sentinela-PK] - Solicitado teleporte na posição 2454x 1717y e teleportado para 1970x 1712y
+15:20:52 : [Sentinela-PK] - Comando "/tab GRUPOo"
+15:20:52 : [Sentinela-PK] - Tab setado para: GRUPOo
+15:21:05 : [Sentinela-PK] - Comando "/ @ alguem levando agua"
+15:21:05 : [Sentinela-PK] - Mensagem enviada: @ alguem levando agua
+15:21:16 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 49 0 0 0 0] utilizado em 1966x 1773y
+15:21:16 : [Sentinela-PK] - Teleportado para a posição 1213 3647
+15:21:16 : [Sentinela-PK] - Água 3182 - Grupo teleportado para a área. Entradas restantes: 1072
+15:21:39 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +14
+15:21:46 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+15:21:58 : [Sentinela-PK] - [Mensagem do servidor]: Jogador SAFADEX obteve sucesso na refinação item +15
+15:22:17 : [Sentinela-PK] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1213x 3649y. Teleportado para ""
+15:22:17 : [Sentinela-PK] - Teleportado para a posição 1965 1770
+15:22:34 : [Sentinela-PK] - O login RICHARDD tentou logar na conta com o mesmo mac.
+15:22:40 : [Sentinela-PK] - O login RICHARDD tentou logar na conta com o mesmo mac.
+15:22:47 : [Sentinela-PK] - O login RICHARDD tentou logar na conta com o mesmo mac.
+15:22:54 : [Sentinela-PK] - O login RICHARDD tentou logar na conta com o mesmo mac.
+15:23:08 : [Sentinela-PK] - O login RICHARDD tentou logar na conta com o mesmo mac.
+15:23:24 : [Sentinela-PK] - O login RICHARDD tentou logar na conta com o mesmo mac.
+15:23:48 : [Sentinela-PK] - Item Pergaminho_Retorno_10x [411] [61 6 0 0 0 0] utilizado em 1967x 1772y
+15:23:48 : [Sentinela-PK] - DoRecall - Enviado para cidade: 2499x 1717y
+15:23:53 : [Sentinela-PK] - Teleportado para a posição 2117 2102
+15:25:00 : [Sentinela-PK] - Item Skeleton_Staff deletado [940] [9 13 60 20 74 15]. Slot 20
+15:25:45 : [Sentinela-PK] - Moveu item Botas(A) [1655] [43 9 73 30 74 18] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 25
+15:26:11 : [Sentinela-PK] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+15:26:11 : [Sentinela-PK] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+15:26:11 : [Sentinela-PK] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+15:26:11 : [Sentinela-PK] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+15:26:11 : [Sentinela-PK] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+15:26:23 : [Sentinela-PK] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+15:26:23 : [Sentinela-PK] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+15:26:23 : [Sentinela-PK] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+15:26:23 : [Sentinela-PK] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+15:26:23 : [Sentinela-PK] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+15:26:28 : [Sentinela-PK] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+15:26:28 : [Sentinela-PK] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+15:26:28 : [Sentinela-PK] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+15:26:28 : [Sentinela-PK] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+15:26:28 : [Sentinela-PK] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+15:26:33 : [Sentinela-PK] - Comprou uma skill Ataque_Fatal. Learn antigo: 4611686022853793900, Learn atual: 940948650752737281. Learn da skill: 219081680.
+15:26:33 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Ataque_Fatal aprendida com sucesso
+15:26:34 : [Sentinela-PK] - Comprou uma skill Ilusão. Learn antigo: 4611686031443728492, Learn atual: 940948650752737282. Learn da skill: 219081680.
+15:26:34 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Ilusão aprendida com sucesso
+15:26:34 : [Sentinela-PK] - Comprou uma skill Agressividade. Learn antigo: 4611686048623597676, Learn atual: 940948650752737284. Learn da skill: 219081680.
+15:26:34 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Agressividade aprendida com sucesso
+15:26:35 : [Sentinela-PK] - Comprou uma skill Encantar_Gelo. Learn antigo: 4611686082983336044, Learn atual: 940948650752737288. Learn da skill: 219081680.
+15:26:35 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Encantar_Gelo aprendida com sucesso
+15:26:36 : [Sentinela-PK] - Comprou uma skill Imunidade. Learn antigo: 4611686151702812780, Learn atual: 940948650752737296. Learn da skill: 219081680.
+15:26:36 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Imunidade aprendida com sucesso
+15:26:37 : [Sentinela-PK] - Comprou uma skill Meditação. Learn antigo: 4611686289141766252, Learn atual: 940948650752737312. Learn da skill: 219081680.
+15:26:37 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Meditação aprendida com sucesso
+15:26:37 : [Sentinela-PK] - Comprou uma skill Lança_de_Ferro. Learn antigo: 4611686564019673196, Learn atual: 940948650752737344. Learn da skill: 219081680.
+15:26:37 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Lança_de_Ferro aprendida com sucesso
+15:26:38 : [Sentinela-PK] - Comprou uma skill Tempestade_de_Raios. Learn antigo: 4611687113775487084, Learn atual: 940948650752737408. Learn da skill: 219081680.
+15:26:38 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Tempestade_de_Raios aprendida com sucesso
+15:26:39 : [Sentinela-PK] - Comprou uma skill Golpe_Felino. Learn antigo: 4611688213287114860, Learn atual: 940948650752737536. Learn da skill: 219081680.
+15:26:39 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Golpe_Felino aprendida com sucesso
+15:26:39 : [Sentinela-PK] - Comprou uma skill Ligação_Espectral. Learn antigo: 4611690412310370412, Learn atual: 940948650752737792. Learn da skill: 219081680.
+15:26:39 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Ligação_Espectral aprendida com sucesso
+15:26:40 : [Sentinela-PK] - Comprou uma skill Perícia_de_Caçador. Learn antigo: 4611694810356881516, Learn atual: 940948650752738304. Learn da skill: 219081680.
+15:26:40 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Perícia_de_Caçador aprendida com sucesso
+15:26:40 : [Sentinela-PK] - Comprou uma skill Vingança. Learn antigo: 4611703606449903724, Learn atual: 940948650752739328. Learn da skill: 219081680.
+15:26:40 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Vingança aprendida com sucesso
+15:26:41 : [Sentinela-PK] - Comprou uma skill Instinto_de_Predador. Learn antigo: 4611721198635948140, Learn atual: 940948650752741376. Learn da skill: 219081680.
+15:26:41 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Instinto_de_Predador aprendida com sucesso
+15:26:42 : [Sentinela-PK] - Comprou uma skill Escudo_Dourado. Learn antigo: 4611756383008036972, Learn atual: 940948650752745472. Learn da skill: 219081680.
+15:26:42 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Escudo_Dourado aprendida com sucesso
+15:26:42 : [Sentinela-PK] - Comprou uma skill Explosão_Etérea. Learn antigo: 4611826751752214636, Learn atual: 940948650752753664. Learn da skill: 219081680.
+15:26:42 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Explosão_Etérea aprendida com sucesso
+15:26:45 : [Sentinela-PK] - Comprou uma skill Lâmina_das_Sombras. Learn antigo: 4612108226728925292, Learn atual: 940948650752802816. Learn da skill: 219081680.
+15:26:45 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Lâmina_das_Sombras aprendida com sucesso
+15:26:46 : [Sentinela-PK] - Comprou uma skill Evasão_Aprimorada. Learn antigo: 4612671176682346604, Learn atual: 940948650752868352. Learn da skill: 219081680.
+15:26:46 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Evasão_Aprimorada aprendida com sucesso
+15:26:47 : [Sentinela-PK] - Comprou uma skill Visão_de_Caçadora. Learn antigo: 4613797076589189228, Learn atual: 940948650752999424. Learn da skill: 219081680.
+15:26:47 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Visão_de_Caçadora aprendida com sucesso
+15:26:47 : [Sentinela-PK] - Comprou uma skill Olhos_de_Aguia. Learn antigo: 4616048876402874476, Learn atual: 940948650753261568. Learn da skill: 219081680.
+15:26:47 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Olhos_de_Aguia aprendida com sucesso
+15:26:48 : [Sentinela-PK] - Comprou uma skill Toxina_de_Serpente. Learn antigo: 4620552476030244972, Learn atual: 940948650753785856. Learn da skill: 219081680.
+15:26:48 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Toxina_de_Serpente aprendida com sucesso
+15:26:48 : [Sentinela-PK] - Comprou uma skill Lamina_Aérea. Learn antigo: 4629559675284985964, Learn atual: 940948650754834432. Learn da skill: 219081680.
+15:26:48 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Lamina_Aérea aprendida com sucesso
+15:26:49 : [Sentinela-PK] - Comprou uma skill Proteção_das_Sombras. Learn antigo: 4647574073794467948, Learn atual: 940948650756931584. Learn da skill: 219081680.
+15:26:49 : [Sentinela-PK] - [Mensagem do servidor]> Habilidade Proteção_das_Sombras aprendida com sucesso
+15:27:35 : [Sentinela-PK] - Usado buff Escudo Dourado. Gold consumido: 20000. Gold atual: 74808359
+15:28:11 : [Sentinela-PK] - Moveu item Machado [811] [43 9 0 0 0 0] do tipo EQUIPAMENTO do slot 7 para tipo INVENTÁRIO slot 44
+15:28:14 : [Sentinela-PK] - Moveu item Machado [811] [43 9 0 0 0 0] do tipo EQUIPAMENTO do slot 6 para tipo INVENTÁRIO slot 43
+15:28:19 : [Sentinela-PK] - Moveu item Arco [826] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 6
+15:28:27 : [Sentinela-PK] - Teleportado para a posição 2482 1717
+15:28:29 : [Sentinela-PK] - CrackError - Points: 1 type: 5
+15:28:34 : [Sentinela-PK] - Teleportado para a posição 1969 1712
+15:28:34 : [Sentinela-PK] - Solicitado teleporte na posição 2455x 1716y e teleportado para 1969x 1712y
+15:28:49 : [Sentinela-PK] - Item Pergaminho_da_Água(A)LV1 [3182] [61 48 0 0 0 0] utilizado em 1965x 1774y
+15:28:49 : [Sentinela-PK] - Teleportado para a posição 1216 3646
+15:28:49 : [Sentinela-PK] - Água 3182 - Grupo teleportado para a área. Entradas restantes: 1071
+15:28:53 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+15:29:03 : [Sentinela-PK] - Comando "/ @ CELE "
+15:29:03 : [Sentinela-PK] - Mensagem enviada: @ CELE 
+15:29:08 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+15:29:14 : [Sentinela-PK] - Recebeu 22152 de gold em 10 mobs no total. Total de gold: 74815482
+15:29:16 : [Sentinela-PK] - Comando "/ @ QUANTO TEMPO"
+15:29:16 : [Sentinela-PK] - Mensagem enviada: @ QUANTO TEMPO
+15:29:19 : [Sentinela-PK] - Comando "/ @ PRA ENTRAR"
+15:29:19 : [Sentinela-PK] - [Mensagem do servidor]> Tempo mínimo para enviar outra mensagem é de 5 segundos.
+15:29:23 : [Sentinela-PK] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:29:23 : [Sentinela-PK] - Level UP para level 1. Ev: 2/2 - 1214x 3644y
+15:29:49 : [Sentinela-PK] - Item Pergaminho_Retorno_10x [411] [61 5 0 0 0 0] utilizado em 1217x 3646y
+15:29:49 : [Sentinela-PK] - DoRecall - Enviado para cidade: 2505x 1719y
+15:30:11 : [Sentinela-PK] - Item Luvas(N) deletado [1185] [59 121 72 5 54 3]. Slot 21
+15:30:11 : [Sentinela-PK] - [Mensagem do servidor]> Você não possui entradas
+15:30:12 : [Sentinela-PK] - Item Botas(A) deletado [1655] [43 9 73 30 74 18]. Slot 25
+15:30:13 : [Sentinela-PK] - Item Elmo(M) deletado [1886] [43 0 59 79 59 118]. Slot 15
+15:30:15 : [Sentinela-PK] - Item Cajado deletado [896] [43 0 59 70 59 0]. Slot 16
+15:30:23 : [Sentinela-PK] - Comando "/ @ KRL ESQUECI O NC"
+15:30:23 : [Sentinela-PK] - Mensagem enviada: @ KRL ESQUECI O NC
+15:30:30 : [Sentinela-PK] - Teleportado para a posição 2366 3878
+15:30:36 : [Sentinela-PK] - [Mensagem do servidor]> Você possui 22 entradas
+15:30:36 : [Sentinela-PK] - Teleportado para hallkefra. Entradas restantes: 22
+15:30:36 : [Sentinela-PK] - Teleportado para a posição 2367 3911
+15:30:36 : [Sentinela-PK] - Solicitado teleporte na posição 2368x 3894y e teleportado para 2367x 3911y
+15:30:41 : [Sentinela-PK] - Teleportado para a posição 3250 1703
+15:30:41 : [Sentinela-PK] - Solicitado teleporte na posição 2365x 3925y e teleportado para 3250x 1703y
+15:30:42 : [Sentinela-PK] - CrackError - Points: 1 type: 5
+15:30:53 : [Sentinela-PK] - Item Escritura_do_Pesadelo [5137] [0 0 0 0 0 0] utilizado em 3267x 1710y
+15:30:53 : [Sentinela-PK] - Escritura de Pesadelo utilizado e tempo atribuído
+15:30:57 : [Sentinela-PK] - Item Escritura_do_Pesadelo [5137] [0 0 0 0 0 0] utilizado em 3267x 1710y
+15:30:57 : [Sentinela-PK] - [Mensagem do servidor]> Você precisa aguardar 19 horas 59 minutos 56 segundos até o próximo uso
+15:31:02 : [Sentinela-PK] - Moveu item Escritura_do_Pesadelo [5137] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo INVENTÁRIO slot 0
+15:31:07 : [Sentinela-PK] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+15:31:10 : [Sentinela-PK] - [Mensagem do servidor]> 5 itens decompostos com sucesso!
+15:31:14 : [Sentinela-PK] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 3267x 1710y
+15:31:14 : [Sentinela-PK] - Gold atual: 55826268.
+15:31:15 : [Sentinela-PK] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 3267x 1710y
+15:31:15 : [Sentinela-PK] - Gold atual: 155826268.
+15:31:15 : [Sentinela-PK] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 3267x 1710y
+15:31:15 : [Sentinela-PK] - Gold atual: 255826268.
+15:31:16 : [Sentinela-PK] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 3267x 1710y
+15:31:16 : [Sentinela-PK] - Gold atual: 355826268.
+15:31:17 : [Sentinela-PK] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 3267x 1710y
+15:31:17 : [Sentinela-PK] - Gold atual: 455826268.
+15:31:18 : [Sentinela-PK] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 3267x 1710y
+15:31:18 : [Sentinela-PK] - Gold atual: 555826268.
+15:31:19 : [Sentinela-PK] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 3267x 1710y
+15:31:19 : [Sentinela-PK] - Gold atual: 655826268.
+15:31:19 : [Sentinela-PK] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 3267x 1710y
+15:31:19 : [Sentinela-PK] - Gold atual: 755826268.
+15:31:20 : [Sentinela-PK] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 3267x 1710y
+15:31:20 : [Sentinela-PK] - Gold atual: 855826268.
+15:31:21 : [Sentinela-PK] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 3267x 1710y
+15:31:21 : [Sentinela-PK] - Gold atual: 955826268.
+15:31:23 : [Sentinela-PK] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 3267x 1710y
+15:31:23 : [Sentinela-PK] - Gold atual: 1055826268.
+15:31:27 : [Sentinela-PK] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 3260x 1698y
+15:31:27 : [Sentinela-PK] - Gold atual: 1155826268.
+15:31:28 : [Sentinela-PK] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 3260x 1698y
+15:31:28 : [Sentinela-PK] - Gold atual: 1255826268.
+15:31:31 : [Sentinela-PK] - Comando "/ @"
+15:31:31 : [Sentinela-PK] - Mensagem enviada: @
+15:31:37 : [Sentinela-PK] - Comando "/ @ INDO AI"
+15:31:37 : [Sentinela-PK] - Mensagem enviada: @ INDO AI
+15:31:45 : [Sentinela-PK] - Item Pergaminho_Retorno_10x [411] [61 4 0 0 0 0] utilizado em 3260x 1698y
+15:31:45 : [Sentinela-PK] - DoRecall - Enviado para cidade: 2499x 1717y
+15:31:54 : [Sentinela-PK] - Teleportado para a posição 1970 1711
+15:31:54 : [Sentinela-PK] - Solicitado teleporte na posição 2454x 1716y e teleportado para 1970x 1711y
+15:32:07 : [Sentinela-PK] - Comando "/ @GRIPA"
+15:32:07 : [Sentinela-PK] - Mensagem enviada: @GRIPA
+15:32:10 : [Sentinela-PK] - Comando "/ @GRIPA"
+15:32:10 : [Sentinela-PK] - [Mensagem do servidor]> Tempo mínimo para enviar outra mensagem é de 5 segundos.
+15:32:17 : [Sentinela-PK] - Teleportado para a posição 1083 3516
+15:32:17 : [Sentinela-PK] - Água 3182 - Grupo de TETEU-. Entradas restantes: 1070
+15:32:35 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+15:33:14 : [Sentinela-PK] - Agrupando o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] com o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+15:33:14 : [Sentinela-PK] - O agrupamento foi efetuado de slot 23 tipo INVENTÁRIO para slot 22 tipo INVENTÁRIO
+15:33:19 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] utilizado em 0x 0y
+15:33:19 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+15:33:19 : [Sentinela-PK] - Item Cythera_Mística refinado com sucesso para 1 - [3502] [0 0 0 0 0 0] 84/100
+15:33:22 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 1 0 0 0 0] utilizado em 0x 0y
+15:33:22 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+15:33:22 : [Sentinela-PK] - Item Cythera_Mística refinado com sucesso para 2 - [3502] [43 1 0 0 0 0] 38/100
+15:33:25 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] utilizado em 0x 0y
+15:33:25 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+15:33:25 : [Sentinela-PK] - Item Cythera_Mística refinado com sucesso para 3 - [3502] [43 2 0 0 0 0] 90/100
+15:33:27 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 216 0 0 0 0] utilizado em 0x 0y
+15:33:27 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+15:33:27 : [Sentinela-PK] - Item Cythera_Mística refinado com sucesso para 4 - [3502] [43 3 0 0 0 0] 16/100
+15:33:28 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 215 0 0 0 0] utilizado em 0x 0y
+15:33:28 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+15:33:28 : [Sentinela-PK] - Item Cythera_Mística refinado com sucesso para 5 - [3502] [43 4 0 0 0 0] 86/100
+15:33:31 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 214 0 0 0 0] utilizado em 0x 0y
+15:33:31 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+15:33:31 : [Sentinela-PK] - Item Cythera_Mística refinado com sucesso para 6 - [3502] [43 5 0 0 0 0] 65/100
+15:33:34 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 213 0 0 0 0] utilizado em 0x 0y
+15:33:34 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+15:33:34 : [Sentinela-PK] - Item Cythera_Mística refinado com sucesso para 7 - [3502] [43 6 0 0 0 0] 17/55
+15:33:36 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 212 0 0 0 0] utilizado em 0x 0y
+15:33:36 : [Sentinela-PK] - [Mensagem do servidor]> Refinação sucedida.
+15:33:36 : [Sentinela-PK] - Item Cythera_Mística refinado com sucesso para 8 - [3502] [43 7 0 0 0 0] 7/45
+15:33:38 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 211 0 0 0 0] utilizado em 0x 0y
+15:33:38 : [Sentinela-PK] - [Mensagem do servidor]> Refinação NÃO sucedida.
+15:33:38 : [Sentinela-PK] - Falha na refinação de Cythera_Mística para 9 - [3502] [43 8 0 0 0 0] 93/45
+15:33:41 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 210 0 0 0 0] utilizado em 0x 0y
+15:33:41 : [Sentinela-PK] - [Mensagem do servidor]> Refinação NÃO sucedida.
+15:33:41 : [Sentinela-PK] - Falha na refinação de Cythera_Mística para 9 - [3502] [43 8 0 0 0 0] 89/45
+15:33:45 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 209 0 0 0 0] utilizado em 0x 0y
+15:33:45 : [Sentinela-PK] - [Mensagem do servidor]> Refinação NÃO sucedida.
+15:33:45 : [Sentinela-PK] - Falha na refinação de Cythera_Mística para 9 - [3502] [43 8 0 0 0 0] 70/45
+15:33:47 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 208 0 0 0 0] utilizado em 0x 0y
+15:33:47 : [Sentinela-PK] - [Mensagem do servidor]> Refinação NÃO sucedida.
+15:33:47 : [Sentinela-PK] - Falha na refinação de Cythera_Mística para 9 - [3502] [43 8 0 0 0 0] 47/45
+15:33:50 : [Sentinela-PK] - O login RICHARDD tentou logar na conta com o mesmo mac.
+15:33:59 : [Sentinela-PK] - O login RICHARDD tentou logar na conta com o mesmo mac.
+15:34:21 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 207 0 0 0 0] utilizado em 0x 0y
+15:34:21 : [Sentinela-PK] - [Mensagem do servidor]> Não é possível refinar este item
+15:34:24 : [Sentinela-PK] - Item Poeira_de_Lactolerium [413] [61 207 0 0 0 0] utilizado em 0x 0y
+15:34:24 : [Sentinela-PK] - [Mensagem do servidor]> Não é possível refinar este item
+15:34:34 : [Sentinela-PK] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1087x 3519y. Teleportado para ""
+15:34:34 : [Sentinela-PK] - Teleportado para a posição 1965 1770
+15:34:35 : [Sentinela-PK] - Teleportado para a posição 1087 3515
+15:34:35 : [Sentinela-PK] - Água 3182 - Grupo de TETEU-. Entradas restantes: 1069
+15:34:50 : [Sentinela-PK] - Recebeu 22014 de gold em 10 mobs no total. Total de gold: 1355837496
+15:35:21 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+15:35:38 : [Sentinela-PK] - O login RICHARDD tentou logar na conta com o mesmo mac.
+15:36:33 : [Sentinela-PK] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1086x 3517y - Assass. Tauron (1/1)
+15:36:46 : [Sentinela-PK] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1086x 3517y. Teleportado para ""
+15:36:46 : [Sentinela-PK] - Teleportado para a posição 1965 1770
+15:36:47 : [Sentinela-PK] - Teleportado para a posição 1089 3515
+15:36:47 : [Sentinela-PK] - Água 3182 - Grupo de TETEU-. Entradas restantes: 1068
+15:38:02 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+15:38:41 : [Sentinela-PK] - [Mensagem do servidor]: FeAssis falhou na composição do item Machado para Ancient
+15:39:21 : [Sentinela-PK] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1089x 3515y. Teleportado para ""
+15:39:21 : [Sentinela-PK] - Teleportado para a posição 1965 1770
+15:39:22 : [Sentinela-PK] - Teleportado para a posição 1089 3515
+15:39:22 : [Sentinela-PK] - Água 3182 - Grupo de TETEU-. Entradas restantes: 1067
+15:39:23 : [Sentinela-PK] - Recebeu 21547 de gold em 10 mobs no total. Total de gold: 1355859043
+15:39:42 : [Sentinela-PK] - Usado buff Escudo Dourado. Gold consumido: 20000. Gold atual: 1355841100
+15:39:56 : [Sentinela-PK] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:39:56 : [Sentinela-PK] - Level UP para level 2. Ev: 2/2 - 1088x 3516y
+15:41:10 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+15:41:45 : [Sentinela-PK] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1087x 3514y. Teleportado para ""
+15:41:45 : [Sentinela-PK] - Teleportado para a posição 1965 1770
+15:41:47 : [Sentinela-PK] - Teleportado para a posição 1085 3515
+15:41:47 : [Sentinela-PK] - Água 3182 - Grupo de TETEU-. Entradas restantes: 1066
+15:42:04 : [Sentinela-PK] - Recebeu 21491 de gold em 10 mobs no total. Total de gold: 1355860534
+15:43:21 : [Sentinela-PK] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sentinela-PK
+Gold atual: 1355864483
+Level atual: 2
+Experiência atual: 49732794
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 01:36:46 horas
+Posição atual: 1085x 3515y
+
+Pontos NT: 12
+Entradas Hall: 22
+Info: 103079215344
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 13/2/2021 15:30:53
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[39] [43 0 39 2 1 1]
+[01] - Cythera_Mística[3502] [43 8 0 0 0 0]
+[02] - Peitoral(A)[1646] [43 9 2 30 71 70]
+[03] - Calça(A)[1649] [43 9 2 30 71 70]
+[04] - Braçadeira(A)[1652] [43 9 54 18 72 30]
+[06] - Arco[826] [43 9 0 0 0 0]
+[08] - Brinco_de_Titã[592] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 15 3 21 0 0]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 22 108 4]
+[14] - Unicórnio[2381] [89 44 100 60 10 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[01] - Poção_Poderosa[3431] [61 99 0 0 0 0]
+[02] - Pergaminho_da_Água(A)LV1[3182] [61 47 0 0 0 0]
+[03] - Pedido_de_Caça(Kefra)[3436] [61 1 0 0 0 0]
+[04] - Frango_Assado[3314] [61 9 0 0 0 0]
+[05] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[06] - Poção_Poderosa[3431] [61 100 0 0 0 0]
+[08] - Poeira_de_Lactolerium[413] [61 207 0 0 0 0]
+[09] - Pedido_de_Caça(Kult)[3435] [61 3 0 0 0 0]
+[13] - Selo_do_Guerreiro[4146] [61 232 0 0 0 0]
+[14] - Resto_de_Lactolerium[420] [59 54 59 4 59 47]
+[17] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[18] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[19] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[24] - Luvas(M)[1216] [43 0 72 10 59 0]
+[29] - Pergaminho_Retorno_10x[411] [61 3 0 0 0 0]
+[43] - Machado[811] [43 9 0 0 0 0]
+[44] - Machado[811] [43 9 0 0 0 0]
+[48] - Pergaminho_de_Portal(10)[776] [61 9 0 0 0 0]
+[54] - Ração_de_Grifo[2430] [96 1 61 119 0 0]
+[59] - Ração_de_Unicórnio[2429] [96 1 61 117 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[RICHARDD]	USER_PLAY	[Master-PK] (level: 398 ev: -1)	
+
+15:44:13 : [Sentinela-PK] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1085x 3515y - Ladrao Tauron  (1/1)
+15:44:26 : [Sentinela-PK] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1085x 3515y. Teleportado para ""
+15:44:26 : [Sentinela-PK] - Teleportado para a posição 1965 1770
+15:44:27 : [Sentinela-PK] - Teleportado para a posição 1089 3515
+15:44:27 : [Sentinela-PK] - Água 3182 - Grupo de TETEU-. Entradas restantes: 1065
+15:44:33 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+15:46:11 : [Sentinela-PK] - Item Pergaminho_Retorno_10x [411] [61 3 0 0 0 0] utilizado em 1089x 3515y
+15:46:11 : [Sentinela-PK] - DoRecall - Enviado para cidade: 2504x 1711y
+15:46:25 : [Sentinela-PK] - Item Pedido_de_Caça(Kult) [3435] [61 3 0 0 0 0] utilizado em 2489x 1706y
+15:46:25 : [Sentinela-PK] - Teleportado para a posição 1182 1714
+15:46:29 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+15:46:33 : [Sentinela-PK] - Dropado item Chapéu(M) [1342] [43 1 26 6 59 0] em 1182x 1714y - Tauron Bandido (1/252)
+15:46:59 : [Sentinela-PK] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:46:59 : [Sentinela-PK] - Level UP para level 3. Ev: 2/2 - 1190x 1718y
+15:47:45 : [Sentinela-PK] - Dropado item Luvas(M) [1351] [43 0 72 20 2 6] em 1192x 1716y - Tauron (1/252)
+15:48:09 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+15:48:09 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Broow obteve sucesso na composição de Fúria_Divina(Anct)
+15:48:41 : [Sentinela-PK] - Recebeu 19302 de gold em 10 mobs no total. Total de gold: 1355879836
+15:48:44 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+15:49:24 : [Sentinela-PK] - Agrupando o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] com o item Poeira_de_Lactolerium [413] [61 207 0 0 0 0]
+15:49:24 : [Sentinela-PK] - O agrupamento foi efetuado de slot 7 tipo INVENTÁRIO para slot 8 tipo INVENTÁRIO
+15:49:26 : [Sentinela-PK] - Agrupando o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] com o item Poeira_de_Lactolerium [413] [61 208 0 0 0 0]
+15:49:26 : [Sentinela-PK] - O agrupamento foi efetuado de slot 0 tipo INVENTÁRIO para slot 8 tipo INVENTÁRIO
+15:49:27 : [Sentinela-PK] - Moveu item Poção_Poderosa [3431] [61 100 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo INVENTÁRIO slot 0
+15:49:31 : [Sentinela-PK] - Item Luvas(M) deletado [1351] [43 0 72 20 2 6]. Slot 11
+15:49:34 : [Sentinela-PK] - Item Chapéu(M) deletado [1342] [43 1 26 6 59 0]. Slot 10
+15:49:37 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+15:50:30 : [Sentinela-PK] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:50:30 : [Sentinela-PK] - Level UP para level 4. Ev: 2/2 - 1184x 1716y
+15:51:05 : [Sentinela-PK] - Recebeu 18064 de gold em 10 mobs no total. Total de gold: 1355897900
+15:51:39 : [Sentinela-PK] - Trade com conta RICHARDD
+15:51:39 : [Sentinela-PK] - Trade - 0 - Recebido Pedra_Espiritual de Master-PK [633] [43 9 69 20 0 0]
+15:51:39 : [Sentinela-PK] - Trade - 1 - Recebido Pedra_Espiritual de Master-PK [633] [43 9 69 20 0 0]
+15:51:39 : [Sentinela-PK] - Trade - Enviado 0 de gold para o usuário
+15:51:39 : [Sentinela-PK] - Trade - Recebido 0 de gold do usuário
+15:51:41 : [Sentinela-PK] - Moveu item Pedra_Espiritual [633] [43 9 69 20 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 11
+15:51:42 : [Sentinela-PK] - Usado buff Escudo Dourado. Gold consumido: 20000. Gold atual: 1355879901
+15:51:46 : [Sentinela-PK] - Moveu item Ankh_da_Glória [663] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 11
+15:51:52 : [Sentinela-PK] - Moveu item Pedra_Espiritual [633] [43 9 69 20 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 10
+15:51:54 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+15:52:05 : [Sentinela-PK] - Moveu item Pedra_Espiritual [633] [43 9 69 20 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 8
+15:52:10 : [Sentinela-PK] - Item Brinco_de_Titã deletado [592] [43 9 0 0 0 0]. Slot 7
+15:52:13 : [Sentinela-PK] - Item Pedra_Espiritual deletado [633] [43 9 0 0 0 0]. Slot 6
+15:53:07 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+15:53:41 : [Sentinela-PK] - Dropado item Luvas(M) [1351] [43 0 72 10 59 0] em 1181x 1717y - Tauron (1/252)
+15:54:05 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+15:54:19 : [Sentinela-PK] - Recebeu 17603 de gold em 10 mobs no total. Total de gold: 1355895503
+15:54:29 : [Sentinela-PK] - Dropado item Gema_da_Siren [658] [0 0 0 0 0 0] em 1181x 1717y - Tauron (1/252)
+15:54:53 : [Sentinela-PK] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:54:53 : [Sentinela-PK] - Level UP para level 5. Ev: 2/2 - 1181x 1717y
+15:55:43 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+15:55:48 : [Sentinela-PK] - [Mensagem do servidor]: Master-PK falhou na composição do item Machado para Ancient
+15:55:59 : [Sentinela-PK] - [Mensagem do servidor]: Jogador Master-PK obteve sucesso na composição de Balmung(Anct)
+15:56:20 : [Sentinela-PK] - [Mensagem do servidor]: Master-PK falhou na composição do item Machado para Ancient
+15:56:29 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+15:56:33 : [Sentinela-PK] - Recebeu 17275 de gold em 10 mobs no total. Total de gold: 1355912778
+15:56:33 : [Sentinela-PK] - [Mensagem do servidor]: Master-PK falhou na composição do item Machado para Ancient
+15:57:29 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+15:58:05 : [Sentinela-PK] - Recebeu 17009 de gold em 10 mobs no total. Total de gold: 1355929787
+15:58:19 : [Sentinela-PK] - Dropado item Gema_da_Siren [658] [0 0 0 0 0 0] em 1181x 1717y - Tauron (1/252)
+15:58:30 : [Sentinela-PK] - [Mensagem do servidor]> + + + LEVEL UP + + +
+15:58:30 : [Sentinela-PK] - Level UP para level 6. Ev: 2/2 - 1181x 1717y
+15:58:30 : [Sentinela-PK] - Dropado item Luvas(M) [1216] [10 6 72 15 59 0] em 1181x 1717y - Tauron (1/252)
+15:58:55 : [Sentinela-PK] - Dropado item Luvas(M) [1501] [43 1 72 10 74 6] em 1181x 1717y - Tauron (1/252)
+15:59:17 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+15:59:18 : [Sentinela-PK] - Recebeu 17424 de gold em 10 mobs no total. Total de gold: 1355947211
+15:59:55 : [Sentinela-PK] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+16:00:36 : [Sentinela-PK] - RIICHARDD Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:00:36 : [Sentinela-PK] - 1 Personagem foi desconectado. Permaneceu 01:53:48 minutos online
+16:00:36 : [Sentinela-PK] - Recebeu 11340 de gold em 6 mobs no total. Total de gold: 1355958551

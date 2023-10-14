@@ -1,0 +1,82 @@
+
+15:10:05 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 2
+15:10:05 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 123456789
+15:10:05 : [INFORMAÇÕES DO BANCO]
+Gold: 123456789
+
+15:10:06 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:10:26 : Solicitou ir ao mundo...
+15:10:26 : Recebido pedido para entrar no jogo
+15:10:26 : Recebido informação do personagem completa.
+15:10:26 : [Do1Ao400] - [INFORMAÇÕES DA CONTA]
+Personagem online: Do1Ao400
+Gold atual: 1234
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:21 horas
+Posição atual: 2094x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Botas_Lupinas(N)[1428] [43 1 73 6 59 0]
+[01] - Sapatos_Pele_de_Animal(A)[1415] [43 0 73 12 59 0]
+[02] - Calça_Acolchoada(A)[1559] [43 1 3 20 2 24]
+[03] - Katana[939] [43 9 0 0 0 0]
+[04] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[05] - Chave_da_Ultima_Porta[453] [0 0 0 0 0 0]
+[06] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[07] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[08] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[09] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[10] - Jaqueta_Acolchoada(N)[1554] [43 0 3 10 60 4]
+[11] - Katana[939] [43 9 0 0 0 0]
+[13] - Jaqueta_Acolchoada(A)[1556] [7 12 71 40 59 0]
+[14] - Emblema_Orc[524] [0 0 0 0 0 0]
+[29] - Foice_de_Argos[942] [43 9 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:10:26 : [Do1Ao400] - Personagem Do1Ao400 enviado ao mundo 2094x 2105y - Canal 2 - Cash da conta: 88120. OverPower: 2180
+15:10:26 : [Do1Ao400] - Gold atual: 1234. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+15:10:26 : [Do1Ao400] - Logou no personagem Do1Ao400 com poção divina ativo. Validade: 14/12/2020 19:39:22
+15:10:26 : [Do1Ao400] - Resetado a contagem de entradas água! Day: 344-345. Total: 0
+15:10:26 : [Do1Ao400] - Enviado informações do personagem
+15:10:28 : [Do1Ao400] - Informações do pacote:
+MoveType: 0
+MoveSpeed: 6
+DestinyX: 2082
+DestinyY: 2093
+DestinyX: 2094
+DestinyY: 2105
+etc,diffrent movement. Speed que era para ser: 3
+15:10:35 : [Do1Ao400] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:10:47 : [Do1Ao400] - Personagem deu personagem
+15:10:59 : ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:10:59 : Personagem foi desconectado. Permaneceu 00:00:54 minutos online

@@ -1,0 +1,39 @@
+# Configuração de drop do servidor
+# Cada valor deste é equivalente ao slot do inventário
+# Ou seja, para cada slot você pode ter uma porcentagem única
+Game server drop
+400 400 400 400 400 400 400 400 400 400
+400 400 400 400 400 300 500 500 500 500
+500 200 200 500 500 500 500 500 500 500
+500 500 500 500 500 500 500 500 500 500
+500 500 500 500 500 500 500 500 200 200
+500 500 500 500 500 200 200 200 200 200
+200 200 650 700
+
+#50 = OVOS, SLOT 22 e 23 = POT, 2 ÚLTIMOS = P.O E P.L
+
+# Bônus de experiência para geral do servidor
+# Isto é dado em porcentagem: 100 = 100% de experiência a mais
+Bônus experiência
+0
+
+NewbieZone=35
+
+Rates Refinação Abençoada
+0=25
+1=35
+2=50
+3=70
+4=100
+
+Channel=1
+TotalChannel=1
+
+
+GuildHour=21
+GuildDay=0
+
+NewbieHour=21
+
+Coloseum=3322 20
+StatSapphire=30

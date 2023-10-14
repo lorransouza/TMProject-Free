@@ -1,0 +1,986 @@
+
+12:44:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+12:44:55 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+12:44:55 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:44:55 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:45:06 : Solicitou ir ao mundo...
+12:45:06 : Recebido pedido para entrar no jogo
+12:45:06 : Recebido informação do personagem completa.
+12:45:06 : [LALALA] - [INFORMAÇÕES DA CONTA]
+Personagem online: LALALA
+Gold atual: 0
+Level atual: 399
+Experiência atual: 5190
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:11 horas
+Posição atual: 2098x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian21
+[01] - Elmo(N)1416
+[02] - Armadura(N)1419
+[03] - Calça(N)1422
+[04] - Luvas(N)1425
+[05] - Botas(N)1428
+[06] - Adaga861
+[15] - Mestre_dos_Aventureiros3199
+
+[INVENTÁRIO]
+[00] - Armadura(M)1450
+[01] - Mochila_de_Barras_(Tam._50)2280
+[02] - Cajado977
+[03] - Cajado977
+[04] - Calça(N)1131
+[05] - Peitoral(M)1600
+[06] - Adaga864
+[07] - Arco972
+[08] - Elmo(N)1107
+[09] - Arco972
+[10] - Lança850
+[11] - Luvas(M)1297
+[12] - Ração_de_Aranha2420
+[13] - Peitoral(M)1600
+[14] - Lança986
+[15] - Botas(M)1309
+[16] - Arco972
+[63] - Marca_do_Assassino547
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:45:06 : [LALALA] - Personagem LALALA enviado ao mundo 2098x 2097y - Canal 2 - Cash da conta: 0. PowerLevel: 274
+12:45:06 : [LALALA] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 5190. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:45:06 : [LALALA] - Resetado a contagem de entradas água! Day: 25-26. Total: 0
+12:45:06 : [LALALA] - [Mensagem do servidor]> O Kefra foi derrotado
+12:45:06 : [LALALA] - Enviado informações do personagem
+12:45:07 : [LALALA] - Comando "/day "
+12:45:07 : [LALALA] - [Mensagem do servidor]> !#11 2
+12:45:21 : [LALALA] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:45:39 : [LALALA] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2100x 2108y. Posição do NPC: 2102x 2116y
+12:46:44 : [LALALA] - [Mensagem do servidor]> Não possui recursos para essa compra
+12:46:48 : [LALALA] - Comando "/gm +item 4026"
+12:46:48 : [LALALA] - [Mensagem do servidor]> Criou o item Moeda_de_Bronze(1Mi)
+12:46:48 : [LALALA] - LALALA criou o item Moeda_de_Bronze(1Mi) [4026] [0 0 0 0 0 0]
+12:46:50 : [LALALA] - Item Moeda_de_Bronze(1Mi) [4026] [0 0 0 0 0 0] utilizado em 2117x 2118y
+12:46:50 : [LALALA] - Gold atual: 0.
+12:46:54 : [LALALA] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2117x 2118y
+12:46:54 : [LALALA] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+12:47:02 : [LALALA] - [Mensagem do servidor]> Compra concluída!
+12:47:04 : [LALALA] - [Mensagem do servidor]> Compra concluída!
+12:47:06 : [LALALA] - Item Pacote_de_Itens_(c/_Roleta) [5381] [96 8 0 0 0 0] utilizado em 2120x 2111y
+12:47:16 : [LALALA] - [Mensagem do servidor]> Recompensa retirada com sucesso
+12:47:19 : [LALALA] - [Mensagem do servidor]> Selecione uma caixa para ser aberta
+12:47:24 : [LALALA] - [Mensagem do servidor]> Ative para poder utilizar
+12:47:25 : [LALALA] - [Mensagem do servidor]> Ativação concluída
+12:47:25 : [LALALA] - Aplicado tempo no item Conjunto_Anfitriã 4167 - 3
+12:47:26 : [LALALA] - Moveu item Conjunto_Anfitriã [4167] [96 3 2 21 1 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 12
+12:47:33 : [LALALA] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2140x 2089y. Posição do NPC: 2143x 2081y
+12:52:39 : [LALALA] - Comando "/srv 1"
+12:52:39 : [LALALA] - Solicitou trocar para o servidor 1
+12:52:39 : [LALALA] - 1 Personagem foi desconectado. Permaneceu 00:07:39 minutos online
+12:52:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+12:52:40 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+12:52:40 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:52:40 : Recebido informação do personagem completa.
+12:52:40 : [LALALA] - [INFORMAÇÕES DA CONTA]
+Personagem online: LALALA
+Gold atual: 999990
+Level atual: 399
+Experiência atual: 5190
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:00 horas
+Posição atual: 2093x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian21
+[01] - Elmo(N)1416
+[02] - Armadura(N)1419
+[03] - Calça(N)1422
+[04] - Luvas(N)1425
+[05] - Botas(N)1428
+[06] - Adaga861
+[12] - Conjunto_Anfitriã4167
+[15] - Mestre_dos_Aventureiros3199
+
+[INVENTÁRIO]
+[00] - Armadura(M)1450
+[01] - Mochila_de_Barras_(Tam._50)2280
+[02] - Cajado977
+[03] - Cajado977
+[04] - Calça(N)1131
+[05] - Peitoral(M)1600
+[06] - Adaga864
+[07] - Arco972
+[08] - Elmo(N)1107
+[09] - Arco972
+[10] - Lança850
+[11] - Luvas(M)1297
+[12] - Ração_de_Aranha2420
+[13] - Peitoral(M)1600
+[14] - Lança986
+[15] - Botas(M)1309
+[16] - Arco972
+[18] - Chave_do_Pacote5382
+[63] - Marca_do_Assassino547
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:52:40 : [LALALA] - Personagem LALALA enviado ao mundo 2093x 2100y - Canal 1 - Cash da conta: 8039. PowerLevel: 324
+12:52:40 : [LALALA] - Gold atual: 999990. Classe: 2 Evolução: 0. Experiência: 5190. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:52:40 : [LALALA] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+12:52:41 : [LALALA] - Comando "/day "
+12:52:41 : [LALALA] - [Mensagem do servidor]> !#11 2
+12:52:44 : [LALALA] - Comando "/gm +server 1"
+12:52:44 : [LALALA] - [Mensagem do servidor]> Servidor foi fechado
+12:52:48 : [LALALA] - Comando "/gm +server 0"
+12:52:48 : [LALALA] - [Mensagem do servidor]> Servidor foi aberto
+12:52:54 : [LALALA] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:52:54 : [LALALA] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:52:54 : [LALALA] - 1 Personagem foi desconectado. Permaneceu 00:00:15 minutos online
+22:14:10 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+22:14:10 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+22:14:10 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+22:14:10 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:14:14 : Solicitou ir ao mundo...
+22:14:14 : Recebido pedido para entrar no jogo
+22:14:14 : Recebido informação do personagem completa.
+22:14:14 : [Foeteste] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foeteste
+Gold atual: 983508058
+Level atual: 149
+Experiência atual: 2996065791
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2094x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 515396092912
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[16] [43 0 16 2 1 1]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[11] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[14] - Andaluz_N[2370] [202 255 100 60 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[01] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[02] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[03] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[04] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 7 0 0 0 0]
+[06] - Selo_do_Guerreiro[4146] [61 205 0 0 0 0]
+[07] - Metamorfose[5605] [96 2 0 0 0 0]
+[08] - Luvas(M)[1216] [8 12 72 10 54 9]
+[09] - Luvas(M)[1216] [43 2 72 10 54 6]
+[10] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[11] - Cythera_Arcana[3507] [43 236 0 0 0 0]
+[12] - Poeira_de_Lactolerium[413] [61 5 204 204 204 204]
+[13] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[14] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[15] - Metamorfose[5605] [96 2 0 0 0 0]
+[63] - Marca_do_Assassino[547] [102 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:14:14 : [Foeteste] - Personagem Foeteste enviado ao mundo 2094x 2106y - Canal 2 - Cash da conta: 8039. PowerLevel: 5165
+22:14:14 : [Foeteste] - Gold atual: 983508058. Classe: 0 Evolução: 2. Experiência: 2996065791. Nível: 149. Info: 515396092912. GuildID: 0. CP: 27. Pontos de Contribuição: 0. Limite: 0
+22:14:14 : [Foeteste] - Logou no personagem Foeteste com frango ativo. Tempo: 1198
+22:14:14 : [Foeteste] - Enviado informações do personagem
+22:14:15 : [Foeteste] - Comando "/day "
+22:14:15 : [Foeteste] - [Mensagem do servidor]> !#11 2
+22:14:20 : [Foeteste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:14:26 : [Foeteste] - Comando "/info "
+22:14:26 : [Foeteste] - [Mensagem do servidor]> Personagem possui 1 resets e não realizou arcana
+22:14:37 : [Foeteste] - Comando "/gm +set level 199"
+22:14:38 : [Foeteste] - Comando "/gm +set level 198"
+22:14:43 : [Foeteste] - Pontos CP subiu em 3. CP novo: 105
+22:14:43 : [Foeteste] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:14:43 : [Foeteste] - Level UP para level 199. Ev: 2/2 - 2095x 2101y
+22:15:24 : [Foeteste] - Comando "/gm +item 3020"
+22:15:24 : [Foeteste] - [Mensagem do servidor]> Criou o item Pedra_da_Fúria
+22:15:24 : [Foeteste] - Foeteste criou o item Pedra_da_Fúria [3020] [0 0 0 0 0 0]
+22:15:26 : [Foeteste] - Item Pedra_da_Fúria [3020] [0 0 0 0 0 0] utilizado em 2095x 2101y
+22:15:26 : [Foeteste] - [Mensagem do servidor]> Você precisa de 500 de fame
+22:15:28 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 205 0 0 0 0] utilizado em 2095x 2101y
+22:15:29 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 204 0 0 0 0] utilizado em 2095x 2101y
+22:15:29 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 203 0 0 0 0] utilizado em 2095x 2101y
+22:15:35 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 202 0 0 0 0] utilizado em 2095x 2101y
+22:15:36 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 201 0 0 0 0] utilizado em 2095x 2101y
+22:15:36 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 200 0 0 0 0] utilizado em 2095x 2101y
+22:15:37 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 199 0 0 0 0] utilizado em 2095x 2101y
+22:15:37 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 198 0 0 0 0] utilizado em 2095x 2101y
+22:15:38 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 197 0 0 0 0] utilizado em 2095x 2101y
+22:15:38 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 196 0 0 0 0] utilizado em 2095x 2101y
+22:15:39 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 195 0 0 0 0] utilizado em 2095x 2101y
+22:15:39 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 194 0 0 0 0] utilizado em 2095x 2101y
+22:15:40 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 193 0 0 0 0] utilizado em 2095x 2101y
+22:15:40 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 192 0 0 0 0] utilizado em 2095x 2101y
+22:15:41 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 191 0 0 0 0] utilizado em 2095x 2101y
+22:15:41 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 190 0 0 0 0] utilizado em 2095x 2101y
+22:15:42 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 189 0 0 0 0] utilizado em 2095x 2101y
+22:15:42 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 188 0 0 0 0] utilizado em 2095x 2101y
+22:15:43 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 187 0 0 0 0] utilizado em 2095x 2101y
+22:15:43 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 186 0 0 0 0] utilizado em 2095x 2101y
+22:15:44 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 185 0 0 0 0] utilizado em 2095x 2101y
+22:15:45 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 184 0 0 0 0] utilizado em 2095x 2101y
+22:15:45 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 183 0 0 0 0] utilizado em 2095x 2101y
+22:15:46 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 182 0 0 0 0] utilizado em 2095x 2101y
+22:15:46 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 181 0 0 0 0] utilizado em 2095x 2101y
+22:15:47 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 180 0 0 0 0] utilizado em 2095x 2101y
+22:15:47 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 179 0 0 0 0] utilizado em 2095x 2101y
+22:15:48 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 178 0 0 0 0] utilizado em 2095x 2101y
+22:15:48 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 177 0 0 0 0] utilizado em 2095x 2101y
+22:15:49 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 176 0 0 0 0] utilizado em 2095x 2101y
+22:15:49 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 175 0 0 0 0] utilizado em 2095x 2101y
+22:15:50 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 174 0 0 0 0] utilizado em 2095x 2101y
+22:15:50 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 173 0 0 0 0] utilizado em 2095x 2101y
+22:15:57 : [Foeteste] - Item Pedra_da_Fúria [3020] [0 0 0 0 0 0] utilizado em 2098x 2099y
+22:15:57 : [Foeteste] - O personagem Foeteste completou o segundo reset do celestial.
+22:15:57 : [Foeteste] - [Mensagem do servidor]> Composição concluída!
+22:16:09 : [Foeteste] - Comando "/gm +set level 198"
+22:16:27 : [Foeteste] - Pontos CP subiu em 3. CP novo: 108
+22:16:27 : [Foeteste] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:16:27 : [Foeteste] - Level UP para level 199. Ev: 2/2 - 2098x 2099y
+22:16:58 : [Foeteste] - Comando "/info "
+22:16:58 : [Foeteste] - [Mensagem do servidor]> Personagem possui 2 resets e não realizou arcana
+22:17:06 : [Foeteste] - Personagem deu personagem
+22:17:08 : Solicitou ir ao mundo...
+22:17:08 : Recebido pedido para entrar no jogo
+22:17:08 : Recebido informação do personagem completa.
+22:17:08 : [Foeteste] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foeteste
+Gold atual: 983508058
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:02:56 horas
+Posição atual: 2091x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 515396125680
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[16] [43 0 16 2 1 1]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[11] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[14] - Andaluz_N[2370] [202 255 100 60 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[01] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[02] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[03] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[04] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 7 0 0 0 0]
+[06] - Selo_do_Guerreiro[4146] [61 172 0 0 0 0]
+[07] - Metamorfose[5605] [96 2 0 0 0 0]
+[08] - Luvas(M)[1216] [8 12 72 10 54 9]
+[09] - Luvas(M)[1216] [43 2 72 10 54 6]
+[10] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[11] - Cythera_Arcana[3507] [43 236 0 0 0 0]
+[12] - Poeira_de_Lactolerium[413] [61 5 204 204 204 204]
+[13] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[14] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[15] - Metamorfose[5605] [96 2 0 0 0 0]
+[63] - Marca_do_Assassino[547] [108 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:17:08 : [Foeteste] - Personagem Foeteste enviado ao mundo 2091x 2101y - Canal 2 - Cash da conta: 8039. PowerLevel: 5365
+22:17:08 : [Foeteste] - Gold atual: 983508058. Classe: 0 Evolução: 2. Experiência: 4000000000. Nível: 199. Info: 515396125680. GuildID: 0. CP: 33. Pontos de Contribuição: 0. Limite: 0
+22:17:08 : [Foeteste] - Logou no personagem Foeteste com frango ativo. Tempo: 1177
+22:17:08 : [Foeteste] - Enviado informações do personagem
+22:17:09 : [Foeteste] - Comando "/day "
+22:17:09 : [Foeteste] - [Mensagem do servidor]> !#11 2
+22:17:20 : [Foeteste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:17:25 : [Foeteste] - Comando "/info "
+22:17:25 : [Foeteste] - [Mensagem do servidor]> Personagem possui 2 resets e não realizou arcana
+22:21:23 : [Foeteste] - Teleportado para a posição 960 1761
+22:22:32 : [Foeteste] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:22:32 : [Foeteste] - 2 Personagem foi desconectado. Permaneceu 00:08:16 minutos online
+22:29:35 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+22:29:35 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+22:29:35 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+22:29:40 : Solicitou ir ao mundo...
+22:29:40 : Recebido pedido para entrar no jogo
+22:29:40 : Recebido informação do personagem completa.
+22:29:40 : [Foeteste] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foeteste
+Gold atual: 983507058
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2086x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 515396125680
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[16] [43 0 16 2 1 1]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[11] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[14] - Andaluz_N[2370] [202 255 100 60 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[01] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[02] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[03] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[04] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 7 0 0 0 0]
+[06] - Selo_do_Guerreiro[4146] [61 172 0 0 0 0]
+[07] - Metamorfose[5605] [96 2 0 0 0 0]
+[08] - Luvas(M)[1216] [8 12 72 10 54 9]
+[09] - Luvas(M)[1216] [43 2 72 10 54 6]
+[10] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[11] - Cythera_Arcana[3507] [43 236 0 0 0 0]
+[12] - Poeira_de_Lactolerium[413] [61 5 204 204 204 204]
+[13] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[14] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[15] - Metamorfose[5605] [96 2 0 0 0 0]
+[63] - Marca_do_Assassino[547] [108 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:29:40 : [Foeteste] - Personagem Foeteste enviado ao mundo 2086x 2103y - Canal 2 - Cash da conta: 8039. PowerLevel: 5365
+22:29:40 : [Foeteste] - Gold atual: 983507058. Classe: 0 Evolução: 2. Experiência: 4000000000. Nível: 199. Info: 515396125680. GuildID: 0. CP: 33. Pontos de Contribuição: 0. Limite: 0
+22:29:40 : [Foeteste] - Logou no personagem Foeteste com frango ativo. Tempo: 1137
+22:29:40 : [Foeteste] - Enviado informações do personagem
+22:29:41 : [Foeteste] - Comando "/day "
+22:29:41 : [Foeteste] - [Mensagem do servidor]> !#11 2
+22:29:57 : [Foeteste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:30:08 : [Foeteste] - Personagem deu personagem
+22:30:15 : Solicitou ir ao mundo...
+22:30:15 : Recebido pedido para entrar no jogo
+22:30:15 : Recebido informação do personagem completa.
+22:30:15 : [Foeteste] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foeteste
+Gold atual: 998999000
+Level atual: 399
+Experiência atual: 4000000000
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:39 horas
+Posição atual: 2096x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[02] - Robe(N)[1266] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:30:15 : [Foeteste] - Personagem Foeteste enviado ao mundo 2096x 2099y - Canal 2 - Cash da conta: 8039. PowerLevel: 462
+22:30:15 : [Foeteste] - Gold atual: 998999000. Classe: 1 Evolução: 0. Experiência: 4000000000. Nível: 399. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+22:30:15 : [Foeteste] - Enviado informações do personagem
+22:30:16 : [Foeteste] - Comando "/day "
+22:30:16 : [Foeteste] - [Mensagem do servidor]> !#11 2
+22:30:21 : [Foeteste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:30:24 : [Foeteste] - Teleportado para a posição 960 1761
+22:30:26 : [Foeteste] - Teleportado para a posição 1701 1725
+22:31:04 : [Foeteste] - Comando "/gm +item 1740"
+22:31:04 : [Foeteste] - [Mensagem do servidor]> Criou o item Alma_do_Unicórnio
+22:31:04 : [Foeteste] - Foeteste criou o item Alma_do_Unicórnio [1740] [0 0 0 0 0 0]
+22:31:06 : [Foeteste] - Comando "/gm +item 1742"
+22:31:06 : [Foeteste] - [Mensagem do servidor]> Criou o item Pedra_da_Imortalidade
+22:31:06 : [Foeteste] - Foeteste criou o item Pedra_da_Imortalidade [1742] [0 0 0 0 0 0]
+22:31:08 : [Foeteste] - Moveu item Pedra_da_Imortalidade [1742] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 10
+22:31:12 : [Foeteste] - Comando "/gm +item 1760"
+22:31:12 : [Foeteste] - [Mensagem do servidor]> Criou o item Sephirot(TransKnight)
+22:31:12 : [Foeteste] - Foeteste criou o item Sephirot(TransKnight) [1760] [0 0 0 0 0 0]
+22:31:14 : [Foeteste] - Moveu item Sephirot(TransKnight) [1760] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 11
+22:31:19 : [Foeteste] - Clicado no NPC [King Harabard]. Face 303. Race: 3. GenerateId: 8. Posição do usuário: 1748x 1574y. Posição do NPC: 1749x 1573y
+22:31:19 : [Foeteste] - Arch criado. Sephirot: 1760. Face: 16. Level: 399. SlotId: 1
+22:31:19 : [Foeteste] - [Mensagem do servidor]: Parabéns Foeteste pela criação do personagem Arch
+22:31:19 : ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:31:19 : Personagem foi desconectado. Permaneceu 00:01:43 minutos online
+22:31:31 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+22:31:31 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+22:31:31 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+22:31:38 : Solicitou ir ao mundo...
+22:31:38 : Recebido pedido para entrar no jogo
+22:31:38 : Recebido informação do personagem completa.
+22:31:38 : [Foeteste] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foeteste
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2092x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[16] [43 0 16 1 1 1]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:31:38 : [Foeteste] - Personagem Foeteste enviado ao mundo 2092x 2094y - Canal 2 - Cash da conta: 8039. PowerLevel: 1
+22:31:38 : [Foeteste] - Gold atual: 0. Classe: 0 Evolução: 1. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+22:31:38 : [Foeteste] - Enviado informações do personagem
+22:31:39 : [Foeteste] - Comando "/day "
+22:31:39 : [Foeteste] - [Mensagem do servidor]> !#11 2
+22:31:45 : [Foeteste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:32:03 : [Foeteste] - Comando "/gm +level 353"
+22:32:38 : [Foeteste] - [Mensagem do servidor]> Não possui recursos para essa compra
+22:32:38 : [Foeteste] - [Mensagem do servidor]> Não possui recursos para essa compra
+22:32:47 : [Foeteste] - Comando "/gm +set coin 100000000"
+22:32:47 : [Foeteste] - [Mensagem do servidor]> Gold setado para: 100000000.
+22:32:59 : [Foeteste] - Comando "/gm +item 413"
+22:32:59 : [Foeteste] - [Mensagem do servidor]> Criou o item Poeira_de_Lactolerium
+22:32:59 : [Foeteste] - Foeteste criou o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+22:33:00 : [Foeteste] - Comando "/gm +set coin 100000000"
+22:33:00 : [Foeteste] - [Mensagem do servidor]> Gold setado para: 100000000.
+22:33:01 : [Foeteste] - Comando "/gm +item 413"
+22:33:01 : [Foeteste] - [Mensagem do servidor]> Criou o item Poeira_de_Lactolerium
+22:33:01 : [Foeteste] - Foeteste criou o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+22:33:01 : [Foeteste] - Comando "/gm +item 413"
+22:33:01 : [Foeteste] - [Mensagem do servidor]> Criou o item Poeira_de_Lactolerium
+22:33:01 : [Foeteste] - Foeteste criou o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+22:33:04 : [Foeteste] - Comando "/gm +item 413"
+22:33:04 : [Foeteste] - [Mensagem do servidor]> Criou o item Poeira_de_Lactolerium
+22:33:04 : [Foeteste] - Foeteste criou o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+22:33:08 : [Foeteste] - [Mensagem do servidor]> Você precisa de um level maior.
+22:33:19 : [Foeteste] - Comando "/gm +set level 352"
+22:33:24 : [Foeteste] - Comprou uma skill Assalto. Learn antigo: 8796235554436, Learn atual: 1289703757579290624. Learn da skill: 1124.
+22:33:24 : [Foeteste] - [Mensagem do servidor]> Habilidade Assalto aprendida com sucesso
+22:33:26 : [Foeteste] - Pontos CP subiu em 3. CP novo: 78
+22:33:26 : [Foeteste] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:33:26 : [Foeteste] - Level UP para level 353. Ev: 1/1 - 2140x 2120y
+22:33:30 : [Foeteste] - Comando "/gm +set level 353"
+22:33:31 : [Foeteste] - [Mensagem do servidor]> Seu level foi bloqueado
+22:33:31 : [Foeteste] - Pontos CP subiu em 3. CP novo: 81
+22:33:31 : [Foeteste] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:33:31 : [Foeteste] - Level UP para level 354. Ev: 1/1 - 2140x 2120y
+22:33:39 : [Foeteste] - Teleportado para a posição 960 1761
+22:33:41 : [Foeteste] - Teleportado para a posição 1701 1725
+22:33:42 : [Foeteste] - Clicado no NPC [Lindy]. Face 67. Race: 2. GenerateId: 3429. Posição do usuário: 1701x 1725y. Posição do NPC: 1704x 1725y
+22:33:46 : [Foeteste] - Lindy - 0 - Pergaminho_Selado [4127] [0 0 0 0 0 0] - 0
+22:33:46 : [Foeteste] - Lindy - 1 - Poeira_de_Lactolerium [413] [0 0 0 0 0 0] - 3
+22:33:46 : [Foeteste] - Lindy - 2 - Poeira_de_Lactolerium [413] [0 0 0 0 0 0] - 4
+22:33:46 : [Foeteste] - Lindy - 3 - Poeira_de_Lactolerium [413] [0 0 0 0 0 0] - 5
+22:33:46 : [Foeteste] - Lindy - 4 - Poeira_de_Lactolerium [413] [0 0 0 0 0 0] - 6
+22:33:46 : [Foeteste] - Alterado a capa para 3193
+22:33:46 : [Foeteste] - [Mensagem do servidor]> Composição concluída!
+22:33:46 : [Foeteste] - Composição de desbloqueio 355 efetuada com SUCESSO 0- 6/90
+22:33:52 : [Foeteste] - Comando "/gm +set level 368"
+22:33:54 : [Foeteste] - Comando "/gm +set level 367"
+22:33:55 : [Foeteste] - Pontos CP subiu em 3. CP novo: 84
+22:33:55 : [Foeteste] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:33:55 : [Foeteste] - Level UP para level 368. Ev: 1/1 - 1701x 1725y
+22:33:57 : [Foeteste] - Comando "/gm +set level 368"
+22:33:59 : [Foeteste] - [Mensagem do servidor]> Seu level foi bloqueado
+22:33:59 : [Foeteste] - Pontos CP subiu em 3. CP novo: 87
+22:33:59 : [Foeteste] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:33:59 : [Foeteste] - Level UP para level 369. Ev: 1/1 - 1701x 1725y
+22:34:02 : [Foeteste] - Clicado no NPC [Lindy]. Face 67. Race: 2. GenerateId: 3429. Posição do usuário: 1701x 1725y. Posição do NPC: 1704x 1725y
+22:34:05 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 240 0 0 0 0] utilizado em 1701x 1725y
+22:34:10 : [Foeteste] - Comando "/gm +item 413"
+22:34:10 : [Foeteste] - [Mensagem do servidor]> Criou o item Poeira_de_Lactolerium
+22:34:10 : [Foeteste] - Foeteste criou o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+22:34:11 : [Foeteste] - Comando "/gm +item 413"
+22:34:11 : [Foeteste] - [Mensagem do servidor]> Criou o item Poeira_de_Lactolerium
+22:34:11 : [Foeteste] - Foeteste criou o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+22:34:11 : [Foeteste] - Comando "/gm +item 413"
+22:34:11 : [Foeteste] - [Mensagem do servidor]> Criou o item Poeira_de_Lactolerium
+22:34:11 : [Foeteste] - Foeteste criou o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+22:34:13 : [Foeteste] - Comando "/gm +item 413"
+22:34:13 : [Foeteste] - [Mensagem do servidor]> Criou o item Poeira_de_Lactolerium
+22:34:13 : [Foeteste] - Foeteste criou o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+22:34:14 : [Foeteste] - Clicado no NPC [Lindy]. Face 67. Race: 2. GenerateId: 3429. Posição do usuário: 1701x 1725y. Posição do NPC: 1704x 1725y
+22:34:16 : [Foeteste] - Lindy - 0 - Pergaminho_Selado [4127] [0 0 0 0 0 0] - 1
+22:34:16 : [Foeteste] - Lindy - 1 - Poeira_de_Lactolerium [413] [0 0 0 0 0 0] - 0
+22:34:16 : [Foeteste] - Lindy - 2 - Poeira_de_Lactolerium [413] [0 0 0 0 0 0] - 3
+22:34:16 : [Foeteste] - Lindy - 3 - Poeira_de_Lactolerium [413] [0 0 0 0 0 0] - 4
+22:34:16 : [Foeteste] - Lindy - 4 - Poeira_de_Lactolerium [413] [0 0 0 0 0 0] - 5
+22:34:16 : [Foeteste] - Adicionado adicional de resistência na capa
+22:34:16 : [Foeteste] - [Mensagem do servidor]> Composição concluída!
+22:34:16 : [Foeteste] - Composição de desbloqueio 355 efetuada com SUCESSO 0- 55/90
+22:34:34 : [Foeteste] - Comando "/gm +item 4106"
+22:34:34 : [Foeteste] - [Mensagem do servidor]> Criou o item Cristal_Elime
+22:34:34 : [Foeteste] - Foeteste criou o item Cristal_Elime [4106] [0 0 0 0 0 0]
+22:34:35 : [Foeteste] - Comando "/gm +item 4107"
+22:34:35 : [Foeteste] - [Mensagem do servidor]> Criou o item Cristal_Sylphed
+22:34:35 : [Foeteste] - Foeteste criou o item Cristal_Sylphed [4107] [0 0 0 0 0 0]
+22:34:36 : [Foeteste] - Comando "/gm +item 4108"
+22:34:36 : [Foeteste] - [Mensagem do servidor]> Criou o item Cristal_Thelion
+22:34:36 : [Foeteste] - Foeteste criou o item Cristal_Thelion [4108] [0 0 0 0 0 0]
+22:34:36 : [Foeteste] - Comando "/gm +item 4109"
+22:34:36 : [Foeteste] - [Mensagem do servidor]> Criou o item Cristal_Noas
+22:34:36 : [Foeteste] - Foeteste criou o item Cristal_Noas [4109] [0 0 0 0 0 0]
+22:34:39 : [Foeteste] - Item Cristal_Elime [4106] [0 0 0 0 0 0] utilizado em 1701x 1725y
+22:34:41 : [Foeteste] - Item Cristal_Sylphed [4107] [0 0 0 0 0 0] utilizado em 1701x 1725y
+22:34:43 : [Foeteste] - Item Cristal_Thelion [4108] [0 0 0 0 0 0] utilizado em 1701x 1725y
+22:34:47 : [Foeteste] - Item Cristal_Noas [4109] [0 0 0 0 0 0] utilizado em 1701x 1725y
+22:34:53 : [Foeteste] - Comando "/gm +set level 398"
+22:34:55 : [Foeteste] - Pontos CP subiu em 3. CP novo: 90
+22:34:55 : [Foeteste] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:34:55 : [Foeteste] - Level UP para level 399. Ev: 1/1 - 1701x 1725y
+22:34:58 : [Foeteste] - Comando "/gm +item 5338"
+22:34:58 : [Foeteste] - [Mensagem do servidor]> Criou o item Pedra_Ideal
+22:34:58 : [Foeteste] - Foeteste criou o item Pedra_Ideal [5338] [0 0 0 0 0 0]
+22:35:00 : [Foeteste] - Item Pedra_Ideal [5338] [0 0 0 0 0 0] utilizado em 1701x 1725y
+22:35:00 : [Foeteste] - Celestial criado. Level: 399 - Cythera: 3502. Points 400. Cape 3199
+22:35:00 : [Mensagem do servidor]> Que Deus abençoe seu caminho!
+22:35:06 : Solicitou ir ao mundo...
+22:35:06 : Recebido pedido para entrar no jogo
+22:35:06 : Recebido informação do personagem completa.
+22:35:06 : [Foeteste] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foeteste
+Gold atual: 98999000
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:03:33 horas
+Posição atual: 2092x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215600
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[16] [43 0 16 2 1 1]
+[01] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[02] - Selo_do_Guerreiro[4146] [61 239 0 0 0 0]
+[63] - Marca_do_Assassino[547] [90 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:35:06 : [Foeteste] - Personagem Foeteste enviado ao mundo 2092x 2103y - Canal 2 - Cash da conta: 8039. PowerLevel: 592
+22:35:06 : [Foeteste] - Gold atual: 98999000. Classe: 0 Evolução: 2. Experiência: 0. Nível: 0. Info: 103079215600. GuildID: 0. CP: 15. Pontos de Contribuição: 0. Limite: 0
+22:35:06 : [Foeteste] - Enviado informações do personagem
+22:35:07 : [Foeteste] - Comando "/day "
+22:35:07 : [Foeteste] - [Mensagem do servidor]> !#11 2
+22:35:21 : [Foeteste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:36:17 : [Foeteste] - Comando "/gm +kefra"
+22:36:26 : [Foeteste] - Comprou uma skill Assalto. Learn antigo: 4611694814662942340, Learn atual: 1289703757579290624. Learn da skill: 1124.
+22:36:26 : [Foeteste] - [Mensagem do servidor]> Habilidade Assalto aprendida com sucesso
+22:36:33 : [Foeteste] - Teleportado para a posição 960 1761
+22:36:37 : [Foeteste] - Teleportado para a posição 2117 2102
+22:37:22 : [Foeteste] - Teleportado para a posição 960 1761
+22:37:34 : [Foeteste] - Comando "/gm +move kefra"
+22:37:34 : [Foeteste] - Teleportado para a posição 3290 1695
+22:37:45 : [Foeteste] - Comando "/gm +set level 38"
+22:37:48 : [Foeteste] - [Mensagem do servidor]> Seu level foi bloqueado
+22:37:48 : [Foeteste] - Pontos CP subiu em 3. CP novo: 93
+22:37:48 : [Foeteste] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:37:48 : [Foeteste] - Level UP para level 39. Ev: 2/2 - 3245x 1691y
+22:37:50 : [Foeteste] - Clicado no NPC [Alquimista Odin]. Face 103. Race: 2. GenerateId: 3417. Posição do usuário: 3241x 1692y. Posição do NPC: 3236x 1694y
+22:38:05 : [Foeteste] - Comando "/gm +item 4127"
+22:38:06 : [Foeteste] - [Mensagem do servidor]> Criou o item Pergaminho_Selado
+22:38:06 : [Foeteste] - Foeteste criou o item Pergaminho_Selado [4127] [0 0 0 0 0 0]
+22:38:06 : [Foeteste] - Comando "/gm +item 4127"
+22:38:06 : [Foeteste] - [Mensagem do servidor]> Criou o item Pergaminho_Selado
+22:38:06 : [Foeteste] - Foeteste criou o item Pergaminho_Selado [4127] [0 0 0 0 0 0]
+22:38:07 : [Foeteste] - Clicado no NPC [Alquimista Odin]. Face 103. Race: 2. GenerateId: 3417. Posição do usuário: 3241x 1692y. Posição do NPC: 3237x 1691y
+22:38:14 : [Foeteste] - Alq. Odin - 0 - Pergaminho_Selado [4127] [0 0 0 0 0 0] - 15
+22:38:14 : [Foeteste] - Alq. Odin - 1 - Pergaminho_Selado [4127] [0 0 0 0 0 0] - 16
+22:38:14 : [Foeteste] - Alq. Odin - 2 - Selo_Mágico [5135] [0 0 0 0 0 0] - 14
+22:38:14 : [Foeteste] - Alq. Odin - 3 - Fehu [5113] [0 0 0 0 0 0] - 0
+22:38:14 : [Foeteste] - Alq. Odin - 4 - Mannaz [5129] [0 0 0 0 0 0] - 1
+22:38:14 : [Foeteste] - Alq. Odin - 5 - Thurisaz [5112] [0 0 0 0 0 0] - 4
+22:38:14 : [Foeteste] - Alq. Odin - 6 - Ansuz [5110] [0 0 0 0 0 0] - 3
+22:38:14 : [Foeteste] - [Mensagem do servidor]> Composição concluída!
+22:38:14 : [Foeteste] - Composição de desbloqueio 40 efetuada com SUCESSO
+22:38:30 : [Foeteste] - Comando "/gm +set level 89"
+22:38:32 : [Foeteste] - Comando "/gm +set level 88"
+22:38:34 : [Foeteste] - [Mensagem do servidor]> Seu level foi bloqueado
+22:38:34 : [Foeteste] - Pontos CP subiu em 3. CP novo: 96
+22:38:34 : [Foeteste] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:38:34 : [Foeteste] - Level UP para level 89. Ev: 2/2 - 3241x 1692y
+22:38:38 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 239 0 0 0 0] utilizado em 3241x 1692y
+22:38:39 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 238 0 0 0 0] utilizado em 3241x 1692y
+22:38:43 : [Foeteste] - Comando "/gm +item 3020"
+22:38:43 : [Foeteste] - [Mensagem do servidor]> Criou o item Pedra_da_Fúria
+22:38:43 : [Foeteste] - Foeteste criou o item Pedra_da_Fúria [3020] [0 0 0 0 0 0]
+22:38:43 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 237 0 0 0 0] utilizado em 3241x 1692y
+22:38:44 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 236 0 0 0 0] utilizado em 3241x 1692y
+22:38:44 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 235 0 0 0 0] utilizado em 3241x 1692y
+22:38:45 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 234 0 0 0 0] utilizado em 3241x 1692y
+22:38:45 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 233 0 0 0 0] utilizado em 3241x 1692y
+22:38:46 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 232 0 0 0 0] utilizado em 3241x 1692y
+22:38:46 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 231 0 0 0 0] utilizado em 3241x 1692y
+22:38:47 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 230 0 0 0 0] utilizado em 3241x 1692y
+22:38:47 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 229 0 0 0 0] utilizado em 3241x 1692y
+22:38:48 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 228 0 0 0 0] utilizado em 3241x 1692y
+22:38:49 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 227 0 0 0 0] utilizado em 3241x 1692y
+22:38:49 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 226 0 0 0 0] utilizado em 3241x 1692y
+22:38:50 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 225 0 0 0 0] utilizado em 3241x 1692y
+22:38:50 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 224 0 0 0 0] utilizado em 3241x 1692y
+22:38:51 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 223 0 0 0 0] utilizado em 3241x 1692y
+22:38:51 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 222 0 0 0 0] utilizado em 3241x 1692y
+22:38:52 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 221 0 0 0 0] utilizado em 3241x 1692y
+22:38:52 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 220 0 0 0 0] utilizado em 3241x 1692y
+22:38:53 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 219 0 0 0 0] utilizado em 3241x 1692y
+22:38:53 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 218 0 0 0 0] utilizado em 3241x 1692y
+22:38:54 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 217 0 0 0 0] utilizado em 3241x 1692y
+22:38:55 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 216 0 0 0 0] utilizado em 3241x 1692y
+22:38:55 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 215 0 0 0 0] utilizado em 3241x 1692y
+22:38:56 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 214 0 0 0 0] utilizado em 3241x 1692y
+22:38:56 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 213 0 0 0 0] utilizado em 3241x 1692y
+22:38:57 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 212 0 0 0 0] utilizado em 3241x 1692y
+22:38:57 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 211 0 0 0 0] utilizado em 3241x 1692y
+22:38:58 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 210 0 0 0 0] utilizado em 3241x 1692y
+22:38:58 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 209 0 0 0 0] utilizado em 3241x 1692y
+22:38:59 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 208 0 0 0 0] utilizado em 3241x 1692y
+22:38:59 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 207 0 0 0 0] utilizado em 3241x 1692y
+22:39:00 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 206 0 0 0 0] utilizado em 3241x 1692y
+22:39:00 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 205 0 0 0 0] utilizado em 3241x 1692y
+22:39:01 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 204 0 0 0 0] utilizado em 3241x 1692y
+22:39:01 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 203 0 0 0 0] utilizado em 3241x 1692y
+22:39:02 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 202 0 0 0 0] utilizado em 3241x 1692y
+22:39:02 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 201 0 0 0 0] utilizado em 3241x 1692y
+22:39:03 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 200 0 0 0 0] utilizado em 3241x 1692y
+22:39:03 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 199 0 0 0 0] utilizado em 3241x 1692y
+22:39:04 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 198 0 0 0 0] utilizado em 3241x 1692y
+22:39:04 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 197 0 0 0 0] utilizado em 3241x 1692y
+22:39:05 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 196 0 0 0 0] utilizado em 3241x 1692y
+22:39:05 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 195 0 0 0 0] utilizado em 3241x 1692y
+22:39:06 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 194 0 0 0 0] utilizado em 3241x 1692y
+22:39:07 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 193 0 0 0 0] utilizado em 3241x 1692y
+22:39:07 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 192 0 0 0 0] utilizado em 3241x 1692y
+22:39:08 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 191 0 0 0 0] utilizado em 3241x 1692y
+22:39:08 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 190 0 0 0 0] utilizado em 3241x 1692y
+22:39:09 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 189 0 0 0 0] utilizado em 3241x 1692y
+22:39:09 : [Foeteste] - Item Pedra_da_Fúria [3020] [0 0 0 0 0 0] utilizado em 3241x 1692y
+22:39:09 : [Foeteste] - [Mensagem do servidor]> Composição concluída!
+22:39:09 : [Foeteste] - Desbloqueio 90:  recebeu cythera mística
+22:39:18 : [Foeteste] - Comando "/gm +set level 198"
+22:39:20 : [Foeteste] - Pontos CP subiu em 3. CP novo: 99
+22:39:20 : [Foeteste] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:39:20 : [Foeteste] - Level UP para level 199. Ev: 2/2 - 3241x 1692y
+22:39:32 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 188 0 0 0 0] utilizado em 3244x 1695y
+22:39:32 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 187 0 0 0 0] utilizado em 3244x 1695y
+22:39:35 : [Foeteste] - Comando "/gm +item 3020"
+22:39:35 : [Foeteste] - [Mensagem do servidor]> Criou o item Pedra_da_Fúria
+22:39:35 : [Foeteste] - Foeteste criou o item Pedra_da_Fúria [3020] [0 0 0 0 0 0]
+22:39:37 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 186 0 0 0 0] utilizado em 3244x 1695y
+22:39:37 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 185 0 0 0 0] utilizado em 3244x 1695y
+22:39:38 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 184 0 0 0 0] utilizado em 3244x 1695y
+22:39:38 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 183 0 0 0 0] utilizado em 3244x 1695y
+22:39:39 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 182 0 0 0 0] utilizado em 3244x 1695y
+22:39:39 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 181 0 0 0 0] utilizado em 3244x 1695y
+22:39:41 : [Foeteste] - Item Pedra_da_Fúria [3020] [0 0 0 0 0 0] utilizado em 3244x 1695y
+22:39:41 : [Foeteste] - [Mensagem do servidor]> Você precisa de 500 de fame
+22:39:42 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 180 0 0 0 0] utilizado em 3244x 1695y
+22:39:43 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 179 0 0 0 0] utilizado em 3244x 1695y
+22:39:43 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 178 0 0 0 0] utilizado em 3244x 1695y
+22:39:44 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 177 0 0 0 0] utilizado em 3244x 1695y
+22:39:44 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 176 0 0 0 0] utilizado em 3244x 1695y
+22:39:45 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 175 0 0 0 0] utilizado em 3244x 1695y
+22:39:45 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 174 0 0 0 0] utilizado em 3244x 1695y
+22:39:46 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 173 0 0 0 0] utilizado em 3244x 1695y
+22:39:46 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 172 0 0 0 0] utilizado em 3244x 1695y
+22:39:47 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 171 0 0 0 0] utilizado em 3244x 1695y
+22:39:47 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 170 0 0 0 0] utilizado em 3244x 1695y
+22:39:48 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 169 0 0 0 0] utilizado em 3244x 1695y
+22:39:48 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 168 0 0 0 0] utilizado em 3244x 1695y
+22:39:49 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 167 0 0 0 0] utilizado em 3244x 1695y
+22:39:49 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 166 0 0 0 0] utilizado em 3244x 1695y
+22:39:50 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 165 0 0 0 0] utilizado em 3244x 1695y
+22:39:50 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 164 0 0 0 0] utilizado em 3244x 1695y
+22:39:51 : [Foeteste] - Item Pedra_da_Fúria [3020] [0 0 0 0 0 0] utilizado em 3244x 1695y
+22:39:51 : [Foeteste] - [Mensagem do servidor]> Você precisa de 500 de fame
+22:39:52 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 163 0 0 0 0] utilizado em 3244x 1695y
+22:39:52 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 162 0 0 0 0] utilizado em 3244x 1695y
+22:39:53 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 161 0 0 0 0] utilizado em 3244x 1695y
+22:39:54 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 160 0 0 0 0] utilizado em 3244x 1695y
+22:39:54 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 159 0 0 0 0] utilizado em 3244x 1695y
+22:39:55 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 158 0 0 0 0] utilizado em 3244x 1695y
+22:39:55 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 157 0 0 0 0] utilizado em 3244x 1695y
+22:39:56 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 156 0 0 0 0] utilizado em 3244x 1695y
+22:39:56 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 155 0 0 0 0] utilizado em 3244x 1695y
+22:39:57 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 154 0 0 0 0] utilizado em 3244x 1695y
+22:39:57 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 153 0 0 0 0] utilizado em 3244x 1695y
+22:39:58 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 152 0 0 0 0] utilizado em 3244x 1695y
+22:39:58 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 151 0 0 0 0] utilizado em 3244x 1695y
+22:39:59 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 150 0 0 0 0] utilizado em 3244x 1695y
+22:39:59 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 149 0 0 0 0] utilizado em 3244x 1695y
+22:40:00 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 148 0 0 0 0] utilizado em 3244x 1695y
+22:40:00 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 147 0 0 0 0] utilizado em 3244x 1695y
+22:40:01 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 146 0 0 0 0] utilizado em 3244x 1695y
+22:40:01 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 145 0 0 0 0] utilizado em 3244x 1695y
+22:40:02 : [Foeteste] - Item Pedra_da_Fúria [3020] [0 0 0 0 0 0] utilizado em 3244x 1695y
+22:40:02 : [Foeteste] - [Mensagem do servidor]> Você precisa de 500 de fame
+22:40:03 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 144 0 0 0 0] utilizado em 3244x 1695y
+22:40:03 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 143 0 0 0 0] utilizado em 3244x 1695y
+22:40:04 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 142 0 0 0 0] utilizado em 3244x 1695y
+22:40:04 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 141 0 0 0 0] utilizado em 3244x 1695y
+22:40:05 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 140 0 0 0 0] utilizado em 3244x 1695y
+22:40:05 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 139 0 0 0 0] utilizado em 3244x 1695y
+22:40:06 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 138 0 0 0 0] utilizado em 3244x 1695y
+22:40:06 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 137 0 0 0 0] utilizado em 3244x 1695y
+22:40:07 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 136 0 0 0 0] utilizado em 3244x 1695y
+22:40:07 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 135 0 0 0 0] utilizado em 3244x 1695y
+22:40:08 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 134 0 0 0 0] utilizado em 3244x 1695y
+22:40:08 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 133 0 0 0 0] utilizado em 3244x 1695y
+22:40:09 : [Foeteste] - Item Selo_do_Guerreiro [4146] [61 132 0 0 0 0] utilizado em 3244x 1695y
+22:40:09 : [Foeteste] - Item Pedra_da_Fúria [3020] [0 0 0 0 0 0] utilizado em 3244x 1695y
+22:40:09 : [Foeteste] - [Mensagem do servidor]> Composição concluída!
+22:40:09 : [Foeteste] - Sucesso ao criar Cythera Arcana
+22:40:16 : [Foeteste] - Comando "/info "
+22:40:16 : [Foeteste] - [Mensagem do servidor]> Personagem possui 0 resets e não realizou arcana
+22:40:39 : [Foeteste] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:40:39 : [Foeteste] - 1 Personagem foi desconectado. Permaneceu 00:09:01 minutos online
+23:01:48 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN3) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+23:01:48 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+23:01:48 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+23:02:02 : Solicitou ir ao mundo...
+23:02:02 : Recebido pedido para entrar no jogo
+23:02:02 : Recebido informação do personagem completa.
+23:02:02 : [LALALA] - [INFORMAÇÕES DA CONTA]
+Personagem online: LALALA
+Gold atual: 999990
+Level atual: 399
+Experiência atual: 5190
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:13 horas
+Posição atual: 2092x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[12] - Conjunto_Anfitriã[4167] [96 3 2 21 1 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Armadura(M)[1450] [43 0 71 30 59 0]
+[01] - Mochila_de_Barras_(Tam._50)[2280] [96 10 0 0 0 0]
+[02] - Cajado[977] [43 0 59 0 59 0]
+[03] - Cajado[977] [43 1 60 8 60 12]
+[04] - Calça(N)[1131] [43 1 3 10 59 0]
+[05] - Peitoral(M)[1600] [43 0 71 30 59 0]
+[06] - Adaga[864] [4 40 2 18 59 0]
+[07] - Arco[972] [43 0 2 9 59 0]
+[08] - Elmo(N)[1107] [7 8 60 4 59 0]
+[09] - Arco[972] [43 0 59 0 59 0]
+[10] - Lança[850] [14 11 74 3 59 0]
+[11] - Luvas(M)[1297] [43 1 72 15 2 6]
+[12] - Ração_de_Aranha[2420] [61 3 0 0 0 0]
+[13] - Peitoral(M)[1600] [43 2 71 40 3 10]
+[14] - Lança[986] [43 0 59 0 60 16]
+[15] - Botas(M)[1309] [43 1 73 6 59 0]
+[16] - Arco[972] [43 0 59 0 59 0]
+[18] - Chave_do_Pacote[5382] [96 8 61 9 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:02:02 : [LALALA] - Personagem LALALA enviado ao mundo 2092x 2100y - Canal 2 - Cash da conta: 8039. PowerLevel: 324
+23:02:02 : [LALALA] - Gold atual: 999990. Classe: 2 Evolução: 0. Experiência: 5190. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+23:02:02 : [LALALA] - Enviado informações do personagem
+23:02:03 : [LALALA] - Comando "/day "
+23:02:03 : [LALALA] - [Mensagem do servidor]> !#11 2
+23:02:09 : [LALALA] - Comando "/gm +set level 1"
+23:02:09 : [LALALA] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:02:14 : [LALALA] - Comando "/gm +set erion"
+23:02:14 : [LALALA] - [Mensagem do servidor]> Comando inválido
+23:02:21 : [LALALA] - Comando "/gm +move erion"
+23:02:21 : [LALALA] - Teleportado para a posição 2460 2009
+23:02:34 : [LALALA] - Comando "/nig "
+23:02:34 : [LALALA] - [Mensagem do servidor]> !!230234
+23:02:37 : [LALALA] - [Mensagem do servidor]> Compra concluída!
+23:02:41 : [LALALA] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2007y
+23:02:41 : [LALALA] - [Mensagem do servidor]> Entrada não permitida
+23:02:44 : [LALALA] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2007y
+23:02:44 : [LALALA] - [Mensagem do servidor]> Entrada não permitida
+23:02:45 : [LALALA] - Item Pesadelo_(N/Grupo) [3324] [0 0 0 0 0 0] utilizado em 2462x 2007y
+23:02:45 : [LALALA] - [Mensagem do servidor]> Entrada não permitida
+23:10:05 : [LALALA] - Teleportado para a posição 960 1761
+23:10:21 : [LALALA] - Personagem deu personagem
+23:10:27 : Solicitou ir ao mundo...
+23:10:27 : Recebido pedido para entrar no jogo
+23:10:27 : Recebido informação do personagem completa.
+23:10:27 : [Foeteste] - [INFORMAÇÕES DA CONTA]
+Personagem online: Foeteste
+Gold atual: 983507058
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:08:31 horas
+Posição atual: 2089x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 515396125680
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[16] [43 0 16 2 1 1]
+[06] - Skytalos(Anct)[2551] [43 251 2 255 2 255]
+[11] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[14] - Andaluz_N[2370] [202 255 100 60 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[01] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[02] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[03] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[04] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 7 0 0 0 0]
+[06] - Selo_do_Guerreiro[4146] [61 172 0 0 0 0]
+[07] - Metamorfose[5605] [96 2 0 0 0 0]
+[08] - Luvas(M)[1216] [8 12 72 10 54 9]
+[09] - Luvas(M)[1216] [43 2 72 10 54 6]
+[10] - Pedra_Ideal[5338] [0 0 0 0 0 0]
+[11] - Cythera_Arcana[3507] [43 236 0 0 0 0]
+[12] - Poeira_de_Lactolerium[413] [61 5 204 204 204 204]
+[13] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[14] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[15] - Metamorfose[5605] [96 2 0 0 0 0]
+[63] - Marca_do_Assassino[547] [108 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:10:27 : [Foeteste] - Personagem Foeteste enviado ao mundo 2089x 2102y - Canal 2 - Cash da conta: 7939. PowerLevel: 5365
+23:10:27 : [Foeteste] - Gold atual: 983507058. Classe: 0 Evolução: 2. Experiência: 4000000000. Nível: 199. Info: 515396125680. GuildID: 0. CP: 33. Pontos de Contribuição: 0. Limite: 0
+23:10:27 : [Foeteste] - Logou no personagem Foeteste com frango ativo. Tempo: 1133
+23:10:27 : [Foeteste] - Enviado informações do personagem
+23:10:27 : [Foeteste] - Comando "/day "
+23:10:27 : [Foeteste] - [Mensagem do servidor]> !#11 2
+23:10:34 : [Foeteste] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:11:48 : [Foeteste] - ADMIN3 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+23:11:48 : [Foeteste] - 1 Personagem foi desconectado. Permaneceu 00:09:51 minutos online

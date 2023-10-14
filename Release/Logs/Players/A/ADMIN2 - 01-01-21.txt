@@ -1,0 +1,997 @@
+
+09:59:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+09:59:29 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+09:59:29 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+09:59:29 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:59:58 : Solicitou ir ao mundo...
+09:59:58 : Recebido pedido para entrar no jogo
+09:59:58 : Recebido informação do personagem completa.
+09:59:58 : [TKzaoporra] - [INFORMAÇÕES DA CONTA]
+Personagem online: TKzaoporra
+Gold atual: 4935000
+Level atual: 42
+Experiência atual: 368744
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:28 horas
+Posição atual: 2093x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Cota_de_Couro_Batido(N)[1131] [0 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Lança_de_Taurus[944] [0 0 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 22 108 3]
+[16] - Asa_Élfica[3101] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Chapéu_Pele_de_Animal(A)[1403] [43 0 60 10 59 0]
+[01] - Machado[802] [0 0 0 0 0 0]
+[02] - Porrete_de_Espinhos[803] [0 0 0 0 0 0]
+[03] - Maça_Pesada[804] [0 0 0 0 0 0]
+[04] - Machado_de_Aço[805] [0 0 0 0 0 0]
+[05] - Machado_Duplo[806] [0 0 0 0 0 0]
+[06] - Maça_Gótica[807] [0 0 0 0 0 0]
+[07] - Martelo_Sagrado[808] [0 0 0 0 0 0]
+[08] - Machado_Sanguinário[809] [0 0 0 0 0 0]
+[09] - Balmung[811] [0 0 0 0 0 0]
+[10] - Lança_Invisível[837] [0 0 0 0 0 0]
+[11] - Porrete[801] [0 0 0 0 0 0]
+[12] - Gladius[862] [0 0 0 0 0 0]
+[13] - Adaga[861] [0 0 0 0 0 0]
+[14] - Dardo[876] [0 0 0 0 0 0]
+[15] - Machado_de_Arremesso[877] [0 0 0 0 0 0]
+[16] - Lança_Relâmpago[884] [0 0 0 0 0 0]
+[17] - Lança_de_Caça[920] [0 0 0 0 0 0]
+[18] - Lança_Mágica[918] [0 0 0 0 0 0]
+[19] - Javelin[922] [0 0 0 0 0 0]
+[20] - Katana[939] [0 0 0 0 0 0]
+[21] - Foice_do_Mago[941] [0 0 0 0 0 0]
+[22] - Foice_de_Argos[942] [0 0 0 0 0 0]
+[23] - Martelo_de_Pedra[938] [43 9 0 0 0 0]
+[24] - Tsurugi[945] [0 0 0 0 0 0]
+[25] - Espada_Longa[863] [0 0 0 0 0 0]
+[26] - Pochard[988] [0 0 0 0 0 0]
+[27] - Rapier[952] [0 0 0 0 0 0]
+[28] - Cimitarra[953] [0 0 0 0 0 0]
+[29] - Katana[939] [43 9 0 0 0 0]
+[30] - Martelo[966] [0 0 0 0 0 0]
+[31] - Maça_Pesada[961] [0 0 0 0 0 0]
+[32] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[33] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[34] - Grande_Machado[969] [0 0 0 0 0 0]
+[35] - Stiletto[951] [0 0 0 0 0 0]
+[36] - Maça[962] [0 0 0 0 0 0]
+[37] - Kraika[963] [0 0 0 0 0 0]
+[38] - Martelo[966] [0 0 0 0 0 0]
+[39] - Martelo_de_Guerra[967] [0 0 0 0 0 0]
+[40] - Maça_Gótica[965] [0 0 0 0 0 0]
+[41] - Machado_de_Batalha[968] [0 0 0 0 0 0]
+[42] - Maça_Gótica[965] [0 0 0 0 0 0]
+[43] - Machado_Duplo[964] [0 0 0 0 0 0]
+[44] - Grande_Machado[969] [0 0 0 0 0 0]
+[45] - Martelo_Sykik[970] [0 0 0 0 0 0]
+[46] - Calça_de_Couro_Duro(N)[1128] [43 0 71 50 3 25]
+[47] - Classe_D[4019] [61 113 0 0 0 0]
+[48] - Manoplas_Embutidas(A)[1217] [0 0 0 0 0 0]
+[49] - Sapatos_Pele_de_Animal(A)[1415] [43 0 73 6 59 0]
+[50] - Classe_B[4017] [0 0 0 0 0 0]
+[51] - Classe_C[4018] [0 0 0 0 0 0]
+[52] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[53] - Classe_E[4020] [0 0 0 0 0 0]
+[54] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[55] - Essência_Mithril_D[4024] [0 0 0 0 0 0]
+[56] - Calça_Acolchoada(N)[1557] [43 2 3 10 60 4]
+[57] - Pedido_de_Caça(Dung)[3433] [61 100 0 0 0 0]
+[58] - Pedido_de_Caça(Kefra)[3436] [61 98 0 0 0 0]
+[59] - Pedido_de_Caça(Kult)[3435] [61 99 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 26 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:59:58 : [TKzaoporra] - Personagem TKzaoporra enviado ao mundo 2093x 2093y - Canal 2 - Cash da conta: 127426. OverPower: 84
+09:59:58 : [TKzaoporra] - Gold atual: 4935000. Classe: 0 Evolução: 0. Experiência: 368744. Nível: 42. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+09:59:58 : [TKzaoporra] - Logou no personagem TKzaoporra com baú de experiência ativo. Tempo: 34
+09:59:58 : [TKzaoporra] - Resetado a contagem de entradas água! Day: 363-0. Total: 0
+09:59:58 : [TKzaoporra] - Enviado informações do personagem
+09:59:59 : [TKzaoporra] - Comando "/day "
+09:59:59 : [TKzaoporra] - [Mensagem do servidor]> !#11 2
+10:00:04 : [TKzaoporra] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:00:43 : [TKzaoporra] - Comando "/gm +item 3980 96 10"
+10:00:43 : [TKzaoporra] - [Mensagem do servidor]> Você não possui espaço livre no inventório.
+10:00:47 : [TKzaoporra] - Item Calça_Acolchoada(N) deletado [1557] [43 2 3 10 60 4]. Slot 56
+10:00:48 : [TKzaoporra] - Item Essência_Mithril_D deletado [4024] [0 0 0 0 0 0]. Slot 55
+10:00:49 : [TKzaoporra] - Comando "/gm +item 3980 96 10"
+10:00:49 : [TKzaoporra] - [Mensagem do servidor]> Criou o item Lobo_Polar
+10:00:49 : [TKzaoporra] - TKzaoporra criou o item Lobo_Polar [3980] [96 10 0 0 0 0]
+10:00:52 : [TKzaoporra] - [Mensagem do servidor]> Ative para poder utilizar
+10:00:53 : [TKzaoporra] - [Mensagem do servidor]> Ativação concluída
+10:00:53 : [TKzaoporra] - Aplicado tempo no item Lobo_Polar [3980] [96 11 1 21 0 0] - 11
+10:00:55 : [TKzaoporra] - Moveu item Lobo_Polar [3980] [96 11 1 21 0 0] do tipo INVENTÁRIO do slot 55 para tipo EQUIPAMENTO slot 14
+10:01:06 : [TKzaoporra] - Moveu item Lobo_Polar [3980] [96 11 1 21 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 55
+10:04:51 : [TKzaoporra] - Item Lobo_Polar deletado [3980] [96 11 1 21 0 0]. Slot 55
+10:04:53 : [TKzaoporra] - Item Classe_C deletado [4018] [0 0 0 0 0 0]. Slot 51
+10:04:53 : [TKzaoporra] - Item Classe_B deletado [4017] [0 0 0 0 0 0]. Slot 50
+10:04:54 : [TKzaoporra] - Item Classe_E deletado [4020] [0 0 0 0 0 0]. Slot 53
+10:04:55 : [TKzaoporra] - Item Essência_Mithril_D deletado [4024] [0 0 0 0 0 0]. Slot 54
+10:04:56 : [TKzaoporra] - Item Pergaminho_da_Água(A)LV2 deletado [3183] [0 0 0 0 0 0]. Slot 52
+10:05:18 : [TKzaoporra] - Matou o mob Gremlin Artif. GenerID: 4449
+10:05:18 : [TKzaoporra] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2077x 2023y - Gremlin Artif (1/1)
+10:05:20 : [TKzaoporra] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2075x 2018y. Posição do NPC: 2084x 2019y
+10:05:21 : [TKzaoporra] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2082x 2018y. Posição do NPC: 2084x 2019y
+10:05:23 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 4445
+10:05:23 : [TKzaoporra] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2086x 2019y. Posição do NPC: 2084x 2019y
+10:05:25 : [TKzaoporra] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2086x 2019y. Posição do NPC: 2084x 2019y
+10:05:28 : [TKzaoporra] - Moveu item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 50 para tipo INVENTÁRIO slot 10
+10:05:29 : [TKzaoporra] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2085x 2019y. Posição do NPC: 2084x 2019y
+10:05:30 : [TKzaoporra] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2085x 2019y. Posição do NPC: 2084x 2019y
+10:05:35 : [TKzaoporra] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2076x 2011y. Posição do NPC: 2084x 2019y
+10:05:36 : [TKzaoporra] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2076x 2011y. Posição do NPC: 2084x 2019y
+10:05:39 : [TKzaoporra] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3422. Posição do usuário: 2085x 2000y. Posição do NPC: 2087x 2001y
+10:05:41 : [TKzaoporra] - Matou o mob Gremlin. GenerID: 4455
+10:05:41 : [TKzaoporra] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:05:41 : [TKzaoporra] - Level UP para level 43. Ev: 0 - 2089x 1996y
+10:05:41 : [TKzaoporra] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2089x 1996y - Gremlin (1/30)
+10:06:05 : [TKzaoporra] - Matou o mob Krill Gigante. GenerID: 4476
+10:06:05 : [TKzaoporra] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2139x 2000y - Krill Gigante (1/1)
+10:06:07 : [TKzaoporra] - Clicado no NPC [Treinador2]. Face 60. Race: 8. GenerateId: 4409. Posição do usuário: 2142x 1995y. Posição do NPC: 2141x 1989y
+10:06:08 : [TKzaoporra] - Clicado no NPC [Treinador2]. Face 60. Race: 8. GenerateId: 4409. Posição do usuário: 2142x 1995y. Posição do NPC: 2141x 1989y
+10:06:11 : [TKzaoporra] - Clicado no NPC [Treinador2]. Face 60. Race: 8. GenerateId: 4409. Posição do usuário: 2143x 1989y. Posição do NPC: 2142x 1990y
+10:07:54 : [TKzaoporra] - Matou o mob Rei Gremlin  . GenerID: 4490
+10:07:55 : [TKzaoporra] - Clicado no NPC [Treinador3]. Face 60. Race: 8. GenerateId: 4410. Posição do usuário: 2080x 1967y. Posição do NPC: 2077x 1965y
+10:08:13 : [TKzaoporra] - Matou o mob Orc Sniper. GenerID: 4494
+10:08:13 : [TKzaoporra] - Dropado item Chave_da_Ultima_Porta [453] [0 0 0 0 0 0] em 2076x 1973y - Orc Sniper (1/1)
+10:08:16 : [TKzaoporra] - Clicado no NPC [Treinador3]. Face 60. Race: 8. GenerateId: 4410. Posição do usuário: 2077x 1964y. Posição do NPC: 2078x 1966y
+10:08:23 : [TKzaoporra] - Personagem deu personagem
+10:08:32 : Solicitou ir ao mundo...
+10:08:32 : Recebido pedido para entrar no jogo
+10:08:32 : Recebido informação do personagem completa.
+10:08:32 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:08:56 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 0 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 0 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 0 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 0 0 0 0 0]
+[06] - Arco_de_Madeira[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:08:32 : [Archer] - Personagem Archer enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 127426. OverPower: 0
+10:08:32 : [Archer] - Gold atual: 0. Classe: 3 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+10:08:32 : [Archer] - Enviado informações do personagem
+10:08:33 : [Archer] - Comando "/day "
+10:08:33 : [Archer] - [Mensagem do servidor]> !#11 2
+10:08:41 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:08:42 : [Archer] - [Mensagem do servidor]> Não possui gold para comprar este item
+10:08:49 : [Archer] - Comando "/gm +set coin 100000"
+10:08:49 : [Archer] - [Mensagem do servidor]> Gold setado para: 100000.
+10:08:51 : [Archer] - Comprou o item Arco_de_Caveira [943] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 11500. Imposto: 1500. Gold: 100000 anterior. Gold após a compra: 88500
+10:08:53 : [Archer] - Moveu item Arco_de_Caveira [943] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 6
+10:09:10 : [Archer] - Matou o mob Porco de Guerra. GenerID: 4421
+10:09:10 : [Archer] - Pontos CP subiu em 3. CP novo: 78
+10:09:10 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:09:10 : [Archer] - Level UP para level 1. Ev: 0 - 2120x 2038y
+10:09:12 : [Archer] - Matou o mob Porco de Guerra. GenerID: 4423
+10:09:12 : [Archer] - Pontos CP subiu em 3. CP novo: 81
+10:09:12 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:09:12 : [Archer] - Level UP para level 2. Ev: 0 - 2123x 2037y
+10:09:12 : [Archer] - Pontos CP subiu em 3. CP novo: 84
+10:09:12 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:09:12 : [Archer] - Level UP para level 3. Ev: 0 - 2123x 2037y
+10:09:14 : [Archer] - Matou o mob Porco de Guerra. GenerID: 4424
+10:09:14 : [Archer] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+10:09:14 : [Archer] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 4407. Posição do usuário: 2129x 2030y. Posição do NPC: 2133x 2032y
+10:09:17 : [Archer] - Matou o mob Aguia. GenerID: 4435
+10:09:17 : [Archer] - Pontos CP subiu em 3. CP novo: 87
+10:09:17 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:09:17 : [Archer] - Level UP para level 4. Ev: 0 - 2120x 2026y
+10:09:18 : [Archer] - Matou o mob Porco de Guerra. GenerID: 4437
+10:09:18 : [Archer] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+10:09:21 : [Archer] - Matou o mob Porco de Guerra. GenerID: 4439
+10:09:21 : [Archer] - Pontos CP subiu em 3. CP novo: 90
+10:09:21 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:09:21 : [Archer] - Level UP para level 5. Ev: 0 - 2103x 2023y
+10:09:24 : [Archer] - Matou o mob Porco de Guerra. GenerID: 4439
+10:09:24 : [Archer] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+10:09:30 : [Archer] - Matou o mob Gremlin. GenerID: 4448
+10:09:30 : [Archer] - Pontos CP subiu em 3. CP novo: 93
+10:09:30 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:09:30 : [Archer] - Level UP para level 6. Ev: 0 - 2078x 2026y
+10:09:33 : [Archer] - Matou o mob Gremlin Artif. GenerID: 4449
+10:09:33 : [Archer] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+10:09:33 : [Archer] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2078x 2023y - Gremlin Artif (1/1)
+10:09:35 : [Archer] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2080x 2021y. Posição do NPC: 2084x 2019y
+10:09:35 : [Archer] - [Mensagem do servidor]> Recebeu Poção de Cura como recompensa.
+10:09:37 : [Archer] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2080x 2021y. Posição do NPC: 2084x 2019y
+10:09:38 : [Archer] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2080x 2021y. Posição do NPC: 2084x 2019y
+10:09:40 : [Archer] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2080x 2021y. Posição do NPC: 2084x 2019y
+10:09:41 : [Archer] - Matou o mob Gremlin. GenerID: 4445
+10:09:41 : [Archer] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+10:10:00 : [Archer] - Matou o mob Gremlin. GenerID: 4459
+10:10:00 : [Archer] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+10:10:01 : [Archer] - Matou o mob Gremlin. GenerID: 4459
+10:10:01 : [Archer] - Pontos CP subiu em 3. CP novo: 96
+10:10:01 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:10:01 : [Archer] - Level UP para level 7. Ev: 0 - 2104x 1999y
+10:10:32 : [Archer] - Matou o mob Serpente. GenerID: 4460
+10:10:32 : [Archer] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+10:10:33 : [Archer] - Matou o mob Krill. GenerID: 4459
+10:10:33 : [Archer] - Pontos CP subiu em 3. CP novo: 99
+10:10:33 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:10:33 : [Archer] - Level UP para level 8. Ev: 0 - 2104x 1999y
+10:10:34 : [Archer] - Matou o mob Serpente. GenerID: 4461
+10:10:34 : [Archer] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+10:10:34 : [Archer] - Pontos CP subiu em 3. CP novo: 102
+10:10:34 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:10:34 : [Archer] - Level UP para level 9. Ev: 0 - 2108x 1999y
+10:10:35 : [Archer] - Matou o mob Serpente. GenerID: 4461
+10:10:35 : [Archer] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+10:10:37 : [Archer] - Matou o mob Serpente. GenerID: 4463
+10:10:37 : [Archer] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+10:10:37 : [Archer] - Pontos CP subiu em 3. CP novo: 105
+10:10:37 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:10:37 : [Archer] - Level UP para level 10. Ev: 0 - 2116x 1998y
+10:10:38 : [Archer] - Matou o mob Serpente. GenerID: 4463
+10:10:38 : [Archer] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+10:10:39 : [Archer] - Matou o mob Serpente. GenerID: 4465
+10:10:39 : [Archer] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+10:10:39 : [Archer] - Pontos CP subiu em 3. CP novo: 108
+10:10:39 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:10:39 : [Archer] - Level UP para level 11. Ev: 0 - 2118x 1998y
+10:10:42 : [Archer] - Matou o mob Rei Gremlin  . GenerID: 4470
+10:10:42 : [Archer] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+10:10:53 : [Archer] - Matou o mob Krill Gigante. GenerID: 4476
+10:10:53 : [Archer] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+10:10:53 : [Archer] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2138x 2002y - Krill Gigante (1/1)
+10:10:54 : [Archer] - Matou o mob Rei Gremlin  . GenerID: 4470
+10:10:54 : [Archer] - Pontos CP subiu em 3. CP novo: 111
+10:10:54 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:10:54 : [Archer] - Level UP para level 12. Ev: 0 - 2138x 2002y
+10:10:57 : [Archer] - Clicado no NPC [Treinador2]. Face 60. Race: 8. GenerateId: 4409. Posição do usuário: 2145x 1992y. Posição do NPC: 2141x 1989y
+10:10:57 : [Archer] - [Mensagem do servidor]> Como recompensa foi atribuída uma opção adicional em sua arma.
+10:11:08 : [Archer] - Matou o mob Rei Gremlin  . GenerID: 4489
+10:11:08 : [Archer] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+10:11:09 : [Archer] - Matou o mob Rei Gremlin  . GenerID: 4489
+10:11:09 : [Archer] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+10:11:11 : [Archer] - Matou o mob Krill. GenerID: 4489
+10:11:11 : [Archer] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+10:11:14 : [Archer] - Matou o mob Rei Gremlin  . GenerID: 4491
+10:11:14 : [Archer] - Pontos CP subiu em 3. CP novo: 114
+10:11:14 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:11:14 : [Archer] - Level UP para level 13. Ev: 0 - 2082x 1976y
+10:11:15 : [Archer] - Matou o mob Rei Gremlin  . GenerID: 4491
+10:11:15 : [Archer] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+10:11:26 : [Archer] - Matou o mob Orc Sniper. GenerID: 4494
+10:11:26 : [Archer] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+10:11:26 : [Archer] - Dropado item Chave_da_Ultima_Porta [453] [0 0 0 0 0 0] em 2081x 1975y - Orc Sniper (1/1)
+10:11:27 : [Archer] - Matou o mob Rei Gremlin  . GenerID: 4491
+10:11:27 : [Archer] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+10:11:28 : [Archer] - Matou o mob Chefe Krill . GenerID: 4491
+10:11:28 : [Archer] - Pontos CP subiu em 3. CP novo: 117
+10:11:28 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:11:28 : [Archer] - Level UP para level 14. Ev: 0 - 2081x 1975y
+10:11:30 : [Archer] - Matou o mob Rei Gremlin  . GenerID: 4491
+10:11:30 : [Archer] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+10:11:31 : [Archer] - Matou o mob Chefe Krill . GenerID: 4490
+10:11:31 : [Archer] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+10:11:34 : [Archer] - Clicado no NPC [Treinador3]. Face 60. Race: 8. GenerateId: 4410. Posição do usuário: 2082x 1965y. Posição do NPC: 2078x 1966y
+10:11:34 : [Archer] - [Mensagem do servidor]> Como recompensa a sua arma e armadura foram refinadas.
+10:11:39 : [Archer] - Moveu item Aranha [2360] [88 27 1 20 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 14
+10:11:41 : [Archer] - Matou o mob Rei Gremlin  . GenerID: 4495
+10:11:41 : [Archer] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+10:11:50 : [Archer] - Matou o mob Rei Gremlin  . GenerID: 4490
+10:11:50 : [Archer] - Pontos CP subiu em 3. CP novo: 120
+10:11:50 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:11:50 : [Archer] - Level UP para level 15. Ev: 0 - 2082x 1954y
+10:11:53 : [Archer] - Matou o mob Rei Gremlin  . GenerID: 4496
+10:12:11 : [Archer] - Comando "/gm +item 2360 100 100 10 10 0 0"
+10:12:11 : [Archer] - [Mensagem do servidor]> Criou o item Aranha
+10:12:11 : [Archer] - Archer criou o item Aranha [2360] [100 100 10 10 0 0]
+10:12:12 : [Archer] - Moveu item Aranha [2360] [100 100 10 10 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 14
+10:12:22 : [Archer] - Comando "/gm +item 2360 1 1 10 10 0 0"
+10:12:22 : [Archer] - [Mensagem do servidor]> Criou o item Aranha
+10:12:22 : [Archer] - Archer criou o item Aranha [2360] [1 1 10 10 0 0]
+10:12:24 : [Archer] - Moveu item Aranha [2360] [1 1 10 10 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 14
+10:14:14 : [Archer] - Matou o mob Rei Gremlin  . GenerID: 4497
+10:14:14 : [Archer] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+10:14:15 : [Archer] - Matou o mob Chefe Krill . GenerID: 4497
+10:14:15 : [Archer] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+10:14:32 : [Archer] - Matou o mob Orc Guerreiro  . GenerID: 4514
+10:14:32 : [Archer] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+10:14:32 : [Archer] - Pontos CP subiu em 3. CP novo: 123
+10:14:32 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:14:32 : [Archer] - Level UP para level 16. Ev: 0 - 2129x 1948y
+10:14:32 : [Archer] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2129x 1948y - Orc Guerreiro   (1/1)
+10:14:34 : [Archer] - Matou o mob Chefe Krill . GenerID: 4508
+10:14:34 : [Archer] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+10:14:41 : [Archer] - Matou o mob Rei Gremlin  . GenerID: 4508
+10:14:42 : [Archer] - Matou o mob Chefe Krill . GenerID: 4507
+10:14:42 : [Archer] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+10:14:43 : [Archer] - Matou o mob Chefe Krill . GenerID: 4508
+10:14:43 : [Archer] - Pontos CP subiu em 3. CP novo: 126
+10:14:43 : [Archer] - [Mensagem do servidor]> + + + LEVEL UP + + +
+10:14:43 : [Archer] - Level UP para level 17. Ev: 0 - 2128x 1948y
+10:14:44 : [Archer] - Matou o mob Rei Gremlin  . GenerID: 4508
+10:14:46 : [Archer] - Matou o mob Rei Gremlin  . GenerID: 4509
+10:14:46 : [Archer] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+10:14:47 : [Archer] - Matou o mob Chefe Krill . GenerID: 4509
+10:14:54 : [Archer] - Comando "/gm +erion"
+10:14:54 : [Archer] - Teleportado para a posição 2460 2009
+10:14:56 : [Archer] - Clicado no NPC [Mount Master]. Face 18. Race: 10. GenerateId: 3269. Posição do usuário: 2460x 2009y. Posição do NPC: 2455x 2009y
+10:14:56 : [Archer] - Reviver concluído Aranha [2360] [0 0 10 10 0 0]
+10:14:56 : [Archer] - [Mensagem do servidor]> Curada.
+10:15:04 : [Archer] - Clicado no NPC [Mount Master]. Face 18. Race: 10. GenerateId: 3269. Posição do usuário: 2460x 2009y. Posição do NPC: 2455x 2009y
+10:15:04 : [Archer] - Reviver concluído Aranha [2360] [0 0 10 6 0 0]
+10:15:04 : [Archer] - [Mensagem do servidor]> Curada.
+10:15:09 : [Archer] - Clicado no NPC [Mount Master]. Face 18. Race: 10. GenerateId: 3269. Posição do usuário: 2461x 2007y. Posição do NPC: 2456x 2010y
+10:15:09 : [Archer] - [Mensagem do servidor]> Você não possui esta quantia.
+10:15:14 : [Archer] - Comando "/gm +armia"
+10:15:14 : [Archer] - Teleportado para a posição 2100 2100
+10:15:18 : [Archer] - Comando "/gm +item 2360 1 1 10 10 0 0"
+10:15:18 : [Archer] - [Mensagem do servidor]> Criou o item Aranha
+10:15:18 : [Archer] - Archer criou o item Aranha [2360] [1 1 10 10 0 0]
+10:15:20 : [Archer] - Moveu item Aranha [2360] [1 1 10 10 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 14
+10:16:00 : [Archer] - Matou o mob Porco de Guerra. GenerID: 4421
+10:16:00 : [Archer] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2115x 2047y - Porco de Guerra (1/30)
+10:16:01 : [Archer] - Clicado no NPC [Chefe de Treino]. Face 60. Race: 8. GenerateId: 4411. Posição do usuário: 2115x 2047y. Posição do NPC: 2114x 2042y
+10:16:01 : [Archer] - [Mensagem do servidor]> Recebeu a recompensa da Quest.
+10:16:01 : [Archer] - Teleportado para a posição 2100 2100
+10:16:08 : [Archer] - Item Âmago_de_Aranha [2390] [61 20 43 9 0 0] utilizado em 0x 0y
+10:16:08 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (39/100)
+10:16:11 : [Archer] - Item Âmago_de_Aranha [2390] [61 19 43 9 0 0] utilizado em 0x 0y
+10:16:11 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (48/100)
+10:16:17 : [Archer] - Item Âmago_de_Aranha [2390] [61 18 43 9 0 0] utilizado em 0x 0y
+10:16:17 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (80/100)
+10:16:20 : [Archer] - Item Âmago_de_Aranha [2390] [61 17 43 9 0 0] utilizado em 0x 0y
+10:16:20 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (26/100)
+10:16:22 : [Archer] - Item Âmago_de_Aranha [2390] [61 16 43 9 0 0] utilizado em 0x 0y
+10:16:22 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (80/100)
+10:16:24 : [Archer] - Item Âmago_de_Aranha [2390] [61 15 43 9 0 0] utilizado em 0x 0y
+10:16:24 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (14/100)
+10:16:27 : [Archer] - Item Âmago_de_Aranha [2390] [61 14 43 9 0 0] utilizado em 0x 0y
+10:16:27 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (49/100)
+10:16:28 : [Archer] - Item Âmago_de_Aranha [2390] [61 13 43 9 0 0] utilizado em 0x 0y
+10:16:28 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (86/100)
+10:16:31 : [Archer] - Item Âmago_de_Aranha [2390] [61 12 43 9 0 0] utilizado em 0x 0y
+10:16:31 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (78/100)
+10:16:33 : [Archer] - Item Âmago_de_Aranha [2390] [61 11 43 9 0 0] utilizado em 0x 0y
+10:16:33 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (50/99)
+10:16:35 : [Archer] - Item Âmago_de_Aranha [2390] [61 10 43 9 0 0] utilizado em 0x 0y
+10:16:35 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (88/99)
+10:16:38 : [Archer] - Item Âmago_de_Aranha [2390] [61 9 43 9 0 0] utilizado em 0x 0y
+10:16:38 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (97/99)
+10:16:41 : [Archer] - Item Âmago_de_Aranha [2390] [61 8 43 9 0 0] utilizado em 0x 0y
+10:16:41 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (60/99)
+10:16:43 : [Archer] - Item Âmago_de_Aranha [2390] [61 7 43 9 0 0] utilizado em 0x 0y
+10:16:43 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (96/99)
+10:16:45 : [Archer] - Item Âmago_de_Aranha [2390] [61 6 43 9 0 0] utilizado em 0x 0y
+10:16:45 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (97/99)
+10:16:47 : [Archer] - Item Âmago_de_Aranha [2390] [61 5 43 9 0 0] utilizado em 0x 0y
+10:16:47 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (83/99)
+10:16:48 : [Archer] - Item Âmago_de_Aranha [2390] [61 4 43 9 0 0] utilizado em 0x 0y
+10:16:48 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (44/99)
+10:16:50 : [Archer] - Item Âmago_de_Aranha [2390] [61 3 43 9 0 0] utilizado em 0x 0y
+10:16:50 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (74/99)
+10:16:52 : [Archer] - Item Âmago_de_Aranha [2390] [61 2 43 9 0 0] utilizado em 0x 0y
+10:16:52 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (77/99)
+10:16:54 : [Archer] - Item Âmago_de_Aranha [2390] [61 1 43 9 0 0] utilizado em 0x 0y
+10:16:54 : [Archer] - [Mensagem do servidor]> Refinação sucedida! (64/94)
+10:32:26 : [Archer] - Comando "/gm +item 4044"
+10:32:26 : [Archer] - [Mensagem do servidor]> Criou o item Emblema_da_Honra
+10:32:26 : [Archer] - Archer criou o item Emblema_da_Honra [4044] [0 0 0 0 0 0]
+10:32:28 : [Archer] - Item Emblema_da_Honra [4044] [0 0 0 0 0 0] utilizado em 2105x 2101y
+10:32:34 : [Archer] - Comando "/gm +item 4080"
+10:32:34 : [Archer] - [Mensagem do servidor]> Criou o item Emblema_da_Aprendizagem
+10:32:34 : [Archer] - Archer criou o item Emblema_da_Aprendizagem [4080] [0 0 0 0 0 0]
+10:32:40 : [Archer] - Comando "/gm +set level 101"
+10:32:51 : [Archer] - Personagem deu personagem
+10:32:59 : Solicitou ir ao mundo...
+10:32:59 : Recebido pedido para entrar no jogo
+10:32:59 : Recebido informação do personagem completa.
+10:32:59 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 28500
+Level atual: 101
+Experiência atual: 8797774
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:33:03 horas
+Posição atual: 2092x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 8 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 8 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 8 0 0 0 0]
+[06] - Arco_de_Caveira[943] [43 9 0 0 0 0]
+[14] - Aranha[2360] [1 1 30 10 0 0]
+
+[INVENTÁRIO]
+[00] - Arco_de_Madeira[816] [43 0 0 0 0 0]
+[01] - Aranha[2360] [0 0 1 20 0 0]
+[02] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[03] - Aranha[2360] [0 0 10 10 0 0]
+[04] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[05] - Emblema_da_Honra[4044] [0 0 0 0 0 0]
+[06] - Aranha[2360] [0 0 10 3 0 0]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Lobo_Polar[3980] [106 3 0 0 0 0]
+[09] - Emblema_da_Aprendizagem[4080] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [126 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:32:59 : [Archer] - Personagem Archer enviado ao mundo 2092x 2096y - Canal 2 - Cash da conta: 127426. OverPower: 467
+10:32:59 : [Archer] - Gold atual: 28500. Classe: 3 Evolução: 0. Experiência: 8797774. Nível: 101. Info: 0. GuildID: 0. CP: 51. Pontos de Contribuição: 0. Limite: 0
+10:32:59 : [Archer] - Enviado informações do personagem
+10:33:00 : [Archer] - Comando "/day "
+10:33:00 : [Archer] - [Mensagem do servidor]> !#11 2
+10:33:05 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:33:42 : [Archer] - Comando "/gm +set level 256"
+10:33:50 : [Archer] - Comando "/gm +item 4081"
+10:33:50 : [Archer] - [Mensagem do servidor]> Criou o item Emblema_do_Reino
+10:33:50 : [Archer] - Archer criou o item Emblema_do_Reino [4081] [0 0 0 0 0 0]
+10:34:30 : [Archer] - Comando "/gm +set level 221"
+10:36:45 : [Archer] - Comando "/gm "
+10:36:45 : [Archer] - [Mensagem do servidor]> Utilize /gm +command
+10:37:27 : [Archer] - Comando "/gm +readfile Itemlist"
+10:37:27 : [Archer] - [Mensagem do servidor]> FILE Itemlist READ FAIL
+10:37:35 : [Archer] - Comando "/gm +readfile Itemlist"
+10:37:35 : [Archer] - [Mensagem do servidor]> FILE Itemlist READ FAIL
+10:37:41 : [Archer] - Comando "/gm +readfile ItemList"
+10:37:41 : [Archer] - [Mensagem do servidor]> FILE ItemList READ SUCCESS
+10:38:01 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+10:38:01 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:38:01 minutos online
+10:38:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+10:38:29 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+10:38:29 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+10:38:33 : Solicitou ir ao mundo...
+10:38:33 : Recebido pedido para entrar no jogo
+10:38:33 : Recebido informação do personagem completa.
+10:38:33 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 28500
+Level atual: 221
+Experiência atual: 108905674
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2095x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 8 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 8 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 8 0 0 0 0]
+[06] - Arco_de_Caveira[943] [43 9 0 0 0 0]
+[14] - Aranha[2360] [1 1 30 10 0 0]
+
+[INVENTÁRIO]
+[00] - Arco_de_Madeira[816] [43 0 0 0 0 0]
+[01] - Aranha[2360] [0 0 1 20 0 0]
+[02] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[03] - Aranha[2360] [0 0 10 10 0 0]
+[04] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[05] - Emblema_da_Honra[4044] [0 0 0 0 0 0]
+[06] - Aranha[2360] [0 0 10 3 0 0]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Lobo_Polar[3980] [106 3 0 0 0 0]
+[09] - Emblema_da_Aprendizagem[4080] [0 0 0 0 0 0]
+[10] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [126 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:38:33 : [Archer] - Personagem Archer enviado ao mundo 2095x 2095y - Canal 2 - Cash da conta: 127426. OverPower: 707
+10:38:33 : [Archer] - Gold atual: 28500. Classe: 3 Evolução: 0. Experiência: 108905674. Nível: 221. Info: 0. GuildID: 0. CP: 51. Pontos de Contribuição: 0. Limite: 0
+10:38:33 : [Archer] - Enviado informações do personagem
+10:38:34 : [Archer] - Comando "/day "
+10:38:34 : [Archer] - [Mensagem do servidor]> !#11 2
+10:38:42 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:39:44 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+10:39:44 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:01:14 minutos online
+10:39:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+10:39:55 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+10:39:55 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+10:39:59 : Solicitou ir ao mundo...
+10:39:59 : Recebido pedido para entrar no jogo
+10:39:59 : Recebido informação do personagem completa.
+10:39:59 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 28500
+Level atual: 221
+Experiência atual: 108905674
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2095x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 8 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 8 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 8 0 0 0 0]
+[06] - Arco_de_Caveira[943] [43 9 0 0 0 0]
+[14] - Aranha[2360] [1 1 30 10 0 0]
+
+[INVENTÁRIO]
+[00] - Arco_de_Madeira[816] [43 0 0 0 0 0]
+[01] - Aranha[2360] [0 0 1 20 0 0]
+[02] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[03] - Aranha[2360] [0 0 10 10 0 0]
+[04] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[05] - Emblema_da_Honra[4044] [0 0 0 0 0 0]
+[06] - Aranha[2360] [0 0 10 3 0 0]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Lobo_Polar[3980] [106 3 0 0 0 0]
+[09] - Emblema_da_Aprendizagem[4080] [0 0 0 0 0 0]
+[10] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [126 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:39:59 : [Archer] - Personagem Archer enviado ao mundo 2095x 2102y - Canal 2 - Cash da conta: 127426. OverPower: 707
+10:39:59 : [Archer] - Gold atual: 28500. Classe: 3 Evolução: 0. Experiência: 108905674. Nível: 221. Info: 0. GuildID: 0. CP: 51. Pontos de Contribuição: 0. Limite: 0
+10:39:59 : [Archer] - Enviado informações do personagem
+10:40:00 : [Archer] - Comando "/day "
+10:40:00 : [Archer] - [Mensagem do servidor]> !#11 2
+10:40:06 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:41:07 : [Archer] - Comando "/gm +readfile ItemList"
+10:41:07 : [Archer] - [Mensagem do servidor]> FILE ItemList READ SUCCESS
+10:41:20 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+10:41:20 : [Archer] - 1 Personagem foi desconectado. Permaneceu 00:01:25 minutos online
+10:42:39 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+10:42:39 : ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+10:42:39 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+10:42:39 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN2) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+10:42:39 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+10:42:39 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+10:42:40 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:42:45 : Solicitou ir ao mundo...
+10:42:45 : Recebido pedido para entrar no jogo
+10:42:45 : Recebido informação do personagem completa.
+10:42:45 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 28500
+Level atual: 221
+Experiência atual: 108905674
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2086x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 8 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 8 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 8 0 0 0 0]
+[06] - Arco_de_Caveira[943] [43 9 0 0 0 0]
+[14] - Aranha[2360] [1 1 30 10 0 0]
+
+[INVENTÁRIO]
+[00] - Arco_de_Madeira[816] [43 0 0 0 0 0]
+[01] - Aranha[2360] [0 0 1 20 0 0]
+[02] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[03] - Aranha[2360] [0 0 10 10 0 0]
+[04] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[05] - Emblema_da_Honra[4044] [0 0 0 0 0 0]
+[06] - Aranha[2360] [0 0 10 3 0 0]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Lobo_Polar[3980] [106 3 0 0 0 0]
+[09] - Emblema_da_Aprendizagem[4080] [0 0 0 0 0 0]
+[10] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [126 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:42:45 : [Archer] - Personagem Archer enviado ao mundo 2086x 2098y - Canal 2 - Cash da conta: 127426. OverPower: 707
+10:42:45 : [Archer] - Gold atual: 28500. Classe: 3 Evolução: 0. Experiência: 108905674. Nível: 221. Info: 0. GuildID: 0. CP: 51. Pontos de Contribuição: 0. Limite: 0
+10:42:45 : [Archer] - Enviado informações do personagem
+10:42:46 : [Archer] - Comando "/day "
+10:42:46 : [Archer] - [Mensagem do servidor]> !#11 2
+10:42:51 : [Archer] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:43:31 : [Archer] - Comando "/gm +set level 220"
+10:43:45 : [Archer] - Comando "/gm +set level 105"
+10:43:48 : [Archer] - Moveu item Emblema_da_Aprendizagem [4080] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo INVENTÁRIO slot 8
+10:44:03 : [Archer] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+10:44:15 : [Archer] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu
+10:48:43 : [Archer] - Comando "/gm +item 4150"
+10:48:43 : [Archer] - [Mensagem do servidor]> Criou o item Conjunto_Yin-Yang
+10:48:43 : [Archer] - Archer criou o item Conjunto_Yin-Yang [4150] [0 0 0 0 0 0]
+10:48:46 : [Archer] - Item Conjunto_Yin-Yang deletado [4150] [0 0 0 0 0 0]. Slot 11
+10:49:01 : [Archer] - Clicado no NPC [Kibita]. Face 102. Race: 10. GenerateId: 3288. Posição do usuário: 2138x 2107y. Posição do NPC: 2135x 2105y
+10:49:01 : [Archer] - [Mensagem do servidor]> Não possui gold para comprar este item
+10:49:24 : [Archer] - Comando "/gm +reloaditemlist"
+10:49:24 : [Archer] - [Mensagem do servidor]> Usuário não está conectado
+10:49:30 : [Archer] - Comando "/gm +readitemlist"
+11:12:45 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 28500
+Level atual: 105
+Experiência atual: 10160424
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:43 horas
+Posição atual: 2139x 2081y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 8 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 8 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 8 0 0 0 0]
+[06] - Arco_de_Caveira[943] [43 9 0 0 0 0]
+[14] - Aranha[2360] [1 1 30 10 0 0]
+
+[INVENTÁRIO]
+[00] - Arco_de_Madeira[816] [43 0 0 0 0 0]
+[01] - Aranha[2360] [0 0 1 20 0 0]
+[02] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[03] - Aranha[2360] [0 0 10 10 0 0]
+[04] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[05] - Emblema_da_Honra[4044] [0 0 0 0 0 0]
+[06] - Aranha[2360] [0 0 10 3 0 0]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Emblema_da_Aprendizagem[4080] [0 0 0 0 0 0]
+[09] - Lobo_Polar[3980] [106 3 0 0 0 0]
+[10] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [126 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:14:00 : [Archer] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+11:42:46 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 28500
+Level atual: 105
+Experiência atual: 10160424
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:59:20 horas
+Posição atual: 2139x 2081y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 8 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 8 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 8 0 0 0 0]
+[06] - Arco_de_Caveira[943] [43 9 0 0 0 0]
+[14] - Aranha[2360] [1 1 30 10 0 0]
+
+[INVENTÁRIO]
+[00] - Arco_de_Madeira[816] [43 0 0 0 0 0]
+[01] - Aranha[2360] [0 0 1 20 0 0]
+[02] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[03] - Aranha[2360] [0 0 10 10 0 0]
+[04] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[05] - Emblema_da_Honra[4044] [0 0 0 0 0 0]
+[06] - Aranha[2360] [0 0 10 3 0 0]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Emblema_da_Aprendizagem[4080] [0 0 0 0 0 0]
+[09] - Lobo_Polar[3980] [106 3 0 0 0 0]
+[10] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [126 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:12:47 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 28500
+Level atual: 105
+Experiência atual: 10160424
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:28:46 horas
+Posição atual: 2139x 2081y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 8 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 8 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 8 0 0 0 0]
+[06] - Arco_de_Caveira[943] [43 9 0 0 0 0]
+[14] - Aranha[2360] [1 1 30 10 0 0]
+
+[INVENTÁRIO]
+[00] - Arco_de_Madeira[816] [43 0 0 0 0 0]
+[01] - Aranha[2360] [0 0 1 20 0 0]
+[02] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[03] - Aranha[2360] [0 0 10 10 0 0]
+[04] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[05] - Emblema_da_Honra[4044] [0 0 0 0 0 0]
+[06] - Aranha[2360] [0 0 10 3 0 0]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Emblema_da_Aprendizagem[4080] [0 0 0 0 0 0]
+[09] - Lobo_Polar[3980] [106 3 0 0 0 0]
+[10] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [126 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:42:48 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 28500
+Level atual: 105
+Experiência atual: 10160424
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:58:23 horas
+Posição atual: 2139x 2081y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 8 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 8 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 8 0 0 0 0]
+[06] - Arco_de_Caveira[943] [43 9 0 0 0 0]
+[14] - Aranha[2360] [1 1 30 10 0 0]
+
+[INVENTÁRIO]
+[00] - Arco_de_Madeira[816] [43 0 0 0 0 0]
+[01] - Aranha[2360] [0 0 1 20 0 0]
+[02] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[03] - Aranha[2360] [0 0 10 10 0 0]
+[04] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[05] - Emblema_da_Honra[4044] [0 0 0 0 0 0]
+[06] - Aranha[2360] [0 0 10 3 0 0]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Emblema_da_Aprendizagem[4080] [0 0 0 0 0 0]
+[09] - Lobo_Polar[3980] [106 3 0 0 0 0]
+[10] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [126 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:12:48 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 28500
+Level atual: 105
+Experiência atual: 10160424
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 02:27:53 horas
+Posição atual: 2139x 2081y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 8 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 8 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 8 0 0 0 0]
+[06] - Arco_de_Caveira[943] [43 9 0 0 0 0]
+[14] - Aranha[2360] [1 1 30 10 0 0]
+
+[INVENTÁRIO]
+[00] - Arco_de_Madeira[816] [43 0 0 0 0 0]
+[01] - Aranha[2360] [0 0 1 20 0 0]
+[02] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[03] - Aranha[2360] [0 0 10 10 0 0]
+[04] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[05] - Emblema_da_Honra[4044] [0 0 0 0 0 0]
+[06] - Aranha[2360] [0 0 10 3 0 0]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Emblema_da_Aprendizagem[4080] [0 0 0 0 0 0]
+[09] - Lobo_Polar[3980] [106 3 0 0 0 0]
+[10] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [126 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:42:49 : [Archer] - [INFORMAÇÕES DA CONTA]
+Personagem online: Archer
+Gold atual: 28500
+Level atual: 105
+Experiência atual: 10160424
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 02:57:29 horas
+Posição atual: 2139x 2081y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 8 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 8 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 8 0 0 0 0]
+[06] - Arco_de_Caveira[943] [43 9 0 0 0 0]
+[14] - Aranha[2360] [1 1 30 10 0 0]
+
+[INVENTÁRIO]
+[00] - Arco_de_Madeira[816] [43 0 0 0 0 0]
+[01] - Aranha[2360] [0 0 1 20 0 0]
+[02] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[03] - Aranha[2360] [0 0 10 10 0 0]
+[04] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[05] - Emblema_da_Honra[4044] [0 0 0 0 0 0]
+[06] - Aranha[2360] [0 0 10 3 0 0]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Emblema_da_Aprendizagem[4080] [0 0 0 0 0 0]
+[09] - Lobo_Polar[3980] [106 3 0 0 0 0]
+[10] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [126 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:04:02 : [Archer] - ADMIN2 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:04:02 : [Archer] - 2 Personagem foi desconectado. Permaneceu 03:18:25 minutos online

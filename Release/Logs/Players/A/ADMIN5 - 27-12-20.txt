@@ -1,0 +1,1326 @@
+
+09:19:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (72:FD:C1:BB:D7:4B). ClientId: 1
+09:19:55 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 999876623
+09:19:55 : [INFORMAÇÕES DO BANCO]
+Gold: 999876623
+[  9] - Pedra_Secreta_(Água)[5334] [0 0 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+[ 14] - Pedra_Secreta_(Sol)[5336] [0 0 0 0 0 0]
+[ 19] - Pedra_Secreta_(Terra)[5335] [0 0 0 0 0 0]
+[ 82] - Arco_Élfico(Anct)[2545] [43 9 2 72 0 0]
+[ 83] - Calça_Aeon(Le)[2223] [43 9 0 0 0 0]
+[ 84] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+
+09:19:56 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:20:02 : ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+09:20:02 : Personagem foi desconectado. Permaneceu 00:00:07 minutos online
+09:21:06 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (72:FD:C1:BB:D7:4B). ClientId: 1
+09:21:06 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 999876623
+09:21:06 : [INFORMAÇÕES DO BANCO]
+Gold: 999876623
+[  9] - Pedra_Secreta_(Água)[5334] [0 0 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+[ 14] - Pedra_Secreta_(Sol)[5336] [0 0 0 0 0 0]
+[ 19] - Pedra_Secreta_(Terra)[5335] [0 0 0 0 0 0]
+[ 82] - Arco_Élfico(Anct)[2545] [43 9 2 72 0 0]
+[ 83] - Calça_Aeon(Le)[2223] [43 9 0 0 0 0]
+[ 84] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+
+09:21:07 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:21:18 : Solicitou ir ao mundo...
+09:21:18 : Recebido pedido para entrar no jogo
+09:21:18 : Recebido informação do personagem completa.
+09:21:18 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 496477
+Level atual: 257
+Experiência atual: 212906390
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:12 horas
+Posição atual: 2096x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[12] - Conjunto_Romano[4154] [96 14 12 20 0 0]
+[14] - Unicórnio[2381] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[00] - Ração_de_Unicórnio[2429] [61 2 0 0 0 0]
+[01] - Pedaço_do_Círc_Div_Comp[692] [59 105 59 51 59 250]
+[02] - Botas_de_Couro_Batido(A)[1819] [43 0 73 12 74 9]
+[03] - Pedaço_do_Círc_Div_Comp[692] [59 171 59 51 59 48]
+[04] - Garra_da_Escuridão[836] [43 2 74 6 59 0]
+[05] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[06] - Elmo_de_Malha(M)[2152] [14 11 59 0 3 15]
+[07] - Botas_de_Malha(M)[1159] [43 1 73 12 59 0]
+[08] - Cimitarra[953] [43 1 26 15 59 0]
+[09] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[10] - Grifo[2384] [234 255 120 30 0 0]
+[11] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[12] - Túnica_de_Pano(A)[1265] [43 0 71 50 59 0]
+[13] - Khyrius[841] [43 1 0 0 0 0]
+[14] - Botas_Vampíricas(A)[1839] [43 0 73 18 59 0]
+[15] - Andaluz_N[2370] [10 10 120 30 1 0]
+[16] - Saia_Vampírica(A)[1831] [43 0 71 40 60 2]
+[17] - Túnica_de_Pano(A)[1265] [43 0 71 60 3 15]
+[18] - Armadura_de_Couro(A)[1115] [43 0 71 30 3 5]
+[19] - Robe_Sombrio(M)[1273] [43 1 71 30 2 12]
+[20] - Luvas_de_Couro_Batido(N)[1143] [43 0 72 15 54 9]
+[21] - Armadura_de_Águia(N)[1449] [43 1 3 10 3 10]
+[22] - Chapéu_Acolchoado(A)[1553] [54 5 59 0 59 0]
+[23] - Botas_de_Metal(M)[1609] [43 1 73 6 74 6]
+[24] - Elmo_de_Couro_Batido(N)[1107] [43 1 26 6 4 30]
+[63] - Marca_do_Assassino[547] [81 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:21:18 : [MANGUER] - Personagem MANGUER enviado ao mundo 2096x 2103y - Canal 1 - Cash da conta: 9750. OverPower: 854
+09:21:18 : [MANGUER] - Gold atual: 496477. Classe: 0 Evolução: 0. Experiência: 212906390. Nível: 257. Info: 0. GuildID: 0. CP: 6. Pontos de Contribuição: 0. Limite: 0
+09:21:18 : [MANGUER] - Resetado a contagem de entradas água! Day: 360-361. Total: 0
+09:21:18 : [MANGUER] - Enviado informações do personagem
+09:21:21 : [MANGUER] - Comando "/day "
+09:21:21 : [MANGUER] - [Mensagem do servidor]> !#11 2
+09:21:32 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+09:21:34 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+09:21:34 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:27 minutos online
+09:22:30 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (72:FD:C1:BB:D7:4B). ClientId: 1
+09:22:30 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 999876623
+09:22:30 : [INFORMAÇÕES DO BANCO]
+Gold: 999876623
+[  9] - Pedra_Secreta_(Água)[5334] [0 0 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+[ 14] - Pedra_Secreta_(Sol)[5336] [0 0 0 0 0 0]
+[ 19] - Pedra_Secreta_(Terra)[5335] [0 0 0 0 0 0]
+[ 82] - Arco_Élfico(Anct)[2545] [43 9 2 72 0 0]
+[ 83] - Calça_Aeon(Le)[2223] [43 9 0 0 0 0]
+[ 84] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+
+09:22:35 : ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+09:22:35 : Personagem foi desconectado. Permaneceu 00:00:04 minutos online
+09:23:17 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (72:FD:C1:BB:D7:4B). ClientId: 1
+09:23:17 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 999876623
+09:23:17 : [INFORMAÇÕES DO BANCO]
+Gold: 999876623
+[  9] - Pedra_Secreta_(Água)[5334] [0 0 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+[ 14] - Pedra_Secreta_(Sol)[5336] [0 0 0 0 0 0]
+[ 19] - Pedra_Secreta_(Terra)[5335] [0 0 0 0 0 0]
+[ 82] - Arco_Élfico(Anct)[2545] [43 9 2 72 0 0]
+[ 83] - Calça_Aeon(Le)[2223] [43 9 0 0 0 0]
+[ 84] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+
+09:23:22 : ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+09:23:22 : Personagem foi desconectado. Permaneceu 00:00:05 minutos online
+09:39:15 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (72:FD:C1:BB:D7:4B). ClientId: 1
+09:39:15 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 999876623
+09:39:15 : [INFORMAÇÕES DO BANCO]
+Gold: 999876623
+[  9] - Pedra_Secreta_(Água)[5334] [0 0 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+[ 14] - Pedra_Secreta_(Sol)[5336] [0 0 0 0 0 0]
+[ 19] - Pedra_Secreta_(Terra)[5335] [0 0 0 0 0 0]
+[ 82] - Arco_Élfico(Anct)[2545] [43 9 2 72 0 0]
+[ 83] - Calça_Aeon(Le)[2223] [43 9 0 0 0 0]
+[ 84] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+
+09:39:33 : Solicitou ir ao mundo...
+09:39:33 : Recebido pedido para entrar no jogo
+09:39:33 : Recebido informação do personagem completa.
+09:39:33 : [menina] - [INFORMAÇÕES DA CONTA]
+Personagem online: menina
+Gold atual: 447663
+Level atual: 1014
+Experiência atual: 80910
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:17 horas
+Posição atual: 2095x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 0 1 1]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[06] - Skytalos[826] [43 252 2 255 2 255]
+[11] - Pedra_Espiritual[633] [43 252 3 255 3 255]
+[14] - Grifo[2384] [10 10 120 30 0 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas_Vampíricas(A)[1835] [43 0 72 15 60 2]
+[01] - Calça_de_Bandagem(A)[2053] [43 2 71 40 60 2]
+[02] - Botas_de_Couro_Batido(A)[1819] [9 14 73 6 59 0]
+[03] - Braçadeira_de_Ferro(M)[1576] [43 2 72 15 60 4]
+[04] - Elmo_de_Couro_Duro(N)[1104] [43 0 59 0 59 0]
+[05] - Baú_de_Experiência[4144] [0 0 0 0 0 0]
+[06] - Chapéu_Pele_de_Animal(A)[1403] [43 0 60 4 4 20]
+[07] - Luvas_de_Seda(A)[1834] [43 0 72 25 60 8]
+[08] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[09] - Arco_de_Madeira[817] [43 0 2 27 59 0]
+[10] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[11] - Elmo_Embutido(M)[1207] [43 0 59 0 4 40]
+[12] - Calça_de_Couro(A)[1127] [43 1 71 30 59 0]
+[13] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[14] - Manoplas_Embutidas(M)[1216] [43 0 72 15 2 12]
+[15] - Manoplas_Elementais(M)[1501] [43 1 72 10 60 4]
+[16] - Elmo_Embutido(M)[1207] [43 0 26 6 59 0]
+[17] - Braçadeira_de_Teia(M)[1651] [43 0 72 15 60 2]
+[18] - Elmo_Elemental(M)[1492] [43 0 60 8 59 0]
+[19] - Elmo_Elemental(M)[1492] [14 20 59 0 59 0]
+[20] - Chapéu_de_Teia(M)[1642] [9 8 60 10 59 0]
+[21] - Elmo_Elemental(M)[1492] [43 0 59 0 59 0]
+[22] - Chapéu_de_Mytril(M)[1342] [43 0 26 9 59 0]
+[23] - Chapéu_de_Mytril(M)[1342] [12 10 60 10 4 20]
+[24] - Braçadeira_de_Teia(M)[1651] [43 0 72 10 59 0]
+[25] - Chapéu_de_Teia(M)[1642] [43 0 59 0 4 50]
+[26] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[29] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[30] - Elmo_Embutido(M)[1207] [8 7 60 6 59 0]
+[31] - Chapéu_de_Teia(M)[1642] [43 1 60 6 59 0]
+[32] - Elmo_Elemental(M)[1492] [7 6 59 0 4 20]
+[33] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[34] - Elmo_Embutido(M)[1207] [43 1 60 4 59 0]
+[35] - Elmo_Elemental(M)[1492] [43 1 60 6 4 30]
+[36] - Luvas_de_Mytril(M)[1351] [43 1 72 15 59 0]
+[37] - Manoplas_Embutidas(M)[1216] [43 1 72 10 74 9]
+[38] - Elmo_Elemental(M)[1492] [43 1 60 6 3 10]
+[39] - Luvas_de_Mytril(M)[1351] [43 0 72 15 59 0]
+[40] - Manoplas_Elementais(M)[1501] [43 2 72 20 59 0]
+[41] - Elmo_Elemental(M)[1492] [43 0 60 6 59 0]
+[42] - Braçadeira_de_Teia(M)[1651] [10 14 72 20 60 4]
+[43] - Chapéu_de_Teia(M)[1642] [43 1 26 12 59 0]
+[44] - Braçadeira_de_Teia(M)[1651] [43 1 72 20 74 9]
+[45] - Manoplas_Elementais(M)[1501] [43 2 72 20 2 6]
+[46] - Luvas_de_Mytril(M)[1351] [43 0 72 15 60 4]
+[47] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[48] - Luvas_de_Mytril(M)[1351] [43 1 72 10 74 12]
+[49] - Chapéu_de_Teia(M)[1642] [43 1 59 0 4 30]
+[50] - Chapéu_de_Teia(M)[1642] [43 1 59 0 4 20]
+[51] - Elmo_Elemental(M)[1492] [43 1 59 0 59 0]
+[52] - Manoplas_Embutidas(M)[1216] [43 0 72 20 60 4]
+[53] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[54] - Elmo_Embutido(M)[1207] [43 1 26 9 4 30]
+[56] - Manoplas_Elementais(M)[1501] [43 1 72 15 59 0]
+[57] - Elmo_Elemental(M)[1492] [43 1 60 8 59 0]
+[58] - Elmo_Elemental(M)[1492] [43 0 26 6 59 0]
+[59] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 7 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 7 110 1 109 121]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+09:39:33 : [menina] - Personagem menina enviado ao mundo 2095x 2100y - Canal 1 - Cash da conta: 9750. OverPower: 2518
+09:39:33 : [menina] - Gold atual: 447663. Classe: 1 Evolução: 0. Experiência: 80910. Nível: 1014. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+09:39:33 : [menina] - Logou no personagem menina com baú de experiência ativo. Tempo: 122
+09:39:33 : [menina] - Enviado informações do personagem
+09:39:35 : [menina] - Comando "/day "
+09:39:35 : [menina] - [Mensagem do servidor]> !#11 2
+09:39:44 : [menina] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+09:39:59 : [menina] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+09:39:59 : [menina] - 1 Personagem foi desconectado. Permaneceu 00:00:43 minutos online
+10:06:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (72:FD:C1:BB:D7:4B). ClientId: 1
+10:06:03 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 999876623
+10:06:03 : [INFORMAÇÕES DO BANCO]
+Gold: 999876623
+[  9] - Pedra_Secreta_(Água)[5334] [0 0 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+[ 14] - Pedra_Secreta_(Sol)[5336] [0 0 0 0 0 0]
+[ 19] - Pedra_Secreta_(Terra)[5335] [0 0 0 0 0 0]
+[ 82] - Arco_Élfico(Anct)[2545] [43 9 2 72 0 0]
+[ 83] - Calça_Aeon(Le)[2223] [43 9 0 0 0 0]
+[ 84] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+
+10:06:12 : Solicitou ir ao mundo...
+10:06:12 : Recebido pedido para entrar no jogo
+10:06:12 : Recebido informação do personagem completa.
+10:06:12 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 496477
+Level atual: 257
+Experiência atual: 212906390
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:09 horas
+Posição atual: 2094x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[12] - Conjunto_Romano[4154] [96 14 12 20 0 0]
+[14] - Unicórnio[2381] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[00] - Ração_de_Unicórnio[2429] [61 2 0 0 0 0]
+[01] - Pedaço_do_Círc_Div_Comp[692] [59 105 59 51 59 250]
+[02] - Botas_de_Couro_Batido(A)[1819] [43 0 73 12 74 9]
+[03] - Pedaço_do_Círc_Div_Comp[692] [59 171 59 51 59 48]
+[04] - Garra_da_Escuridão[836] [43 2 74 6 59 0]
+[05] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[06] - Elmo_de_Malha(M)[2152] [14 11 59 0 3 15]
+[07] - Botas_de_Malha(M)[1159] [43 1 73 12 59 0]
+[08] - Cimitarra[953] [43 1 26 15 59 0]
+[09] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[10] - Grifo[2384] [234 255 120 30 0 0]
+[11] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[12] - Túnica_de_Pano(A)[1265] [43 0 71 50 59 0]
+[13] - Khyrius[841] [43 1 0 0 0 0]
+[14] - Botas_Vampíricas(A)[1839] [43 0 73 18 59 0]
+[15] - Andaluz_N[2370] [10 10 120 30 1 0]
+[16] - Saia_Vampírica(A)[1831] [43 0 71 40 60 2]
+[17] - Túnica_de_Pano(A)[1265] [43 0 71 60 3 15]
+[18] - Armadura_de_Couro(A)[1115] [43 0 71 30 3 5]
+[19] - Robe_Sombrio(M)[1273] [43 1 71 30 2 12]
+[20] - Luvas_de_Couro_Batido(N)[1143] [43 0 72 15 54 9]
+[21] - Armadura_de_Águia(N)[1449] [43 1 3 10 3 10]
+[22] - Chapéu_Acolchoado(A)[1553] [54 5 59 0 59 0]
+[23] - Botas_de_Metal(M)[1609] [43 1 73 6 74 6]
+[24] - Elmo_de_Couro_Batido(N)[1107] [43 1 26 6 4 30]
+[63] - Marca_do_Assassino[547] [81 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:06:12 : [MANGUER] - Personagem MANGUER enviado ao mundo 2094x 2099y - Canal 1 - Cash da conta: 9750. OverPower: 854
+10:06:12 : [MANGUER] - Gold atual: 496477. Classe: 0 Evolução: 0. Experiência: 212906390. Nível: 257. Info: 0. GuildID: 0. CP: 6. Pontos de Contribuição: 0. Limite: 0
+10:06:12 : [MANGUER] - Enviado informações do personagem
+10:06:15 : [MANGUER] - Comando "/day "
+10:06:15 : [MANGUER] - [Mensagem do servidor]> !#11 2
+10:06:21 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:06:26 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+10:06:26 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:22 minutos online
+10:09:58 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (72:FD:C1:BB:D7:4B). ClientId: 1
+10:09:58 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 999876623
+10:09:58 : [INFORMAÇÕES DO BANCO]
+Gold: 999876623
+[  9] - Pedra_Secreta_(Água)[5334] [0 0 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+[ 14] - Pedra_Secreta_(Sol)[5336] [0 0 0 0 0 0]
+[ 19] - Pedra_Secreta_(Terra)[5335] [0 0 0 0 0 0]
+[ 82] - Arco_Élfico(Anct)[2545] [43 9 2 72 0 0]
+[ 83] - Calça_Aeon(Le)[2223] [43 9 0 0 0 0]
+[ 84] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+
+10:10:06 : Solicitou ir ao mundo...
+10:10:06 : Recebido pedido para entrar no jogo
+10:10:06 : Recebido informação do personagem completa.
+10:10:06 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 496477
+Level atual: 257
+Experiência atual: 212906390
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2099x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[12] - Conjunto_Romano[4154] [96 14 12 20 0 0]
+[14] - Unicórnio[2381] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[00] - Ração_de_Unicórnio[2429] [61 2 0 0 0 0]
+[01] - Pedaço_do_Círc_Div_Comp[692] [59 105 59 51 59 250]
+[02] - Botas_de_Couro_Batido(A)[1819] [43 0 73 12 74 9]
+[03] - Pedaço_do_Círc_Div_Comp[692] [59 171 59 51 59 48]
+[04] - Garra_da_Escuridão[836] [43 2 74 6 59 0]
+[05] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[06] - Elmo_de_Malha(M)[2152] [14 11 59 0 3 15]
+[07] - Botas_de_Malha(M)[1159] [43 1 73 12 59 0]
+[08] - Cimitarra[953] [43 1 26 15 59 0]
+[09] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[10] - Grifo[2384] [234 255 120 30 0 0]
+[11] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[12] - Túnica_de_Pano(A)[1265] [43 0 71 50 59 0]
+[13] - Khyrius[841] [43 1 0 0 0 0]
+[14] - Botas_Vampíricas(A)[1839] [43 0 73 18 59 0]
+[15] - Andaluz_N[2370] [10 10 120 30 1 0]
+[16] - Saia_Vampírica(A)[1831] [43 0 71 40 60 2]
+[17] - Túnica_de_Pano(A)[1265] [43 0 71 60 3 15]
+[18] - Armadura_de_Couro(A)[1115] [43 0 71 30 3 5]
+[19] - Robe_Sombrio(M)[1273] [43 1 71 30 2 12]
+[20] - Luvas_de_Couro_Batido(N)[1143] [43 0 72 15 54 9]
+[21] - Armadura_de_Águia(N)[1449] [43 1 3 10 3 10]
+[22] - Chapéu_Acolchoado(A)[1553] [54 5 59 0 59 0]
+[23] - Botas_de_Metal(M)[1609] [43 1 73 6 74 6]
+[24] - Elmo_de_Couro_Batido(N)[1107] [43 1 26 6 4 30]
+[63] - Marca_do_Assassino[547] [81 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:10:06 : [MANGUER] - Personagem MANGUER enviado ao mundo 2099x 2096y - Canal 1 - Cash da conta: 9750. OverPower: 854
+10:10:06 : [MANGUER] - Gold atual: 496477. Classe: 0 Evolução: 0. Experiência: 212906390. Nível: 257. Info: 0. GuildID: 0. CP: 6. Pontos de Contribuição: 0. Limite: 0
+10:10:06 : [MANGUER] - Enviado informações do personagem
+10:10:09 : [MANGUER] - Comando "/day "
+10:10:09 : [MANGUER] - [Mensagem do servidor]> !#11 2
+10:10:21 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:10:22 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+10:10:22 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:24 minutos online
+10:14:12 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (72:FD:C1:BB:D7:4B). ClientId: 1
+10:14:12 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 999876623
+10:14:12 : [INFORMAÇÕES DO BANCO]
+Gold: 999876623
+[  9] - Pedra_Secreta_(Água)[5334] [0 0 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+[ 14] - Pedra_Secreta_(Sol)[5336] [0 0 0 0 0 0]
+[ 19] - Pedra_Secreta_(Terra)[5335] [0 0 0 0 0 0]
+[ 82] - Arco_Élfico(Anct)[2545] [43 9 2 72 0 0]
+[ 83] - Calça_Aeon(Le)[2223] [43 9 0 0 0 0]
+[ 84] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+
+10:14:26 : Solicitou ir ao mundo...
+10:14:26 : Recebido pedido para entrar no jogo
+10:14:26 : Recebido informação do personagem completa.
+10:14:26 : [menina] - [INFORMAÇÕES DA CONTA]
+Personagem online: menina
+Gold atual: 447663
+Level atual: 1014
+Experiência atual: 80910
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:14 horas
+Posição atual: 2099x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 0 1 1]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[06] - Skytalos[826] [43 252 2 255 2 255]
+[11] - Pedra_Espiritual[633] [43 252 3 255 3 255]
+[14] - Grifo[2384] [10 10 120 30 0 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas_Vampíricas(A)[1835] [43 0 72 15 60 2]
+[01] - Calça_de_Bandagem(A)[2053] [43 2 71 40 60 2]
+[02] - Botas_de_Couro_Batido(A)[1819] [9 14 73 6 59 0]
+[03] - Braçadeira_de_Ferro(M)[1576] [43 2 72 15 60 4]
+[04] - Elmo_de_Couro_Duro(N)[1104] [43 0 59 0 59 0]
+[05] - Baú_de_Experiência[4144] [0 0 0 0 0 0]
+[06] - Chapéu_Pele_de_Animal(A)[1403] [43 0 60 4 4 20]
+[07] - Luvas_de_Seda(A)[1834] [43 0 72 25 60 8]
+[08] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[09] - Arco_de_Madeira[817] [43 0 2 27 59 0]
+[10] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[11] - Elmo_Embutido(M)[1207] [43 0 59 0 4 40]
+[12] - Calça_de_Couro(A)[1127] [43 1 71 30 59 0]
+[13] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[14] - Manoplas_Embutidas(M)[1216] [43 0 72 15 2 12]
+[15] - Manoplas_Elementais(M)[1501] [43 1 72 10 60 4]
+[16] - Elmo_Embutido(M)[1207] [43 0 26 6 59 0]
+[17] - Braçadeira_de_Teia(M)[1651] [43 0 72 15 60 2]
+[18] - Elmo_Elemental(M)[1492] [43 0 60 8 59 0]
+[19] - Elmo_Elemental(M)[1492] [14 20 59 0 59 0]
+[20] - Chapéu_de_Teia(M)[1642] [9 8 60 10 59 0]
+[21] - Elmo_Elemental(M)[1492] [43 0 59 0 59 0]
+[22] - Chapéu_de_Mytril(M)[1342] [43 0 26 9 59 0]
+[23] - Chapéu_de_Mytril(M)[1342] [12 10 60 10 4 20]
+[24] - Braçadeira_de_Teia(M)[1651] [43 0 72 10 59 0]
+[25] - Chapéu_de_Teia(M)[1642] [43 0 59 0 4 50]
+[26] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[29] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[30] - Elmo_Embutido(M)[1207] [8 7 60 6 59 0]
+[31] - Chapéu_de_Teia(M)[1642] [43 1 60 6 59 0]
+[32] - Elmo_Elemental(M)[1492] [7 6 59 0 4 20]
+[33] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[34] - Elmo_Embutido(M)[1207] [43 1 60 4 59 0]
+[35] - Elmo_Elemental(M)[1492] [43 1 60 6 4 30]
+[36] - Luvas_de_Mytril(M)[1351] [43 1 72 15 59 0]
+[37] - Manoplas_Embutidas(M)[1216] [43 1 72 10 74 9]
+[38] - Elmo_Elemental(M)[1492] [43 1 60 6 3 10]
+[39] - Luvas_de_Mytril(M)[1351] [43 0 72 15 59 0]
+[40] - Manoplas_Elementais(M)[1501] [43 2 72 20 59 0]
+[41] - Elmo_Elemental(M)[1492] [43 0 60 6 59 0]
+[42] - Braçadeira_de_Teia(M)[1651] [10 14 72 20 60 4]
+[43] - Chapéu_de_Teia(M)[1642] [43 1 26 12 59 0]
+[44] - Braçadeira_de_Teia(M)[1651] [43 1 72 20 74 9]
+[45] - Manoplas_Elementais(M)[1501] [43 2 72 20 2 6]
+[46] - Luvas_de_Mytril(M)[1351] [43 0 72 15 60 4]
+[47] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[48] - Luvas_de_Mytril(M)[1351] [43 1 72 10 74 12]
+[49] - Chapéu_de_Teia(M)[1642] [43 1 59 0 4 30]
+[50] - Chapéu_de_Teia(M)[1642] [43 1 59 0 4 20]
+[51] - Elmo_Elemental(M)[1492] [43 1 59 0 59 0]
+[52] - Manoplas_Embutidas(M)[1216] [43 0 72 20 60 4]
+[53] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[54] - Elmo_Embutido(M)[1207] [43 1 26 9 4 30]
+[56] - Manoplas_Elementais(M)[1501] [43 1 72 15 59 0]
+[57] - Elmo_Elemental(M)[1492] [43 1 60 8 59 0]
+[58] - Elmo_Elemental(M)[1492] [43 0 26 6 59 0]
+[59] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 7 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 7 110 1 109 121]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:14:26 : [menina] - Personagem menina enviado ao mundo 2099x 2105y - Canal 1 - Cash da conta: 9750. OverPower: 2518
+10:14:26 : [menina] - Gold atual: 447663. Classe: 1 Evolução: 0. Experiência: 80910. Nível: 1014. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+10:14:26 : [menina] - Logou no personagem menina com baú de experiência ativo. Tempo: 119
+10:14:26 : [menina] - Enviado informações do personagem
+10:14:28 : [menina] - Comando "/day "
+10:14:28 : [menina] - [Mensagem do servidor]> !#11 2
+10:14:33 : [menina] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:14:42 : [menina] - Teleportado para a posição 2458 2017
+10:14:57 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 873
+10:14:57 : [menina] - Matou o mob Meio Orc. GenerID: 873
+10:14:58 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 873
+10:14:59 : [menina] - Matou o mob Meio Orc. GenerID: 873
+10:15:00 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 875
+10:15:11 : [menina] - Personagem deu personagem
+10:15:17 : Solicitou ir ao mundo...
+10:15:21 : Solicitou ir ao mundo...
+10:15:28 : Solicitou ir ao mundo...
+10:15:31 : ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+10:15:31 : Personagem foi desconectado. Permaneceu 00:01:17 minutos online
+10:15:35 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (72:FD:C1:BB:D7:4B). ClientId: 1
+10:15:35 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 999876623
+10:15:35 : [INFORMAÇÕES DO BANCO]
+Gold: 999876623
+[  9] - Pedra_Secreta_(Água)[5334] [0 0 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+[ 14] - Pedra_Secreta_(Sol)[5336] [0 0 0 0 0 0]
+[ 19] - Pedra_Secreta_(Terra)[5335] [0 0 0 0 0 0]
+[ 82] - Arco_Élfico(Anct)[2545] [43 9 2 72 0 0]
+[ 83] - Calça_Aeon(Le)[2223] [43 9 0 0 0 0]
+[ 84] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+
+10:15:50 : Solicitou ir ao mundo...
+10:15:50 : Recebido pedido para entrar no jogo
+10:15:50 : Recebido informação do personagem completa.
+10:15:50 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 496477
+Level atual: 257
+Experiência atual: 212906390
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:14 horas
+Posição atual: 2092x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[12] - Conjunto_Romano[4154] [96 14 12 20 0 0]
+[14] - Unicórnio[2381] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[00] - Ração_de_Unicórnio[2429] [61 2 0 0 0 0]
+[01] - Pedaço_do_Círc_Div_Comp[692] [59 105 59 51 59 250]
+[02] - Botas_de_Couro_Batido(A)[1819] [43 0 73 12 74 9]
+[03] - Pedaço_do_Círc_Div_Comp[692] [59 171 59 51 59 48]
+[04] - Garra_da_Escuridão[836] [43 2 74 6 59 0]
+[05] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[06] - Elmo_de_Malha(M)[2152] [14 11 59 0 3 15]
+[07] - Botas_de_Malha(M)[1159] [43 1 73 12 59 0]
+[08] - Cimitarra[953] [43 1 26 15 59 0]
+[09] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[10] - Grifo[2384] [234 255 120 30 0 0]
+[11] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[12] - Túnica_de_Pano(A)[1265] [43 0 71 50 59 0]
+[13] - Khyrius[841] [43 1 0 0 0 0]
+[14] - Botas_Vampíricas(A)[1839] [43 0 73 18 59 0]
+[15] - Andaluz_N[2370] [10 10 120 30 1 0]
+[16] - Saia_Vampírica(A)[1831] [43 0 71 40 60 2]
+[17] - Túnica_de_Pano(A)[1265] [43 0 71 60 3 15]
+[18] - Armadura_de_Couro(A)[1115] [43 0 71 30 3 5]
+[19] - Robe_Sombrio(M)[1273] [43 1 71 30 2 12]
+[20] - Luvas_de_Couro_Batido(N)[1143] [43 0 72 15 54 9]
+[21] - Armadura_de_Águia(N)[1449] [43 1 3 10 3 10]
+[22] - Chapéu_Acolchoado(A)[1553] [54 5 59 0 59 0]
+[23] - Botas_de_Metal(M)[1609] [43 1 73 6 74 6]
+[24] - Elmo_de_Couro_Batido(N)[1107] [43 1 26 6 4 30]
+[63] - Marca_do_Assassino[547] [81 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:15:50 : [MANGUER] - Personagem MANGUER enviado ao mundo 2092x 2103y - Canal 1 - Cash da conta: 9750. OverPower: 854
+10:15:50 : [MANGUER] - Gold atual: 496477. Classe: 0 Evolução: 0. Experiência: 212906390. Nível: 257. Info: 0. GuildID: 0. CP: 6. Pontos de Contribuição: 0. Limite: 0
+10:15:50 : [MANGUER] - Enviado informações do personagem
+10:15:52 : [MANGUER] - Comando "/day "
+10:15:52 : [MANGUER] - [Mensagem do servidor]> !#11 2
+10:15:57 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:16:08 : [MANGUER] - Teleportado para a posição 2458 2017
+10:16:23 : [MANGUER] - Matou o mob Meio Orc. GenerID: 873
+10:16:26 : [MANGUER] - Matou o mob Meio Orc. GenerID: 875
+10:16:28 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 875
+10:16:28 : [MANGUER] - Dropado item Armadura_Leonina(A) [1962] [43 0 3 20 3 10] em 2492x 2004y - Orc Cavaleiro (1/300)
+10:16:30 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 876
+10:16:33 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 890
+10:16:34 : [MANGUER] - Matou o mob Meio Orc. GenerID: 890
+10:16:36 : [MANGUER] - Matou o mob Meio Orc. GenerID: 888
+10:16:38 : [MANGUER] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 9. Distância 2: 5. Range: 1.
+10:16:39 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+10:16:39 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:01:03 minutos online
+10:21:25 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (72:FD:C1:BB:D7:4B). ClientId: 1
+10:21:25 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 999876623
+10:21:25 : [INFORMAÇÕES DO BANCO]
+Gold: 999876623
+[  9] - Pedra_Secreta_(Água)[5334] [0 0 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+[ 14] - Pedra_Secreta_(Sol)[5336] [0 0 0 0 0 0]
+[ 19] - Pedra_Secreta_(Terra)[5335] [0 0 0 0 0 0]
+[ 82] - Arco_Élfico(Anct)[2545] [43 9 2 72 0 0]
+[ 83] - Calça_Aeon(Le)[2223] [43 9 0 0 0 0]
+[ 84] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+
+10:21:34 : Solicitou ir ao mundo...
+10:21:34 : Recebido pedido para entrar no jogo
+10:21:34 : Recebido informação do personagem completa.
+10:21:34 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 494877
+Level atual: 257
+Experiência atual: 212906600
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:09 horas
+Posição atual: 2456x 2011y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[12] - Conjunto_Romano[4154] [96 14 12 20 0 0]
+[14] - Unicórnio[2381] [26 49 120 30 4 0]
+
+[INVENTÁRIO]
+[00] - Armadura_Leonina(A)[1962] [43 0 3 20 3 10]
+[01] - Pedaço_do_Círc_Div_Comp[692] [59 105 59 51 59 250]
+[02] - Botas_de_Couro_Batido(A)[1819] [43 0 73 12 74 9]
+[03] - Pedaço_do_Círc_Div_Comp[692] [59 171 59 51 59 48]
+[04] - Garra_da_Escuridão[836] [43 2 74 6 59 0]
+[05] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[06] - Elmo_de_Malha(M)[2152] [14 11 59 0 3 15]
+[07] - Botas_de_Malha(M)[1159] [43 1 73 12 59 0]
+[08] - Cimitarra[953] [43 1 26 15 59 0]
+[09] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[10] - Grifo[2384] [234 255 120 30 0 0]
+[11] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[12] - Túnica_de_Pano(A)[1265] [43 0 71 50 59 0]
+[13] - Khyrius[841] [43 1 0 0 0 0]
+[14] - Botas_Vampíricas(A)[1839] [43 0 73 18 59 0]
+[15] - Andaluz_N[2370] [10 10 120 30 1 0]
+[16] - Saia_Vampírica(A)[1831] [43 0 71 40 60 2]
+[17] - Túnica_de_Pano(A)[1265] [43 0 71 60 3 15]
+[18] - Armadura_de_Couro(A)[1115] [43 0 71 30 3 5]
+[19] - Robe_Sombrio(M)[1273] [43 1 71 30 2 12]
+[20] - Luvas_de_Couro_Batido(N)[1143] [43 0 72 15 54 9]
+[21] - Armadura_de_Águia(N)[1449] [43 1 3 10 3 10]
+[22] - Chapéu_Acolchoado(A)[1553] [54 5 59 0 59 0]
+[23] - Botas_de_Metal(M)[1609] [43 1 73 6 74 6]
+[24] - Elmo_de_Couro_Batido(N)[1107] [43 1 26 6 4 30]
+[63] - Marca_do_Assassino[547] [81 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:21:34 : [MANGUER] - Personagem MANGUER enviado ao mundo 2456x 2011y - Canal 1 - Cash da conta: 9750. OverPower: 854
+10:21:34 : [MANGUER] - Gold atual: 494877. Classe: 0 Evolução: 0. Experiência: 212906600. Nível: 257. Info: 0. GuildID: 0. CP: 6. Pontos de Contribuição: 0. Limite: 0
+10:21:34 : [MANGUER] - Enviado informações do personagem
+10:21:35 : [MANGUER] - Comando "/day "
+10:21:35 : [MANGUER] - [Mensagem do servidor]> !#11 2
+10:21:46 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:21:47 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 873
+10:21:54 : [MANGUER] - Personagem deu personagem
+10:22:00 : Solicitou ir ao mundo...
+10:22:00 : Recebido pedido para entrar no jogo
+10:22:00 : Recebido informação do personagem completa.
+10:22:00 : [menina] - [INFORMAÇÕES DA CONTA]
+Personagem online: menina
+Gold atual: 446063
+Level atual: 1014
+Experiência atual: 81210
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:35 horas
+Posição atual: 2466x 2012y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 0 1 1]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[06] - Skytalos[826] [43 252 2 255 2 255]
+[11] - Pedra_Espiritual[633] [43 252 3 255 3 255]
+[14] - Grifo[2384] [10 10 120 30 0 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas_Vampíricas(A)[1835] [43 0 72 15 60 2]
+[01] - Calça_de_Bandagem(A)[2053] [43 2 71 40 60 2]
+[02] - Botas_de_Couro_Batido(A)[1819] [9 14 73 6 59 0]
+[03] - Braçadeira_de_Ferro(M)[1576] [43 2 72 15 60 4]
+[04] - Elmo_de_Couro_Duro(N)[1104] [43 0 59 0 59 0]
+[05] - Baú_de_Experiência[4144] [0 0 0 0 0 0]
+[06] - Chapéu_Pele_de_Animal(A)[1403] [43 0 60 4 4 20]
+[07] - Luvas_de_Seda(A)[1834] [43 0 72 25 60 8]
+[08] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[09] - Arco_de_Madeira[817] [43 0 2 27 59 0]
+[10] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[11] - Elmo_Embutido(M)[1207] [43 0 59 0 4 40]
+[12] - Calça_de_Couro(A)[1127] [43 1 71 30 59 0]
+[13] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[14] - Manoplas_Embutidas(M)[1216] [43 0 72 15 2 12]
+[15] - Manoplas_Elementais(M)[1501] [43 1 72 10 60 4]
+[16] - Elmo_Embutido(M)[1207] [43 0 26 6 59 0]
+[17] - Braçadeira_de_Teia(M)[1651] [43 0 72 15 60 2]
+[18] - Elmo_Elemental(M)[1492] [43 0 60 8 59 0]
+[19] - Elmo_Elemental(M)[1492] [14 20 59 0 59 0]
+[20] - Chapéu_de_Teia(M)[1642] [9 8 60 10 59 0]
+[21] - Elmo_Elemental(M)[1492] [43 0 59 0 59 0]
+[22] - Chapéu_de_Mytril(M)[1342] [43 0 26 9 59 0]
+[23] - Chapéu_de_Mytril(M)[1342] [12 10 60 10 4 20]
+[24] - Braçadeira_de_Teia(M)[1651] [43 0 72 10 59 0]
+[25] - Chapéu_de_Teia(M)[1642] [43 0 59 0 4 50]
+[26] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[29] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[30] - Elmo_Embutido(M)[1207] [8 7 60 6 59 0]
+[31] - Chapéu_de_Teia(M)[1642] [43 1 60 6 59 0]
+[32] - Elmo_Elemental(M)[1492] [7 6 59 0 4 20]
+[33] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[34] - Elmo_Embutido(M)[1207] [43 1 60 4 59 0]
+[35] - Elmo_Elemental(M)[1492] [43 1 60 6 4 30]
+[36] - Luvas_de_Mytril(M)[1351] [43 1 72 15 59 0]
+[37] - Manoplas_Embutidas(M)[1216] [43 1 72 10 74 9]
+[38] - Elmo_Elemental(M)[1492] [43 1 60 6 3 10]
+[39] - Luvas_de_Mytril(M)[1351] [43 0 72 15 59 0]
+[40] - Manoplas_Elementais(M)[1501] [43 2 72 20 59 0]
+[41] - Elmo_Elemental(M)[1492] [43 0 60 6 59 0]
+[42] - Braçadeira_de_Teia(M)[1651] [10 14 72 20 60 4]
+[43] - Chapéu_de_Teia(M)[1642] [43 1 26 12 59 0]
+[44] - Braçadeira_de_Teia(M)[1651] [43 1 72 20 74 9]
+[45] - Manoplas_Elementais(M)[1501] [43 2 72 20 2 6]
+[46] - Luvas_de_Mytril(M)[1351] [43 0 72 15 60 4]
+[47] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[48] - Luvas_de_Mytril(M)[1351] [43 1 72 10 74 12]
+[49] - Chapéu_de_Teia(M)[1642] [43 1 59 0 4 30]
+[50] - Chapéu_de_Teia(M)[1642] [43 1 59 0 4 20]
+[51] - Elmo_Elemental(M)[1492] [43 1 59 0 59 0]
+[52] - Manoplas_Embutidas(M)[1216] [43 0 72 20 60 4]
+[53] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[54] - Elmo_Embutido(M)[1207] [43 1 26 9 4 30]
+[56] - Manoplas_Elementais(M)[1501] [43 1 72 15 59 0]
+[57] - Elmo_Elemental(M)[1492] [43 1 60 8 59 0]
+[58] - Elmo_Elemental(M)[1492] [43 0 26 6 59 0]
+[59] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 7 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 7 110 1 109 121]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:22:00 : [menina] - Personagem menina enviado ao mundo 2466x 2012y - Canal 1 - Cash da conta: 9750. OverPower: 2518
+10:22:00 : [menina] - Gold atual: 446063. Classe: 1 Evolução: 0. Experiência: 81210. Nível: 1014. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+10:22:00 : [menina] - Logou no personagem menina com baú de experiência ativo. Tempo: 114
+10:22:00 : [menina] - Enviado informações do personagem
+10:22:02 : [menina] - Comando "/day "
+10:22:02 : [menina] - [Mensagem do servidor]> !#11 2
+10:22:10 : [menina] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:22:16 : [menina] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+10:22:16 : [menina] - 1 Personagem foi desconectado. Permaneceu 00:00:50 minutos online
+10:26:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (72:FD:C1:BB:D7:4B). ClientId: 1
+10:26:03 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 999876623
+10:26:03 : [INFORMAÇÕES DO BANCO]
+Gold: 999876623
+[  9] - Pedra_Secreta_(Água)[5334] [0 0 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+[ 14] - Pedra_Secreta_(Sol)[5336] [0 0 0 0 0 0]
+[ 19] - Pedra_Secreta_(Terra)[5335] [0 0 0 0 0 0]
+[ 82] - Arco_Élfico(Anct)[2545] [43 9 2 72 0 0]
+[ 83] - Calça_Aeon(Le)[2223] [43 9 0 0 0 0]
+[ 84] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+
+10:26:12 : Solicitou ir ao mundo...
+10:26:12 : Recebido pedido para entrar no jogo
+10:26:12 : Recebido informação do personagem completa.
+10:26:12 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 494877
+Level atual: 257
+Experiência atual: 212906630
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:09 horas
+Posição atual: 2099x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[12] - Conjunto_Romano[4154] [96 14 12 20 0 0]
+[14] - Unicórnio[2381] [26 49 120 30 4 0]
+
+[INVENTÁRIO]
+[00] - Armadura_Leonina(A)[1962] [43 0 3 20 3 10]
+[01] - Pedaço_do_Círc_Div_Comp[692] [59 105 59 51 59 250]
+[02] - Botas_de_Couro_Batido(A)[1819] [43 0 73 12 74 9]
+[03] - Pedaço_do_Círc_Div_Comp[692] [59 171 59 51 59 48]
+[04] - Garra_da_Escuridão[836] [43 2 74 6 59 0]
+[05] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[06] - Elmo_de_Malha(M)[2152] [14 11 59 0 3 15]
+[07] - Botas_de_Malha(M)[1159] [43 1 73 12 59 0]
+[08] - Cimitarra[953] [43 1 26 15 59 0]
+[09] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[10] - Grifo[2384] [234 255 120 30 0 0]
+[11] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[12] - Túnica_de_Pano(A)[1265] [43 0 71 50 59 0]
+[13] - Khyrius[841] [43 1 0 0 0 0]
+[14] - Botas_Vampíricas(A)[1839] [43 0 73 18 59 0]
+[15] - Andaluz_N[2370] [10 10 120 30 1 0]
+[16] - Saia_Vampírica(A)[1831] [43 0 71 40 60 2]
+[17] - Túnica_de_Pano(A)[1265] [43 0 71 60 3 15]
+[18] - Armadura_de_Couro(A)[1115] [43 0 71 30 3 5]
+[19] - Robe_Sombrio(M)[1273] [43 1 71 30 2 12]
+[20] - Luvas_de_Couro_Batido(N)[1143] [43 0 72 15 54 9]
+[21] - Armadura_de_Águia(N)[1449] [43 1 3 10 3 10]
+[22] - Chapéu_Acolchoado(A)[1553] [54 5 59 0 59 0]
+[23] - Botas_de_Metal(M)[1609] [43 1 73 6 74 6]
+[24] - Elmo_de_Couro_Batido(N)[1107] [43 1 26 6 4 30]
+[63] - Marca_do_Assassino[547] [81 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:26:12 : [MANGUER] - Personagem MANGUER enviado ao mundo 2099x 2106y - Canal 1 - Cash da conta: 9750. OverPower: 854
+10:26:12 : [MANGUER] - Gold atual: 494877. Classe: 0 Evolução: 0. Experiência: 212906630. Nível: 257. Info: 0. GuildID: 0. CP: 6. Pontos de Contribuição: 0. Limite: 0
+10:26:12 : [MANGUER] - Enviado informações do personagem
+10:26:13 : [MANGUER] - Comando "/day "
+10:26:13 : [MANGUER] - [Mensagem do servidor]> !#11 2
+10:26:22 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:26:50 : [MANGUER] - Matou o mob Gremlin. GenerID: 419
+10:26:55 : [MANGUER] - Matou o mob Gremlin. GenerID: 420
+10:27:03 : [MANGUER] - Matou o mob Gremlin . GenerID: 451
+10:27:07 : [MANGUER] - Matou o mob Krill. GenerID: 481
+10:27:11 : [MANGUER] - Matou o mob Krill. GenerID: 530
+10:27:14 : [MANGUER] - Matou o mob Gremlin. GenerID: 530
+10:27:15 : [MANGUER] - Matou o mob Krill. GenerID: 530
+10:27:21 : [MANGUER] - Personagem deu personagem
+10:27:27 : Solicitou ir ao mundo...
+10:27:27 : Recebido pedido para entrar no jogo
+10:27:27 : Recebido informação do personagem completa.
+10:27:27 : [menina] - [INFORMAÇÕES DA CONTA]
+Personagem online: menina
+Gold atual: 446063
+Level atual: 1014
+Experiência atual: 81210
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:23 horas
+Posição atual: 2098x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 0 1 1]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[06] - Skytalos[826] [43 252 2 255 2 255]
+[11] - Pedra_Espiritual[633] [43 252 3 255 3 255]
+[14] - Grifo[2384] [10 10 120 30 0 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas_Vampíricas(A)[1835] [43 0 72 15 60 2]
+[01] - Calça_de_Bandagem(A)[2053] [43 2 71 40 60 2]
+[02] - Botas_de_Couro_Batido(A)[1819] [9 14 73 6 59 0]
+[03] - Braçadeira_de_Ferro(M)[1576] [43 2 72 15 60 4]
+[04] - Elmo_de_Couro_Duro(N)[1104] [43 0 59 0 59 0]
+[05] - Baú_de_Experiência[4144] [0 0 0 0 0 0]
+[06] - Chapéu_Pele_de_Animal(A)[1403] [43 0 60 4 4 20]
+[07] - Luvas_de_Seda(A)[1834] [43 0 72 25 60 8]
+[08] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[09] - Arco_de_Madeira[817] [43 0 2 27 59 0]
+[10] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[11] - Elmo_Embutido(M)[1207] [43 0 59 0 4 40]
+[12] - Calça_de_Couro(A)[1127] [43 1 71 30 59 0]
+[13] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[14] - Manoplas_Embutidas(M)[1216] [43 0 72 15 2 12]
+[15] - Manoplas_Elementais(M)[1501] [43 1 72 10 60 4]
+[16] - Elmo_Embutido(M)[1207] [43 0 26 6 59 0]
+[17] - Braçadeira_de_Teia(M)[1651] [43 0 72 15 60 2]
+[18] - Elmo_Elemental(M)[1492] [43 0 60 8 59 0]
+[19] - Elmo_Elemental(M)[1492] [14 20 59 0 59 0]
+[20] - Chapéu_de_Teia(M)[1642] [9 8 60 10 59 0]
+[21] - Elmo_Elemental(M)[1492] [43 0 59 0 59 0]
+[22] - Chapéu_de_Mytril(M)[1342] [43 0 26 9 59 0]
+[23] - Chapéu_de_Mytril(M)[1342] [12 10 60 10 4 20]
+[24] - Braçadeira_de_Teia(M)[1651] [43 0 72 10 59 0]
+[25] - Chapéu_de_Teia(M)[1642] [43 0 59 0 4 50]
+[26] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[29] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[30] - Elmo_Embutido(M)[1207] [8 7 60 6 59 0]
+[31] - Chapéu_de_Teia(M)[1642] [43 1 60 6 59 0]
+[32] - Elmo_Elemental(M)[1492] [7 6 59 0 4 20]
+[33] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[34] - Elmo_Embutido(M)[1207] [43 1 60 4 59 0]
+[35] - Elmo_Elemental(M)[1492] [43 1 60 6 4 30]
+[36] - Luvas_de_Mytril(M)[1351] [43 1 72 15 59 0]
+[37] - Manoplas_Embutidas(M)[1216] [43 1 72 10 74 9]
+[38] - Elmo_Elemental(M)[1492] [43 1 60 6 3 10]
+[39] - Luvas_de_Mytril(M)[1351] [43 0 72 15 59 0]
+[40] - Manoplas_Elementais(M)[1501] [43 2 72 20 59 0]
+[41] - Elmo_Elemental(M)[1492] [43 0 60 6 59 0]
+[42] - Braçadeira_de_Teia(M)[1651] [10 14 72 20 60 4]
+[43] - Chapéu_de_Teia(M)[1642] [43 1 26 12 59 0]
+[44] - Braçadeira_de_Teia(M)[1651] [43 1 72 20 74 9]
+[45] - Manoplas_Elementais(M)[1501] [43 2 72 20 2 6]
+[46] - Luvas_de_Mytril(M)[1351] [43 0 72 15 60 4]
+[47] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[48] - Luvas_de_Mytril(M)[1351] [43 1 72 10 74 12]
+[49] - Chapéu_de_Teia(M)[1642] [43 1 59 0 4 30]
+[50] - Chapéu_de_Teia(M)[1642] [43 1 59 0 4 20]
+[51] - Elmo_Elemental(M)[1492] [43 1 59 0 59 0]
+[52] - Manoplas_Embutidas(M)[1216] [43 0 72 20 60 4]
+[53] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[54] - Elmo_Embutido(M)[1207] [43 1 26 9 4 30]
+[56] - Manoplas_Elementais(M)[1501] [43 1 72 15 59 0]
+[57] - Elmo_Elemental(M)[1492] [43 1 60 8 59 0]
+[58] - Elmo_Elemental(M)[1492] [43 0 26 6 59 0]
+[59] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 7 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 7 110 1 109 121]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+10:27:27 : [menina] - Personagem menina enviado ao mundo 2098x 2099y - Canal 1 - Cash da conta: 9750. OverPower: 2518
+10:27:27 : [menina] - Gold atual: 446063. Classe: 1 Evolução: 0. Experiência: 81210. Nível: 1014. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+10:27:27 : [menina] - Logou no personagem menina com baú de experiência ativo. Tempo: 112
+10:27:27 : [menina] - Enviado informações do personagem
+10:27:28 : [menina] - Comando "/day "
+10:27:28 : [menina] - [Mensagem do servidor]> !#11 2
+10:27:34 : [menina] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+10:28:02 : [menina] - Matou o mob Krill. GenerID: 531
+10:28:02 : [menina] - Matou o mob Krill. GenerID: 531
+10:28:02 : [menina] - Matou o mob Gremlin. GenerID: 530
+10:28:03 : [menina] - Matou o mob Gremlin. GenerID: 531
+10:28:04 : [menina] - Matou o mob Gremlin. GenerID: 531
+10:28:09 : [menina] - Matou o mob Krill. GenerID: 532
+10:28:10 : [menina] - Matou o mob Gremlin. GenerID: 530
+10:28:11 : [menina] - Matou o mob Krill. GenerID: 530
+10:28:12 : [menina] - Matou o mob Gremlin. GenerID: 531
+10:28:12 : [menina] - Matou o mob Gremlin. GenerID: 532
+10:28:18 : [menina] - Matou o mob Krill. GenerID: 530
+10:28:19 : [menina] - Matou o mob Krill. GenerID: 529
+10:28:20 : [menina] - Matou o mob Gremlin. GenerID: 529
+10:28:20 : [menina] - Dropado item Manoplas_Acolchoadas(N) [1560] [43 2 72 20 74 9] em 2266x 2086y - Gremlin (1/67)
+10:28:21 : [menina] - Matou o mob Krill. GenerID: 529
+10:28:21 : [menina] - Matou o mob Gremlin. GenerID: 530
+10:28:21 : [menina] - Dropado item Sapatos_Pele_de_Animal(N) [1413] [43 1 73 6 59 0] em 2266x 2086y - Gremlin (1/89)
+10:28:23 : [menina] - Matou o mob Krill. GenerID: 532
+10:28:24 : [menina] - Matou o mob Krill. GenerID: 529
+10:28:27 : [menina] - Matou o mob Gremlin. GenerID: 532
+10:28:29 : [menina] - Matou o mob Gremlin. GenerID: 529
+10:28:30 : [menina] - Matou o mob Gremlin. GenerID: 532
+10:28:31 : [menina] - Matou o mob Rei Gremlin. GenerID: 526
+10:28:32 : [menina] - Matou o mob Krill. GenerID: 532
+10:28:34 : [menina] - Matou o mob Gremlin. GenerID: 532
+10:28:34 : [menina] - Matou o mob Krill. GenerID: 532
+10:28:38 : [menina] - Matou o mob Gremlin . GenerID: 527
+10:28:39 : [menina] - Matou o mob Krill . GenerID: 527
+10:28:40 : [menina] - Matou o mob Krill . GenerID: 527
+10:28:41 : [menina] - Matou o mob Gremlin . GenerID: 527
+10:28:41 : [menina] - Dropado item Robe_Pele_de_Animal(N) [1404] [43 0 71 40 60 2] em 2281x 2081y - Gremlin  (1/300)
+10:28:42 : [menina] - Matou o mob Krill. GenerID: 533
+10:28:43 : [menina] - Matou o mob Gremlin. GenerID: 533
+10:28:51 : [menina] - Matou o mob Rei Gremlin. GenerID: 528
+10:28:58 : [menina] - Matou o mob Rei Gremlin. GenerID: 543
+10:28:58 : [menina] - Matou o mob Rei Gremlin. GenerID: 543
+10:28:59 : [menina] - Matou o mob Rei Gremlin. GenerID: 553
+10:29:00 : [menina] - Matou o mob Javali. GenerID: 544
+10:29:03 : [menina] - Matou o mob Javali. GenerID: 552
+10:29:07 : [menina] - Matou o mob Rei Gremlin. GenerID: 571
+10:29:08 : [menina] - Matou o mob Seguidor. GenerID: 3406
+10:29:09 : [menina] - Enviando skill com o distancia maior que o range da skill. Distância: 33. Distância 2: 18. Range: 9. SkillId: 34
+10:29:10 : [menina] - Enviando skill com o distancia maior que o range da skill. Distância: 33. Distância 2: 18. Range: 9. SkillId: 35
+10:29:10 : [menina] - Enviando skill com o distancia maior que o range da skill. Distância: 32. Distância 2: 18. Range: 9. SkillId: 35
+10:29:10 : [menina] - Enviando skill com o distancia maior que o range da skill. Distância: 35. Distância 2: 20. Range: 9. SkillId: 35
+10:29:11 : [menina] - Matou o mob Rei Gremlin. GenerID: 571
+10:29:12 : [menina] - Enviando skill com o distancia maior que o range da skill. Distância: 35. Distância 2: 19. Range: 9. SkillId: 33
+10:29:13 : [menina] - Enviando skill com o distancia maior que o range da skill. Distância: 34. Distância 2: 17. Range: 9. SkillId: 34
+10:29:15 : [menina] - Enviando skill com o distancia maior que o range da skill. Distância: 35. Distância 2: 34. Range: 9. SkillId: 35
+10:29:20 : [menina] - Matou o mob Rei Gremlin. GenerID: 584
+10:29:21 : [menina] - Matou o mob Javali. GenerID: 584
+10:29:22 : [menina] - Matou o mob Javali. GenerID: 584
+10:29:23 : [menina] - Matou o mob Rei Gremlin. GenerID: 584
+10:29:30 : [menina] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+10:29:30 : [menina] - 1 Personagem foi desconectado. Permaneceu 00:03:25 minutos online
+13:33:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (72:FD:C1:BB:D7:4B). ClientId: 2
+13:33:55 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 999876623
+13:33:55 : [INFORMAÇÕES DO BANCO]
+Gold: 999876623
+[  9] - Pedra_Secreta_(Água)[5334] [0 0 0 0 0 0]
+[ 13] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+[ 14] - Pedra_Secreta_(Sol)[5336] [0 0 0 0 0 0]
+[ 19] - Pedra_Secreta_(Terra)[5335] [0 0 0 0 0 0]
+[ 82] - Arco_Élfico(Anct)[2545] [43 9 2 72 0 0]
+[ 83] - Calça_Aeon(Le)[2223] [43 9 0 0 0 0]
+[ 84] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+
+13:33:56 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:34:04 : Solicitou ir ao mundo...
+13:34:04 : Recebido pedido para entrar no jogo
+13:34:04 : Recebido informação do personagem completa.
+13:34:04 : [menina] - [INFORMAÇÕES DA CONTA]
+Personagem online: menina
+Gold atual: 446063
+Level atual: 1014
+Experiência atual: 83790
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2088x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[06] - Skytalos[826] [43 252 2 255 2 255]
+[11] - Pedra_Espiritual[633] [43 252 3 255 3 255]
+[14] - Grifo[2384] [10 10 120 30 0 0]
+[15] - Manto_Hekalotia[545] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas_Vampíricas(A)[1835] [43 0 72 15 60 2]
+[01] - Calça_de_Bandagem(A)[2053] [43 2 71 40 60 2]
+[02] - Botas_de_Couro_Batido(A)[1819] [9 14 73 6 59 0]
+[03] - Braçadeira_de_Ferro(M)[1576] [43 2 72 15 60 4]
+[04] - Elmo_de_Couro_Duro(N)[1104] [43 0 59 0 59 0]
+[05] - Baú_de_Experiência[4144] [0 0 0 0 0 0]
+[06] - Chapéu_Pele_de_Animal(A)[1403] [43 0 60 4 4 20]
+[07] - Luvas_de_Seda(A)[1834] [43 0 72 25 60 8]
+[08] - Armadura_de_Couro(A)[1115] [43 0 71 40 59 0]
+[09] - Arco_Robusto[817] [43 0 2 27 59 0]
+[10] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[11] - Elmo_Embutido(M)[1207] [43 0 59 0 4 40]
+[12] - Calça_de_Couro(A)[1127] [43 1 71 30 59 0]
+[13] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[14] - Manoplas_Embutidas(M)[1216] [43 0 72 15 2 12]
+[15] - Manoplas_Elementais(M)[1501] [43 1 72 10 60 4]
+[16] - Elmo_Embutido(M)[1207] [43 0 26 6 59 0]
+[17] - Braçadeira_de_Teia(M)[1651] [43 0 72 15 60 2]
+[18] - Elmo_Elemental(M)[1492] [43 0 60 8 59 0]
+[19] - Elmo_Elemental(M)[1492] [14 20 59 0 59 0]
+[20] - Chapéu_de_Teia(M)[1642] [9 8 60 10 59 0]
+[21] - Elmo_Elemental(M)[1492] [43 0 59 0 59 0]
+[22] - Chapéu_de_Mytril(M)[1342] [43 0 26 9 59 0]
+[23] - Chapéu_de_Mytril(M)[1342] [12 10 60 10 4 20]
+[24] - Braçadeira_de_Teia(M)[1651] [43 0 72 10 59 0]
+[25] - Chapéu_de_Teia(M)[1642] [43 0 59 0 4 50]
+[26] - Poeira_de_Oriharucon[412] [61 4 0 0 0 0]
+[27] - Manoplas_Acolchoadas(N)[1560] [43 2 72 20 74 9]
+[28] - Sapatos_Pele_de_Animal(N)[1413] [43 1 73 6 59 0]
+[29] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[30] - Elmo_Embutido(M)[1207] [8 7 60 6 59 0]
+[31] - Chapéu_de_Teia(M)[1642] [43 1 60 6 59 0]
+[32] - Elmo_Elemental(M)[1492] [7 6 59 0 4 20]
+[33] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[34] - Elmo_Embutido(M)[1207] [43 1 60 4 59 0]
+[35] - Elmo_Elemental(M)[1492] [43 1 60 6 4 30]
+[36] - Luvas_de_Mytril(M)[1351] [43 1 72 15 59 0]
+[37] - Manoplas_Embutidas(M)[1216] [43 1 72 10 74 9]
+[38] - Elmo_Elemental(M)[1492] [43 1 60 6 3 10]
+[39] - Luvas_de_Mytril(M)[1351] [43 0 72 15 59 0]
+[40] - Manoplas_Elementais(M)[1501] [43 2 72 20 59 0]
+[41] - Elmo_Elemental(M)[1492] [43 0 60 6 59 0]
+[42] - Braçadeira_de_Teia(M)[1651] [10 14 72 20 60 4]
+[43] - Chapéu_de_Teia(M)[1642] [43 1 26 12 59 0]
+[44] - Braçadeira_de_Teia(M)[1651] [43 1 72 20 74 9]
+[45] - Manoplas_Elementais(M)[1501] [43 2 72 20 2 6]
+[46] - Luvas_de_Mytril(M)[1351] [43 0 72 15 60 4]
+[47] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[48] - Luvas_de_Mytril(M)[1351] [43 1 72 10 74 12]
+[49] - Chapéu_de_Teia(M)[1642] [43 1 59 0 4 30]
+[50] - Chapéu_de_Teia(M)[1642] [43 1 59 0 4 20]
+[51] - Elmo_Elemental(M)[1492] [43 1 59 0 59 0]
+[52] - Manoplas_Embutidas(M)[1216] [43 0 72 20 60 4]
+[53] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[54] - Elmo_Embutido(M)[1207] [43 1 26 9 4 30]
+[55] - Robe_Pele_de_Animal(N)[1404] [43 0 71 40 60 2]
+[56] - Manoplas_Elementais(M)[1501] [43 1 72 15 59 0]
+[57] - Elmo_Elemental(M)[1492] [43 1 60 8 59 0]
+[58] - Elmo_Elemental(M)[1492] [43 0 26 6 59 0]
+[59] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 7 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 7 110 1 109 121]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:34:04 : [menina] - Personagem menina enviado ao mundo 2088x 2105y - Canal 2 - Cash da conta: 9750. OverPower: 2518
+13:34:04 : [menina] - Gold atual: 446063. Classe: 1 Evolução: 0. Experiência: 83790. Nível: 1014. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+13:34:04 : [menina] - Logou no personagem menina com baú de experiência ativo. Tempo: 97
+13:34:04 : [menina] - Enviado informações do personagem
+13:34:07 : [menina] - Comando "/day "
+13:34:07 : [menina] - [Mensagem do servidor]> !#11 2
+13:34:16 : [menina] - Comando "/gm +set 6 939"
+13:34:20 : [menina] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:34:25 : [menina] - Comando "/gm +set 6 938"
+13:34:34 : [menina] - Comando "/gm +set 6 937"
+13:34:41 : [menina] - Comando "/gm +set 6 940"
+13:34:47 : [menina] - Comando "/gm +set 6 941"
+13:34:52 : [menina] - Comando "/gm +set 6 942"
+13:34:55 : [menina] - Comando "/gm +set 6 943"
+13:35:04 : [menina] - Comando "/gm +set 6 944"
+13:35:10 : [menina] - Comando "/gm +set 6 945"
+13:35:45 : [menina] - Teleportado para a posição 2458 2017
+13:35:54 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 873
+13:35:55 : [menina] - Comando "/gm +set 6 944"
+13:35:56 : [menina] - Comando "/gm +set 6 943"
+13:35:59 : [menina] - Matou o mob Meio Orc. GenerID: 875
+13:36:00 : [menina] - Matou o mob Meio Orc. GenerID: 875
+13:36:02 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 876
+13:36:04 : [menina] - Matou o mob Meio Orc. GenerID: 875
+13:36:08 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 875
+13:36:09 : [menina] - Matou o mob Meio Orc. GenerID: 875
+13:36:09 : [menina] - Não dropou o item Botas_de_Bandagem(A) por falta de espaço [2055] [43 0 73 18 74 15] em 2491x 2004y - Meio Orc (1/300)
+13:36:09 : [menina] - [Mensagem do servidor]> Seu inventário está cheio
+13:36:10 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 877
+13:36:10 : [menina] - Matou o mob Meio Orc. GenerID: 876
+13:36:15 : [menina] - Matou o mob Meio Orc. GenerID: 877
+13:36:15 : [menina] - Comando "/gm +clearinv"
+13:36:15 : [menina] - [Mensagem do servidor]> CLEARINV
+13:36:39 : [menina] - Comando "/gm +level 399"
+13:36:43 : [menina] - Comando "/gm +set leve 399"
+13:36:43 : [menina] - [Mensagem do servidor]> Comando inválido
+13:36:47 : [menina] - Comando "/gm +set level 399"
+13:36:57 : [menina] - Clicado no NPC [Perzen Normal]. Face 11. Race: 8. GenerateId: 3274. Posição do usuário: 2461x 2002y. Posição do NPC: 2465x 2009y
+13:37:10 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 875
+13:37:11 : [menina] - Matou o mob Meio Orc. GenerID: 875
+13:37:12 : [menina] - Matou o mob Meio Orc. GenerID: 875
+13:37:12 : [menina] - Dropado item Luvas_Vampíricas(A) [1835] [43 1 72 10 74 6] em 2493x 2006y - Meio Orc (1/135)
+13:37:13 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 875
+13:37:15 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 876
+13:37:19 : [menina] - Matou o mob Troll. GenerID: 878
+13:37:21 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 875
+13:37:23 : [menina] - Matou o mob Meio Orc. GenerID: 876
+13:37:30 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 877
+13:37:32 : [menina] - Matou o mob Meio Orc. GenerID: 875
+13:37:36 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 875
+13:37:42 : [menina] - Matou o mob Meio Orc. GenerID: 875
+13:37:46 : [menina] - Matou o mob Meio Orc. GenerID: 875
+13:37:51 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 876
+13:37:53 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 875
+13:37:56 : [menina] - Matou o mob Meio Orc. GenerID: 876
+13:37:57 : [menina] - Matou o mob Meio Orc. GenerID: 875
+13:38:00 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 875
+13:38:04 : [menina] - Matou o mob Meio Orc. GenerID: 877
+13:38:09 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 876
+13:38:10 : [menina] - Matou o mob Meio Orc. GenerID: 876
+13:38:11 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 877
+13:38:15 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 877
+13:38:20 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 879
+13:38:21 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 877
+13:38:22 : [menina] - Matou o mob Meio Orc. GenerID: 877
+13:38:23 : [menina] - Matou o mob Meio Orc. GenerID: 877
+13:38:24 : [menina] - Matou o mob Meio Orc. GenerID: 879
+13:38:26 : [menina] - Matou o mob Troll. GenerID: 878
+13:38:27 : [menina] - Matou o mob Meio Orc . GenerID: 880
+13:38:28 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 879
+13:38:30 : [menina] - Matou o mob Orc Cavaleiro . GenerID: 880
+13:38:31 : [menina] - Matou o mob Meio Orc . GenerID: 880
+13:38:32 : [menina] - Matou o mob Meio Orc. GenerID: 882
+13:38:33 : [menina] - Matou o mob Meio Orc. GenerID: 882
+13:38:35 : [menina] - Matou o mob Orc Cavaleiro . GenerID: 880
+13:38:36 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 884
+13:38:37 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 882
+13:38:38 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 882
+13:38:40 : [menina] - Matou o mob Meio Orc. GenerID: 884
+13:38:45 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 882
+13:38:46 : [menina] - Matou o mob Meio Orc. GenerID: 882
+13:38:48 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 883
+13:38:49 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 879
+13:38:50 : [menina] - Matou o mob Troll. GenerID: 881
+13:38:51 : [menina] - Matou o mob Meio Orc. GenerID: 883
+13:38:52 : [menina] - Matou o mob Meio Orc. GenerID: 879
+13:38:57 : [menina] - Matou o mob Meio Orc. GenerID: 883
+13:38:58 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 883
+13:38:59 : [menina] - Matou o mob Troll. GenerID: 881
+13:38:59 : [menina] - Dropado item Cimitarra [953] [12 14 2 18 59 0] em 2489x 1979y - Troll (1/70)
+13:39:00 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 879
+13:39:02 : [menina] - Matou o mob Meio Orc . GenerID: 880
+13:39:03 : [menina] - Matou o mob Meio Orc. GenerID: 879
+13:39:05 : [menina] - Matou o mob Meio Orc. GenerID: 883
+13:39:06 : [menina] - Matou o mob Orc Cavaleiro . GenerID: 880
+13:39:07 : [menina] - Matou o mob Meio Orc. GenerID: 882
+13:39:08 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 882
+13:39:09 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 882
+13:39:09 : [menina] - Dropado item Machado_Duplo [806] [43 1 2 9 26 15] em 2491x 1981y - Orc Cavaleiro (1/300)
+13:39:10 : [menina] - Matou o mob Meio Orc. GenerID: 882
+13:39:11 : [menina] - Matou o mob Orc Cavaleiro . GenerID: 880
+13:39:12 : [menina] - Matou o mob Meio Orc . GenerID: 880
+13:39:13 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 879
+13:39:14 : [menina] - Matou o mob Meio Orc. GenerID: 879
+13:39:15 : [menina] - Matou o mob Meio Orc. GenerID: 879
+13:39:20 : [menina] - Matou o mob Troll. GenerID: 881
+13:39:20 : [menina] - Dropado item Botas_de_Malha(M) [1159] [43 0 73 12 74 6] em 2489x 1983y - Troll (1/70)
+13:39:20 : [menina] - Dropado item Calça_Sombria(M) [1285] [43 2 71 40 60 2] em 2489x 1983y - Troll (1/70)
+13:39:27 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 873
+13:39:28 : [menina] - Matou o mob Meio Orc. GenerID: 867
+13:39:29 : [menina] - Matou o mob Meio Orc. GenerID: 873
+13:39:30 : [menina] - Matou o mob Meio Orc. GenerID: 875
+13:39:31 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 875
+13:39:33 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 876
+13:39:34 : [menina] - Matou o mob Meio Orc. GenerID: 867
+13:39:35 : [menina] - Matou o mob Meio Orc. GenerID: 873
+13:39:36 : [menina] - Matou o mob Orc Cavaleiro. GenerID: 873
+13:39:42 : [menina] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:39:42 : [menina] - 2 Personagem foi desconectado. Permaneceu 00:05:42 minutos online

@@ -1,0 +1,93 @@
+
+10:50:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 80.103.120.181 Mac: (B4:B1:20:6F:AD:44). ClientId: 1
+10:50:55 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 123456789
+10:50:55 : [INFORMAÇÕES DO BANCO]
+Gold: 123456789
+
+10:51:14 : ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+10:51:14 : Personagem foi desconectado. Permaneceu 00:00:19 minutos online
+16:22:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 177.133.37.103 Mac: (57:97:A2:B8:71:46). ClientId: 2
+16:22:37 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 123456789
+16:22:37 : [INFORMAÇÕES DO BANCO]
+Gold: 123456789
+
+16:22:44 : Solicitou ir ao mundo...
+16:22:44 : Recebido pedido para entrar no jogo
+16:22:44 : Recebido informação do personagem completa.
+16:22:44 : [admin] - [INFORMAÇÕES DA CONTA]
+Personagem online: admin
+Gold atual: 0
+Level atual: 22
+Experiência atual: 55592
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Martelo_de_Pedra[938] [43 9 0 0 0 0]
+[15] - Mestre_de_Hekalotia[3197] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Arco_de_Caveira[943] [43 9 0 0 0 0]
+[01] - Calça_Pele_de_Animal(A)[1409] [13 10 3 25 59 0]
+[02] - Jaqueta_Acolchoada(A)[1556] [13 10 3 20 60 6]
+[03] - Botas_Acolchoadas(A)[1565] [43 2 73 18 74 12]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 3 15 59 0]
+[05] - Adaga[861] [43 0 0 0 0 0]
+[06] - Jaqueta_Acolchoada(A)[1556] [43 0 71 40 59 0]
+[07] - Manoplas_Acolchoadas(N)[1560] [43 2 72 20 59 0]
+[08] - Armadura_de_Couro(A)[1805] [43 0 3 20 60 2]
+[09] - Sapatos_Pele_de_Animal(N)[1413] [43 0 73 6 59 0]
+[10] - Chapéu_Acolchoado(N)[1551] [43 0 59 0 59 0]
+[11] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[12] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[13] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[14] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[15] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[16] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[17] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[18] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[19] - Sapatos_Pele_de_Animal(N)[1413] [43 1 73 12 59 0]
+[20] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[21] - Manoplas_Acolchoadas(N)[1560] [43 1 72 10 54 6]
+[22] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[23] - Calça_de_Couro(A)[1809] [43 0 71 30 59 0]
+[24] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[25] - Túnica_de_Pano(N)[1263] [43 0 71 50 59 0]
+[26] - Martelo_de_Pedra[938] [43 9 0 0 0 0]
+[27] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[28] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[29] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [141 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:22:44 : [admin] - Personagem admin enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 88120. OverPower: 89
+16:22:44 : [admin] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 55592. Nível: 22. Info: 0. GuildID: 4. CP: 66. Pontos de Contribuição: 0. Limite: 0
+16:22:44 : [admin] - Logou no personagem admin com poção divina ativo. Validade: 14/12/2020 19:39:22
+16:22:44 : [admin] - Resetado a contagem de entradas água! Day: 343-344. Total: 0
+16:22:44 : [admin] - Enviado informações do personagem
+16:22:45 : [admin] - Comando "/day "
+16:22:45 : [admin] - [Mensagem do servidor]> !#11 2
+16:22:57 : [admin] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:23:23 : [admin] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:23:23 : [admin] - 2 Personagem foi desconectado. Permaneceu 00:00:46 minutos online

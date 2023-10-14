@@ -1,0 +1,244 @@
+
+20:19:20 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.93.179.87 Mac: (EA:C9:7D:F2:29:49). ClientId: 1
+20:19:20 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+20:19:20 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 79] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+
+20:19:20 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:19:26 : Solicitou ir ao mundo...
+20:19:26 : Recebido pedido para entrar no jogo
+20:19:26 : Recebido informação do personagem completa.
+20:19:26 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2095x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[26] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Hophlon[1711] [0 0 0 0 0 0]
+[01] - Porco[2360] [120 120 120 120 120 111]
+[02] - Porco[2360] [120 120 120 120 120 22]
+[03] - Porco[2360] [120 120 120 120 120 11]
+[04] - [5380] [96 0 0 0 0 0]
+[05] - Adaga[861] [43 0 0 0 0 0]
+[06] - Hophlon[1711] [0 0 0 0 0 0]
+[07] - [5381] [96 0 0 0 0 0]
+[08] - [5382] [96 0 0 0 0 0]
+[10] - Porco[2360] [120 120 120 120 120 12]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:19:26 : [skewed] - Personagem skewed enviado ao mundo 2095x 2103y - Canal 1 - Cash da conta: 0. OverPower: 2020
+20:19:26 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+20:19:26 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-287. Total: -16843010
+20:19:26 : [skewed] - Enviado informações do personagem
+20:19:27 : [skewed] - Comando "/day "
+20:19:27 : [skewed] - [Mensagem do servidor]> !#11 2
+20:19:30 : [skewed] - Item  [5381] [96 0 0 0 0 0] utilizado em 2095x 2103y
+20:19:33 : [skewed] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:20:20 : [skewed] - [Mensagem do servidor]> Recompensa retirada com sucesso
+20:21:01 : [skewed] - Comando "/gm +item 5380 96 0"
+20:21:01 : [skewed] - skewed criou o item  [5380] [96 0 0 0 0 0]
+20:21:04 : [skewed] - Comando "/gm +item 5381 96 0"
+20:21:04 : [skewed] - skewed criou o item  [5381] [96 0 0 0 0 0]
+20:21:05 : [skewed] - Item  [5381] [96 0 0 0 0 0] utilizado em 2096x 2102y
+20:21:08 : [skewed] - Item  [5380] [96 0 0 0 0 0] utilizado em 2096x 2102y
+20:27:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.93.179.87 Mac: (EA:C9:7D:F2:29:49). ClientId: 1
+20:27:13 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+20:27:13 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+20:27:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.93.179.87 Mac: (EA:C9:7D:F2:29:49). ClientId: 2
+20:27:13 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+20:27:13 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+20:27:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.93.179.87 Mac: (EA:C9:7D:F2:29:49). ClientId: 1
+20:27:13 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+20:27:13 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+20:27:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.93.179.87 Mac: (EA:C9:7D:F2:29:49). ClientId: 2
+20:27:13 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+20:27:13 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+20:27:35 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.93.179.87 Mac: (EA:C9:7D:F2:29:49). ClientId: 1
+20:27:35 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+20:27:35 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 79] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+
+20:27:35 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:27:48 : Solicitou ir ao mundo...
+20:27:48 : Recebido pedido para entrar no jogo
+20:27:48 : Recebido informação do personagem completa.
+20:27:48 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:13 horas
+Posição atual: 2087x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[26] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Hophlon[1711] [0 0 0 0 0 0]
+[01] - Porco[2360] [120 120 120 120 120 111]
+[02] - Porco[2360] [120 120 120 120 120 22]
+[03] - Porco[2360] [120 120 120 120 120 11]
+[04] - [5380] [96 0 0 0 0 0]
+[05] - Adaga[861] [43 0 0 0 0 0]
+[06] - Hophlon[1711] [0 0 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[08] - [5380] [96 0 0 0 0 0]
+[09] - [5381] [96 0 0 0 0 0]
+[10] - Porco[2360] [120 120 120 120 120 12]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:27:48 : [skewed] - Personagem skewed enviado ao mundo 2087x 2100y - Canal 1 - Cash da conta: 0. OverPower: 2020
+20:27:48 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+20:27:48 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-287. Total: -16843010
+20:27:48 : [skewed] - Enviado informações do personagem
+20:27:49 : [skewed] - Comando "/day "
+20:27:49 : [skewed] - [Mensagem do servidor]> !#11 2
+20:27:51 : [skewed] - Item  [5381] [96 0 0 0 0 0] utilizado em 2087x 2100y
+20:27:53 : [skewed] - Item  [5380] [96 0 0 0 0 0] utilizado em 2087x 2100y
+20:29:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.93.179.87 Mac: (EA:C9:7D:F2:29:49). ClientId: 1
+20:29:36 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+20:29:36 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+20:29:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.93.179.87 Mac: (EA:C9:7D:F2:29:49). ClientId: 2
+20:29:36 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+20:29:36 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+20:29:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.93.179.87 Mac: (EA:C9:7D:F2:29:49). ClientId: 1
+20:29:36 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+20:29:36 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+20:29:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 177.93.179.87 Mac: (EA:C9:7D:F2:29:49). ClientId: 2
+20:29:36 : Usuário logou no jogo com clientId 2. - Servidor 1. Gold do banco: 0
+20:29:36 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 79] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+
+20:29:36 : Usuário logou no jogo com clientId 2. - Servidor 1. Gold do banco: 0
+20:29:36 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 79] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+
+20:29:36 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:29:41 : Solicitou ir ao mundo...
+20:29:41 : Recebido pedido para entrar no jogo
+20:29:41 : Recebido informação do personagem completa.
+20:29:41 : [skewed] - [INFORMAÇÕES DA CONTA]
+Personagem online: skewed
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2098x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[26] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Hophlon[1711] [0 0 0 0 0 0]
+[01] - Porco[2360] [120 120 120 120 120 111]
+[02] - Porco[2360] [120 120 120 120 120 22]
+[03] - Porco[2360] [120 120 120 120 120 11]
+[04] - [5380] [96 0 0 0 0 0]
+[05] - Adaga[861] [43 0 0 0 0 0]
+[06] - Hophlon[1711] [0 0 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[08] - [5380] [96 0 0 0 0 0]
+[09] - [5381] [96 0 0 0 0 0]
+[10] - Porco[2360] [120 120 120 120 120 12]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:29:41 : [skewed] - Personagem skewed enviado ao mundo 2098x 2106y - Canal 1 - Cash da conta: 0. OverPower: 2020
+20:29:41 : [skewed] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+20:29:41 : [skewed] - Resetado a contagem de entradas água! Day: -16843264-287. Total: -16843010
+20:29:41 : [skewed] - Enviado informações do personagem
+20:29:42 : [skewed] - Comando "/day "
+20:29:42 : [skewed] - [Mensagem do servidor]> !#11 2
+20:29:44 : [skewed] - Item  [5381] [96 0 0 0 0 0] utilizado em 2098x 2106y
+20:29:46 : [skewed] - Item  [5380] [96 0 0 0 0 0] utilizado em 2098x 2106y

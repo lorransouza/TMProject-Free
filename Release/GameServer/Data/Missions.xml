@@ -1,0 +1,3191 @@
+<?xml version="1.0"?>
+<!-- Quest Mortal 1 -->
+<missions>
+	<mission>
+		<id>1</id>
+		<name>Gremlins Malditos.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>60</minLevel>
+			<maxLevel>115</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Gremlin" total="80"/>
+			<mob index="1" name="Krill" total="50"/>
+<!--		<drop index="0" id="0" total="0"/>  -->
+		</quest>
+		<rewards>
+			<gold>1000000</gold>
+			<exp>15000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 2 -->
+
+	<mission>
+		<id>2</id>
+		<name>Lago Sombrio.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>100</minLevel>
+			<maxLevel>250</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Krill" total="80"/>
+			<mob index="1" name="Lizard" total="50"/>
+			<mob index="2" name="Orc Arqueiro" total="30"/>
+		</quest>
+		<rewards>
+			<gold>1300000</gold>
+			<exp>16000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 3 -->
+
+	<mission>
+		<id>3</id>
+		<name>Assassine os Orcs.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>100</minLevel>
+			<maxLevel>200</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Meio Orc" total="100"/>
+			<mob index="1" name="Orc Lord" total="1"/>
+		</quest>
+		<rewards>
+			<gold>1300000</gold>
+			<exp>17000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="419" ef0="61" efv0="10" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="420" ef0="61" efv0="5" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 4 -->
+
+	<mission>
+		<id>4</id>
+		<name>Caçada Infernal.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>100</minLevel>
+			<maxLevel>200</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Javali" total="30"/>
+			<mob index="1" name="Rei Gremlin" total="50"/>
+		</quest>
+		<rewards>
+			<gold>1500000</gold>
+			<exp>18000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="419" ef0="61" efv0="10" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="420" ef0="61" efv0="10" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 5 -->
+
+	<mission>
+		<id>5</id>
+		<name>Alcatéia e Orcs.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>100</minLevel>
+			<maxLevel>200</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Lobo" total="50"/>
+			<mob index="1" name="Orc Arqueiro" total="30"/>
+		</quest>
+		<rewards>
+			<gold>1900000</gold>
+			<exp>15000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="419" ef0="61" efv0="10" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="420" ef0="61" efv0="10" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 6 -->
+
+	<mission>
+		<id>6</id>
+		<name>O Dragão perdido.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>115</minLevel>
+			<maxLevel>230</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Dragao Menor" total="50"/>
+			<mob index="1" name="Orc Cavaleiro" total="30"/>
+		</quest>
+		<rewards>
+			<gold>1900000</gold>
+			<exp>15000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="419" ef0="61" efv0="10" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 7 -->
+
+	<mission>
+		<id>7</id>
+		<name>A invasão dos trolls - I</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>110</minLevel>
+			<maxLevel>230</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Troll" total="250"/>
+		</quest>
+		<rewards>
+			<gold>1400000</gold>
+			<exp>15000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="419" ef0="61" efv0="10" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 8 -->
+
+	<mission>
+		<id>8</id>
+		<name>A invasão dos trolls - II</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>115</minLevel>
+			<maxLevel>230</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Cacador Troll" total="100"/>
+			<mob index="1" name="Meio Orc" total="50"/>
+		</quest>
+		<rewards>
+			<gold>1600000</gold>
+			<exp>18000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 9 -->
+
+	<mission>
+		<id>9</id>
+		<name>A caçada.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>115</minLevel>
+			<maxLevel>230</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Cacador Troll" total="100"/>
+			<mob index="1" name="Meio Orc" total="50"/>
+		</quest>
+		<rewards>
+			<gold>1600000</gold>
+			<exp>18000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 10 -->
+
+	<mission>
+		<id>10</id>
+		<name>O rei das areias do deserto.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>250</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Tauron" total="15"/>
+			<mob index="1" name="Tauron Bandido" total="5"/>
+		</quest>
+		<rewards>
+			<gold>2000000</gold>
+			<exp>30000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 11 -->
+
+	<mission>
+		<id>11</id>
+		<name>Gelo e Fogo!</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>250</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Tauron" total="30"/>
+			<mob index="1" name="Lobo Polar" total="5"/>
+		</quest>
+		<rewards>
+			<gold>2000000</gold>
+			<exp>31000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 12 -->
+
+	<mission>
+		<id>12</id>
+		<name>Deserto de Kult</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>250</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Manticora" total="5"/>
+			<mob index="1" name="Aranha Dourada" total="40"/>
+		</quest>
+		<rewards>
+			<gold>2000000</gold>
+			<exp>32000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 13 -->
+
+	<mission>
+		<id>13</id>
+		<name>O lado negro da força!</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>250</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Elfo Negro" total="100"/>
+			<mob index="1" name="Morlock" total="30"/>
+		</quest>
+		<rewards>
+			<gold>2000000</gold>
+			<exp>32000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 14 -->
+
+	<mission>
+		<id>14</id>
+		<name>Deslizamento de pedra!</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>250</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Golem de Pedra" total="100"/>
+			<mob index="1" name="Grim Lock" total="75"/>
+		</quest>
+		<rewards>
+			<gold>2000000</gold>
+			<exp>32000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 15 -->
+
+	<mission>
+		<id>15</id>
+		<name>Caveiras Sinistras.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>250</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Arq Caveira" total="75"/>
+			<mob index="1" name="Caveira Lanc" total="150"/>
+		</quest>
+		<rewards>
+			<gold>1500000</gold>
+			<exp>25000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 16 -->
+
+	<mission>
+		<id>16</id>
+		<name>A morte lhe espera.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>250</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Troll Zumbi" total="100"/>
+			<mob index="1" name="Caveira Lanc" total="24"/>
+		</quest>
+		<rewards>
+			<gold>1500000</gold>
+			<exp>25000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 17 -->
+
+	<mission>
+		<id>17</id>
+		<name>Areia movediça.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>250</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Tauron" total="75"/>
+		</quest>
+		<rewards>
+			<gold>2000000</gold>
+			<exp>33000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 18 -->
+
+	<mission>
+		<id>18</id>
+		<name>Dragão Esqueleto.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>250</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Tauron" total="75"/>
+		</quest>
+		<rewards>
+			<gold>2000000</gold>
+			<exp>31000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 19 -->
+
+	<mission>
+		<id>19</id>
+		<name>A caçada pelo Rei.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>250</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Minotaur" total="150"/>
+		</quest>
+		<rewards>
+			<gold>2000000</gold>
+			<exp>25000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 20 -->
+
+	<mission>
+		<id>20</id>
+		<name>Caolho.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>100</minLevel>
+			<maxLevel>200</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Dreadtaurs" total="80"/>
+			<mob index="1" name="Ciclope" total="60"/>
+		</quest>
+		<rewards>
+			<gold>1500000</gold>
+			<exp>25000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 21 -->
+
+	<mission>
+		<id>21</id>
+		<name>O coelho da páscoa?</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>100</minLevel>
+			<maxLevel>200</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Chefe Ghoul" total="50"/>
+			<mob index="1" name="Carbunkle" total="200"/>
+		</quest>
+		<rewards>
+			<gold>1500000</gold>
+			<exp>30000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 22 -->
+
+	<mission>
+		<id>22</id>
+		<name>Chamas da Escuridão.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>100</minLevel>
+			<maxLevel>250</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Basilisco Ifrit" total="30"/>
+			<mob index="1" name="Dracorich" total="5"/>
+		</quest>
+		<rewards>
+			<gold>1500000</gold>
+			<exp>22000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 23 -->
+
+	<mission>
+		<id>23</id>
+		<name>Derrote o minotuaro!</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>100</minLevel>
+			<maxLevel>250</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Minotaur" total="75"/>
+		</quest>
+		<rewards>
+			<gold>1500000</gold>
+			<exp>18000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 24 -->
+
+	<mission>
+		<id>24</id>
+		<name>Derrote os Carbunkles!</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>100</minLevel>
+			<maxLevel>250</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Carbunkle" total="100"/>
+			<mob index="1" name="Ghoul" total="150"/>
+		</quest>
+		<rewards>
+			<gold>1000000</gold>
+			<exp>17000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 25 -->
+
+	<mission>
+		<id>25</id>
+		<name>Ghoul, o consumidor de carne humana!</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>100</minLevel>
+			<maxLevel>250</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="1" name="Ghoul" total="200"/>
+		</quest>
+		<rewards>
+			<gold>1300000</gold>
+			<exp>18000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 26 -->
+
+	<mission>
+		<id>26</id>
+		<name>Árvores tem coração?</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>200</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="1" name="Treant" total="35"/>
+		</quest>
+		<rewards>
+			<gold>2300000</gold>
+			<exp>26000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 27 -->
+
+	<mission>
+		<id>27</id>
+		<name>Calor Infernal - I</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>200</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="1" name="Aranha Inferno" total="100"/>
+		</quest>
+		<rewards>
+			<gold>2300000</gold>
+			<exp>28000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="2442" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 28 -->
+
+	<mission>
+		<id>28</id>
+		<name>Prêmios do Deserto - II</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>230</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="1" name="Tauron" total="100"/>
+		</quest>
+		<rewards>
+			<gold>2100000</gold>
+			<exp>29000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="0" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 29 -->
+
+	<mission>
+		<id>29</id>
+		<name>A grande caçada - I</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>300</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Lugefer" total="2"/>
+			<mob index="1" name="Cav. Lugefer" total="5"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>29000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 30 -->
+
+	<mission>
+		<id>30</id>
+		<name>A grande caçada - II</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>300</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="WriggleSwarm" total="50"/>
+			<mob index="1" name="Aranha Dourada" total="100"/>
+		</quest>
+		<rewards>
+			<gold>2500000</gold>
+			<exp>29000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 31 -->
+
+	<mission>
+		<id>31</id>
+		<name>A grande caçada - II</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>300</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="XenoCropper" total="50"/>
+			<mob index="1" name="FunerMomenter" total="15"/>
+		</quest>
+		<rewards>
+			<gold>2500000</gold>
+			<exp>29000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 32 -->
+
+	<mission>
+		<id>32</id>
+		<name>Conhecendo a LanHouse</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>200</minLevel>
+			<maxLevel>350</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Golem de Fogo  " total="40"/>
+			<mob index="1" name="Elfo Negro   " total="40"/>
+			<mob index="2" name="Morlock Mage" total="40"/>
+			<mob index="3" name="Guer Caveira " total="40"/>
+		</quest>
+		<rewards>
+			<gold>1500000</gold>
+			<exp>29000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 33 -->
+
+	<mission>
+		<id>33</id>
+		<name>Conhecendo a LanHouse</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>300</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Adamant Tauron" total="15"/>
+			<mob index="1" name="Lugefer" total="3"/>
+		</quest>
+		<rewards>
+			<gold>2500000</gold>
+			<exp>29000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 34 -->
+
+	<mission>
+		<id>34</id>
+		<name>Krill Maldito - I</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>60</minLevel>
+			<maxLevel>115</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Krill" total="120"/>
+		</quest>
+		<rewards>
+			<gold>1000000</gold>
+			<exp>13000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="420" ef0="61" efv0="5" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Mortal 35 -->
+
+	<mission>
+		<id>35</id>
+		<name>Krill Maldito - II</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>60</minLevel>
+			<maxLevel>115</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Krill" total="150"/>
+		</quest>
+		<rewards>
+			<gold>1000000</gold>
+			<exp>18000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="420" ef0="61" efv0="5" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Mortal 36 -->
+
+	<mission>
+		<id>36</id>
+		<name>Lagartos me mordam - I</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>60</minLevel>
+			<maxLevel>115</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Lizard" total="75"/>
+		</quest>
+		<rewards>
+			<gold>1000000</gold>
+			<exp>14000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="420" ef0="61" efv0="5" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="420" ef0="61" efv0="5" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Mortal 37 -->
+
+	<mission>
+		<id>37</id>
+		<name>Lagartos me mordam - II</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>60</minLevel>
+			<maxLevel>115</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Lizard" total="120"/>
+		</quest>
+		<rewards>
+			<gold>1000000</gold>
+			<exp>18000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="420" ef0="61" efv0="5" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Mortal 38 -->
+
+	<mission>
+		<id>38</id>
+		<name>Dragões Gigantes - I</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>115</minLevel>
+			<maxLevel>230</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Dragao Menor" total="70"/>
+		</quest>
+		<rewards>
+			<gold>1000000</gold>
+			<exp>13000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="420" ef0="61" efv0="5" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Mortal 39 -->
+
+	<mission>
+		<id>39</id>
+		<name>Dragões Gigantes - II</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>115</minLevel>
+			<maxLevel>230</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Dragao Menor" total="100"/>
+		</quest>
+		<rewards>
+			<gold>1000000</gold>
+			<exp>17000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="420" ef0="61" efv0="5" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Mortal 40 -->
+
+	<mission>
+		<id>40</id>
+		<name>Treinando a Pontaria - I</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>100</minLevel>
+			<maxLevel>200</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Orc Arqueiro" total="100"/>
+		</quest>
+		<rewards>
+			<gold>1300000</gold>
+			<exp>14000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Mortal 41 -->
+
+	<mission>
+		<id>41</id>
+		<name>Treinando a Pontaria - II</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>100</minLevel>
+			<maxLevel>200</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Orc Arqueiro" total="100"/>
+		</quest>
+		<rewards>
+			<gold>1300000</gold>
+			<exp>14000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Mortal 42 -->
+
+	<mission>
+		<id>42</id>
+		<name>Calor Infernal - II</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>300</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Cav. Lugefer" total="1"/>
+			<mob index="1" name="Lugefer" total="3"/>
+		</quest>
+		<rewards>
+			<gold>2500000</gold>
+			<exp>31000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Mortal 43 -->
+
+	<mission>
+		<id>43</id>
+		<name>Calor Infernal - III</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>1</class>
+			</classes>
+			<minLevel>300</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Cav. Lugefer" total="2"/>
+			<mob index="1" name="Lugefer" total="5"/>
+		</quest>
+		<rewards>
+			<gold>2700000</gold>
+			<exp>31000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="3322" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1"  itemId="3323" ef0="61" efv0="120" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					
+					
+					
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Arch 1 -->
+
+	<mission>
+		<id>44</id>
+		<name>Jogos de Gelo - I</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Lobo Polar" total="100"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>5100000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Arch 2 -->
+
+	<mission>
+		<id>45</id>
+		<name>Jogos de Gelo - II</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Lobo Polar" total="75"/>
+			<mob index="1" name="Urso Polar" total="25"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>5100000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="3140" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="3140" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="6" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Arch 3 -->
+
+	<mission>
+		<id>46</id>
+		<name>Jogos de Gelo - III</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Troll de Gelo" total="75"/>
+			<mob index="1" name="Urso Polar" total="50"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>6200000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="3140" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="3140" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="3140" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="6" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Arch 4 -->
+
+	<mission>
+		<id>47</id>
+		<name>Jogos de Gelo - IV</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Ent Anciao" total="15"/>
+			<mob index="1" name="Lobo Polar" total="50"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>6200000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="3140" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="3140" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="6" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Arch 5 -->
+
+	<mission>
+		<id>48</id>
+		<name>Jogos de Gelo - V</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Grande Lobo" total="15"/>
+			<mob index="1" name="Ent Anciao" total="15"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>6400000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="3140" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="3140" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="3140" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="6" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="7" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Arch 6 -->
+
+	<mission>
+		<id>49</id>
+		<name>Jogos de Gelo - VI</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Grande Lobo" total="15"/>
+			<mob index="1" name="Soldado Amon" total="30"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>6500000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="3140" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="3140" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="3140" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="6" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="7" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Arch 7 -->
+
+	<mission>
+		<id>50</id>
+		<name>Jogos de Gelo - VII</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Homem Kalintz" total="15"/>
+			<mob index="1" name="Soldado Amon" total="20"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>6500000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="6" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="7" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Arch 8 -->
+
+	<mission>
+		<id>51</id>
+		<name>Garras Assassinas!</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Homem Kalintz" total="25"/>
+			<mob index="1" name="Mulher Kalintz" total="25"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>6500000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="6" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Arch 8 -->
+
+	<mission>
+		<id>52</id>
+		<name>O casal assustador.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Homem Kalintz" total="25"/>
+			<mob index="1" name="Mulher Kalintz" total="25"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>6600000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="6" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Arch 9 -->
+
+	<mission>
+		<id>53</id>
+		<name>O poderoso chefão.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Chefe Amon" total="30"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>6700000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="6" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+<!-- Quest Arch 10 -->
+
+	<mission>
+		<id>54</id>
+		<name>Soldados do Gelo.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Chefe Amon" total="10"/>
+			<mob index="1" name="Berserker Ref" total="5"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>6800000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="6" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+	
+<!-- Quest Arch 11 -->
+
+	<mission>
+		<id>55</id>
+		<name>Caveiras do mundo inferior</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Arq Caveira" total="10"/>
+			<mob index="1" name="Caveira Lanc" total="5"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>4500000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="6" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+	
+<!-- Quest Arch 12 -->
+
+	<mission>
+		<id>56</id>
+		<name>Areia calor e PvP...Ops Tauron.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Tauron" total="125"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>4900000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="6" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+	
+<!-- Quest Arch 13 -->
+
+	<mission>
+		<id>57</id>
+		<name>Coelho da páscoa?</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Chefe Ghoul" total="50"/>
+			<mob index="1" name="Carbunkle" total="100"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>4500000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+	
+<!-- Quest Arch 14 -->
+
+	<mission>
+		<id>58</id>
+		<name>Nevasca - I</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Lobo Polar" total="50"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>4500000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Arch 15 -->
+
+	<mission>
+		<id>59</id>
+		<name>Presa de Gelo</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Lobo Polar" total="20"/>
+			<mob index="1" name="Urso Polar" total="25"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>4500000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+	
+<!-- Quest Arch 16 -->
+
+	<mission>
+		<id>60</id>
+		<name>Presa de Gelo</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Troll de Gelo" total="10"/>
+			<mob index="1" name="Urso Polar" total="25"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>4500000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+	
+<!-- Quest Arch 17 -->
+
+	<mission>
+		<id>61</id>
+		<name>Nevasca - II</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Troll de Gelo" total="10"/>
+			<mob index="1" name="Urso Polar" total="25"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>5300000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>	
+	
+<!-- Quest Arch 18 -->
+
+	<mission>
+		<id>61</id>
+		<name>Jogos de Gelo - VIII</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Ent Anciao" total="5"/>
+			<mob index="1" name="Lobo Polar" total="25"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>6100000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+	
+<!-- Quest Arch 19 -->
+
+	<mission>
+		<id>62</id>
+		<name>Jogos de Gelo - IX</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Guerreiro Amon" total="25"/>
+			<mob index="1" name="Urso Polar" total="25"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>6200000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+	
+<!-- Quest Arch 20 -->
+
+	<mission>
+		<id>63</id>
+		<name>Explorando o Mapa</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="WriggleSwarm" total="75"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>4500000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+	
+<!-- Quest Arch 21 -->
+
+	<mission>
+		<id>64</id>
+		<name>El Torero</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="WriggleSwarm" total="20"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>4700000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+	
+<!-- Quest Arch 22 -->
+
+	<mission>
+		<id>65</id>
+		<name>A busca pela sabedoria.</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Morlock" total="100"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>4700000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Arch 23 -->
+
+	<mission>
+		<id>65</id>
+		<name>Batalha Infernal - I</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Lich Crunt" total="10"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>6000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Arch 24 -->
+
+	<mission>
+		<id>66</id>
+		<name>Batalha Infernal - II</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Lich Crunt" total="15"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>6000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+	
+<!-- Quest Arch 25 -->
+
+	<mission>
+		<id>67</id>
+		<name>Guerreiros do Castelo - I</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Berserker Ref" total="10"/>
+			<mob index="1" name="Berserker Titan" total="10"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>6000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+	
+<!-- Quest Arch 26 -->
+
+	<mission>
+		<id>67</id>
+		<name>Guerreiros do Castelo - II</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Valkyrie Tina" total="10"/>
+			<mob index="1" name="Valkyrie Rosen" total="10"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>6000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Arch 27 -->
+
+	<mission>
+		<id>68</id>
+		<name>Valquírias - I</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Valkyrie Rosen" total="20"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>6500000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Arch 28 -->
+
+	<mission>
+		<id>69</id>
+		<name>Valquírias - II</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Valkyrie Tina" total="20"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>7000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>
+
+<!-- Quest Arch 29 -->
+
+	<mission>
+		<id>70</id>
+		<name>Guerreiros Amon - I</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Guerreiro Amon" total="70"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>7000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>	
+
+<!-- Quest Arch 30 -->
+
+	<mission>
+		<id>71</id>
+		<name>Guerreiros Amon - II</name>
+		<type>0</type>
+		
+		<reqs>
+			<classes>
+				<class>2</class>
+				<class>3</class>
+				<class>4</class>
+			</classes>
+			<minLevel>0</minLevel>
+			<maxLevel>400</maxLevel>
+		</reqs>
+		<quest>
+			<mob index="0" name="Chefe Amon" total="80"/>
+		</quest>
+		<rewards>
+			<gold>3000000</gold>
+			<exp>7000000</exp>
+			<free>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</free>
+			<pass>
+				<items>
+					<item index="0" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="1" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="2" amount="1" itemId="412" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="3" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="4" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<item index="5" amount="1" itemId="413" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+				</items>
+			</pass>
+		</rewards>
+	</mission>		
+
+</missions>

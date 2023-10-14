@@ -1,0 +1,902 @@
+<?xml version="1.0"?>
+<store>
+	<categories>
+	<category>
+			<name>Bone Demon 2020</name>
+			<items>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4732" ef0="61" efv0="50" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4728" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>500</price>
+					<available>0</available>
+				</itemInfo>
+			</items>
+		</category>
+		
+		<category>
+			<name>Pacotes Promocionais</name>
+			<items>
+				<itemInfo>
+				<!-- BenÃ§Ã£o Divina -->
+					<item itemId="3485" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>3000</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3480" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>800</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3481" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>400</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3482" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>600</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4680" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>300</price>
+					<available>-1</available>
+				</itemInfo>
+			</items>
+		</category>
+		
+		<category>
+			<name>Consumíveis</name>
+			<items>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>0</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3380" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1000</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3381" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>0</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3362" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1000</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3363" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1700</price>
+					<available>-1</available>
+				</itemInfo>
+				
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4146" ef0="61" efv0="10" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>50</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3486" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4572" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>50</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3330" ef0="61" efv0="100" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3467" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4533" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>220</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4534" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>550</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4535" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1100</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3443" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>4000</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3343" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1000</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="774" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>750</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="775" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>750</price>
+					<available>-1</available>
+				</itemInfo><itemInfo>
+				<!-- NOME -->
+					<item itemId="3430" ef0="61" efv0="100" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>50</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3429" ef0="61" efv0="100" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>50</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3200" ef0="61" efv0="10" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3201" ef0="61" efv0="10" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3202" ef0="61" efv0="10" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3203" ef0="61" efv0="20" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3204" ef0="61" efv0="10" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3205" ef0="61" efv0="10" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3206" ef0="61" efv0="5" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>800</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3208" ef0="61" efv0="5" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>800</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3209" ef0="61" efv0="5" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>800</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3214" ef0="61" efv0="20" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3336" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>300</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4857" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>800</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3916" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1000</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4649" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1000</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3172" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>100</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3171" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="1731" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>500</price>
+					<available>-1</available>
+				</itemInfo>
+			</items>
+		</category>
+		
+		<category>
+			<name>Level UP</name>
+			<items>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4140" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>50</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3314" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>100</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="777" ef0="61" efv0="10" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>150</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3182" ef0="61" efv0="10" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>300</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3325" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>100</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3326" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>250</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3900" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>800</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3901" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3902" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1000</price>
+					<available>-1</available>
+				</itemInfo>
+			</items>
+		</category>
+		
+		<category>
+			<name>Montarias</name>
+			<items>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4128" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4129" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>800</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4130" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1000</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3210" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3211" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>400</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3212" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>600</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3213" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>2000</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3438" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>300</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4899" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>600</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3344" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>600</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3345" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3346" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3347" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3348" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>2000</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3349" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>2200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3351" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>100</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3352" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3353" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>400</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3354" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>400</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3355" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>500</price>
+					<available>-1</available>
+				</itemInfo>	
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3356" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>600</price>
+					<available>-1</available>
+				</itemInfo>	
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="2426" ef0="61" efv0="100" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>50</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="2429" ef0="61" efv0="100" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>100</price>
+					<available>-1</available>
+				</itemInfo>	
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="2430" ef0="61" efv0="100" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>150</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3251" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>50</price>
+					<available>-1</available>
+				</itemInfo>
+			</items>
+		</category>
+		
+		<category>
+			<name>Trajes</name>
+			<items>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4235" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4236" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4237" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4177" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4178" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4184" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4166" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4165" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4154" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4175" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4174" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4157" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4158" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4171" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4172" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4164" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4163" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4183" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4180" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4151" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4169" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4182" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4181" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4225" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4226" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4227" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>700</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4246" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4247" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1200</price>
+					<available>-1</available>
+				</itemInfo>
+			</items>
+		</category>
+		
+		<category>
+			<name>Trajes de Montarias</name>
+			<items>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4216" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4217" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="5720" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>2500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="5721" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>2500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="5722" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>2500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4218" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4219" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4210" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4211" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4212" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4213" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4214" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4215" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1500</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="5706" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1000</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="5707" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1000</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="5708" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1000</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="5709" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>1000</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="5725" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>3000</price>
+					<available>-1</available>
+				</itemInfo>
+			</items>
+		</category>
+		
+		<category>
+			<name>Tinturas</name>
+			<items>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3397" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3398" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3399" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3400" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3401" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3402" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3403" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3404" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3405" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3406" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>200</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3417" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>200</price>
+					<available>-1</available>
+				</itemInfo>
+			</items>
+		</category>
+		<category>
+			<name>Composições</name>
+			<items>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4852" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>250</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4853" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>300</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="4855" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+					<price>100</price>
+					<available>-1</available>
+				</itemInfo>
+			</items>
+		</category>
+		<category>
+			<name>GIFT Store</name>
+			<items>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3379" ef0="201" efv0="1" ef1="200" efv1="1" ef2="0" efv2="0"/>
+					<price>0</price>
+					<available>-1</available>
+				</itemInfo>
+				<itemInfo>
+				<!-- NOME -->
+					<item itemId="3361" ef0="201" efv0="2" ef1="200" efv1="1" ef2="0" efv2="0"/>
+					<price>0</price>
+					<available>-1</available>
+				</itemInfo>
+			</items>
+		</category>
+	</categories>
+</store>

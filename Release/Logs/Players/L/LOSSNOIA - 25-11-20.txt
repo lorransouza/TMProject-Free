@@ -1,0 +1,322 @@
+
+00:05:49 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LOSSNOIA) - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+00:05:49 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 999979400
+00:05:49 : [INFORMAÇÕES DO BANCO]
+Gold: 999979400
+[ 56] - Botas_de_Ferro(N)[1578] [43 0 0 0 0 0]
+
+00:05:55 : Solicitou ir ao mundo...
+00:05:55 : Recebido pedido para entrar no jogo
+00:05:55 : Recebido informação do personagem completa.
+00:05:55 : [aaaaad] - [INFORMAÇÕES DA CONTA]
+Personagem online: aaaaad
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2097x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo_de_Águia(N)[1446] [0 0 0 0 0 0]
+[01] - Botas_Lupinas(N)[1428] [0 0 0 0 0 0]
+[02] - Luvas_de_Águia(N)[1455] [0 0 0 0 0 0]
+[03] - Calça_de_Osso(M)[1468] [0 0 0 0 0 0]
+[04] - Manoplas_de_Osso(N)[1470] [0 0 0 0 0 0]
+[05] - Luvas_Lupinas(N)[1425] [0 0 0 0 0 0]
+[06] - Elmo_de_Águia(N)[1446] [0 0 0 0 0 0]
+[07] - Armadura_de_Águia(N)[1449] [0 0 0 0 0 0]
+[08] - Elmo_de_Osso(N)[1461] [0 0 0 0 0 0]
+[09] - Botas_de_Osso(N)[1473] [0 0 0 0 0 0]
+[10] - Calça_Lupina(N)[1422] [0 0 0 0 0 0]
+[11] - Elmo_Elemental(N)[1491] [0 0 0 0 0 0]
+[12] - Botas_de_Águia(N)[1458] [0 0 0 0 0 0]
+[13] - Calça_de_Águia(N)[1452] [0 0 0 0 0 0]
+[14] - Botas_de_Osso(A)[1475] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [84 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+00:05:55 : [aaaaad] - Personagem aaaaad enviado ao mundo 2097x 2100y - Canal 2 - Cash da conta: 0. OverPower: 2020
+00:05:55 : [aaaaad] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 9. Pontos de Contribuição: 0. Limite: 0
+00:05:55 : [aaaaad] - Resetado a contagem de entradas água! Day: 328-329. Total: 0
+00:05:55 : [aaaaad] - Enviado informações do personagem
+00:05:56 : [aaaaad] - Comando "/day "
+00:05:56 : [aaaaad] - [Mensagem do servidor]> !#11 2
+00:06:02 : [aaaaad] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+00:06:15 : [aaaaad] - Comando "/gm +set 1 1491"
+00:06:29 : [aaaaad] - Comando "/gm +set 2 1494"
+00:06:32 : [aaaaad] - Comando "/gm +set 2 0"
+00:06:34 : [aaaaad] - Comando "/gm +set 2 1494"
+00:06:43 : [aaaaad] - Comando "/gm +set 3 1497"
+00:06:47 : [aaaaad] - Comando "/gm +set 3 0"
+00:06:49 : [aaaaad] - Comando "/gm +set 3 1497"
+00:06:53 : [aaaaad] - Comando "/gm +set 3 1497"
+00:07:01 : [aaaaad] - Comando "/gm +set 4 1500"
+00:07:09 : [aaaaad] - Comando "/gm +set 4 0"
+00:07:11 : [aaaaad] - Comando "/gm +set 4 1500"
+00:07:12 : [aaaaad] - Comando "/gm +set 4 0"
+00:07:13 : [aaaaad] - Comando "/gm +set 4 1500"
+00:07:24 : [aaaaad] - Comando "/gm +set 5 1503"
+00:07:28 : [aaaaad] - Comando "/gm +set 5 0"
+00:07:33 : [aaaaad] - Comando "/gm +set 5 1503"
+00:07:38 : [aaaaad] - Moveu item Botas_Elementais(N) [1503] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 15
+00:07:39 : [aaaaad] - Moveu item Calça_Elemental(N) [1497] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 16
+00:07:41 : [aaaaad] - Moveu item Manoplas_Elementais(N) [1500] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 17
+00:07:43 : [aaaaad] - Moveu item Armadura_Elemental(N) [1494] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 18
+00:07:45 : [aaaaad] - Moveu item Elmo_Elemental(N) [1491] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 19
+00:19:35 : [aaaaad] - LOSSNOIA Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+00:19:35 : [aaaaad] - 1 Personagem foi desconectado. Permaneceu 00:13:38 minutos online
+00:19:43 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LOSSNOIA) - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+00:19:43 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 999979400
+00:19:43 : [INFORMAÇÕES DO BANCO]
+Gold: 999979400
+[ 56] - Botas_de_Ferro(N)[1578] [43 0 0 0 0 0]
+
+00:19:58 : LOSSNOIA Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+00:19:58 : Personagem foi desconectado. Permaneceu 00:00:14 minutos online
+00:20:21 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LOSSNOIA) - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+00:20:21 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 999979400
+00:20:21 : [INFORMAÇÕES DO BANCO]
+Gold: 999979400
+[ 56] - Botas_de_Ferro(N)[1578] [43 0 0 0 0 0]
+
+00:20:28 : Solicitou ir ao mundo...
+00:20:28 : Recebido pedido para entrar no jogo
+00:20:28 : Recebido informação do personagem completa.
+00:20:28 : [aaaaad] - [INFORMAÇÕES DA CONTA]
+Personagem online: aaaaad
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2093x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo_de_Águia(N)[1446] [0 0 0 0 0 0]
+[01] - Botas_Lupinas(N)[1428] [0 0 0 0 0 0]
+[02] - Luvas_de_Águia(N)[1455] [0 0 0 0 0 0]
+[03] - Calça_de_Osso(M)[1468] [0 0 0 0 0 0]
+[04] - Manoplas_de_Osso(N)[1470] [0 0 0 0 0 0]
+[05] - Luvas_Lupinas(N)[1425] [0 0 0 0 0 0]
+[06] - Elmo_de_Águia(N)[1446] [0 0 0 0 0 0]
+[07] - Armadura_de_Águia(N)[1449] [0 0 0 0 0 0]
+[08] - Elmo_de_Osso(N)[1461] [0 0 0 0 0 0]
+[09] - Botas_de_Osso(N)[1473] [0 0 0 0 0 0]
+[10] - Calça_Lupina(N)[1422] [0 0 0 0 0 0]
+[11] - Elmo_Elemental(N)[1491] [0 0 0 0 0 0]
+[12] - Botas_de_Águia(N)[1458] [0 0 0 0 0 0]
+[13] - Calça_de_Águia(N)[1452] [0 0 0 0 0 0]
+[14] - Botas_de_Osso(A)[1475] [0 0 0 0 0 0]
+[15] - Botas_Elementais(N)[1503] [0 0 0 0 0 0]
+[16] - Calça_Elemental(N)[1497] [0 0 0 0 0 0]
+[17] - Manoplas_Elementais(N)[1500] [0 0 0 0 0 0]
+[18] - Armadura_Elemental(N)[1494] [0 0 0 0 0 0]
+[19] - Elmo_Elemental(N)[1491] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [84 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+00:20:28 : [aaaaad] - Personagem aaaaad enviado ao mundo 2093x 2097y - Canal 2 - Cash da conta: 0. OverPower: 2020
+00:20:28 : [aaaaad] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 9. Pontos de Contribuição: 0. Limite: 0
+00:20:28 : [aaaaad] - Enviado informações do personagem
+00:20:29 : [aaaaad] - Comando "/day "
+00:20:29 : [aaaaad] - [Mensagem do servidor]> !#11 2
+00:20:38 : [aaaaad] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+00:20:43 : [aaaaad] - Comando "/gm +set 1 1510"
+00:20:49 : [aaaaad] - Comando "/gm +set 2 1511"
+00:20:55 : [aaaaad] - Comando "/gm +set 2 0"
+00:20:56 : [aaaaad] - Comando "/gm +set 2 1511"
+00:21:03 : [aaaaad] - Comando "/gm +set 3 1512"
+00:21:06 : [aaaaad] - Comando "/gm +set 3 0"
+00:21:07 : [aaaaad] - Comando "/gm +set 3 1512"
+00:21:16 : [aaaaad] - Comando "/gm +set 4 1513"
+00:21:19 : [aaaaad] - Comando "/gm +set 4 0"
+00:21:20 : [aaaaad] - Comando "/gm +set 4 1513"
+00:21:21 : [aaaaad] - Comando "/gm +set 4 0"
+00:21:22 : [aaaaad] - Comando "/gm +set 4 0"
+00:21:24 : [aaaaad] - Comando "/gm +set 4 1513"
+00:21:31 : [aaaaad] - Comando "/gm +set 5 1514"
+00:21:34 : [aaaaad] - Comando "/gm +set 5 0"
+00:21:35 : [aaaaad] - Comando "/gm +set 5 1514"
+00:22:09 : [aaaaad] - Moveu item Elmo_do_Corvo [1510] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 21
+00:22:11 : [aaaaad] - Moveu item Armadura_do_Corvo [1511] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 26
+00:22:12 : [aaaaad] - Moveu item Manoplas_do_Corvo [1513] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 27
+00:22:14 : [aaaaad] - Moveu item Calça_do_Corvo [1512] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 28
+00:22:16 : [aaaaad] - Moveu item Botas_do_Corvo [1514] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 23
+00:28:52 : [aaaaad] - LOSSNOIA Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+00:28:52 : [aaaaad] - 1 Personagem foi desconectado. Permaneceu 00:08:25 minutos online
+00:29:01 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LOSSNOIA) - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 1
+00:29:01 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 999979400
+00:29:01 : [INFORMAÇÕES DO BANCO]
+Gold: 999979400
+[ 56] - Botas_de_Ferro(N)[1578] [43 0 0 0 0 0]
+
+00:29:06 : Solicitou ir ao mundo...
+00:29:06 : Recebido pedido para entrar no jogo
+00:29:06 : Recebido informação do personagem completa.
+00:29:06 : [aaaaad] - [INFORMAÇÕES DA CONTA]
+Personagem online: aaaaad
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2094x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo_de_Águia(N)[1446] [0 0 0 0 0 0]
+[01] - Botas_Lupinas(N)[1428] [0 0 0 0 0 0]
+[02] - Luvas_de_Águia(N)[1455] [0 0 0 0 0 0]
+[03] - Calça_de_Osso(M)[1468] [0 0 0 0 0 0]
+[04] - Manoplas_de_Osso(N)[1470] [0 0 0 0 0 0]
+[05] - Luvas_Lupinas(N)[1425] [0 0 0 0 0 0]
+[06] - Elmo_de_Águia(N)[1446] [0 0 0 0 0 0]
+[07] - Armadura_de_Águia(N)[1449] [0 0 0 0 0 0]
+[08] - Elmo_de_Osso(N)[1461] [0 0 0 0 0 0]
+[09] - Botas_de_Osso(N)[1473] [0 0 0 0 0 0]
+[10] - Calça_Lupina(N)[1422] [0 0 0 0 0 0]
+[11] - Elmo_Elemental(N)[1491] [0 0 0 0 0 0]
+[12] - Botas_de_Águia(N)[1458] [0 0 0 0 0 0]
+[13] - Calça_de_Águia(N)[1452] [0 0 0 0 0 0]
+[14] - Botas_de_Osso(A)[1475] [0 0 0 0 0 0]
+[15] - Botas_Elementais(N)[1503] [0 0 0 0 0 0]
+[16] - Calça_Elemental(N)[1497] [0 0 0 0 0 0]
+[17] - Manoplas_Elementais(N)[1500] [0 0 0 0 0 0]
+[18] - Armadura_Elemental(N)[1494] [0 0 0 0 0 0]
+[19] - Elmo_Elemental(N)[1491] [0 0 0 0 0 0]
+[21] - Elmo_do_Corvo[1510] [0 0 0 0 0 0]
+[23] - Botas_do_Corvo[1514] [0 0 0 0 0 0]
+[26] - Armadura_do_Corvo[1511] [0 0 0 0 0 0]
+[27] - Manoplas_do_Corvo[1513] [0 0 0 0 0 0]
+[28] - Calça_do_Corvo[1512] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [84 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+00:29:06 : [aaaaad] - Personagem aaaaad enviado ao mundo 2094x 2103y - Canal 2 - Cash da conta: 0. OverPower: 2020
+00:29:06 : [aaaaad] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 9. Pontos de Contribuição: 0. Limite: 0
+00:29:06 : [aaaaad] - Enviado informações do personagem
+00:29:06 : [aaaaad] - Comando "/day "
+00:29:06 : [aaaaad] - [Mensagem do servidor]> !#11 2
+00:29:15 : [aaaaad] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+00:29:22 : [aaaaad] - Comando "/gm +set 0 26"
+00:29:49 : [aaaaad] - Comando "/gm +item 1506"
+00:29:49 : [aaaaad] - aaaaad criou o item Armadura_da_Destruição [1506] [0 0 0 0 0 0]
+00:30:04 : [aaaaad] - Comando "/gm +set 2 1506"
+00:30:08 : [aaaaad] - Comando "/gm +set 2 0"
+00:30:09 : [aaaaad] - Comando "/gm +set 2 1506"
+00:30:15 : [aaaaad] - Comando "/gm +set 3 1507"
+00:30:23 : [aaaaad] - Comando "/gm +set 4 1508"
+00:30:30 : [aaaaad] - Comando "/gm +set 5 1509ç"
+00:59:06 : [aaaaad] - [INFORMAÇÕES DA CONTA]
+Personagem online: aaaaad
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:46 horas
+Posição atual: 2090x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[26] [0 0 0 0 0 0]
+[02] - Armadura_da_Destruição[1506] [0 0 0 0 0 0]
+[03] - Calça_da_Destruição[1507] [0 0 0 0 0 0]
+[04] - Manoplas_da_Destruição[1508] [0 0 0 0 0 0]
+[05] - Botas_da_Destruição[1509] [0 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo_de_Águia(N)[1446] [0 0 0 0 0 0]
+[01] - Botas_Lupinas(N)[1428] [0 0 0 0 0 0]
+[02] - Luvas_de_Águia(N)[1455] [0 0 0 0 0 0]
+[03] - Calça_de_Osso(M)[1468] [0 0 0 0 0 0]
+[04] - Manoplas_de_Osso(N)[1470] [0 0 0 0 0 0]
+[05] - Luvas_Lupinas(N)[1425] [0 0 0 0 0 0]
+[06] - Elmo_de_Águia(N)[1446] [0 0 0 0 0 0]
+[07] - Armadura_de_Águia(N)[1449] [0 0 0 0 0 0]
+[08] - Elmo_de_Osso(N)[1461] [0 0 0 0 0 0]
+[09] - Botas_de_Osso(N)[1473] [0 0 0 0 0 0]
+[10] - Calça_Lupina(N)[1422] [0 0 0 0 0 0]
+[11] - Elmo_Elemental(N)[1491] [0 0 0 0 0 0]
+[12] - Botas_de_Águia(N)[1458] [0 0 0 0 0 0]
+[13] - Calça_de_Águia(N)[1452] [0 0 0 0 0 0]
+[14] - Botas_de_Osso(A)[1475] [0 0 0 0 0 0]
+[15] - Botas_Elementais(N)[1503] [0 0 0 0 0 0]
+[16] - Calça_Elemental(N)[1497] [0 0 0 0 0 0]
+[17] - Manoplas_Elementais(N)[1500] [0 0 0 0 0 0]
+[18] - Armadura_Elemental(N)[1494] [0 0 0 0 0 0]
+[19] - Elmo_Elemental(N)[1491] [0 0 0 0 0 0]
+[20] - Armadura_da_Destruição[1506] [0 0 0 0 0 0]
+[21] - Elmo_do_Corvo[1510] [0 0 0 0 0 0]
+[23] - Botas_do_Corvo[1514] [0 0 0 0 0 0]
+[26] - Armadura_do_Corvo[1511] [0 0 0 0 0 0]
+[27] - Manoplas_do_Corvo[1513] [0 0 0 0 0 0]
+[28] - Calça_do_Corvo[1512] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [84 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+01:02:06 : [aaaaad] - LOSSNOIA Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+01:02:06 : [aaaaad] - 1 Personagem foi desconectado. Permaneceu 00:32:44 minutos online

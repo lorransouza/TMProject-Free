@@ -1,0 +1,103 @@
+
+19:27:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 127.0.0.1 Mac: (F8:AC:68:4B:44:4F). ClientId: 2
+19:27:22 : Conta LPFFC logado na conta
+Status da conta: JOGANDO
+Personagem: SkyDrive
+
+19:27:22 : Usuário logou no jogo com clientId 2. - Servidor 1. Gold do banco: 0
+19:27:22 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 30] - Frango_Assado[3314] [61 2 200 1 0 0]
+
+19:27:22 : A próxima missão acontecerá em aproximadamente 26 minutos
+19:27:22 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+[LPFFC]	USER_PLAY	[SkyDrive] (level: 399 ev: 2)	
+
+19:27:28 : Solicitou ir ao mundo...
+19:27:28 : Recebido pedido para entrar no jogo
+19:27:28 : Recebido informação do personagem completa.
+19:27:28 : [test] - [INFORMAÇÕES DA CONTA]
+Personagem online: test
+Gold atual: 1994998600
+Level atual: 399
+Experiência atual: 4000000000
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2091x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 1 98 21]
+[01] - ChapÃ©u_Pele_de_Animal(A)[1403] [0 0 0 0 0 0]
+[02] - Robe_Pele_de_Animal(A)[1406] [0 0 0 0 0 0]
+[03] - CalÃ§a_Pele_de_Animal(A)[1409] [0 0 0 0 0 0]
+[04] - Luvas_Pele_de_Animal(A)[1412] [0 0 0 0 0 0]
+[05] - Sapatos_Pele_de_Animal(A)[1415] [0 0 0 0 0 0]
+[06] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[07] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[08] - Pedra_Espiritual[633] [43 250 42 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 54 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 42 100 0 0]
+[14] - Cavalo_Fantasm_N[2367] [26 255 5 5 0 0]
+
+[INVENTÁRIO]
+[00] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[01] - Adaga[861] [0 0 0 0 0 0]
+[02] - Pedra_Espiritual[633] [43 250 42 100 0 0]
+[03] - Pedra_Espiritual[633] [43 250 43 100 0 0]
+[04] - Pedra_Espiritual[633] [43 250 42 100 0 0]
+[05] - Old_Resistance_belt[5723] [0 0 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 4 0 0 0 0]
+[09] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[LPFFC]	USER_PLAY	[SkyDrive] (level: 399 ev: 2)	
+
+19:27:28 : [test] - Personagem test enviado ao mundo 2091x 2101y - Canal 1 - Cash da conta: 200. OverPower: 1093
+19:27:28 : [test] - Gold atual: 1994998600. Classe: 2 Evolução: 1. Experiência: 4000000000. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+19:27:28 : [test] - Resetado a contagem de entradas água! Day: 37-39. Total: 0
+19:27:28 : [test] - Enviado informações do personagem
+19:27:29 : [test] - Foi atualizado o LastUpdate da missão diária para 09/02/2023 19:27:29
+19:27:29 : [test] - [Mensagem do servidor]> !Chegou uma nova missão!
+19:27:29 : [test] - Recebeu a missão A caÃ§ada pelo Rei. (19)
+19:27:30 : [test] - Comando "/day "
+19:27:30 : [test] - [Mensagem do servidor]> !#11 2
+19:27:30 : [test] - [Mensagem do servidor]> Este personagem não está conectado.
+19:27:37 : [test] - O usuário não enviou o pacote de integridade de macaddress
+19:31:06 : [test] - Moveu item Pedra_Espiritual [633] [43 250 54 100 0 0] do tipo EQUIPAMENTO do slot 9 para tipo INVENTÁRIO slot 14
+19:31:07 : [test] - Moveu item Pedra_Espiritual [633] [43 250 54 100 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 9
+19:31:08 : [test] - Moveu item Pedra_Espiritual [633] [43 250 54 100 0 0] do tipo EQUIPAMENTO do slot 9 para tipo INVENTÁRIO slot 13
+19:31:09 : [test] - Moveu item Pedra_Espiritual [633] [43 250 54 100 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 9
+19:31:11 : [test] - Moveu item Pedra_Espiritual [633] [43 250 42 100 0 0] do tipo EQUIPAMENTO do slot 11 para tipo INVENTÁRIO slot 8
+19:31:12 : [test] - Moveu item Pedra_Espiritual [633] [43 250 42 100 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 11
+19:31:13 : [test] - Moveu item Pedra_Espiritual [633] [43 250 42 100 0 0] do tipo EQUIPAMENTO do slot 11 para tipo INVENTÁRIO slot 8
+19:31:14 : [test] - Moveu item Pedra_Espiritual [633] [43 250 42 100 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 11
+19:31:15 : [test] - Moveu item Pedra_Espiritual [633] [43 250 42 100 0 0] do tipo EQUIPAMENTO do slot 11 para tipo INVENTÁRIO slot 13
+19:31:16 : [test] - Moveu item Pedra_Espiritual [633] [43 250 42 100 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 11
+19:31:17 : [test] - Moveu item Pedra_Espiritual [633] [43 250 42 100 0 0] do tipo EQUIPAMENTO do slot 11 para tipo INVENTÁRIO slot 12
+19:31:18 : [test] - Moveu item Pedra_Espiritual [633] [43 250 42 100 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 11
+19:31:19 : [test] - Moveu item Pedra_Espiritual [633] [43 250 42 100 0 0] do tipo EQUIPAMENTO do slot 11 para tipo INVENTÁRIO slot 14
+19:31:20 : [test] - Moveu item Pedra_Espiritual [633] [43 250 42 100 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 11
+19:31:21 : [test] - Moveu item Pedra_Espiritual [633] [43 250 54 100 0 0] do tipo EQUIPAMENTO do slot 9 para tipo INVENTÁRIO slot 12
+19:31:22 : [test] - Moveu item Pedra_Espiritual [633] [43 250 54 100 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 9
+19:31:23 : [test] - Moveu item Pedra_Espiritual [633] [43 250 54 100 0 0] do tipo EQUIPAMENTO do slot 9 para tipo INVENTÁRIO slot 11
+19:31:24 : [test] - Moveu item Pedra_Espiritual [633] [43 250 54 100 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 9
+19:31:25 : [test] - Moveu item Pedra_Espiritual [633] [43 250 54 100 0 0] do tipo EQUIPAMENTO do slot 9 para tipo INVENTÁRIO slot 11
+19:31:26 : [test] - Moveu item Pedra_Espiritual [633] [43 250 54 100 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 9
+19:33:02 : [test] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:33:02 : [test] - Personagem foi desconectado. Permaneceu 00:05:40 minutos online

@@ -1,0 +1,2252 @@
+
+11:14:50 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+11:14:50 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+11:14:50 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+11:14:50 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:15:25 : Solicitou ir ao mundo...
+11:15:25 : Recebido pedido para entrar no jogo
+11:15:25 : Recebido informação do personagem completa.
+11:15:25 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 876877
+Level atual: 220
+Experiência atual: 105825250
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:35 horas
+Posição atual: 2095x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Hipogrifo[2385] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:15:25 : [MANGUER] - Personagem MANGUER enviado ao mundo 2095x 2093y - Canal 1 - Cash da conta: 0. OverPower: 780
+11:15:25 : [MANGUER] - Gold atual: 876877. Classe: 0 Evolução: 0. Experiência: 105825250. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+11:15:25 : [MANGUER] - Resetado a contagem de entradas água! Day: 339-340. Total: 0
+11:15:25 : [MANGUER] - Enviado informações do personagem
+11:15:26 : [MANGUER] - Comando "/day "
+11:15:26 : [MANGUER] - [Mensagem do servidor]> !#11 2
+11:15:31 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+11:15:47 : [MANGUER] - [Mensagem do servidor]> Chegou no destino [Campo de Treino].
+11:15:47 : [MANGUER] - Teleportado para a posição 2112 2051
+11:16:11 : [MANGUER] - [Mensagem do servidor]> Chegou no destino [Defensor da alma].
+11:16:11 : [MANGUER] - Teleportado para a posição 2372 2099
+11:16:25 : [MANGUER] - Matou o mob Javali. GenerID: 602
+11:16:27 : [MANGUER] - Matou o mob Javali. GenerID: 602
+11:16:28 : [MANGUER] - Matou o mob Javali. GenerID: 589
+11:16:30 : [MANGUER] - Matou o mob Rei Gremlin. GenerID: 589
+11:16:32 : [MANGUER] - Matou o mob Javali. GenerID: 601
+11:16:41 : [MANGUER] - Matou o mob Javali. GenerID: 601
+11:16:42 : [MANGUER] - Matou o mob Rei Gremlin. GenerID: 601
+11:16:47 : [MANGUER] - Matou o mob Rei Gremlin. GenerID: 589
+11:16:49 : [MANGUER] - AddCrackError, dam!= -2 -1 0 : 0
+11:16:49 : [MANGUER] - CrackError - Points: 10 type: 20
+11:16:50 : [MANGUER] - AddCrackError, dam!= -2 -1 0 : 0
+11:16:50 : [MANGUER] - CrackError - Points: 10 type: 20
+11:16:51 : [MANGUER] - Matou o mob Rei Gremlin. GenerID: 602
+11:16:52 : [MANGUER] - Matou o mob Rei Gremlin. GenerID: 601
+11:16:53 : [MANGUER] - Matou o mob Rei Gremlin. GenerID: 602
+11:16:54 : [MANGUER] - Matou o mob Javali. GenerID: 588
+11:16:57 : [MANGUER] - Matou o mob Rei Gremlin. GenerID: 588
+11:17:00 : [MANGUER] - Matou o mob Javali. GenerID: 587
+11:17:03 : [MANGUER] - Matou o mob Rei Gremlin. GenerID: 585
+11:17:05 : [MANGUER] - Matou o mob Rei Gremlin. GenerID: 585
+11:17:08 : [MANGUER] - Matou o mob Lobo. GenerID: 605
+11:17:09 : [MANGUER] - AddCrackError, dam!= -2 -1 0 : 0
+11:17:09 : [MANGUER] - CrackError - Points: 10 type: 20
+11:17:09 : [MANGUER] - Desconectado - CrackCount: 30 - point: 10 - type: 20
+11:17:09 : [MANGUER] - [Mensagem do servidor]> Ocorreu um erro, contate a administração relatando o bug.
+11:17:09 : Enviado para a tela de personagem. CrackError atingiu o limite
+11:18:19 : ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+11:18:19 : Personagem foi desconectado. Permaneceu 00:03:27 minutos online
+11:22:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+11:22:14 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+11:22:14 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+11:22:21 : Solicitou ir ao mundo...
+11:22:21 : Recebido pedido para entrar no jogo
+11:22:21 : Recebido informação do personagem completa.
+11:22:21 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 876877
+Level atual: 220
+Experiência atual: 105825760
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2096x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Hipogrifo[2385] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:22:21 : [MANGUER] - Personagem MANGUER enviado ao mundo 2096x 2094y - Canal 1 - Cash da conta: 0. OverPower: 780
+11:22:21 : [MANGUER] - Gold atual: 876877. Classe: 0 Evolução: 0. Experiência: 105825760. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+11:22:21 : [MANGUER] - Enviado informações do personagem
+11:22:22 : [MANGUER] - Comando "/day "
+11:22:22 : [MANGUER] - [Mensagem do servidor]> !#11 2
+11:22:32 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+11:22:38 : [MANGUER] - [Mensagem do servidor]> Chegou no destino [Campo de Treino].
+11:22:38 : [MANGUER] - Teleportado para a posição 2112 2051
+11:23:57 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+11:23:57 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:01:41 minutos online
+11:24:10 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+11:24:10 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+11:24:10 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+11:24:19 : Solicitou ir ao mundo...
+11:24:19 : Recebido pedido para entrar no jogo
+11:24:19 : Recebido informação do personagem completa.
+11:24:19 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 876877
+Level atual: 220
+Experiência atual: 105825760
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:09 horas
+Posição atual: 2093x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Hipogrifo[2385] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:24:19 : [MANGUER] - Personagem MANGUER enviado ao mundo 2093x 2102y - Canal 1 - Cash da conta: 0. OverPower: 780
+11:24:19 : [MANGUER] - Gold atual: 876877. Classe: 0 Evolução: 0. Experiência: 105825760. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+11:24:19 : [MANGUER] - Enviado informações do personagem
+11:24:20 : [MANGUER] - Comando "/day "
+11:24:20 : [MANGUER] - [Mensagem do servidor]> !#11 2
+11:24:32 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+11:24:37 : [MANGUER] - [Mensagem do servidor]> Chegou no destino [Campo de Treino].
+11:24:37 : [MANGUER] - Teleportado para a posição 2112 2051
+11:25:15 : [MANGUER] - [Mensagem do servidor]> Chegou no destino [Defensor da alma].
+11:25:15 : [MANGUER] - Teleportado para a posição 2372 2099
+11:25:19 : [MANGUER] - Comando "/gm +armia"
+11:25:19 : [MANGUER] - Teleportado para a posição 2100 2100
+11:25:29 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+11:25:29 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:01:18 minutos online
+11:25:46 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+11:25:46 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+11:25:46 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+11:25:51 : Solicitou ir ao mundo...
+11:25:51 : Recebido pedido para entrar no jogo
+11:25:51 : Recebido informação do personagem completa.
+11:25:51 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 876877
+Level atual: 220
+Experiência atual: 105825760
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2095x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Hipogrifo[2385] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:25:51 : [MANGUER] - Personagem MANGUER enviado ao mundo 2095x 2100y - Canal 1 - Cash da conta: 0. OverPower: 780
+11:25:51 : [MANGUER] - Gold atual: 876877. Classe: 0 Evolução: 0. Experiência: 105825760. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+11:25:51 : [MANGUER] - Enviado informações do personagem
+11:25:52 : [MANGUER] - Comando "/day "
+11:25:52 : [MANGUER] - [Mensagem do servidor]> !#11 2
+11:26:08 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+11:26:08 : [MANGUER] - [Mensagem do servidor]> Chegou no destino [Campo de Treino].
+11:26:08 : [MANGUER] - Teleportado para a posição 2112 2051
+11:26:35 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+11:26:35 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:49 minutos online
+11:26:47 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+11:26:47 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+11:26:47 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+11:26:47 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:26:52 : Solicitou ir ao mundo...
+11:26:52 : Recebido pedido para entrar no jogo
+11:26:52 : Recebido informação do personagem completa.
+11:26:52 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 876877
+Level atual: 220
+Experiência atual: 105825760
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2092x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Hipogrifo[2385] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:26:52 : [MANGUER] - Personagem MANGUER enviado ao mundo 2092x 2098y - Canal 2 - Cash da conta: 0. OverPower: 780
+11:26:52 : [MANGUER] - Gold atual: 876877. Classe: 0 Evolução: 0. Experiência: 105825760. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+11:26:52 : [MANGUER] - Enviado informações do personagem
+11:26:53 : [MANGUER] - Comando "/day "
+11:26:53 : [MANGUER] - [Mensagem do servidor]> !#11 2
+11:27:05 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+11:27:08 : [MANGUER] - [Mensagem do servidor]> Chegou no destino [Campo de Treino].
+11:27:08 : [MANGUER] - Teleportado para a posição 2112 2051
+11:27:46 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+11:27:46 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:58 minutos online
+11:27:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+11:27:55 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+11:27:55 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+11:27:59 : Solicitou ir ao mundo...
+11:27:59 : Recebido pedido para entrar no jogo
+11:27:59 : Recebido informação do personagem completa.
+11:27:59 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 876877
+Level atual: 220
+Experiência atual: 105825760
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2089x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Hipogrifo[2385] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:27:59 : [MANGUER] - Personagem MANGUER enviado ao mundo 2089x 2102y - Canal 1 - Cash da conta: 0. OverPower: 780
+11:27:59 : [MANGUER] - Gold atual: 876877. Classe: 0 Evolução: 0. Experiência: 105825760. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+11:27:59 : [MANGUER] - Enviado informações do personagem
+11:28:01 : [MANGUER] - Comando "/day "
+11:28:01 : [MANGUER] - [Mensagem do servidor]> !#11 2
+11:28:08 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+11:28:17 : [MANGUER] - [Mensagem do servidor]> Chegou no destino [Campo de Treino].
+11:28:17 : [MANGUER] - Teleportado para a posição 2112 2051
+11:28:34 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+11:28:34 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:39 minutos online
+13:48:21 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+13:48:21 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+13:48:21 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+13:48:21 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:48:27 : Solicitou ir ao mundo...
+13:48:27 : Recebido pedido para entrar no jogo
+13:48:27 : Recebido informação do personagem completa.
+13:48:27 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 876877
+Level atual: 220
+Experiência atual: 105825760
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2096x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Hipogrifo[2385] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:48:27 : [MANGUER] - Personagem MANGUER enviado ao mundo 2096x 2102y - Canal 1 - Cash da conta: 0. OverPower: 780
+13:48:27 : [MANGUER] - Gold atual: 876877. Classe: 0 Evolução: 0. Experiência: 105825760. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:48:27 : [MANGUER] - Enviado informações do personagem
+13:48:28 : [MANGUER] - Comando "/day "
+13:48:28 : [MANGUER] - [Mensagem do servidor]> !#11 2
+13:48:36 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:49:54 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+13:49:54 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:01:32 minutos online
+13:50:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+13:50:03 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+13:50:03 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+13:50:09 : Solicitou ir ao mundo...
+13:50:09 : Recebido pedido para entrar no jogo
+13:50:09 : Recebido informação do personagem completa.
+13:50:09 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 876877
+Level atual: 220
+Experiência atual: 105825760
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2088x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Hipogrifo[2385] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:50:09 : [MANGUER] - Personagem MANGUER enviado ao mundo 2088x 2104y - Canal 1 - Cash da conta: 0. OverPower: 780
+13:50:09 : [MANGUER] - Gold atual: 876877. Classe: 0 Evolução: 0. Experiência: 105825760. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:50:09 : [MANGUER] - Enviado informações do personagem
+13:50:10 : [MANGUER] - Comando "/day "
+13:50:10 : [MANGUER] - [Mensagem do servidor]> !#11 2
+13:50:24 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:52:01 : [MANGUER] - Comando "/gm +torre"
+13:52:01 : [MANGUER] - Teleportado para a posição 2507 1876
+13:53:39 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 875
+13:53:43 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 873
+13:53:50 : [MANGUER] - Teleportado para a posição 2117 2102
+13:53:58 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+13:53:58 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:03:52 minutos online
+13:54:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+13:54:16 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+13:54:16 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+13:54:20 : Solicitou ir ao mundo...
+13:54:20 : Recebido pedido para entrar no jogo
+13:54:20 : Recebido informação do personagem completa.
+13:54:20 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2086x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Hipogrifo[2385] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:54:20 : [MANGUER] - Personagem MANGUER enviado ao mundo 2086x 2094y - Canal 1 - Cash da conta: 0. OverPower: 780
+13:54:20 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:54:20 : [MANGUER] - Enviado informações do personagem
+13:54:23 : [MANGUER] - Comando "/day "
+13:54:23 : [MANGUER] - [Mensagem do servidor]> !#11 2
+13:54:36 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:54:53 : [MANGUER] - Comando "/gm +set 14 2389 10 10 120 30"
+13:55:43 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+13:55:43 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:01:27 minutos online
+13:57:07 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+13:57:07 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+13:57:07 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+13:57:17 : Solicitou ir ao mundo...
+13:57:17 : Recebido pedido para entrar no jogo
+13:57:17 : Recebido informação do personagem completa.
+13:57:17 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2092x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:57:17 : [MANGUER] - Personagem MANGUER enviado ao mundo 2092x 2096y - Canal 1 - Cash da conta: 0. OverPower: 780
+13:57:17 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:57:17 : [MANGUER] - Enviado informações do personagem
+13:57:18 : [MANGUER] - Comando "/day "
+13:57:18 : [MANGUER] - [Mensagem do servidor]> !#11 2
+13:57:25 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:58:10 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:58:10 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:01:03 minutos online
+14:02:42 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:02:42 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:02:42 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:02:46 : Solicitou ir ao mundo...
+14:02:46 : Recebido pedido para entrar no jogo
+14:02:46 : Recebido informação do personagem completa.
+14:02:46 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2099x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:02:46 : [MANGUER] - Personagem MANGUER enviado ao mundo 2099x 2103y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:02:46 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:02:46 : [MANGUER] - Enviado informações do personagem
+14:02:47 : [MANGUER] - Comando "/day "
+14:02:47 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:03:01 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:03:08 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:03:08 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:26 minutos online
+14:03:19 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:03:19 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:03:19 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:03:23 : Solicitou ir ao mundo...
+14:03:23 : Recebido pedido para entrar no jogo
+14:03:23 : Recebido informação do personagem completa.
+14:03:23 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2088x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:03:23 : [MANGUER] - Personagem MANGUER enviado ao mundo 2088x 2094y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:03:23 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:03:23 : [MANGUER] - Enviado informações do personagem
+14:03:24 : [MANGUER] - Comando "/day "
+14:03:24 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:03:37 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:03:37 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:03:37 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:18 minutos online
+14:03:56 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:03:56 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:03:56 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:04:01 : Solicitou ir ao mundo...
+14:04:01 : Recebido pedido para entrar no jogo
+14:04:01 : Recebido informação do personagem completa.
+14:04:01 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2095x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:04:01 : [MANGUER] - Personagem MANGUER enviado ao mundo 2095x 2093y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:04:01 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:04:01 : [MANGUER] - Enviado informações do personagem
+14:04:02 : [MANGUER] - Comando "/day "
+14:04:02 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:04:13 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:04:19 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:04:19 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:22 minutos online
+14:04:27 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:04:27 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:04:27 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:04:31 : Solicitou ir ao mundo...
+14:04:31 : Recebido pedido para entrar no jogo
+14:04:31 : Recebido informação do personagem completa.
+14:04:31 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2090x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:04:31 : [MANGUER] - Personagem MANGUER enviado ao mundo 2090x 2103y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:04:31 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:04:31 : [MANGUER] - Enviado informações do personagem
+14:04:32 : [MANGUER] - Comando "/day "
+14:04:32 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:04:37 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:04:48 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:04:48 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:20 minutos online
+14:04:58 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:04:58 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:04:58 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:05:02 : Solicitou ir ao mundo...
+14:05:02 : Recebido pedido para entrar no jogo
+14:05:02 : Recebido informação do personagem completa.
+14:05:02 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2092x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:05:02 : [MANGUER] - Personagem MANGUER enviado ao mundo 2092x 2104y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:05:02 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:05:02 : [MANGUER] - Enviado informações do personagem
+14:05:04 : [MANGUER] - Comando "/day "
+14:05:04 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:05:13 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:05:18 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:05:18 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:20 minutos online
+14:05:27 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:05:27 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:05:27 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:05:32 : Solicitou ir ao mundo...
+14:05:32 : Recebido pedido para entrar no jogo
+14:05:32 : Recebido informação do personagem completa.
+14:05:32 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2089x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:05:32 : [MANGUER] - Personagem MANGUER enviado ao mundo 2089x 2097y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:05:32 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:05:32 : [MANGUER] - Enviado informações do personagem
+14:05:35 : [MANGUER] - Comando "/day "
+14:05:35 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:05:49 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:05:52 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:05:52 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:25 minutos online
+14:06:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:06:22 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:06:22 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:06:42 : Solicitou ir ao mundo...
+14:06:42 : Recebido pedido para entrar no jogo
+14:06:42 : Recebido informação do personagem completa.
+14:06:42 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:20 horas
+Posição atual: 2087x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:06:42 : [MANGUER] - Personagem MANGUER enviado ao mundo 2087x 2094y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:06:42 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:06:42 : [MANGUER] - Enviado informações do personagem
+14:06:43 : [MANGUER] - Comando "/day "
+14:06:43 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:06:49 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:07:38 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:07:38 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:01:15 minutos online
+14:07:48 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:07:48 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:07:48 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:07:55 : Solicitou ir ao mundo...
+14:07:55 : Recebido pedido para entrar no jogo
+14:07:55 : Recebido informação do personagem completa.
+14:07:55 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2092x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:07:55 : [MANGUER] - Personagem MANGUER enviado ao mundo 2092x 2104y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:07:55 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:07:55 : [MANGUER] - Enviado informações do personagem
+14:07:56 : [MANGUER] - Comando "/day "
+14:07:56 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:08:01 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:08:20 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:08:20 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:32 minutos online
+14:08:30 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:08:30 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:08:30 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:08:35 : Solicitou ir ao mundo...
+14:08:35 : Recebido pedido para entrar no jogo
+14:08:35 : Recebido informação do personagem completa.
+14:08:35 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2088x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:08:35 : [MANGUER] - Personagem MANGUER enviado ao mundo 2088x 2101y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:08:35 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:08:35 : [MANGUER] - Enviado informações do personagem
+14:08:37 : [MANGUER] - Comando "/day "
+14:08:37 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:08:49 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:08:49 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:08:49 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:18 minutos online
+14:08:58 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:08:58 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:08:58 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:09:02 : Solicitou ir ao mundo...
+14:09:02 : Recebido pedido para entrar no jogo
+14:09:02 : Recebido informação do personagem completa.
+14:09:02 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2098x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:09:02 : [MANGUER] - Personagem MANGUER enviado ao mundo 2098x 2096y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:09:02 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:09:02 : [MANGUER] - Enviado informações do personagem
+14:09:03 : [MANGUER] - Comando "/day "
+14:09:03 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:09:13 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:10:17 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:10:17 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:01:18 minutos online
+14:11:45 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:11:45 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:11:45 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:11:49 : Solicitou ir ao mundo...
+14:11:49 : Recebido pedido para entrar no jogo
+14:11:49 : Recebido informação do personagem completa.
+14:11:49 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2088x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:11:49 : [MANGUER] - Personagem MANGUER enviado ao mundo 2088x 2097y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:11:49 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:11:49 : [MANGUER] - Enviado informações do personagem
+14:11:50 : [MANGUER] - Comando "/day "
+14:11:50 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:12:01 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:12:51 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:12:51 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:01:05 minutos online
+14:13:21 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:13:21 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:13:21 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:13:25 : Solicitou ir ao mundo...
+14:13:25 : Recebido pedido para entrar no jogo
+14:13:25 : Recebido informação do personagem completa.
+14:13:25 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2089x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:13:25 : [MANGUER] - Personagem MANGUER enviado ao mundo 2089x 2100y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:13:25 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:13:25 : [MANGUER] - Enviado informações do personagem
+14:13:26 : [MANGUER] - Comando "/day "
+14:13:26 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:13:37 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:13:59 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:13:59 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:38 minutos online
+14:14:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:14:08 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:14:08 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:14:13 : Solicitou ir ao mundo...
+14:14:13 : Recebido pedido para entrar no jogo
+14:14:13 : Recebido informação do personagem completa.
+14:14:13 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2090x 2097y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:14:13 : [MANGUER] - Personagem MANGUER enviado ao mundo 2090x 2097y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:14:13 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:14:13 : [MANGUER] - Enviado informações do personagem
+14:14:14 : [MANGUER] - Comando "/day "
+14:14:14 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:14:25 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:14:49 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:14:49 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:41 minutos online
+14:15:14 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:15:14 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:15:14 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:15:19 : Solicitou ir ao mundo...
+14:15:19 : Recebido pedido para entrar no jogo
+14:15:19 : Recebido informação do personagem completa.
+14:15:19 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2086x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:15:19 : [MANGUER] - Personagem MANGUER enviado ao mundo 2086x 2100y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:15:19 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:15:19 : [MANGUER] - Enviado informações do personagem
+14:15:20 : [MANGUER] - Comando "/day "
+14:15:20 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:15:25 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:15:55 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:15:55 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:40 minutos online
+14:16:04 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:16:04 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:16:04 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:16:08 : Solicitou ir ao mundo...
+14:16:08 : Recebido pedido para entrar no jogo
+14:16:08 : Recebido informação do personagem completa.
+14:16:08 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2091x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:16:08 : [MANGUER] - Personagem MANGUER enviado ao mundo 2091x 2103y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:16:08 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:16:08 : [MANGUER] - Enviado informações do personagem
+14:16:09 : [MANGUER] - Comando "/day "
+14:16:09 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:16:13 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:17:00 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:17:00 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:55 minutos online
+14:17:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:17:13 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:17:13 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:17:20 : Solicitou ir ao mundo...
+14:17:20 : Recebido pedido para entrar no jogo
+14:17:20 : Recebido informação do personagem completa.
+14:17:20 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2090x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:17:20 : [MANGUER] - Personagem MANGUER enviado ao mundo 2090x 2099y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:17:20 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:17:20 : [MANGUER] - Enviado informações do personagem
+14:17:21 : [MANGUER] - Comando "/day "
+14:17:21 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:17:25 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:17:48 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:17:48 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:34 minutos online
+14:17:57 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:17:57 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:17:57 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:18:00 : Solicitou ir ao mundo...
+14:18:00 : Recebido pedido para entrar no jogo
+14:18:00 : Recebido informação do personagem completa.
+14:18:00 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2092x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:18:00 : [MANGUER] - Personagem MANGUER enviado ao mundo 2092x 2106y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:18:00 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:18:00 : [MANGUER] - Enviado informações do personagem
+14:18:02 : [MANGUER] - Comando "/day "
+14:18:02 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:18:13 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:18:44 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:18:44 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:46 minutos online
+14:18:53 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:18:53 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:18:53 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:19:02 : Solicitou ir ao mundo...
+14:19:02 : Recebido pedido para entrar no jogo
+14:19:02 : Recebido informação do personagem completa.
+14:19:02 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:09 horas
+Posição atual: 2094x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:19:02 : [MANGUER] - Personagem MANGUER enviado ao mundo 2094x 2100y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:19:02 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:19:02 : [MANGUER] - Enviado informações do personagem
+14:19:03 : [MANGUER] - Comando "/day "
+14:19:03 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:19:10 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:19:10 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:17 minutos online
+14:36:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:36:36 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:36:36 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:36:42 : Solicitou ir ao mundo...
+14:36:42 : Recebido pedido para entrar no jogo
+14:36:42 : Recebido informação do personagem completa.
+14:36:42 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2095x 2093y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:36:42 : [MANGUER] - Personagem MANGUER enviado ao mundo 2095x 2093y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:36:42 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:36:42 : [MANGUER] - Enviado informações do personagem
+14:36:44 : [MANGUER] - Comando "/day "
+14:36:44 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:36:50 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:37:54 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:37:54 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:01:17 minutos online
+14:38:32 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:38:32 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:38:32 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:38:37 : Solicitou ir ao mundo...
+14:38:37 : Recebido pedido para entrar no jogo
+14:38:37 : Recebido informação do personagem completa.
+14:38:37 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2092x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:38:37 : [MANGUER] - Personagem MANGUER enviado ao mundo 2092x 2104y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:38:37 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:38:37 : [MANGUER] - Enviado informações do personagem
+14:38:38 : [MANGUER] - Comando "/day "
+14:38:38 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:38:50 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:39:45 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:39:45 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:01:13 minutos online
+14:41:10 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:41:10 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:41:10 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:41:15 : Solicitou ir ao mundo...
+14:41:15 : Recebido pedido para entrar no jogo
+14:41:15 : Recebido informação do personagem completa.
+14:41:15 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825820
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2091x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:41:15 : [MANGUER] - Personagem MANGUER enviado ao mundo 2091x 2105y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:41:15 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825820. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:41:15 : [MANGUER] - Enviado informações do personagem
+14:41:17 : [MANGUER] - Comando "/day "
+14:41:17 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:41:26 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:41:56 : [MANGUER] - Matou o mob Gremlin. GenerID: 426
+14:41:59 : [MANGUER] - Matou o mob Gremlin. GenerID: 419
+14:42:09 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:42:09 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:59 minutos online
+14:42:20 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:42:20 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:42:20 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:42:24 : Solicitou ir ao mundo...
+14:42:24 : Recebido pedido para entrar no jogo
+14:42:24 : Recebido informação do personagem completa.
+14:42:24 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825880
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2093x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:42:24 : [MANGUER] - Personagem MANGUER enviado ao mundo 2093x 2104y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:42:24 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825880. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:42:24 : [MANGUER] - Enviado informações do personagem
+14:42:25 : [MANGUER] - Comando "/day "
+14:42:25 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:42:38 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:43:26 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:43:26 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:01:06 minutos online
+14:50:28 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:50:28 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+14:50:28 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:50:29 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:50:33 : Solicitou ir ao mundo...
+14:50:33 : Recebido pedido para entrar no jogo
+14:50:33 : Recebido informação do personagem completa.
+14:50:33 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105825880
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2094x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:50:33 : [MANGUER] - Personagem MANGUER enviado ao mundo 2094x 2103y - Canal 2 - Cash da conta: 0. OverPower: 780
+14:50:33 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105825880. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:50:33 : [MANGUER] - Enviado informações do personagem
+14:50:34 : [MANGUER] - Comando "/day "
+14:50:34 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:50:47 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:50:56 : [MANGUER] - Comando "/cmd +erion"
+14:50:56 : [MANGUER] - [Mensagem do servidor]> Este personagem não está conectado.
+14:51:03 : [MANGUER] - Comando "/gm +erion"
+14:51:03 : [MANGUER] - Teleportado para a posição 2460 2009
+14:51:21 : [MANGUER] - Matou o mob Meio Orc. GenerID: 876
+14:51:23 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 876
+14:51:23 : [MANGUER] - Dropado item Luvas_de_Couro_Batido(A) [1815] [43 1 72 15 60 2] em 2492x 2012y - Orc Cavaleiro (1/300)
+14:51:26 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 873
+14:51:28 : [MANGUER] - Matou o mob Meio Orc. GenerID: 873
+14:51:34 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 875
+14:52:16 : [MANGUER] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 5. Distância 2: 5. Range: 1.
+14:52:17 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 875
+14:52:17 : [MANGUER] - Dropado item Botas_Leoninas(A) [1965] [43 1 73 6 59 0] em 2493x 2003y - Orc Cavaleiro (1/2400)
+14:53:45 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:53:45 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:03:14 minutos online
+14:53:57 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:53:57 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:53:57 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:54:01 : Solicitou ir ao mundo...
+14:54:01 : Recebido pedido para entrar no jogo
+14:54:01 : Recebido informação do personagem completa.
+14:54:01 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105826060
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2089x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas_de_Couro_Batido(A)[1815] [43 1 72 15 60 2]
+[01] - Botas_Leoninas(A)[1965] [43 1 73 6 59 0]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:54:01 : [MANGUER] - Personagem MANGUER enviado ao mundo 2089x 2098y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:54:01 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105826060. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:54:01 : [MANGUER] - Enviado informações do personagem
+14:54:03 : [MANGUER] - Comando "/day "
+14:54:03 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:54:07 : [MANGUER] - Comando "/gm +erion"
+14:54:07 : [MANGUER] - Teleportado para a posição 2460 2009
+14:54:14 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:54:20 : [MANGUER] - Comando "/srv 2"
+14:54:20 : [MANGUER] - Solicitou trocar para o servidor 2
+14:54:20 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:22 minutos online
+14:54:20 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:54:20 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+14:54:20 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:54:20 : Recebido informação do personagem completa.
+14:54:20 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105826060
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:00 horas
+Posição atual: 2092x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas_de_Couro_Batido(A)[1815] [43 1 72 15 60 2]
+[01] - Botas_Leoninas(A)[1965] [43 1 73 6 59 0]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:54:20 : [MANGUER] - Personagem MANGUER enviado ao mundo 2092x 2106y - Canal 2 - Cash da conta: 0. OverPower: 780
+14:54:20 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105826060. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:54:21 : [MANGUER] - Comando "/day "
+14:54:21 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:54:25 : [MANGUER] - Comando "/gm +erion"
+14:54:25 : [MANGUER] - Teleportado para a posição 2460 2009
+14:54:36 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:54:45 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 876
+14:54:45 : [MANGUER] - O pacote recebido esperava tamanho 168 e recebemos 32
+14:54:48 : [MANGUER] - Matou o mob Meio Orc. GenerID: 875
+14:54:50 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 875
+14:54:53 : [MANGUER] - Matou o mob Meio Orc. GenerID: 876
+14:54:54 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 877
+14:55:37 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:55:37 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:01:16 minutos online
+14:56:06 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:56:06 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:56:06 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:56:10 : Solicitou ir ao mundo...
+14:56:10 : Recebido pedido para entrar no jogo
+14:56:10 : Recebido informação do personagem completa.
+14:56:10 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105826210
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2095x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas_de_Couro_Batido(A)[1815] [43 1 72 15 60 2]
+[01] - Botas_Leoninas(A)[1965] [43 1 73 6 59 0]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:56:10 : [MANGUER] - Personagem MANGUER enviado ao mundo 2095x 2098y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:56:10 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105826210. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:56:10 : [MANGUER] - Enviado informações do personagem
+14:56:12 : [MANGUER] - Comando "/day "
+14:56:12 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:56:16 : [MANGUER] - Comando "/gm +erion"
+14:56:16 : [MANGUER] - Teleportado para a posição 2460 2009
+14:56:26 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:56:29 : [MANGUER] - Matou o mob Meio Orc. GenerID: 876
+14:57:01 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:57:01 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:54 minutos online
+14:57:12 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:57:12 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+14:57:12 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:57:16 : Solicitou ir ao mundo...
+14:57:16 : Recebido pedido para entrar no jogo
+14:57:16 : Recebido informação do personagem completa.
+14:57:16 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105826240
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2093x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas_de_Couro_Batido(A)[1815] [43 1 72 15 60 2]
+[01] - Botas_Leoninas(A)[1965] [43 1 73 6 59 0]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:57:16 : [MANGUER] - Personagem MANGUER enviado ao mundo 2093x 2102y - Canal 1 - Cash da conta: 0. OverPower: 780
+14:57:16 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105826240. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:57:16 : [MANGUER] - Enviado informações do personagem
+14:57:17 : [MANGUER] - Comando "/day "
+14:57:17 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:57:18 : [MANGUER] - Comando "/gm +erion"
+14:57:18 : [MANGUER] - Teleportado para a posição 2460 2009
+14:57:26 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:57:28 : [MANGUER] - Matou o mob Meio Orc. GenerID: 875
+14:57:36 : [MANGUER] - Comando "/srv 2"
+14:57:36 : [MANGUER] - Solicitou trocar para o servidor 2
+14:57:36 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:00:24 minutos online
+14:57:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:57:37 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+14:57:37 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:57:37 : Recebido informação do personagem completa.
+14:57:37 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105826270
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:00 horas
+Posição atual: 2092x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas_de_Couro_Batido(A)[1815] [43 1 72 15 60 2]
+[01] - Botas_Leoninas(A)[1965] [43 1 73 6 59 0]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:57:37 : [MANGUER] - Personagem MANGUER enviado ao mundo 2092x 2101y - Canal 2 - Cash da conta: 0. OverPower: 780
+14:57:37 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105826270. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:57:38 : [MANGUER] - Comando "/day "
+14:57:38 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:57:42 : [MANGUER] - Comando "/gm +erion"
+14:57:42 : [MANGUER] - Teleportado para a posição 2460 2009
+14:57:44 : [MANGUER] - CrackError - Points: 1 type: 5
+14:57:48 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:57:59 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 875
+14:58:02 : [MANGUER] - AddCrackError, dam!= -2 -1 0 : 0
+14:58:02 : [MANGUER] - CrackError - Points: 10 type: 20
+14:58:03 : [MANGUER] - Matou o mob Meio Orc. GenerID: 875
+14:58:05 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 875
+14:58:05 : [MANGUER] - Dropado item Pochard [988] [43 0 60 12 59 0] em 2488x 2006y - Orc Cavaleiro (1/300)
+14:58:08 : [MANGUER] - AddCrackError, dam!= -2 -1 0 : 0
+14:58:08 : [MANGUER] - CrackError - Points: 10 type: 20
+14:58:09 : [MANGUER] - Matou o mob Meio Orc. GenerID: 875
+14:59:14 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:59:14 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:01:36 minutos online
+14:59:26 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+14:59:26 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+14:59:26 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[ 12] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+
+14:59:30 : Solicitou ir ao mundo...
+14:59:30 : Recebido pedido para entrar no jogo
+14:59:30 : Recebido informação do personagem completa.
+14:59:30 : [MANGUER] - [INFORMAÇÕES DA CONTA]
+Personagem online: MANGUER
+Gold atual: 875077
+Level atual: 220
+Experiência atual: 105826390
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2090x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Khyrius[841] [0 0 0 0 0 0]
+[14] - Fênix[2389] [10 10 120 30 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas_de_Couro_Batido(A)[1815] [43 1 72 15 60 2]
+[01] - Botas_Leoninas(A)[1965] [43 1 73 6 59 0]
+[02] - Pochard[988] [43 0 60 12 59 0]
+[12] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:59:30 : [MANGUER] - Personagem MANGUER enviado ao mundo 2090x 2104y - Canal 2 - Cash da conta: 0. OverPower: 780
+14:59:30 : [MANGUER] - Gold atual: 875077. Classe: 0 Evolução: 0. Experiência: 105826390. Nível: 220. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:59:30 : [MANGUER] - Enviado informações do personagem
+14:59:32 : [MANGUER] - Comando "/day "
+14:59:32 : [MANGUER] - [Mensagem do servidor]> !#11 2
+14:59:35 : [MANGUER] - Comando "/gm +erion"
+14:59:35 : [MANGUER] - Teleportado para a posição 2460 2009
+14:59:36 : [MANGUER] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:01:00 : [MANGUER] - Matou o mob Meio Orc. GenerID: 875
+15:01:08 : [MANGUER] - Matou o mob Meio Orc. GenerID: 873
+15:01:10 : [MANGUER] - Matou o mob Troll. GenerID: 874
+15:01:17 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 873
+15:01:18 : [MANGUER] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 9. Distância 2: 5. Range: 1.
+15:01:19 : [MANGUER] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 9. Distância 2: 5. Range: 1.
+15:01:20 : [MANGUER] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 5. Distância 2: 4. Range: 1.
+15:01:22 : [MANGUER] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 5. Distância 2: 4. Range: 1.
+15:01:25 : [MANGUER] - Matou o mob Meio Orc. GenerID: 873
+15:01:28 : [MANGUER] - Matou o mob Orc Cavaleiro. GenerID: 873
+15:01:29 : [MANGUER] - O pacote recebido esperava tamanho 168 e recebemos 148
+15:01:31 : [MANGUER] - AddCrackError, dam!= -2 -1 0 : 0
+15:01:31 : [MANGUER] - CrackError - Points: 10 type: 20
+15:01:33 : [MANGUER] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:01:33 : [MANGUER] - 1 Personagem foi desconectado. Permaneceu 00:02:06 minutos online

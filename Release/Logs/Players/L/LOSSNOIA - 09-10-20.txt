@@ -1,0 +1,2477 @@
+
+12:54:11 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 5
+12:54:11 : Usuário logou no jogo com clientId 5. - Servidor 1. Gold do banco: 0
+12:54:11 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:54:12 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:54:19 : Solicitou ir ao mundo...
+12:54:19 : Recebido pedido para entrar no jogo
+12:54:19 : Recebido informação do personagem completa.
+12:54:19 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 10
+Experiência atual: 10750
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [105 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:54:19 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 65
+12:54:19 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 10750. Nível: 10. Info: 0. GuildID: 0. CP: 30. Pontos de Contribuição: 0. Limite: 0
+12:54:19 : [HUIAFNE] - Resetado a contagem de entradas água! Day: 1095323470-282. Total: -16843264
+12:54:19 : [HUIAFNE] - Enviado informações do personagem
+12:54:21 : [HUIAFNE] - Comando "/day "
+12:54:21 : [HUIAFNE] - [Mensagem do servidor]> !#11 2
+12:54:28 : [HUIAFNE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:55:00 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 851
+12:55:01 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+12:55:01 : [HUIAFNE] - Pontos CP subiu em 3. CP novo: 108
+12:55:01 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:55:01 : [HUIAFNE] - Level UP para level 11. Ev: 0 - 2112x 2042y
+12:55:10 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+12:55:10 : [HUIAFNE] - Dropado item Jaqueta_Acolchoada(A) [1556] [7 15 71 60 59 0] em 2123x 2044y - Porco de Guerra (1/67)
+12:55:12 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+12:55:15 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 850
+12:55:16 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+12:55:16 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+12:56:05 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+12:56:06 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+12:56:06 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+12:56:06 : [HUIAFNE] - Dropado item Robe_Pele_de_Animal(A) [1406] [43 0 71 60 60 6] em 2120x 2043y - Porco de Guerra (1/67)
+12:56:09 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 826
+12:56:10 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+12:56:12 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+12:56:12 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2118x 2041y - Porco de Guerra (1/30)
+12:56:12 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 756
+12:56:24 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+12:56:24 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+12:56:26 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+12:56:28 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+12:56:28 : [HUIAFNE] - Pontos CP subiu em 3. CP novo: 111
+12:56:28 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:56:28 : [HUIAFNE] - Level UP para level 12. Ev: 0 - 2123x 2045y
+12:56:28 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2123x 2045y - Porco de Guerra (1/30)
+12:59:25 : [HUIAFNE] - Personagem deu personagem
+12:59:29 : Solicitou ir ao mundo...
+12:59:29 : Recebido pedido para entrar no jogo
+12:59:29 : Recebido informação do personagem completa.
+12:59:29 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 12
+Experiência atual: 12910
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:05:14 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [111 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:59:29 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 69
+12:59:29 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 12910. Nível: 12. Info: 0. GuildID: 0. CP: 36. Pontos de Contribuição: 0. Limite: 0
+12:59:29 : [HUIAFNE] - Enviado informações do personagem
+12:59:31 : [HUIAFNE] - Comando "/day "
+12:59:31 : [HUIAFNE] - [Mensagem do servidor]> !#11 2
+12:59:40 : [HUIAFNE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:00:03 : [HUIAFNE] - Comando "/gm +set level 1"
+13:00:05 : [HUIAFNE] - Pontos CP subiu em 3. CP novo: 114
+13:00:05 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:00:05 : [HUIAFNE] - Level UP para level 2. Ev: 0 - 2118x 2038y
+13:00:07 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 711
+13:00:09 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:00:09 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:00:09 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2118x 2038y - Porco de Guerra (1/30)
+13:00:22 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 859
+13:00:23 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:00:23 : [HUIAFNE] - Pontos CP subiu em 3. CP novo: 117
+13:00:23 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:00:23 : [HUIAFNE] - Level UP para level 3. Ev: 0 - 2121x 2046y
+13:01:06 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+13:01:06 : [HUIAFNE] - Pontos CP subiu em 3. CP novo: 120
+13:01:06 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:01:06 : [HUIAFNE] - Level UP para level 4. Ev: 0 - 2121x 2046y
+13:01:06 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2121x 2046y - Porco de Guerra (1/30)
+13:01:10 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 2
+13:01:12 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+13:01:12 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:01:13 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 761
+13:02:43 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 785
+13:02:46 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:02:46 : [HUIAFNE] - Pontos CP subiu em 3. CP novo: 123
+13:02:46 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:02:46 : [HUIAFNE] - Level UP para level 5. Ev: 0 - 2120x 2045y
+13:02:55 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+13:02:55 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:03:01 : [HUIAFNE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:03:01 : [HUIAFNE] - Personagem foi desconectado. Permaneceu 00:08:43 minutos online
+13:03:35 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 6
+13:03:35 : Usuário logou no jogo com clientId 6. - Servidor 1. Gold do banco: 0
+13:03:35 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:03:36 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:03:42 : Solicitou ir ao mundo...
+13:03:42 : Recebido pedido para entrar no jogo
+13:03:42 : Recebido informação do personagem completa.
+13:03:42 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 5
+Experiência atual: 4264
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [123 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:03:42 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 55
+13:03:42 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 4264. Nível: 5. Info: 0. GuildID: 0. CP: 48. Pontos de Contribuição: 0. Limite: 0
+13:03:42 : [HUIAFNE] - Resetado a contagem de entradas água! Day: 1095323470-282. Total: -16843264
+13:03:42 : [HUIAFNE] - Enviado informações do personagem
+13:03:43 : [HUIAFNE] - Comando "/day "
+13:03:43 : [HUIAFNE] - [Mensagem do servidor]> !#11 2
+13:03:45 : [HUIAFNE] - Clicado no NPC [Chefe de Treino]. Face 60. Race: 8. GenerateId: 4411. Posição do usuário: 2113x 2043y. Posição do NPC: 2118x 2043y
+13:03:49 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+13:03:49 : [HUIAFNE] - Pontos CP subiu em 3. CP novo: 126
+13:03:49 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:03:49 : [HUIAFNE] - Level UP para level 6. Ev: 0 - 2121x 2045y
+13:03:49 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 4
+13:03:53 : [HUIAFNE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:03:54 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:03:54 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+13:03:58 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 496
+13:03:59 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:03:59 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:04:18 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:04:18 : [HUIAFNE] - Pontos CP subiu em 3. CP novo: 129
+13:04:18 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:04:18 : [HUIAFNE] - Level UP para level 7. Ev: 0 - 2121x 2043y
+13:04:23 : [HUIAFNE] - Personagem deu personagem
+13:04:28 : Solicitou ir ao mundo...
+13:04:28 : Recebido pedido para entrar no jogo
+13:04:28 : Recebido informação do personagem completa.
+13:04:28 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 7
+Experiência atual: 5569
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:52 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:04:28 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 59
+13:04:28 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 5569. Nível: 7. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+13:04:28 : [HUIAFNE] - Enviado informações do personagem
+13:04:30 : [HUIAFNE] - Comando "/day "
+13:04:30 : [HUIAFNE] - [Mensagem do servidor]> !#11 2
+13:04:32 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 747
+13:04:33 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+13:04:33 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+13:04:37 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:04:37 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+13:04:41 : [HUIAFNE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:04:41 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:04:41 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:04:41 : [HUIAFNE] - Dropado item Calça_Acolchoada(A) [1559] [12 19 71 40 3 10] em 2118x 2046y - Porco de Guerra (1/89)
+13:04:53 : [HUIAFNE] - Comando "/gm +set level 0"
+13:04:55 : [HUIAFNE] - Pontos CP subiu em 3. CP novo: 132
+13:04:55 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:04:55 : [HUIAFNE] - Level UP para level 1. Ev: 0 - 2117x 2047y
+13:04:58 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:04:58 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:04:58 : [HUIAFNE] - Pontos CP subiu em 3. CP novo: 135
+13:04:58 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:04:58 : [HUIAFNE] - Level UP para level 2. Ev: 0 - 2117x 2047y
+13:04:58 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 174
+13:05:41 : [HUIAFNE] - O login lossnoia tentou logar na conta com o mesmo mac.
+13:05:41 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 7
+13:05:41 : Conta LOSSNOIA logado na conta
+Status da conta: JOGANDO
+Personagem: HUIAFNE
+
+13:05:41 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+13:05:41 : [HUIAFNE] - Personagem foi desconectado. Permaneceu 00:02:04 minutos online
+13:05:43 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 7
+13:05:43 : Usuário logou no jogo com clientId 7. - Servidor 1. Gold do banco: 0
+13:05:43 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:05:43 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:05:48 : Solicitou ir ao mundo...
+13:05:48 : Recebido pedido para entrar no jogo
+13:05:48 : Recebido informação do personagem completa.
+13:05:48 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 2
+Experiência atual: 1530
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[63] - Marca_do_Assassino[547] [135 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:05:48 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 49
+13:05:48 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 1530. Nível: 2. Info: 0. GuildID: 0. CP: 60. Pontos de Contribuição: 0. Limite: 0
+13:05:48 : [HUIAFNE] - Resetado a contagem de entradas água! Day: 1095323470-282. Total: -16843264
+13:05:48 : [HUIAFNE] - Enviado informações do personagem
+13:05:50 : [HUIAFNE] - Comando "/day "
+13:05:50 : [HUIAFNE] - [Mensagem do servidor]> !#11 2
+13:05:54 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:05:54 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:05:54 : [HUIAFNE] - Pontos CP subiu em 3. CP novo: 138
+13:05:54 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:05:54 : [HUIAFNE] - Level UP para level 3. Ev: 0 - 2112x 2042y
+13:06:05 : [HUIAFNE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:07:26 : [HUIAFNE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:07:26 : [HUIAFNE] - Personagem foi desconectado. Permaneceu 00:01:42 minutos online
+13:07:47 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 8
+13:07:47 : Usuário logou no jogo com clientId 8. - Servidor 1. Gold do banco: 0
+13:07:47 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:07:47 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:07:55 : Solicitou ir ao mundo...
+13:07:55 : Recebido pedido para entrar no jogo
+13:07:55 : Recebido informação do personagem completa.
+13:07:55 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 3
+Experiência atual: 2225
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[63] - Marca_do_Assassino[547] [138 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:07:55 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 51
+13:07:55 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 2225. Nível: 3. Info: 0. GuildID: 0. CP: 63. Pontos de Contribuição: 0. Limite: 0
+13:07:55 : [HUIAFNE] - Resetado a contagem de entradas água! Day: 1095323470-282. Total: -16843264
+13:07:55 : [HUIAFNE] - Enviado informações do personagem
+13:07:56 : [HUIAFNE] - Comando "/day "
+13:07:56 : [HUIAFNE] - [Mensagem do servidor]> !#11 2
+13:08:01 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:08:01 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:08:01 : [HUIAFNE] - Pontos CP subiu em 3. CP novo: 141
+13:08:01 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:08:01 : [HUIAFNE] - Level UP para level 4. Ev: 0 - 2116x 2039y
+13:08:05 : [HUIAFNE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:08:30 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:08:30 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+13:08:33 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 695
+13:08:34 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:08:34 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:08:34 : [HUIAFNE] - Pontos CP subiu em 3. CP novo: 144
+13:08:34 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:08:34 : [HUIAFNE] - Level UP para level 5. Ev: 0 - 2120x 2040y
+13:09:11 : [HUIAFNE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:09:11 : [HUIAFNE] - Personagem foi desconectado. Permaneceu 00:01:23 minutos online
+13:09:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 9
+13:09:23 : Usuário logou no jogo com clientId 9. - Servidor 1. Gold do banco: 0
+13:09:23 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:09:23 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:09:29 : Solicitou ir ao mundo...
+13:09:29 : Recebido pedido para entrar no jogo
+13:09:29 : Recebido informação do personagem completa.
+13:09:29 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 5
+Experiência atual: 3615
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[63] - Marca_do_Assassino[547] [144 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:09:29 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 55
+13:09:29 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 3615. Nível: 5. Info: 0. GuildID: 0. CP: 69. Pontos de Contribuição: 0. Limite: 0
+13:09:29 : [HUIAFNE] - Resetado a contagem de entradas água! Day: 1095323470-282. Total: -16843264
+13:09:29 : [HUIAFNE] - Enviado informações do personagem
+13:09:31 : [HUIAFNE] - Comando "/day "
+13:09:31 : [HUIAFNE] - [Mensagem do servidor]> !#11 2
+13:09:35 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:09:35 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+13:09:35 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 508
+13:09:37 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 899
+13:09:38 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:09:38 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:09:41 : [HUIAFNE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:09:41 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+13:09:41 : [HUIAFNE] - Pontos CP subiu em 3. CP novo: 147
+13:09:41 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:09:41 : [HUIAFNE] - Level UP para level 6. Ev: 0 - 2122x 2045y
+13:09:43 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:09:43 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+13:10:26 : [HUIAFNE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:10:26 : [HUIAFNE] - Personagem foi desconectado. Permaneceu 00:01:02 minutos online
+13:10:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 10
+13:10:37 : Usuário logou no jogo com clientId 10. - Servidor 1. Gold do banco: 0
+13:10:37 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:10:37 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:10:44 : Solicitou ir ao mundo...
+13:10:44 : Recebido pedido para entrar no jogo
+13:10:44 : Recebido informação do personagem completa.
+13:10:44 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 6
+Experiência atual: 5010
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:10:44 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 57
+13:10:44 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 5010. Nível: 6. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+13:10:44 : [HUIAFNE] - Resetado a contagem de entradas água! Day: 1095323470-282. Total: -16843264
+13:10:44 : [HUIAFNE] - Enviado informações do personagem
+13:10:46 : [HUIAFNE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:10:46 : [HUIAFNE] - Personagem foi desconectado. Permaneceu 00:00:09 minutos online
+13:11:00 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 11
+13:11:00 : Usuário logou no jogo com clientId 11. - Servidor 1. Gold do banco: 0
+13:11:00 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:11:00 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:11:06 : Solicitou ir ao mundo...
+13:11:06 : Recebido pedido para entrar no jogo
+13:11:06 : Recebido informação do personagem completa.
+13:11:06 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 6
+Experiência atual: 5010
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:11:06 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 57
+13:11:06 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 5010. Nível: 6. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+13:11:06 : [HUIAFNE] - Resetado a contagem de entradas água! Day: 1095323470-282. Total: -16843264
+13:11:06 : [HUIAFNE] - Enviado informações do personagem
+13:11:13 : [HUIAFNE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:11:13 : [HUIAFNE] - Personagem foi desconectado. Permaneceu 00:00:13 minutos online
+13:11:51 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 12
+13:11:51 : Usuário logou no jogo com clientId 12. - Servidor 1. Gold do banco: 0
+13:11:51 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:11:51 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:11:57 : Solicitou ir ao mundo...
+13:11:57 : Recebido pedido para entrar no jogo
+13:11:57 : Recebido informação do personagem completa.
+13:11:57 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 6
+Experiência atual: 5010
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:11:57 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 57
+13:11:57 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 5010. Nível: 6. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+13:11:57 : [HUIAFNE] - Resetado a contagem de entradas água! Day: 1095323470-282. Total: -16843264
+13:11:57 : [HUIAFNE] - Enviado informações do personagem
+13:11:58 : [HUIAFNE] - Comando "/day "
+13:11:58 : [HUIAFNE] - [Mensagem do servidor]> !#11 2
+13:12:03 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:12:03 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:12:05 : [HUIAFNE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:12:05 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+13:12:05 : [HUIAFNE] - Pontos CP subiu em 3. CP novo: 150
+13:12:05 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:12:05 : [HUIAFNE] - Level UP para level 7. Ev: 0 - 2119x 2039y
+13:12:13 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4424
+13:12:13 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+13:12:21 : [HUIAFNE] - Comando "/gm +set 0 1"
+13:12:23 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4425
+13:12:23 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+13:12:27 : [HUIAFNE] - Comando "/gm +set 0 17"
+13:12:33 : [HUIAFNE] - Comando "/gm +set level 0"
+13:12:35 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:12:35 : [HUIAFNE] - Level UP para level 1. Ev: 0 - 2124x 2034y
+13:12:36 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4424
+13:12:36 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:12:36 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:12:36 : [HUIAFNE] - Level UP para level 2. Ev: 0 - 2126x 2035y
+13:12:40 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4425
+13:12:40 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:12:40 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:12:40 : [HUIAFNE] - Level UP para level 3. Ev: 0 - 2126x 2035y
+13:12:42 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4426
+13:12:42 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:12:42 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:12:42 : [HUIAFNE] - Level UP para level 4. Ev: 0 - 2128x 2034y
+13:12:46 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4425
+13:12:46 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+13:21:17 : [HUIAFNE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:21:17 : [HUIAFNE] - Personagem foi desconectado. Permaneceu 00:09:19 minutos online
+13:21:58 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 13
+13:21:58 : Usuário logou no jogo com clientId 13. - Servidor 1. Gold do banco: 0
+13:21:58 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:21:58 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:22:05 : Solicitou ir ao mundo...
+13:22:05 : Recebido pedido para entrar no jogo
+13:22:05 : Recebido informação do personagem completa.
+13:22:05 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 4
+Experiência atual: 3185
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:22:05 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 53
+13:22:05 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 3185. Nível: 4. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:22:05 : [HUIAFNE] - Resetado a contagem de entradas água! Day: 1095323470-282. Total: -16843264
+13:22:05 : [HUIAFNE] - Enviado informações do personagem
+13:22:06 : [HUIAFNE] - Comando "/day "
+13:22:06 : [HUIAFNE] - [Mensagem do servidor]> !#11 2
+13:22:09 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:22:09 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:22:09 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:22:09 : [HUIAFNE] - Level UP para level 5. Ev: 0 - 2112x 2042y
+13:22:13 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+13:22:13 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+13:22:17 : [HUIAFNE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:22:26 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:22:26 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:22:26 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2124x 2039y - Porco de Guerra (1/30)
+13:22:28 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 872
+13:22:30 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+13:22:30 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:22:30 : [HUIAFNE] - Level UP para level 6. Ev: 0 - 2124x 2044y
+13:22:31 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 607
+13:22:44 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 867
+13:22:46 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+13:22:46 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+13:22:47 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+13:22:47 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:22:50 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:22:50 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:22:50 : [HUIAFNE] - Level UP para level 7. Ev: 0 - 2118x 2042y
+13:23:15 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 817
+13:23:16 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+13:23:16 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+13:23:18 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 753
+13:23:20 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+13:23:20 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+13:23:22 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 0
+13:23:24 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:23:24 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:23:24 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 643
+13:23:29 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:23:29 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:23:29 : [HUIAFNE] - Level UP para level 8. Ev: 0 - 2113x 2042y
+13:23:37 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 0
+13:23:38 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:23:38 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+13:23:41 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 486
+13:23:42 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+13:23:44 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+13:23:44 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+13:23:46 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:23:46 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:23:50 : [HUIAFNE] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 10. Distância 2: 7. Range: 5.
+13:23:50 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 212
+13:23:50 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 600
+13:23:51 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+13:23:51 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:23:51 : [HUIAFNE] - Level UP para level 9. Ev: 0 - 2123x 2040y
+13:24:27 : [HUIAFNE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:24:27 : [HUIAFNE] - Personagem foi desconectado. Permaneceu 00:02:27 minutos online
+13:24:38 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 14
+13:24:38 : Usuário logou no jogo com clientId 14. - Servidor 1. Gold do banco: 0
+13:24:38 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+13:24:38 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:24:44 : Solicitou ir ao mundo...
+13:24:44 : Recebido pedido para entrar no jogo
+13:24:44 : Recebido informação do personagem completa.
+13:24:44 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 9
+Experiência atual: 8010
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:24:44 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 63
+13:24:44 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 8010. Nível: 9. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:24:44 : [HUIAFNE] - Resetado a contagem de entradas água! Day: 1095323470-282. Total: -16843264
+13:24:44 : [HUIAFNE] - Enviado informações do personagem
+13:24:45 : [HUIAFNE] - Comando "/day "
+13:24:45 : [HUIAFNE] - [Mensagem do servidor]> !#11 2
+13:24:47 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4417
+13:24:47 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+13:24:51 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 0
+13:24:53 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:24:53 : [HUIAFNE] - Dropado item Calça_Pele_de_Animal(A) [1409] [43 1 71 40 60 8] em 2117x 2043y - Porco de Guerra (1/67)
+13:24:53 : [HUIAFNE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:25:01 : [HUIAFNE] - Comando "/gm  +set level 0"
+13:25:02 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:25:02 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+13:25:04 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+13:25:04 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:25:20 : [HUIAFNE] - Comando "/gm +set level 1"
+13:25:23 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:25:23 : [HUIAFNE] - Level UP para level 2. Ev: 0 - 2117x 2043y
+13:25:25 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 0
+13:25:25 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 1
+13:25:26 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:25:26 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:25:31 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 0
+13:25:33 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+13:25:33 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:25:33 : [HUIAFNE] - Level UP para level 3. Ev: 0 - 2115x 2041y
+13:25:33 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 345
+13:25:47 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+13:25:47 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:25:47 : [HUIAFNE] - Level UP para level 4. Ev: 0 - 2115x 2041y
+13:25:47 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 347
+13:26:11 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 771
+13:26:12 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+13:26:12 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:26:52 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+13:26:52 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+13:26:52 : [HUIAFNE] - Level UP para level 5. Ev: 0 - 2128x 2038y
+13:27:01 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4424
+13:27:01 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+13:52:10 : [HUIAFNE] - Erro no envio do pacote. Total a ser enviado: 208. Error: 10035
+13:52:11 : [HUIAFNE] - Erro no envio do pacote. Total a ser enviado: 444. Error: 10035
+13:52:11 : [HUIAFNE] - Erro no envio do pacote. Total a ser enviado: 156. Error: 10035
+13:52:12 : [HUIAFNE] - Erro no envio do pacote. Total a ser enviado: 312. Error: 10035
+13:52:12 : [HUIAFNE] - Erro no envio do pacote. Total a ser enviado: 408. Error: 10035
+13:52:13 : [HUIAFNE] - Erro no envio do pacote. Total a ser enviado: 156. Error: 10035
+13:52:13 : [HUIAFNE] - Erro no envio do pacote. Total a ser enviado: 156. Error: 10035
+13:52:14 : [HUIAFNE] - Erro no envio do pacote. Total a ser enviado: 276. Error: 10035
+13:52:14 : [HUIAFNE] - Erro no envio do pacote. Total a ser enviado: 392. Error: 10035
+13:53:58 : [HUIAFNE] - Desconectado por inatividade... Last: 82788. Counter: 83509. Status: 22
+13:53:58 : [HUIAFNE] - Personagem foi desconectado. Permaneceu 00:28:57 minutos online
+14:12:05 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 15
+14:12:05 : Usuário logou no jogo com clientId 15. - Servidor 1. Gold do banco: 0
+14:12:05 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+14:12:05 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:12:15 : Solicitou ir ao mundo...
+14:12:15 : Recebido pedido para entrar no jogo
+14:12:15 : Recebido informação do personagem completa.
+14:12:15 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 5
+Experiência atual: 4264
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Calça_Pele_de_Animal(A)[1409] [43 1 71 40 60 8]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:12:15 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 55
+14:12:15 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 4264. Nível: 5. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:12:15 : [HUIAFNE] - Resetado a contagem de entradas água! Day: 1095323470-282. Total: -16843264
+14:12:15 : [HUIAFNE] - Enviado informações do personagem
+14:12:16 : [HUIAFNE] - Comando "/day "
+14:12:16 : [HUIAFNE] - [Mensagem do servidor]> !#11 2
+14:12:31 : [HUIAFNE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:47:43 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 15
+17:48:20 : Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+17:48:20 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+17:48:21 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 15
+17:48:21 : Usuário logou no jogo com clientId 15. - Servidor 1. Gold do banco: 0
+17:48:21 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:48:22 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:48:27 : Solicitou ir ao mundo...
+17:48:27 : Recebido pedido para entrar no jogo
+17:48:27 : Recebido informação do personagem completa.
+17:48:27 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 5
+Experiência atual: 4264
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Calça_Pele_de_Animal(A)[1409] [43 1 71 40 60 8]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:48:28 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 55
+17:48:28 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 4264. Nível: 5. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:48:28 : [HUIAFNE] - Resetado a contagem de entradas água! Day: 1095323470-282. Total: -16843264
+17:48:28 : [HUIAFNE] - Enviado informações do personagem
+17:48:29 : [HUIAFNE] - Comando "/day "
+17:48:29 : [HUIAFNE] - [Mensagem do servidor]> !#11 2
+17:48:32 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4417
+17:48:32 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+17:48:32 : [HUIAFNE] - Level UP para level 6. Ev: 0 - 2108x 2045y
+17:48:32 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2108x 2045y - Porco de Guerra (1/30)
+17:48:38 : [HUIAFNE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:49:23 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:49:23 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+17:49:23 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2115x 2041y - Porco de Guerra (1/30)
+17:50:39 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:50:39 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+17:50:39 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2115x 2041y - Porco de Guerra (1/30)
+17:50:43 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+17:50:43 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+17:50:43 : [HUIAFNE] - Level UP para level 7. Ev: 0 - 2116x 2043y
+17:50:48 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+17:50:48 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+17:50:52 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:50:52 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+17:50:52 : [HUIAFNE] - Dropado item Robe_Pele_de_Animal(A) [1406] [7 12 71 60 59 0] em 2115x 2043y - Porco de Guerra (1/67)
+17:50:55 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+17:50:55 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+17:50:57 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+17:50:57 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+17:50:57 : [HUIAFNE] - Level UP para level 8. Ev: 0 - 2124x 2045y
+17:51:02 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:51:05 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+17:51:05 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+17:51:06 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:51:06 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+17:51:07 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:51:07 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+17:51:11 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 845
+17:51:12 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+17:51:12 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+17:51:12 : [HUIAFNE] - Level UP para level 9. Ev: 0 - 2124x 2046y
+17:51:16 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:51:18 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:51:18 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+17:51:20 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+17:51:20 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+17:51:22 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+17:51:25 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:51:25 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+17:51:28 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:51:28 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+17:51:28 : [HUIAFNE] - Level UP para level 10. Ev: 0 - 2116x 2042y
+17:51:34 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4414
+17:51:36 : [HUIAFNE] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 11. Distância 2: 11. Range: 5.
+17:51:37 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 805
+17:51:39 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4418
+17:51:39 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+17:51:41 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4417
+17:51:45 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:51:45 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+17:51:50 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+17:51:52 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:51:52 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+17:51:54 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:51:58 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4425
+17:51:58 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+17:51:58 : [HUIAFNE] - Level UP para level 11. Ev: 0 - 2124x 2037y
+17:52:01 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 860
+17:52:02 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4424
+17:52:04 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:52:04 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+17:52:04 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2124x 2035y - Porco de Guerra (1/30)
+17:52:07 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:52:10 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+17:52:13 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 869
+17:52:14 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+17:52:14 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+17:52:15 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:52:18 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:52:18 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+17:52:19 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 881
+17:52:22 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:52:27 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+17:52:37 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:52:37 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+17:52:37 : [HUIAFNE] - Level UP para level 12. Ev: 0 - 2130x 2038y
+17:52:39 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4424
+17:52:41 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:52:43 : [HUIAFNE] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 9. Distância 2: 7. Range: 5.
+17:52:44 : [HUIAFNE] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 9. Distância 2: 7. Range: 5.
+17:52:45 : [HUIAFNE] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 9. Distância 2: 7. Range: 5.
+17:52:46 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4425
+17:52:46 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+17:52:49 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:52:51 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+17:52:54 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 899
+17:52:56 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+17:52:56 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+17:52:58 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:53:02 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:53:03 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:53:03 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+17:53:07 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:53:10 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:53:14 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4425
+17:53:14 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+17:53:14 : [HUIAFNE] - Level UP para level 13. Ev: 0 - 2128x 2033y
+17:53:20 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:53:20 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2118x 2042y - Porco de Guerra (1/30)
+17:53:24 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:53:28 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:53:30 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:53:30 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+17:53:30 : [HUIAFNE] - Dropado item Robe_Pele_de_Animal(A) [1406] [43 0 3 25 59 0] em 2124x 2041y - Porco de Guerra (1/67)
+17:53:33 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 855
+17:53:34 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:53:35 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+17:53:40 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4425
+17:53:45 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:53:45 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+17:53:51 : [HUIAFNE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:53:51 : [HUIAFNE] - Personagem foi desconectado. Permaneceu 00:05:25 minutos online
+17:54:01 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 16
+17:54:01 : Usuário logou no jogo com clientId 16. - Servidor 1. Gold do banco: 0
+17:54:01 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+17:54:01 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:54:07 : Solicitou ir ao mundo...
+17:54:07 : Recebido pedido para entrar no jogo
+17:54:07 : Recebido informação do personagem completa.
+17:54:07 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 13
+Experiência atual: 16469
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Calça_Pele_de_Animal(A)[1409] [43 1 71 40 60 8]
+[15] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[16] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[17] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[18] - Robe_Pele_de_Animal(A)[1406] [7 12 71 60 59 0]
+[19] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[20] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[21] - Robe_Pele_de_Animal(A)[1406] [43 0 3 25 59 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:54:07 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 71
+17:54:07 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 16469. Nível: 13. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:54:07 : [HUIAFNE] - Resetado a contagem de entradas água! Day: 1095323470-282. Total: -16843264
+17:54:07 : [HUIAFNE] - Enviado informações do personagem
+17:54:08 : [HUIAFNE] - Comando "/day "
+17:54:08 : [HUIAFNE] - [Mensagem do servidor]> !#11 2
+17:54:14 : [HUIAFNE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:54:33 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:54:58 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+17:54:59 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:54:59 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+17:55:01 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:55:01 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2117x 2042y - Porco de Guerra (1/30)
+17:55:05 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:55:07 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:55:09 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:55:09 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+17:55:09 : [HUIAFNE] - Level UP para level 14. Ev: 0 - 2122x 2039y
+17:55:09 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2122x 2039y - Porco de Guerra (1/30)
+17:55:12 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+17:55:16 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:55:19 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+17:55:29 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:56:09 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:56:09 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+17:56:15 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 877
+17:56:16 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:56:19 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+17:56:21 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:56:32 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+17:56:32 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+17:56:34 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+17:56:36 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:56:36 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2121x 2043y - Porco de Guerra (1/30)
+17:56:39 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:56:42 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:56:44 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 761
+17:56:45 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+17:56:45 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+17:56:45 : [HUIAFNE] - Dropado item Jaqueta_Acolchoada(A) [1556] [43 1 3 30 3 15] em 2126x 2043y - Porco de Guerra (1/67)
+17:56:48 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:56:50 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+17:56:58 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:57:01 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+17:57:01 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+17:57:01 : [HUIAFNE] - Level UP para level 15. Ev: 0 - 2125x 2047y
+17:57:03 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:57:08 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:57:10 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+17:57:19 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:57:32 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:57:51 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 836
+17:57:52 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:57:52 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+17:57:54 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:57:58 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4418
+17:58:01 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4415
+17:58:04 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 833
+17:58:06 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4418
+17:58:10 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:58:10 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+17:58:12 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:58:14 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+17:58:18 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:58:21 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 844
+17:58:22 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:58:30 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 866
+17:58:31 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:58:31 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+17:58:36 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:58:36 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2117x 2042y - Porco de Guerra (1/30)
+17:58:44 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:58:49 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:58:52 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:58:52 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2116x 2041y - Porco de Guerra (1/30)
+17:58:56 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+17:58:56 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+17:58:56 : [HUIAFNE] - Level UP para level 16. Ev: 0 - 2117x 2042y
+17:59:03 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4414
+17:59:06 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:59:09 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 810
+17:59:11 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:59:13 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 892
+17:59:14 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+17:59:17 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+17:59:19 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 840
+17:59:21 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+17:59:25 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+17:59:25 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+17:59:29 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+17:59:32 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+17:59:50 : [HUIAFNE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+17:59:50 : [HUIAFNE] - Personagem foi desconectado. Permaneceu 00:05:46 minutos online
+18:02:38 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 19
+18:02:38 : Usuário logou no jogo com clientId 19. - Servidor 1. Gold do banco: 0
+18:02:38 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+18:02:39 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:02:43 : Solicitou ir ao mundo...
+18:02:43 : Recebido pedido para entrar no jogo
+18:02:43 : Recebido informação do personagem completa.
+18:02:43 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 16
+Experiência atual: 25099
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Calça_Pele_de_Animal(A)[1409] [43 1 71 40 60 8]
+[15] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[16] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[17] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[18] - Robe_Pele_de_Animal(A)[1406] [7 12 71 60 59 0]
+[19] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[20] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[21] - Robe_Pele_de_Animal(A)[1406] [43 0 3 25 59 0]
+[22] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[23] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[24] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[25] - Jaqueta_Acolchoada(A)[1556] [43 1 3 30 3 15]
+[26] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[27] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:02:44 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 77
+18:02:44 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 25099. Nível: 16. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+18:02:44 : [HUIAFNE] - Resetado a contagem de entradas água! Day: 1095323470-282. Total: -16843264
+18:02:44 : [HUIAFNE] - Enviado informações do personagem
+18:02:44 : [HUIAFNE] - Comando "/day "
+18:02:44 : [HUIAFNE] - [Mensagem do servidor]> !#11 2
+18:02:48 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+18:02:50 : [HUIAFNE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:02:52 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+18:02:58 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+18:03:00 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+18:03:00 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+18:03:03 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 878
+18:03:04 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+18:03:06 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+18:03:24 : [HUIAFNE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:03:24 : [HUIAFNE] - Personagem foi desconectado. Permaneceu 00:00:45 minutos online
+18:04:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 20
+18:04:22 : Usuário logou no jogo com clientId 20. - Servidor 1. Gold do banco: 0
+18:04:22 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+18:04:22 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:04:25 : Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:04:25 : Personagem foi desconectado. Permaneceu 00:00:03 minutos online
+18:07:32 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 21
+18:07:32 : Usuário logou no jogo com clientId 21. - Servidor 1. Gold do banco: 0
+18:07:32 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+18:07:32 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:07:40 : Solicitou ir ao mundo...
+18:07:40 : Recebido pedido para entrar no jogo
+18:07:40 : Recebido informação do personagem completa.
+18:07:40 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 16
+Experiência atual: 25969
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Calça_Pele_de_Animal(A)[1409] [43 1 71 40 60 8]
+[15] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[16] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[17] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[18] - Robe_Pele_de_Animal(A)[1406] [7 12 71 60 59 0]
+[19] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[20] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[21] - Robe_Pele_de_Animal(A)[1406] [43 0 3 25 59 0]
+[22] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[23] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[24] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[25] - Jaqueta_Acolchoada(A)[1556] [43 1 3 30 3 15]
+[26] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[27] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:07:40 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 77
+18:07:40 : [HUIAFNE] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 25969. Nível: 16. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+18:07:40 : [HUIAFNE] - Resetado a contagem de entradas água! Day: 1095323470-282. Total: -16843264
+18:07:40 : [HUIAFNE] - Enviado informações do personagem
+18:07:41 : [HUIAFNE] - Comando "/day "
+18:07:41 : [HUIAFNE] - [Mensagem do servidor]> !#11 2
+18:07:45 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+18:07:45 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2117x 2041y - Porco de Guerra (1/30)
+18:07:47 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+18:07:48 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+18:07:50 : [HUIAFNE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:07:53 : [HUIAFNE] - Comando "/gm +set level 0"
+18:07:54 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+18:07:54 : [HUIAFNE] - Level UP para level 1. Ev: 0 - 2117x 2043y
+18:07:56 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+18:07:56 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+18:07:56 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+18:07:56 : [HUIAFNE] - Level UP para level 2. Ev: 0 - 2117x 2043y
+18:07:56 : [HUIAFNE] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2117x 2043y - Porco de Guerra (1/30)
+18:16:03 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+18:16:03 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+18:16:03 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+18:16:03 : [HUIAFNE] - Level UP para level 3. Ev: 0 - 2120x 2044y
+18:16:03 : [HUIAFNE] - Não dropou o item Poção_de_Cura por falta de espaço [400] [0 0 0 0 0 0] em 2120x 2044y - Porco de Guerra (1/30)
+18:16:03 : [HUIAFNE] - [Mensagem do servidor]> Seu inventário está cheio
+18:16:14 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+18:16:14 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+18:16:14 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+18:16:14 : [HUIAFNE] - Level UP para level 4. Ev: 0 - 2129x 2038y
+18:37:41 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 4
+Experiência atual: 2755
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:47 horas
+Posição atual: 2115x 2064y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Calça_Pele_de_Animal(A)[1409] [43 1 71 40 60 8]
+[15] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[16] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[17] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[18] - Robe_Pele_de_Animal(A)[1406] [7 12 71 60 59 0]
+[19] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[20] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[21] - Robe_Pele_de_Animal(A)[1406] [43 0 3 25 59 0]
+[22] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[23] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[24] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[25] - Jaqueta_Acolchoada(A)[1556] [43 1 3 30 3 15]
+[26] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[27] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[28] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[29] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:07:42 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 4
+Experiência atual: 2755
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:59:25 horas
+Posição atual: 2115x 2064y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Calça_Pele_de_Animal(A)[1409] [43 1 71 40 60 8]
+[15] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[16] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[17] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[18] - Robe_Pele_de_Animal(A)[1406] [7 12 71 60 59 0]
+[19] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[20] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[21] - Robe_Pele_de_Animal(A)[1406] [43 0 3 25 59 0]
+[22] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[23] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[24] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[25] - Jaqueta_Acolchoada(A)[1556] [43 1 3 30 3 15]
+[26] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[27] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[28] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[29] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:37:43 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 4
+Experiência atual: 2755
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:29:04 horas
+Posição atual: 2115x 2064y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Calça_Pele_de_Animal(A)[1409] [43 1 71 40 60 8]
+[15] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[16] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[17] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[18] - Robe_Pele_de_Animal(A)[1406] [7 12 71 60 59 0]
+[19] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[20] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[21] - Robe_Pele_de_Animal(A)[1406] [43 0 3 25 59 0]
+[22] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[23] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[24] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[25] - Jaqueta_Acolchoada(A)[1556] [43 1 3 30 3 15]
+[26] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[27] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[28] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[29] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:00:00 : [HUIAFNE] - [Mensagem do servidor]: !Coliseu Normal será iniciado em 3 minutos. Disponível apenas para mortais.
+20:00:00 : [HUIAFNE] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+20:07:44 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 4
+Experiência atual: 2755
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:58:43 horas
+Posição atual: 2115x 2064y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Calça_Pele_de_Animal(A)[1409] [43 1 71 40 60 8]
+[15] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[16] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[17] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[18] - Robe_Pele_de_Animal(A)[1406] [7 12 71 60 59 0]
+[19] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[20] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[21] - Robe_Pele_de_Animal(A)[1406] [43 0 3 25 59 0]
+[22] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[23] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[24] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[25] - Jaqueta_Acolchoada(A)[1556] [43 1 3 30 3 15]
+[26] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[27] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[28] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[29] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:08:03 : [HUIAFNE] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+20:30:00 : [HUIAFNE] - [Mensagem do servidor]: !Coliseu Místico será iniciado em 3 minutos. Disponível para Arch ou superior
+20:30:00 : [HUIAFNE] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+20:37:44 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 4
+Experiência atual: 2755
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 02:28:21 horas
+Posição atual: 2115x 2064y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Calça_Pele_de_Animal(A)[1409] [43 1 71 40 60 8]
+[15] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[16] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[17] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[18] - Robe_Pele_de_Animal(A)[1406] [7 12 71 60 59 0]
+[19] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[20] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[21] - Robe_Pele_de_Animal(A)[1406] [43 0 3 25 59 0]
+[22] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[23] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[24] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[25] - Jaqueta_Acolchoada(A)[1556] [43 1 3 30 3 15]
+[26] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[27] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[28] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[29] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:38:03 : [HUIAFNE] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+20:55:00 : [HUIAFNE] - [Mensagem do servidor]: A guerra de reinos iniciarï¿½ em 5 minutos. Acesse o teleporte de Noatun.
+21:00:00 : [HUIAFNE] - [Mensagem do servidor]: Guerra entre Reinos iniciada. Acesse o teleporte de Noatun!
+21:07:45 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 0
+Level atual: 4
+Experiência atual: 2755
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 02:58:00 horas
+Posição atual: 2115x 2064y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Calça_Pele_de_Animal(A)[1409] [43 1 71 40 60 8]
+[15] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[16] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[17] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[18] - Robe_Pele_de_Animal(A)[1406] [7 12 71 60 59 0]
+[19] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[20] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[21] - Robe_Pele_de_Animal(A)[1406] [43 0 3 25 59 0]
+[22] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[23] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[24] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[25] - Jaqueta_Acolchoada(A)[1556] [43 1 3 30 3 15]
+[26] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[27] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[28] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[29] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:30:00 : [HUIAFNE] - [Mensagem do servidor]: A guerra do RvR terminou em empate!
+21:31:25 : [HUIAFNE] - [Mensagem do servidor]> Não possui gold suficiente
+21:32:24 : [HUIAFNE] - Item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0] utilizado em 2093x 2128y
+21:32:24 : [HUIAFNE] - Gold atual: 0.
+21:32:25 : [HUIAFNE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:32:25 : [HUIAFNE] - Personagem foi desconectado. Permaneceu 03:22:20 minutos online
+21:33:01 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 28
+21:33:01 : Usuário logou no jogo com clientId 28. - Servidor 1. Gold do banco: 0
+21:33:01 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+21:33:01 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:33:06 : Solicitou ir ao mundo...
+21:33:06 : Recebido pedido para entrar no jogo
+21:33:06 : Recebido informação do personagem completa.
+21:33:06 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 1000000000
+Level atual: 4
+Experiência atual: 2755
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Calça_Pele_de_Animal(A)[1409] [43 1 71 40 60 8]
+[15] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[16] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[17] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[18] - Robe_Pele_de_Animal(A)[1406] [7 12 71 60 59 0]
+[19] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[20] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[21] - Robe_Pele_de_Animal(A)[1406] [43 0 3 25 59 0]
+[22] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[23] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[24] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[25] - Jaqueta_Acolchoada(A)[1556] [43 1 3 30 3 15]
+[26] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[27] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[28] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[29] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:33:06 : [HUIAFNE] - Personagem HUIAFNE enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 53
+21:33:06 : [HUIAFNE] - Gold atual: 1000000000. Classe: 1 Evolução: 0. Experiência: 2755. Nível: 4. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+21:33:06 : [HUIAFNE] - Resetado a contagem de entradas água! Day: 1095323470-282. Total: -16843264
+21:33:06 : [HUIAFNE] - Enviado informações do personagem
+21:33:07 : [HUIAFNE] - Comando "/day "
+21:33:07 : [HUIAFNE] - [Mensagem do servidor]> !#11 2
+21:33:13 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+21:33:13 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:33:16 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+21:33:16 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:33:16 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:33:16 : [HUIAFNE] - Level UP para level 5. Ev: 0 - 2116x 2038y
+21:33:21 : [HUIAFNE] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:33:23 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+21:33:23 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:33:23 : [HUIAFNE] - Dropado item Calça_Acolchoada(A) [1559] [43 0 71 60 60 6] em 2122x 2039y - Porco de Guerra (1/89)
+21:33:25 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 841
+21:33:27 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+21:33:27 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:33:28 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+21:33:28 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:33:28 : [HUIAFNE] - Level UP para level 6. Ev: 0 - 2119x 2037y
+21:33:35 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 374
+21:33:36 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4424
+21:33:36 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:33:37 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4425
+21:33:37 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:33:40 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 828
+21:33:41 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+21:33:41 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:33:41 : [HUIAFNE] - Level UP para level 7. Ev: 0 - 2124x 2036y
+21:33:44 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+21:33:44 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:33:44 : [HUIAFNE] - Não dropou o item Poção_de_Cura por falta de espaço [400] [0 0 0 0 0 0] em 2121x 2043y - Porco de Guerra (1/30)
+21:33:44 : [HUIAFNE] - [Mensagem do servidor]> Seu inventário está cheio
+21:33:48 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+21:33:48 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:33:50 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+21:33:50 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:33:52 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+21:33:52 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:33:52 : [HUIAFNE] - Level UP para level 8. Ev: 0 - 2119x 2039y
+21:34:00 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4423
+21:34:00 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:34:02 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4419
+21:34:05 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4420
+21:34:05 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:34:06 : [HUIAFNE] - Ataque mais rápido que 900ms. Diferença 827
+21:34:07 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4422
+21:34:07 : [HUIAFNE] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:34:10 : [HUIAFNE] - Matou o mob Porco de Guerra. GenerID: 4421
+21:34:10 : [HUIAFNE] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:34:10 : [HUIAFNE] - Level UP para level 9. Ev: 0 - 2118x 2046y
+21:34:25 : [HUIAFNE] - Teleportado para a posição 1047 1725
+21:34:25 : [HUIAFNE] - Solicitado teleporte na posição 2116x 2103y e teleportado para 1047x 1725y
+21:34:29 : [HUIAFNE] - Clicado no NPC [God Government]. Face 271. Race: 4. GenerateId: 3276. Posição do usuário: 1046x 1719y. Posição do NPC: 1051x 1713y
+21:34:42 : [HUIAFNE] - Comando "/gm +armia"
+21:34:42 : [HUIAFNE] - Teleportado para a posição 2100 2100
+22:00:00 : [HUIAFNE] - [Mensagem do servidor]: A batalha do acampamento avançado do reino foi iniciada.
+22:03:06 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 999999300
+Level atual: 9
+Experiência atual: 8010
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:44 horas
+Posição atual: 2101x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Calça_Acolchoada(A)[1559] [43 0 71 60 60 6]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Calça_Pele_de_Animal(A)[1409] [43 1 71 40 60 8]
+[15] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[16] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[17] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[18] - Robe_Pele_de_Animal(A)[1406] [7 12 71 60 59 0]
+[19] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[20] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[21] - Robe_Pele_de_Animal(A)[1406] [43 0 3 25 59 0]
+[22] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[23] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[24] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[25] - Jaqueta_Acolchoada(A)[1556] [43 1 3 30 3 15]
+[26] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[27] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[28] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[29] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:12:13 : [HUIAFNE] - Comando "/gm +goto 3340 240"
+22:12:22 : [HUIAFNE] - Comando "/gm +move 3340 250"
+22:12:22 : [HUIAFNE] - Teleportado para a posição 3340 250
+22:12:26 : [HUIAFNE] - Comando "/gm +move 3340 240"
+22:12:26 : [HUIAFNE] - Teleportado para a posição 3340 240
+22:30:00 : [HUIAFNE] - [Mensagem do servidor]: A batalha de acampamento avançado do reino foi finalizada
+22:33:07 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 999999300
+Level atual: 9
+Experiência atual: 8010
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:59:23 horas
+Posição atual: 3614x 506y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Calça_Acolchoada(A)[1559] [43 0 71 60 60 6]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Calça_Pele_de_Animal(A)[1409] [43 1 71 40 60 8]
+[15] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[16] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[17] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[18] - Robe_Pele_de_Animal(A)[1406] [7 12 71 60 59 0]
+[19] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[20] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[21] - Robe_Pele_de_Animal(A)[1406] [43 0 3 25 59 0]
+[22] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[23] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[24] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[25] - Jaqueta_Acolchoada(A)[1556] [43 1 3 30 3 15]
+[26] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[27] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[28] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[29] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:39:55 : [HUIAFNE] - Comando "/gm +goto 3614 505"
+22:40:09 : [HUIAFNE] - Comando "/gm +move 3615 500"
+22:40:09 : [HUIAFNE] - Teleportado para a posição 3615 500
+22:40:13 : [HUIAFNE] - Comando "/gm +armia"
+22:40:13 : [HUIAFNE] - Teleportado para a posição 2100 2100
+22:40:14 : [HUIAFNE] - Comando "/gm +move 3615 500"
+22:40:14 : [HUIAFNE] - Teleportado para a posição 3615 500
+22:51:02 : [HUIAFNE] - Comando "/gm +armia"
+22:51:02 : [HUIAFNE] - Teleportado para a posição 2100 2100
+22:51:03 : [HUIAFNE] - Comando "/gm +move 3615 500"
+22:51:03 : [HUIAFNE] - Teleportado para a posição 3615 500
+22:59:21 : [HUIAFNE] - Comando "/gm +armia"
+22:59:21 : [HUIAFNE] - Teleportado para a posição 2100 2100
+22:59:22 : [HUIAFNE] - Comando "/gm +move 3615 500"
+22:59:22 : [HUIAFNE] - Teleportado para a posição 3615 500
+23:02:05 : [HUIAFNE] - Comando "/gm +move 3618 551"
+23:02:05 : [HUIAFNE] - Teleportado para a posição 3618 551
+23:02:07 : [HUIAFNE] - Comando "/gm +armia"
+23:02:07 : [HUIAFNE] - Teleportado para a posição 2100 2100
+23:02:08 : [HUIAFNE] - Comando "/gm +move 3618 551"
+23:02:08 : [HUIAFNE] - Teleportado para a posição 3618 551
+23:03:07 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 999999300
+Level atual: 9
+Experiência atual: 8010
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:29:01 horas
+Posição atual: 3616x 561y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Calça_Acolchoada(A)[1559] [43 0 71 60 60 6]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Calça_Pele_de_Animal(A)[1409] [43 1 71 40 60 8]
+[15] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[16] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[17] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[18] - Robe_Pele_de_Animal(A)[1406] [7 12 71 60 59 0]
+[19] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[20] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[21] - Robe_Pele_de_Animal(A)[1406] [43 0 3 25 59 0]
+[22] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[23] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[24] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[25] - Jaqueta_Acolchoada(A)[1556] [43 1 3 30 3 15]
+[26] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[27] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[28] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[29] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:33:08 : [HUIAFNE] - [INFORMAÇÕES DA CONTA]
+Personagem online: HUIAFNE
+Gold atual: 999999300
+Level atual: 9
+Experiência atual: 8010
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:58:39 horas
+Posição atual: 3616x 556y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 9 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Calça_Acolchoada(A)[1559] [43 0 71 60 60 6]
+[01] - Poeira_de_Lactolerium[413] [61 109 0 0 0 0]
+[02] - Calça_Acolchoada(A)[1559] [43 0 3 25 60 10]
+[03] - Jaqueta_Acolchoada(A)[1556] [7 15 71 60 59 0]
+[04] - Robe_Pele_de_Animal(A)[1406] [43 0 71 60 60 6]
+[05] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[06] - Robe_Pele_de_Animal(A)[1406] [43 1 71 60 3 25]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[11] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[12] - Calça_Acolchoada(A)[1559] [12 19 71 40 3 10]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Calça_Pele_de_Animal(A)[1409] [43 1 71 40 60 8]
+[15] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[16] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[17] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[18] - Robe_Pele_de_Animal(A)[1406] [7 12 71 60 59 0]
+[19] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[20] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[21] - Robe_Pele_de_Animal(A)[1406] [43 0 3 25 59 0]
+[22] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[23] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[24] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[25] - Jaqueta_Acolchoada(A)[1556] [43 1 3 30 3 15]
+[26] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[27] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[28] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[29] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:55:46 : [HUIAFNE] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+23:55:46 : [HUIAFNE] - Personagem foi desconectado. Permaneceu 02:21:00 minutos online

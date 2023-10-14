@@ -1,0 +1,801 @@
+
+01:53:58 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (GUINAS123) - IP: 177.8.54.246 Mac: (D0:CB:D4:B3:9A:45). ClientId: 1
+01:53:58 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+01:53:58 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+01:54:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (GUINAS123) - IP: 177.8.54.246 Mac: (D0:CB:D4:B3:9A:45). ClientId: 23
+01:54:08 : Usuário logou no jogo com clientId 23. - Servidor 1. Gold do banco: 0
+01:54:08 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  2] - Bolsa_do_Andarilho[3467] [0 0 0 0 0 0]
+[  3] - [4646] [0 0 0 0 0 0]
+[  4] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[  5] - Tomo_de_Joalheiro_[K][4604] [61 120 0 0 0 0]
+[  6] - Chave_do_Pacote[5382] [96 0 0 0 0 0]
+[  7] - Bolsa_do_Andarilho[3467] [0 0 0 0 0 0]
+[  8] - Gema_Estelar[700] [0 0 0 0 0 0]
+[  9] - Brinco_de_Zeus[593] [0 0 0 0 0 0]
+[ 10] - Tomo_de_Ferreiro_[K][4603] [61 120 0 0 0 0]
+[ 11] - Alma_do_Kefra[4528] [61 120 0 0 0 0]
+[ 12] - Chapéu(M)[1642] [43 0 26 9 59 0]
+[ 14] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[ 15] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[ 16] - Alma_do_Anubis[4529] [61 120 0 0 0 0]
+[ 19] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[ 20] - Essência_Rara[4505] [61 120 0 0 0 0]
+[ 21] - Véu_do_Lich[4524] [61 120 0 0 0 0]
+[ 25] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[ 26] - Alma_do_Sombra_Negra[4525] [61 10 0 0 0 0]
+[ 30] - Essência_Comum[4503] [61 120 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [78 98 100 60 10 0]
+[ 39] - Arco_Guardião[3556] [43 6 2 36 0 0]
+[ 40] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[ 45] - Ankh_da_Justiça[661] [43 9 0 0 0 0]
+[ 50] - Amuleto_de_Prata[551] [43 9 60 28 0 0]
+[ 80] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[ 81] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[ 82] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[ 83] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[ 85] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[ 86] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[ 87] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[ 88] - Safira[697] [43 5 0 0 0 0]
+[ 90] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[ 91] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[ 92] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[ 93] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[ 95] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[ 96] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[ 97] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[ 98] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[100] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[101] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[102] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[103] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[105] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[106] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[107] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[108] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[110] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[111] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[112] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[113] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[115] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[116] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[117] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+
+01:54:09 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+01:54:18 : Enviou senha numérica correta. 
+01:54:22 : Solicitou ir ao mundo...
+01:54:22 : Recebido pedido para entrar no jogo
+01:54:22 : Recebido informação do personagem completa.
+01:54:22 : [-BRAHMA-] - [INFORMAÇÕES DA CONTA]
+Personagem online: -BRAHMA-
+Gold atual: 1463691353
+Level atual: 188
+Experiência atual: 3773853514
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:14 horas
+Posição atual: 2499x 1708y
+
+Pontos NT: 7
+Entradas Hall: 24
+Info: 274877907440
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 12/2/2021 16:25:34
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[37] [43 0 37 2 1 1]
+[01] - Cythera_Mística[3502] [43 234 0 0 0 0]
+[02] - Peitoral(A)[1646] [43 9 3 30 60 10]
+[03] - Calça(A)[1649] [43 9 3 30 60 10]
+[04] - Braçadeira(A)[1652] [43 9 54 18 72 30]
+[05] - Botas(A)[1655] [43 9 73 30 74 18]
+[06] - Cajado[903] [43 9 0 0 0 0]
+[08] - Pedra_Espiritual[633] [43 9 69 20 0 0]
+[09] - Pedra_Espiritual[633] [43 9 69 20 0 0]
+[10] - Pedra_Espiritual[633] [43 9 69 20 0 0]
+[11] - Pedra_Espiritual[633] [43 9 69 20 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 14 3 21 0 0]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 18 108 9]
+[14] - Skinfaxi[2371] [48 117 100 60 10 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Ultra_Poção_de_Cura[404] [61 38 0 0 0 0]
+[01] - Ultra_Poção_de_Cura[404] [61 120 0 0 0 0]
+[02] - Ultra_Poção_de_Mana[409] [61 92 0 0 0 0]
+[03] - Ultra_Poção_de_Mana[409] [61 120 0 0 0 0]
+[04] - Ultra_Poção_de_Mana[409] [61 120 0 0 0 0]
+[05] - Túnica[1356] [43 6 0 0 0 0]
+[06] - Calça[1357] [43 6 0 0 0 0]
+[07] - Luvass[1358] [43 6 0 0 0 0]
+[08] - Botass[1359] [43 6 0 0 0 0]
+[09] - Ração_de_Cavalo[2426] [96 1 61 120 0 0]
+[10] - Poeira_de_Lactolerium[413] [61 218 0 0 0 0]
+[11] - Poeira_de_Oriharucon[412] [61 217 0 0 0 0]
+[12] - Pedra_da_Fúria[3020] [0 0 0 0 0 0]
+[13] - Pedra_da_Fúria[3020] [0 0 0 0 0 0]
+[14] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[15] - Luvas(M)[1501] [43 0 72 10 59 0]
+[16] - Luvas(M)[1351] [43 1 72 15 59 0]
+[34] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[44] - Pedido_de_Caça(Kefra)[3436] [61 7 0 0 0 0]
+[45] - Ração_de_Cavalo[2426] [61 5 0 0 0 0]
+[46] - Ração_de_Cavalo[2426] [61 5 0 0 0 0]
+[47] - Baú_de_Caça[4139] [61 234 0 0 0 0]
+[48] - Baú_de_Experiência[4140] [61 234 0 0 0 0]
+[49] - Frango_Assado[3314] [61 234 0 0 0 0]
+[50] - Jóia_da_Proteção[3205] [61 11 0 0 0 0]
+[51] - Jóia_do_Poder[3206] [61 11 0 0 0 0]
+[52] - Jóia_da_Armazenagem[3207] [61 12 0 0 0 0]
+[53] - Jóia_da_Magia[3209] [61 11 0 0 0 0]
+[54] - Pergaminho_Retorno_10x[411] [61 2 0 0 0 0]
+[55] - Jóia_da_Sagacidade[3200] [61 11 0 0 0 0]
+[56] - Jóia_da_Resistência[3201] [61 78 0 0 0 0]
+[57] - Jóia_da_Recarga[3202] [61 10 0 0 0 0]
+[58] - Jóia_da_Absorção[3204] [61 10 0 0 0 0]
+[59] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 14 110 3 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+01:54:22 : [-BRAHMA-] - Personagem -BRAHMA- enviado ao mundo 2499x 1708y - Canal 1 - Cash da conta: 280360. PowerLevel: 5015
+01:54:22 : [-BRAHMA-] - Gold atual: 1463691353. Classe: 1 Evolução: 2. Experiência: 3773853514. Nível: 188. Info: 274877907440. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+01:54:22 : [-BRAHMA-] - Logou no personagem -BRAHMA- com poção divina ativo. Validade: 14/3/2021 14:33:42
+01:54:22 : [-BRAHMA-] - Logou no personagem -BRAHMA- com frango ativo. Tempo: 1200
+01:54:22 : [-BRAHMA-] - Logou no personagem -BRAHMA- com baú de experiência ativo. Tempo: 959
+01:54:22 : [-BRAHMA-] - Resetado a contagem de entradas água! Day: 42-43. Total: 1
+01:54:22 : [-BRAHMA-] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+01:54:22 : [-BRAHMA-] - Enviado informações do personagem
+01:54:25 : [-BRAHMA-] - Comando "/day "
+01:54:25 : [-BRAHMA-] - [Mensagem do servidor]> !#11 2
+01:54:38 : [-BRAHMA-] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+01:54:39 : [-BRAHMA-] - [Mensagem do servidor]: Jogador TicomicSuey obteve sucesso na composição de Lança_do_Triunfo(Anct)
+01:54:46 : [-BRAHMA-] - [Mensagem do servidor]: TicomicSuey falhou na composição do item Lança para Ancient
+01:54:46 : [-BRAHMA-] - [Mensagem do servidor]: Jogador TriPeZao obteve sucesso na composição de Basileus(Anct)
+01:54:55 : [-BRAHMA-] - [Mensagem do servidor]: TicomicSuey falhou na composição do item Lança para Ancient
+01:54:59 : [-BRAHMA-] - Teleportado para a posição 960 1761
+01:56:36 : [-BRAHMA-] - [Mensagem do servidor]: Jogador TriPeZao falhou a composição do item Basileus(Anct) +10
+01:56:44 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS falhou a composição do item Neorion(Anct) +10
+01:56:59 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS falhou a composição do item Neorion(Anct) +10
+01:57:08 : [-BRAHMA-] - [Mensagem do servidor]: Jogador TicomicSuey obteve sucesso na composição de Gleipnir(Anct)
+01:57:12 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS falhou a composição do item Neorion(Anct) +10
+01:57:17 : [-BRAHMA-] - [Mensagem do servidor]: TicomicSuey falhou na composição do item Lança para Ancient
+01:57:21 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+01:57:25 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+01:57:25 : [-BRAHMA-] - [Mensagem do servidor]: TicomicSuey falhou na composição do item Lança para Ancient
+01:57:26 : [-BRAHMA-] - Recebeu 17484 de gold em 10 mobs no total. Total de gold: 1463707837
+01:57:29 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+01:57:40 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+01:57:44 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+01:57:46 : [-BRAHMA-] - [Mensagem do servidor]: Gandra falhou na composição do item Machado para Ancient
+01:57:48 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+01:57:52 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+01:57:52 : [-BRAHMA-] - Dropado item Poeira_de_Oriharucon [412] [0 0 0 0 0 0] em 1216x 1721y - Aranha Inferno (1/469)
+01:58:01 : [-BRAHMA-] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na composição de Balmung(Anct)
+01:58:02 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+01:58:07 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+01:58:08 : [-BRAHMA-] - [Mensagem do servidor]: TriPeZao falhou a refinação de Basileus(Anct) para 12
+01:58:08 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +12
+01:58:11 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+01:58:15 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+01:58:16 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +13
+01:58:17 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS falhou a composição do item Neorion(Anct) +10
+01:58:19 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+01:58:23 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+01:58:23 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +14
+01:58:31 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +15
+01:58:35 : [-BRAHMA-] - [Mensagem do servidor]: Jogador TriPeZao obteve sucesso na refinação item +12
+01:58:42 : [-BRAHMA-] - [Mensagem do servidor]: Jogador TriPeZao obteve sucesso na refinação item +13
+01:58:57 : [-BRAHMA-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +12
+01:59:04 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +12
+01:59:13 : [-BRAHMA-] - Item Pergaminho_Retorno_10x [411] [61 2 0 0 0 0] utilizado em 1193x 1713y
+01:59:13 : [-BRAHMA-] - DoRecall - Enviado para cidade: 2496x 1708y
+01:59:20 : [-BRAHMA-] - Teleportado para a posição 2117 2102
+01:59:23 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +13
+01:59:26 : [-BRAHMA-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +13
+01:59:40 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +14
+01:59:46 : [-BRAHMA-] - [Mensagem do servidor]: ErenJaeger falhou a refinação de Caliburn(Anct) para 14
+02:00:15 : [-BRAHMA-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +13
+02:00:26 : [-BRAHMA-] - [Mensagem do servidor]> Guild Chatting : Off
+02:00:28 : [-BRAHMA-] - [Mensagem do servidor]> Whisper : Off
+02:00:30 : [-BRAHMA-] - [Mensagem do servidor]> Guild Chatting : On
+02:00:32 : [-BRAHMA-] - [Mensagem do servidor]> Guild Chatting : Off
+02:00:51 : [-BRAHMA-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +14
+02:01:11 : [-BRAHMA-] - Teleportado para a posição 1344 3517
+02:01:11 : [-BRAHMA-] - Água 777 - Grupo de Caffetina. Entradas restantes: 1080
+02:01:14 : [-BRAHMA-] - Recebeu 15242 de gold em 10 mobs no total. Total de gold: 1463721203
+02:01:18 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +15
+02:01:39 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +12
+02:01:44 : [-BRAHMA-] - Item Pergaminho_Retorno_10x [411] [61 1 0 0 0 0] utilizado em 1344x 3517y
+02:01:44 : [-BRAHMA-] - DoRecall - Enviado para cidade: 2098x 2106y
+02:01:50 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +13
+02:01:57 : [-BRAHMA-] - Teleportado para a posição 2366 3878
+02:01:59 : [-BRAHMA-] - [Mensagem do servidor]: -PECADOS- falhou a refinação de Balmung(Anct) para 14
+02:02:03 : [-BRAHMA-] - [Mensagem do servidor]> Você possui 23 entradas
+02:02:03 : [-BRAHMA-] - Teleportado para hallkefra. Entradas restantes: 23
+02:02:03 : [-BRAHMA-] - Teleportado para a posição 2366 3910
+02:02:03 : [-BRAHMA-] - Solicitado teleporte na posição 2365x 3892y e teleportado para 2366x 3910y
+02:02:07 : [-BRAHMA-] - [Mensagem do servidor]: -PECADOS- falhou a refinação de Balmung(Anct) para 13
+02:02:07 : [-BRAHMA-] - Teleportado para a posição 3251 1704
+02:02:07 : [-BRAHMA-] - Solicitado teleporte na posição 2366x 3924y e teleportado para 3251x 1704y
+02:02:13 : [-BRAHMA-] - Clicado no NPC [Alquimista Odin]. Face 103. Race: 2. GenerateId: 3417. Posição do usuário: 3240x 1689y. Posição do NPC: 3236x 1690y
+02:02:21 : [-BRAHMA-] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na composição de Martelo_Assassino(Anct)
+02:02:32 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +12
+02:02:33 : [-BRAHMA-] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na composição de Martelo_Assassino(Anct)
+02:02:37 : [-BRAHMA-] - Alq. Odin - 0 - Pergaminho_Selado [4127] [0 0 0 0 0 0] - 24
+02:02:37 : [-BRAHMA-] - Alq. Odin - 1 - Pergaminho_Selado [4127] [0 0 0 0 0 0] - 25
+02:02:37 : [-BRAHMA-] - Alq. Odin - 2 - Selo_Mágico [5135] [0 0 0 0 0 0] - 22
+02:02:37 : [-BRAHMA-] - Alq. Odin - 3 - Fehu [5113] [0 0 0 0 0 0] - 18
+02:02:37 : [-BRAHMA-] - Alq. Odin - 4 - Mannaz [5129] [0 0 0 0 0 0] - 19
+02:02:37 : [-BRAHMA-] - Alq. Odin - 5 - Thurisaz [5112] [0 0 0 0 0 0] - 20
+02:02:37 : [-BRAHMA-] - Alq. Odin - 6 - Ansuz [5110] [0 0 0 0 0 0] - 21
+02:02:37 : [-BRAHMA-] - [Mensagem do servidor]> Composição concluída!
+02:02:37 : [-BRAHMA-] - Composição de desbloqueio 40 efetuada com SUCESSO
+02:02:43 : [-BRAHMA-] - Clicado no NPC [Guarda Carga ]. Face 106. Race: 2. GenerateId: 3430. Posição do usuário: 3242x 1686y. Posição do NPC: 3244x 1688y
+02:02:47 : [-BRAHMA-] - Moveu item Selo_Mágico [5135] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 23 para tipo BANCO slot 0
+02:03:13 : [-BRAHMA-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +15
+02:03:14 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +13
+02:03:14 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +12
+02:03:29 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +13
+02:03:31 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +14
+02:03:32 : [-BRAHMA-] - Item Pedido_de_Caça(Kefra) [3436] [61 7 0 0 0 0] utilizado em 3260x 1704y
+02:03:32 : [-BRAHMA-] - Teleportado para a posição 2367 4024
+02:03:47 : [-BRAHMA-] - Teleportado para a posição 1314 1901
+02:03:47 : [-BRAHMA-] - Solicitado teleporte na posição 2367x 4074y e teleportado para 1314x 1901y
+02:03:50 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +14
+02:03:51 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +15
+02:03:58 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -PECADOS- obteve sucesso na refinação item +15
+02:03:58 : [-BRAHMA-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +12
+02:04:18 : [-BRAHMA-] - [Mensagem do servidor]: RhadamanthyS falhou a refinação de Neorion(Anct) para 12
+02:04:18 : [-BRAHMA-] - [Mensagem do servidor]: ErenJaeger falhou a refinação de Caliburn(Anct) para 13
+02:04:39 : [-BRAHMA-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +12
+02:04:59 : [-BRAHMA-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +13
+02:05:00 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +12
+02:05:29 : [-BRAHMA-] - Clicado no NPC [Angela]. Face 107. Race: 2. GenerateId: 4369. Posição do usuário: 965x 1771y. Posição do NPC: 963x 1773y
+02:05:44 : [-BRAHMA-] - Teleportado para a posição 2117 2102
+02:05:51 : [-BRAHMA-] - Item Pedra_da_Fúria [3020] [0 0 0 0 0 0] utilizado em 2122x 2112y
+02:05:57 : [-BRAHMA-] - Item Gema_da_Siren deletado [658] [0 0 0 0 0 0]. Slot 14
+02:06:02 : [-BRAHMA-] - Item Luvas(M) deletado [1351] [43 1 72 15 59 0]. Slot 16
+02:06:07 : [-BRAHMA-] - Item Luvas(M) deletado [1501] [43 0 72 10 59 0]. Slot 15
+02:06:12 : [-BRAHMA-] - Agrupando o item Poeira_de_Oriharucon [412] [0 0 0 0 0 0] com o item Poeira_de_Oriharucon [412] [61 217 0 0 0 0]
+02:06:12 : [-BRAHMA-] - O agrupamento foi efetuado de slot 17 tipo INVENTÁRIO para slot 11 tipo INVENTÁRIO
+02:06:52 : [-BRAHMA-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +14
+02:07:08 : [-BRAHMA-] - Teleportado para a posição 2482 1717
+02:07:12 : [-BRAHMA-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +15
+02:07:16 : [-BRAHMA-] - Teleportado para a posição 1969 1712
+02:07:16 : [-BRAHMA-] - Solicitado teleporte na posição 2453x 1718y e teleportado para 1969x 1712y
+02:07:47 : [-BRAHMA-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +13
+02:07:48 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +13
+02:07:49 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 240 0 0 0 0] utilizado em 1965x 1773y
+02:07:49 : [-BRAHMA-] - Teleportado para a posição 1341 3518
+02:07:49 : [-BRAHMA-] - Água 3182 - Grupo teleportado para a área. Entradas restantes: 1079
+02:08:00 : [-BRAHMA-] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:08:10 : [-BRAHMA-] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:08:10 : [-BRAHMA-] - Level UP para level 189. Ev: 2/2 - 1341x 3518y
+02:08:10 : [-BRAHMA-] - [Mensagem do servidor]: ErenJaeger falhou a refinação de Cythera_Mística para 14
+02:08:28 : [-BRAHMA-] - Recebeu 18354 de gold em 10 mobs no total. Total de gold: 1462735949
+02:08:32 : [-BRAHMA-] - [Mensagem do servidor]: Jogador ErenJaeger obteve sucesso na refinação item +13
+02:08:33 : [-BRAHMA-] - Item Frango_Assado [3314] [61 234 0 0 0 0] utilizado em 1343x 3510y
+02:08:33 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +14
+02:08:34 : [-BRAHMA-] - Item Baú_de_Experiência [4140] [61 234 0 0 0 0] utilizado em 1343x 3510y
+02:08:35 : [-BRAHMA-] - Item Baú_de_Caça [4139] [61 234 0 0 0 0] utilizado em 1343x 3510y
+02:08:37 : [-BRAHMA-] - Item Jóia_da_Resistência [3201] [61 78 0 0 0 0] utilizado em 1343x 3510y
+02:08:38 : [-BRAHMA-] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:08:51 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +15
+02:09:09 : [-BRAHMA-] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:09:17 : [-BRAHMA-] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:09:17 : [-BRAHMA-] - Recebeu 21923 de gold em 10 mobs no total. Total de gold: 1462757872
+02:09:24 : [-BRAHMA-] - [Mensagem do servidor]: RhadamanthyS falhou a refinação de Botas(A) para 13
+02:09:27 : [-BRAHMA-] - [Mensagem do servidor]: Jogador TriPeZao falhou a composição do item Cythera_Mística +10
+02:09:35 : [-BRAHMA-] - [Mensagem do servidor]: Jogador TriPeZao falhou a composição do item Cythera_Mística +10
+02:09:41 : [-BRAHMA-] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:09:41 : [-BRAHMA-] - Level UP para level 190. Ev: 2/2 - 1342x 3514y
+02:09:47 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +12
+02:09:49 : [-BRAHMA-] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:10:19 : [-BRAHMA-] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:10:21 : [-BRAHMA-] - Recebeu 21161 de gold em 10 mobs no total. Total de gold: 1462779033
+02:10:42 : [-BRAHMA-] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:11:03 : [-BRAHMA-] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:11:03 : [-BRAHMA-] - Level UP para level 191. Ev: 2/2 - 1343x 3516y
+02:11:25 : [-BRAHMA-] - Recebeu 21198 de gold em 10 mobs no total. Total de gold: 1462800231
+02:11:30 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +13
+02:11:40 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:11:45 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:11:46 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:11:48 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +14
+02:11:50 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:11:51 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:11:52 : [-BRAHMA-] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1343x 3516y - Assass. Tauron (1/1)
+02:11:54 : [-BRAHMA-] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1343x 3516y - Assass. Tauron (1/1)
+02:11:55 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:11:56 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:12:00 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:12:01 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:12:02 : [-BRAHMA-] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1343x 3516y - Assass. Tauron (1/1)
+02:12:05 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +15
+02:12:14 : [-BRAHMA-] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1343x 3516y. Teleportado para ""
+02:12:14 : [-BRAHMA-] - Teleportado para a posição 1965 1770
+02:12:23 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:23 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:25 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +13
+02:12:30 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:30 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:33 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:33 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:35 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:35 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:37 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:37 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:38 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:38 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:39 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:39 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:41 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:41 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:42 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:42 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:43 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:43 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:43 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:43 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:44 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:44 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:44 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:44 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:45 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:45 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:46 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:46 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:46 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:46 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:47 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:47 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:48 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:48 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:48 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:48 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:49 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:49 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:49 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Armadura(A) +10
+02:12:49 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:49 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:50 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:50 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:50 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:50 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:51 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:51 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:51 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:51 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:52 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:52 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:52 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:52 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:53 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:53 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:54 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:54 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:54 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:54 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:55 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:55 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:55 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:55 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:56 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:56 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:56 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:56 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:57 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:57 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:57 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:57 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:58 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:58 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:59 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:59 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:12:59 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:12:59 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:00 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:00 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:00 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:00 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:00 : [-BRAHMA-] - [Mensagem do servidor]: RhadamanthyS falhou a refinação de Calça(A) para 14
+02:13:01 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:01 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:01 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:01 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:02 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:02 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:02 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:02 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:03 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:03 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:03 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:03 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:04 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:04 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:04 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:04 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:05 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:05 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:06 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:06 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:06 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:06 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:07 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:07 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:07 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:07 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:08 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:08 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:08 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:08 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:09 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:09 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:09 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:09 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:10 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:10 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:11 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:11 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:11 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:11 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:12 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:12 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:12 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:12 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:13 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:13 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:13 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:13 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:14 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:14 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:14 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:14 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:15 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:15 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:16 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:16 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:16 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:16 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:17 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:17 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:17 : [-BRAHMA-] - [Mensagem do servidor]: RhadamanthyS falhou a refinação de Calça(A) para 13
+02:13:17 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:17 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:18 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:18 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:18 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:18 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:19 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:19 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:20 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:20 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:20 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:20 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:21 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:21 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:22 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:22 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:22 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:22 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:23 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:23 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:23 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:23 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:24 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:24 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:24 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:24 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:25 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:25 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:25 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:25 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:26 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:26 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:26 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:26 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:27 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 239 0 0 0 0] utilizado em 1965x 1775y
+02:13:27 : [-BRAHMA-] - Teleportado para a posição 1085 3518
+02:13:27 : [-BRAHMA-] - Água 3182 - Grupo teleportado para a área. Entradas restantes: 1078
+02:13:28 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1085x 3518y
+02:13:28 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:13:33 : [-BRAHMA-] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:13:38 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:13:42 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:13:43 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +12
+02:13:43 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:13:49 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:13:49 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Calça(A) +10
+02:13:50 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:13:54 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:13:55 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:14:00 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +13
+02:14:00 : [-BRAHMA-] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+02:14:00 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:14:00 : [-BRAHMA-] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:14:03 : [-BRAHMA-] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1085x 3518y - Ladrao Tauron  (1/1)
+02:14:05 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:14:08 : [-BRAHMA-] - Recebeu 21761 de gold em 10 mobs no total. Total de gold: 1462821992
+02:14:08 : [-BRAHMA-] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:14:09 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Calça(A) +10
+02:14:09 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:14:10 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:14:14 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:14:15 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:14:18 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +14
+02:14:19 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:14:20 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:14:24 : [-BRAHMA-] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1085x 3518y - Ladrao Tauron  (1/1)
+02:14:25 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:14:28 : [-BRAHMA-] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:14:28 : [-BRAHMA-] - Level UP para level 192. Ev: 2/2 - 1085x 3518y
+02:14:35 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:14:35 : [-BRAHMA-] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:14:36 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:14:49 : [-BRAHMA-] - Recebeu 22297 de gold em 10 mobs no total. Total de gold: 1462844289
+02:14:53 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +15
+02:14:56 : [-BRAHMA-] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:14:57 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:14:59 : [-BRAHMA-] - [Mensagem do servidor]: Mob foi derrotado por I-Zoe-I
+02:15:01 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:15:01 : [-BRAHMA-] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:15:02 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:15:17 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:15:21 : [-BRAHMA-] - Recebeu 22292 de gold em 10 mobs no total. Total de gold: 1462866581
+02:15:21 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:15:22 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:15:25 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +13
+02:15:26 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:15:27 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:15:27 : [-BRAHMA-] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:15:27 : [-BRAHMA-] - Level UP para level 193. Ev: 2/2 - 1085x 3518y
+02:15:43 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:15:46 : [-BRAHMA-] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:15:47 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:15:48 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:16:00 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Calça(A) +10
+02:16:02 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:16:07 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:16:07 : [-BRAHMA-] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:16:12 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:16:13 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:16:20 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Calça(A) +10
+02:16:25 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:16:26 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:16:28 : [-BRAHMA-] - Recebeu 21827 de gold em 10 mobs no total. Total de gold: 1462888408
+02:16:30 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:16:31 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:16:32 : [-BRAHMA-] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:16:35 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:16:36 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:16:39 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Calça(A) +10
+02:16:46 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:16:47 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:16:51 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:16:52 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:16:56 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:16:57 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:17:01 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:17:02 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:17:11 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:17:12 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:17:18 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:17:19 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:17:25 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:17:26 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:17:30 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:17:30 : [-BRAHMA-] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1085x 3518y - Ladrao Tauron  (1/1)
+02:17:31 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:17:35 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:17:36 : [-BRAHMA-] - Tentou enviar o pacote de ataque com o mesmo clientid
+02:17:40 : [-BRAHMA-] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1085x 3518y. Teleportado para ""
+02:17:40 : [-BRAHMA-] - Teleportado para a posição 1965 1770
+02:18:11 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +14
+02:18:17 : [-BRAHMA-] - [Mensagem do servidor]: Jogador -JalimRabei- falhou a composição do item Calça(A) +10
+02:18:20 : [-BRAHMA-] - Agrupando o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] com o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+02:18:20 : [-BRAHMA-] - O agrupamento foi efetuado de slot 20 tipo INVENTÁRIO para slot 15 tipo INVENTÁRIO
+02:18:22 : [-BRAHMA-] - Agrupando o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] com o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+02:18:22 : [-BRAHMA-] - O agrupamento foi efetuado de slot 19 tipo INVENTÁRIO para slot 18 tipo INVENTÁRIO
+02:18:24 : [-BRAHMA-] - Agrupando o item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] com o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+02:18:24 : [-BRAHMA-] - O agrupamento foi efetuado de slot 18 tipo INVENTÁRIO para slot 17 tipo INVENTÁRIO
+02:18:26 : [-BRAHMA-] - Agrupando o item Poeira_de_Lactolerium [413] [61 3 0 0 0 0] com o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+02:18:26 : [-BRAHMA-] - O agrupamento foi efetuado de slot 17 tipo INVENTÁRIO para slot 16 tipo INVENTÁRIO
+02:18:27 : [-BRAHMA-] - Agrupando o item Poeira_de_Lactolerium [413] [61 4 0 0 0 0] com o item Poeira_de_Lactolerium [413] [61 2 0 0 0 0]
+02:18:27 : [-BRAHMA-] - O agrupamento foi efetuado de slot 16 tipo INVENTÁRIO para slot 15 tipo INVENTÁRIO
+02:18:31 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +15
+02:19:00 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:00 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:01 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:01 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:02 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:02 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:03 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:03 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:04 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:04 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:04 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:04 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:05 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:05 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:06 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:06 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:06 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:06 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:07 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:07 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:08 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:08 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:09 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:09 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:09 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:09 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:10 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:10 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:10 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:10 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:11 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:11 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:12 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:12 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:12 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:12 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:13 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:13 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:14 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:14 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:14 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:14 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:15 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:15 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:15 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:15 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:16 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:16 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:17 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:17 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:17 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:17 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:17 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +13
+02:19:18 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:18 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:19 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:19 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:19 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:19 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:19 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:19 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:20 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:20 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:21 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:21 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:21 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:21 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:22 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:22 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:22 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:22 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:23 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:23 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:24 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:24 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:24 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:24 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:25 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:25 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:25 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:25 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:26 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:26 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:27 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:27 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:27 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:27 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:28 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:28 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:28 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:28 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:29 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:29 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:29 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:29 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:30 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:30 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:31 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:31 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:31 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:31 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:32 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:32 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:33 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:33 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:33 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:33 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:34 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:34 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:34 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:34 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:35 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:35 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:36 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:36 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:37 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:37 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:38 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:38 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:38 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:38 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:39 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:39 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:40 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:40 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:40 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:40 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:41 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:41 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:42 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:42 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:42 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:42 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:43 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:43 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:44 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:44 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:44 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:44 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:45 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:45 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:45 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:45 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:46 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:46 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:46 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:46 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:47 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:47 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:48 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:48 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:48 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:48 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:49 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:49 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:49 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:49 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:50 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:50 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:50 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:50 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:51 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:51 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:51 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:51 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:52 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:52 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:52 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:52 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:53 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:53 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:54 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:54 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:19:55 : [-BRAHMA-] - Item Pergaminho_da_Água(A)LV1 [3182] [61 238 0 0 0 0] utilizado em 1965x 1774y
+02:19:55 : [-BRAHMA-] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+02:20:00 : [-BRAHMA-] - [Mensagem do servidor]: Jogador RhadamanthyS obteve sucesso na refinação item +14
+02:20:02 : [-BRAHMA-] - GUINAS123 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+02:20:02 : [-BRAHMA-] - 23 Personagem foi desconectado. Permaneceu 00:25:36 minutos online
+02:20:02 : [-BRAHMA-] - Recebeu 4317 de gold em 2 mobs no total. Total de gold: 1462892725

@@ -1,0 +1,1628 @@
+
+11:43:50 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 11
+11:43:50 : Usuário logou no jogo com clientId 11. - Servidor 1. Gold do banco: 0
+11:43:50 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+11:43:51 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:43:55 : Solicitou ir ao mundo...
+11:43:55 : Recebido pedido para entrar no jogo
+11:43:55 : Recebido informação do personagem completa.
+11:43:55 : [LossNoia] - [INFORMAÇÕES DA CONTA]
+Personagem online: LossNoia
+Gold atual: 999999300
+Level atual: 6
+Experiência atual: 4945
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Grande_Fenrir[333] [0 0 0 0 0 0]
+[01] - Lobisomem[22] [0 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[11] - Javali[2361] [0 0 0 0 0 0]
+[12] - Javali[2361] [0 0 0 0 0 0]
+[13] - Javali[2361] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [93 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:43:55 : [LossNoia] - Personagem LossNoia enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 12
+11:43:55 : [LossNoia] - Gold atual: 999999300. Classe: 0 Evolução: 0. Experiência: 4945. Nível: 6. Info: 0. GuildID: 0. CP: 18. Pontos de Contribuição: 0. Limite: 0
+11:43:55 : [LossNoia] - Resetado a contagem de entradas água! Day: 0-275. Total: 0
+11:43:55 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:43:55 : [LossNoia] - Enviado informações do personagem
+11:43:56 : [LossNoia] - Comando "/day "
+11:43:56 : [LossNoia] - [Mensagem do servidor]> !#11 2
+11:44:00 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:44:02 : [LossNoia] - Comando "/gm +set 0 1"
+11:44:04 : [LossNoia] - Comando "/gm +set 0 22"
+11:44:09 : [LossNoia] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+11:44:10 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:44:20 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:44:31 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:44:40 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:44:51 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:45:01 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:45:11 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:45:18 : [LossNoia] - Comando "/gm +set 0 1"
+11:45:20 : [LossNoia] - Comando "/gm +set 0 22"
+11:45:21 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:45:21 : [LossNoia] - Comando "/gm +set 0 23"
+11:45:23 : [LossNoia] - Comando "/gm +set 0 24"
+11:45:24 : [LossNoia] - Comando "/gm +set 0 25"
+11:45:26 : [LossNoia] - Comando "/gm +set 0 26"
+11:45:27 : [LossNoia] - Comando "/gm +set 0 27"
+11:45:29 : [LossNoia] - Comando "/gm +set 0 28"
+11:45:30 : [LossNoia] - Comando "/gm +set 0 29"
+11:45:31 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:45:33 : [LossNoia] - Comando "/gm +set 0 30"
+11:45:34 : [LossNoia] - Comando "/gm +set 0 31"
+11:45:35 : [LossNoia] - Comando "/gm +set 0 32"
+11:45:36 : [LossNoia] - Comando "/gm +set 0 33"
+11:45:37 : [LossNoia] - Comando "/gm +set 0 34"
+11:45:38 : [LossNoia] - Comando "/gm +set 0 35"
+11:45:39 : [LossNoia] - Comando "/gm +set 0 36"
+11:45:40 : [LossNoia] - Comando "/gm +set 0 37"
+11:45:41 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:45:42 : [LossNoia] - Comando "/gm +set 0 38"
+11:45:43 : [LossNoia] - Comando "/gm +set 0 39"
+11:45:44 : [LossNoia] - Comando "/gm +set 0 40"
+11:45:46 : [LossNoia] - Comando "/gm +set 0 41"
+11:45:47 : [LossNoia] - Comando "/gm +set 0 42"
+11:45:48 : [LossNoia] - Comando "/gm +set 0 43"
+11:45:52 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:45:52 : [LossNoia] - Comando "/gm +set 0 44"
+11:45:52 : [LossNoia] - Comando "/gm +set 0 45"
+11:45:52 : [LossNoia] - Comando "/gm +set 0 46"
+11:45:52 : [LossNoia] - Comando "/gm +set 0 47"
+11:45:54 : [LossNoia] - Comando "/gm +set 0 48"
+11:45:55 : [LossNoia] - Comando "/gm +set 0 49"
+11:45:57 : [LossNoia] - Comando "/gm +set 0 50"
+11:45:59 : [LossNoia] - Comando "/gm +set 0 51"
+11:46:00 : [LossNoia] - Comando "/gm +set 0 52"
+11:46:02 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:46:05 : [LossNoia] - Comando "/gm +set 0 20"
+11:46:06 : [LossNoia] - Comando "/gm +set 0 21"
+11:46:07 : [LossNoia] - Comando "/gm +set 0 22"
+11:46:09 : [LossNoia] - Comando "/gm +set 0 23"
+11:46:12 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:46:22 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:46:32 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:46:42 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:46:50 : [LossNoia] - Comando "/gm +set 0 24"
+11:46:52 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:46:59 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4421
+11:46:59 : [LossNoia] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:47:02 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:47:02 : [LossNoia] - Comando "/gm +set 0 24"
+11:47:08 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4419
+11:47:08 : [LossNoia] - Pontos CP subiu em 3. CP novo: 96
+11:47:08 : [LossNoia] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:47:08 : [LossNoia] - Level UP para level 7. Ev: 0 - 2121x 2043y
+11:47:10 : [LossNoia] - [Mensagem do servidor]> Whisper : Off
+11:47:12 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:47:20 : [LossNoia] - Teleportado para a posição 1046 1725
+11:47:20 : [LossNoia] - Solicitado teleporte na posição 2117x 2100y e teleportado para 1046x 1725y
+11:47:22 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:47:23 : [LossNoia] - Comando "/gm +set 0 24"
+11:47:33 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:47:43 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:47:53 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:48:03 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:48:13 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:48:23 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:48:31 : [LossNoia] - Comando "/gm +armia"
+11:48:31 : [LossNoia] - Teleportado para a posição 2100 2100
+11:48:33 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:48:38 : [LossNoia] - Teleportado para a posição 1047 1726
+11:48:38 : [LossNoia] - Solicitado teleporte na posição 2116x 2101y e teleportado para 1047x 1726y
+11:48:44 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:48:50 : [LossNoia] - Comando "/gm +gelo"
+11:48:50 : [LossNoia] - Teleportado para a posição 3648 3117
+11:48:54 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:49:04 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:49:14 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:49:24 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:49:29 : [LossNoia] - Removido o Hp do mob Grande Lobo. HP removido: 0. HP Atual: 29000
+11:49:34 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:49:44 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:49:54 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:49:58 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:49:59 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:00 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:02 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:03 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:04 : [LossNoia] - Comando "/gm +set 0 24"
+11:50:04 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:04 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:50:05 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:06 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:07 : [LossNoia] - Ataque mais rápido que 900ms. Diferença 666
+11:50:08 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:08 : [LossNoia] - Comando "/gm +set 0 24"
+11:50:09 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:10 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:11 : [LossNoia] - Ataque mais rápido que 900ms. Diferença 699
+11:50:12 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:13 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:13 : [LossNoia] - Comando "/gm +set 0 24"
+11:50:14 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:15 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:50:16 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:17 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:18 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:19 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:20 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:21 : [LossNoia] - Comando "/gm +set 1 24"
+11:50:21 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:22 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:23 : [LossNoia] - Ataque mais rápido que 900ms. Diferença 874
+11:50:24 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:25 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:50:25 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:26 : [LossNoia] - Comando "/gm +set 0 24"
+11:50:26 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:27 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:28 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:29 : [LossNoia] - Removido o Hp do mob Gorila Anciao. HP removido: 0. HP Atual: 30000
+11:50:35 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:50:45 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:50:55 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:51:05 : [LossNoia] - Comando "/gm +armia"
+11:51:05 : [LossNoia] - Teleportado para a posição 2100 2100
+11:51:05 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:51:09 : [LossNoia] - Comando "/gm +set 0 22"
+11:51:15 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:51:16 : [LossNoia] - Teleportado para a posição 1046 1726
+11:51:16 : [LossNoia] - Solicitado teleporte na posição 2117x 2102y e teleportado para 1046x 1726y
+11:51:18 : [LossNoia] - Comando "/gm +set 0 22"
+11:51:25 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:51:32 : [LossNoia] - Comando "/gm +armia"
+11:51:32 : [LossNoia] - Teleportado para a posição 2100 2100
+11:51:35 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:51:46 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:51:46 : [LossNoia] - Ataque mais rápido que 900ms. Diferença 875
+11:51:47 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4422
+11:51:47 : [LossNoia] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:51:49 : [LossNoia] - Comando "/gm +armia"
+11:51:49 : [LossNoia] - Teleportado para a posição 2100 2100
+11:51:51 : [LossNoia] - Comando "/gm +set 0 22"
+11:51:53 : [LossNoia] - Comando "/gm +set 0 22"
+11:51:56 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:52:06 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:52:07 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4422
+11:52:07 : [LossNoia] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+11:52:09 : [LossNoia] - Comando "/gm +set 0 22"
+11:52:11 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4422
+11:52:11 : [LossNoia] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+11:52:13 : [LossNoia] - Comando "/gm +set 0 22"
+11:52:16 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:52:16 : [LossNoia] - Ataque mais rápido que 900ms. Diferença 883
+11:52:17 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4420
+11:52:17 : [LossNoia] - Pontos CP subiu em 3. CP novo: 99
+11:52:17 : [LossNoia] - [Mensagem do servidor]> + + + LEVEL UP + + +
+11:52:17 : [LossNoia] - Level UP para level 8. Ev: 0 - 2124x 2045y
+11:52:20 : [LossNoia] - Comando "/gm +set 0 22"
+11:52:21 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4423
+11:52:26 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:52:35 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4422
+11:52:35 : [LossNoia] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+11:52:37 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:52:47 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:52:57 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:53:07 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:53:17 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:53:27 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:53:37 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:53:47 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:53:58 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:54:08 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:54:18 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:54:19 : [LossNoia] - Comando "/gm +set 0 22"
+11:54:28 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:54:38 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:54:48 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:54:58 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:55:08 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:55:18 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:55:28 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:55:29 : [LossNoia] - Teleportado para a posição 1047 1725
+11:55:29 : [LossNoia] - Solicitado teleporte na posição 2117x 2102y e teleportado para 1047x 1725y
+11:55:34 : [LossNoia] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+11:55:34 : [LossNoia] - Personagem foi desconectado. Permaneceu 00:11:35 minutos online
+11:58:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 14
+11:58:30 : Usuário logou no jogo com clientId 14. - Servidor 1. Gold do banco: 0
+11:58:30 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+11:58:30 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:58:35 : Solicitou ir ao mundo...
+11:58:35 : Recebido pedido para entrar no jogo
+11:58:35 : Recebido informação do personagem completa.
+11:58:35 : [LossNoia] - [INFORMAÇÕES DA CONTA]
+Personagem online: LossNoia
+Gold atual: 999996500
+Level atual: 8
+Experiência atual: 7195
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[01] - Astaroth[24] [0 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[11] - Javali[2361] [0 0 0 0 0 0]
+[12] - Javali[2361] [0 0 0 0 0 0]
+[13] - Javali[2361] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [99 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+11:58:35 : [LossNoia] - Personagem LossNoia enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 16
+11:58:35 : [LossNoia] - Gold atual: 999996500. Classe: 0 Evolução: 0. Experiência: 7195. Nível: 8. Info: 0. GuildID: 0. CP: 24. Pontos de Contribuição: 0. Limite: 0
+11:58:35 : [LossNoia] - Resetado a contagem de entradas água! Day: 0-275. Total: 0
+11:58:35 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:58:35 : [LossNoia] - Enviado informações do personagem
+11:58:36 : [LossNoia] - Comando "/day "
+11:58:36 : [LossNoia] - [Mensagem do servidor]> !#11 2
+11:58:41 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:58:43 : [LossNoia] - Comando "/gm +set 0 22"
+11:58:46 : [LossNoia] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+11:58:51 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:59:01 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:59:11 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:59:22 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+11:59:32 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+11:59:42 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+11:59:52 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:00:02 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:00:12 : [LossNoia] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:00:12 : [LossNoia] - Personagem foi desconectado. Permaneceu 00:01:41 minutos online
+12:00:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 15
+12:00:23 : Usuário logou no jogo com clientId 15. - Servidor 1. Gold do banco: 0
+12:00:23 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:00:24 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:00:28 : Solicitou ir ao mundo...
+12:00:28 : Recebido pedido para entrar no jogo
+12:00:28 : Recebido informação do personagem completa.
+12:00:28 : [LossNoia] - [INFORMAÇÕES DA CONTA]
+Personagem online: LossNoia
+Gold atual: 999996500
+Level atual: 8
+Experiência atual: 7195
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[01] - Astaroth[24] [0 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[11] - Javali[2361] [0 0 0 0 0 0]
+[12] - Javali[2361] [0 0 0 0 0 0]
+[13] - Javali[2361] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [99 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:00:28 : [LossNoia] - Personagem LossNoia enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 16
+12:00:28 : [LossNoia] - Gold atual: 999996500. Classe: 0 Evolução: 0. Experiência: 7195. Nível: 8. Info: 0. GuildID: 0. CP: 24. Pontos de Contribuição: 0. Limite: 0
+12:00:28 : [LossNoia] - Resetado a contagem de entradas água! Day: 0-275. Total: 0
+12:00:28 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:00:28 : [LossNoia] - Enviado informações do personagem
+12:00:29 : [LossNoia] - Comando "/day "
+12:00:29 : [LossNoia] - [Mensagem do servidor]> !#11 2
+12:00:32 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:00:34 : [LossNoia] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:00:37 : [LossNoia] - Ataque mais rápido que 900ms. Diferença 347
+12:00:38 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4419
+12:00:38 : [LossNoia] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+12:00:43 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:00:43 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4421
+12:00:43 : [LossNoia] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+12:00:49 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4421
+12:00:49 : [LossNoia] - Pontos CP subiu em 3. CP novo: 102
+12:00:49 : [LossNoia] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:00:49 : [LossNoia] - Level UP para level 9. Ev: 0 - 2117x 2040y
+12:00:53 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:00:54 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4422
+12:00:56 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4419
+12:00:56 : [LossNoia] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+12:00:59 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4423
+12:00:59 : [LossNoia] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+12:01:02 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4419
+12:01:02 : [LossNoia] - Dropado item Calça_Pele_de_Animal(A) [1409] [43 0 71 70 60 10] em 2124x 2041y - Porco de Guerra (1/67)
+12:01:03 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:01:06 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4421
+12:01:06 : [LossNoia] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+12:01:13 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:01:23 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:01:33 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:01:43 : [LossNoia] - Comando "/gm +set 14 2365"
+12:01:43 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:01:51 : [LossNoia] - Comando "/gm +set 14 2366 10 10 10"
+12:01:53 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:02:03 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:02:14 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:02:20 : [LossNoia] - Comando "/gm +set 14 2367 10 10 10"
+12:02:24 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:02:34 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:02:44 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:02:54 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:03:04 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:03:04 : [LossNoia] - Teleportado para a posição 1046 1725
+12:03:04 : [LossNoia] - Solicitado teleporte na posição 2118x 2103y e teleportado para 1046x 1725y
+12:03:14 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:03:25 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:03:35 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:03:45 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:03:55 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:04:05 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:04:12 : [LossNoia] - Ataque mais rápido que 900ms. Diferença 765
+12:04:15 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:04:25 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:04:34 : [LossNoia] - Ataque mais rápido que 900ms. Diferença 632
+12:04:35 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:04:46 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:04:56 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:05:06 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:05:10 : [LossNoia] - Comando "/gm +set 14 2367 10 10 10"
+12:05:15 : [LossNoia] - Comando "/gm +set 14 2367 10 10 10"
+12:05:16 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:05:21 : [LossNoia] - Comando "/gm +set 14 2367 10 10 10"
+12:05:26 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:05:36 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:05:47 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:05:57 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:06:07 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:06:17 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:06:27 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:06:37 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:06:47 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:06:57 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:07:07 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:07:18 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:07:28 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:07:38 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:07:48 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:07:58 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:08:08 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:08:18 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:08:28 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:08:39 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:08:49 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:08:59 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:09:09 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:09:19 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:09:29 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:09:40 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:09:50 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:10:00 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:10:10 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:10:20 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:10:30 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:10:40 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:10:50 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:11:00 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:11:11 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:11:21 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:11:31 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:11:36 : [LossNoia] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:11:36 : [LossNoia] - Personagem foi desconectado. Permaneceu 00:11:03 minutos online
+12:11:43 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 17
+12:11:43 : Usuário logou no jogo com clientId 17. - Servidor 1. Gold do banco: 0
+12:11:43 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:11:44 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:11:49 : Solicitou ir ao mundo...
+12:11:49 : Recebido pedido para entrar no jogo
+12:11:49 : Recebido informação do personagem completa.
+12:11:49 : [LossNoia] - [INFORMAÇÕES DA CONTA]
+Personagem online: LossNoia
+Gold atual: 999995800
+Level atual: 9
+Experiência atual: 9095
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[01] - Astaroth[24] [0 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[11] - Javali[2361] [0 0 0 0 0 0]
+[12] - Javali[2361] [0 0 0 0 0 0]
+[13] - Javali[2361] [0 0 0 0 0 0]
+[14] - Cavalo_Fantasm_N[2367] [10 10 10 0 0 0]
+
+[INVENTÁRIO]
+[00] - Calça_Pele_de_Animal(A)[1409] [43 0 71 70 60 10]
+[63] - Marca_do_Assassino[547] [102 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:11:49 : [LossNoia] - Personagem LossNoia enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 38
+12:11:49 : [LossNoia] - Gold atual: 999995800. Classe: 0 Evolução: 0. Experiência: 9095. Nível: 9. Info: 0. GuildID: 0. CP: 27. Pontos de Contribuição: 0. Limite: 0
+12:11:49 : [LossNoia] - Resetado a contagem de entradas água! Day: 0-275. Total: 0
+12:11:49 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:11:49 : [LossNoia] - Enviado informações do personagem
+12:11:50 : [LossNoia] - Comando "/day "
+12:11:50 : [LossNoia] - [Mensagem do servidor]> !#11 2
+12:11:51 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:11:56 : [LossNoia] - Comando "/gm +set 0 22"
+12:11:58 : [LossNoia] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:12:01 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:12:11 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:12:21 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:12:32 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:12:34 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4421
+12:12:34 : [LossNoia] - Pontos CP subiu em 3. CP novo: 105
+12:12:34 : [LossNoia] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:12:34 : [LossNoia] - Level UP para level 10. Ev: 0 - 2115x 2040y
+12:12:42 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:12:52 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:13:02 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:13:12 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:13:22 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:13:32 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:13:42 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:13:51 : [LossNoia] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:13:51 : [LossNoia] - Personagem foi desconectado. Permaneceu 00:02:07 minutos online
+12:14:00 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 18
+12:14:00 : Usuário logou no jogo com clientId 18. - Servidor 1. Gold do banco: 0
+12:14:00 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:14:00 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:14:05 : Solicitou ir ao mundo...
+12:14:05 : Recebido pedido para entrar no jogo
+12:14:05 : Recebido informação do personagem completa.
+12:14:05 : [LossNoia] - [INFORMAÇÕES DA CONTA]
+Personagem online: LossNoia
+Gold atual: 999995800
+Level atual: 10
+Experiência atual: 9325
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[01] - Astaroth[24] [0 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[11] - Javali[2361] [0 0 0 0 0 0]
+[12] - Javali[2361] [0 0 0 0 0 0]
+[13] - Javali[2361] [0 0 0 0 0 0]
+[14] - Cavalo_Fantasm_N[2367] [10 10 10 0 0 0]
+
+[INVENTÁRIO]
+[00] - Calça_Pele_de_Animal(A)[1409] [43 0 71 70 60 10]
+[63] - Marca_do_Assassino[547] [105 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:14:05 : [LossNoia] - Personagem LossNoia enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 40
+12:14:05 : [LossNoia] - Gold atual: 999995800. Classe: 0 Evolução: 0. Experiência: 9325. Nível: 10. Info: 0. GuildID: 0. CP: 30. Pontos de Contribuição: 0. Limite: 0
+12:14:05 : [LossNoia] - Resetado a contagem de entradas água! Day: 0-275. Total: 0
+12:14:05 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:14:05 : [LossNoia] - Enviado informações do personagem
+12:14:06 : [LossNoia] - Comando "/day "
+12:14:06 : [LossNoia] - [Mensagem do servidor]> !#11 2
+12:14:10 : [LossNoia] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:14:10 : [LossNoia] - Comando "/gm +set 0 22"
+12:14:13 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:14:23 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:14:31 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4419
+12:14:33 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:14:35 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4422
+12:14:35 : [LossNoia] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+12:14:38 : [LossNoia] - Comando "/gm +set 0 22"
+12:14:41 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4421
+12:14:43 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:14:50 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4421
+12:14:50 : [LossNoia] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+12:14:50 : [LossNoia] - Dropado item Calça_Acolchoada(A) [1559] [43 0 71 50 59 0] em 2119x 2041y - Porco de Guerra (1/89)
+12:14:53 : [LossNoia] - Comando "/gm +set 0 22"
+12:14:53 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:14:55 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4423
+12:14:57 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4419
+12:14:57 : [LossNoia] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+12:15:00 : [LossNoia] - Comando "/gm +set 0 22"
+12:15:03 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4423
+12:15:03 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:15:06 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4422
+12:15:06 : [LossNoia] - Pontos CP subiu em 3. CP novo: 108
+12:15:06 : [LossNoia] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:15:06 : [LossNoia] - Level UP para level 11. Ev: 0 - 2121x 2044y
+12:15:09 : [LossNoia] - Comando "/gm +set 0 22"
+12:15:10 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4419
+12:15:14 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:15:15 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4423
+12:15:15 : [LossNoia] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+12:15:24 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:15:24 : [LossNoia] - Personagem deu personagem
+12:15:37 : Solicitou ir ao mundo...
+12:15:37 : Recebido pedido para entrar no jogo
+12:15:37 : Recebido informação do personagem completa.
+12:15:37 : [frfrf] - [INFORMAÇÕES DA CONTA]
+Personagem online: frfrf
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:36 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:15:37 : [frfrf] - Personagem frfrf enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+12:15:37 : [frfrf] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:15:37 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:15:37 : [frfrf] - Enviado informações do personagem
+12:15:38 : [frfrf] - Comando "/day "
+12:15:38 : [frfrf] - [Mensagem do servidor]> !#11 2
+12:15:44 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:15:46 : [frfrf] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:15:54 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:15:59 : [frfrf] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+12:15:59 : [frfrf] - Personagem foi desconectado. Permaneceu 00:01:57 minutos online
+12:16:09 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 19
+12:16:09 : Usuário logou no jogo com clientId 19. - Servidor 1. Gold do banco: 0
+12:16:09 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+12:16:09 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:16:13 : Solicitou ir ao mundo...
+12:16:13 : Recebido pedido para entrar no jogo
+12:16:13 : Recebido informação do personagem completa.
+12:16:13 : [frfrf] - [INFORMAÇÕES DA CONTA]
+Personagem online: frfrf
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:16:13 : [frfrf] - Personagem frfrf enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+12:16:13 : [frfrf] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+12:16:14 : [frfrf] - Resetado a contagem de entradas água! Day: 0-275. Total: 0
+12:16:14 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:16:14 : [frfrf] - Enviado informações do personagem
+12:16:14 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:16:14 : [frfrf] - Comando "/day "
+12:16:14 : [frfrf] - [Mensagem do servidor]> !#11 2
+12:16:22 : [frfrf] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+12:16:24 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:16:26 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4421
+12:16:26 : [frfrf] - Pontos CP subiu em 3. CP novo: 78
+12:16:26 : [frfrf] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:16:26 : [frfrf] - Level UP para level 1. Ev: 0 - 2115x 2046y
+12:16:34 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:16:45 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:16:53 : [frfrf] - ApplyPoint RequestSkill out of bound
+12:16:55 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:17:05 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:17:08 : [frfrf] - Comando "/relo "
+12:17:08 : [frfrf] - [Mensagem do servidor]> Este personagem não está conectado.
+12:17:15 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:17:19 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4422
+12:17:19 : [frfrf] - Pontos CP subiu em 3. CP novo: 81
+12:17:19 : [frfrf] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:17:19 : [frfrf] - Level UP para level 2. Ev: 0 - 2121x 2046y
+12:17:19 : [frfrf] - Pontos CP subiu em 3. CP novo: 84
+12:17:19 : [frfrf] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:17:19 : [frfrf] - Level UP para level 3. Ev: 0 - 2121x 2046y
+12:17:22 : [frfrf] - Ataque mais rápido que 900ms. Diferença 750
+12:17:24 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4419
+12:17:24 : [frfrf] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+12:17:25 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:17:29 : [frfrf] - Ataque mais rápido que 900ms. Diferença 581
+12:17:31 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4420
+12:17:31 : [frfrf] - Pontos CP subiu em 3. CP novo: 87
+12:17:31 : [frfrf] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:17:31 : [frfrf] - Level UP para level 4. Ev: 0 - 2125x 2045y
+12:17:33 : [frfrf] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 4407. Posição do usuário: 2127x 2040y. Posição do NPC: 2133x 2032y
+12:17:34 : [frfrf] - Ataque mais rápido que 900ms. Diferença 842
+12:17:35 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4423
+12:17:35 : [frfrf] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+12:17:35 : [frfrf] - Pontos CP subiu em 3. CP novo: 90
+12:17:35 : [frfrf] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:17:35 : [frfrf] - Level UP para level 5. Ev: 0 - 2127x 2040y
+12:17:35 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:17:36 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4425
+12:17:36 : [frfrf] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+12:17:37 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4424
+12:17:37 : [frfrf] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+12:17:37 : [frfrf] - Dropado item Jaqueta_Acolchoada(A) [1556] [43 0 71 50 2 18] em 2128x 2035y - Porco de Guerra (1/67)
+12:17:42 : [frfrf] - Matou o mob Aguia. GenerID: 4427
+12:17:42 : [frfrf] - Pontos CP subiu em 3. CP novo: 93
+12:17:42 : [frfrf] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:17:42 : [frfrf] - Level UP para level 6. Ev: 0 - 2133x 2028y
+12:17:43 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4427
+12:17:43 : [frfrf] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+12:17:44 : [frfrf] - Matou o mob Aguia. GenerID: 4429
+12:17:44 : [frfrf] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+12:17:45 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:17:45 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4429
+12:17:45 : [frfrf] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+12:17:47 : [frfrf] - Matou o mob Aguia. GenerID: 4428
+12:17:47 : [frfrf] - Pontos CP subiu em 3. CP novo: 96
+12:17:47 : [frfrf] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:17:47 : [frfrf] - Level UP para level 7. Ev: 0 - 2135x 2024y
+12:17:48 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4428
+12:17:48 : [frfrf] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+12:17:49 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4429
+12:17:49 : [frfrf] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+12:17:50 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4432
+12:17:50 : [frfrf] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+12:17:52 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4427
+12:17:52 : [frfrf] - Pontos CP subiu em 3. CP novo: 99
+12:17:52 : [frfrf] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:17:52 : [frfrf] - Level UP para level 8. Ev: 0 - 2134x 2028y
+12:17:53 : [frfrf] - Matou o mob Aguia. GenerID: 4427
+12:17:53 : [frfrf] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+12:17:55 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4426
+12:17:56 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:17:57 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4424
+12:17:57 : [frfrf] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+12:17:59 : [frfrf] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 5. Distância 2: 5. Range: 1.
+12:17:59 : [frfrf] - Ataque mais rápido que 900ms. Diferença 506
+12:18:00 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4425
+12:18:00 : [frfrf] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+12:18:00 : [frfrf] - Dropado item Calça_de_Couro_Duro(A) [1130] [43 1 71 40 60 4] em 2126x 2034y - Porco de Guerra (1/300)
+12:18:01 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4423
+12:18:01 : [frfrf] - Pontos CP subiu em 3. CP novo: 102
+12:18:01 : [frfrf] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:18:01 : [frfrf] - Level UP para level 9. Ev: 0 - 2126x 2034y
+12:18:03 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4424
+12:18:05 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4435
+12:18:05 : [frfrf] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+12:18:06 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:18:07 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4435
+12:18:07 : [frfrf] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+12:18:07 : [frfrf] - Ataque mais rápido que 900ms. Diferença 179
+12:18:09 : [frfrf] - Matou o mob Aguia. GenerID: 4435
+12:18:13 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4434
+12:18:13 : [frfrf] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+12:18:13 : [frfrf] - Ataque mais rápido que 900ms. Diferença 744
+12:18:14 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4434
+12:18:14 : [frfrf] - Pontos CP subiu em 3. CP novo: 105
+12:18:14 : [frfrf] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:18:14 : [frfrf] - Level UP para level 10. Ev: 0 - 2122x 2024y
+12:18:16 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:18:16 : [frfrf] - Matou o mob Aguia. GenerID: 4435
+12:18:17 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4435
+12:18:17 : [frfrf] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+12:18:26 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:18:27 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4435
+12:18:28 : [frfrf] - Matou o mob Aguia. GenerID: 4435
+12:18:29 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4435
+12:18:29 : [frfrf] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+12:18:34 : [frfrf] - Matou o mob Aguia. GenerID: 4431
+12:18:34 : [frfrf] - Dropado item Botas_de_Couro_Duro(A) [1154] [43 1 73 30 59 0] em 2141x 2029y - Aguia (1/30)
+12:18:35 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4431
+12:18:35 : [frfrf] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+12:18:36 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:18:37 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4430
+12:18:38 : [frfrf] - Matou o mob Aguia. GenerID: 4430
+12:18:38 : [frfrf] - Pontos CP subiu em 3. CP novo: 108
+12:18:38 : [frfrf] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:18:38 : [frfrf] - Level UP para level 11. Ev: 0 - 2140x 2021y
+12:18:38 : [frfrf] - Dropado item Sapatos_Pele_de_Animal(A) [1415] [43 0 73 24 59 0] em 2140x 2021y - Aguia (1/30)
+12:18:40 : [frfrf] - Matou o mob Aguia. GenerID: 4429
+12:18:42 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4428
+12:18:43 : [frfrf] - Matou o mob Aguia. GenerID: 4428
+12:18:43 : [frfrf] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+12:18:44 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4427
+12:18:46 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:18:46 : [frfrf] - Matou o mob Aguia. GenerID: 4434
+12:18:46 : [frfrf] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+12:18:48 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4428
+12:18:49 : [frfrf] - Matou o mob Aguia. GenerID: 4428
+12:18:51 : [frfrf] - Matou o mob Aguia. GenerID: 4431
+12:18:51 : [frfrf] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+12:18:52 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4429
+12:18:53 : [frfrf] - Matou o mob Aguia. GenerID: 4429
+12:18:53 : [frfrf] - Dropado item Chapéu_Pele_de_Animal(A) [1403] [43 0 26 12 59 0] em 2139x 2026y - Aguia (1/30)
+12:18:55 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4431
+12:18:55 : [frfrf] - Pontos CP subiu em 3. CP novo: 111
+12:18:55 : [frfrf] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:18:55 : [frfrf] - Level UP para level 12. Ev: 0 - 2142x 2027y
+12:18:55 : [frfrf] - Dropado item Calça_Acolchoada(A) [1559] [43 1 71 60 59 0] em 2142x 2027y - Porco de Guerra (1/89)
+12:18:56 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:18:57 : [frfrf] - Matou o mob Aguia. GenerID: 4427
+12:18:57 : [frfrf] - Dropado item Chapéu_Pele_de_Animal(A) [1403] [43 0 59 0 3 25] em 2136x 2027y - Aguia (1/30)
+12:18:59 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4430
+12:19:00 : [frfrf] - Matou o mob Aguia. GenerID: 4430
+12:19:00 : [frfrf] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+12:19:00 : [frfrf] - Dropado item Jaqueta_Acolchoada(A) [1556] [43 1 71 50 2 18] em 2141x 2022y - Aguia (1/30)
+12:19:02 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4431
+12:19:04 : [frfrf] - Matou o mob Aguia. GenerID: 4431
+12:19:05 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4429
+12:19:06 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:19:11 : [frfrf] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 5. Distância 2: 5. Range: 1.
+12:19:12 : [frfrf] - Matou o mob Aguia. GenerID: 4429
+12:19:12 : [frfrf] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+12:19:13 : [frfrf] - Matou o mob Aguia. GenerID: 4427
+12:19:15 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4427
+12:19:16 : [frfrf] - Matou o mob Aguia. GenerID: 4431
+12:19:16 : [frfrf] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+12:19:16 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:19:17 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4431
+12:19:22 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4424
+12:19:23 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4435
+12:19:23 : [frfrf] - Pontos CP subiu em 3. CP novo: 114
+12:19:23 : [frfrf] - [Mensagem do servidor]> + + + LEVEL UP + + +
+12:19:23 : [frfrf] - Level UP para level 13. Ev: 0 - 2123x 2029y
+12:19:24 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4424
+12:19:26 : [frfrf] - Matou o mob Aguia. GenerID: 4434
+12:19:27 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:19:28 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4435
+12:19:30 : [frfrf] - Matou o mob Aguia. GenerID: 4437
+12:19:31 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4437
+12:19:31 : [frfrf] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+12:19:33 : [frfrf] - Matou o mob Aguia. GenerID: 4439
+12:19:34 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4439
+12:19:37 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:19:40 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4435
+12:19:41 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4434
+12:19:41 : [frfrf] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+12:19:41 : [frfrf] - Dropado item Robe_Pele_de_Animal(A) [1406] [43 0 71 40 59 0] em 2124x 2023y - Porco de Guerra (1/67)
+12:19:43 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4426
+12:19:47 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:19:52 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4422
+12:19:53 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4420
+12:19:53 : [frfrf] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+12:19:55 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4419
+12:19:57 : [frfrf] - Matou o mob Porco de Guerra. GenerID: 4423
+12:19:57 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:19:59 : [frfrf] - [Mensagem do servidor]> Guild Chatting : Off
+12:20:07 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:20:17 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:20:21 : [frfrf] - ApplyPoint RequestSkill out of bound
+12:20:24 : [frfrf] - ApplyPoint RequestSkill out of bound
+12:20:25 : [frfrf] - ApplyPoint RequestSkill out of bound
+12:20:27 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:20:29 : [frfrf] - ApplyPoint RequestSkill out of bound
+12:20:35 : [frfrf] - ApplyPoint RequestSkill out of bound
+12:20:37 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:20:48 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:20:58 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:21:08 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:21:18 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:21:28 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:21:38 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:21:48 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:21:59 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:22:09 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:22:19 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:22:29 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:22:39 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:22:49 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:22:59 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:23:10 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:23:20 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:23:30 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:23:40 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:23:50 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:24:00 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:24:10 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:24:20 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:24:30 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:24:41 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:24:51 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:25:01 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:25:11 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:25:21 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:25:31 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:25:41 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:25:52 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:26:02 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:26:12 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:26:22 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:26:32 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:26:42 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:26:52 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:27:02 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:27:13 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:27:23 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:27:33 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:27:43 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:27:53 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:28:03 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:28:14 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:28:24 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:28:34 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:28:44 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:28:54 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:29:04 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:29:14 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:29:24 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:29:34 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:29:45 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:29:55 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:30:05 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:30:15 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:30:25 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:30:35 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:30:45 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:30:55 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:31:05 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:31:15 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:31:26 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:31:36 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:31:46 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:31:56 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:32:06 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:32:16 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:32:26 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:32:37 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:32:47 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:32:57 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:33:07 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:33:17 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:33:28 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:33:38 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:33:48 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:33:58 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:34:09 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:34:19 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:34:29 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:34:39 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:34:49 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:34:59 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:35:09 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:35:19 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:35:30 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:35:40 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:35:50 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:36:00 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:36:10 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:36:20 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:36:30 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:36:40 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:36:50 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:37:01 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:37:11 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:37:21 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:37:31 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:37:41 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:37:51 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:38:01 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:38:12 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:38:22 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:38:32 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:38:42 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:38:52 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:39:02 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:39:12 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:39:22 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:39:33 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:39:43 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:39:53 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:40:03 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:40:13 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:40:23 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:40:33 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:40:43 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:40:54 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:41:04 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:41:14 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:41:24 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:41:34 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:41:44 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:41:54 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:42:05 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:42:15 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:42:25 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:42:35 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:42:45 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:42:55 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:43:05 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:43:15 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:43:25 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:43:36 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:43:46 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:43:56 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:44:06 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:44:16 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:44:26 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:44:36 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:44:46 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:44:57 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:45:07 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:45:17 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:45:27 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:45:37 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:45:47 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:45:57 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:46:08 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:46:14 : [frfrf] - [INFORMAÇÕES DA CONTA]
+Personagem online: frfrf
+Gold atual: 0
+Level atual: 13
+Experiência atual: 17325
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:44 horas
+Posição atual: 2078x 2125y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Jaqueta_Acolchoada(A)[1556] [43 0 71 50 2 18]
+[01] - Calça_de_Couro_Duro(A)[1130] [43 1 71 40 60 4]
+[02] - Botas_de_Couro_Duro(A)[1154] [43 1 73 30 59 0]
+[03] - Sapatos_Pele_de_Animal(A)[1415] [43 0 73 24 59 0]
+[04] - Chapéu_Pele_de_Animal(A)[1403] [43 0 26 12 59 0]
+[05] - Calça_Acolchoada(A)[1559] [43 1 71 60 59 0]
+[06] - Chapéu_Pele_de_Animal(A)[1403] [43 0 59 0 3 25]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 1 71 50 2 18]
+[08] - Robe_Pele_de_Animal(A)[1406] [43 0 71 40 59 0]
+[63] - Marca_do_Assassino[547] [114 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+12:46:18 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:46:28 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:46:38 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:46:48 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:46:58 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:47:08 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:47:18 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:47:29 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:47:39 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:47:49 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:47:59 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:48:09 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:48:19 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:48:29 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:48:39 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:48:50 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:48:59 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:49:10 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:49:20 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:49:30 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:49:40 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:49:50 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:50:00 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:50:10 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:50:20 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:50:31 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:50:41 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:50:51 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:51:01 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:51:11 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:51:21 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:51:31 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:51:41 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:51:51 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:52:02 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:52:12 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:52:22 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:52:32 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:52:42 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:52:52 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:53:02 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:53:12 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:53:23 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:53:33 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:53:43 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:53:53 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:54:03 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:54:13 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:54:23 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:54:33 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:54:44 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:54:54 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:55:04 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:55:14 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:55:24 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:55:34 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:55:44 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:55:54 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:56:04 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:56:14 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:56:25 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:56:35 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:56:45 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:56:55 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:57:05 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:57:15 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:57:25 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:57:36 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:57:46 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:57:56 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:58:06 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:58:16 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:58:26 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:58:36 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:58:47 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:58:57 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:59:07 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:59:17 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:59:27 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+12:59:37 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+12:59:48 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+12:59:58 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:00:08 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:00:18 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:00:28 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:00:38 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:00:48 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:00:59 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:01:09 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:01:19 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:01:29 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:01:39 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:01:49 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:01:59 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:02:09 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:02:20 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:02:30 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:02:40 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:02:50 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:03:00 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:03:10 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:03:21 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:03:31 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:03:41 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:03:51 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:04:01 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:04:11 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:04:22 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:04:32 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:04:42 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:04:52 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:05:02 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:05:12 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:05:22 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:05:33 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:05:43 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:05:53 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:06:03 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:06:13 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:06:23 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:06:33 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:06:43 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:06:54 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:07:04 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:07:14 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:07:24 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:07:34 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:07:44 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:07:55 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:08:05 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:08:15 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:08:25 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:08:35 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:08:45 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:08:55 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:09:05 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:09:16 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:09:26 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:09:36 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:09:46 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:09:56 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:10:06 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:10:16 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:10:26 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:10:37 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:10:47 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:10:57 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:11:07 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:11:17 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:11:27 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:11:37 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:11:48 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:11:58 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:12:08 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:12:18 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:12:28 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:12:38 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:12:49 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:12:59 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:13:09 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:13:19 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:13:29 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:13:39 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:13:49 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:13:59 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:14:10 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:14:20 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:14:30 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:14:40 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:14:50 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:15:00 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:15:10 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:15:20 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:15:31 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:15:41 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:15:51 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:16:01 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:16:11 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:16:15 : [frfrf] - [INFORMAÇÕES DA CONTA]
+Personagem online: frfrf
+Gold atual: 0
+Level atual: 13
+Experiência atual: 17325
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:59:21 horas
+Posição atual: 2078x 2125y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Jaqueta_Acolchoada(A)[1556] [43 0 71 50 2 18]
+[01] - Calça_de_Couro_Duro(A)[1130] [43 1 71 40 60 4]
+[02] - Botas_de_Couro_Duro(A)[1154] [43 1 73 30 59 0]
+[03] - Sapatos_Pele_de_Animal(A)[1415] [43 0 73 24 59 0]
+[04] - Chapéu_Pele_de_Animal(A)[1403] [43 0 26 12 59 0]
+[05] - Calça_Acolchoada(A)[1559] [43 1 71 60 59 0]
+[06] - Chapéu_Pele_de_Animal(A)[1403] [43 0 59 0 3 25]
+[07] - Jaqueta_Acolchoada(A)[1556] [43 1 71 50 2 18]
+[08] - Robe_Pele_de_Animal(A)[1406] [43 0 71 40 59 0]
+[63] - Marca_do_Assassino[547] [114 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:16:21 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:16:31 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:16:42 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:16:52 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:17:02 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:17:12 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:17:22 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:17:32 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:17:42 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:17:53 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:18:03 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:18:13 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:18:23 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:18:33 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:18:43 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:18:53 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:19:04 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:19:14 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:19:24 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:19:34 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:19:44 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:19:54 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:20:04 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:20:14 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:20:24 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:20:35 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:20:45 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:20:55 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:21:05 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:21:15 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:21:25 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:21:35 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:21:45 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:21:56 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:22:06 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:22:16 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:22:26 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:22:36 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:22:46 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:22:56 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:23:06 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:23:17 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:23:27 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:23:37 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:23:47 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:23:57 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:24:07 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:24:17 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:24:28 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:24:38 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:24:49 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:24:59 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:25:09 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:25:19 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:25:29 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:25:39 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:25:50 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:25:59 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:26:10 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:26:20 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:26:30 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:26:40 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:26:50 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:27:00 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:27:11 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:27:21 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:27:31 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:27:41 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:27:51 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:28:01 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:28:11 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:28:22 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:28:32 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:28:42 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:28:52 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:29:02 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:29:12 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:29:22 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:29:32 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:29:43 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:29:53 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:30:03 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:30:13 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:30:23 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:30:33 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:30:43 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:30:53 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:31:04 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:31:14 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:31:24 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:31:34 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:31:44 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:31:54 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:32:04 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:32:14 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:32:24 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:32:35 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:32:45 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:32:55 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:33:05 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:33:15 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:33:25 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:33:35 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:33:46 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:33:56 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:34:06 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:34:16 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:34:26 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:34:36 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:34:46 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:34:56 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:35:07 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:35:17 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:35:27 : [frfrf] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+13:35:37 : [frfrf] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+13:35:47 : [frfrf] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+13:35:53 : [frfrf] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:35:53 : [frfrf] - Personagem foi desconectado. Permaneceu 01:18:44 minutos online
+21:53:33 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 80.103.120.181 Mac: (E4:85:11:E9:7D:40). ClientId: 22
+21:53:33 : Usuário logou no jogo com clientId 22. - Servidor 1. Gold do banco: 0
+21:53:33 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+21:53:33 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:53:41 : Solicitou ir ao mundo...
+21:53:41 : Recebido pedido para entrar no jogo
+21:53:41 : Recebido informação do personagem completa.
+21:53:41 : [LossNoia] - [INFORMAÇÕES DA CONTA]
+Personagem online: LossNoia
+Gold atual: 999995800
+Level atual: 11
+Experiência atual: 11395
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[01] - Astaroth[24] [0 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[11] - Javali[2361] [0 0 0 0 0 0]
+[12] - Javali[2361] [0 0 0 0 0 0]
+[13] - Javali[2361] [0 0 0 0 0 0]
+[14] - Cavalo_Fantasm_N[2367] [10 10 10 0 0 0]
+
+[INVENTÁRIO]
+[00] - Calça_Pele_de_Animal(A)[1409] [43 0 71 70 60 10]
+[01] - Calça_Acolchoada(A)[1559] [43 0 71 50 59 0]
+[63] - Marca_do_Assassino[547] [108 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:53:41 : [LossNoia] - Personagem LossNoia enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 42
+21:53:41 : [LossNoia] - Gold atual: 999995800. Classe: 0 Evolução: 0. Experiência: 11395. Nível: 11. Info: 0. GuildID: 0. CP: 33. Pontos de Contribuição: 0. Limite: 0
+21:53:41 : [LossNoia] - Resetado a contagem de entradas água! Day: 0-275. Total: 0
+21:53:41 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+21:53:41 : [LossNoia] - Enviado informações do personagem
+21:53:42 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+21:53:42 : [LossNoia] - Comando "/day "
+21:53:42 : [LossNoia] - [Mensagem do servidor]> !#11 2
+21:53:46 : [LossNoia] - Matou o mob Porco de Guerra. GenerID: 4421
+21:53:52 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+21:53:54 : [LossNoia] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:53:55 : [LossNoia] - Comando "/gm +set level 200"
+21:54:02 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+21:54:12 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+21:54:23 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+21:54:33 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+21:54:43 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+21:54:45 : [LossNoia] - ApplyPoint RequestSkill out of bound
+21:54:47 : [LossNoia] - ApplyPoint RequestSkill out of bound
+21:54:53 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+21:55:03 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+21:55:10 : [LossNoia] - Teleportado para a posição 1046 1725
+21:55:10 : [LossNoia] - Solicitado teleporte na posição 2117x 2103y e teleportado para 1046x 1725y
+21:55:13 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+21:55:23 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+21:55:34 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+21:55:44 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+21:55:45 : [LossNoia] - Comando "/gm +set 0 22"
+21:55:54 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+21:56:04 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+21:56:14 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+21:56:24 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+21:56:35 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+21:56:45 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+21:56:55 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+21:56:57 : [LossNoia] - Comando "/gm +armia"
+21:56:57 : [LossNoia] - Teleportado para a posição 2100 2100
+21:57:04 : [LossNoia] - Moveu item Cavalo_Fantasm_N [2367] [10 10 10 0 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+21:57:05 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+21:57:08 : [LossNoia] - Comando "/gm +set 0 22"
+21:57:15 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+21:57:25 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+21:57:33 : [LossNoia] - Teleportado para a posição 1046 1725
+21:57:33 : [LossNoia] - Solicitado teleporte na posição 2115x 2103y e teleportado para 1046x 1725y
+21:57:35 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+21:57:36 : [LossNoia] - Comando "/gm +set 0 22"
+21:57:45 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+21:57:56 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+21:58:06 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+21:58:16 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+21:58:26 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+21:58:36 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+21:58:46 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+21:58:56 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+21:59:06 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+21:59:17 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+21:59:27 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+21:59:37 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+21:59:47 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+21:59:57 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:00:00 : [LossNoia] - [Mensagem do servidor]: A batalha do acampamento avançado do reino foi iniciada.
+22:00:07 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:00:17 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:00:27 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:00:37 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:00:48 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:00:58 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:01:08 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:01:18 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:01:28 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:01:38 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:01:48 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:01:58 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:02:09 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:02:19 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:02:29 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:02:39 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:02:49 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:02:59 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:03:09 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:03:20 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:03:30 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:03:40 : [LossNoia] - [Mensagem do servidor]> =Bem vindo ao ambiente de teste do WYD II
+22:03:50 : [LossNoia] - [Mensagem do servidor]> =Bugs encontrados devem ser reportados via Discord
+22:03:58 : [LossNoia] - Pontos CP subiu em 3. CP novo: 111
+22:03:58 : [LossNoia] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:58 : [LossNoia] - Level UP para level 201. Ev: 0 - 1161x 1725y
+22:04:00 : [LossNoia] - [Mensagem do servidor]> =Estamos trabalhando na correção dos erros encontrados
+22:04:06 : [LossNoia] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:04:06 : [LossNoia] - Personagem foi desconectado. Permaneceu 00:10:25 minutos online

@@ -1,2 +1,12 @@
-﻿  LINK : F:\Servidores\CONTEUDO FREE WYDESTINY 7.84\Source servidor\Debug\DataServer.exe não encontrado ou não compilado pelo o último link incremental; executando link completo
-  DataServer.vcxproj -> F:\Servidores\CONTEUDO FREE WYDESTINY 7.84\Source servidor\Debug\DataServer.exe
+﻿  Base.cpp
+  CFileDB.cpp
+  CPSock.cpp
+  CUser.cpp
+  DataServer.cpp
+  Log.cpp
+F:\Servidores\Projeto Richard\TMProject-Free\Source servidor\DataServer\Log.cpp(84,25): warning C4101: 'e': variável local não referenciada
+  ProcessTimer.cpp
+  WinProc.cpp
+  Gerando Código...
+  LINK : F:\Servidores\Projeto Richard\TMProject-Free\Source servidor\Debug\DataServer.exe não encontrado ou não compilado pelo o último link incremental; executando link completo
+  DataServer.vcxproj -> F:\Servidores\Projeto Richard\TMProject-Free\Source servidor\Debug\DataServer.exe

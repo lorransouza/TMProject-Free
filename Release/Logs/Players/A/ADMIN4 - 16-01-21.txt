@@ -1,0 +1,1515 @@
+
+20:19:24 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 3
+20:19:24 : Conta ADMIN2 logado na conta
+Status da conta: JOGANDO
+Personagem: Archer
+
+20:19:24 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 1211697703
+20:19:24 : [INFORMAÇÕES DO BANCO]
+Gold: 1211697703
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura(M)[1123] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Lança[854] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura[1221] [43 6 0 0 0 0]
+[ 29] - Calça[1222] [43 6 0 0 0 0]
+[ 30] - Luvas[1223] [43 6 0 0 0 0]
+[ 31] - Botas[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Lança[856] [43 9 61 28 0 0]
+[ 36] - Luvas(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Aranha[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Luvas(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Luvas(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Dardo[884] [43 6 2 36 0 0]
+[ 84] - Luvas(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 98] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 9]
+[ 99] - Dardo(Anct)[2751] [43 250 2 90 26 200]
+[107] - Cérberus[2378] [0 0 120 119 0 0]
+[108] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[109] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[111] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[112] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[113] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[114] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[117] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[118] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+
+20:19:32 : Solicitou ir ao mundo...
+20:19:32 : Recebido pedido para entrar no jogo
+20:19:32 : Recebido informação do personagem completa.
+20:19:32 : [Czar] - [INFORMAÇÕES DA CONTA]
+Personagem online: Czar
+Gold atual: 936595093
+Level atual: 320
+Experiência atual: 2000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 3652x 3130y
+
+Pontos NT: 12
+Entradas Hall: 25
+Info: 496
+Soul: 8
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 28/12/2020 17:17:54
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[7] [43 0 7 2 1 1]
+[01] - Cythera_Mística[3502] [43 9 0 0 0 0]
+[02] - Armadura(Le)[2187] [120 9 60 14 3 30]
+[03] - Calça(Le)[2188] [120 9 60 14 3 30]
+[04] - Luvas(Le)[2189] [120 9 60 14 0 0]
+[05] - Botas(Le)[2190] [120 9 60 14 0 0]
+[06] - Eirenus(Anct)[2863] [43 250 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 6 2 21 0 66]
+[13] - Fada_Dourada[3915] [106 1 107 22 108 7]
+[14] - Pegasus[2382] [20 0 120 15 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_de_Fênix[3103] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Frango_Assado[3314] [61 7 0 0 0 0]
+[01] - Armadura[1221] [43 9 0 0 0 0]
+[02] - Baú_de_Experiência[4140] [61 3 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [61 30 0 0 0 0]
+[04] - Poeira_de_Oriharucon[412] [61 29 0 0 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 82 0 0 0 0]
+[06] - Pedido_de_Caça(Nipple)[3437] [61 99 0 0 0 0]
+[07] - Força_Espectral[5101] [0 0 0 0 0 0]
+[08] - Pergaminho_da_Água(A)LV1[3182] [61 8 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[11] - Gleipnir(Anct)[2674] [43 253 60 42 0 0]
+[12] - Balmung(Anct)[2494] [43 250 0 0 0 0]
+[13] - Balmung(Anct)[2494] [43 250 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN2]	USER_PLAY	[Archer] (level: 199 ev: 3)	
+
+20:19:32 : [Czar] - Personagem Czar enviado ao mundo 3652x 3130y - Canal 2 - Cash da conta: 62466. OverPower: 2540
+20:19:32 : [Czar] - Gold atual: 936595093. Classe: 1 Evolução: 2. Experiência: 2000000000. Nível: 320. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+20:19:32 : [Czar] - Logou no personagem Czar com poção divina ativo. Validade: 7/2/2021 14:38:51
+20:19:32 : [Czar] - Logou no personagem Czar com frango ativo. Tempo: 887
+20:19:32 : [Czar] - Logou no personagem Czar com baú de experiência ativo. Tempo: 434
+20:19:32 : [Czar] - Resetado a contagem de entradas água! Day: 10-15. Total: 0
+20:19:32 : [Czar] - Enviado informações do personagem
+20:19:33 : [Czar] - Comando "/day "
+20:19:33 : [Czar] - [Mensagem do servidor]> !#11 2
+20:19:41 : [Czar] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:19:46 : [Czar] - Comando "/gm +armia"
+20:19:46 : [Czar] - Teleportado para a posição 2100 2100
+20:22:18 : [Czar] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:22:18 : [Czar] - 3 Personagem foi desconectado. Permaneceu 00:02:52 minutos online
+20:43:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+20:43:13 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 1211697703
+20:43:14 : [INFORMAÇÕES DO BANCO]
+Gold: 1211697703
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura(M)[1123] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Lança[854] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura[1221] [43 6 0 0 0 0]
+[ 29] - Calça[1222] [43 6 0 0 0 0]
+[ 30] - Luvas[1223] [43 6 0 0 0 0]
+[ 31] - Botas[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Lança[856] [43 9 61 28 0 0]
+[ 36] - Luvas(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Aranha[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Luvas(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Luvas(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Dardo[884] [43 6 2 36 0 0]
+[ 84] - Luvas(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 98] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 9]
+[ 99] - Dardo(Anct)[2751] [43 250 2 90 26 200]
+[107] - Cérberus[2378] [0 0 120 119 0 0]
+[108] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[109] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[111] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[112] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[113] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[114] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[117] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[118] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+
+20:43:21 : Solicitou ir ao mundo...
+20:43:21 : Recebido pedido para entrar no jogo
+20:43:21 : Recebido informação do personagem completa.
+20:43:21 : [Czar] - [INFORMAÇÕES DA CONTA]
+Personagem online: Czar
+Gold atual: 936595093
+Level atual: 320
+Experiência atual: 2000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2095x 2097y
+
+Pontos NT: 12
+Entradas Hall: 25
+Info: 496
+Soul: 8
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 28/12/2020 17:17:54
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[7] [43 0 7 2 1 1]
+[01] - Cythera_Mística[3502] [43 9 0 0 0 0]
+[02] - Armadura(Le)[2187] [120 9 60 14 3 30]
+[03] - Calça(Le)[2188] [120 9 60 14 3 30]
+[04] - Luvas(Le)[2189] [120 9 60 14 0 0]
+[05] - Botas(Le)[2190] [120 9 60 14 0 0]
+[06] - Eirenus(Anct)[2863] [43 250 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 6 2 21 0 66]
+[13] - Fada_Dourada[3915] [106 1 107 22 108 4]
+[14] - Pegasus[2382] [20 0 120 15 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_de_Fênix[3103] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Frango_Assado[3314] [61 7 0 0 0 0]
+[01] - Armadura[1221] [43 9 0 0 0 0]
+[02] - Baú_de_Experiência[4140] [61 3 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [61 30 0 0 0 0]
+[04] - Poeira_de_Oriharucon[412] [61 29 0 0 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 82 0 0 0 0]
+[06] - Pedido_de_Caça(Nipple)[3437] [61 99 0 0 0 0]
+[07] - Força_Espectral[5101] [0 0 0 0 0 0]
+[08] - Pergaminho_da_Água(A)LV1[3182] [61 8 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[11] - Gleipnir(Anct)[2674] [43 253 60 42 0 0]
+[12] - Balmung(Anct)[2494] [43 250 0 0 0 0]
+[13] - Balmung(Anct)[2494] [43 250 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:43:21 : [Czar] - Personagem Czar enviado ao mundo 2095x 2097y - Canal 2 - Cash da conta: 62466. OverPower: 2540
+20:43:21 : [Czar] - Gold atual: 936595093. Classe: 1 Evolução: 2. Experiência: 2000000000. Nível: 320. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+20:43:21 : [Czar] - Logou no personagem Czar com poção divina ativo. Validade: 7/2/2021 14:38:51
+20:43:21 : [Czar] - Logou no personagem Czar com frango ativo. Tempo: 866
+20:43:21 : [Czar] - Logou no personagem Czar com baú de experiência ativo. Tempo: 413
+20:43:21 : [Czar] - Enviado informações do personagem
+20:43:22 : [Czar] - Comando "/day "
+20:43:22 : [Czar] - [Mensagem do servidor]> !#11 2
+20:43:30 : [Czar] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:43:45 : [Czar] - Comando "/gm +ferreiro"
+20:44:48 : [Czar] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:44:48 : [Czar] - 2 Personagem foi desconectado. Permaneceu 00:01:34 minutos online
+20:45:20 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+20:45:20 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 1211697703
+20:45:20 : [INFORMAÇÕES DO BANCO]
+Gold: 1211697703
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura(M)[1123] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Lança[854] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura[1221] [43 6 0 0 0 0]
+[ 29] - Calça[1222] [43 6 0 0 0 0]
+[ 30] - Luvas[1223] [43 6 0 0 0 0]
+[ 31] - Botas[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Lança[856] [43 9 61 28 0 0]
+[ 36] - Luvas(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Aranha[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Luvas(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Luvas(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Dardo[884] [43 6 2 36 0 0]
+[ 84] - Luvas(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 98] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 9]
+[ 99] - Dardo(Anct)[2751] [43 250 2 90 26 200]
+[107] - Cérberus[2378] [0 0 120 119 0 0]
+[108] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[109] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[111] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[112] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[113] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[114] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[117] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[118] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+
+20:45:26 : Solicitou ir ao mundo...
+20:45:26 : Recebido pedido para entrar no jogo
+20:45:26 : Recebido informação do personagem completa.
+20:45:26 : [Shariiiii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariiiii
+Gold atual: 6000
+Level atual: 321
+Experiência atual: 1024275530
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2094x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[02] - Robe(N)[1266] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+[14] - Aranha[2360] [10 26 1 20 0 0]
+
+[INVENTÁRIO]
+[00] - Baú_de_Experiência[4140] [61 4 0 0 0 0]
+[01] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[02] - Frango_Assado[3314] [61 9 0 0 0 0]
+[03] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[04] - Jaqueta(A)[1556] [43 0 71 60 2 18]
+[05] - Túnica(N)[1263] [8 16 3 10 60 2]
+[06] - Poção_de_Mana[405] [0 0 0 0 0 0]
+[07] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[08] - Emblema_Orc[524] [0 0 0 0 0 0]
+[09] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[10] - Chave_da_Ultima_Porta[453] [0 0 0 0 0 0]
+[12] - Ração_de_Aranha[2420] [61 119 0 0 0 0]
+[13] - Emblema_Orc[524] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:45:26 : [Shariiiii] - Personagem Shariiiii enviado ao mundo 2094x 2100y - Canal 2 - Cash da conta: 62466. OverPower: 644
+20:45:26 : [Shariiiii] - Gold atual: 6000. Classe: 1 Evolução: 0. Experiência: 1024275530. Nível: 321. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+20:45:26 : [Shariiiii] - Logou no personagem Shariiiii com poção divina ativo. Validade: 7/2/2021 14:38:51
+20:45:26 : [Shariiiii] - Logou no personagem Shariiiii com frango ativo. Tempo: 1640
+20:45:26 : [Shariiiii] - Logou no personagem Shariiiii com baú de experiência ativo. Tempo: 740
+20:45:26 : [Shariiiii] - Enviado informações do personagem
+20:45:27 : [Shariiiii] - Comando "/day "
+20:45:27 : [Shariiiii] - [Mensagem do servidor]> !#11 2
+20:45:38 : [Shariiiii] - Comando "/gm +ferreiro"
+20:45:42 : [Shariiiii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:46:44 : [Shariiiii] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+20:46:44 : [Shariiiii] - 2 Personagem foi desconectado. Permaneceu 00:01:22 minutos online
+21:04:01 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:04:01 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1211697703
+21:04:01 : [INFORMAÇÕES DO BANCO]
+Gold: 1211697703
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura(M)[1123] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Lança[854] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura[1221] [43 6 0 0 0 0]
+[ 29] - Calça[1222] [43 6 0 0 0 0]
+[ 30] - Luvas[1223] [43 6 0 0 0 0]
+[ 31] - Botas[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Lança[856] [43 9 61 28 0 0]
+[ 36] - Luvas(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Aranha[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Luvas(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Luvas(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Dardo[884] [43 6 2 36 0 0]
+[ 84] - Luvas(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 98] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 9]
+[ 99] - Dardo(Anct)[2751] [43 250 2 90 26 200]
+[107] - Cérberus[2378] [0 0 120 119 0 0]
+[108] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[109] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[111] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[112] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[113] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[114] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[117] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[118] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+
+21:04:05 : Solicitou ir ao mundo...
+21:04:05 : Recebido pedido para entrar no jogo
+21:04:05 : Recebido informação do personagem completa.
+21:04:05 : login undefined class 250
+21:04:05 : Personagem foi desconectado. Permaneceu 00:00:03 minutos online
+21:04:09 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:04:09 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1211697703
+21:04:09 : [INFORMAÇÕES DO BANCO]
+Gold: 1211697703
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura(M)[1123] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Lança[854] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura[1221] [43 6 0 0 0 0]
+[ 29] - Calça[1222] [43 6 0 0 0 0]
+[ 30] - Luvas[1223] [43 6 0 0 0 0]
+[ 31] - Botas[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Lança[856] [43 9 61 28 0 0]
+[ 36] - Luvas(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Aranha[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Luvas(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Luvas(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Dardo[884] [43 6 2 36 0 0]
+[ 84] - Luvas(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 98] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 9]
+[ 99] - Dardo(Anct)[2751] [43 250 2 90 26 200]
+[107] - Cérberus[2378] [0 0 120 119 0 0]
+[108] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[109] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[111] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[112] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[113] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[114] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[117] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[118] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+
+21:04:12 : Solicitou ir ao mundo...
+21:04:12 : Recebido pedido para entrar no jogo
+21:04:12 : Recebido informação do personagem completa.
+21:04:12 : login undefined class 250
+21:04:12 : Personagem foi desconectado. Permaneceu 00:00:03 minutos online
+21:04:15 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:04:15 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1211697703
+21:04:15 : [INFORMAÇÕES DO BANCO]
+Gold: 1211697703
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura(M)[1123] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Lança[854] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura[1221] [43 6 0 0 0 0]
+[ 29] - Calça[1222] [43 6 0 0 0 0]
+[ 30] - Luvas[1223] [43 6 0 0 0 0]
+[ 31] - Botas[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Lança[856] [43 9 61 28 0 0]
+[ 36] - Luvas(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Aranha[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Luvas(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Luvas(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Dardo[884] [43 6 2 36 0 0]
+[ 84] - Luvas(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 98] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 9]
+[ 99] - Dardo(Anct)[2751] [43 250 2 90 26 200]
+[107] - Cérberus[2378] [0 0 120 119 0 0]
+[108] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[109] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[111] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[112] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[113] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[114] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[117] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[118] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+
+21:04:19 : Solicitou ir ao mundo...
+21:04:19 : Recebido pedido para entrar no jogo
+21:04:19 : Recebido informação do personagem completa.
+21:04:19 : [Czar] - [INFORMAÇÕES DA CONTA]
+Personagem online: Czar
+Gold atual: 936595093
+Level atual: 320
+Experiência atual: 2000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2097x 2101y
+
+Pontos NT: 12
+Entradas Hall: 25
+Info: 496
+Soul: 8
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 28/12/2020 17:17:54
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[7] [43 0 7 2 1 1]
+[01] - Cythera_Mística[3502] [43 9 0 0 0 0]
+[02] - Armadura(Le)[2187] [120 9 60 14 3 30]
+[03] - Calça(Le)[2188] [120 9 60 14 3 30]
+[04] - Luvas(Le)[2189] [120 9 60 14 0 0]
+[05] - Botas(Le)[2190] [120 9 60 14 0 0]
+[06] - Eirenus(Anct)[2863] [43 250 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 6 2 21 0 66]
+[13] - Fada_Dourada[3915] [106 1 107 22 108 3]
+[14] - Pegasus[2382] [20 0 120 15 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_de_Fênix[3103] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Frango_Assado[3314] [61 7 0 0 0 0]
+[01] - Armadura[1221] [43 9 0 0 0 0]
+[02] - Baú_de_Experiência[4140] [61 3 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [61 30 0 0 0 0]
+[04] - Poeira_de_Oriharucon[412] [61 29 0 0 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 82 0 0 0 0]
+[06] - Pedido_de_Caça(Nipple)[3437] [61 99 0 0 0 0]
+[07] - Força_Espectral[5101] [0 0 0 0 0 0]
+[08] - Pergaminho_da_Água(A)LV1[3182] [61 8 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[11] - Gleipnir(Anct)[2674] [43 253 60 42 0 0]
+[12] - Balmung(Anct)[2494] [43 250 0 0 0 0]
+[13] - Balmung(Anct)[2494] [43 250 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:04:19 : [Czar] - Personagem Czar enviado ao mundo 2097x 2101y - Canal 2 - Cash da conta: 62466. OverPower: 2540
+21:04:19 : [Czar] - Gold atual: 936595093. Classe: 1 Evolução: 2. Experiência: 2000000000. Nível: 320. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+21:04:19 : [Czar] - Logou no personagem Czar com poção divina ativo. Validade: 7/2/2021 14:38:51
+21:04:19 : [Czar] - Logou no personagem Czar com frango ativo. Tempo: 856
+21:04:19 : [Czar] - Logou no personagem Czar com baú de experiência ativo. Tempo: 403
+21:04:19 : [Czar] - Enviado informações do personagem
+21:04:20 : [Czar] - Comando "/day "
+21:04:20 : [Czar] - [Mensagem do servidor]> !#11 2
+21:04:31 : [Czar] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:04:36 : [Czar] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2112x 2111y. Posição do NPC: 2110x 2110y
+21:04:39 : [Czar] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2102x 2103y. Posição do NPC: 2110x 2110y
+21:06:36 : [Czar] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:06:36 : [Czar] - 1 Personagem foi desconectado. Permaneceu 00:02:19 minutos online
+21:06:59 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:06:59 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1211697703
+21:06:59 : [INFORMAÇÕES DO BANCO]
+Gold: 1211697703
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura(M)[1123] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Lança[854] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura[1221] [43 6 0 0 0 0]
+[ 29] - Calça[1222] [43 6 0 0 0 0]
+[ 30] - Luvas[1223] [43 6 0 0 0 0]
+[ 31] - Botas[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Lança[856] [43 9 61 28 0 0]
+[ 36] - Luvas(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Aranha[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Luvas(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Luvas(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Dardo[884] [43 6 2 36 0 0]
+[ 84] - Luvas(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 98] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 9]
+[ 99] - Dardo(Anct)[2751] [43 250 2 90 26 200]
+[107] - Cérberus[2378] [0 0 120 119 0 0]
+[108] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[109] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[111] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[112] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[113] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[114] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[117] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[118] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+
+21:07:02 : Solicitou ir ao mundo...
+21:07:02 : Recebido pedido para entrar no jogo
+21:07:02 : Recebido informação do personagem completa.
+21:07:02 : [Czar] - [INFORMAÇÕES DA CONTA]
+Personagem online: Czar
+Gold atual: 936595093
+Level atual: 320
+Experiência atual: 2000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2093x 2098y
+
+Pontos NT: 12
+Entradas Hall: 25
+Info: 496
+Soul: 8
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 28/12/2020 17:17:54
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[7] [43 0 7 2 1 1]
+[01] - Cythera_Mística[3502] [43 9 0 0 0 0]
+[02] - Armadura(Le)[2187] [120 9 60 14 3 30]
+[03] - Calça(Le)[2188] [120 9 60 14 3 30]
+[04] - Luvas(Le)[2189] [120 9 60 14 0 0]
+[05] - Botas(Le)[2190] [120 9 60 14 0 0]
+[06] - Eirenus(Anct)[2863] [43 250 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 6 2 21 0 66]
+[13] - Fada_Dourada[3915] [106 1 107 22 108 1]
+[14] - Pegasus[2382] [20 0 120 15 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_de_Fênix[3103] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Frango_Assado[3314] [61 7 0 0 0 0]
+[01] - Armadura[1221] [43 9 0 0 0 0]
+[02] - Baú_de_Experiência[4140] [61 3 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [61 30 0 0 0 0]
+[04] - Poeira_de_Oriharucon[412] [61 29 0 0 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 82 0 0 0 0]
+[06] - Pedido_de_Caça(Nipple)[3437] [61 99 0 0 0 0]
+[07] - Força_Espectral[5101] [0 0 0 0 0 0]
+[08] - Pergaminho_da_Água(A)LV1[3182] [61 8 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[11] - Gleipnir(Anct)[2674] [43 253 60 42 0 0]
+[12] - Balmung(Anct)[2494] [43 250 0 0 0 0]
+[13] - Balmung(Anct)[2494] [43 250 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:07:02 : [Czar] - Personagem Czar enviado ao mundo 2093x 2098y - Canal 2 - Cash da conta: 62466. OverPower: 2540
+21:07:02 : [Czar] - Gold atual: 936595093. Classe: 1 Evolução: 2. Experiência: 2000000000. Nível: 320. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+21:07:02 : [Czar] - Logou no personagem Czar com poção divina ativo. Validade: 7/2/2021 14:38:51
+21:07:02 : [Czar] - Logou no personagem Czar com frango ativo. Tempo: 840
+21:07:02 : [Czar] - Logou no personagem Czar com baú de experiência ativo. Tempo: 387
+21:07:02 : [Czar] - Enviado informações do personagem
+21:07:04 : [Czar] - Comando "/day "
+21:07:04 : [Czar] - [Mensagem do servidor]> !#11 2
+21:07:19 : [Czar] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:07:52 : [Czar] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:07:52 : [Czar] - 1 Personagem foi desconectado. Permaneceu 00:00:52 minutos online
+21:08:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:08:16 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1211697703
+21:08:16 : [INFORMAÇÕES DO BANCO]
+Gold: 1211697703
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura(M)[1123] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Lança[854] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura[1221] [43 6 0 0 0 0]
+[ 29] - Calça[1222] [43 6 0 0 0 0]
+[ 30] - Luvas[1223] [43 6 0 0 0 0]
+[ 31] - Botas[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Lança[856] [43 9 61 28 0 0]
+[ 36] - Luvas(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Aranha[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Luvas(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Luvas(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Dardo[884] [43 6 2 36 0 0]
+[ 84] - Luvas(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 98] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 9]
+[ 99] - Dardo(Anct)[2751] [43 250 2 90 26 200]
+[107] - Cérberus[2378] [0 0 120 119 0 0]
+[108] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[109] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[111] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[112] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[113] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[114] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[117] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[118] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+
+21:08:22 : Solicitou ir ao mundo...
+21:08:22 : Recebido pedido para entrar no jogo
+21:08:22 : Recebido informação do personagem completa.
+21:08:22 : [Czar] - [INFORMAÇÕES DA CONTA]
+Personagem online: Czar
+Gold atual: 936595093
+Level atual: 320
+Experiência atual: 2000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2089x 2095y
+
+Pontos NT: 12
+Entradas Hall: 25
+Info: 496
+Soul: 8
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 28/12/2020 17:17:54
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[7] [43 0 7 2 1 1]
+[01] - Cythera_Mística[3502] [43 9 0 0 0 0]
+[02] - Armadura(Le)[2187] [120 9 60 14 3 30]
+[03] - Calça(Le)[2188] [120 9 60 14 3 30]
+[04] - Luvas(Le)[2189] [120 9 60 14 0 0]
+[05] - Botas(Le)[2190] [120 9 60 14 0 0]
+[06] - Eirenus(Anct)[2863] [43 250 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 6 2 21 0 66]
+[13] - Fada_Dourada[3915] [106 1 107 21 108 59]
+[14] - Pegasus[2382] [20 0 120 15 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_de_Fênix[3103] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Frango_Assado[3314] [61 7 0 0 0 0]
+[01] - Armadura[1221] [43 9 0 0 0 0]
+[02] - Baú_de_Experiência[4140] [61 3 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [61 30 0 0 0 0]
+[04] - Poeira_de_Oriharucon[412] [61 29 0 0 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 82 0 0 0 0]
+[06] - Pedido_de_Caça(Nipple)[3437] [61 99 0 0 0 0]
+[07] - Força_Espectral[5101] [0 0 0 0 0 0]
+[08] - Pergaminho_da_Água(A)LV1[3182] [61 8 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[11] - Gleipnir(Anct)[2674] [43 253 60 42 0 0]
+[12] - Balmung(Anct)[2494] [43 250 0 0 0 0]
+[13] - Balmung(Anct)[2494] [43 250 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:08:22 : [Czar] - Personagem Czar enviado ao mundo 2089x 2095y - Canal 2 - Cash da conta: 62466. OverPower: 2540
+21:08:22 : [Czar] - Gold atual: 936595093. Classe: 1 Evolução: 2. Experiência: 2000000000. Nível: 320. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+21:08:22 : [Czar] - Logou no personagem Czar com poção divina ativo. Validade: 7/2/2021 14:38:51
+21:08:22 : [Czar] - Logou no personagem Czar com frango ativo. Tempo: 834
+21:08:22 : [Czar] - Logou no personagem Czar com baú de experiência ativo. Tempo: 381
+21:08:22 : [Czar] - Enviado informações do personagem
+21:08:23 : [Czar] - Comando "/day "
+21:08:23 : [Czar] - [Mensagem do servidor]> !#11 2
+21:08:31 : [Czar] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:08:42 : [Czar] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:08:42 : [Czar] - 1 Personagem foi desconectado. Permaneceu 00:00:25 minutos online
+21:08:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 200.9.16.25 Mac: (57:97:A2:B8:71:46). ClientId: 1
+21:08:55 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1211697703
+21:08:55 : [INFORMAÇÕES DO BANCO]
+Gold: 1211697703
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura(M)[1123] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Lança[854] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura[1221] [43 6 0 0 0 0]
+[ 29] - Calça[1222] [43 6 0 0 0 0]
+[ 30] - Luvas[1223] [43 6 0 0 0 0]
+[ 31] - Botas[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Lança[856] [43 9 61 28 0 0]
+[ 36] - Luvas(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Aranha[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Luvas(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Luvas(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Dardo[884] [43 6 2 36 0 0]
+[ 84] - Luvas(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 98] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 9]
+[ 99] - Dardo(Anct)[2751] [43 250 2 90 26 200]
+[107] - Cérberus[2378] [0 0 120 119 0 0]
+[108] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[109] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[111] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[112] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[113] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[114] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[117] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[118] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+
+21:08:59 : Solicitou ir ao mundo...
+21:08:59 : Recebido pedido para entrar no jogo
+21:08:59 : Recebido informação do personagem completa.
+21:08:59 : [Czar] - [INFORMAÇÕES DA CONTA]
+Personagem online: Czar
+Gold atual: 936595093
+Level atual: 320
+Experiência atual: 2000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2095x 2094y
+
+Pontos NT: 12
+Entradas Hall: 25
+Info: 496
+Soul: 8
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 28/12/2020 17:17:54
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[7] [43 0 7 2 1 1]
+[01] - Cythera_Mística[3502] [43 9 0 0 0 0]
+[02] - Armadura(Le)[2187] [120 9 60 14 3 30]
+[03] - Calça(Le)[2188] [120 9 60 14 3 30]
+[04] - Luvas(Le)[2189] [120 9 60 14 0 0]
+[05] - Botas(Le)[2190] [120 9 60 14 0 0]
+[06] - Eirenus(Anct)[2863] [43 250 0 0 0 0]
+[12] - Conjunto_Yin-Yang[4150] [96 6 2 21 0 66]
+[13] - Fada_Dourada[3915] [106 1 107 21 108 59]
+[14] - Pegasus[2382] [20 0 120 15 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+[16] - Asa_de_Fênix[3103] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Frango_Assado[3314] [61 7 0 0 0 0]
+[01] - Armadura[1221] [43 9 0 0 0 0]
+[02] - Baú_de_Experiência[4140] [61 3 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [61 30 0 0 0 0]
+[04] - Poeira_de_Oriharucon[412] [61 29 0 0 0 0]
+[05] - Pedido_de_Caça(Kult)[3435] [61 82 0 0 0 0]
+[06] - Pedido_de_Caça(Nipple)[3437] [61 99 0 0 0 0]
+[07] - Força_Espectral[5101] [0 0 0 0 0 0]
+[08] - Pergaminho_da_Água(A)LV1[3182] [61 8 0 0 0 0]
+[09] - Escritura_do_Pesadelo[5137] [0 0 0 0 0 0]
+[10] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[11] - Gleipnir(Anct)[2674] [43 253 60 42 0 0]
+[12] - Balmung(Anct)[2494] [43 250 0 0 0 0]
+[13] - Balmung(Anct)[2494] [43 250 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 20 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:08:59 : [Czar] - Personagem Czar enviado ao mundo 2095x 2094y - Canal 2 - Cash da conta: 62466. OverPower: 2540
+21:08:59 : [Czar] - Gold atual: 936595093. Classe: 1 Evolução: 2. Experiência: 2000000000. Nível: 320. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+21:08:59 : [Czar] - Logou no personagem Czar com poção divina ativo. Validade: 7/2/2021 14:38:51
+21:08:59 : [Czar] - Logou no personagem Czar com frango ativo. Tempo: 831
+21:08:59 : [Czar] - Logou no personagem Czar com baú de experiência ativo. Tempo: 378
+21:08:59 : [Czar] - Enviado informações do personagem
+21:09:00 : [Czar] - Comando "/day "
+21:09:00 : [Czar] - [Mensagem do servidor]> !#11 2
+21:09:07 : [Czar] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:09:13 : [Czar] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:09:13 : [Czar] - 1 Personagem foi desconectado. Permaneceu 00:00:18 minutos online

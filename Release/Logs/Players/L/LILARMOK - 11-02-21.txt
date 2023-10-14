@@ -1,0 +1,1050 @@
+
+22:00:15 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 38
+22:00:15 : [Mensagem do servidor]> Senha incorreta.
+22:00:15 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:00:21 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 38
+22:00:21 : [Mensagem do servidor]> Senha incorreta.
+22:00:21 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:00:25 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 38
+22:00:25 : [Mensagem do servidor]> Senha incorreta.
+22:00:25 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:00:30 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 5
+22:00:30 : [Mensagem do servidor]> Você errou a senha 3 vezes ou mais.
+22:00:37 : LILARMOK Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+22:00:37 : Usuário desconectado com status 1
+22:00:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 5
+22:00:37 : [Mensagem do servidor]> Você errou a senha 3 vezes ou mais.
+22:00:45 : LILARMOK Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+22:00:45 : Usuário desconectado com status 1
+22:00:45 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 5
+22:00:45 : [Mensagem do servidor]> Você errou a senha 3 vezes ou mais.
+22:00:52 : LILARMOK Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:00:52 : Usuário desconectado com status 1
+22:01:32 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 2
+22:01:32 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+22:01:32 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:01:41 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 37
+22:01:41 : Usuário logou no jogo com clientId 37. - Servidor 1. Gold do banco: 0
+22:01:41 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+22:03:25 : Solicitou ir ao mundo...
+22:03:25 : Recebido pedido para entrar no jogo
+22:03:25 : Recebido informação do personagem completa.
+22:03:25 : [P1STOLE1R4] - [INFORMAÇÕES DA CONTA]
+Personagem online: P1STOLE1R4
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:43 horas
+Posição atual: 2111x 2041y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:03:25 : [P1STOLE1R4] - Personagem P1STOLE1R4 enviado ao mundo 2111x 2041y - Canal 1 - Cash da conta: 0. PowerLevel: 8
+22:03:25 : [P1STOLE1R4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+22:03:25 : [P1STOLE1R4] - Resetado a contagem de entradas água! Day: 0-41. Total: 0
+22:03:25 : [P1STOLE1R4] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+22:03:25 : [P1STOLE1R4] - Enviado informações do personagem
+22:03:27 : [P1STOLE1R4] - Comando "/day "
+22:03:27 : [P1STOLE1R4] - [Mensagem do servidor]> !#11 2
+22:03:31 : [P1STOLE1R4] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:03:33 : [P1STOLE1R4] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 4610. Posição do usuário: 2113x 2043y. Posição do NPC: 2107x 2042y
+22:03:38 : [P1STOLE1R4] - Matou o mob Porco de Guerra. GenerID: 4421
+22:03:38 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 78
+22:03:38 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:38 : [P1STOLE1R4] - Level UP para level 1. Ev: 0/0 - 2116x 2041y
+22:03:38 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 81
+22:03:38 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:38 : [P1STOLE1R4] - Level UP para level 2. Ev: 0/0 - 2116x 2041y
+22:03:43 : [P1STOLE1R4] - Matou o mob Porco de Guerra. GenerID: 4419
+22:03:43 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:03:43 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 84
+22:03:43 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:43 : [P1STOLE1R4] - Level UP para level 3. Ev: 0/0 - 2121x 2041y
+22:03:43 : [P1STOLE1R4] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2121x 2041y - Porco de Guerra (1/30)
+22:03:45 : [P1STOLE1R4] - Matou o mob Porco de Guerra. GenerID: 4421
+22:03:45 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 87
+22:03:45 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:45 : [P1STOLE1R4] - Level UP para level 4. Ev: 0/0 - 2118x 2042y
+22:04:30 : [P1STOLE1R4] - [Mensagem do servidor]> Não possui recursos para essa compra
+22:04:35 : [P1STOLE1R4] - [Mensagem do servidor]> Não possui recursos para essa compra
+22:04:35 : [P1STOLE1R4] - [Mensagem do servidor]> Não possui recursos para essa compra
+22:04:41 : [P1STOLE1R4] - [Mensagem do servidor]> Não possui recursos para essa compra
+22:05:09 : [P1STOLE1R4] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2108x 2114y. Posição do NPC: 2102x 2113y
+22:05:26 : [P1STOLE1R4] - [Mensagem do servidor]> Não possui recursos para essa compra
+22:11:07 : [P1STOLE1R4] - LILARMOK Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:11:07 : [P1STOLE1R4] - 37 Personagem foi desconectado. Permaneceu 00:09:19 minutos online
+22:11:59 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 37
+22:11:59 : Usuário logou no jogo com clientId 37. - Servidor 1. Gold do banco: 0
+22:11:59 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+22:12:12 : Solicitou ir ao mundo...
+22:12:12 : Recebido pedido para entrar no jogo
+22:12:12 : Recebido informação do personagem completa.
+22:12:12 : [P1STOLE1R4] - [INFORMAÇÕES DA CONTA]
+Personagem online: P1STOLE1R4
+Gold atual: 0
+Level atual: 4
+Experiência atual: 3305
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:13 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [87 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:12:12 : [P1STOLE1R4] - Personagem P1STOLE1R4 enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. PowerLevel: 11
+22:12:12 : [P1STOLE1R4] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 3305. Nível: 4. Info: 0. GuildID: 0. CP: 12. Pontos de Contribuição: 0. Limite: 0
+22:12:12 : [P1STOLE1R4] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+22:12:12 : [P1STOLE1R4] - Enviado informações do personagem
+22:12:13 : [P1STOLE1R4] - Comando "/day "
+22:12:13 : [P1STOLE1R4] - [Mensagem do servidor]> !#11 2
+22:12:19 : [P1STOLE1R4] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:12:38 : [P1STOLE1R4] - Matou o mob Porco de Guerra. GenerID: 4421
+22:12:38 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 90
+22:12:38 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:12:38 : [P1STOLE1R4] - Level UP para level 5. Ev: 0/0 - 2119x 2040y
+22:12:40 : [P1STOLE1R4] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 4610. Posição do usuário: 2109x 2042y. Posição do NPC: 2107x 2042y
+22:12:49 : [P1STOLE1R4] - Matou o mob Porco de Guerra. GenerID: 4421
+22:12:49 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:12:49 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 93
+22:12:49 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:12:49 : [P1STOLE1R4] - Level UP para level 6. Ev: 0/0 - 2120x 2040y
+22:12:49 : [P1STOLE1R4] - Dropado item Jaqueta(A) [1556] [11 29 71 50 3 20] em 2120x 2040y - Porco de Guerra (1/67)
+22:12:51 : [P1STOLE1R4] - Clicado no NPC [Helper]. Face 230. Race: 2. GenerateId: 3421. Posição do usuário: 2129x 2036y. Posição do NPC: 2132x 2034y
+22:12:55 : [P1STOLE1R4] - Matou o mob Porco de Guerra. GenerID: 4426
+22:12:55 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:12:55 : [P1STOLE1R4] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2128x 2028y - Porco de Guerra (1/30)
+22:13:04 : [P1STOLE1R4] - Matou o mob Aguia. GenerID: 4433
+22:13:04 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:13:23 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:13:23 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 96
+22:13:23 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:13:23 : [P1STOLE1R4] - Level UP para level 7. Ev: 0/0 - 2128x 2022y
+22:13:28 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:13:29 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:13:36 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 99
+22:13:36 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:13:36 : [P1STOLE1R4] - Level UP para level 8. Ev: 0/0 - 2128x 2022y
+22:13:38 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:13:39 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:13:48 : [P1STOLE1R4] - Matou o mob Porco de Guerra. GenerID: 4434
+22:13:48 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:13:51 : [P1STOLE1R4] - Matou o mob Aguia. GenerID: 4428
+22:13:51 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 102
+22:13:51 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:13:51 : [P1STOLE1R4] - Level UP para level 9. Ev: 0/0 - 2133x 2022y
+22:14:08 : [P1STOLE1R4] - Matou o mob Porco de Guerra. GenerID: 4428
+22:14:08 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:14:12 : [P1STOLE1R4] - Matou o mob Aguia. GenerID: 4427
+22:14:12 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:14:13 : [P1STOLE1R4] - Matou o mob Porco de Guerra. GenerID: 4427
+22:14:13 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:14:14 : [P1STOLE1R4] - Clicado no NPC [Helper]. Face 230. Race: 2. GenerateId: 3421. Posição do usuário: 2133x 2028y. Posição do NPC: 2132x 2034y
+22:14:16 : [P1STOLE1R4] - Matou o mob Porco de Guerra. GenerID: 4429
+22:14:16 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 105
+22:14:16 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:14:16 : [P1STOLE1R4] - Level UP para level 10. Ev: 0/0 - 2138x 2025y
+22:14:19 : [P1STOLE1R4] - Matou o mob Aguia. GenerID: 4431
+22:15:14 : [P1STOLE1R4] - [Mensagem do servidor]> Não possui recursos para essa compra
+22:15:57 : [P1STOLE1R4] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2100x 2111y. Posição do NPC: 2102x 2113y
+22:16:16 : [P1STOLE1R4] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:16:19 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2115x 2126y
+22:16:19 : [P1STOLE1R4] - Gold atual: 0.
+22:16:20 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2115x 2126y
+22:16:20 : [P1STOLE1R4] - Gold atual: 100000000.
+22:17:47 : [P1STOLE1R4] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:17:52 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2116x 2113y
+22:17:52 : [P1STOLE1R4] - Gold atual: 199999989.
+22:18:07 : [P1STOLE1R4] - [Mensagem do servidor]> Não possui recursos para essa compra
+22:18:10 : [P1STOLE1R4] - [Mensagem do servidor]> Não possui recursos para essa compra
+22:19:51 : [P1STOLE1R4] - Item Frango_Assado [3314] [61 240 0 0 0 0] utilizado em 2117x 2115y
+22:19:52 : [P1STOLE1R4] - Item Baú_de_Experiência [4140] [61 240 0 0 0 0] utilizado em 2117x 2115y
+22:19:53 : [P1STOLE1R4] - Item Baú_de_Caça [4139] [61 240 0 0 0 0] utilizado em 2117x 2115y
+22:20:49 : [P1STOLE1R4] - Matou o mob Porco de Guerra. GenerID: 4419
+22:20:49 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:20:51 : [P1STOLE1R4] - Matou o mob Porco de Guerra. GenerID: 4422
+22:20:51 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:20:53 : [P1STOLE1R4] - Matou o mob Porco de Guerra. GenerID: 4420
+22:20:53 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 108
+22:20:53 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:20:53 : [P1STOLE1R4] - Level UP para level 11. Ev: 0/0 - 2125x 2044y
+22:21:05 : [P1STOLE1R4] - Matou o mob Porco de Guerra. GenerID: 4439
+22:21:05 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:21:05 : [P1STOLE1R4] - Dropado item Robe(A) [1406] [43 1 71 70 60 6] em 2105x 2021y - Porco de Guerra (1/67)
+22:21:06 : [P1STOLE1R4] - Matou o mob Aguia. GenerID: 4439
+22:21:06 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:21:09 : [P1STOLE1R4] - Item Baú_de_Experiência [4140] [61 239 0 0 0 0] utilizado em 2106x 2020y
+22:21:09 : [P1STOLE1R4] - Matou o mob Aguia. GenerID: 4436
+22:21:09 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:21:09 : [P1STOLE1R4] - Item Baú_de_Experiência [4140] [61 238 0 0 0 0] utilizado em 2111x 2017y
+22:21:10 : [P1STOLE1R4] - Item Baú_de_Experiência [4140] [61 237 0 0 0 0] utilizado em 2111x 2017y
+22:21:10 : [P1STOLE1R4] - Item Baú_de_Experiência [4140] [61 236 0 0 0 0] utilizado em 2112x 2018y
+22:21:10 : [P1STOLE1R4] - Matou o mob Porco de Guerra. GenerID: 4436
+22:21:10 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 111
+22:21:10 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:21:10 : [P1STOLE1R4] - Level UP para level 12. Ev: 0/0 - 2114x 2020y
+22:21:11 : [P1STOLE1R4] - Item Baú_de_Experiência [4140] [61 235 0 0 0 0] utilizado em 2114x 2020y
+22:21:11 : [P1STOLE1R4] - Item Baú_de_Experiência [4140] [61 234 0 0 0 0] utilizado em 2114x 2020y
+22:21:12 : [P1STOLE1R4] - Item Baú_de_Experiência [4140] [61 233 0 0 0 0] utilizado em 2113x 2019y
+22:21:12 : [P1STOLE1R4] - Matou o mob Porco de Guerra. GenerID: 4436
+22:21:12 : [P1STOLE1R4] - Item Frango_Assado [3314] [61 239 0 0 0 0] utilizado em 2112x 2018y
+22:21:13 : [P1STOLE1R4] - Item Frango_Assado [3314] [61 238 0 0 0 0] utilizado em 2112x 2018y
+22:21:13 : [P1STOLE1R4] - Matou o mob Aguia. GenerID: 4436
+22:21:13 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:21:13 : [P1STOLE1R4] - Dropado item Luvas(A) [1292] [43 2 72 25 54 12] em 2112x 2018y - Aguia (1/30)
+22:21:24 : [P1STOLE1R4] - Matou o mob Gremlin. GenerID: 4445
+22:21:24 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:21:36 : [P1STOLE1R4] - Matou o mob Gremlin Artif. GenerID: 4449
+22:21:36 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:21:36 : [P1STOLE1R4] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2077x 2022y - Gremlin Artif (1/1)
+22:21:38 : [P1STOLE1R4] - Clicado no NPC [Treinador1]. Face 60. Race: 2. GenerateId: 4408. Posição do usuário: 2082x 2021y. Posição do NPC: 2080x 2016y
+22:21:38 : [P1STOLE1R4] - [Mensagem do servidor]> Recebeu Poção de Cura como recompensa.
+22:21:38 : [P1STOLE1R4] - Matou o mob Gremlin. GenerID: 4445
+22:21:38 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 114
+22:21:38 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:21:38 : [P1STOLE1R4] - Level UP para level 13. Ev: 0/0 - 2082x 2021y
+22:21:44 : [P1STOLE1R4] - Clicado no NPC [Helper ]. Face 230. Race: 2. GenerateId: 3422. Posição do usuário: 2086x 2002y. Posição do NPC: 2087x 2001y
+22:21:45 : [P1STOLE1R4] - Clicado no NPC [Helper ]. Face 230. Race: 2. GenerateId: 3422. Posição do usuário: 2088x 2001y. Posição do NPC: 2087x 2001y
+22:21:46 : [P1STOLE1R4] - Clicado no NPC [Helper ]. Face 230. Race: 2. GenerateId: 3422. Posição do usuário: 2088x 2001y. Posição do NPC: 2087x 2001y
+22:21:48 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4452
+22:21:48 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:21:50 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4452
+22:21:50 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:21:52 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4452
+22:21:52 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 117
+22:21:52 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:21:52 : [P1STOLE1R4] - Level UP para level 14. Ev: 0/0 - 2083x 2002y
+22:21:55 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4450
+22:21:55 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:21:59 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4452
+22:21:59 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:22:00 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4452
+22:22:00 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 120
+22:22:00 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:22:00 : [P1STOLE1R4] - Level UP para level 15. Ev: 0/0 - 2082x 2001y
+22:22:02 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4452
+22:22:02 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:22:07 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4451
+22:22:07 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:22:10 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4451
+22:22:10 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:22:15 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4452
+22:22:15 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 123
+22:22:15 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:22:15 : [P1STOLE1R4] - Level UP para level 16. Ev: 0/0 - 2081x 2004y
+22:22:17 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4452
+22:22:17 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:22:19 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4452
+22:22:19 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:22:20 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4452
+22:22:20 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:22:22 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4452
+22:22:24 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4452
+22:22:24 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 126
+22:22:24 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:22:24 : [P1STOLE1R4] - Level UP para level 17. Ev: 0/0 - 2080x 2002y
+22:22:24 : [P1STOLE1R4] - Dropado item Poção_de_Mana [405] [0 0 0 0 0 0] em 2080x 2002y - Krill (1/30)
+22:22:27 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4450
+22:22:27 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:22:28 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4450
+22:22:28 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:22:29 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4450
+22:22:33 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4451
+22:22:33 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:22:36 : [P1STOLE1R4] - Matou o mob Gremlin. GenerID: 4453
+22:22:39 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4452
+22:22:39 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 129
+22:22:39 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:22:39 : [P1STOLE1R4] - Level UP para level 18. Ev: 0/0 - 2080x 2003y
+22:22:42 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 4452
+22:22:42 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:22:42 : [P1STOLE1R4] - Dropado item Calça(A) [1809] [43 2 71 30 3 5] em 2080x 2001y - Krill (1/67)
+22:23:06 : [P1STOLE1R4] - Matou o mob Krill Gigante. GenerID: 4476
+22:23:06 : [P1STOLE1R4] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2142x 1996y - Krill Gigante (1/1)
+22:23:14 : [P1STOLE1R4] - Clicado no NPC [Treinador2]. Face 60. Race: 2. GenerateId: 4409. Posição do usuário: 2140x 1988y. Posição do NPC: 2142x 1990y
+22:23:14 : [P1STOLE1R4] - [Mensagem do servidor]> Como recompensa foi atribuída uma opção adicional em sua arma.
+22:23:19 : [P1STOLE1R4] - Clicado no NPC [Treinador2]. Face 60. Race: 2. GenerateId: 4409. Posição do usuário: 2143x 1993y. Posição do NPC: 2142x 1990y
+22:23:20 : [P1STOLE1R4] - Matou o mob Rei Gremlin  . GenerID: 4474
+22:23:20 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:23:20 : [P1STOLE1R4] - Clicado no NPC [Treinador2]. Face 60. Race: 2. GenerateId: 4409. Posição do usuário: 2143x 1993y. Posição do NPC: 2142x 1990y
+22:23:21 : [P1STOLE1R4] - Clicado no NPC [Treinador2]. Face 60. Race: 2. GenerateId: 4409. Posição do usuário: 2143x 1993y. Posição do NPC: 2142x 1990y
+22:23:22 : [P1STOLE1R4] - Clicado no NPC [Treinador2]. Face 60. Race: 2. GenerateId: 4409. Posição do usuário: 2143x 1993y. Posição do NPC: 2142x 1990y
+22:23:23 : [P1STOLE1R4] - Clicado no NPC [Treinador2]. Face 60. Race: 2. GenerateId: 4409. Posição do usuário: 2148x 1998y. Posição do NPC: 2142x 1990y
+22:23:24 : [P1STOLE1R4] - Matou o mob Rei Gremlin  . GenerID: 4475
+22:23:24 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 132
+22:23:24 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:23:24 : [P1STOLE1R4] - Level UP para level 19. Ev: 0/0 - 2148x 1998y
+22:23:24 : [P1STOLE1R4] - Dropado item Sapatos(A) [1415] [43 0 73 18 74 6] em 2148x 1998y - Rei Gremlin   (1/90)
+22:23:53 : [P1STOLE1R4] - Matou o mob Rei Gremlin  . GenerID: 4490
+22:23:53 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:23:58 : [P1STOLE1R4] - Matou o mob Orc Sniper. GenerID: 4494
+22:23:58 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:23:58 : [P1STOLE1R4] - Dropado item Chave_da_Ultima_Porta [453] [0 0 0 0 0 0] em 2075x 1973y - Orc Sniper (1/1)
+22:23:59 : [P1STOLE1R4] - Matou o mob Rei Gremlin  . GenerID: 4493
+22:23:59 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 135
+22:23:59 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:23:59 : [P1STOLE1R4] - Level UP para level 20. Ev: 0/0 - 2075x 1973y
+22:24:03 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:24:05 : [P1STOLE1R4] - Matou o mob Rei Gremlin  . GenerID: 4490
+22:24:05 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:24:08 : [P1STOLE1R4] - Matou o mob Chefe Krill . GenerID: 4492
+22:24:08 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:24:08 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 138
+22:24:08 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:24:08 : [P1STOLE1R4] - Level UP para level 21. Ev: 0/0 - 2077x 1974y
+22:24:10 : [P1STOLE1R4] - Matou o mob Rei Gremlin  . GenerID: 4492
+22:24:10 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:24:14 : [P1STOLE1R4] - Matou o mob Orc Sniper. GenerID: 4494
+22:24:14 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:24:14 : [P1STOLE1R4] - Dropado item Chave_da_Ultima_Porta [453] [0 0 0 0 0 0] em 2075x 1975y - Orc Sniper (1/1)
+22:24:15 : [P1STOLE1R4] - Matou o mob Rei Gremlin  . GenerID: 4492
+22:24:15 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:24:34 : [P1STOLE1R4] - Trade com conta FOFETE00
+22:24:34 : [P1STOLE1R4] - Trade - 0 - Enviado Baú_de_Experiência para uFrosT [4140] [61 232 0 0 0 0]
+22:24:34 : [P1STOLE1R4] - Trade - 1 - Enviado Baú_de_Caça para uFrosT [4139] [61 239 0 0 0 0]
+22:24:34 : [P1STOLE1R4] - Trade - 2 - Enviado Frango_Assado para uFrosT [3314] [61 237 0 0 0 0]
+22:24:34 : [P1STOLE1R4] - Trade - Recebido 0 de gold do usuário
+22:24:34 : [P1STOLE1R4] - Trade - Enviado 0 de gold para o usuário
+22:24:37 : [P1STOLE1R4] - Clicado no NPC [Treinador3]. Face 60. Race: 2. GenerateId: 4410. Posição do usuário: 2078x 1967y. Posição do NPC: 2078x 1966y
+22:24:37 : [P1STOLE1R4] - [Mensagem do servidor]> Como recompensa a sua arma e armadura foram refinadas.
+22:24:42 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 141
+22:24:42 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:24:42 : [P1STOLE1R4] - Level UP para level 22. Ev: 0/0 - 2078x 1967y
+22:24:48 : [P1STOLE1R4] - Moveu item Aranha [2360] [88 27 1 20 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 14
+22:25:04 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:25:04 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 144
+22:25:04 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:25:04 : [P1STOLE1R4] - Level UP para level 23. Ev: 0/0 - 2107x 1942y
+22:25:08 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:25:11 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:25:11 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 147
+22:25:11 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:25:11 : [P1STOLE1R4] - Level UP para level 24. Ev: 0/0 - 2107x 1942y
+22:25:23 : [P1STOLE1R4] - Matou o mob Orc Guerreiro  . GenerID: 4514
+22:25:23 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:25:23 : [P1STOLE1R4] - Pontos CP subiu em 3. CP novo: 150
+22:25:23 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:25:23 : [P1STOLE1R4] - Level UP para level 25. Ev: 0/0 - 2137x 1948y
+22:25:23 : [P1STOLE1R4] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2137x 1948y - Orc Guerreiro   (1/1)
+22:25:28 : [P1STOLE1R4] - Clicado no NPC [Chefe de Treino]. Face 60. Race: 2. GenerateId: 4411. Posição do usuário: 2139x 1949y. Posição do NPC: 2141x 1952y
+22:25:28 : [P1STOLE1R4] - [Mensagem do servidor]> Recebeu a recompensa da Quest.
+22:25:28 : [P1STOLE1R4] - Teleportado para a posição 2100 2100
+22:25:32 : [P1STOLE1R4] - Moveu item Âmago_de_Aranha [2390] [61 40 0 0 0 0] do tipo INVENTÁRIO do slot 15 para tipo INVENTÁRIO slot 29
+22:25:35 : [P1STOLE1R4] - Item Chave_da_Ultima_Porta deletado [453] [0 0 0 0 0 0]. Slot 14
+22:25:36 : [P1STOLE1R4] - Item Chave_da_Primeira_Porta deletado [451] [0 0 0 0 0 0]. Slot 8
+22:25:40 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:25:41 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:25:41 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:25:41 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:25:44 : [P1STOLE1R4] - [Mensagem do servidor]: Mob foi derrotado por Nikows
+22:25:45 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:25:45 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:25:45 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:25:46 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:25:51 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:25:51 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:25:53 : [P1STOLE1R4] - Moveu item Aranha [2360] [88 27 1 20 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 8
+22:25:55 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:25:55 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:25:57 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:26:05 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:26:14 : [P1STOLE1R4] - Moveu item Aranha [2360] [88 27 1 20 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 14
+22:26:16 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:26:16 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:26:54 : [P1STOLE1R4] - [Mensagem do servidor]> 4 itens decompostos com sucesso!
+22:26:58 : [P1STOLE1R4] - [Mensagem do servidor]> Não possui espaço para negociar
+22:26:59 : [P1STOLE1R4] - [Mensagem do servidor]> Não possui espaço para negociar
+22:27:03 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2145x 2087y
+22:27:03 : [P1STOLE1R4] - Gold atual: 298849956.
+22:27:04 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2145x 2087y
+22:27:04 : [P1STOLE1R4] - Gold atual: 398849956.
+22:27:04 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2145x 2087y
+22:27:04 : [P1STOLE1R4] - Gold atual: 498849956.
+22:27:05 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2145x 2087y
+22:27:05 : [P1STOLE1R4] - Gold atual: 598849956.
+22:27:06 : [P1STOLE1R4] - Moveu item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo INVENTÁRIO slot 16
+22:27:07 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2145x 2087y
+22:27:07 : [P1STOLE1R4] - Gold atual: 698849956.
+22:27:07 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2145x 2087y
+22:27:07 : [P1STOLE1R4] - Gold atual: 798849956.
+22:27:08 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2145x 2087y
+22:27:08 : [P1STOLE1R4] - Gold atual: 898849956.
+22:27:08 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2145x 2087y
+22:27:08 : [P1STOLE1R4] - Gold atual: 998849956.
+22:27:09 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2145x 2087y
+22:27:09 : [P1STOLE1R4] - Gold atual: 1098849956.
+22:27:10 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2145x 2087y
+22:27:10 : [P1STOLE1R4] - Gold atual: 1198849956.
+22:27:10 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2145x 2087y
+22:27:10 : [P1STOLE1R4] - Gold atual: 1298849956.
+22:27:11 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2145x 2087y
+22:27:11 : [P1STOLE1R4] - Gold atual: 1398849956.
+22:27:11 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2145x 2087y
+22:27:11 : [P1STOLE1R4] - Gold atual: 1498849956.
+22:27:13 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2145x 2087y
+22:27:13 : [P1STOLE1R4] - Gold atual: 1598849956.
+22:27:14 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2145x 2087y
+22:27:14 : [P1STOLE1R4] - Gold atual: 1698849956.
+22:27:15 : [P1STOLE1R4] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2145x 2087y
+22:27:15 : [P1STOLE1R4] - Gold atual: 1798849956.
+22:27:16 : [P1STOLE1R4] - Item Sapatos(A) deletado [1415] [43 0 73 18 74 6]. Slot 13
+22:27:16 : [P1STOLE1R4] - Item Chave_da_Ultima_Porta deletado [453] [0 0 0 0 0 0]. Slot 12
+22:27:17 : [P1STOLE1R4] - Item Luvas(A) deletado [1292] [43 2 72 25 54 12]. Slot 7
+22:27:18 : [P1STOLE1R4] - Item Robe(A) deletado [1406] [43 1 71 70 60 6]. Slot 6
+22:27:19 : [P1STOLE1R4] - Item Calça(A) deletado [1809] [43 2 71 30 3 5]. Slot 11
+22:27:20 : [P1STOLE1R4] - Moveu item Poção_de_Mana [405] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo INVENTÁRIO slot 12
+22:27:22 : [P1STOLE1R4] - Item Galho_de_Treant deletado [4502] [61 116 0 0 0 0]. Slot 5
+22:27:24 : [P1STOLE1R4] - Item Chave_do_Pacote deletado [5382] [96 0 0 0 0 0]. Slot 1
+22:29:14 : [P1STOLE1R4] - Clicado no NPC [Helper    ]. Face 230. Race: 2. GenerateId: 3425. Posição do usuário: 2206x 2106y. Posição do NPC: 2204x 2106y
+22:29:16 : [P1STOLE1R4] - Clicado no NPC [Helper    ]. Face 230. Race: 2. GenerateId: 3425. Posição do usuário: 2205x 2107y. Posição do NPC: 2204x 2106y
+22:29:20 : [P1STOLE1R4] - Matou o mob Gremlin. GenerID: 442
+22:29:24 : [P1STOLE1R4] - Matou o mob Krill. GenerID: 477
+22:29:24 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:29:24 : [P1STOLE1R4] - Dropado item Luvas(A) [1813] [43 1 72 10 60 4] em 2241x 2094y - Krill (1/89)
+22:29:32 : [P1STOLE1R4] - Clicado no NPC [Helper    ]. Face 230. Race: 2. GenerateId: 3426. Posição do usuário: 2289x 2104y. Posição do NPC: 2278x 2119y
+22:29:36 : [P1STOLE1R4] - Matou o mob Gremlin. GenerID: 525
+22:30:00 : [P1STOLE1R4] - [Mensagem do servidor]: A batalha de acampamento avançado do reino foi finalizada
+22:30:32 : [P1STOLE1R4] - Clicado no NPC [Coveiro]. Face 58. Race: 2. GenerateId: 3282. Posição do usuário: 2377x 2098y. Posição do NPC: 2372x 2097y
+22:30:45 : [P1STOLE1R4] - Matou o mob Chefe Krill. GenerID: 590
+22:30:47 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 601
+22:30:48 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 601
+22:30:48 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:30:49 : [P1STOLE1R4] - Matou o mob Rei Gremlin . GenerID: 600
+22:30:50 : [P1STOLE1R4] - [Mensagem do servidor]> Saia do grupo para criar um.
+22:30:52 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 599
+22:30:53 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 599
+22:30:54 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 599
+22:30:55 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:30:55 : [P1STOLE1R4] - Level UP para level 26. Ev: 0/0 - 2366x 2136y
+22:30:55 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 599
+22:30:57 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 600
+22:30:58 : [P1STOLE1R4] - Matou o mob Rei Gremlin . GenerID: 600
+22:31:00 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 599
+22:31:02 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 599
+22:31:02 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:31:04 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 598
+22:31:05 : [P1STOLE1R4] - Matou o mob Chefe Krill. GenerID: 611
+22:31:06 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 598
+22:31:07 : [P1STOLE1R4] - Matou o mob Lobo. GenerID: 610
+22:31:07 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:31:09 : [P1STOLE1R4] - Matou o mob Chefe Krill. GenerID: 611
+22:31:11 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 598
+22:31:12 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 599
+22:31:14 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 599
+22:31:18 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 592
+22:31:18 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:31:19 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 592
+22:31:21 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 592
+22:31:24 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 599
+22:31:25 : [P1STOLE1R4] - Matou o mob Lobo. GenerID: 610
+22:31:25 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:31:25 : [P1STOLE1R4] - Level UP para level 27. Ev: 0/0 - 2368x 2139y
+22:31:27 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 599
+22:31:29 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 598
+22:31:30 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 598
+22:31:31 : [P1STOLE1R4] - Matou o mob Chefe Krill. GenerID: 593
+22:31:33 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 598
+22:31:33 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:31:34 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 598
+22:31:36 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 599
+22:31:37 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 599
+22:31:37 : [P1STOLE1R4] - Dropado item Dardo [877] [43 0 26 9 59 0] em 2369x 2141y - Rei Gremlin (1/300)
+22:31:39 : [P1STOLE1R4] - Matou o mob Chefe Krill. GenerID: 611
+22:32:08 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 599
+22:32:08 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:32:09 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 599
+22:32:10 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 599
+22:32:12 : [P1STOLE1R4] - Matou o mob Lobo. GenerID: 610
+22:32:14 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 600
+22:32:15 : [P1STOLE1R4] - Matou o mob Rei Gremlin . GenerID: 600
+22:32:15 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:32:20 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 581
+22:32:22 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 594
+22:32:25 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 595
+22:32:27 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 595
+22:32:29 : [P1STOLE1R4] - Matou o mob Chefe Krill . GenerID: 629
+22:32:29 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:32:29 : [P1STOLE1R4] - Level UP para level 28. Ev: 0/0 - 2335x 2159y
+22:32:29 : [P1STOLE1R4] - Dropado item Elmo(N) [1104] [9 15 59 0 59 0] em 2335x 2159y - Chefe Krill  (1/300)
+22:32:30 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 597
+22:32:31 : [P1STOLE1R4] - Matou o mob Lobo. GenerID: 628
+22:32:33 : [P1STOLE1R4] - Matou o mob Chefe Krill. GenerID: 630
+22:32:36 : [P1STOLE1R4] - Matou o mob Orc Arqueiro. GenerID: 649
+22:32:36 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:32:39 : [P1STOLE1R4] - Matou o mob Orc Arqueiro. GenerID: 656
+22:32:40 : [P1STOLE1R4] - Matou o mob Lizard. GenerID: 2748
+22:32:40 : [P1STOLE1R4] - Dropado item Pergaminho_do_Teleporte [699] [0 0 0 0 0 0] em 2331x 2184y - Lizard (1/50)
+22:32:44 : [P1STOLE1R4] - Matou o mob Orc Arqueiro. GenerID: 655
+22:32:45 : [P1STOLE1R4] - Matou o mob Lizard. GenerID: 2747
+22:32:45 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:32:46 : [P1STOLE1R4] - Matou o mob Orc Arqueiro. GenerID: 649
+22:32:49 : [P1STOLE1R4] - Matou o mob Lobo. GenerID: 630
+22:32:52 : [P1STOLE1R4] - Matou o mob Chefe Krill . GenerID: 629
+22:32:52 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:32:56 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 597
+22:32:57 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 597
+22:32:59 : [P1STOLE1R4] - Matou o mob Chefe Krill. GenerID: 630
+22:33:01 : [P1STOLE1R4] - Matou o mob Lobo. GenerID: 630
+22:33:03 : [P1STOLE1R4] - Matou o mob Orc Arqueiro. GenerID: 648
+22:33:03 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:33:03 : [P1STOLE1R4] - Level UP para level 29. Ev: 0/0 - 2323x 2178y
+22:33:03 : [P1STOLE1R4] - Recebeu o item Luvas(M) [1456] [43 0 2 20 53 3]. STR: 96. INT: 6. DEX: 39. CON: 5
+22:33:05 : [P1STOLE1R4] - Matou o mob Chefe Krill. GenerID: 630
+22:33:07 : [P1STOLE1R4] - Matou o mob Lobo. GenerID: 630
+22:33:10 : [P1STOLE1R4] - Matou o mob Lobo. GenerID: 630
+22:33:11 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 597
+22:33:13 : [P1STOLE1R4] - Matou o mob Chefe Krill. GenerID: 630
+22:33:13 : [P1STOLE1R4] - Dropado item Braçadeira(M) [1576] [43 1 72 20 59 0] em 2325x 2168y - Chefe Krill (1/300)
+22:33:15 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 597
+22:33:18 : [P1STOLE1R4] - Matou o mob Chefe Krill . GenerID: 629
+22:33:18 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:33:19 : [P1STOLE1R4] - Comando "/ @ kkkkkkkkk"
+22:33:19 : [P1STOLE1R4] - Mensagem enviada: @ kkkkkkkkk
+22:33:19 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 595
+22:33:20 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 594
+22:33:22 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 595
+22:33:22 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 594
+22:33:22 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:33:23 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 595
+22:33:26 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 594
+22:33:28 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 592
+22:33:28 : [P1STOLE1R4] - Dropado item Robe(A) [1822] [43 0 59 0 59 0] em 2351x 2148y - Javali (1/90)
+22:33:30 : [P1STOLE1R4] - Matou o mob Chefe Krill. GenerID: 593
+22:33:32 : [P1STOLE1R4] - Matou o mob Chefe Krill. GenerID: 626
+22:33:32 : [P1STOLE1R4] - Dropado item Elmo(N) [1416] [43 0 59 0 59 0] em 2351x 2160y - Chefe Krill (1/300)
+22:33:34 : [P1STOLE1R4] - Matou o mob Chefe Krill. GenerID: 634
+22:33:34 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:33:34 : [P1STOLE1R4] - Dropado item Adaga [863] [4 60 26 18 2 18] em 2357x 2164y - Chefe Krill (1/300)
+22:33:36 : [P1STOLE1R4] - Matou o mob Chefe Krill. GenerID: 634
+22:33:37 : [P1STOLE1R4] - Matou o mob Lobo. GenerID: 634
+22:33:40 : [P1STOLE1R4] - Matou o mob Lobo. GenerID: 633
+22:33:42 : [P1STOLE1R4] - Matou o mob Chefe Krill. GenerID: 633
+22:33:45 : [P1STOLE1R4] - Matou o mob Lobo. GenerID: 633
+22:33:47 : [P1STOLE1R4] - Matou o mob Chefe Krill. GenerID: 634
+22:33:47 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:33:47 : [P1STOLE1R4] - Level UP para level 30. Ev: 0/0 - 2358x 2167y
+22:33:49 : [P1STOLE1R4] - Matou o mob Lobo. GenerID: 634
+22:33:52 : [P1STOLE1R4] - Matou o mob Chefe Krill. GenerID: 626
+22:33:54 : [P1STOLE1R4] - Matou o mob Lobo. GenerID: 625
+22:33:55 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 598
+22:33:56 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 598
+22:33:58 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 592
+22:34:21 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 587
+22:34:21 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:34:24 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 587
+22:34:32 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 587
+22:34:37 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 603
+22:34:38 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 588
+22:34:39 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 587
+22:34:39 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:34:41 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 588
+22:34:42 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 588
+22:34:43 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 588
+22:34:46 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 589
+22:34:47 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 589
+22:34:49 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 588
+22:34:50 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 588
+22:34:50 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:34:50 : [P1STOLE1R4] - Dropado item Arco [817] [43 0 74 6 26 12] em 2355x 2106y - Rei Gremlin (1/300)
+22:34:52 : [P1STOLE1R4] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 7. Distância 2: 7. Range: 1.
+22:34:54 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 603
+22:34:55 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 603
+22:34:56 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 587
+22:34:58 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 603
+22:34:59 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 603
+22:35:01 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 588
+22:35:04 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 603
+22:35:04 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:35:04 : [P1STOLE1R4] - Level UP para level 31. Ev: 0/0 - 2369x 2100y
+22:35:05 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 603
+22:35:08 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 603
+22:35:09 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 588
+22:35:11 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 603
+22:35:12 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 587
+22:35:14 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 587
+22:35:16 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 587
+22:35:18 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 588
+22:35:18 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:35:19 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 588
+22:35:22 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 603
+22:35:22 : [P1STOLE1R4] - Dropado item Luvas(A) [1834] [43 2 72 10 60 4] em 2363x 2099y - Javali (1/90)
+22:35:24 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 603
+22:35:26 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 602
+22:35:30 : [P1STOLE1R4] - [Mensagem do servidor]> Saia do grupo para criar um.
+22:35:34 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 602
+22:35:34 : [P1STOLE1R4] - [Mensagem do servidor]> Saia do grupo para criar um.
+22:35:35 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 602
+22:35:45 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 602
+22:35:45 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:35:50 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 603
+22:35:52 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 603
+22:35:53 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 603
+22:35:55 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 602
+22:35:57 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 602
+22:35:58 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 602
+22:36:00 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 587
+22:36:00 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:36:03 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:36:03 : [P1STOLE1R4] - Level UP para level 32. Ev: 0/0 - 2358x 2099y
+22:36:03 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 587
+22:36:06 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 588
+22:36:07 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 588
+22:36:07 : [P1STOLE1R4] - Dropado item Cristal_V [425] [0 0 0 0 0 0] em 2354x 2105y - Rei Gremlin (1/2250)
+22:36:12 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 587
+22:36:12 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:36:12 : [P1STOLE1R4] - Level UP para level 33. Ev: 0/0 - 2361x 2100y
+22:36:15 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 602
+22:36:17 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:36:17 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:36:17 : [P1STOLE1R4] - Level UP para level 34. Ev: 0/0 - 2361x 2114y
+22:36:17 : [P1STOLE1R4] - Recebeu o item Botas(M) [1459] [43 0 73 18 74 12]. STR: 96. INT: 6. DEX: 39. CON: 5
+22:36:17 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:36:17 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:36:17 : [P1STOLE1R4] - Level UP para level 35. Ev: 0/0 - 2361x 2114y
+22:36:17 : [P1STOLE1R4] - Recebeu o item Poeira_de_Lactolerium [413] [61 10 0 0 0 0]. STR: 96. INT: 6. DEX: 39. CON: 5
+22:36:17 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:36:17 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:36:17 : [P1STOLE1R4] - Level UP para level 36. Ev: 0/0 - 2361x 2114y
+22:36:17 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 589
+22:36:19 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 601
+22:36:19 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:36:19 : [P1STOLE1R4] - Level UP para level 37. Ev: 0/0 - 2361x 2114y
+22:36:21 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:36:21 : [P1STOLE1R4] - Level UP para level 38. Ev: 0/0 - 2361x 2108y
+22:36:22 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 602
+22:36:23 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 602
+22:36:24 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 588
+22:36:26 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 588
+22:36:29 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 589
+22:36:32 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 589
+22:36:32 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:36:32 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:36:32 : [P1STOLE1R4] - Level UP para level 39. Ev: 0/0 - 2362x 2115y
+22:36:32 : [P1STOLE1R4] - Recebeu o item Elmo(M) [1447] [43 0 4 20 0 0]. STR: 96. INT: 6. DEX: 39. CON: 5
+22:36:33 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 589
+22:36:34 : [P1STOLE1R4] - Matou o mob Javali. GenerID: 589
+22:36:36 : [P1STOLE1R4] - Matou o mob Rei Gremlin. GenerID: 602
+22:36:39 : [P1STOLE1R4] - Clicado no NPC [Coveiro]. Face 58. Race: 2. GenerateId: 3282. Posição do usuário: 2373x 2097y. Posição do NPC: 2372x 2097y
+22:36:39 : [P1STOLE1R4] - Teleportado para a posição 2397 2105
+22:36:39 : [P1STOLE1R4] - P1STOLE1R4 entrou na quest [Coveiro].
+22:36:41 : [P1STOLE1R4] - Matou o mob Esqueleto. GenerID: 4234
+22:36:41 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:36:43 : [P1STOLE1R4] - Matou o mob Aparicao. GenerID: 4234
+22:36:43 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:36:43 : [P1STOLE1R4] - Level UP para level 40. Ev: 0/0 - 2397x 2105y
+22:36:43 : [P1STOLE1R4] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2397x 2105y - Aparicao (1/1)
+22:36:45 : [P1STOLE1R4] - [Mensagem do servidor]> O outro jogador já possui grupo.
+22:36:46 : [P1STOLE1R4] - Matou o mob Esqueleto. GenerID: 4234
+22:36:46 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:36:46 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:36:46 : [P1STOLE1R4] - Level UP para level 41. Ev: 0/0 - 2397x 2105y
+22:36:46 : [P1STOLE1R4] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2397x 2105y - Esqueleto (1/4)
+22:36:47 : [P1STOLE1R4] - [Mensagem do servidor]> Servidor entrando em manutenção...
+22:36:47 : [P1STOLE1R4] - 37 Personagem foi desconectado. Permaneceu 00:24:32 minutos online
+22:36:58 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 18
+22:36:58 : Usuário logou no jogo com clientId 18. - Servidor 1. Gold do banco: 0
+22:36:58 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+22:39:00 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 1
+22:39:00 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+22:39:00 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:39:09 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 3
+22:39:09 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+22:39:09 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:39:14 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 1
+22:39:14 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+22:39:14 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:40:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 23
+22:40:22 : Usuário logou no jogo com clientId 23. - Servidor 1. Gold do banco: 0
+22:40:22 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+22:40:23 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:40:30 : Solicitou ir ao mundo...
+22:40:30 : Recebido pedido para entrar no jogo
+22:40:30 : Recebido informação do personagem completa.
+22:40:30 : [P1STOLE1R4] - [INFORMAÇÕES DA CONTA]
+Personagem online: P1STOLE1R4
+Gold atual: 1897699956
+Level atual: 41
+Experiência atual: 316956
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2096x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 8 0 0 0 0]
+[02] - Armadura(N)[1419] [43 8 0 0 0 0]
+[03] - Calça(N)[1422] [43 8 0 0 0 0]
+[04] - Luvas(N)[1425] [43 8 0 0 0 0]
+[05] - Botas(N)[1428] [43 8 0 0 0 0]
+[06] - Adaga[861] [43 8 0 0 0 0]
+[14] - Aranha[2360] [86 27 1 20 0 0]
+
+[INVENTÁRIO]
+[00] - Grifo_Sangrento[2386] [10 10 100 60 10 0]
+[01] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[02] - Poeira_de_Lactolerium[413] [61 235 0 0 0 0]
+[03] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[04] - Lobo_Polar[3980] [96 3 0 0 0 0]
+[05] - Vela_do_Coveiro[4038] [0 0 0 0 0 0]
+[06] - Luvas(A)[1813] [43 1 72 10 60 4]
+[07] - Dardo[877] [43 0 26 9 59 0]
+[08] - Elmo(N)[1104] [9 15 59 0 59 0]
+[09] - Pergaminho_do_Teleporte[699] [0 0 0 0 0 0]
+[10] - Luvas(M)[1456] [43 0 2 20 53 3]
+[11] - Braçadeira(M)[1576] [43 1 72 20 59 0]
+[12] - Robe(A)[1822] [43 0 59 0 59 0]
+[13] - Elmo(N)[1416] [43 0 59 0 59 0]
+[14] - Adaga[863] [4 60 26 18 2 18]
+[15] - Arco[817] [43 0 74 6 26 12]
+[16] - Luvas(A)[1834] [43 2 72 10 60 4]
+[17] - Cristal_V[425] [0 0 0 0 0 0]
+[18] - Botas(M)[1459] [43 0 73 18 74 12]
+[19] - Poeira_de_Lactolerium[413] [61 10 0 0 0 0]
+[20] - Elmo(M)[1447] [43 0 4 20 0 0]
+[21] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[29] - Âmago_de_Aranha[2390] [61 40 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:40:30 : [P1STOLE1R4] - Personagem P1STOLE1R4 enviado ao mundo 2096x 2101y - Canal 1 - Cash da conta: 0. PowerLevel: 47
+22:40:30 : [P1STOLE1R4] - Gold atual: 1897699956. Classe: 2 Evolução: 0. Experiência: 316956. Nível: 41. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+22:40:30 : [P1STOLE1R4] - Logou no personagem P1STOLE1R4 com frango ativo. Tempo: 1684
+22:40:30 : [P1STOLE1R4] - Logou no personagem P1STOLE1R4 com baú de experiência ativo. Tempo: 7074
+22:40:30 : [P1STOLE1R4] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+22:40:30 : [P1STOLE1R4] - Enviado informações do personagem
+22:40:31 : [P1STOLE1R4] - Comando "/day "
+22:40:31 : [P1STOLE1R4] - [Mensagem do servidor]> !#11 2
+22:40:34 : [P1STOLE1R4] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2102x 2107y. Posição do NPC: 2101x 2115y
+22:40:38 : [P1STOLE1R4] - Item Adaga deletado [863] [4 60 26 18 2 18]. Slot 14
+22:40:39 : [P1STOLE1R4] - Item Elmo(N) deletado [1416] [43 0 59 0 59 0]. Slot 13
+22:40:40 : [P1STOLE1R4] - Item Elmo(N) deletado [1104] [9 15 59 0 59 0]. Slot 8
+22:40:42 : [P1STOLE1R4] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:40:43 : [P1STOLE1R4] - Item Dardo deletado [877] [43 0 26 9 59 0]. Slot 7
+22:40:45 : [P1STOLE1R4] - Item Robe(A) deletado [1822] [43 0 59 0 59 0]. Slot 12
+22:40:46 : [P1STOLE1R4] - Item Braçadeira(M) deletado [1576] [43 1 72 20 59 0]. Slot 11
+22:40:48 : [P1STOLE1R4] - Item Luvas(M) deletado [1456] [43 0 2 20 53 3]. Slot 10
+22:40:49 : [P1STOLE1R4] - Item Luvas(A) deletado [1813] [43 1 72 10 60 4]. Slot 6
+22:40:51 : [P1STOLE1R4] - Moveu item Vela_do_Coveiro [4038] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 1
+22:40:54 : [P1STOLE1R4] - Moveu item Pergaminho_do_Teleporte [699] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo INVENTÁRIO slot 28
+22:40:54 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:40:54 : [P1STOLE1R4] - Level UP para level 42. Ev: 0/0 - 2101x 2107y
+22:40:56 : [P1STOLE1R4] - Item Elmo(M) deletado [1447] [43 0 4 20 0 0]. Slot 20
+22:40:57 : [P1STOLE1R4] - Item Luvas(A) deletado [1834] [43 2 72 10 60 4]. Slot 16
+22:40:59 : [P1STOLE1R4] - Item Botas(M) deletado [1459] [43 0 73 18 74 12]. Slot 18
+22:41:01 : [P1STOLE1R4] - Item Cristal_V deletado [425] [0 0 0 0 0 0]. Slot 17
+22:41:02 : [P1STOLE1R4] - Item Arco deletado [817] [43 0 74 6 26 12]. Slot 15
+22:42:05 : [P1STOLE1R4] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2113x 2116y
+22:42:05 : [P1STOLE1R4] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+22:42:11 : [P1STOLE1R4] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2113x 2116y
+22:42:11 : [P1STOLE1R4] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+22:42:12 : [P1STOLE1R4] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2113x 2116y
+22:42:12 : [P1STOLE1R4] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+22:42:42 : [P1STOLE1R4] - [Mensagem do servidor]> Compra concluída!
+22:42:51 : [P1STOLE1R4] - [Mensagem do servidor]> Compra concluída!
+22:43:10 : [P1STOLE1R4] - [Mensagem do servidor]> Compra concluída!
+22:43:13 : [P1STOLE1R4] - [Mensagem do servidor]> Compra concluída!
+22:43:16 : [P1STOLE1R4] - [Mensagem do servidor]> Compra concluída!
+22:43:45 : [P1STOLE1R4] - [Mensagem do servidor]> Compra concluída!
+22:43:50 : [P1STOLE1R4] - Comando "/nig "
+22:43:50 : [P1STOLE1R4] - [Mensagem do servidor]> !!224350
+22:44:25 : [P1STOLE1R4] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2132x 2108y
+22:44:25 : [P1STOLE1R4] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+22:44:25 : [P1STOLE1R4] - Item Barra_de_Vibrant_Coins [3396] [96 16 96 39 0 0] utilizado em 2132x 2108y
+22:44:25 : [P1STOLE1R4] - [Mensagem do servidor]> 10000 VC foram adicionados à conta
+22:44:26 : [P1STOLE1R4] - Item Poção_Divina(30dias) [3381] [0 0 0 0 0 0] utilizado em 2132x 2108y
+22:44:26 : [P1STOLE1R4] - Poção Divina utilizada até dia 13/03/2021 22:44:26
+22:44:27 : [P1STOLE1R4] - Item Bolsa_do_Andarilho [3467] [0 0 0 0 0 0] utilizado em 2132x 2108y
+22:44:27 : [P1STOLE1R4] - Bolsa do Andarilho usado. Até dia 13/03/2021
+22:44:28 : [P1STOLE1R4] - Item Bolsa_do_Andarilho [3467] [0 0 0 0 0 0] utilizado em 2132x 2108y
+22:44:28 : [P1STOLE1R4] - Bolsa do Andarilho usado. Até dia 13/03/2021
+22:44:32 : [P1STOLE1R4] - Agrupando o item Poeira_de_Lactolerium [413] [61 10 0 0 0 0] com o item Poeira_de_Lactolerium [413] [61 235 0 0 0 0]
+22:44:32 : [P1STOLE1R4] - O agrupamento foi efetuado de slot 19 tipo INVENTÁRIO para slot 2 tipo INVENTÁRIO
+22:44:35 : [P1STOLE1R4] - Item Poeira_de_Lactolerium deletado [413] [61 5 0 0 0 0]. Slot 19
+22:44:38 : [P1STOLE1R4] - Moveu item Jóia_da_Sagacidade [3200] [61 12 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo INVENTÁRIO slot 12
+22:45:03 : [P1STOLE1R4] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2118y
+22:45:03 : [P1STOLE1R4] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+22:45:03 : [P1STOLE1R4] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2118y
+22:45:03 : [P1STOLE1R4] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+22:45:04 : [P1STOLE1R4] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2118y
+22:45:04 : [P1STOLE1R4] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+22:45:04 : [P1STOLE1R4] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2118y
+22:45:04 : [P1STOLE1R4] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+22:45:05 : [P1STOLE1R4] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2118y
+22:45:05 : [P1STOLE1R4] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+22:45:06 : [P1STOLE1R4] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2118y
+22:45:06 : [P1STOLE1R4] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+22:45:06 : [P1STOLE1R4] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2118y
+22:45:06 : [P1STOLE1R4] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+22:45:48 : [P1STOLE1R4] - Teleportado para a posição 2458 2017
+22:46:08 : [P1STOLE1R4] - DoRecall - Enviado para cidade: 2465x 2005y
+22:46:14 : [P1STOLE1R4] - Clicado no NPC [Perzen Normal]. Face 11. Race: 2. GenerateId: 3274. Posição do usuário: 2469x 2003y. Posição do NPC: 2465x 2009y
+22:46:23 : [P1STOLE1R4] - Item Jóia_da_Resistência [3201] [61 12 0 0 0 0] utilizado em 2474x 2029y
+22:46:23 : [P1STOLE1R4] - Item Jóia_da_Recarga [3202] [61 12 0 0 0 0] utilizado em 2474x 2029y
+22:46:25 : [P1STOLE1R4] - Item Jóia_da_Sagacidade [3200] [61 12 0 0 0 0] utilizado em 2474x 2029y
+22:46:37 : [P1STOLE1R4] - DoRecall - Enviado para cidade: 2454x 2014y
+22:47:09 : [P1STOLE1R4] - Clicado no NPC [Coveiro]. Face 58. Race: 2. GenerateId: 3282. Posição do usuário: 2368x 2101y. Posição do NPC: 2372x 2097y
+22:47:09 : [P1STOLE1R4] - Teleportado para a posição 2397 2105
+22:47:09 : [P1STOLE1R4] - P1STOLE1R4 entrou na quest [Coveiro].
+22:47:18 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:47:18 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:47:19 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:47:20 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:47:20 : [P1STOLE1R4] - Level UP para level 43. Ev: 0/0 - 2389x 2110y
+22:47:20 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:47:21 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:47:21 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:47:21 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:47:21 : [P1STOLE1R4] - Level UP para level 44. Ev: 0/0 - 2392x 2110y
+22:47:21 : [P1STOLE1R4] - Recebeu o item Calça(M) [1453] [43 0 2 20 3 20]. STR: 96. INT: 6. DEX: 39. CON: 5
+22:47:23 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:47:25 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:47:26 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:47:26 : [P1STOLE1R4] - Level UP para level 45. Ev: 0/0 - 2384x 2118y
+22:47:28 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:47:29 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:47:29 : [P1STOLE1R4] - Level UP para level 46. Ev: 0/0 - 2385x 2122y
+22:47:30 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:47:31 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:47:32 : [P1STOLE1R4] - Matou o mob Esqueleto. GenerID: 4241
+22:47:32 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:47:32 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:47:32 : [P1STOLE1R4] - Level UP para level 47. Ev: 0/0 - 2389x 2117y
+22:47:33 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:47:33 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:47:33 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:47:33 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:47:33 : [P1STOLE1R4] - Level UP para level 48. Ev: 0/0 - 2389x 2117y
+22:47:35 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:47:36 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:47:36 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:47:36 : [P1STOLE1R4] - Level UP para level 49. Ev: 0/0 - 2388x 2122y
+22:47:36 : [P1STOLE1R4] - Recebeu o item Armadura(M) [1450] [43 0 2 20 3 20]. STR: 96. INT: 6. DEX: 39. CON: 5
+22:47:37 : [P1STOLE1R4] - Matou o mob Esqueleto. GenerID: 4243
+22:47:37 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:47:37 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:47:40 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:47:41 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:47:42 : [P1STOLE1R4] - Level UP para level 50. Ev: 0/0 - 2388x 2122y
+22:47:44 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:47:44 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:47:45 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:47:45 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:47:45 : [P1STOLE1R4] - Level UP para level 51. Ev: 0/0 - 2388x 2122y
+22:47:47 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:47:48 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:47:48 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:47:49 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:47:49 : [P1STOLE1R4] - Level UP para level 52. Ev: 0/0 - 2388x 2122y
+22:47:49 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:47:50 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:47:50 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:47:51 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:47:51 : [P1STOLE1R4] - Level UP para level 53. Ev: 0/0 - 2388x 2122y
+22:47:52 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:47:54 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:47:55 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:47:55 : [P1STOLE1R4] - Level UP para level 54. Ev: 0/0 - 2388x 2122y
+22:47:55 : [P1STOLE1R4] - Matou o mob Esqueleto. GenerID: 4243
+22:47:56 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:47:57 : [P1STOLE1R4] - [Mensagem do servidor]> Compra concluída!
+22:47:58 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:47:58 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:48:01 : [P1STOLE1R4] - Matou o mob Esqueleto. GenerID: 4243
+22:48:01 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:48:01 : [P1STOLE1R4] - Level UP para level 55. Ev: 0/0 - 2389x 2121y
+22:48:01 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:48:02 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:48:03 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:48:04 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:48:04 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:48:04 : [P1STOLE1R4] - Level UP para level 56. Ev: 0/0 - 2389x 2121y
+22:48:05 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:48:06 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:48:07 : [P1STOLE1R4] - Matou o mob Esqueleto. GenerID: 4244
+22:48:07 : [P1STOLE1R4] - Dropado item Resto_de_Oriharucon [419] [59 65 59 90 59 65] em 2389x 2121y - Esqueleto (1/225)
+22:48:07 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:48:08 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:48:09 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:48:09 : [P1STOLE1R4] - Level UP para level 57. Ev: 0/0 - 2389x 2121y
+22:48:10 : [P1STOLE1R4] - Matou o mob Esqueleto. GenerID: 4244
+22:48:10 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:48:11 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:48:11 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:48:12 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:48:14 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:48:14 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:48:15 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:48:15 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:48:15 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:48:15 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:48:15 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:48:18 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:48:18 : [P1STOLE1R4] - Level UP para level 58. Ev: 0/0 - 2389x 2121y
+22:48:20 : [P1STOLE1R4] - Moveu item Aranha [2360] [86 27 1 20 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 15
+22:48:23 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:48:24 : [P1STOLE1R4] - [Mensagem do servidor]> Somente o líder do grupo pode usar.
+22:48:25 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:48:26 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:48:26 : [P1STOLE1R4] - Level UP para level 59. Ev: 0/0 - 2389x 2121y
+22:48:26 : [P1STOLE1R4] - [Mensagem do servidor]> Ative para poder utilizar
+22:48:28 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:48:31 : [P1STOLE1R4] - Moveu item Aranha [2360] [86 27 1 20 0 0] do tipo INVENTÁRIO do slot 15 para tipo EQUIPAMENTO slot 14
+22:48:31 : [P1STOLE1R4] - Matou o mob Esqueleto. GenerID: 4243
+22:48:31 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:48:33 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:48:34 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:48:34 : [P1STOLE1R4] - Level UP para level 60. Ev: 0/0 - 2389x 2121y
+22:48:35 : [P1STOLE1R4] - Item Força_Espectral [671] [0 0 0 0 0 0] utilizado em 2389x 2121y
+22:48:35 : [P1STOLE1R4] - [Mensagem do servidor]> Level inadequado
+22:48:35 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:48:35 : [P1STOLE1R4] - Matou o mob Esqueleto. GenerID: 4243
+22:48:35 : [P1STOLE1R4] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2389x 2121y - Esqueleto (1/4)
+22:48:35 : [P1STOLE1R4] - Item Concentração [670] [0 0 0 0 0 0] utilizado em 2389x 2121y
+22:48:35 : [P1STOLE1R4] - [Mensagem do servidor]> Level inadequado
+22:48:36 : [P1STOLE1R4] - Item Muro_de_Espinhos [668] [0 0 0 0 0 0] utilizado em 2389x 2121y
+22:48:36 : [P1STOLE1R4] - [Mensagem do servidor]> Level inadequado
+22:48:36 : [P1STOLE1R4] - Item Ressurreição [669] [0 0 0 0 0 0] utilizado em 2389x 2121y
+22:48:36 : [P1STOLE1R4] - [Mensagem do servidor]> Level inadequado
+22:48:37 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:48:39 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:48:39 : [P1STOLE1R4] - Level UP para level 61. Ev: 0/0 - 2389x 2121y
+22:48:41 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:48:43 : [P1STOLE1R4] - Matou o mob Esqueleto. GenerID: 4244
+22:48:44 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:48:45 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:48:45 : [P1STOLE1R4] - Matou o mob Esqueleto. GenerID: 4244
+22:48:46 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:48:46 : [P1STOLE1R4] - Level UP para level 62. Ev: 0/0 - 2389x 2121y
+22:48:46 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:48:49 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:48:49 : [P1STOLE1R4] - Matou o mob Esqueleto. GenerID: 4241
+22:48:49 : [P1STOLE1R4] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2390x 2116y - Esqueleto (1/4)
+22:48:50 : [P1STOLE1R4] - Matou o mob Aparicao. GenerID: 4241
+22:48:50 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:48:50 : [P1STOLE1R4] - Level UP para level 63. Ev: 0/0 - 2389x 2115y
+22:48:50 : [P1STOLE1R4] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2389x 2115y - Aparicao (1/1)
+22:48:53 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:48:55 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:48:55 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:48:56 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:48:56 : [P1STOLE1R4] - Level UP para level 64. Ev: 0/0 - 2390x 2110y
+22:48:56 : [P1STOLE1R4] - Matou o mob Esqueleto. GenerID: 4239
+22:48:58 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:48:58 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:48:59 : [P1STOLE1R4] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:48:59 : [P1STOLE1R4] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:48:59 : [P1STOLE1R4] - Level UP para level 65. Ev: 0/0 - 2396x 2115y
+22:49:00 : [P1STOLE1R4] - Enviado para a cidade através do ClearArea. Posição: 2396x 2115y - Quest Coveiro
+22:49:00 : [P1STOLE1R4] - DoRecall - Enviado para cidade: 2461x 2013y
+22:49:05 : [P1STOLE1R4] - [Mensagem do servidor]> Servidor entrando em manutenção...
+22:49:05 : [P1STOLE1R4] - 23 Personagem foi desconectado. Permaneceu 00:08:36 minutos online
+22:49:12 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 14
+22:49:13 : Usuário logou no jogo com clientId 14. - Servidor 1. Gold do banco: 0
+22:49:13 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+22:49:14 : [Mensagem do servidor]> Servidor entrando em manutenção...
+22:49:14 : Personagem foi desconectado. Permaneceu 00:00:01 minutos online
+22:49:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 1
+22:49:22 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+22:49:22 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:53:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 1
+22:53:29 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+22:53:29 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:55:25 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 1
+22:55:26 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+22:55:26 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:55:30 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (LILARMOK) - IP: 167.249.18.93 Mac: (88:BA:A1:6E:35:40). ClientId: 1
+22:55:30 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+22:55:30 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online

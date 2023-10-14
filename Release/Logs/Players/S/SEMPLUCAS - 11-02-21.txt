@@ -1,0 +1,855 @@
+
+21:53:10 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (SEMPLUCAS) - IP: 187.1.54.22 Mac: (45:0C:01:09:20:4B). ClientId: 28
+21:53:10 : Usuário logou no jogo com clientId 28. - Servidor 1. Gold do banco: 0
+21:53:10 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+21:53:10 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:53:35 : Solicitou ir ao mundo...
+21:53:35 : Recebido pedido para entrar no jogo
+21:53:35 : Recebido informação do personagem completa.
+21:53:35 : [AzaZelHALLO] - [INFORMAÇÕES DA CONTA]
+Personagem online: AzaZelHALLO
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:25 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 0 0 0 0 0]
+[03] - Calça(N)[1572] [43 0 0 0 0 0]
+[04] - Braçadeira(N)[1575] [43 0 0 0 0 0]
+[05] - Botas(N)[1578] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:53:35 : [AzaZelHALLO] - Personagem AzaZelHALLO enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. PowerLevel: 11
+21:53:35 : [AzaZelHALLO] - Gold atual: 0. Classe: 3 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+21:53:35 : [AzaZelHALLO] - Resetado a contagem de entradas água! Day: 0-41. Total: 0
+21:53:35 : [AzaZelHALLO] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+21:53:35 : [AzaZelHALLO] - Enviado informações do personagem
+21:53:36 : [AzaZelHALLO] - Comando "/day "
+21:53:36 : [AzaZelHALLO] - [Mensagem do servidor]> !#11 2
+21:53:42 : [AzaZelHALLO] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:54:46 : [AzaZelHALLO] - [Mensagem do servidor]> Não possui recursos para essa compra
+21:55:50 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4422
+21:55:50 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 78
+21:55:50 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:55:50 : [AzaZelHALLO] - Level UP para level 1. Ev: 0/0 - 2122x 2047y
+21:55:50 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 81
+21:55:50 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:55:50 : [AzaZelHALLO] - Level UP para level 2. Ev: 0/0 - 2122x 2047y
+21:56:00 : [AzaZelHALLO] - Clicado no NPC [Helper]. Face 230. Race: 2. GenerateId: 3421. Posição do usuário: 2127x 2037y. Posição do NPC: 2132x 2034y
+21:56:05 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4434
+21:56:05 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:56:05 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 84
+21:56:05 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:56:05 : [AzaZelHALLO] - Level UP para level 3. Ev: 0/0 - 2128x 2029y
+21:56:23 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4434
+21:56:23 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:56:23 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 87
+21:56:23 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:56:23 : [AzaZelHALLO] - Level UP para level 4. Ev: 0/0 - 2127x 2023y
+21:56:39 : [AzaZelHALLO] - SEMPLUCAS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:56:39 : [AzaZelHALLO] - 28 Personagem foi desconectado. Permaneceu 00:03:26 minutos online
+21:58:40 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (SEMPLUCAS) - IP: 187.1.54.22 Mac: (45:0C:01:09:20:4B). ClientId: 2
+21:58:40 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+21:58:40 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:58:47 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (SEMPLUCAS) - IP: 187.1.54.22 Mac: (45:0C:01:09:20:4B). ClientId: 2
+21:58:47 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+21:58:47 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:58:51 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (SEMPLUCAS) - IP: 187.1.54.22 Mac: (45:0C:01:09:20:4B). ClientId: 2
+21:58:51 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+21:58:51 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:58:58 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (SEMPLUCAS) - IP: 187.1.54.22 Mac: (45:0C:01:09:20:4B). ClientId: 34
+21:58:58 : Usuário logou no jogo com clientId 34. - Servidor 1. Gold do banco: 0
+21:58:58 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+21:58:59 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:59:04 : Solicitou ir ao mundo...
+21:59:04 : Recebido pedido para entrar no jogo
+21:59:04 : Recebido informação do personagem completa.
+21:59:04 : [AzaZelHALLO] - [INFORMAÇÕES DA CONTA]
+Personagem online: AzaZelHALLO
+Gold atual: 0
+Level atual: 4
+Experiência atual: 3090
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 0 0 0 0 0]
+[03] - Calça(N)[1572] [43 0 0 0 0 0]
+[04] - Braçadeira(N)[1575] [43 0 0 0 0 0]
+[05] - Botas(N)[1578] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [87 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:59:04 : [AzaZelHALLO] - Personagem AzaZelHALLO enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. PowerLevel: 14
+21:59:04 : [AzaZelHALLO] - Gold atual: 0. Classe: 3 Evolução: 0. Experiência: 3090. Nível: 4. Info: 0. GuildID: 0. CP: 12. Pontos de Contribuição: 0. Limite: 0
+21:59:04 : [AzaZelHALLO] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+21:59:04 : [AzaZelHALLO] - Enviado informações do personagem
+21:59:05 : [AzaZelHALLO] - Comando "/day "
+21:59:05 : [AzaZelHALLO] - [Mensagem do servidor]> !#11 2
+21:59:12 : [AzaZelHALLO] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 4610. Posição do usuário: 2112x 2045y. Posição do NPC: 2107x 2042y
+21:59:18 : [AzaZelHALLO] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:59:21 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4421
+21:59:21 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:59:21 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 90
+21:59:21 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:21 : [AzaZelHALLO] - Level UP para level 5. Ev: 0/0 - 2119x 2041y
+21:59:37 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4424
+21:59:37 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:59:38 : [AzaZelHALLO] - Clicado no NPC [Helper]. Face 230. Race: 2. GenerateId: 3421. Posição do usuário: 2130x 2037y. Posição do NPC: 2132x 2034y
+21:59:40 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4425
+21:59:40 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 93
+21:59:40 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:40 : [AzaZelHALLO] - Level UP para level 6. Ev: 0/0 - 2130x 2037y
+21:59:44 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4425
+21:59:44 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:59:45 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4424
+21:59:45 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:59:45 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 96
+21:59:45 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:59:45 : [AzaZelHALLO] - Level UP para level 7. Ev: 0/0 - 2130x 2037y
+21:59:49 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4423
+21:59:49 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:00:00 : [AzaZelHALLO] - [Mensagem do servidor]: A batalha do acampamento avançado do reino foi iniciada.
+22:00:05 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4425
+22:00:05 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:00:06 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4424
+22:00:06 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:00:06 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 99
+22:00:06 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:06 : [AzaZelHALLO] - Level UP para level 8. Ev: 0/0 - 2125x 2033y
+22:00:09 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4426
+22:00:09 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:00:11 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4425
+22:00:11 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:00:24 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:00:24 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:00:26 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4437
+22:00:26 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 102
+22:00:26 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:26 : [AzaZelHALLO] - Level UP para level 9. Ev: 0/0 - 2111x 2020y
+22:00:28 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:00:32 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:00:32 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:00:34 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:00:34 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:00:36 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4437
+22:00:36 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:00:38 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:00:38 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 105
+22:00:38 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:38 : [AzaZelHALLO] - Level UP para level 10. Ev: 0/0 - 2111x 2020y
+22:00:39 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:00:39 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:00:39 : [AzaZelHALLO] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2111x 2020y - Porco de Guerra (1/30)
+22:00:43 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:00:44 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:00:44 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:00:45 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:00:47 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4437
+22:00:47 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:00:48 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:00:48 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 108
+22:00:48 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:00:48 : [AzaZelHALLO] - Level UP para level 11. Ev: 0/0 - 2111x 2020y
+22:00:51 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:00:51 : [AzaZelHALLO] - Dropado item Chapéu(A) [1403] [43 0 59 0 59 0] em 2111x 2020y - Aguia (1/30)
+22:00:55 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:00:56 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:00:56 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:00:58 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4437
+22:00:59 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:00:59 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:01:01 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:01:01 : [AzaZelHALLO] - Dropado item Chapéu(A) [1403] [43 0 59 0 3 15] em 2111x 2020y - Aguia (1/30)
+22:01:03 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4439
+22:01:03 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:01:07 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:01:08 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:01:08 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 111
+22:01:08 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:08 : [AzaZelHALLO] - Level UP para level 12. Ev: 0/0 - 2111x 2020y
+22:01:08 : [AzaZelHALLO] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2111x 2020y - Porco de Guerra (1/30)
+22:01:10 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4437
+22:01:11 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:01:11 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:01:12 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:01:14 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:01:20 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:01:20 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:01:21 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4437
+22:01:22 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:01:23 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:01:23 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:01:23 : [AzaZelHALLO] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2113x 2020y - Porco de Guerra (1/30)
+22:01:26 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:01:31 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:01:31 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 114
+22:01:31 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:01:31 : [AzaZelHALLO] - Level UP para level 13. Ev: 0/0 - 2110x 2021y
+22:01:36 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:01:41 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4437
+22:01:41 : [AzaZelHALLO] - Dropado item Botas(A) [1154] [43 0 73 30 59 0] em 2111x 2020y - Aguia (1/30)
+22:01:42 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:01:42 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:01:43 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:01:46 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:01:46 : [AzaZelHALLO] - Dropado item Calça(A) [1409] [4 30 71 40 59 0] em 2109x 2022y - Porco de Guerra (1/67)
+22:01:48 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:01:48 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:01:51 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4437
+22:01:51 : [AzaZelHALLO] - Dropado item Botas(A) [1565] [43 1 73 24 60 6] em 2111x 2020y - Aguia (1/30)
+22:01:52 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:01:55 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:01:55 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:01:57 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:02:01 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4437
+22:02:01 : [AzaZelHALLO] - Dropado item Botas(A) [1154] [43 0 73 30 59 0] em 2111x 2020y - Aguia (1/30)
+22:02:02 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:02:02 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 117
+22:02:02 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:02:02 : [AzaZelHALLO] - Level UP para level 14. Ev: 0/0 - 2111x 2020y
+22:02:04 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:02:05 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:02:05 : [AzaZelHALLO] - Dropado item Sapatos(A) [1415] [43 0 73 18 59 0] em 2111x 2020y - Aguia (1/30)
+22:02:06 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4439
+22:02:19 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:02:19 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:02:21 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:02:23 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:02:24 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4439
+22:02:24 : [AzaZelHALLO] - Dropado item Chapéu(A) [1403] [43 0 59 0 4 30] em 2111x 2020y - Aguia (1/30)
+22:02:25 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:02:25 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:02:26 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:02:28 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4437
+22:02:29 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:02:29 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:02:30 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4439
+22:02:32 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4437
+22:02:33 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4437
+22:02:34 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:02:34 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 120
+22:02:34 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:02:34 : [AzaZelHALLO] - Level UP para level 15. Ev: 0/0 - 2111x 2020y
+22:02:36 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:02:38 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:02:43 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:02:45 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:02:47 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4439
+22:02:47 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:02:51 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4439
+22:02:55 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:02:58 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:03:07 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:03:07 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:03:10 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4439
+22:03:10 : [AzaZelHALLO] - Dropado item Luvas(A) [1292] [8 14 72 20 74 18] em 2110x 2021y - Aguia (1/30)
+22:03:19 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:03:19 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:03:20 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:03:20 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 123
+22:03:20 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:20 : [AzaZelHALLO] - Level UP para level 16. Ev: 0/0 - 2111x 2020y
+22:03:21 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:03:22 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:03:23 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4435
+22:03:24 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:03:28 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4439
+22:03:28 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:03:31 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:03:32 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 126
+22:03:32 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:32 : [AzaZelHALLO] - Level UP para level 17. Ev: 0/0 - 2111x 2020y
+22:03:33 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:03:34 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:03:34 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:03:36 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4439
+22:03:43 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:03:43 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:03:45 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:03:45 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:03:46 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:03:46 : [AzaZelHALLO] - Dropado item Botas(A) [1154] [43 0 73 18 59 0] em 2112x 2019y - Aguia (1/30)
+22:03:49 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4435
+22:03:49 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 129
+22:03:49 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:03:49 : [AzaZelHALLO] - Level UP para level 18. Ev: 0/0 - 2111x 2020y
+22:03:52 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:03:55 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:03:55 : [AzaZelHALLO] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2111x 2020y - Porco de Guerra (1/30)
+22:03:56 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:03:56 : [AzaZelHALLO] - Dropado item Calça(A) [1409] [43 0 71 60 59 0] em 2111x 2020y - Porco de Guerra (1/67)
+22:03:57 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:03:57 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:03:57 : [AzaZelHALLO] - Dropado item Chapéu(A) [1403] [13 17 60 6 3 10] em 2111x 2020y - Aguia (1/30)
+22:03:58 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4439
+22:04:03 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4435
+22:04:03 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:04:03 : [AzaZelHALLO] - Dropado item Jaqueta(A) [1556] [43 0 71 50 60 6] em 2113x 2022y - Porco de Guerra (1/67)
+22:04:06 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 132
+22:04:06 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:06 : [AzaZelHALLO] - Level UP para level 19. Ev: 0/0 - 2111x 2020y
+22:04:15 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:04:16 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:04:17 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:04:18 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:04:19 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:04:20 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:04:20 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:04:22 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:04:23 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4439
+22:04:26 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:04:31 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:04:32 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:04:33 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:04:33 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 135
+22:04:33 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:33 : [AzaZelHALLO] - Level UP para level 20. Ev: 0/0 - 2111x 2020y
+22:04:35 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4439
+22:04:39 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4439
+22:04:43 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:04:44 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:04:46 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4439
+22:04:46 : [AzaZelHALLO] - Dropado item Sapatos(A) [1415] [43 0 73 18 60 6] em 2109x 2022y - Aguia (1/30)
+22:04:46 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:04:47 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:04:47 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4435
+22:04:48 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:04:49 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 138
+22:04:49 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:49 : [AzaZelHALLO] - Level UP para level 21. Ev: 0/0 - 2112x 2021y
+22:04:54 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4435
+22:04:56 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:04:57 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:04:58 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:05:00 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4435
+22:05:04 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4439
+22:05:04 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:05:04 : [AzaZelHALLO] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2109x 2022y - Porco de Guerra (1/30)
+22:05:08 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:05:10 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:05:11 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:05:12 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:05:12 : [AzaZelHALLO] - Dropado item Chapéu(A) [1403] [43 0 59 0 3 15] em 2111x 2020y - Aguia (1/30)
+22:05:19 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4439
+22:05:20 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:05:22 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:05:22 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 141
+22:05:22 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:22 : [AzaZelHALLO] - Level UP para level 22. Ev: 0/0 - 2111x 2020y
+22:05:23 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:05:25 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4439
+22:05:28 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:05:32 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:05:33 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:05:34 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:05:34 : [AzaZelHALLO] - Dropado item Botas(A) [1565] [43 0 73 18 59 0] em 2111x 2020y - Aguia (1/30)
+22:05:34 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:05:43 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:05:44 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:05:44 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:05:45 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:05:52 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:05:55 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4439
+22:05:56 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:05:56 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 144
+22:05:56 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:56 : [AzaZelHALLO] - Level UP para level 23. Ev: 0/0 - 2111x 2020y
+22:05:57 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:05:58 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:05:58 : [AzaZelHALLO] - Dropado item Sapatos(A) [1415] [43 0 73 24 74 12] em 2111x 2020y - Aguia (1/30)
+22:05:59 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:06:00 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4439
+22:06:02 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4439
+22:06:02 : [AzaZelHALLO] - Dropado item Sapatos(A) [1415] [43 0 73 30 60 8] em 2109x 2021y - Aguia (1/30)
+22:06:07 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:06:07 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:06:08 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:06:08 : [AzaZelHALLO] - Dropado item Jaqueta(A) [1556] [7 8 3 30 2 18] em 2111x 2020y - Aguia (1/30)
+22:06:09 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:06:16 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4439
+22:06:19 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:06:19 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:06:20 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:06:21 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 147
+22:06:21 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:06:21 : [AzaZelHALLO] - Level UP para level 24. Ev: 0/0 - 2113x 2022y
+22:06:25 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:06:28 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:06:31 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:06:32 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:06:33 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:06:33 : [AzaZelHALLO] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2111x 2020y - Porco de Guerra (1/30)
+22:06:33 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:06:40 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:06:43 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:06:44 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:06:45 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:06:45 : [AzaZelHALLO] - Dropado item Botas(A) [1565] [43 1 73 12 74 15] em 2111x 2020y - Aguia (1/30)
+22:06:46 : [AzaZelHALLO] - Pontos CP subiu em 3. CP novo: 150
+22:06:46 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:06:46 : [AzaZelHALLO] - Level UP para level 25. Ev: 0/0 - 2111x 2020y
+22:07:03 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:07:07 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:07:08 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:07:09 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:07:10 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4436
+22:07:19 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:07:19 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:07:26 : [AzaZelHALLO] - Clicado no NPC [Helper]. Face 230. Race: 2. GenerateId: 3421. Posição do usuário: 2127x 2037y. Posição do NPC: 2132x 2034y
+22:07:29 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4426
+22:07:29 : [AzaZelHALLO] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2124x 2028y - Porco de Guerra (1/30)
+22:07:30 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:30 : [AzaZelHALLO] - Level UP para level 26. Ev: 0/0 - 2124x 2028y
+22:07:30 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4435
+22:07:31 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4426
+22:07:31 : [AzaZelHALLO] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2124x 2028y - Porco de Guerra (1/30)
+22:07:32 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4425
+22:07:33 : [AzaZelHALLO] - Matou o mob Aguia. GenerID: 4435
+22:07:34 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4434
+22:07:35 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:07:35 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4434
+22:07:41 : [AzaZelHALLO] - Matou o mob Porco de Guerra. GenerID: 4436
+22:07:51 : [AzaZelHALLO] - Matou o mob Krill. GenerID: 4446
+22:07:53 : [AzaZelHALLO] - Matou o mob Gremlin. GenerID: 4446
+22:07:54 : [AzaZelHALLO] - Matou o mob Gremlin. GenerID: 4446
+22:07:56 : [AzaZelHALLO] - Matou o mob Krill. GenerID: 4446
+22:07:58 : [AzaZelHALLO] - Matou o mob Gremlin. GenerID: 4447
+22:08:02 : [AzaZelHALLO] - Matou o mob Gremlin. GenerID: 4446
+22:08:03 : [AzaZelHALLO] - Matou o mob Gremlin. GenerID: 4447
+22:08:05 : [AzaZelHALLO] - Matou o mob Gremlin. GenerID: 4446
+22:08:05 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:08:08 : [AzaZelHALLO] - Matou o mob Krill. GenerID: 4446
+22:08:13 : [AzaZelHALLO] - Matou o mob Gremlin. GenerID: 4447
+22:08:14 : [AzaZelHALLO] - Matou o mob Gremlin. GenerID: 4446
+22:08:19 : [AzaZelHALLO] - Matou o mob Krill. GenerID: 4447
+22:08:21 : [AzaZelHALLO] - Matou o mob Gremlin Artif. GenerID: 4449
+22:08:21 : [AzaZelHALLO] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2074x 2022y - Gremlin Artif (1/1)
+22:08:27 : [AzaZelHALLO] - Matou o mob Krill. GenerID: 4445
+22:08:28 : [AzaZelHALLO] - Matou o mob Gremlin. GenerID: 4445
+22:08:30 : [AzaZelHALLO] - Matou o mob Gremlin. GenerID: 4447
+22:08:30 : [AzaZelHALLO] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2076x 2022y - Gremlin (1/30)
+22:08:40 : [AzaZelHALLO] - Matou o mob Gremlin Artif. GenerID: 4449
+22:08:40 : [AzaZelHALLO] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2076x 2022y - Gremlin Artif (1/1)
+22:08:41 : [AzaZelHALLO] - Matou o mob Gremlin. GenerID: 4445
+22:08:42 : [AzaZelHALLO] - Matou o mob Krill. GenerID: 4445
+22:08:43 : [AzaZelHALLO] - Matou o mob Gremlin. GenerID: 4445
+22:08:48 : [AzaZelHALLO] - Matou o mob Krill. GenerID: 4445
+22:08:53 : [AzaZelHALLO] - Matou o mob Gremlin. GenerID: 4445
+22:09:00 : [AzaZelHALLO] - Matou o mob Gremlin. GenerID: 4445
+22:09:03 : [AzaZelHALLO] - Matou o mob Krill. GenerID: 4445
+22:09:03 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:09:05 : [AzaZelHALLO] - Matou o mob Krill. GenerID: 4442
+22:09:06 : [AzaZelHALLO] - Clicado no NPC [Treinador1]. Face 60. Race: 2. GenerateId: 4408. Posição do usuário: 2082x 2023y. Posição do NPC: 2079x 2017y
+22:09:06 : [AzaZelHALLO] - [Mensagem do servidor]> Recebeu Poção de Cura como recompensa.
+22:09:07 : [AzaZelHALLO] - Matou o mob Gremlin. GenerID: 4442
+22:09:12 : [AzaZelHALLO] - Clicado no NPC [Helper ]. Face 230. Race: 2. GenerateId: 3422. Posição do usuário: 2087x 2002y. Posição do NPC: 2087x 2001y
+22:09:27 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4471
+22:09:29 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4471
+22:09:30 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4474
+22:09:32 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:09:32 : [AzaZelHALLO] - Level UP para level 27. Ev: 0/0 - 2139x 2002y
+22:09:49 : [AzaZelHALLO] - Matou o mob Krill Gigante. GenerID: 4476
+22:09:49 : [AzaZelHALLO] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2139x 2002y - Krill Gigante (1/1)
+22:09:51 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4474
+22:09:52 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4474
+22:09:52 : [AzaZelHALLO] - Dropado item Sapatos(A) [1415] [43 1 73 12 60 2] em 2139x 2000y - Rei Gremlin   (1/90)
+22:10:20 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4474
+22:10:20 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:10:21 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4474
+22:10:24 : [AzaZelHALLO] - Matou o mob Krill Gigante. GenerID: 4476
+22:10:24 : [AzaZelHALLO] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2141x 1999y - Krill Gigante (1/1)
+22:10:25 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4473
+22:10:26 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4473
+22:10:27 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4475
+22:10:29 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4471
+22:10:30 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4471
+22:10:30 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:11:06 : [AzaZelHALLO] - Matou o mob Krill Gigante. GenerID: 4476
+22:11:06 : [AzaZelHALLO] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2142x 2002y - Krill Gigante (1/1)
+22:11:06 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4473
+22:11:11 : [AzaZelHALLO] - Clicado no NPC [Treinador2]. Face 60. Race: 2. GenerateId: 4409. Posição do usuário: 2139x 1991y. Posição do NPC: 2142x 1990y
+22:11:11 : [AzaZelHALLO] - [Mensagem do servidor]> Como recompensa foi atribuída uma opção adicional em sua arma.
+22:11:12 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4474
+22:11:17 : [AzaZelHALLO] - Matou o mob Krill. GenerID: 4480
+22:11:18 : [AzaZelHALLO] - Matou o mob Krill. GenerID: 4477
+22:11:32 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:11:34 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4492
+22:11:34 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:11:36 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:11:38 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4492
+22:11:39 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:11:42 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4491
+22:11:42 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:11:42 : [AzaZelHALLO] - Level UP para level 28. Ev: 0/0 - 2080x 1976y
+22:11:43 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4493
+22:11:43 : [AzaZelHALLO] - Dropado item Calça(A) [1409] [43 0 71 30 2 12] em 2080x 1976y - Rei Gremlin   (1/300)
+22:11:44 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:11:45 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:11:47 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4491
+22:11:48 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4493
+22:11:56 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:11:56 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:11:58 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4493
+22:11:59 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4493
+22:12:00 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4493
+22:12:01 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:12:03 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4491
+22:12:03 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:12:05 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4490
+22:12:06 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4490
+22:12:08 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4493
+22:12:09 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:12:11 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4493
+22:12:12 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4493
+22:12:12 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:12:13 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:12:15 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4491
+22:12:16 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4490
+22:12:20 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4493
+22:12:21 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:12:23 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4493
+22:12:23 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:12:23 : [AzaZelHALLO] - Level UP para level 29. Ev: 0/0 - 2079x 1975y
+22:12:23 : [AzaZelHALLO] - Recebeu o item Braçadeira(M) [1606] [43 0 2 20 53 3]. STR: 8. INT: 9. DEX: 13. CON: 6
+22:12:24 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:12:25 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4493
+22:12:27 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4491
+22:12:31 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:12:33 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:12:36 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4491
+22:12:36 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:12:40 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4493
+22:12:41 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4490
+22:12:44 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:12:46 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:12:48 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4491
+22:12:49 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4490
+22:12:49 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:12:50 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4490
+22:12:56 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:12:57 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:12:59 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4491
+22:13:00 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4490
+22:13:00 : [AzaZelHALLO] - Dropado item Sapatos(A) [1415] [12 15 73 6 59 0] em 2079x 1975y - Rei Gremlin   (1/90)
+22:13:00 : [AzaZelHALLO] - Dropado item Armadura(A) [1115] [43 1 71 50 59 0] em 2079x 1975y - Rei Gremlin   (1/118)
+22:13:01 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4490
+22:13:01 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:13:03 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4490
+22:13:07 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:13:07 : [AzaZelHALLO] - Não dropou o item Garra por falta de espaço [832] [43 0 74 9 59 0] em 2079x 1975y - Rei Gremlin   (1/300)
+22:13:07 : [AzaZelHALLO] - [Mensagem do servidor]> Seu inventário está cheio
+22:13:09 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:13:11 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4491
+22:13:12 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4490
+22:13:13 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4490
+22:13:13 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:13:13 : [AzaZelHALLO] - Level UP para level 30. Ev: 0/0 - 2079x 1975y
+22:13:15 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4490
+22:13:16 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4493
+22:13:18 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4492
+22:13:19 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4493
+22:13:45 : [AzaZelHALLO] - Matou o mob Orc Sniper. GenerID: 4494
+22:13:45 : [AzaZelHALLO] - Não dropou o item Chave_da_Ultima_Porta por falta de espaço [453] [0 0 0 0 0 0] em 2079x 1975y - Orc Sniper (1/1)
+22:13:45 : [AzaZelHALLO] - [Mensagem do servidor]> Seu inventário está cheio
+22:13:46 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:13:46 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:13:48 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:13:50 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4491
+22:13:51 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4492
+22:13:53 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4493
+22:13:55 : [AzaZelHALLO] - Clicado no NPC [Treinador3]. Face 60. Race: 2. GenerateId: 4410. Posição do usuário: 2077x 1969y. Posição do NPC: 2077x 1967y
+22:13:56 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4490
+22:13:57 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4490
+22:14:23 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4495
+22:14:25 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4495
+22:14:25 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:14:27 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4490
+22:14:34 : [AzaZelHALLO] - Clicado no NPC [Helper  ]. Face 230. Race: 2. GenerateId: 3423. Posição do usuário: 2084x 1951y. Posição do NPC: 2080x 1947y
+22:14:43 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4501
+22:14:43 : [AzaZelHALLO] - Não dropou o item Lança por falta de espaço [847] [43 1 60 8 60 8] em 2103x 1946y - Rei Gremlin   (1/300)
+22:14:43 : [AzaZelHALLO] - [Mensagem do servidor]> Seu inventário está cheio
+22:14:43 : [AzaZelHALLO] - Não dropou o item Dardo por falta de espaço [877] [43 1 26 9 26 12] em 2103x 1946y - Rei Gremlin   (1/300)
+22:14:43 : [AzaZelHALLO] - [Mensagem do servidor]> Seu inventário está cheio
+22:14:45 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4501
+22:14:51 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4499
+22:14:53 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4499
+22:14:57 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4501
+22:14:57 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:14:57 : [AzaZelHALLO] - Não dropou o item Elmo(N) por falta de espaço [1416] [43 1 59 0 59 0] em 2103x 1946y - Chefe Krill  (1/300)
+22:14:57 : [AzaZelHALLO] - [Mensagem do servidor]> Seu inventário está cheio
+22:15:19 : [AzaZelHALLO] - Matou o mob Chefe Krill . GenerID: 4513
+22:15:21 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4512
+22:15:23 : [AzaZelHALLO] - Matou o mob Rei Gremlin  . GenerID: 4510
+22:15:25 : [AzaZelHALLO] - Morreu para Orc Guerreiro   2139x 1948y
+22:18:25 : [AzaZelHALLO] - DoRecall - Enviado para cidade: 2091x 2106y
+22:18:25 : [AzaZelHALLO] - Usuário reviveu
+22:19:59 : [AzaZelHALLO] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2108x 2112y. Posição do NPC: 2102x 2113y
+22:20:27 : [AzaZelHALLO] - [Mensagem do servidor]> Não possui espaço para negociar
+22:20:30 : [AzaZelHALLO] - [Mensagem do servidor]> Citizen Chatting : Off
+22:20:30 : [AzaZelHALLO] - [Mensagem do servidor]> Não possui espaço para negociar
+22:20:31 : [AzaZelHALLO] - [Mensagem do servidor]> Citizen Chatting : On
+22:20:31 : [AzaZelHALLO] - [Mensagem do servidor]> Não possui espaço para negociar
+22:20:37 : [AzaZelHALLO] - Item Chave_da_Segunda_Porta deletado [452] [0 0 0 0 0 0]. Slot 26
+22:20:39 : [AzaZelHALLO] - Item Chave_da_Segunda_Porta deletado [452] [0 0 0 0 0 0]. Slot 25
+22:20:40 : [AzaZelHALLO] - Item Chave_da_Segunda_Porta deletado [452] [0 0 0 0 0 0]. Slot 23
+22:20:41 : [AzaZelHALLO] - Item Chave_da_Primeira_Porta deletado [451] [0 0 0 0 0 0]. Slot 22
+22:20:46 : [AzaZelHALLO] - [Mensagem do servidor]> Citizen Chatting : Off
+22:20:46 : [AzaZelHALLO] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:20:54 : [AzaZelHALLO] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:20:57 : [AzaZelHALLO] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:20:59 : [AzaZelHALLO] - [Mensagem do servidor]> Citizen Chatting : On
+22:20:59 : [AzaZelHALLO] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:21:01 : [AzaZelHALLO] - [Mensagem do servidor]> Citizen Chatting : Off
+22:21:01 : [AzaZelHALLO] - [Mensagem do servidor]> Não possui espaço para negociar
+22:21:03 : [AzaZelHALLO] - [Mensagem do servidor]> Não possui espaço para negociar
+22:21:07 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2087y
+22:21:07 : [AzaZelHALLO] - Gold atual: 0.
+22:21:08 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2087y
+22:21:08 : [AzaZelHALLO] - Gold atual: 100000000.
+22:21:10 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2087y
+22:21:10 : [AzaZelHALLO] - Gold atual: 200000000.
+22:21:11 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2087y
+22:21:11 : [AzaZelHALLO] - Gold atual: 300000000.
+22:21:12 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2087y
+22:21:12 : [AzaZelHALLO] - Gold atual: 400000000.
+22:21:17 : [AzaZelHALLO] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:21:19 : [AzaZelHALLO] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:21:21 : [AzaZelHALLO] - [Mensagem do servidor]> Citizen Chatting : On
+22:21:21 : [AzaZelHALLO] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:21:25 : [AzaZelHALLO] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:21:28 : [AzaZelHALLO] - [Mensagem do servidor]> Citizen Chatting : Off
+22:21:28 : [AzaZelHALLO] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:21:33 : [AzaZelHALLO] - [Mensagem do servidor]> Citizen Chatting : On
+22:21:33 : [AzaZelHALLO] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:21:35 : [AzaZelHALLO] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:21:37 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2087y
+22:21:37 : [AzaZelHALLO] - Gold atual: 500000000.
+22:21:37 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2087y
+22:21:37 : [AzaZelHALLO] - Gold atual: 600000000.
+22:21:38 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2087y
+22:21:38 : [AzaZelHALLO] - Gold atual: 700000000.
+22:21:38 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2087y
+22:21:38 : [AzaZelHALLO] - Gold atual: 800000000.
+22:21:39 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2087y
+22:21:39 : [AzaZelHALLO] - Gold atual: 900000000.
+22:21:40 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2087y
+22:21:40 : [AzaZelHALLO] - Gold atual: 1000000000.
+22:21:40 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2087y
+22:21:40 : [AzaZelHALLO] - O usuário usou itens muito rapidamente. Tempo para usar o item: 148. Item: Barra_de_Bronze(100Mi)
+22:21:40 : [AzaZelHALLO] - Gold atual: 1100000000.
+22:21:41 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2087y
+22:21:41 : [AzaZelHALLO] - Gold atual: 1200000000.
+22:21:41 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2087y
+22:21:41 : [AzaZelHALLO] - Gold atual: 1300000000.
+22:21:42 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2087y
+22:21:42 : [AzaZelHALLO] - Gold atual: 1400000000.
+22:21:44 : [AzaZelHALLO] - Item Sapatos(A) deletado [1415] [43 0 73 18 59 0]. Slot 6
+22:21:45 : [AzaZelHALLO] - Item Botas(A) deletado [1565] [43 0 73 18 59 0]. Slot 14
+22:21:46 : [AzaZelHALLO] - Item Sapatos(A) deletado [1415] [43 0 73 18 60 6]. Slot 13
+22:21:46 : [AzaZelHALLO] - Item Botas(A) deletado [1154] [43 0 73 18 59 0]. Slot 9
+22:21:47 : [AzaZelHALLO] - Item Luvas(A) deletado [1292] [8 14 72 20 74 18]. Slot 8
+22:21:48 : [AzaZelHALLO] - Item Chapéu(A) deletado [1403] [13 17 60 6 3 10]. Slot 12
+22:21:49 : [AzaZelHALLO] - Item Chapéu(A) deletado [1403] [43 0 59 0 4 30]. Slot 7
+22:21:51 : [AzaZelHALLO] - Item Botas(A) deletado [1565] [43 1 73 24 60 6]. Slot 4
+22:21:52 : [AzaZelHALLO] - Item Calça(A) deletado [1409] [4 30 71 40 59 0]. Slot 3
+22:21:52 : [AzaZelHALLO] - Item Botas(A) deletado [1154] [43 0 73 30 59 0]. Slot 2
+22:21:53 : [AzaZelHALLO] - Item Chapéu(A) deletado [1403] [43 0 59 0 3 15]. Slot 1
+22:21:54 : [AzaZelHALLO] - Item Chapéu(A) deletado [1403] [43 0 59 0 59 0]. Slot 0
+22:23:25 : [AzaZelHALLO] - [Mensagem do servidor]> Citizen Chatting : Off
+22:23:35 : [AzaZelHALLO] - [Mensagem do servidor]> Citizen Chatting : On
+22:23:47 : [AzaZelHALLO] - [Mensagem do servidor]> Citizen Chatting : Off
+22:23:55 : [AzaZelHALLO] - [Mensagem do servidor]> Citizen Chatting : On
+22:25:26 : [AzaZelHALLO] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:25:29 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2117x 2121y
+22:25:29 : [AzaZelHALLO] - Gold atual: 1499999955.
+22:25:29 : [AzaZelHALLO] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2117x 2121y
+22:25:29 : [AzaZelHALLO] - Gold atual: 1599999955.
+22:25:44 : [AzaZelHALLO] - [Mensagem do servidor]: Mob foi derrotado por Nikows
+22:27:12 : [AzaZelHALLO] - [Mensagem do servidor]> Citizen Chatting : Off
+22:27:13 : [AzaZelHALLO] - [Mensagem do servidor]> Citizen Chatting : On
+22:27:13 : [AzaZelHALLO] - [Mensagem do servidor]> Citizen Chatting : Off
+22:27:14 : [AzaZelHALLO] - [Mensagem do servidor]> Citizen Chatting : On
+22:27:16 : [AzaZelHALLO] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2114y
+22:27:16 : [AzaZelHALLO] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+22:27:16 : [AzaZelHALLO] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2114y
+22:27:16 : [AzaZelHALLO] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+22:27:17 : [AzaZelHALLO] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2114y
+22:27:17 : [AzaZelHALLO] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+22:27:18 : [AzaZelHALLO] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2114y
+22:27:18 : [AzaZelHALLO] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+22:27:18 : [AzaZelHALLO] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2114y
+22:27:18 : [AzaZelHALLO] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+22:28:00 : [AzaZelHALLO] - Comando "/nig "
+22:28:00 : [AzaZelHALLO] - [Mensagem do servidor]> !!222800
+22:28:27 : [AzaZelHALLO] - [Mensagem do servidor]> Compra concluída!
+22:28:42 : [AzaZelHALLO] - [Mensagem do servidor]> Compra concluída!
+22:28:46 : [AzaZelHALLO] - Moveu item Fada_Verde(3dias) [3900] [106 3 107 0 108 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 13
+22:28:48 : [AzaZelHALLO] - Item Baú_de_Experiência [4140] [61 240 0 0 0 0] utilizado em 2116x 2114y
+22:28:55 : [AzaZelHALLO] - Moveu item Poeira_de_Lactolerium [413] [61 240 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo INVENTÁRIO slot 0
+22:29:05 : [AzaZelHALLO] - [INFORMAÇÕES DA CONTA]
+Personagem online: AzaZelHALLO
+Gold atual: 1699999891
+Level atual: 30
+Experiência atual: 132221
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:47 horas
+Posição atual: 2085x 2108y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 8 0 0 0 0]
+[03] - Calça(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira(N)[1575] [43 8 0 0 0 0]
+[05] - Botas(N)[1578] [43 8 0 0 0 0]
+[06] - Arco[816] [43 8 0 0 0 0]
+[13] - Fada_Verde(3dias)[3900] [106 2 107 23 108 59]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[01] - Chapéu(A)[1643] [43 9 3 25 60 12]
+[02] - Calça(A)[1649] [43 9 3 30 60 10]
+[03] - Peitoral(A)[1646] [43 9 3 30 60 10]
+[04] - Braçadeira(A)[1652] [43 9 60 10 72 30]
+[05] - Botas(A)[1655] [43 9 73 30 60 10]
+[06] - Baú_de_Experiência[4140] [61 239 0 0 0 0]
+[07] - Arco[825] [2 45 0 0 0 0]
+[08] - Frango_Assado[3314] [61 10 0 0 0 0]
+[09] - Pacote_de_Itens_(c/_Roleta)[5381] [96 1 0 0 0 0]
+[20] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[21] - Braçadeira(M)[1606] [43 0 2 20 53 3]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:29:30 : [AzaZelHALLO] - [Mensagem do servidor]> Compra concluída!
+22:29:31 : [AzaZelHALLO] - [Mensagem do servidor]> Compra concluída!
+22:29:33 : [AzaZelHALLO] - [Mensagem do servidor]> Compra concluída!
+22:29:45 : [AzaZelHALLO] - Clicado no NPC [Perzen Mistico]. Face 11. Race: 2. GenerateId: 3277. Posição do usuário: 2130x 2084y. Posição do NPC: 2131x 2080y
+22:29:50 : [AzaZelHALLO] - Clicado no NPC [Perzen Mistico]. Face 11. Race: 2. GenerateId: 3277. Posição do usuário: 2132x 2080y. Posição do NPC: 2131x 2080y
+22:29:56 : [AzaZelHALLO] - Moveu item Esfera_da_Sorte(M) [4129] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo INVENTÁRIO slot 10
+22:29:57 : [AzaZelHALLO] - Clicado no NPC [Perzen Mistico]. Face 11. Race: 2. GenerateId: 3277. Posição do usuário: 2132x 2080y. Posição do NPC: 2131x 2080y
+22:29:58 : [AzaZelHALLO] - Clicado no NPC [Perzen Mistico]. Face 11. Race: 2. GenerateId: 3277. Posição do usuário: 2132x 2080y. Posição do NPC: 2131x 2080y
+22:29:59 : [AzaZelHALLO] - Clicado no NPC [Perzen Mistico]. Face 11. Race: 2. GenerateId: 3277. Posição do usuário: 2132x 2080y. Posição do NPC: 2131x 2080y
+22:30:00 : [AzaZelHALLO] - [Mensagem do servidor]: A batalha de acampamento avançado do reino foi finalizada
+22:30:24 : [AzaZelHALLO] - Teleportado para a posição 960 1761
+22:30:30 : [AzaZelHALLO] - Teleportado para a posição 2482 1717
+22:30:34 : [AzaZelHALLO] - Clicado no NPC [Perzen Arcano]. Face 11. Race: 2. GenerateId: 3275. Posição do usuário: 2483x 1711y. Posição do NPC: 2477x 1705y
+22:30:38 : [AzaZelHALLO] - Item Esfera_da_Sorte(N) deletado [4128] [0 0 0 0 0 0]. Slot 12
+22:30:39 : [AzaZelHALLO] - Item Esfera_da_Sorte(M) deletado [4129] [0 0 0 0 0 0]. Slot 10
+22:30:41 : [AzaZelHALLO] - Clicado no NPC [Perzen Arcano]. Face 11. Race: 2. GenerateId: 3275. Posição do usuário: 2479x 1705y. Posição do NPC: 2477x 1705y
+22:30:45 : [AzaZelHALLO] - Item Esfera_da_Sorte(A) deletado [4130] [0 0 0 0 0 0]. Slot 11
+22:30:46 : [AzaZelHALLO] - Item Baú_de_Experiência [4140] [61 239 0 0 0 0] utilizado em 2479x 1705y
+22:30:47 : [AzaZelHALLO] - Item Baú_de_Experiência [4140] [61 238 0 0 0 0] utilizado em 2479x 1705y
+22:30:54 : [AzaZelHALLO] - Teleportado para a posição 2117 2102
+22:30:57 : [AzaZelHALLO] - Teleportado para a posição 2458 2017
+22:31:29 : [AzaZelHALLO] - Item Frango_Assado [3314] [61 10 0 0 0 0] utilizado em 2485x 2006y
+22:31:29 : [AzaZelHALLO] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:31:30 : [AzaZelHALLO] - Matou o mob Meio Orc. GenerID: 873
+22:31:30 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:31:30 : [AzaZelHALLO] - Level UP para level 31. Ev: 0/0 - 2485x 2006y
+22:31:32 : [AzaZelHALLO] - Matou o mob Meio Orc. GenerID: 875
+22:31:32 : [AzaZelHALLO] - Dropado item Elmo(A) [1961] [43 0 59 0 59 0] em 2485x 2006y - Meio Orc (1/300)
+22:31:33 : [AzaZelHALLO] - Matou o mob Orc Cavaleiro. GenerID: 877
+22:31:34 : [AzaZelHALLO] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:31:35 : [AzaZelHALLO] - Matou o mob Meio Orc. GenerID: 875
+22:31:35 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:31:55 : [AzaZelHALLO] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:31:56 : [AzaZelHALLO] - Matou o mob Meio Orc. GenerID: 873
+22:31:58 : [AzaZelHALLO] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:31:59 : [AzaZelHALLO] - Matou o mob Meio Orc. GenerID: 873
+22:31:59 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:32:00 : [AzaZelHALLO] - Matou o mob Meio Orc . GenerID: 866
+22:32:01 : [AzaZelHALLO] - Matou o mob Meio Orc. GenerID: 867
+22:32:02 : [AzaZelHALLO] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:32:02 : [AzaZelHALLO] - Dropado item Machado [806] [43 0 59 0 2 18] em 2485x 2021y - Orc Cavaleiro (1/300)
+22:32:03 : [AzaZelHALLO] - Matou o mob Meio Orc. GenerID: 873
+22:32:03 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:32:04 : [AzaZelHALLO] - Matou o mob Troll. GenerID: 874
+22:32:08 : [AzaZelHALLO] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:32:09 : [AzaZelHALLO] - Matou o mob Meio Orc. GenerID: 867
+22:32:09 : [AzaZelHALLO] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:32:09 : [AzaZelHALLO] - Level UP para level 32. Ev: 0/0 - 2487x 2020y
+22:32:10 : [AzaZelHALLO] - Matou o mob Meio Orc . GenerID: 866
+22:32:12 : [AzaZelHALLO] - Matou o mob Troll. GenerID: 874
+22:32:13 : [AzaZelHALLO] - Matou o mob Meio Orc. GenerID: 873
+22:32:20 : [AzaZelHALLO] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:32:20 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:32:21 : [AzaZelHALLO] - Matou o mob Meio Orc. GenerID: 873
+22:32:22 : [AzaZelHALLO] - Matou o mob Meio Orc. GenerID: 867
+22:32:32 : [AzaZelHALLO] - Matou o mob Troll. GenerID: 874
+22:32:32 : [AzaZelHALLO] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:32:34 : [AzaZelHALLO] - SEMPLUCAS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:32:34 : [AzaZelHALLO] - 34 Personagem foi desconectado. Permaneceu 00:33:13 minutos online

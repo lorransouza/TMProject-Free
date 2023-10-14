@@ -1,0 +1,90 @@
+
+03:14:19 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+03:14:19 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+03:14:19 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+03:14:19 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+03:14:28 : Solicitou ir ao mundo...
+03:14:28 : Recebido pedido para entrar no jogo
+03:14:28 : Recebido informação do personagem completa.
+03:14:28 : [Cajaduda] - [INFORMAÇÕES DA CONTA]
+Personagem online: Cajaduda
+Gold atual: 0
+Level atual: 359
+Experiência atual: 2234000000
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:09 horas
+Posição atual: 2089x 2096y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Elmo(A)[1881] [0 0 0 0 0 0]
+[02] - Túnica(A)[1882] [0 0 0 0 0 0]
+[03] - Calça(A)[1883] [0 0 0 0 0 0]
+[04] - Luvas(A)[1884] [0 0 0 0 0 0]
+[05] - Botas(A)[1885] [0 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Robe(N)[1254] [43 0 0 0 0 0]
+[01] - Elmo(Le)[2196] [176 35 0 0 0 0]
+[02] - Luvas(Le)[2199] [0 0 0 0 0 0]
+[03] - Chapéu(Le)[2201] [0 0 0 0 0 0]
+[04] - Elmo(Le)[2196] [43 235 0 0 0 0]
+[05] - Robe(N)[1266] [43 0 0 0 0 0]
+[06] - Saia(N)[1278] [43 0 0 0 0 0]
+[07] - Calça(A)[1883] [0 0 0 0 0 0]
+[08] - Luvas(N)[1290] [43 0 0 0 0 0]
+[09] - Botas(N)[1302] [43 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+03:14:28 : [Cajaduda] - Personagem Cajaduda enviado ao mundo 2089x 2096y - Canal 2 - Cash da conta: 0. PowerLevel: 296
+03:14:28 : [Cajaduda] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 2234000000. Nível: 359. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+03:14:28 : [Cajaduda] - Resetado a contagem de entradas água! Day: 20-21. Total: 0
+03:14:28 : [Cajaduda] - Enviado informações do personagem
+03:14:30 : [Cajaduda] - Comando "/day "
+03:14:30 : [Cajaduda] - [Mensagem do servidor]> !#11 2
+03:14:41 : [Cajaduda] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+03:14:46 : [Cajaduda] - Moveu item Elmo(Le) [2196] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 1
+03:16:16 : [Cajaduda] - Comando "/gm +item 1881 43 235"
+03:16:16 : [Cajaduda] - [Mensagem do servidor]> Criou o item Elmo(A)
+03:16:16 : [Cajaduda] - Cajaduda criou o item Elmo(A) [1881] [43 235 0 0 0 0]
+03:16:24 : [Cajaduda] - Comando "/gm +item 1882 43 235"
+03:16:24 : [Cajaduda] - [Mensagem do servidor]> Criou o item Túnica(A)
+03:16:24 : [Cajaduda] - Cajaduda criou o item Túnica(A) [1882] [43 235 0 0 0 0]
+03:16:31 : [Cajaduda] - Comando "/gm +item 1883 43 235"
+03:16:31 : [Cajaduda] - [Mensagem do servidor]> Criou o item Calça(A)
+03:16:31 : [Cajaduda] - Cajaduda criou o item Calça(A) [1883] [43 235 0 0 0 0]
+03:16:41 : [Cajaduda] - Comando "/gm +item 1884 43 235"
+03:16:41 : [Cajaduda] - [Mensagem do servidor]> Criou o item Luvas(A)
+03:16:41 : [Cajaduda] - Cajaduda criou o item Luvas(A) [1884] [43 235 0 0 0 0]
+03:16:50 : [Cajaduda] - Comando "/gm +item 1885 43 235"
+03:16:50 : [Cajaduda] - [Mensagem do servidor]> Criou o item Botas(A)
+03:16:50 : [Cajaduda] - Cajaduda criou o item Botas(A) [1885] [43 235 0 0 0 0]
+03:16:56 : [Cajaduda] - Moveu item Túnica(A) [1882] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 2
+03:16:56 : [Cajaduda] - Moveu item Calça(A) [1883] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 3
+03:16:57 : [Cajaduda] - Moveu item Luvas(A) [1884] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 4
+03:16:58 : [Cajaduda] - Moveu item Botas(A) [1885] [43 235 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 5
+03:18:00 : [Cajaduda] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+03:18:00 : [Cajaduda] - 1 Personagem foi desconectado. Permaneceu 00:03:38 minutos online

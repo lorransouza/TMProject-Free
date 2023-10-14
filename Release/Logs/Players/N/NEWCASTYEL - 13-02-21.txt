@@ -1,0 +1,668 @@
+
+02:37:07 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (NEWCASTYEL) - IP: 177.154.8.230 Mac: (1B:E3:54:35:1F:49). ClientId: 18
+02:37:07 : [Mensagem do servidor]> Senha incorreta.
+02:37:07 : Personagem foi desconectado. Permaneceu 00:00:01 minutos online
+02:37:12 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (NEWCASTYEL) - IP: 177.154.8.230 Mac: (1B:E3:54:35:1F:49). ClientId: 18
+02:37:12 : [Mensagem do servidor]> Senha incorreta.
+02:37:12 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+02:37:19 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (NEWCASTYEL) - IP: 177.154.8.230 Mac: (1B:E3:54:35:1F:49). ClientId: 18
+02:37:19 : Usuário logou no jogo com clientId 18. - Servidor 1. Gold do banco: 0
+02:37:19 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+02:37:25 : Enviou senha numérica correta. 
+02:38:17 : Solicitou ir ao mundo...
+02:38:17 : Recebido pedido para entrar no jogo
+02:38:17 : Recebido informação do personagem completa.
+02:38:17 : [CastyeL] - [INFORMAÇÕES DA CONTA]
+Personagem online: CastyeL
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:58 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 0 0 0 0 0]
+[02] - Robe(N)[1266] [43 0 0 0 0 0]
+[03] - Saia(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas(N)[1290] [43 0 0 0 0 0]
+[05] - Botas(N)[1302] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+02:38:17 : [CastyeL] - Personagem CastyeL enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. PowerLevel: 11
+02:38:17 : [CastyeL] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+02:38:17 : [CastyeL] - Resetado a contagem de entradas água! Day: 0-43. Total: 0
+02:38:17 : [CastyeL] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+02:38:17 : [CastyeL] - Enviado informações do personagem
+02:38:19 : [CastyeL] - Comando "/day "
+02:38:19 : [CastyeL] - [Mensagem do servidor]> !#11 2
+02:38:28 : [CastyeL] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+02:38:44 : [CastyeL] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 4610. Posição do usuário: 2113x 2043y. Posição do NPC: 2107x 2042y
+02:38:56 : [CastyeL] - Pontos CP subiu em 3. CP novo: 78
+02:38:56 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:38:56 : [CastyeL] - Level UP para level 1. Ev: 0/0 - 2113x 2043y
+02:38:56 : [CastyeL] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2113x 2043y - Porco de Guerra (1/30)
+02:38:56 : [CastyeL] - Pontos CP subiu em 3. CP novo: 81
+02:38:56 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:38:56 : [CastyeL] - Level UP para level 2. Ev: 0/0 - 2113x 2043y
+02:39:01 : [CastyeL] - Pontos CP subiu em 3. CP novo: 84
+02:39:01 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:39:01 : [CastyeL] - Level UP para level 3. Ev: 0/0 - 2117x 2046y
+02:39:02 : [CastyeL] - Pontos CP subiu em 3. CP novo: 87
+02:39:02 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:39:02 : [CastyeL] - Level UP para level 4. Ev: 0/0 - 2117x 2046y
+02:39:04 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:39:04 : [CastyeL] - Pontos CP subiu em 3. CP novo: 90
+02:39:04 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:39:04 : [CastyeL] - Level UP para level 5. Ev: 0/0 - 2117x 2046y
+02:39:07 : [CastyeL] - Clicado no NPC [Helper]. Face 230. Race: 2. GenerateId: 3421. Posição do usuário: 2130x 2037y. Posição do NPC: 2132x 2034y
+02:39:13 : [CastyeL] - Pontos CP subiu em 3. CP novo: 93
+02:39:13 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:39:13 : [CastyeL] - Level UP para level 6. Ev: 0/0 - 2125x 2040y
+02:39:20 : [CastyeL] - Pontos CP subiu em 3. CP novo: 96
+02:39:20 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:39:20 : [CastyeL] - Level UP para level 7. Ev: 0/0 - 2125x 2040y
+02:39:21 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:39:21 : [CastyeL] - Pontos CP subiu em 3. CP novo: 99
+02:39:21 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:39:21 : [CastyeL] - Level UP para level 8. Ev: 0/0 - 2125x 2040y
+02:39:24 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:39:26 : [CastyeL] - Pontos CP subiu em 3. CP novo: 102
+02:39:26 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:39:26 : [CastyeL] - Level UP para level 9. Ev: 0/0 - 2125x 2040y
+02:39:29 : [CastyeL] - [Mensagem do servidor]: Jogador Dark-Foema falhou a composição do item Luvas(A) +10
+02:39:36 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:39:36 : [CastyeL] - Pontos CP subiu em 3. CP novo: 105
+02:39:36 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:39:36 : [CastyeL] - Level UP para level 10. Ev: 0/0 - 2119x 2039y
+02:39:41 : [CastyeL] - [Mensagem do servidor]: Jogador Dark-Foema falhou a composição do item Luvas(A) +10
+02:39:47 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:40:01 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:40:03 : [CastyeL] - Pontos CP subiu em 3. CP novo: 108
+02:40:03 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:40:03 : [CastyeL] - Level UP para level 11. Ev: 0/0 - 2120x 2040y
+02:40:04 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:40:06 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:40:07 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:40:07 : [CastyeL] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2120x 2040y - Porco de Guerra (1/30)
+02:40:12 : [CastyeL] - Pontos CP subiu em 3. CP novo: 111
+02:40:12 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:40:12 : [CastyeL] - Level UP para level 12. Ev: 0/0 - 2121x 2043y
+02:40:13 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:40:17 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:40:18 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:40:20 : [CastyeL] - Pontos CP subiu em 3. CP novo: 114
+02:40:20 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:40:20 : [CastyeL] - Level UP para level 13. Ev: 0/0 - 2126x 2037y
+02:40:24 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:40:27 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:40:29 : [CastyeL] - Dropado item Calça(A) [1559] [43 0 71 50 60 10] em 2127x 2034y - Porco de Guerra (1/89)
+02:40:31 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:40:33 : [CastyeL] - Pontos CP subiu em 3. CP novo: 117
+02:40:33 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:40:33 : [CastyeL] - Level UP para level 14. Ev: 0/0 - 2127x 2034y
+02:40:40 : [CastyeL] - [Mensagem do servidor]> Não possui a quantia suficiente
+02:40:41 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:40:41 : [CastyeL] - Dropado item Armadura(A) [1118] [43 0 3 20 60 6] em 2127x 2034y - Porco de Guerra (1/300)
+02:40:43 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:40:43 : [CastyeL] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na composição de Basileus(Anct)
+02:40:49 : [CastyeL] - Item Calça(A) deletado [1559] [43 0 71 50 60 10]. Slot 2
+02:40:50 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:40:52 : [CastyeL] - Item Armadura(A) deletado [1118] [43 0 3 20 60 6]. Slot 3
+02:40:53 : [CastyeL] - Pontos CP subiu em 3. CP novo: 120
+02:40:53 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:40:53 : [CastyeL] - Level UP para level 15. Ev: 0/0 - 2127x 2034y
+02:40:57 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:41:05 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:41:06 : [CastyeL] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na composição de Basileus(Anct)
+02:41:10 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:41:13 : [CastyeL] - Pontos CP subiu em 3. CP novo: 123
+02:41:13 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:41:13 : [CastyeL] - Level UP para level 16. Ev: 0/0 - 2127x 2034y
+02:41:20 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:41:20 : [CastyeL] - Dropado item Calça(A) [1559] [43 0 71 40 59 0] em 2127x 2034y - Porco de Guerra (1/89)
+02:41:24 : [CastyeL] - Item Calça(A) deletado [1559] [43 0 71 40 59 0]. Slot 0
+02:41:29 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:41:36 : [CastyeL] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na composição de Basileus(Anct)
+02:41:56 : [CastyeL] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na composição de Basileus(Anct)
+02:42:22 : [CastyeL] - [Mensagem do servidor]: Parabéns EliteRubro pela criação do personagem Arch
+02:43:40 : [CastyeL] - Moveu item Robe(N) [1266] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 0
+02:43:41 : [CastyeL] - Moveu item Robe(N) [1254] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 5
+02:43:53 : [CastyeL] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+02:43:56 : [CastyeL] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+02:44:03 : [CastyeL] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2112x 2115y
+02:44:03 : [CastyeL] - Gold atual: 0.
+02:44:04 : [CastyeL] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2112x 2115y
+02:44:04 : [CastyeL] - Gold atual: 100000000.
+02:44:04 : [CastyeL] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2112x 2115y
+02:44:04 : [CastyeL] - Gold atual: 200000000.
+02:44:11 : [CastyeL] - [Mensagem do servidor]: Dark-Foema falhou a refinação de Túnica(A) para 12
+02:44:17 : [CastyeL] - Comando "/CP "
+02:44:17 : [CastyeL] - [Mensagem do servidor]> Este personagem não está conectado.
+02:44:23 : [CastyeL] - Comando "/CP "
+02:44:23 : [CastyeL] - [Mensagem do servidor]> Este personagem não está conectado.
+02:44:28 : [CastyeL] - Comando "/cp "
+02:44:28 : [CastyeL] - [Mensagem do servidor]> Seu CP Atual : 48
+02:44:34 : [CastyeL] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +12
+02:44:58 : [CastyeL] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +12
+02:45:04 : [CastyeL] - [Mensagem do servidor]> Citizen Chatting : Off
+02:45:05 : [CastyeL] - [Mensagem do servidor]> Citizen Chatting : On
+02:45:06 : [CastyeL] - [Mensagem do servidor]> Citizen Chatting : Off
+02:45:06 : [CastyeL] - [Mensagem do servidor]> Citizen Chatting : On
+02:45:07 : [CastyeL] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2112x 2115y
+02:45:07 : [CastyeL] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+02:45:08 : [CastyeL] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2112x 2115y
+02:45:08 : [CastyeL] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+02:45:09 : [CastyeL] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2112x 2115y
+02:45:09 : [CastyeL] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+02:45:09 : [CastyeL] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +12
+02:45:09 : [CastyeL] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2112x 2115y
+02:45:09 : [CastyeL] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+02:45:17 : [CastyeL] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2112x 2115y
+02:45:17 : [CastyeL] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+02:45:18 : [CastyeL] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2112x 2115y
+02:45:18 : [CastyeL] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+02:45:18 : [CastyeL] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2112x 2115y
+02:45:18 : [CastyeL] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+02:45:19 : [CastyeL] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2112x 2115y
+02:45:19 : [CastyeL] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+02:45:19 : [CastyeL] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2112x 2115y
+02:45:19 : [CastyeL] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+02:45:20 : [CastyeL] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2112x 2115y
+02:45:20 : [CastyeL] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+02:45:21 : [CastyeL] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2112x 2115y
+02:45:21 : [CastyeL] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+02:45:21 : [CastyeL] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2112x 2115y
+02:45:21 : [CastyeL] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+02:45:22 : [CastyeL] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2112x 2115y
+02:45:22 : [CastyeL] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+02:45:23 : [CastyeL] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2112x 2115y
+02:45:23 : [CastyeL] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+02:45:47 : [CastyeL] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +12
+02:46:06 : [CastyeL] - [Mensagem do servidor]> Compra concluída!
+02:46:21 : [CastyeL] - Trade com conta MENINAO
+02:46:21 : [CastyeL] - Trade - 0 - Enviado Emblema_da_Proteção para ancalagon [4043] [0 0 0 0 0 0]
+02:46:21 : [CastyeL] - Trade - 1 - Enviado Emblema_da_Proteção para ancalagon [4043] [0 0 0 0 0 0]
+02:46:21 : [CastyeL] - Trade - 2 - Enviado Emblema_da_Proteção para ancalagon [4043] [0 0 0 0 0 0]
+02:46:21 : [CastyeL] - Trade - 3 - Enviado Emblema_da_Proteção para ancalagon [4043] [0 0 0 0 0 0]
+02:46:21 : [CastyeL] - Trade - 4 - Enviado Emblema_da_Proteção para ancalagon [4043] [0 0 0 0 0 0]
+02:46:21 : [CastyeL] - Trade - 5 - Enviado Emblema_da_Proteção para ancalagon [4043] [0 0 0 0 0 0]
+02:46:21 : [CastyeL] - Trade - Enviado 0 de gold para o usuário
+02:46:21 : [CastyeL] - Trade - Recebido 0 de gold do usuário
+02:47:36 : [CastyeL] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +13
+02:47:42 : [CastyeL] - [Mensagem do servidor]> Compra concluída!
+02:47:45 : [CastyeL] - [Mensagem do servidor]> Compra concluída!
+02:47:55 : [CastyeL] - Comando "/cp "
+02:47:55 : [CastyeL] - [Mensagem do servidor]> Seu CP Atual : 48
+02:47:56 : [CastyeL] - [Mensagem do servidor]> Compra concluída!
+02:47:57 : [CastyeL] - [Mensagem do servidor]: Jogador ancalagon obteve sucesso na refinação item +12
+02:47:58 : [CastyeL] - [Mensagem do servidor]> Compra concluída!
+02:47:59 : [CastyeL] - [Mensagem do servidor]> Compra concluída!
+02:48:01 : [CastyeL] - [Mensagem do servidor]> Compra concluída!
+02:48:04 : [CastyeL] - [Mensagem do servidor]> Compra concluída!
+02:48:06 : [CastyeL] - [Mensagem do servidor]> Compra concluída!
+02:48:09 : [CastyeL] - [Mensagem do servidor]> Compra concluída!
+02:48:12 : [CastyeL] - [Mensagem do servidor]> Compra concluída!
+02:48:17 : [CastyeL] - [Mensagem do servidor]> Compra concluída!
+02:48:21 : [CastyeL] - [Mensagem do servidor]> Compra concluída!
+02:48:22 : [CastyeL] - [Mensagem do servidor]: Jogador ancalagon obteve sucesso na refinação item +13
+02:48:29 : [CastyeL] - [Mensagem do servidor]> Compra concluída!
+02:48:30 : [CastyeL] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +14
+02:48:37 : [CastyeL] - [Mensagem do servidor]> Compra concluída!
+02:48:44 : [CastyeL] - [Mensagem do servidor]> Compra concluída!
+02:48:44 : [CastyeL] - [Mensagem do servidor]: Jogador ancalagon obteve sucesso na refinação item +14
+02:49:11 : [CastyeL] - Item Bolsa_do_Andarilho [3467] [0 0 0 0 0 0] utilizado em 2111x 2110y
+02:49:11 : [CastyeL] - Bolsa do Andarilho usado. Até dia 15/03/2021
+02:49:13 : [CastyeL] - Item Bolsa_do_Andarilho [3467] [0 0 0 0 0 0] utilizado em 2111x 2110y
+02:49:13 : [CastyeL] - Bolsa do Andarilho usado. Até dia 15/03/2021
+02:49:14 : [CastyeL] - Item Baú_de_Experiência [4140] [61 5 0 0 0 0] utilizado em 2111x 2110y
+02:49:15 : [CastyeL] - Moveu item Fada_Vermelha(3dias) [3902] [106 3 107 0 108 0] do tipo INVENTÁRIO do slot 17 para tipo EQUIPAMENTO slot 13
+02:49:18 : [CastyeL] - Item Jóia_do_Poder [3206] [61 12 0 0 0 0] utilizado em 2111x 2110y
+02:49:19 : [CastyeL] - Item Jóia_da_Precisão [3208] [61 12 0 0 0 0] utilizado em 2111x 2110y
+02:49:19 : [CastyeL] - Item Jóia_da_Magia [3209] [61 12 0 0 0 0] utilizado em 2111x 2110y
+02:49:20 : [CastyeL] - Item Jóia_da_Sagacidade [3200] [61 12 0 0 0 0] utilizado em 2111x 2110y
+02:49:21 : [CastyeL] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +15
+02:49:21 : [CastyeL] - Item Jóia_da_Resistência [3201] [61 12 0 0 0 0] utilizado em 2111x 2110y
+02:49:22 : [CastyeL] - Item Jóia_da_Proteção [3205] [61 12 0 0 0 0] utilizado em 2111x 2110y
+02:49:22 : [CastyeL] - Item Jóia_da_Absorção [3204] [61 12 0 0 0 0] utilizado em 2111x 2110y
+02:49:24 : [CastyeL] - Item Jóia_da_Recuperação [3203] [61 12 0 0 0 0] utilizado em 2111x 2110y
+02:49:27 : [CastyeL] - Item Frango_Assado [3314] [61 10 0 0 0 0] utilizado em 2111x 2110y
+02:49:28 : [CastyeL] - Item Poção_Divina(30dias) [3381] [0 0 0 0 0 0] utilizado em 2111x 2110y
+02:49:28 : [CastyeL] - Poção Divina utilizada até dia 15/03/2021 02:49:28
+02:49:51 : [CastyeL] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +13
+02:50:17 : [CastyeL] - Teleportado para a posição 2482 1717
+02:50:29 : [CastyeL] - Clicado no NPC [Perzen Arcano]. Face 11. Race: 4. GenerateId: 3275. Posição do usuário: 2482x 1706y. Posição do NPC: 2477x 1705y
+02:50:30 : [CastyeL] - Clicado no NPC [Perzen Arcano]. Face 11. Race: 4. GenerateId: 3275. Posição do usuário: 2478x 1705y. Posição do NPC: 2477x 1705y
+02:50:39 : [CastyeL] - [Mensagem do servidor]> Ative para poder utilizar
+02:50:41 : [CastyeL] - [Mensagem do servidor]> Ative para poder utilizar
+02:50:43 : [CastyeL] - Clicado no NPC [Perzen Arcano]. Face 11. Race: 4. GenerateId: 3275. Posição do usuário: 2477x 1701y. Posição do NPC: 2477x 1705y
+02:50:45 : [CastyeL] - Clicado no NPC [Perzen Arcano]. Face 11. Race: 4. GenerateId: 3275. Posição do usuário: 2477x 1701y. Posição do NPC: 2477x 1705y
+02:50:48 : [CastyeL] - [Mensagem do servidor]> Ative para poder utilizar
+02:50:52 : [CastyeL] - [Mensagem do servidor]> Ative para poder utilizar
+02:50:53 : [CastyeL] - [Mensagem do servidor]> Ative para poder utilizar
+02:50:54 : [CastyeL] - [Mensagem do servidor]> Ative para poder utilizar
+02:50:54 : [CastyeL] - [Mensagem do servidor]> Ative para poder utilizar
+02:50:54 : [CastyeL] - [Mensagem do servidor]> Ative para poder utilizar
+02:51:07 : [CastyeL] - Clicado no NPC [Perzen Arcano]. Face 11. Race: 4. GenerateId: 3275. Posição do usuário: 2479x 1704y. Posição do NPC: 2477x 1705y
+02:51:10 : [CastyeL] - Clicado no NPC [Perzen Arcano]. Face 11. Race: 4. GenerateId: 3275. Posição do usuário: 2479x 1705y. Posição do NPC: 2477x 1705y
+02:51:13 : [CastyeL] - Moveu item Klazedale [3988] [96 30 0 0 0 0] do tipo INVENTÁRIO do slot 18 para tipo INVENTÁRIO slot 20
+02:51:15 : [CastyeL] - [Mensagem do servidor]> Ative para poder utilizar
+02:51:18 : [CastyeL] - [Mensagem do servidor]> Ative para poder utilizar
+02:51:19 : [CastyeL] - [Mensagem do servidor]> Ative para poder utilizar
+02:51:20 : [CastyeL] - [Mensagem do servidor]> Ativação concluída
+02:51:20 : [CastyeL] - Aplicado tempo no item Klazedale [3988] [96 15 3 21 0 0] - 15
+02:51:23 : [CastyeL] - Moveu item Klazedale [3988] [96 15 3 21 0 0] do tipo INVENTÁRIO do slot 20 para tipo EQUIPAMENTO slot 14
+02:51:29 : [CastyeL] - Teleportado para a posição 2116 2101
+02:52:03 : [CastyeL] - [Mensagem do servidor]> Citizen Chatting : Off
+02:52:06 : [CastyeL] - Moveu item Cajado [900] [60 20 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo INVENTÁRIO slot 15
+02:53:25 : [CastyeL] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na refinação item +12
+02:53:42 : [CastyeL] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na refinação item +13
+02:54:02 : [CastyeL] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na refinação item +14
+02:55:04 : [CastyeL] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +14
+02:55:29 : [CastyeL] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +15
+02:55:40 : [CastyeL] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na refinação item +15
+02:55:44 : [CastyeL] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +13
+02:55:53 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:55:53 : [CastyeL] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +14
+02:55:54 : [CastyeL] - Pontos CP subiu em 3. CP novo: 126
+02:55:54 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:55:54 : [CastyeL] - Level UP para level 17. Ev: 0/0 - 2119x 2044y
+02:55:57 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:55:57 : [CastyeL] - Dropado item Robe(A) [1406] [43 1 71 50 59 0] em 2127x 2044y - Porco de Guerra (1/56)
+02:56:01 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:56:04 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:56:05 : [CastyeL] - Pontos CP subiu em 3. CP novo: 129
+02:56:05 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:56:05 : [CastyeL] - Level UP para level 18. Ev: 0/0 - 2124x 2042y
+02:56:07 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:56:07 : [CastyeL] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2124x 2042y - Porco de Guerra (1/25)
+02:56:08 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:56:10 : [CastyeL] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +15
+02:56:19 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:56:20 : [CastyeL] - Pontos CP subiu em 3. CP novo: 132
+02:56:20 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:56:20 : [CastyeL] - Level UP para level 19. Ev: 0/0 - 2092x 2027y
+02:56:22 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:56:23 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:56:27 : [CastyeL] - Pontos CP subiu em 3. CP novo: 135
+02:56:27 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:56:27 : [CastyeL] - Level UP para level 20. Ev: 0/0 - 2078x 2022y
+02:56:27 : [CastyeL] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2078x 2022y - Gremlin Artif (1/1)
+02:56:28 : [CastyeL] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2078x 2022y - Gremlin (1/25)
+02:56:29 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:56:29 : [CastyeL] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2075x 2021y - Gremlin Artif (1/1)
+02:56:31 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:56:32 : [CastyeL] - Clicado no NPC [Treinador1]. Face 60. Race: 2. GenerateId: 4408. Posição do usuário: 2073x 2017y. Posição do NPC: 2080x 2018y
+02:56:32 : [CastyeL] - [Mensagem do servidor]> Recebeu Poção de Cura como recompensa.
+02:56:32 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:56:35 : [CastyeL] - Pontos CP subiu em 3. CP novo: 138
+02:56:35 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:56:35 : [CastyeL] - Level UP para level 21. Ev: 0/0 - 2075x 2014y
+02:56:35 : [CastyeL] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +12
+02:56:39 : [CastyeL] - Clicado no NPC [Helper ]. Face 230. Race: 2. GenerateId: 3422. Posição do usuário: 2084x 1997y. Posição do NPC: 2087x 2001y
+02:56:39 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:56:40 : [CastyeL] - Clicado no NPC [Helper ]. Face 230. Race: 2. GenerateId: 3422. Posição do usuário: 2089x 2001y. Posição do NPC: 2087x 2001y
+02:56:40 : [CastyeL] - Dropado item Escudo [1701] [0 0 0 0 0 0] em 2089x 2001y - Gremlin (1/252)
+02:56:43 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:56:45 : [CastyeL] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +13
+02:56:46 : [CastyeL] - Pontos CP subiu em 3. CP novo: 141
+02:56:46 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:56:46 : [CastyeL] - Level UP para level 22. Ev: 0/0 - 2111x 2001y
+02:56:47 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:56:48 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:56:48 : [CastyeL] - Pontos CP subiu em 3. CP novo: 144
+02:56:48 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:56:48 : [CastyeL] - Level UP para level 23. Ev: 0/0 - 2111x 2001y
+02:56:49 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:56:50 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:56:51 : [CastyeL] - Pontos CP subiu em 3. CP novo: 147
+02:56:51 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:56:51 : [CastyeL] - Level UP para level 24. Ev: 0/0 - 2113x 1999y
+02:56:52 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:56:54 : [CastyeL] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +14
+02:56:57 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:56:57 : [CastyeL] - Pontos CP subiu em 3. CP novo: 150
+02:56:57 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:56:57 : [CastyeL] - Level UP para level 25. Ev: 0/0 - 2137x 2000y
+02:56:58 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:57:02 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:57:03 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:57:03 : [CastyeL] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2139x 2002y - Krill Gigante (1/1)
+02:57:06 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:57:06 : [CastyeL] - Level UP para level 26. Ev: 0/0 - 2147x 2003y
+02:57:07 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:57:10 : [CastyeL] - Clicado no NPC [Treinador2]. Face 60. Race: 2. GenerateId: 4409. Posição do usuário: 2142x 1992y. Posição do NPC: 2142x 1990y
+02:57:10 : [CastyeL] - [Mensagem do servidor]> Como recompensa foi atribuída uma opção adicional em sua arma.
+02:57:11 : [CastyeL] - Clicado no NPC [Treinador2]. Face 60. Race: 2. GenerateId: 4409. Posição do usuário: 2142x 1992y. Posição do NPC: 2142x 1990y
+02:57:16 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:57:28 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:57:28 : [CastyeL] - Level UP para level 27. Ev: 0/0 - 2080x 1971y
+02:57:30 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:57:32 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:57:32 : [CastyeL] - Dropado item Chave_da_Ultima_Porta [453] [0 0 0 0 0 0] em 2079x 1972y - Orc Sniper (1/1)
+02:57:33 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:57:33 : [CastyeL] - Level UP para level 28. Ev: 0/0 - 2079x 1972y
+02:57:35 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:57:35 : [CastyeL] - Dropado item Sapatos(A) [1415] [43 3 73 6 60 6] em 2079x 1972y - Rei Gremlin   (1/75)
+02:57:36 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:57:38 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:57:38 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:57:38 : [CastyeL] - Level UP para level 29. Ev: 0/0 - 2076x 1975y
+02:57:38 : [CastyeL] - Recebeu o item Luvas(M) [1297] [43 0 2 20 53 3]. STR: 5. INT: 8. DEX: 5. CON: 5
+02:57:41 : [CastyeL] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +12
+02:57:43 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:57:43 : [CastyeL] - Dropado item Chave_da_Ultima_Porta [453] [0 0 0 0 0 0] em 2076x 1975y - Orc Sniper (1/1)
+02:57:45 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:57:48 : [CastyeL] - Clicado no NPC [Treinador3]. Face 60. Race: 2. GenerateId: 4410. Posição do usuário: 2078x 1968y. Posição do NPC: 2078x 1966y
+02:57:48 : [CastyeL] - [Mensagem do servidor]> Como recompensa a sua arma e armadura foram refinadas.
+02:57:48 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:57:49 : [CastyeL] - Clicado no NPC [Treinador3]. Face 60. Race: 2. GenerateId: 4410. Posição do usuário: 2078x 1967y. Posição do NPC: 2077x 1965y
+02:57:49 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:57:49 : [CastyeL] - Level UP para level 30. Ev: 0/0 - 2078x 1967y
+02:57:50 : [CastyeL] - Clicado no NPC [Treinador3]. Face 60. Race: 2. GenerateId: 4410. Posição do usuário: 2078x 1967y. Posição do NPC: 2077x 1965y
+02:57:51 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:57:53 : [CastyeL] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +13
+02:57:58 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:58:00 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:58:01 : [CastyeL] - Clicado no NPC [Helper  ]. Face 230. Race: 2. GenerateId: 3423. Posição do usuário: 2084x 1949y. Posição do NPC: 2080x 1947y
+02:58:02 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:58:02 : [CastyeL] - Level UP para level 31. Ev: 0/0 - 2081x 1952y
+02:58:02 : [CastyeL] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +14
+02:58:11 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:58:12 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:58:15 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:58:16 : [CastyeL] - [Mensagem do servidor]: Dark-Foema falhou a refinação de Fúria_Divina(Anct) para 15
+02:58:17 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:58:17 : [CastyeL] - Level UP para level 32. Ev: 0/0 - 2136x 1946y
+02:58:18 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:58:19 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:58:19 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:58:19 : [CastyeL] - Level UP para level 33. Ev: 0/0 - 2136x 1946y
+02:58:19 : [CastyeL] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2136x 1946y - Orc Guerreiro   (1/1)
+02:58:21 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:58:22 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:58:25 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:58:25 : [CastyeL] - Level UP para level 34. Ev: 0/0 - 2132x 1947y
+02:58:25 : [CastyeL] - Recebeu o item Botas(M) [1309] [43 0 73 18 74 12]. STR: 5. INT: 8. DEX: 5. CON: 5
+02:58:27 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:58:27 : [CastyeL] - Dropado item Luvas(M) [1291] [43 0 72 10 59 0] em 2132x 1947y - Chefe Krill  (1/252)
+02:58:28 : [CastyeL] - [Mensagem do servidor]: Obliviate falhou a refinação de Botas(A) para 15
+02:58:30 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:58:30 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:58:30 : [CastyeL] - Level UP para level 35. Ev: 0/0 - 2132x 1947y
+02:58:30 : [CastyeL] - Recebeu o item Poeira_de_Lactolerium [413] [61 10 0 0 0 0]. STR: 5. INT: 8. DEX: 5. CON: 5
+02:58:30 : [CastyeL] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2132x 1947y - Orc Guerreiro   (1/1)
+02:58:32 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+02:58:32 : [CastyeL] - Item Luvas(M) deletado [1291] [43 0 72 10 59 0]. Slot 28
+02:58:33 : [CastyeL] - Dropado item Calça(A) [1409] [43 0 71 40 3 10] em 2132x 1947y - Rei Gremlin   (1/252)
+02:58:34 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+02:58:36 : [CastyeL] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +14
+02:58:36 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+02:58:38 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+02:58:38 : [CastyeL] - Level UP para level 36. Ev: 0/0 - 2133x 1946y
+02:58:39 : [CastyeL] - [Mensagem do servidor]> Só é permitido a entrada de personagens com level inferior a 35.
+02:58:39 : [CastyeL] - DoRecall - Enviado para cidade: 2097x 2097y
+02:58:56 : [CastyeL] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +14
+02:59:08 : [CastyeL] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +15
+02:59:14 : [CastyeL] - [Mensagem do servidor]> Citizen Chatting : On
+02:59:14 : [CastyeL] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+02:59:17 : [CastyeL] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+02:59:19 : [CastyeL] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+02:59:21 : [CastyeL] - [Mensagem do servidor]: Obliviate falhou a refinação de Botas(A) para 15
+02:59:21 : [CastyeL] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+02:59:24 : [CastyeL] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+02:59:26 : [CastyeL] - [Mensagem do servidor]> Citizen Chatting : Off
+02:59:26 : [CastyeL] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+02:59:28 : [CastyeL] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+02:59:30 : [CastyeL] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+02:59:36 : [CastyeL] - [Mensagem do servidor]> Citizen Chatting : On
+02:59:36 : [CastyeL] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+02:59:41 : [CastyeL] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+02:59:43 : [CastyeL] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +12
+02:59:46 : [CastyeL] - [Mensagem do servidor]> Citizen Chatting : Off
+02:59:46 : [CastyeL] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+02:59:53 : [CastyeL] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2116x 2116y
+02:59:53 : [CastyeL] - Gold atual: 299996258.
+02:59:54 : [CastyeL] - [Mensagem do servidor]: Jogador Dark-Foema obteve sucesso na refinação item +13
+02:59:55 : [CastyeL] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2116x 2116y
+02:59:55 : [CastyeL] - Gold atual: 399996258.
+02:59:56 : [CastyeL] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2116x 2116y
+02:59:56 : [CastyeL] - Gold atual: 499996258.
+02:59:57 : [CastyeL] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2116x 2116y
+02:59:57 : [CastyeL] - Gold atual: 599996258.
+02:59:57 : [CastyeL] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2116x 2116y
+02:59:57 : [CastyeL] - Gold atual: 699996258.
+02:59:58 : [CastyeL] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2116x 2116y
+02:59:58 : [CastyeL] - Gold atual: 799996258.
+02:59:58 : [CastyeL] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2116x 2116y
+02:59:58 : [CastyeL] - Gold atual: 899996258.
+02:59:59 : [CastyeL] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2116x 2116y
+02:59:59 : [CastyeL] - Gold atual: 999996258.
+02:59:59 : [CastyeL] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2116x 2116y
+02:59:59 : [CastyeL] - Gold atual: 1099996258.
+03:00:02 : [CastyeL] - Item Emblema_Orc deletado [524] [0 0 0 0 0 0]. Slot 21
+03:00:10 : [CastyeL] - Moveu item Aranha [2360] [88 27 1 20 0 0] do tipo INVENTÁRIO do slot 25 para tipo EQUIPAMENTO slot 14
+03:00:19 : [CastyeL] - Agrupando o item Jóia_da_Recarga [3202] [61 12 0 0 0 0] com o item Jóia_da_Recarga [3202] [61 12 0 0 0 0]
+03:00:19 : [CastyeL] - O agrupamento foi efetuado de slot 10 tipo INVENTÁRIO para slot 11 tipo INVENTÁRIO
+03:00:20 : [CastyeL] - Agrupando o item Jóia_da_Recarga [3202] [61 24 0 0 0 0] com o item Jóia_da_Recarga [3202] [61 12 0 0 0 0]
+03:00:20 : [CastyeL] - O agrupamento foi efetuado de slot 11 tipo INVENTÁRIO para slot 12 tipo INVENTÁRIO
+03:00:21 : [CastyeL] - Agrupando o item Jóia_da_Recarga [3202] [61 36 0 0 0 0] com o item Jóia_da_Recarga [3202] [61 12 0 0 0 0]
+03:00:21 : [CastyeL] - O agrupamento foi efetuado de slot 12 tipo INVENTÁRIO para slot 13 tipo INVENTÁRIO
+03:00:23 : [CastyeL] - Moveu item Jóia_da_Recarga [3202] [61 48 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo INVENTÁRIO slot 1
+03:00:24 : [CastyeL] - Moveu item Jóia_da_Recarga [3202] [61 48 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo INVENTÁRIO slot 0
+03:00:30 : [CastyeL] - Moveu item Kit_de_Cura_(20_M.) [682] [61 20 0 0 0 0] do tipo INVENTÁRIO do slot 20 para tipo INVENTÁRIO slot 10
+03:00:32 : [CastyeL] - Moveu item Ração_de_Aranha [2420] [61 120 0 0 0 0] do tipo INVENTÁRIO do slot 26 para tipo INVENTÁRIO slot 11
+03:00:34 : [CastyeL] - Moveu item Baú_de_Experiência [4140] [61 4 0 0 0 0] do tipo INVENTÁRIO do slot 16 para tipo INVENTÁRIO slot 12
+03:00:37 : [CastyeL] - Moveu item Poeira_de_Lactolerium [413] [61 10 0 0 0 0] do tipo INVENTÁRIO do slot 29 para tipo INVENTÁRIO slot 13
+03:00:55 : [CastyeL] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +14
+03:01:08 : [CastyeL] - [Mensagem do servidor]: Jogador Obliviate obteve sucesso na refinação item +15
+03:01:33 : [CastyeL] - [Mensagem do servidor]> Citizen Chatting : On
+03:02:20 : [CastyeL] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na refinação item +12
+03:02:39 : [CastyeL] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na refinação item +13
+03:02:53 : [CastyeL] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na refinação item +14
+03:03:08 : [CastyeL] - Teleportado para a posição 2482 1717
+03:03:08 : [CastyeL] - [Mensagem do servidor]: Jogador -JalimRabei- obteve sucesso na refinação item +15
+03:04:31 : [CastyeL] - Moveu item Klazedale [3988] [96 15 3 21 0 0] do tipo INVENTÁRIO do slot 25 para tipo EQUIPAMENTO slot 14
+03:04:56 : [CastyeL] - [Mensagem do servidor]: Parabéns FANATICs pela criação do personagem Arch
+03:05:32 : [CastyeL] - Teleportado para a posição 1969 1711
+03:05:32 : [CastyeL] - Solicitado teleporte na posição 2455x 1717y e teleportado para 1969x 1711y
+03:05:53 : [CastyeL] - Item Pergaminho_da_Água(N)LV1 [3173] [61 240 0 0 0 0] utilizado em 1967x 1772y
+03:05:53 : [CastyeL] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+03:05:58 : [CastyeL] - Item Pergaminho_da_Água(N)LV1 [3173] [61 240 0 0 0 0] utilizado em 1967x 1774y
+03:05:58 : [CastyeL] - Teleportado para a posição 1086 3517
+03:05:58 : [CastyeL] - Água 3173 - Grupo teleportado para a área. Entradas restantes: 1080
+03:06:46 : [CastyeL] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+03:06:59 : [CastyeL] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1086x 3517y. Teleportado para ""
+03:06:59 : [CastyeL] - Teleportado para a posição 1965 1770
+03:07:08 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1775y
+03:07:08 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:15 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1775y
+03:07:15 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:16 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1775y
+03:07:16 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:19 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:19 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:20 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:20 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:21 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:21 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:23 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:23 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:23 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:23 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:24 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:24 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:25 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:25 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:26 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:26 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:26 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:26 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:27 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:27 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:30 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:30 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:34 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:34 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:34 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:34 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:35 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:35 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:36 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:36 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:36 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:36 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:37 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:37 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:37 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:37 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:38 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:38 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:38 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:38 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:39 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:39 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:40 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:40 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:40 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:40 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:41 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:41 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:41 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:41 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:42 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:42 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:43 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:07:43 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:07:45 : [CastyeL] - Item Baú_de_Experiência [4140] [61 4 0 0 0 0] utilizado em 1966x 1773y
+03:07:46 : [CastyeL] - [Mensagem do servidor]: Parabéns para Rabixo pela criação do seu Celestial
+03:07:46 : [CastyeL] - Item Baú_de_Experiência [4140] [61 3 0 0 0 0] utilizado em 1966x 1773y
+03:07:47 : [CastyeL] - Item Baú_de_Experiência [4140] [61 2 0 0 0 0] utilizado em 1966x 1773y
+03:07:47 : [CastyeL] - Item Baú_de_Experiência [4140] [61 1 0 0 0 0] utilizado em 1966x 1773y
+03:07:48 : [CastyeL] - Item Jóia_da_Recarga [3202] [61 48 0 0 0 0] utilizado em 1966x 1773y
+03:08:05 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1965x 1775y
+03:08:05 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:08:06 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1965x 1775y
+03:08:06 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:08:14 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1773y
+03:08:14 : [CastyeL] - [Mensagem do servidor]> Não há salas disponíveis no momento. Aguarde
+03:08:18 : [CastyeL] - [INFORMAÇÕES DA CONTA]
+Personagem online: CastyeL
+Gold atual: 1199995912
+Level atual: 36
+Experiência atual: 214778
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:30:37 horas
+Posição atual: 1962x 1762y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[03] - Saia(N)[1278] [43 8 0 0 0 0]
+[04] - Luvas(N)[1290] [43 8 0 0 0 0]
+[05] - Botas(N)[1302] [43 8 0 0 0 0]
+[06] - Arco[816] [43 8 0 0 0 0]
+[13] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 41]
+[14] - Klazedale[3988] [96 15 3 21 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Recarga[3202] [61 47 0 0 0 0]
+[01] - Frango_Assado[3314] [61 9 0 0 0 0]
+[02] - Jóia_da_Recuperação[3203] [61 11 0 0 0 0]
+[03] - Jóia_da_Absorção[3204] [61 11 0 0 0 0]
+[04] - Jóia_da_Proteção[3205] [61 11 0 0 0 0]
+[05] - Jóia_do_Poder[3206] [61 11 0 0 0 0]
+[06] - Jóia_da_Precisão[3208] [61 11 0 0 0 0]
+[07] - Jóia_da_Magia[3209] [61 11 0 0 0 0]
+[08] - Jóia_da_Sagacidade[3200] [61 11 0 0 0 0]
+[09] - Jóia_da_Resistência[3201] [61 11 0 0 0 0]
+[10] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[11] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[13] - Poeira_de_Lactolerium[413] [61 10 0 0 0 0]
+[14] - Andaluz_B[2375] [10 10 100 60 10 0]
+[15] - Cajado[900] [60 20 0 0 0 0]
+[16] - Unicórnio[2381] [10 10 100 60 10 0]
+[17] - Skinfaxi[2371] [10 10 100 60 10 0]
+[18] - Grifo_Sangrento[2386] [10 10 100 60 10 0]
+[19] - Pergaminho_da_Água(N)LV1[3173] [61 239 0 0 0 0]
+[20] - Pergaminho_da_Água(M)LV1[777] [61 240 0 0 0 0]
+[21] - Pergaminho_da_Água(A)LV1[3182] [61 240 0 0 0 0]
+[25] - Aranha[2360] [88 27 1 20 0 0]
+[30] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[31] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[32] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[33] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[34] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[35] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[36] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[37] - Barra_de_Bronze(100Mi)[4010] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 15 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 15 110 3 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+03:08:21 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+03:08:25 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:08:25 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:08:25 : [CastyeL] - Level UP para level 37. Ev: 0/0 - 1963x 1761y
+03:08:34 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+03:08:42 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:08:42 : [CastyeL] - [Mensagem do servidor]> + + + LEVEL UP + + +
+03:08:42 : [CastyeL] - Level UP para level 38. Ev: 0/0 - 1962x 1757y
+03:08:47 : [CastyeL] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+03:08:52 : [CastyeL] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+03:09:25 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1774y
+03:09:25 : [CastyeL] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+03:09:26 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1774y
+03:09:26 : [CastyeL] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+03:09:26 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1774y
+03:09:26 : [CastyeL] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+03:09:27 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1774y
+03:09:27 : [CastyeL] - [Mensagem do servidor]> Apenas o líder do grupo pode utilizar!
+03:09:42 : [CastyeL] - Item Pergaminho_da_Água(M)LV1 [777] [61 240 0 0 0 0] utilizado em 1966x 1774y
+03:09:42 : [CastyeL] - Teleportado para a posição 1341 3516
+03:09:42 : [CastyeL] - Água 777 - Grupo teleportado para a área. Entradas restantes: 1079
+03:09:43 : [CastyeL] - Morreu para Arqueiro Elfo 1343x 3515y
+03:09:51 : [CastyeL] - DoRecall - Enviado para cidade: 2503x 1712y
+03:09:51 : [CastyeL] - Usuário reviveu
+03:10:26 : [CastyeL] - Moveu item Cajado [895] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo INVENTÁRIO slot 0
+03:10:29 : [CastyeL] - [Mensagem do servidor]> Citizen Chatting : Off
+03:10:29 : [CastyeL] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+03:10:36 : [CastyeL] - Moveu item Jóia_da_Recarga [3202] [61 47 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo INVENTÁRIO slot 0
+03:11:14 : [CastyeL] - Clicado no NPC [Dragao de Azran]. Face 109. Race: 2. GenerateId: 3824. Posição do usuário: 2494x 1689y. Posição do NPC: 2496x 1683y
+03:12:11 : [CastyeL] - NEWCASTYEL Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+03:12:11 : [CastyeL] - 18 Personagem foi desconectado. Permaneceu 00:34:27 minutos online
+03:12:11 : [CastyeL] - Recebeu 1515 de gold em 1 mobs no total. Total de gold: 1198845912

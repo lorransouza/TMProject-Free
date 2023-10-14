@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<arena maxKills="50">
+	<hours>
+		<hour>11</hour>
+		<hour>14</hour>
+		<hour>16</hour>
+		<hour>18</hour>
+		<hour>19</hour>
+		<hour>20</hour>
+		<hour>23</hour>
+		<hour>0</hour>
+	</hours>
+	<rewards>
+		<gold>50000000</gold>
+		<experiences>
+			<experience evolution="1" value="75000000"/>
+			<experience evolution="2" value="50000000"/>
+			<experience evolution="3" value="5000000" maxlevel="120"/>
+			<experience evolution="3" value="3000000" maxlevel="150"/>
+			<experience evolution="3" value="2000000" maxlevel="180"/>
+			<experience evolution="3" value="1500000" maxlevel="200"/>
+			<experience evolution="4" value="5000000" maxlevel="120"/>
+			<experience evolution="4" value="3000000" maxlevel="150"/>
+			<experience evolution="4" value="2000000" maxlevel="180"/>
+			<experience evolution="4" value="1500000" maxlevel="200"/>
+		</experiences>
+		
+		<items>
+			<item itemId="413" ef0="61" efv0="15" ef1="0" efv1="0" ef2="0" efv2="0"/>
+			<item itemId="4641" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+		</items>
+	</rewards>
+	
+	<participant>
+		<gold>25000000</gold>
+		<!-- Exp funciona igualmente acima -->
+		<items>
+			<item itemId="4685" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+		</items>
+	</participant>
+	
+	<topKill>
+		<gold>25000000</gold>
+		<!-- Exp funciona igualmente acima -->
+		<items>
+			<item itemId="4685" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0"/>
+		</items>
+	</topKill>
+	
+</arena>

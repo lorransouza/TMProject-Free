@@ -1,0 +1,1916 @@
+
+13:25:35 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:25:35 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:25:35 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+13:25:36 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:26:03 : Solicitou ir ao mundo...
+13:26:03 : Recebido pedido para entrar no jogo
+13:26:03 : Recebido informação do personagem completa.
+13:26:03 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:27 horas
+Posição atual: 2087x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [92 254 120 60 0 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[03] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:26:03 : [Joao1] - Personagem Joao1 enviado ao mundo 2087x 2101y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+13:26:03 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:26:03 : [Joao1] - Resetado a contagem de entradas água! Day: 21-22. Total: 0
+13:26:03 : [Joao1] - Enviado informações do personagem
+13:26:04 : [Joao1] - Comando "/day "
+13:26:04 : [Joao1] - [Mensagem do servidor]> !#11 2
+13:26:15 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:27:07 : [Joao1] - Moveu item Unicórnio [2381] [92 254 120 60 0 1] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 0
+13:27:09 : [Joao1] - Item Unicórnio deletado [2381] [92 254 120 60 0 1]. Slot 0
+13:27:12 : [Joao1] - Comando "/gm +erion"
+13:27:16 : [Joao1] - Comando "/gm +move erion"
+13:27:16 : [Joao1] - Teleportado para a posição 2460 2009
+13:27:24 : [Joao1] - Comando "/gm +item 2381 120 120 120 60 0 0"
+13:27:24 : [Joao1] - [Mensagem do servidor]> Criou o item Unicórnio
+13:27:24 : [Joao1] - Joao1 criou o item Unicórnio [2381] [120 120 120 60 0 0]
+13:27:26 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2458x 2005y. Posição do NPC: 2455x 2001y
+13:27:33 : [Joao1] - Comando "/gm +item 4190"
+13:27:33 : [Joao1] - [Mensagem do servidor]> Criou o item 
+13:27:33 : [Joao1] - Joao1 criou o item  [4190] [0 0 0 0 0 0]
+13:27:36 : [Joao1] - Item  deletado [4190] [0 0 0 0 0 0]. Slot 1
+13:27:51 : [Joao1] - Comando "/gm +item 4321"
+13:27:51 : [Joao1] - [Mensagem do servidor]> Criou o item Skin:_Unicórnio
+13:27:51 : [Joao1] - Joao1 criou o item Skin:_Unicórnio [4321] [0 0 0 0 0 0]
+13:27:53 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2458x 2005y. Posição do NPC: 2455x 2001y
+13:27:58 : [Joao1] - Ehre - 0 - Unicórnio [2381] [120 120 120 60 0 0] - 0
+13:27:58 : [Joao1] - Ehre - 1 - Skin:_Unicórnio [4321] [0 0 0 0 0 0] - 1
+13:27:58 : [Joao1] - Ehre - 2 - Sem item
+13:27:58 : [Joao1] - Ehre - 3 - Sem item
+13:27:58 : [Joao1] - Ehre - 4 - Sem item
+13:27:58 : [Joao1] - Ehre - 5 - Sem item
+13:27:58 : [Joao1] - Ehre - 6 - Sem item
+13:27:58 : [Joao1] - [Mensagem do servidor]> Composição concluída!
+13:27:58 : [Joao1] - Composição realizada para Traje de Montaria
+13:28:02 : [Joao1] - Moveu item Unicórnio [2381] [120 120 120 60 1 1] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 14
+13:28:24 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:28:24 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:02:47 minutos online
+13:29:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:29:36 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:29:36 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+13:29:39 : Solicitou ir ao mundo...
+13:29:39 : Recebido pedido para entrar no jogo
+13:29:39 : Recebido informação do personagem completa.
+13:29:39 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2087x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[03] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:29:39 : [Joao1] - Personagem Joao1 enviado ao mundo 2087x 2099y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+13:29:39 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:29:39 : [Joao1] - Enviado informações do personagem
+13:29:40 : [Joao1] - Comando "/day "
+13:29:40 : [Joao1] - [Mensagem do servidor]> !#11 2
+13:29:51 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:29:56 : [Joao1] - Comando "/gm +erion"
+13:30:00 : [Joao1] - Comando "/gm +move erion"
+13:30:00 : [Joao1] - Teleportado para a posição 2460 2009
+13:33:18 : [Joao1] - Comando "/nig "
+13:33:18 : [Joao1] - [Mensagem do servidor]> !!133318
+13:34:18 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:34:18 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:04:38 minutos online
+13:34:47 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:34:47 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:34:47 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+13:34:55 : Solicitou ir ao mundo...
+13:34:55 : Recebido pedido para entrar no jogo
+13:34:55 : Recebido informação do personagem completa.
+13:34:55 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2097x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[03] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:34:55 : [Joao1] - Personagem Joao1 enviado ao mundo 2097x 2099y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+13:34:55 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:34:55 : [Joao1] - Enviado informações do personagem
+13:34:56 : [Joao1] - Comando "/day "
+13:34:56 : [Joao1] - [Mensagem do servidor]> !#11 2
+13:35:03 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:39:04 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:39:04 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:04:13 minutos online
+13:39:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:39:16 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:39:16 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+13:39:20 : Solicitou ir ao mundo...
+13:39:20 : Recebido pedido para entrar no jogo
+13:39:20 : Recebido informação do personagem completa.
+13:39:20 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2097x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[03] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:39:20 : [Joao1] - Personagem Joao1 enviado ao mundo 2097x 2104y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+13:39:20 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:39:20 : [Joao1] - Enviado informações do personagem
+13:39:22 : [Joao1] - Comando "/day "
+13:39:22 : [Joao1] - [Mensagem do servidor]> !#11 2
+13:39:28 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:40:18 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:40:18 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:01:01 minutos online
+13:40:31 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:40:31 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:40:31 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+13:40:35 : Solicitou ir ao mundo...
+13:40:35 : Recebido pedido para entrar no jogo
+13:40:35 : Recebido informação do personagem completa.
+13:40:35 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2096x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[03] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:40:35 : [Joao1] - Personagem Joao1 enviado ao mundo 2096x 2104y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+13:40:35 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:40:35 : [Joao1] - Enviado informações do personagem
+13:40:36 : [Joao1] - Comando "/day "
+13:40:36 : [Joao1] - [Mensagem do servidor]> !#11 2
+13:40:40 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:45:10 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:45:10 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:04:35 minutos online
+13:45:35 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:45:35 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:45:35 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+13:45:53 : Solicitou ir ao mundo...
+13:45:53 : Recebido pedido para entrar no jogo
+13:45:53 : Recebido informação do personagem completa.
+13:45:53 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:18 horas
+Posição atual: 2089x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[03] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:45:53 : [Joao1] - Personagem Joao1 enviado ao mundo 2089x 2103y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+13:45:53 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:45:53 : [Joao1] - Enviado informações do personagem
+13:45:55 : [Joao1] - Comando "/day "
+13:45:55 : [Joao1] - [Mensagem do servidor]> !#11 2
+13:46:04 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:46:09 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:46:09 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:00:34 minutos online
+13:46:21 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:46:21 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:46:21 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+13:46:24 : Solicitou ir ao mundo...
+13:46:24 : Recebido pedido para entrar no jogo
+13:46:24 : Recebido informação do personagem completa.
+13:46:24 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2099x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[03] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:46:24 : [Joao1] - Personagem Joao1 enviado ao mundo 2099x 2105y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+13:46:24 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:46:24 : [Joao1] - Enviado informações do personagem
+13:46:26 : [Joao1] - Comando "/day "
+13:46:26 : [Joao1] - [Mensagem do servidor]> !#11 2
+13:46:40 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:48:08 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:48:08 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:01:45 minutos online
+13:49:04 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:49:04 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:49:04 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+13:49:06 : Solicitou ir ao mundo...
+13:49:06 : Recebido pedido para entrar no jogo
+13:49:06 : Recebido informação do personagem completa.
+13:49:06 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:02 horas
+Posição atual: 2089x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[03] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:49:06 : [Joao1] - Personagem Joao1 enviado ao mundo 2089x 2102y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+13:49:06 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:49:06 : [Joao1] - Enviado informações do personagem
+13:49:08 : [Joao1] - Comando "/day "
+13:49:08 : [Joao1] - [Mensagem do servidor]> !#11 2
+13:49:13 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:49:13 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:00:09 minutos online
+13:50:15 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:50:15 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:50:15 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+13:50:19 : Solicitou ir ao mundo...
+13:50:19 : Recebido pedido para entrar no jogo
+13:50:19 : Recebido informação do personagem completa.
+13:50:19 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2097x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[03] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:50:19 : [Joao1] - Personagem Joao1 enviado ao mundo 2097x 2095y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+13:50:19 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:50:19 : [Joao1] - Enviado informações do personagem
+13:50:21 : [Joao1] - Comando "/day "
+13:50:21 : [Joao1] - [Mensagem do servidor]> !#11 2
+13:50:25 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:50:25 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:00:09 minutos online
+13:51:01 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:51:01 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:51:01 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+13:51:10 : Solicitou ir ao mundo...
+13:51:10 : Recebido pedido para entrar no jogo
+13:51:10 : Recebido informação do personagem completa.
+13:51:10 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2091x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[03] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:51:10 : [Joao1] - Personagem Joao1 enviado ao mundo 2091x 2098y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+13:51:10 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:51:10 : [Joao1] - Enviado informações do personagem
+13:51:11 : [Joao1] - Comando "/day "
+13:51:11 : [Joao1] - [Mensagem do servidor]> !#11 2
+13:51:16 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:51:54 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:51:54 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:00:53 minutos online
+13:53:34 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:53:34 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:53:34 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+13:53:36 : Solicitou ir ao mundo...
+13:53:36 : Recebido pedido para entrar no jogo
+13:53:36 : Recebido informação do personagem completa.
+13:53:36 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:02 horas
+Posição atual: 2089x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[03] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:53:36 : [Joao1] - Personagem Joao1 enviado ao mundo 2089x 2104y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+13:53:36 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:53:36 : [Joao1] - Enviado informações do personagem
+13:53:38 : [Joao1] - Comando "/day "
+13:53:38 : [Joao1] - [Mensagem do servidor]> !#11 2
+13:53:52 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:54:06 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:54:06 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:00:31 minutos online
+13:58:51 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+13:58:51 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+13:58:51 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+13:58:55 : Solicitou ir ao mundo...
+13:58:55 : Recebido pedido para entrar no jogo
+13:58:55 : Recebido informação do personagem completa.
+13:58:55 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2087x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 0 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[03] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:58:55 : [Joao1] - Personagem Joao1 enviado ao mundo 2087x 2094y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+13:58:55 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+13:58:55 : [Joao1] - Enviado informações do personagem
+13:58:56 : [Joao1] - Comando "/day "
+13:58:56 : [Joao1] - [Mensagem do servidor]> !#11 2
+13:59:04 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:02:24 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:02:24 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:03:29 minutos online
+14:02:44 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+14:02:44 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+14:02:44 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+14:03:01 : Solicitou ir ao mundo...
+14:03:01 : Recebido pedido para entrar no jogo
+14:03:01 : Recebido informação do personagem completa.
+14:03:01 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:17 horas
+Posição atual: 2095x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 0 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[03] - Pergaminho_Selado[4127] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:03:01 : [Joao1] - Personagem Joao1 enviado ao mundo 2095x 2095y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+14:03:01 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:03:01 : [Joao1] - Enviado informações do personagem
+14:03:02 : [Joao1] - Comando "/day "
+14:03:02 : [Joao1] - [Mensagem do servidor]> !#11 2
+14:03:16 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:03:34 : [Joao1] - Comando "/gm +erion"
+14:03:41 : [Joao1] - Comando "/gm +move erion"
+14:03:41 : [Joao1] - Teleportado para a posição 2460 2009
+14:03:48 : [Joao1] - Item Pergaminho_Selado deletado [4127] [0 0 0 0 0 0]. Slot 3
+14:03:52 : [Joao1] - Comando "/gm +item 4309 96 1"
+14:03:52 : [Joao1] - [Mensagem do servidor]> Criou o item Skin:_Cavalo_Equip_N
+14:03:52 : [Joao1] - Joao1 criou o item Skin:_Cavalo_Equip_N [4309] [96 1 0 0 0 0]
+14:04:02 : [Joao1] - Item Skin:_Cavalo_Equip_N deletado [4309] [96 1 0 0 0 0]. Slot 0
+14:04:04 : [Joao1] - Comando "/gm +item 4306 96 1"
+14:04:04 : [Joao1] - [Mensagem do servidor]> Criou o item Skin:_Hrimfaxi
+14:04:04 : [Joao1] - Joao1 criou o item Skin:_Hrimfaxi [4306] [96 1 0 0 0 0]
+14:04:17 : [Joao1] - Comando "/gm +item 2366 120 120 120 60 0 0"
+14:04:17 : [Joao1] - [Mensagem do servidor]> Criou o item Hrimfaxi
+14:04:17 : [Joao1] - Joao1 criou o item Hrimfaxi [2366] [120 120 120 60 0 0]
+14:04:18 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2458x 2004y. Posição do NPC: 2455x 2001y
+14:04:23 : [Joao1] - Ehre - 0 - Hrimfaxi [2366] [120 120 120 60 0 0] - 1
+14:04:23 : [Joao1] - Ehre - 1 - Skin:_Hrimfaxi [4306] [96 1 0 0 0 0] - 0
+14:04:23 : [Joao1] - Ehre - 2 - Sem item
+14:04:23 : [Joao1] - Ehre - 3 - Sem item
+14:04:23 : [Joao1] - Ehre - 4 - Sem item
+14:04:23 : [Joao1] - Ehre - 5 - Sem item
+14:04:23 : [Joao1] - Ehre - 6 - Sem item
+14:04:23 : [Joao1] - [Mensagem do servidor]> Composição concluída!
+14:04:23 : [Joao1] - Composição realizada para Traje de Montaria
+14:04:25 : [Joao1] - Moveu item Hrimfaxi [2366] [120 120 120 60 2 2] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 14
+14:06:01 : [Joao1] - Moveu item Unicórnio [2381] [120 120 120 60 1 1] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 14
+14:06:03 : [Joao1] - Moveu item Hrimfaxi [2366] [120 120 120 60 1 2] do tipo INVENTÁRIO do slot 1 para tipo INVENTÁRIO slot 4
+14:06:11 : [Joao1] - Comando "/gm +item 2382"
+14:06:11 : [Joao1] - [Mensagem do servidor]> Criou o item Pegasus
+14:06:11 : [Joao1] - Joao1 criou o item Pegasus [2382] [0 0 0 0 0 0]
+14:06:13 : [Joao1] - Item Pegasus deletado [2382] [0 0 0 0 0 0]. Slot 0
+14:06:13 : [Joao1] - Comando "/gm +item 2383"
+14:06:13 : [Joao1] - [Mensagem do servidor]> Criou o item Unisus
+14:06:13 : [Joao1] - Joao1 criou o item Unisus [2383] [0 0 0 0 0 0]
+14:06:15 : [Joao1] - Item Unisus deletado [2383] [0 0 0 0 0 0]. Slot 0
+14:06:16 : [Joao1] - Comando "/gm +item 2384"
+14:06:16 : [Joao1] - [Mensagem do servidor]> Criou o item Grifo
+14:06:16 : [Joao1] - Joao1 criou o item Grifo [2384] [0 0 0 0 0 0]
+14:06:19 : [Joao1] - Item Grifo deletado [2384] [0 0 0 0 0 0]. Slot 0
+14:06:25 : [Joao1] - Comando "/gm +item 2386 120 120 120 60 0 3"
+14:06:25 : [Joao1] - [Mensagem do servidor]> Criou o item Grifo_Sangrento
+14:06:25 : [Joao1] - Joao1 criou o item Grifo_Sangrento [2386] [120 120 120 60 0 3]
+14:06:28 : [Joao1] - Item Grifo_Sangrento deletado [2386] [120 120 120 60 0 3]. Slot 0
+14:06:30 : [Joao1] - Comando "/gm +item 2386 120 120 120 60 0 7"
+14:06:30 : [Joao1] - [Mensagem do servidor]> Criou o item Grifo_Sangrento
+14:06:30 : [Joao1] - Joao1 criou o item Grifo_Sangrento [2386] [120 120 120 60 0 7]
+14:06:35 : [Joao1] - Item Grifo_Sangrento deletado [2386] [120 120 120 60 3 7]. Slot 0
+14:06:36 : [Joao1] - Comando "/gm +item 2386 120 120 120 60 0 0"
+14:06:36 : [Joao1] - [Mensagem do servidor]> Criou o item Grifo_Sangrento
+14:06:36 : [Joao1] - Joao1 criou o item Grifo_Sangrento [2386] [120 120 120 60 0 0]
+14:06:42 : [Joao1] - Comando "/gm +item 4326"
+14:06:42 : [Joao1] - [Mensagem do servidor]> Criou o item Skin:_Grifo_Sangrento
+14:06:42 : [Joao1] - Joao1 criou o item Skin:_Grifo_Sangrento [4326] [0 0 0 0 0 0]
+14:06:43 : [Joao1] - Item Skin:_Grifo_Sangrento deletado [4326] [0 0 0 0 0 0]. Slot 1
+14:06:49 : [Joao1] - Comando "/gm +item 4326 96 1"
+14:06:49 : [Joao1] - [Mensagem do servidor]> Criou o item Skin:_Grifo_Sangrento
+14:06:49 : [Joao1] - Joao1 criou o item Skin:_Grifo_Sangrento [4326] [96 1 0 0 0 0]
+14:06:50 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2459x 2003y. Posição do NPC: 2455x 2001y
+14:06:55 : [Joao1] - Ehre - 0 - Grifo_Sangrento [2386] [120 120 120 60 0 0] - 0
+14:06:55 : [Joao1] - Ehre - 1 - Skin:_Grifo_Sangrento [4326] [96 1 0 0 0 0] - 1
+14:06:55 : [Joao1] - Ehre - 2 - Sem item
+14:06:55 : [Joao1] - Ehre - 3 - Sem item
+14:06:55 : [Joao1] - Ehre - 4 - Sem item
+14:06:55 : [Joao1] - Ehre - 5 - Sem item
+14:06:55 : [Joao1] - Ehre - 6 - Sem item
+14:06:55 : [Joao1] - [Mensagem do servidor]> Composição concluída!
+14:06:55 : [Joao1] - Composição realizada para Traje de Montaria
+14:07:02 : [Joao1] - Moveu item Grifo_Sangrento [2386] [120 120 120 60 2 2] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 14
+14:07:08 : [Joao1] - Moveu item Grifo_Sangrento [2386] [120 120 120 60 1 2] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+14:07:09 : [Joao1] - Moveu item Unicórnio [2381] [120 120 120 60 1 1] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 14
+14:07:13 : [Joao1] - Item Grifo_Sangrento deletado [2386] [120 120 120 60 1 2]. Slot 5
+14:07:18 : [Joao1] - Comando "/gm +item 2386 120 120 120 60 0 2"
+14:07:18 : [Joao1] - [Mensagem do servidor]> Criou o item Grifo_Sangrento
+14:07:18 : [Joao1] - Joao1 criou o item Grifo_Sangrento [2386] [120 120 120 60 0 2]
+14:07:24 : [Joao1] - Item Grifo_Sangrento deletado [2386] [120 120 120 60 1 2]. Slot 0
+14:07:25 : [Joao1] - Comando "/gm +item 2386 120 120 120 60 0 2"
+14:07:25 : [Joao1] - [Mensagem do servidor]> Criou o item Grifo_Sangrento
+14:07:25 : [Joao1] - Joao1 criou o item Grifo_Sangrento [2386] [120 120 120 60 0 2]
+14:07:31 : [Joao1] - Item Grifo_Sangrento deletado [2386] [120 120 120 60 1 2]. Slot 0
+14:07:32 : [Joao1] - Comando "/gm +item 2386 120 120 120 60 0 4"
+14:07:32 : [Joao1] - [Mensagem do servidor]> Criou o item Grifo_Sangrento
+14:07:32 : [Joao1] - Joao1 criou o item Grifo_Sangrento [2386] [120 120 120 60 0 4]
+14:14:00 : [Joao1] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+14:24:12 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:24:12 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:21:11 minutos online
+14:27:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 2
+14:27:29 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+14:27:29 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+14:27:30 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:27:32 : Solicitou ir ao mundo...
+14:27:32 : Recebido pedido para entrar no jogo
+14:27:32 : Recebido informação do personagem completa.
+14:27:32 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2097x 2102y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[00] - Grifo_Sangrento[2386] [120 120 120 60 2 4]
+[04] - Hrimfaxi[2366] [120 120 120 60 1 2]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:27:32 : [Joao1] - Personagem Joao1 enviado ao mundo 2097x 2102y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+14:27:32 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:27:32 : [Joao1] - Enviado informações do personagem
+14:27:33 : [Joao1] - Comando "/day "
+14:27:33 : [Joao1] - [Mensagem do servidor]> !#11 2
+14:27:41 : [Joao1] - Item Grifo_Sangrento deletado [2386] [120 120 120 60 2 4]. Slot 0
+14:27:41 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:29:22 : [Joao1] - Item Hrimfaxi deletado [2366] [120 120 120 60 1 2]. Slot 4
+14:29:33 : [Joao1] - Comando "/gm +item 2381 120 120 120 60 1 0"
+14:29:33 : [Joao1] - [Mensagem do servidor]> Criou o item Unicórnio
+14:29:33 : [Joao1] - Joao1 criou o item Unicórnio [2381] [120 120 120 60 1 0]
+14:29:36 : [Joao1] - Item Unicórnio deletado [2381] [120 120 120 60 1 0]. Slot 0
+14:29:38 : [Joao1] - Comando "/gm +item 2381 120 120 120 60 0 1"
+14:29:38 : [Joao1] - [Mensagem do servidor]> Criou o item Unicórnio
+14:29:38 : [Joao1] - Joao1 criou o item Unicórnio [2381] [120 120 120 60 0 1]
+14:30:07 : [Joao1] - Item Unicórnio deletado [2381] [120 120 120 60 0 1]. Slot 0
+14:30:08 : [Joao1] - Comando "/gm +item 2381 120 120 120 60 0 2"
+14:30:08 : [Joao1] - [Mensagem do servidor]> Criou o item Unicórnio
+14:30:08 : [Joao1] - Joao1 criou o item Unicórnio [2381] [120 120 120 60 0 2]
+14:33:34 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+14:33:34 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+14:33:38 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+14:33:38 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+14:33:38 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+14:33:39 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:33:41 : Solicitou ir ao mundo...
+14:33:41 : Recebido pedido para entrar no jogo
+14:33:41 : Recebido informação do personagem completa.
+14:33:41 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2097x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[00] - Unicórnio[2381] [120 120 120 60 1 2]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:33:41 : [Joao1] - Personagem Joao1 enviado ao mundo 2097x 2095y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+14:33:41 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:33:41 : [Joao1] - Enviado informações do personagem
+14:33:43 : [Joao1] - Comando "/day "
+14:33:43 : [Joao1] - [Mensagem do servidor]> !#11 2
+14:33:54 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:34:04 : [Joao1] - Item Unicórnio deletado [2381] [120 120 120 60 0 2]. Slot 0
+14:34:12 : [Joao1] - Comando "/gm +item 2381 120 120 120 60 0 1"
+14:34:12 : [Joao1] - [Mensagem do servidor]> Criou o item Unicórnio
+14:34:12 : [Joao1] - Joao1 criou o item Unicórnio [2381] [120 120 120 60 0 1]
+14:34:18 : [Joao1] - Comando "/gm +item 2381 120 120 120 60 0 2"
+14:34:18 : [Joao1] - [Mensagem do servidor]> Criou o item Unicórnio
+14:34:18 : [Joao1] - Joao1 criou o item Unicórnio [2381] [120 120 120 60 0 2]
+14:34:21 : [Joao1] - Item Unicórnio deletado [2381] [120 120 120 60 0 1]. Slot 0
+14:34:22 : [Joao1] - Item Unicórnio deletado [2381] [120 120 120 60 0 2]. Slot 1
+14:34:29 : [Joao1] - Comando "/gm +item 2385 120 120 120 60 0 7"
+14:34:29 : [Joao1] - [Mensagem do servidor]> Criou o item Hipogrifo
+14:34:29 : [Joao1] - Joao1 criou o item Hipogrifo [2385] [120 120 120 60 0 7]
+14:35:41 : [Joao1] - Comando "/gm +item 2385 120 120 120 60 0 2"
+14:35:41 : [Joao1] - [Mensagem do servidor]> Criou o item Hipogrifo
+14:35:41 : [Joao1] - Joao1 criou o item Hipogrifo [2385] [120 120 120 60 0 2]
+14:35:46 : [Joao1] - Item Hipogrifo deletado [2385] [120 120 120 60 3 7]. Slot 0
+14:38:34 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:38:34 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:04:51 minutos online
+14:38:42 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+14:38:42 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+14:38:42 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+14:38:45 : Solicitou ir ao mundo...
+14:38:45 : Recebido pedido para entrar no jogo
+14:38:45 : Recebido informação do personagem completa.
+14:38:45 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:02 horas
+Posição atual: 2090x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[01] - Hipogrifo[2385] [120 120 120 60 2 2]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:38:45 : [Joao1] - Personagem Joao1 enviado ao mundo 2090x 2105y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+14:38:45 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:38:45 : [Joao1] - Enviado informações do personagem
+14:38:46 : [Joao1] - Comando "/day "
+14:38:46 : [Joao1] - [Mensagem do servidor]> !#11 2
+14:38:54 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:39:12 : [Joao1] - Comando "/gm +move noatun"
+14:39:12 : [Joao1] - Teleportado para a posição 963 1748
+14:46:02 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:46:02 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:07:14 minutos online
+14:46:27 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+14:46:27 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+14:46:27 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+14:46:30 : Solicitou ir ao mundo...
+14:46:30 : Recebido pedido para entrar no jogo
+14:46:30 : Recebido informação do personagem completa.
+14:46:30 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2089x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[6] [43 0 0 1 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[01] - Hipogrifo[2385] [120 120 120 60 2 2]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:46:30 : [Joao1] - Personagem Joao1 enviado ao mundo 2089x 2103y - Canal 2 - Cash da conta: 0. PowerLevel: 3628
+14:46:30 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 1. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+14:46:30 : [Joao1] - Enviado informações do personagem
+14:46:31 : [Joao1] - Comando "/day "
+14:46:31 : [Joao1] - [Mensagem do servidor]> !#11 2
+14:46:43 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:46:54 : [Joao1] - Comando "/gm +move noatun"
+14:46:54 : [Joao1] - Teleportado para a posição 963 1748
+15:02:55 : [Joao1] - Comando "/gm +set 0 8 43 0 0 2"
+15:02:58 : [Joao1] - Comando "/gm +learnall"
+15:02:58 : [Joao1] - [Mensagem do servidor]> Comando inválido
+15:03:23 : [Joao1] - Comando "/gm "
+15:03:23 : [Joao1] - [Mensagem do servidor]> Utilize /gm +command
+15:03:25 : [Joao1] - Comando "/gm +learnall"
+15:03:25 : [Joao1] - [Mensagem do servidor]> Comando inválido
+15:03:28 : [Joao1] - Comando "/gm +learn 1"
+15:03:28 : [Joao1] - [Mensagem do servidor]> SET LEARN
+15:03:30 : [Joao1] - Comando "/gm +learn 12"
+15:03:30 : [Joao1] - [Mensagem do servidor]> SET LEARN
+15:03:32 : [Joao1] - Comando "/gm +learn 8"
+15:03:32 : [Joao1] - [Mensagem do servidor]> SET LEARN
+15:03:33 : [Joao1] - Comando "/gm +learn 9"
+15:03:33 : [Joao1] - [Mensagem do servidor]> SET LEARN
+15:03:35 : [Joao1] - Comando "/gm +learn 10"
+15:03:35 : [Joao1] - [Mensagem do servidor]> SET LEARN
+15:03:40 : [Joao1] - MSG_Attack, Request other class 56
+15:03:40 : [Joao1] - CrackError - Points: 10 type: 20
+15:03:43 : [Joao1] - MSG_Attack, Request other class 56
+15:03:43 : [Joao1] - CrackError - Points: 10 type: 20
+15:03:50 : [Joao1] - MSG_Attack, Request other class 56
+15:03:50 : [Joao1] - CrackError - Points: 10 type: 20
+15:03:50 : [Joao1] - Desconectado - CrackCount: 30 - point: 10 - type: 20
+15:03:50 : [Joao1] - [Mensagem do servidor]> Ocorreu um erro, contate a administração relatando o bug.
+15:03:50 : Enviado para a tela de personagem. CrackError atingiu o limite
+15:03:52 : Solicitou ir ao mundo...
+15:03:52 : Recebido pedido para entrar no jogo
+15:03:52 : Recebido informação do personagem completa.
+15:03:52 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:17:04 horas
+Posição atual: 2089x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[8] [43 0 0 2 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[01] - Hipogrifo[2385] [120 120 120 60 2 2]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:03:52 : [Joao1] - Personagem Joao1 enviado ao mundo 2089x 2098y - Canal 2 - Cash da conta: 0. PowerLevel: 4646
+15:03:52 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 2. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+15:03:52 : [Joao1] - Enviado informações do personagem
+15:03:53 : [Joao1] - Comando "/day "
+15:03:53 : [Joao1] - [Mensagem do servidor]> !#11 2
+15:04:03 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:04:03 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:17:15 minutos online
+15:04:20 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:04:20 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+15:04:20 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+15:04:28 : Solicitou ir ao mundo...
+15:04:28 : Recebido pedido para entrar no jogo
+15:04:28 : Recebido informação do personagem completa.
+15:04:28 : [asda] - [INFORMAÇÕES DA CONTA]
+Personagem online: asda
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:09 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:04:28 : [asda] - Personagem asda enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. PowerLevel: 8
+15:04:28 : [asda] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:04:28 : [asda] - Enviado informações do personagem
+15:04:29 : [asda] - Comando "/day "
+15:04:29 : [asda] - [Mensagem do servidor]> !#11 2
+15:04:39 : [asda] - Comando "/gm +set level 399"
+15:04:41 : [asda] - Comando "/gm +learn 8"
+15:04:41 : [asda] - [Mensagem do servidor]> SET LEARN
+15:04:43 : [asda] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:04:54 : [asda] - Comando "/gm +learn 9"
+15:04:54 : [asda] - [Mensagem do servidor]> SET LEARN
+15:07:39 : [asda] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:07:39 : [asda] - 1 Personagem foi desconectado. Permaneceu 00:03:17 minutos online
+15:08:08 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+15:08:08 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+15:08:08 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+15:08:12 : Solicitou ir ao mundo...
+15:08:12 : Recebido pedido para entrar no jogo
+15:08:12 : Recebido informação do personagem completa.
+15:08:12 : [asda] - [INFORMAÇÕES DA CONTA]
+Personagem online: asda
+Gold atual: 0
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2093x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:08:12 : [asda] - Personagem asda enviado ao mundo 2093x 2099y - Canal 2 - Cash da conta: 0. PowerLevel: 274
+15:08:12 : [asda] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:08:12 : [asda] - Enviado informações do personagem
+15:08:13 : [asda] - Comando "/day "
+15:08:13 : [asda] - [Mensagem do servidor]> !#11 2
+15:08:19 : [asda] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:08:28 : [asda] - Personagem deu personagem
+15:08:33 : Solicitou ir ao mundo...
+15:08:33 : Recebido pedido para entrar no jogo
+15:08:33 : Recebido informação do personagem completa.
+15:08:33 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:25 horas
+Posição atual: 2093x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[8] [43 0 0 2 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [120 120 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[01] - Hipogrifo[2385] [120 120 120 60 2 2]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:08:33 : [Joao1] - Personagem Joao1 enviado ao mundo 2093x 2095y - Canal 2 - Cash da conta: 0. PowerLevel: 4646
+15:08:33 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 2. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+15:08:33 : [Joao1] - Enviado informações do personagem
+15:08:34 : [Joao1] - Comando "/day "
+15:08:34 : [Joao1] - [Mensagem do servidor]> !#11 2
+15:08:37 : [Joao1] - Comando "/gm +move noatun"
+15:08:37 : [Joao1] - Teleportado para a posição 963 1748
+15:08:44 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:14:00 : [Joao1] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+15:23:11 : [Joao1] - Matou Zero em 1157x 1722y
+15:23:11 : [Joao1] - [Mensagem do servidor]> CP 0 diminuiu em 3
+15:23:11 : [Joao1] - CP 0 diminui em 3
+15:24:11 : [Joao1] - Matou Zero em 1156x 1720y
+15:24:11 : [Joao1] - [Mensagem do servidor]> CP -3 diminuiu em 3
+15:24:11 : [Joao1] - CP -3 diminui em 3
+15:24:35 : [Joao1] - Comando "/gm +move 1155 1722"
+15:24:35 : [Joao1] - Teleportado para a posição 1155 1722
+15:24:38 : [Joao1] - Comando "/gm +armia"
+15:24:42 : [Joao1] - CrackError - Points: 1 type: 5
+15:24:49 : [Joao1] - Comando "/gm +move 1155 1722"
+15:24:49 : [Joao1] - Teleportado para a posição 1155 1722
+15:25:35 : [Joao1] - CrackError - Points: 1 type: 5
+15:25:37 : [Joao1] - Comando "/gm +relo Zero"
+15:25:37 : [Joao1] - Teleportado para a posição 1156 1731
+15:38:12 : [Joao1] - [Mensagem do servidor]: Jogador TETEU obteve sucesso na refinação item +12
+15:38:34 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:30:01 horas
+Posição atual: 1151x 1734y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[8] [43 0 0 2 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [105 82 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[01] - Hipogrifo[2385] [120 120 120 60 0 2]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [72 0 4 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:38:36 : [Joao1] - [Mensagem do servidor]: Jogador TETEU obteve sucesso na refinação item +12
+15:38:58 : [Joao1] - [Mensagem do servidor]: Jogador TETEU obteve sucesso na refinação item +12
+15:39:13 : [Joao1] - [Mensagem do servidor]: TETEU falhou a refinação de Luvas para 12
+15:40:35 : [Joao1] - [Mensagem do servidor]: Jogador TETEU obteve sucesso na refinação item +12
+15:41:06 : [Joao1] - Comando "/gm +move erion"
+15:41:06 : [Joao1] - Teleportado para a posição 2460 2009
+15:41:08 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2458x 2002y. Posição do NPC: 2455x 2001y
+15:41:11 : [Joao1] - [Mensagem do servidor]: Jogador TETEU obteve sucesso na refinação item +12
+15:42:08 : [Joao1] - Comando "/gm +move kefra"
+15:42:08 : [Joao1] - Teleportado para a posição 3290 1695
+15:42:16 : [Joao1] - Clicado no NPC [Alquimista Odin]. Face 103. Race: 2. GenerateId: 3417. Posição do usuário: 3245x 1687y. Posição do NPC: 3236x 1690y
+15:55:20 : [Joao1] - Comando "/gm +move erion"
+15:55:20 : [Joao1] - Teleportado para a posição 2460 2009
+15:55:22 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2456x 2005y. Posição do NPC: 2455x 2001y
+16:06:46 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+16:06:46 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:57:44 minutos online
+16:10:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 2
+16:10:16 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+16:10:16 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+16:10:17 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:10:19 : Solicitou ir ao mundo...
+16:10:19 : Recebido pedido para entrar no jogo
+16:10:19 : Recebido informação do personagem completa.
+16:10:19 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2453x 2003y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[8] [43 0 0 2 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [105 82 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[01] - Hipogrifo[2385] [120 120 120 60 0 2]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [72 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:10:19 : [Joao1] - Personagem Joao1 enviado ao mundo 2453x 2003y - Canal 2 - Cash da conta: 0. PowerLevel: 4646
+16:10:19 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 2. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: -3. Pontos de Contribuição: 0. Limite: 0
+16:10:19 : [Joao1] - Enviado informações do personagem
+16:10:21 : [Joao1] - Comando "/day "
+16:10:21 : [Joao1] - [Mensagem do servidor]> !#11 2
+16:10:26 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2453x 2003y. Posição do NPC: 2455x 2001y
+16:10:34 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:12:13 : [Joao1] - Comando "/gm +readfile RateConfig"
+16:12:13 : [Joao1] - [Mensagem do servidor]> FILE RateConfig READ FAIL
+16:12:14 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2459x 2003y. Posição do NPC: 2455x 2001y
+16:12:21 : [Joao1] - Comando "/gm +readfile RateConf"
+16:12:21 : [Joao1] - [Mensagem do servidor]> FILE RateConf READ SUCCESS
+16:12:23 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2459x 2003y. Posição do NPC: 2455x 2001y
+16:12:50 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2459x 2001y. Posição do NPC: 2455x 2001y
+16:13:03 : [Joao1] - Comando "/gm +readfile RateConf"
+16:13:03 : [Joao1] - [Mensagem do servidor]> FILE RateConf READ SUCCESS
+16:13:04 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2462x 2002y. Posição do NPC: 2455x 2001y
+16:13:24 : [Joao1] - [Mensagem do servidor]: Jogador TETEU obteve sucesso na refinação item +12
+16:14:00 : [Joao1] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+16:19:38 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+16:19:39 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:34:57 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:34:57 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+18:34:57 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+18:34:58 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:35:19 : Solicitou ir ao mundo...
+18:35:19 : Recebido pedido para entrar no jogo
+18:35:19 : Recebido informação do personagem completa.
+18:35:19 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:21 horas
+Posição atual: 2456x 2001y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[8] [43 0 0 2 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [105 82 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[01] - Hipogrifo[2385] [120 120 120 60 0 2]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [72 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:35:19 : [Joao1] - Personagem Joao1 enviado ao mundo 2456x 2001y - Canal 2 - Cash da conta: 0. PowerLevel: 4646
+18:35:19 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 2. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: -3. Pontos de Contribuição: 0. Limite: 0
+18:35:19 : [Joao1] - [Mensagem do servidor]> O Kefra foi derrotado
+18:35:19 : [Joao1] - Enviado informações do personagem
+18:35:20 : [Joao1] - Comando "/day "
+18:35:20 : [Joao1] - [Mensagem do servidor]> !#11 2
+18:35:24 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:35:56 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2460x 2000y. Posição do NPC: 2455x 2001y
+18:36:29 : [Joao1] - Comando "/gm +create Troca2"
+18:36:41 : [Joao1] - Comando "/gm +createmob Troca2"
+18:36:44 : [Joao1] - Comando "/gm +createmob Troca_2"
+18:39:47 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:39:58 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:39:58 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:40:05 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:40:05 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+18:40:05 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+18:40:05 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:40:08 : Solicitou ir ao mundo...
+18:40:08 : Recebido pedido para entrar no jogo
+18:40:08 : Recebido informação do personagem completa.
+18:40:08 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2455x 2008y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[8] [43 0 0 2 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [105 82 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[01] - Hipogrifo[2385] [120 120 120 60 0 2]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [72 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:40:08 : [Joao1] - Personagem Joao1 enviado ao mundo 2455x 2008y - Canal 2 - Cash da conta: 0. PowerLevel: 4646
+18:40:08 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 2. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: -3. Pontos de Contribuição: 0. Limite: 0
+18:40:08 : [Joao1] - [Mensagem do servidor]> O Kefra foi derrotado
+18:40:08 : [Joao1] - Enviado informações do personagem
+18:40:09 : [Joao1] - Comando "/day "
+18:40:09 : [Joao1] - [Mensagem do servidor]> !#11 2
+18:40:13 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2456x 2002y. Posição do NPC: 2455x 2001y
+18:40:17 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:43:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:43:48 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:43:48 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:43:57 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:43:57 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+18:43:57 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+18:43:58 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:44:00 : Solicitou ir ao mundo...
+18:44:00 : Recebido pedido para entrar no jogo
+18:44:00 : Recebido informação do personagem completa.
+18:44:00 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2460x 2003y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[8] [43 0 0 2 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [105 82 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[01] - Hipogrifo[2385] [120 120 120 60 0 2]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [72 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:44:00 : [Joao1] - Personagem Joao1 enviado ao mundo 2460x 2003y - Canal 2 - Cash da conta: 0. PowerLevel: 4646
+18:44:00 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 2. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: -3. Pontos de Contribuição: 0. Limite: 0
+18:44:00 : [Joao1] - [Mensagem do servidor]> O Kefra foi derrotado
+18:44:00 : [Joao1] - Enviado informações do personagem
+18:44:03 : [Joao1] - Comando "/day "
+18:44:03 : [Joao1] - [Mensagem do servidor]> !#11 2
+18:44:09 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:44:24 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2460x 2003y. Posição do NPC: 2455x 2001y
+18:44:24 : [Joao1] - [Mensagem do servidor]> 5 1
+18:44:46 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2459x 2003y. Posição do NPC: 2455x 2001y
+18:44:46 : [Joao1] - [Mensagem do servidor]> 5 1
+18:47:00 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:47:30 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:47:30 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:47:30 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:47:30 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+18:47:30 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+18:47:31 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:47:54 : Solicitou ir ao mundo...
+18:47:54 : Recebido pedido para entrar no jogo
+18:47:54 : Recebido informação do personagem completa.
+18:47:54 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:24 horas
+Posição atual: 2456x 2007y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[8] [43 0 0 2 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [105 82 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[01] - Hipogrifo[2385] [120 120 120 60 0 2]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [72 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:47:54 : [Joao1] - Personagem Joao1 enviado ao mundo 2456x 2007y - Canal 2 - Cash da conta: 0. PowerLevel: 4646
+18:47:54 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 2. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: -3. Pontos de Contribuição: 0. Limite: 0
+18:47:54 : [Joao1] - [Mensagem do servidor]> O Kefra foi derrotado
+18:47:54 : [Joao1] - Enviado informações do personagem
+18:47:56 : [Joao1] - Comando "/day "
+18:47:56 : [Joao1] - [Mensagem do servidor]> !#11 2
+18:48:08 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2456x 2001y. Posição do NPC: 2455x 2001y
+18:48:08 : [Joao1] - [Mensagem do servidor]> 5 1
+18:48:08 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:53:02 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:53:04 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:53:04 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:54:23 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 179.95.88.27 Mac: (57:97:A2:B8:71:46). ClientId: 1
+18:54:23 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+18:54:23 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Luvas[1223] [0 0 0 0 0 0]
+[  5] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[ 80] - Calça(A)[2053] [43 0 71 50 60 4]
+[200] - Caixa_do_Andarilho[3479] [106 19 110 2 109 121]
+
+18:54:23 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:54:25 : Solicitou ir ao mundo...
+18:54:25 : Recebido pedido para entrar no jogo
+18:54:25 : Recebido informação do personagem completa.
+18:54:25 : [Joao1] - [INFORMAÇÕES DA CONTA]
+Personagem online: Joao1
+Gold atual: 1686370563
+Level atual: 392
+Experiência atual: 3600095192
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:03 horas
+Posição atual: 2466x 2012y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 103079215584
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[8] [43 0 0 2 0 0]
+[02] - Armadura[1221] [0 0 0 0 0 0]
+[03] - Calça[1222] [0 0 0 0 0 0]
+[05] - Botas[1224] [0 0 0 0 0 0]
+[06] - Machado[811] [43 9 0 0 0 0]
+[07] - Machado[811] [43 9 0 0 0 0]
+[11] - Netuno[762] [43 3 0 0 0 0]
+[14] - Unicórnio[2381] [105 82 120 60 1 1]
+[15] - Elite_de_Akelonia[3192] [43 0 54 10 0 0]
+
+[INVENTÁRIO]
+[01] - Hipogrifo[2385] [120 120 120 60 0 2]
+[60] - Bolsa_do_Andarilho[3467] [106 19 110 2 109 121]
+[63] - Marca_do_Assassino[547] [72 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:54:25 : [Joao1] - Personagem Joao1 enviado ao mundo 2466x 2012y - Canal 2 - Cash da conta: 0. PowerLevel: 4646
+18:54:25 : [Joao1] - Gold atual: 1686370563. Classe: 1 Evolução: 2. Experiência: 3600095192. Nível: 392. Info: 103079215584. GuildID: 0. CP: -3. Pontos de Contribuição: 0. Limite: 0
+18:54:25 : [Joao1] - [Mensagem do servidor]> O Kefra foi derrotado
+18:54:25 : [Joao1] - Enviado informações do personagem
+18:54:27 : [Joao1] - Comando "/day "
+18:54:27 : [Joao1] - [Mensagem do servidor]> !#11 2
+18:54:31 : [Joao1] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2458x 2005y. Posição do NPC: 2455x 2001y
+18:54:31 : [Joao1] - [Mensagem do servidor]> 5 1
+18:54:41 : [Joao1] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:00:41 : [Joao1] - CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:00:41 : [Joao1] - 1 Personagem foi desconectado. Permaneceu 00:06:13 minutos online

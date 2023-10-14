@@ -1,0 +1,228 @@
+
+00:01:45 : O login admin5 tentou logar na conta com o mesmo mac.
+00:01:45 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (3F:A8:1C:D7:F7:48). ClientId: 2
+00:01:45 : Conta ADMIN5 logado na conta
+Status da conta: SELEÇÃO DE PERSONAGEM
+
+00:01:45 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+00:01:45 : Personagem foi desconectado. Permaneceu 00:02:21 minutos online
+00:01:47 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 80.103.120.181 Mac: (3F:A8:1C:D7:F7:48). ClientId: 1
+00:01:47 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+00:01:47 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+00:01:58 : Solicitado deletar personagem VIOA
+00:02:05 : Solicitado deletar personagem Koto
+00:02:28 : Solicitou ir ao mundo...
+00:02:28 : Recebido pedido para entrar no jogo
+00:02:28 : Recebido informação do personagem completa.
+00:02:28 : [GOLIRA] - [INFORMAÇÕES DA CONTA]
+Personagem online: GOLIRA
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:41 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+00:02:28 : [GOLIRA] - Personagem GOLIRA enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+00:02:28 : [GOLIRA] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+00:02:28 : [GOLIRA] - Resetado a contagem de entradas água! Day: 328-329. Total: 0
+00:02:28 : [GOLIRA] - Enviado informações do personagem
+00:02:29 : [GOLIRA] - Comando "/day "
+00:02:29 : [GOLIRA] - [Mensagem do servidor]> !#11 2
+00:02:41 : [GOLIRA] - Moveu item Elmo_Lupino(N) [1416] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 0
+00:02:43 : [GOLIRA] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+00:02:51 : [GOLIRA] - Moveu item Elmo_Lupino(N) [1416] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+00:02:57 : [GOLIRA] - Matou o mob Porco de Guerra. GenerID: 4419
+00:02:57 : [GOLIRA] - Pontos CP subiu em 3. CP novo: 78
+00:02:57 : [GOLIRA] - [Mensagem do servidor]> + + + LEVEL UP + + +
+00:02:57 : [GOLIRA] - Level UP para level 1. Ev: 0 - 2120x 2038y
+00:03:01 : [GOLIRA] - Matou o mob Porco de Guerra. GenerID: 4421
+00:03:01 : [GOLIRA] - Pontos CP subiu em 3. CP novo: 81
+00:03:01 : [GOLIRA] - [Mensagem do servidor]> + + + LEVEL UP + + +
+00:03:01 : [GOLIRA] - Level UP para level 2. Ev: 0 - 2118x 2041y
+00:03:01 : [GOLIRA] - Pontos CP subiu em 3. CP novo: 84
+00:03:01 : [GOLIRA] - [Mensagem do servidor]> + + + LEVEL UP + + +
+00:03:01 : [GOLIRA] - Level UP para level 3. Ev: 0 - 2118x 2041y
+00:03:10 : [GOLIRA] - Matou o mob Porco de Guerra. GenerID: 4420
+00:03:10 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+00:03:15 : [GOLIRA] - Matou o mob Porco de Guerra. GenerID: 4423
+00:03:15 : [GOLIRA] - Pontos CP subiu em 3. CP novo: 87
+00:03:15 : [GOLIRA] - [Mensagem do servidor]> + + + LEVEL UP + + +
+00:03:15 : [GOLIRA] - Level UP para level 4. Ev: 0 - 2125x 2041y
+00:03:21 : [GOLIRA] - Matou o mob Porco de Guerra. GenerID: 4425
+00:03:21 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+00:03:21 : [GOLIRA] - Pontos CP subiu em 3. CP novo: 90
+00:03:21 : [GOLIRA] - [Mensagem do servidor]> + + + LEVEL UP + + +
+00:03:21 : [GOLIRA] - Level UP para level 5. Ev: 0 - 2124x 2037y
+00:03:23 : [GOLIRA] - Matou o mob Porco de Guerra. GenerID: 4423
+00:03:23 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+00:03:27 : [GOLIRA] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 4407. Posição do usuário: 2128x 2030y. Posição do NPC: 2133x 2032y
+00:03:31 : [GOLIRA] - Matou o mob Porco de Guerra. GenerID: 4434
+00:03:31 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+00:03:33 : [GOLIRA] - Matou o mob Porco de Guerra. GenerID: 4434
+00:03:33 : [GOLIRA] - Pontos CP subiu em 3. CP novo: 93
+00:03:33 : [GOLIRA] - [Mensagem do servidor]> + + + LEVEL UP + + +
+00:03:33 : [GOLIRA] - Level UP para level 6. Ev: 0 - 2126x 2026y
+00:03:35 : [GOLIRA] - Matou o mob Porco de Guerra. GenerID: 4426
+00:03:35 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+00:03:42 : [GOLIRA] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 4407. Posição do usuário: 2132x 2030y. Posição do NPC: 2133x 2032y
+00:03:45 : [GOLIRA] - Matou o mob Aguia. GenerID: 4427
+00:03:45 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+00:03:46 : [GOLIRA] - Matou o mob Porco de Guerra. GenerID: 4428
+00:03:46 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+00:03:46 : [GOLIRA] - Pontos CP subiu em 3. CP novo: 96
+00:03:46 : [GOLIRA] - [Mensagem do servidor]> + + + LEVEL UP + + +
+00:03:46 : [GOLIRA] - Level UP para level 7. Ev: 0 - 2134x 2025y
+00:03:49 : [GOLIRA] - Matou o mob Porco de Guerra. GenerID: 4427
+00:03:50 : [GOLIRA] - Matou o mob Aguia. GenerID: 4428
+00:03:50 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+00:03:53 : [GOLIRA] - Matou o mob Porco de Guerra. GenerID: 4434
+00:03:53 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+00:04:01 : [GOLIRA] - Matou o mob Krill. GenerID: 4444
+00:04:01 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+00:04:01 : [GOLIRA] - Pontos CP subiu em 3. CP novo: 99
+00:04:01 : [GOLIRA] - [Mensagem do servidor]> + + + LEVEL UP + + +
+00:04:01 : [GOLIRA] - Level UP para level 8. Ev: 0 - 2089x 2024y
+00:04:05 : [GOLIRA] - Matou o mob Gremlin. GenerID: 4443
+00:04:05 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+00:04:08 : [GOLIRA] - Matou o mob Gremlin. GenerID: 4444
+00:04:10 : [GOLIRA] - Matou o mob Gremlin. GenerID: 4442
+00:04:10 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+00:04:15 : [GOLIRA] - Matou o mob Gremlin. GenerID: 4444
+00:04:15 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+00:04:17 : [GOLIRA] - Matou o mob Krill. GenerID: 4443
+00:04:17 : [GOLIRA] - Pontos CP subiu em 3. CP novo: 102
+00:04:17 : [GOLIRA] - [Mensagem do servidor]> + + + LEVEL UP + + +
+00:04:17 : [GOLIRA] - Level UP para level 9. Ev: 0 - 2089x 2025y
+00:04:19 : [GOLIRA] - Matou o mob Gremlin. GenerID: 4443
+00:04:19 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+00:04:20 : [GOLIRA] - Matou o mob Gremlin. GenerID: 4443
+00:04:23 : [GOLIRA] - Matou o mob Gremlin. GenerID: 4446
+00:04:23 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+00:04:25 : [GOLIRA] - Matou o mob Krill. GenerID: 4446
+00:04:25 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+00:04:28 : [GOLIRA] - Matou o mob Gremlin Artif. GenerID: 4449
+00:04:28 : [GOLIRA] - Pontos CP subiu em 3. CP novo: 105
+00:04:28 : [GOLIRA] - [Mensagem do servidor]> + + + LEVEL UP + + +
+00:04:28 : [GOLIRA] - Level UP para level 10. Ev: 0 - 2074x 2024y
+00:04:28 : [GOLIRA] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2074x 2024y - Gremlin Artif (1/1)
+00:04:30 : [GOLIRA] - Clicado no NPC [Treinador1]. Face 60. Race: 8. GenerateId: 4408. Posição do usuário: 2077x 2021y. Posição do NPC: 2080x 2018y
+00:04:30 : [GOLIRA] - [Mensagem do servidor]> Recebeu Poção de Cura como recompensa.
+00:04:35 : [GOLIRA] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3422. Posição do usuário: 2084x 2001y. Posição do NPC: 2087x 2001y
+00:04:52 : [GOLIRA] - Matou o mob Rei Gremlin  . GenerID: 4474
+00:04:52 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+00:04:53 : [GOLIRA] - Matou o mob Rei Gremlin  . GenerID: 4474
+00:04:53 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+00:04:53 : [GOLIRA] - Pontos CP subiu em 3. CP novo: 108
+00:04:53 : [GOLIRA] - [Mensagem do servidor]> + + + LEVEL UP + + +
+00:04:53 : [GOLIRA] - Level UP para level 11. Ev: 0 - 2139x 1994y
+00:05:01 : [GOLIRA] - Matou o mob Rei Gremlin  . GenerID: 4474
+00:05:01 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+00:05:04 : [GOLIRA] - Matou o mob Rei Gremlin  . GenerID: 4474
+00:05:04 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+00:05:25 : [GOLIRA] - Matou o mob Rei Gremlin  . GenerID: 4474
+00:05:25 : [GOLIRA] - Pontos CP subiu em 3. CP novo: 111
+00:05:25 : [GOLIRA] - [Mensagem do servidor]> + + + LEVEL UP + + +
+00:05:25 : [GOLIRA] - Level UP para level 12. Ev: 0 - 2141x 1996y
+00:05:26 : [GOLIRA] - Matou o mob Rei Gremlin  . GenerID: 4474
+00:05:26 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+00:05:44 : [GOLIRA] - Matou o mob Rei Gremlin  . GenerID: 4474
+00:05:44 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+00:05:53 : [GOLIRA] - Matou o mob Krill Gigante. GenerID: 4476
+00:05:53 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+00:05:53 : [GOLIRA] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2142x 2000y - Krill Gigante (1/1)
+00:05:56 : [GOLIRA] - Clicado no NPC [Treinador2]. Face 60. Race: 8. GenerateId: 4409. Posição do usuário: 2143x 1989y. Posição do NPC: 2143x 1992y
+00:05:56 : [GOLIRA] - [Mensagem do servidor]> Como recompensa foi atribuída uma opção adicional em sua arma.
+00:06:38 : [GOLIRA] - Matou o mob Orc Sniper. GenerID: 4494
+00:06:38 : [GOLIRA] - Pontos CP subiu em 3. CP novo: 114
+00:06:38 : [GOLIRA] - [Mensagem do servidor]> + + + LEVEL UP + + +
+00:06:38 : [GOLIRA] - Level UP para level 13. Ev: 0 - 2077x 1975y
+00:06:38 : [GOLIRA] - Dropado item Chave_da_Ultima_Porta [453] [0 0 0 0 0 0] em 2077x 1975y - Orc Sniper (1/1)
+00:06:42 : [GOLIRA] - Clicado no NPC [Treinador3]. Face 60. Race: 8. GenerateId: 4410. Posição do usuário: 2079x 1965y. Posição do NPC: 2076x 1966y
+00:06:42 : [GOLIRA] - [Mensagem do servidor]> Como recompensa a sua arma e armadura foram refinadas.
+00:06:50 : [GOLIRA] - Moveu item Porco [2360] [88 27 1 20 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+00:06:56 : [GOLIRA] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3423. Posição do usuário: 2079x 1945y. Posição do NPC: 2080x 1945y
+00:07:07 : [GOLIRA] - AddCrackError, dam!= -2 -1 0 : 0
+00:07:07 : [GOLIRA] - CrackError - Points: 10 type: 20
+00:07:19 : [GOLIRA] - Moveu item Porco [2360] [253 255 1 20 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 0
+00:07:23 : [GOLIRA] - Moveu item Porco [2360] [253 255 1 20 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 14
+00:07:25 : [GOLIRA] - Moveu item Porco [2360] [253 255 1 20 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 0
+00:07:27 : [GOLIRA] - Matou o mob Orc Guerreiro  . GenerID: 4514
+00:07:27 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+00:07:27 : [GOLIRA] - Pontos CP subiu em 3. CP novo: 117
+00:07:27 : [GOLIRA] - [Mensagem do servidor]> + + + LEVEL UP + + +
+00:07:27 : [GOLIRA] - Level UP para level 14. Ev: 0 - 2140x 1949y
+00:07:27 : [GOLIRA] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2140x 1949y - Orc Guerreiro   (1/1)
+00:07:33 : [GOLIRA] - Comando "/gm +armia"
+00:07:33 : [GOLIRA] - Teleportado para a posição 2100 2100
+00:07:45 : [GOLIRA] - Clicado no NPC [Chefe de Treino]. Face 60. Race: 8. GenerateId: 4411. Posição do usuário: 2116x 2052y. Posição do NPC: 2116x 2045y
+00:07:45 : [GOLIRA] - [Mensagem do servidor]> Recebeu a recompensa da Quest.
+00:07:45 : [GOLIRA] - Teleportado para a posição 2100 2100
+00:07:45 : [GOLIRA] - CrackError - Points: 1 type: 5
+00:07:49 : [GOLIRA] - Moveu item Shire(3dias) [3980] [106 3 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 14
+00:07:49 : [GOLIRA] - Aplicado tempo no item Shire(3dias) [3980] [106 28 110 11 109 20] - 28/11/2020
+00:07:53 : [GOLIRA] - [Mensagem do servidor]> Não possui GOLD suficiente
+00:07:57 : [GOLIRA] - Comando "/gm +item 4026"
+00:07:57 : [GOLIRA] - GOLIRA criou o item Moeda_de_Prata(1Mi) [4026] [0 0 0 0 0 0]
+00:07:58 : [GOLIRA] - Item Moeda_de_Prata(1Mi) [4026] [0 0 0 0 0 0] utilizado em 2116x 2102y
+00:07:58 : [GOLIRA] - Gold atual: 0.
+00:08:01 : [GOLIRA] - Teleportado para a posição 960 1761
+00:08:05 : [GOLIRA] - Teleportado para a posição 2458 2017
+00:08:07 : [GOLIRA] - Moveu item Porco [2360] [253 255 1 20 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 14
+00:08:09 : [GOLIRA] - Clicado no NPC [Mount Master]. Face 18. Race: 10. GenerateId: 3269. Posição do usuário: 2460x 2011y. Posição do NPC: 2456x 2010y
+00:08:09 : [GOLIRA] - Reviver concluído Porco [2360] [253 255 1 20 0 0]
+00:08:09 : [GOLIRA] - [Mensagem do servidor]> Curada.
+00:08:23 : [GOLIRA] - Matou o mob Meio Orc. GenerID: 875
+00:08:23 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+00:08:27 : [GOLIRA] - Matou o mob Orc Cavaleiro. GenerID: 875
+00:08:27 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+00:08:32 : [GOLIRA] - AddCrackError, dam!= -2 -1 0 : 0
+00:08:32 : [GOLIRA] - CrackError - Points: 10 type: 20
+00:08:34 : [GOLIRA] - Matou o mob Orc Cavaleiro. GenerID: 875
+00:08:39 : [GOLIRA] - Matou o mob Orc Cavaleiro. GenerID: 875
+00:08:39 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+00:08:43 : [GOLIRA] - Matou o mob Meio Orc. GenerID: 875
+00:08:51 : [GOLIRA] - Matou o mob Orc Cavaleiro. GenerID: 875
+00:08:51 : [GOLIRA] - Pontos CP subiu em 3. CP novo: 120
+00:08:51 : [GOLIRA] - [Mensagem do servidor]> + + + LEVEL UP + + +
+00:08:51 : [GOLIRA] - Level UP para level 15. Ev: 0 - 2488x 2014y
+00:08:53 : [GOLIRA] - Matou o mob Meio Orc. GenerID: 875
+00:08:53 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+00:08:57 : [GOLIRA] - Matou o mob Orc Cavaleiro. GenerID: 873
+00:09:03 : [GOLIRA] - Matou o mob Meio Orc. GenerID: 873
+00:09:03 : [GOLIRA] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+00:09:11 : [GOLIRA] - Matou o mob Orc Cavaleiro. GenerID: 873
+00:09:49 : [GOLIRA] - Clicado no NPC [Perzen Normal]. Face 11. Race: 8. GenerateId: 3274. Posição do usuário: 2464x 2011y. Posição do NPC: 2465x 2009y
+00:09:55 : [GOLIRA] - O login admin10 tentou logar na conta com o mesmo mac.
+00:10:05 : [GOLIRA] - O login admin3 tentou logar na conta com o mesmo mac.
+00:13:38 : [GOLIRA] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+00:13:38 : [GOLIRA] - 1 Personagem foi desconectado. Permaneceu 00:11:45 minutos online

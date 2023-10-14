@@ -1,0 +1,415 @@
+
+16:33:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+16:33:03 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 125805
+16:33:03 : [INFORMAÇÕES DO BANCO]
+Gold: 125805
+
+16:33:03 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:33:13 : Solicitou ir ao mundo...
+16:33:13 : Recebido pedido para entrar no jogo
+16:33:13 : Recebido informação do personagem completa.
+16:33:13 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997650900
+Level atual: 1010
+Experiência atual: 6600
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2098x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Espada_Longa[906] [0 0 0 0 0 0]
+[07] - Espada_Bastarda[907] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[01] - Espada_Larga[908] [0 0 0 0 0 0]
+[02] - Luna[910] [0 0 0 0 0 0]
+[03] - Lâmina_Dupla[909] [0 0 0 0 0 0]
+[04] - Solaris[911] [0 0 0 0 0 0]
+[05] - Luna[910] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:33:13 : [ffff] - Personagem ffff enviado ao mundo 2098x 2094y - Canal 1 - Cash da conta: 0. OverPower: 2020
+16:33:13 : [ffff] - Gold atual: 997650900. Classe: 0 Evolução: 0. Experiência: 6600. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+16:33:13 : [ffff] - Resetado a contagem de entradas água! Day: 328-329. Total: 0
+16:33:13 : [ffff] - Enviado informações do personagem
+16:33:14 : [ffff] - Comando "/day "
+16:33:14 : [ffff] - [Mensagem do servidor]> !#11 2
+16:33:25 : [ffff] - Moveu item Espada_Bastarda [907] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 7 para tipo INVENTÁRIO slot 7
+16:33:25 : [ffff] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:33:26 : [ffff] - Moveu item Luna [910] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 6
+16:37:04 : [ffff] - Comando "/gm +item 801"
+16:37:04 : [ffff] - ffff criou o item Porrete [801] [0 0 0 0 0 0]
+16:37:08 : [ffff] - Moveu item Porrete [801] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 6
+16:38:37 : [ffff] - Personagem deu personagem
+16:38:46 : Solicitou ir ao mundo...
+16:38:46 : Recebido pedido para entrar no jogo
+16:38:46 : Recebido informação do personagem completa.
+16:38:46 : [Tanguinha] - [INFORMAÇÕES DA CONTA]
+Personagem online: Tanguinha
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:05:39 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Skytalos[826] [0 0 0 0 0 0]
+[01] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[02] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[03] - Saia_de_Seda(N)[1278] [43 0 0 0 0 0]
+[04] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[05] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[06] - Arco_Curto[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:38:46 : [Tanguinha] - Personagem Tanguinha enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+16:38:46 : [Tanguinha] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+16:38:46 : [Tanguinha] - Enviado informações do personagem
+16:38:47 : [Tanguinha] - Comando "/day "
+16:38:47 : [Tanguinha] - [Mensagem do servidor]> !#11 2
+16:39:01 : [Tanguinha] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:39:02 : [Tanguinha] - Moveu item Bandana_de_Seda(N) [1254] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 15
+16:39:02 : [Tanguinha] - Moveu item Robe_de_Seda(N) [1266] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 20
+16:39:03 : [Tanguinha] - Moveu item Luvas_de_Seda(N) [1290] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 25
+16:39:04 : [Tanguinha] - Moveu item Saia_de_Seda(N) [1278] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 16
+16:39:05 : [Tanguinha] - Moveu item Botas_de_Seda(N) [1302] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 21
+16:39:06 : [Tanguinha] - Moveu item Arco_Curto [816] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 6 para tipo INVENTÁRIO slot 26
+16:39:14 : [Tanguinha] - Personagem deu personagem
+16:40:51 : Solicitou ir ao mundo...
+16:40:51 : Recebido pedido para entrar no jogo
+16:40:51 : Recebido informação do personagem completa.
+16:40:51 : [11111] - [INFORMAÇÕES DA CONTA]
+Personagem online: 11111
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 120
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:07:43 horas
+Posição atual: 2097x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Skytalos[826] [0 0 0 0 0 0]
+[06] - Skytalos[826] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Cajado_da_Jóia_Azul[731] [0 0 0 0 0 0]
+[01] - Arco_Curto[816] [0 0 0 0 0 0]
+[02] - Arco_Hidra[823] [0 0 0 0 0 0]
+[03] - Arco_de_Madeira[817] [0 0 0 0 0 0]
+[04] - Arco_de_Batalha[819] [0 0 0 0 0 0]
+[05] - Arco_Longo[818] [0 0 0 0 0 0]
+[06] - Skytalos[826] [0 0 0 0 0 0]
+[07] - Arco_Mythril[822] [0 0 0 0 0 0]
+[08] - Arco_da_Confusão[820] [0 0 0 0 0 0]
+[09] - Arco_Veloz[821] [0 0 0 0 0 0]
+[10] - Skytalos[826] [0 0 0 0 0 0]
+[11] - Arco_Élfico[824] [0 0 0 0 0 0]
+[12] - Skytalos[826] [0 0 0 0 0 0]
+[13] - Robe_de_Seda(N)[1266] [43 0 0 0 0 0]
+[14] - Bandana_de_Seda(N)[1254] [43 0 0 0 0 0]
+[15] - Botas_de_Seda(N)[1302] [43 0 0 0 0 0]
+[20] - Skytalos[826] [0 0 0 0 0 0]
+[21] - Luvas_de_Seda(N)[1290] [43 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:40:51 : [11111] - Personagem 11111 enviado ao mundo 2097x 2106y - Canal 1 - Cash da conta: 0. OverPower: 2050
+16:40:51 : [11111] - Gold atual: 0. Classe: 1 Evolução: 0. Experiência: 120. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+16:40:51 : [11111] - Enviado informações do personagem
+16:40:52 : [11111] - Comando "/day "
+16:40:52 : [11111] - [Mensagem do servidor]> !#11 2
+16:40:58 : [11111] - Moveu item Skytalos [826] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 6 para tipo INVENTÁRIO slot 25
+16:41:01 : [11111] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:41:06 : [11111] - Personagem deu personagem
+16:41:16 : Solicitado deletar personagem 11111
+16:41:25 : Solicitado deletar personagem Tanguinha
+16:47:40 : Desconectado por inatividade... Last: 119002. Counter: 119744. Status: 11
+16:47:40 : Personagem foi desconectado. Permaneceu 00:14:27 minutos online
+17:31:28 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+17:31:28 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 125805
+17:31:28 : [INFORMAÇÕES DO BANCO]
+Gold: 125805
+
+17:31:28 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:32:31 : Solicitou ir ao mundo...
+17:32:31 : Recebido pedido para entrar no jogo
+17:32:31 : Recebido informação do personagem completa.
+17:32:31 : [hjashuas] - [INFORMAÇÕES DA CONTA]
+Personagem online: hjashuas
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:01:02 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:32:31 : [hjashuas] - Personagem hjashuas enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 0
+17:32:31 : [hjashuas] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+17:32:31 : [hjashuas] - Enviado informações do personagem
+17:32:32 : [hjashuas] - Comando "/day "
+17:32:32 : [hjashuas] - [Mensagem do servidor]> !#11 2
+17:32:37 : [hjashuas] - Moveu item Elmo_Lupino(N) [1416] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 0
+17:32:38 : [hjashuas] - Moveu item Armadura_Lupina(N) [1419] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 5
+17:32:38 : [hjashuas] - Moveu item Luvas_Lupinas(N) [1425] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 10
+17:32:39 : [hjashuas] - Moveu item Calça_Lupina(N) [1422] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 1
+17:32:39 : [hjashuas] - Moveu item Botas_Lupinas(N) [1428] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 6
+17:32:42 : [hjashuas] - Moveu item Botas_Lupinas(N) [1428] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 5
+17:32:43 : [hjashuas] - Moveu item Calça_Lupina(N) [1422] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 3
+17:32:43 : [hjashuas] - Moveu item Elmo_Lupino(N) [1416] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+17:32:43 : [hjashuas] - Moveu item Armadura_Lupina(N) [1419] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+17:32:44 : [hjashuas] - Moveu item Luvas_Lupinas(N) [1425] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 4
+17:32:45 : [hjashuas] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:04:56 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+18:04:56 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 125805
+18:04:56 : [INFORMAÇÕES DO BANCO]
+Gold: 125805
+
+18:04:56 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:05:04 : Solicitou ir ao mundo...
+18:05:04 : Recebido pedido para entrar no jogo
+18:05:04 : Recebido informação do personagem completa.
+18:05:04 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997650900
+Level atual: 1010
+Experiência atual: 6600
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2086x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Porrete[801] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luna[910] [0 0 0 0 0 0]
+[01] - Espada_Larga[908] [0 0 0 0 0 0]
+[02] - Luna[910] [0 0 0 0 0 0]
+[03] - Lâmina_Dupla[909] [0 0 0 0 0 0]
+[04] - Solaris[911] [0 0 0 0 0 0]
+[05] - Espada_Longa[906] [0 0 0 0 0 0]
+[07] - Espada_Bastarda[907] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:05:04 : [ffff] - Personagem ffff enviado ao mundo 2086x 2100y - Canal 2 - Cash da conta: 0. OverPower: 2020
+18:05:04 : [ffff] - Gold atual: 997650900. Classe: 0 Evolução: 0. Experiência: 6600. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+18:05:04 : [ffff] - Enviado informações do personagem
+18:05:05 : [ffff] - Comando "/day "
+18:05:05 : [ffff] - [Mensagem do servidor]> !#11 2
+18:05:17 : [ffff] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:14:00 : [ffff] - [Mensagem do servidor]: Summon 0 = 11801 - Tauron - 2133.2151
+18:14:00 : [ffff] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+18:22:49 : [ffff] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:22:49 : [ffff] - 1 Personagem foi desconectado. Permaneceu 00:17:42 minutos online
+18:24:15 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+18:24:15 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 125805
+18:24:15 : [INFORMAÇÕES DO BANCO]
+Gold: 125805
+
+18:24:21 : Solicitou ir ao mundo...
+18:24:21 : Recebido pedido para entrar no jogo
+18:24:21 : Recebido informação do personagem completa.
+18:24:21 : [hjashuas] - [INFORMAÇÕES DA CONTA]
+Personagem online: hjashuas
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - BeastMaster[21] [43 0 21 0 1 1]
+[01] - Elmo_Lupino(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura_Lupina(N)[1419] [43 0 0 0 0 0]
+[03] - Calça_Lupina(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas_Lupinas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas_Lupinas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:24:21 : [hjashuas] - Personagem hjashuas enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 0
+18:24:21 : [hjashuas] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+18:24:21 : [hjashuas] - Enviado informações do personagem
+18:24:23 : [hjashuas] - Comando "/day "
+18:24:23 : [hjashuas] - [Mensagem do servidor]> !#11 2
+18:24:29 : [hjashuas] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:46:36 : [hjashuas] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:46:36 : [hjashuas] - 1 Personagem foi desconectado. Permaneceu 00:22:03 minutos online
+18:46:56 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+18:46:56 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 125805
+18:46:56 : [INFORMAÇÕES DO BANCO]
+Gold: 125805
+
+18:47:02 : Solicitou ir ao mundo...
+18:47:02 : Recebido pedido para entrar no jogo
+18:47:02 : Recebido informação do personagem completa.
+18:47:02 : [rgergeh] - [INFORMAÇÕES DA CONTA]
+Personagem online: rgergeh
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:47:02 : [rgergeh] - Personagem rgergeh enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 0. OverPower: 0
+18:47:02 : [rgergeh] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+18:47:02 : [rgergeh] - Enviado informações do personagem
+18:47:03 : [rgergeh] - Comando "/day "
+18:47:03 : [rgergeh] - [Mensagem do servidor]> !#11 2
+18:47:18 : [rgergeh] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:56:07 : [rgergeh] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:56:07 : [rgergeh] - 1 Personagem foi desconectado. Permaneceu 00:09:05 minutos online

@@ -1,0 +1,2217 @@
+
+18:35:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.183.185 Mac: (0D:02:2C:B1:FF:4E). ClientId: 2
+18:35:55 : Conta ADMIN4 logado na conta
+Status da conta: JOGANDO
+Personagem: Shaaari
+
+18:35:55 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+18:35:55 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+18:35:55 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+[ADMIN4]	USER_PLAY	[Shaaari] (level: 1 ev: 2)	
+
+18:36:09 : Solicitou ir ao mundo...
+18:36:09 : Recebido pedido para entrar no jogo
+18:36:09 : Recebido informação do personagem completa.
+18:36:09 : [Shaaaaari] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shaaaaari
+Gold atual: 0
+Level atual: 399
+Experiência atual: 4000000000
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:14 horas
+Posição atual: 2090x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Giant_Man[25] [43 9 21 0 1 1]
+[01] - Elmo[1510] [43 253 0 0 0 0]
+[02] - Armadura[1511] [43 253 0 0 0 0]
+[03] - Calça[1512] [43 253 0 0 0 0]
+[04] - Luvas[1513] [43 253 0 0 0 0]
+[05] - Botas[1514] [43 253 0 0 0 0]
+[16] - Asa_de_Fênix[3103] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Armadura[1506] [43 250 0 0 0 0]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Pegasus[2382] [120 120 120 120 0 0]
+[07] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[10] - Adaga[861] [43 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN4]	USER_PLAY	[Shaaari] (level: 1 ev: 2)	
+
+18:36:09 : [Shaaaaari] - Personagem Shaaaaari enviado ao mundo 2090x 2095y - Canal 2 - Cash da conta: 9879. PowerLevel: 1466
+18:36:09 : [Shaaaaari] - Gold atual: 0. Classe: 2 Evolução: 0. Experiência: 4000000000. Nível: 399. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+18:36:09 : [Shaaaaari] - Resetado a contagem de entradas água! Day: 33-35. Total: 0
+18:36:09 : [Shaaaaari] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+18:36:09 : [Shaaaaari] - Enviado informações do personagem
+18:36:10 : [Shaaaaari] - Comando "/day "
+18:36:10 : [Shaaaaari] - [Mensagem do servidor]> !#11 2
+18:36:19 : [Shaaaaari] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:39:13 : [Shaaaaari] - Comando "/gm +item 1761"
+18:39:13 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Sephirot(Foema)
+18:39:13 : [Shaaaaari] - Shaaaaari criou o item Sephirot(Foema) [1761] [0 0 0 0 0 0]
+18:39:34 : [Shaaaaari] - Comando "/gm +item 1742"
+18:39:34 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Pedra_da_Imortalidade
+18:39:34 : [Shaaaaari] - Shaaaaari criou o item Pedra_da_Imortalidade [1742] [0 0 0 0 0 0]
+18:39:35 : [Shaaaaari] - Moveu item Sephirot(Foema) [1761] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 11
+18:39:36 : [Shaaaaari] - Moveu item Pedra_da_Imortalidade [1742] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 10
+18:39:40 : [Shaaaaari] - Clicado no NPC [ForeLearner]. Face 31. Race: 1. GenerateId: 3258. Posição do usuário: 2135x 2124y. Posição do NPC: 2138x 2124y
+18:39:48 : [Shaaaaari] - [Mensagem do servidor]> Não possui GOLD suficiente
+18:39:53 : [Shaaaaari] - Comando "/gm +item 4011"
+18:39:53 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Barra_de_Prata_(1Bi)
+18:39:53 : [Shaaaaari] - Shaaaaari criou o item Barra_de_Prata_(1Bi) [4011] [0 0 0 0 0 0]
+18:40:02 : [Shaaaaari] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2107x 2115y. Posição do NPC: 2102x 2113y
+18:40:12 : [Shaaaaari] - [Mensagem do servidor]> Não possui bronze suficientes
+18:40:19 : [Shaaaaari] - [Mensagem do servidor]> Não possui bronze suficiente
+18:40:20 : [Shaaaaari] - [Mensagem do servidor]> Não possui bronze suficientes
+18:40:20 : [Shaaaaari] - [Mensagem do servidor]> Não possui bronze suficientes
+18:40:31 : [Shaaaaari] - [Mensagem do servidor]> Não possui bronze suficientes
+18:40:39 : [Shaaaaari] - [Mensagem do servidor]> Não possui recursos para essa composição
+18:40:42 : [Shaaaaari] - [Mensagem do servidor]> Não possui bronze suficientes
+18:41:46 : [Shaaaaari] - Comando "/gm +item 4010"
+18:41:46 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Barra_de_Bronze(100Mi)
+18:41:46 : [Shaaaaari] - Shaaaaari criou o item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0]
+18:41:47 : [Shaaaaari] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2107x 2115y
+18:41:47 : [Shaaaaari] - Gold atual: 0.
+18:41:48 : [Shaaaaari] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2107x 2115y. Posição do NPC: 2102x 2113y
+18:41:52 : [Shaaaaari] - [Mensagem do servidor]> Composição concluída
+18:41:55 : [Shaaaaari] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2107x 2115y
+18:41:55 : [Shaaaaari] - Gold atual: 0.
+18:41:55 : [Shaaaaari] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2107x 2115y
+18:41:55 : [Shaaaaari] - Gold atual: 100000000.
+18:41:56 : [Shaaaaari] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2107x 2115y
+18:41:56 : [Shaaaaari] - Gold atual: 200000000.
+18:41:56 : [Shaaaaari] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2107x 2115y
+18:41:56 : [Shaaaaari] - Gold atual: 300000000.
+18:41:57 : [Shaaaaari] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2107x 2115y
+18:41:57 : [Shaaaaari] - Gold atual: 400000000.
+18:41:58 : [Shaaaaari] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2107x 2115y
+18:41:58 : [Shaaaaari] - Gold atual: 500000000.
+18:41:59 : [Shaaaaari] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2107x 2115y
+18:41:59 : [Shaaaaari] - Gold atual: 600000000.
+18:41:59 : [Shaaaaari] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2107x 2115y
+18:41:59 : [Shaaaaari] - Gold atual: 700000000.
+18:42:00 : [Shaaaaari] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2107x 2115y
+18:42:00 : [Shaaaaari] - Gold atual: 800000000.
+18:42:01 : [Shaaaaari] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2107x 2115y
+18:42:01 : [Shaaaaari] - Gold atual: 900000000.
+19:06:09 : [Shaaaaari] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shaaaaari
+Gold atual: 1000000000
+Level atual: 399
+Experiência atual: 4000000000
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:52 horas
+Posição atual: 2111x 2110y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo[1510] [43 253 0 0 0 0]
+[02] - Armadura[1511] [43 253 0 0 0 0]
+[03] - Calça[1512] [43 253 0 0 0 0]
+[04] - Luvas[1513] [43 253 0 0 0 0]
+[05] - Botas[1514] [43 253 0 0 0 0]
+[10] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[11] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[16] - Asa_de_Fênix[3103] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Armadura[1506] [43 250 0 0 0 0]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Pegasus[2382] [120 120 120 120 0 0]
+[07] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[10] - Adaga[861] [43 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN4]	USER_PLAY	[Shaaari] (level: 1 ev: 2)	
+
+19:34:01 : [Shaaaaari] - Comando "/gm +item 2143"
+19:34:01 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Cruz_Sagrada
+19:34:01 : [Shaaaaari] - Shaaaaari criou o item Cruz_Sagrada [2143] [0 0 0 0 0 0]
+19:36:10 : [Shaaaaari] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shaaaaari
+Gold atual: 1000000000
+Level atual: 399
+Experiência atual: 4000000000
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:59:29 horas
+Posição atual: 2119x 2110y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo[1510] [43 253 0 0 0 0]
+[02] - Armadura[1511] [43 253 0 0 0 0]
+[03] - Calça[1512] [43 253 0 0 0 0]
+[04] - Luvas[1513] [43 253 0 0 0 0]
+[05] - Botas[1514] [43 253 0 0 0 0]
+[10] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[11] - Sephirot(Foema)[1761] [0 0 0 0 0 0]
+[16] - Asa_de_Fênix[3103] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Armadura[1506] [43 250 0 0 0 0]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Pegasus[2382] [120 120 120 120 0 0]
+[07] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[08] - Cruz_Sagrada[2143] [0 0 0 0 0 0]
+[10] - Adaga[861] [43 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN4]	USER_PLAY	[Shaaari] (level: 1 ev: 2)	
+
+19:50:05 : [Shaaaaari] - Teleportado para a posição 960 1761
+19:50:10 : [Shaaaaari] - Teleportado para a posição 1701 1725
+19:50:47 : [Shaaaaari] - Clicado no NPC [King Glantuar]. Face 304. Race: 4. GenerateId: 9. Posição do usuário: 1752x 1880y. Posição do NPC: 1749x 1879y
+19:50:47 : [Shaaaaari] - Arch criado. Sephirot: 1761. Face: 27. Level: 399. SlotId: 1
+19:50:47 : [Shaaaaari] - [Mensagem do servidor]: Parabéns Shaaaaari pela criação do personagem Arch
+19:50:48 : ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+19:50:48 : Personagem foi desconectado. Permaneceu 01:13:52 minutos online
+19:54:34 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.183.185 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+19:54:34 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+19:54:34 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+19:54:43 : Solicitou ir ao mundo...
+19:54:43 : Recebido pedido para entrar no jogo
+19:54:43 : Recebido informação do personagem completa.
+19:54:43 : [Shaaaaari] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shaaaaari
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:09 horas
+Posição atual: 2091x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[27] [43 0 27 1 1 1]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:54:43 : [Shaaaaari] - Personagem Shaaaaari enviado ao mundo 2091x 2100y - Canal 2 - Cash da conta: 9879. PowerLevel: 1
+19:54:43 : [Shaaaaari] - Gold atual: 0. Classe: 1 Evolução: 1. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+19:54:43 : [Shaaaaari] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+19:54:43 : [Shaaaaari] - Enviado informações do personagem
+19:54:44 : [Shaaaaari] - Comando "/day "
+19:54:44 : [Shaaaaari] - [Mensagem do servidor]> !#11 2
+19:54:57 : [Shaaaaari] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+19:54:57 : [Shaaaaari] - Comando "/cmd +level 398"
+19:54:57 : [Shaaaaari] - [Mensagem do servidor]> Este personagem não está conectado.
+19:55:03 : [Shaaaaari] - Comando "/gm +set level 398"
+19:55:20 : [Shaaaaari] - Matou o mob Gremlin. GenerID: 428
+19:55:20 : [Shaaaaari] - Pontos CP subiu em 3. CP novo: 78
+19:55:20 : [Shaaaaari] - [Mensagem do servidor]> + + + LEVEL UP + + +
+19:55:20 : [Shaaaaari] - Level UP para level 399. Ev: 1/1 - 2195x 2084y
+20:17:26 : [Shaaaaari] - Comando "/gm +item 4106"
+20:17:26 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Cristal_Elime
+20:17:26 : [Shaaaaari] - Shaaaaari criou o item Cristal_Elime [4106] [0 0 0 0 0 0]
+20:17:28 : [Shaaaaari] - Comando "/gm +item 4107"
+20:17:28 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Cristal_Sylphed
+20:17:28 : [Shaaaaari] - Shaaaaari criou o item Cristal_Sylphed [4107] [0 0 0 0 0 0]
+20:17:29 : [Shaaaaari] - Comando "/gm +item 4108"
+20:17:29 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Cristal_Thelion
+20:17:29 : [Shaaaaari] - Shaaaaari criou o item Cristal_Thelion [4108] [0 0 0 0 0 0]
+20:17:30 : [Shaaaaari] - Comando "/gm +item 4109"
+20:17:30 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Cristal_Noas
+20:17:30 : [Shaaaaari] - Shaaaaari criou o item Cristal_Noas [4109] [0 0 0 0 0 0]
+20:17:32 : [Shaaaaari] - Item Cristal_Elime [4106] [0 0 0 0 0 0] utilizado em 2149x 2101y
+20:17:34 : [Shaaaaari] - Item Cristal_Sylphed [4107] [0 0 0 0 0 0] utilizado em 2149x 2101y
+20:17:35 : [Shaaaaari] - Item Cristal_Thelion [4108] [0 0 0 0 0 0] utilizado em 2149x 2101y
+20:17:37 : [Shaaaaari] - Item Cristal_Noas [4109] [0 0 0 0 0 0] utilizado em 2149x 2101y
+20:17:46 : [Shaaaaari] - Comando "/gm +set level 398"
+20:17:52 : [Shaaaaari] - Matou o mob Gremlin. GenerID: 420
+20:17:52 : [Shaaaaari] - Pontos CP subiu em 3. CP novo: 81
+20:17:52 : [Shaaaaari] - [Mensagem do servidor]> + + + LEVEL UP + + +
+20:17:52 : [Shaaaaari] - Level UP para level 399. Ev: 1/1 - 2196x 2090y
+20:18:09 : [Shaaaaari] - Comando "/gm +item 5338"
+20:18:09 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Pedra_Ideal
+20:18:09 : [Shaaaaari] - Shaaaaari criou o item Pedra_Ideal [5338] [0 0 0 0 0 0]
+20:18:11 : [Shaaaaari] - Item Pedra_Ideal [5338] [0 0 0 0 0 0] utilizado em 2165x 2102y
+20:18:11 : [Shaaaaari] - Celestial criado. Level: 399 - Cythera: 3502. Points 400. Cape 3199
+20:18:11 : [Mensagem do servidor]> Que Deus abençoe seu caminho!
+20:18:15 : Solicitou ir ao mundo...
+20:18:15 : Recebido pedido para entrar no jogo
+20:18:15 : Recebido informação do personagem completa.
+20:18:16 : [Shaaaaari] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shaaaaari
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:23:22 horas
+Posição atual: 2090x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[27] [43 0 27 2 1 1]
+[01] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [81 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:18:16 : [Shaaaaari] - Personagem Shaaaaari enviado ao mundo 2090x 2104y - Canal 2 - Cash da conta: 9879. PowerLevel: 592
+20:18:16 : [Shaaaaari] - Gold atual: 0. Classe: 1 Evolução: 2. Experiência: 0. Nível: 0. Info: 496. GuildID: 0. CP: 6. Pontos de Contribuição: 0. Limite: 0
+20:18:16 : [Shaaaaari] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+20:18:16 : [Shaaaaari] - Enviado informações do personagem
+20:18:16 : [Shaaaaari] - Comando "/day "
+20:18:16 : [Shaaaaari] - [Mensagem do servidor]> !#11 2
+20:18:22 : [Shaaaaari] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:20:01 : [Shaaaaari] - Comando "/gm +item 1506 43 250 60 20"
+20:20:01 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Armadura
+20:20:01 : [Shaaaaari] - Shaaaaari criou o item Armadura [1506] [43 250 60 20 0 0]
+20:20:09 : [Shaaaaari] - Comando "/gm +item 1507 43 250 60 20"
+20:20:09 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Calça
+20:20:09 : [Shaaaaari] - Shaaaaari criou o item Calça [1507] [43 250 60 20 0 0]
+20:20:17 : [Shaaaaari] - Comando "/gm +item 1508 43 250 60 20"
+20:20:17 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Luvas
+20:20:17 : [Shaaaaari] - Shaaaaari criou o item Luvas [1508] [43 250 60 20 0 0]
+20:20:26 : [Shaaaaari] - Comando "/gm +item 1509 43 250 60 20"
+20:20:26 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Botas
+20:20:26 : [Shaaaaari] - Shaaaaari criou o item Botas [1509] [43 250 60 20 0 0]
+20:20:29 : [Shaaaaari] - Moveu item Botas [1509] [43 250 60 20 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 5
+20:20:30 : [Shaaaaari] - Moveu item Luvas [1508] [43 250 60 20 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 4
+20:20:31 : [Shaaaaari] - Moveu item Calça [1507] [43 250 60 20 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 3
+20:20:31 : [Shaaaaari] - Moveu item Armadura [1506] [43 250 60 20 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 2
+20:20:57 : [Shaaaaari] - Comando "/gm +item 2863 116 250"
+20:20:57 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Eirenus(Anct)
+20:20:57 : [Shaaaaari] - Shaaaaari criou o item Eirenus(Anct) [2863] [116 250 0 0 0 0]
+20:21:00 : [Shaaaaari] - Moveu item Eirenus(Anct) [2863] [116 250 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 6
+20:21:27 : [Shaaaaari] - Comando "/gm +item 2863 43 250 60 100"
+20:21:27 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Eirenus(Anct)
+20:21:27 : [Shaaaaari] - Shaaaaari criou o item Eirenus(Anct) [2863] [43 250 60 100 0 0]
+20:21:29 : [Shaaaaari] - Moveu item Eirenus(Anct) [2863] [43 250 60 100 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 6
+20:21:30 : [Shaaaaari] - Moveu item Eirenus(Anct) [2863] [116 250 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 6
+20:21:31 : [Shaaaaari] - Moveu item Eirenus(Anct) [2863] [43 250 60 100 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 6
+20:21:36 : [Shaaaaari] - Item Eirenus(Anct) deletado [2863] [116 250 0 0 0 0]. Slot 0
+20:21:56 : [Shaaaaari] - Comando "/gm +item 3990 120 120 120 120 0"
+20:21:56 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Fenrir_Natalino
+20:21:56 : [Shaaaaari] - Shaaaaari criou o item Fenrir_Natalino [3990] [120 120 120 120 0 0]
+20:22:02 : [Shaaaaari] - Item Fenrir_Natalino deletado [3990] [120 120 120 120 0 0]. Slot 0
+20:22:26 : [Shaaaaari] - Comando "/gm +item 2379 120 120 120 120 0"
+20:22:26 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Tigre_de_Fogo
+20:22:26 : [Shaaaaari] - Shaaaaari criou o item Tigre_de_Fogo [2379] [120 120 120 120 0 0]
+20:22:27 : [Shaaaaari] - Moveu item Tigre_de_Fogo [2379] [120 120 120 120 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 14
+20:22:46 : [Shaaaaari] - Comando "/gm +item 3507 43 250"
+20:22:46 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Cythera_Arcana
+20:22:46 : [Shaaaaari] - Shaaaaari criou o item Cythera_Arcana [3507] [43 250 0 0 0 0]
+20:22:47 : [Shaaaaari] - Moveu item Cythera_Arcana [3507] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+20:23:01 : [Shaaaaari] - Comando "/gm +item 3303"
+20:23:01 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Coroa_Celestial
+20:23:01 : [Shaaaaari] - Shaaaaari criou o item Coroa_Celestial [3303] [0 0 0 0 0 0]
+20:23:08 : [Shaaaaari] - Moveu item Cythera_Arcana [3507] [43 250 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 5
+20:23:12 : [Shaaaaari] - Moveu item Cythera_Arcana [3507] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 1
+20:23:50 : [Shaaaaari] - Item Coroa_Celestial deletado [3303] [0 0 0 0 0 0]. Slot 1
+20:23:52 : [Shaaaaari] - Item Cythera_Mística deletado [3502] [0 0 0 0 0 0]. Slot 0
+20:24:00 : [Shaaaaari] - [Mensagem do servidor]> Não possui GOLD suficiente
+20:24:05 : [Shaaaaari] - Comando "/gm +item 4010"
+20:24:05 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Barra_de_Bronze(100Mi)
+20:24:05 : [Shaaaaari] - Shaaaaari criou o item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0]
+20:24:06 : [Shaaaaari] - Item Barra_de_Bronze(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2119x 2106y
+20:24:06 : [Shaaaaari] - Gold atual: 0.
+20:24:09 : [Shaaaaari] - Teleportado para a posição 2482 1717
+20:24:28 : [Shaaaaari] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+20:24:28 : [Shaaaaari] - Usado Gema no item Eirenus(Anct) [2866] [43 253 60 100 0 0]
+20:24:30 : [Shaaaaari] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+20:24:30 : [Shaaaaari] - Usado Gema no item Botas [1509] [43 253 60 20 0 0]
+20:24:31 : [Shaaaaari] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+20:24:31 : [Shaaaaari] - Usado Gema no item Calça [1507] [43 253 60 20 0 0]
+20:24:32 : [Shaaaaari] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+20:24:32 : [Shaaaaari] - Usado Gema no item Luvas [1508] [43 253 60 20 0 0]
+20:24:35 : [Shaaaaari] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+20:24:35 : [Shaaaaari] - Usado Gema no item Armadura [1506] [43 253 60 20 0 0]
+20:24:54 : [Shaaaaari] - Teleportado para a posição 2117 2102
+20:25:26 : [Shaaaaari] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+20:25:26 : [Shaaaaari] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+20:25:26 : [Shaaaaari] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+20:25:27 : [Shaaaaari] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+20:25:27 : [Shaaaaari] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+20:25:52 : [Shaaaaari] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+20:25:52 : [Shaaaaari] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+20:25:52 : [Shaaaaari] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+20:26:19 : [Shaaaaari] - Comprou uma skill Ataque_de_Fogo. Learn antigo: 4611687118082797772, Learn atual: 1295052864468549888. Learn da skill: 1124.
+20:26:19 : [Shaaaaari] - [Mensagem do servidor]> Habilidade Ataque_de_Fogo aprendida com sucesso
+20:26:20 : [Shaaaaari] - Comprou uma skill Relâmpago. Learn antigo: 4611689317106053324, Learn atual: 1295052864468550144. Learn da skill: 1124.
+20:26:20 : [Shaaaaari] - [Mensagem do servidor]> Habilidade Relâmpago aprendida com sucesso
+20:26:21 : [Shaaaaari] - Comprou uma skill Lança_de_Gelo. Learn antigo: 4611693715152564428, Learn atual: 1295052864468550656. Learn da skill: 1124.
+20:26:21 : [Shaaaaari] - [Mensagem do servidor]> Habilidade Lança_de_Gelo aprendida com sucesso
+20:26:22 : [Shaaaaari] - Comprou uma skill Tempestade_de_Meteoro. Learn antigo: 4611702511245586636, Learn atual: 1295052864468551680. Learn da skill: 1124.
+20:26:22 : [Shaaaaari] - [Mensagem do servidor]> Habilidade Tempestade_de_Meteoro aprendida com sucesso
+20:26:23 : [Shaaaaari] - Comprou uma skill Nevasca. Learn antigo: 4611720103431631052, Learn atual: 1295052864468553728. Learn da skill: 1124.
+20:26:23 : [Shaaaaari] - [Mensagem do servidor]> Habilidade Nevasca aprendida com sucesso
+20:26:23 : [Shaaaaari] - Comprou uma skill Trovão. Learn antigo: 4611755287803719884, Learn atual: 1295052864468557824. Learn da skill: 1124.
+20:26:23 : [Shaaaaari] - [Mensagem do servidor]> Habilidade Trovão aprendida com sucesso
+20:26:24 : [Shaaaaari] - Comprou uma skill Fênix_de_Fogo. Learn antigo: 4611825656547897548, Learn atual: 1295052864468566016. Learn da skill: 1124.
+20:26:24 : [Shaaaaari] - [Mensagem do servidor]> Habilidade Fênix_de_Fogo aprendida com sucesso
+20:26:25 : [Shaaaaari] - Comprou uma skill Inferno. Learn antigo: 4611966394036252876, Learn atual: 1295052864468582400. Learn da skill: 1124.
+20:26:25 : [Shaaaaari] - [Mensagem do servidor]> Habilidade Inferno aprendida com sucesso
+20:26:30 : [Shaaaaari] - Comprou uma skill Toque_da_Athena. Learn antigo: 4620973593290993868, Learn atual: 1295052864470646784. Learn da skill: 1124.
+20:26:30 : [Shaaaaari] - [Mensagem do servidor]> Habilidade Toque_da_Athena aprendida com sucesso
+20:26:31 : [Shaaaaari] - Comprou uma skill Controle_de_Mana. Learn antigo: 4638987991800475852, Learn atual: 1295052864472743936. Learn da skill: 1124.
+20:26:31 : [Shaaaaari] - [Mensagem do servidor]> Habilidade Controle_de_Mana aprendida com sucesso
+20:26:34 : [Shaaaaari] - Comprou uma skill Escudo_Mágico. Learn antigo: 4641239791614161100, Learn atual: 1295052864469073920. Learn da skill: 1124.
+20:26:34 : [Shaaaaari] - [Mensagem do servidor]> Habilidade Escudo_Mágico aprendida com sucesso
+20:26:36 : [Shaaaaari] - Comprou uma skill Arma_Mágica. Learn antigo: 4645743391241531596, Learn atual: 1295052864469598208. Learn da skill: 1124.
+20:26:36 : [Shaaaaari] - [Mensagem do servidor]> Habilidade Arma_Mágica aprendida com sucesso
+20:28:15 : [Shaaaaari] - Comando "/gm +item 633 60 100"
+20:28:15 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Pedra_Espiritual
+20:28:15 : [Shaaaaari] - Shaaaaari criou o item Pedra_Espiritual [633] [60 100 0 0 0 0]
+20:28:23 : [Shaaaaari] - Comando "/gm +item 633 43 250 60 100"
+20:28:23 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Pedra_Espiritual
+20:28:23 : [Shaaaaari] - Shaaaaari criou o item Pedra_Espiritual [633] [43 250 60 100 0 0]
+20:28:25 : [Shaaaaari] - Comando "/gm +item 633 43 250 60 100"
+20:28:25 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Pedra_Espiritual
+20:28:25 : [Shaaaaari] - Shaaaaari criou o item Pedra_Espiritual [633] [43 250 60 100 0 0]
+20:28:26 : [Shaaaaari] - Comando "/gm +item 633 43 250 60 100"
+20:28:26 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Pedra_Espiritual
+20:28:26 : [Shaaaaari] - Shaaaaari criou o item Pedra_Espiritual [633] [43 250 60 100 0 0]
+20:28:28 : [Shaaaaari] - Comando "/gm +item 633 43 250 60 100"
+20:28:28 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Pedra_Espiritual
+20:28:28 : [Shaaaaari] - Shaaaaari criou o item Pedra_Espiritual [633] [43 250 60 100 0 0]
+20:28:31 : [Shaaaaari] - Item Pedra_Espiritual deletado [633] [60 100 0 0 0 0]. Slot 0
+20:28:33 : [Shaaaaari] - Moveu item Pedra_Espiritual [633] [43 250 60 100 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 11
+20:28:35 : [Shaaaaari] - Moveu item Pedra_Espiritual [633] [43 250 60 100 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 9
+20:28:37 : [Shaaaaari] - Moveu item Pedra_Espiritual [633] [43 250 60 100 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 10
+20:28:39 : [Shaaaaari] - Moveu item Pedra_Espiritual [633] [43 250 60 100 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 8
+20:29:15 : [Shaaaaari] - Comando "/cmd +level 198"
+20:29:15 : [Shaaaaari] - [Mensagem do servidor]> Este personagem não está conectado.
+20:29:22 : [Shaaaaari] - Comando "/gm +set level 198"
+20:30:03 : [Shaaaaari] - Pontos CP subiu em 3. CP novo: 84
+20:30:03 : [Shaaaaari] - [Mensagem do servidor]> + + + LEVEL UP + + +
+20:30:03 : [Shaaaaari] - Level UP para level 199. Ev: 2/2 - 2107x 2103y
+20:30:15 : [Shaaaaari] - [Mensagem do servidor]> Compra concluída!
+20:30:19 : [Shaaaaari] - [Mensagem do servidor]> Compra concluída!
+20:30:23 : [Shaaaaari] - Item Bolsa_do_Andarilho [3467] [0 0 0 0 0 0] utilizado em 2107x 2103y
+20:30:23 : [Shaaaaari] - Bolsa do Andarilho usado. Até dia 07/03/2021
+20:30:23 : [Shaaaaari] - Item Bolsa_do_Andarilho [3467] [0 0 0 0 0 0] utilizado em 2107x 2103y
+20:30:23 : [Shaaaaari] - Bolsa do Andarilho usado. Até dia 07/03/2021
+20:30:24 : [Shaaaaari] - Item Poção_Divina(30dias) [3381] [0 0 0 0 0 0] utilizado em 2107x 2103y
+20:30:24 : [Shaaaaari] - Poção Divina utilizada até dia 07/03/2021 20:30:24
+20:30:33 : [Shaaaaari] - Comando "/cmd +kefra 1"
+20:30:33 : [Shaaaaari] - [Mensagem do servidor]> Este personagem não está conectado.
+20:30:39 : [Shaaaaari] - Comando "/gm +move kefra"
+20:30:39 : [Shaaaaari] - Teleportado para a posição 3290 1695
+20:31:09 : [Shaaaaari] - O login admin4 tentou logar na conta com o mesmo mac.
+20:35:14 : [Shaaaaari] - Comando "/gm +item 5134"
+20:35:14 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Pista_de_Runas
+20:35:14 : [Shaaaaari] - Shaaaaari criou o item Pista_de_Runas [5134] [0 0 0 0 0 0]
+20:35:16 : [Shaaaaari] - Clicado no NPC [Uxmal]. Face 11. Race: 3. GenerateId: 3762. Posição do usuário: 3288x 1695y. Posição do NPC: 3294x 1692y
+20:40:22 : [Shaaaaari] - Clicado no NPC [Uxmal]. Face 11. Race: 3. GenerateId: 3762. Posição do usuário: 3290x 1694y. Posição do NPC: 3294x 1692y
+20:40:44 : [Shaaaaari] - Comando "/time "
+20:40:44 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:40:44 05-02-2021 3290x 1694y - Canal 2
+20:40:45 : [Shaaaaari] - Comando "/time "
+20:40:45 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:40:45 05-02-2021 3290x 1694y - Canal 2
+20:40:45 : [Shaaaaari] - Comando "/time "
+20:40:45 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:40:45 05-02-2021 3290x 1694y - Canal 2
+20:40:46 : [Shaaaaari] - Comando "/time "
+20:40:46 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:40:46 05-02-2021 3290x 1694y - Canal 2
+20:40:46 : [Shaaaaari] - Comando "/time "
+20:40:46 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:40:46 05-02-2021 3290x 1694y - Canal 2
+20:40:46 : [Shaaaaari] - Comando "/time "
+20:40:46 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:40:46 05-02-2021 3290x 1694y - Canal 2
+20:40:46 : [Shaaaaari] - Comando "/time "
+20:40:46 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:40:46 05-02-2021 3290x 1694y - Canal 2
+20:40:46 : [Shaaaaari] - Comando "/time "
+20:40:46 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:40:46 05-02-2021 3290x 1694y - Canal 2
+20:40:47 : [Shaaaaari] - Comando "/time "
+20:40:47 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:40:47 05-02-2021 3290x 1694y - Canal 2
+20:40:47 : [Shaaaaari] - Comando "/time "
+20:40:47 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:40:47 05-02-2021 3290x 1694y - Canal 2
+20:40:47 : [Shaaaaari] - Comando "/time "
+20:40:47 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:40:47 05-02-2021 3290x 1694y - Canal 2
+20:40:47 : [Shaaaaari] - Comando "/time "
+20:40:47 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:40:47 05-02-2021 3290x 1694y - Canal 2
+20:40:51 : [Shaaaaari] - Clicado no NPC [Uxmal]. Face 11. Race: 3. GenerateId: 3762. Posição do usuário: 3290x 1694y. Posição do NPC: 3294x 1692y
+20:40:54 : [Shaaaaari] - Comando "/time "
+20:40:54 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:40:54 05-02-2021 3292x 1695y - Canal 2
+20:40:56 : [Shaaaaari] - Comando "/time "
+20:40:56 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:40:56 05-02-2021 3292x 1695y - Canal 2
+20:40:56 : [Shaaaaari] - Comando "/time "
+20:40:56 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:40:56 05-02-2021 3292x 1695y - Canal 2
+20:41:01 : [Shaaaaari] - Comando "/time "
+20:41:01 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:41:01 05-02-2021 3292x 1695y - Canal 2
+20:48:16 : [Shaaaaari] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shaaaaari
+Gold atual: 72746400
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:52:59 horas
+Posição atual: 3280x 1696y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[27] [43 0 27 2 1 1]
+[01] - Cythera_Arcana[3507] [43 250 0 0 0 0]
+[02] - Armadura[1506] [43 253 60 20 0 0]
+[03] - Calça[1507] [43 253 60 20 0 0]
+[04] - Luvas[1508] [43 253 60 20 0 0]
+[05] - Botas[1509] [43 253 60 20 0 0]
+[06] - Eirenus(Anct)[2866] [43 253 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Tigre_de_Fogo[2379] [120 120 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Pista_de_Runas[5134] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 7 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 7 110 3 109 121]
+[63] - Marca_do_Assassino[547] [84 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN4]	USER_PLAY	[Shaaari] (level: 199 ev: 2)	
+
+20:48:50 : [Shaaaaari] - Comando "/time "
+20:48:50 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:48:50 05-02-2021 3280x 1696y - Canal 2
+20:48:53 : [Shaaaaari] - Comando "/time "
+20:48:53 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:48:53 05-02-2021 3280x 1696y - Canal 2
+20:48:54 : [Shaaaaari] - Comando "/time "
+20:48:54 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:48:54 05-02-2021 3280x 1696y - Canal 2
+20:48:54 : [Shaaaaari] - Comando "/time "
+20:48:54 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:48:54 05-02-2021 3280x 1696y - Canal 2
+20:48:54 : [Shaaaaari] - Comando "/time "
+20:48:54 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:48:54 05-02-2021 3280x 1696y - Canal 2
+20:48:54 : [Shaaaaari] - Comando "/time "
+20:48:54 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:48:54 05-02-2021 3280x 1696y - Canal 2
+20:51:25 : [Shaaaaari] - Comando "/time "
+20:51:25 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:51:25 05-02-2021 3280x 1696y - Canal 2
+20:51:30 : [Shaaaaari] - Clicado no NPC [Uxmal]. Face 11. Race: 3. GenerateId: 3762. Posição do usuário: 3296x 1690y. Posição do NPC: 3294x 1692y
+20:53:40 : [Shaaaaari] - Comando "/time "
+20:53:40 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:53:40 05-02-2021 3290x 1694y - Canal 2
+20:53:42 : [Shaaaaari] - Comando "/time "
+20:53:42 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:53:42 05-02-2021 3290x 1694y - Canal 2
+20:53:43 : [Shaaaaari] - Comando "/time "
+20:53:43 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:53:43 05-02-2021 3290x 1694y - Canal 2
+20:54:13 : [Shaaaaari] - Comando "/time "
+20:54:13 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:54:13 05-02-2021 3290x 1694y - Canal 2
+20:54:14 : [Shaaaaari] - Comando "/time "
+20:54:14 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:54:14 05-02-2021 3290x 1694y - Canal 2
+20:54:16 : [Shaaaaari] - Comando "/time "
+20:54:16 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:54:16 05-02-2021 3290x 1694y - Canal 2
+20:54:37 : [Shaaaaari] - Clicado no NPC [Uxmal]. Face 11. Race: 3. GenerateId: 3762. Posição do usuário: 3290x 1694y. Posição do NPC: 3294x 1692y
+20:55:34 : [Shaaaaari] - Clicado no NPC [Uxmal]. Face 11. Race: 3. GenerateId: 3762. Posição do usuário: 3291x 1696y. Posição do NPC: 3294x 1692y
+20:55:36 : [Shaaaaari] - Comando "/time "
+20:55:36 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:55:36 05-02-2021 3291x 1696y - Canal 2
+20:56:04 : [Shaaaaari] - Clicado no NPC [Uxmal]. Face 11. Race: 3. GenerateId: 3762. Posição do usuário: 3291x 1696y. Posição do NPC: 3294x 1692y
+20:56:04 : [Shaaaaari] - Pista de Runas 0 registrada. Shaaaaari
+20:56:04 : [Shaaaaari] - Pista de Runas +0 - 0 - Shaaari
+20:59:02 : [Shaaaaari] - Comando "/time "
+20:59:02 : [Shaaaaari] - [Mensagem do servidor]> [Shaaaaari] - 20:59:02 05-02-2021 3291x 1694y - Canal 2
+21:00:01 : [Shaaaaari] - Teleportado para a posição 3349 1654
+21:00:01 : [Shaaaaari] - Teleportado para pista 0 - 3350x 1655x
+21:00:01 : [Shaaaaari] - Grupo com Shaaari(ADMIN4) para a pista +0
+Grupo com Shaaaaari(ADMIN6) para a pista +0
+
+21:00:15 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7620. HP Atual: 22380
+21:00:15 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7629. HP Atual: 14751
+21:00:17 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7202. HP Atual: 7549
+21:00:18 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7678. HP Atual: 0
+21:00:18 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3825
+21:00:30 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7554. HP Atual: 14122
+21:00:31 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7310. HP Atual: 3691
+21:00:32 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6884. HP Atual: 0
+21:00:32 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3825
+21:00:35 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7503. HP Atual: 22497
+21:00:36 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7202. HP Atual: 15295
+21:00:37 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6982. HP Atual: 5335
+21:01:08 : [Shaaaaari] - ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:01:08 : [Shaaaaari] - 1 Personagem foi desconectado. Permaneceu 01:05:40 minutos online
+21:57:10 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.183.185 Mac: (0D:02:2C:B1:FF:4E). ClientId: 3
+21:57:10 : Conta ADMIN4 logado na conta
+Status da conta: JOGANDO
+Personagem: Shaaari
+
+21:57:10 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 0
+21:57:10 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+21:57:10 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+[ADMIN4]	USER_PLAY	[Shaaari] (level: 199 ev: 2)	
+
+21:57:15 : Solicitou ir ao mundo...
+21:57:15 : Recebido pedido para entrar no jogo
+21:57:15 : Recebido informação do personagem completa.
+21:57:15 : [Shaaaaari] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shaaaaari
+Gold atual: 0
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2094x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[27] [43 0 27 2 1 1]
+[01] - Cythera_Arcana[3507] [43 250 0 0 0 0]
+[02] - Armadura[1506] [43 253 60 20 0 0]
+[03] - Calça[1507] [43 253 60 20 0 0]
+[04] - Luvas[1508] [43 253 60 20 0 0]
+[05] - Botas[1509] [43 253 60 20 0 0]
+[06] - Eirenus(Anct)[2866] [43 253 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Tigre_de_Fogo[2379] [120 120 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[60] - Bolsa_do_Andarilho[3467] [106 7 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 7 110 3 109 121]
+[63] - Marca_do_Assassino[547] [84 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN4]	USER_PLAY	[Shaaari] (level: 199 ev: 2)	
+
+21:57:15 : [Shaaaaari] - Personagem Shaaaaari enviado ao mundo 2094x 2104y - Canal 2 - Cash da conta: 8679. PowerLevel: 12220
+21:57:15 : [Shaaaaari] - Gold atual: 0. Classe: 1 Evolução: 2. Experiência: 4000000000. Nível: 199. Info: 496. GuildID: 0. CP: 9. Pontos de Contribuição: 0. Limite: 0
+21:57:15 : [Shaaaaari] - Logou no personagem Shaaaaari com poção divina ativo. Validade: 7/3/2021 20:30:24
+21:57:15 : [Shaaaaari] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+21:57:15 : [Shaaaaari] - Enviado informações do personagem
+21:57:15 : [Shaaaaari] - Comando "/day "
+21:57:15 : [Shaaaaari] - [Mensagem do servidor]> !#11 2
+21:57:21 : [Shaaaaari] - Comando "/gm +move kefra"
+21:57:21 : [Shaaaaari] - Teleportado para a posição 3290 1695
+21:57:22 : [Shaaaaari] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:57:33 : [Shaaaaari] - Comando "/gm +item 5134"
+21:57:33 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Pista_de_Runas
+21:57:33 : [Shaaaaari] - Shaaaaari criou o item Pista_de_Runas [5134] [0 0 0 0 0 0]
+21:57:35 : [Shaaaaari] - Clicado no NPC [Uxmal]. Face 11. Race: 3. GenerateId: 3762. Posição do usuário: 3297x 1697y. Posição do NPC: 3296x 1696y
+21:57:35 : [Shaaaaari] - Pista de Runas 0 registrada. Shaaaaari
+21:57:35 : [Shaaaaari] - Pista de Runas +0 - 0 - Shaaari
+22:00:00 : [Shaaaaari] - [Mensagem do servidor]: A batalha do acampamento avançado do reino foi iniciada.
+22:00:01 : [Shaaaaari] - Teleportado para a posição 3349 1654
+22:00:01 : [Shaaaaari] - Teleportado para pista 0 - 3350x 1655x
+22:00:01 : [Shaaaaari] - Grupo com Shaaari(ADMIN4) para a pista +0
+Grupo com Shaaaaari(ADMIN6) para a pista +0
+
+22:00:17 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7465. HP Atual: 22535
+22:00:18 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7779. HP Atual: 14756
+22:00:19 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6640. HP Atual: 8116
+22:00:21 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7601. HP Atual: 22399
+22:00:22 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6550. HP Atual: 15849
+22:00:23 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7775. HP Atual: 341
+22:00:24 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7331. HP Atual: 0
+22:00:24 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3834
+22:00:25 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 39. Distância 2: 39. Range: 9. SkillId: 33
+22:00:26 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 39. Distância 2: 39. Range: 9. SkillId: 34
+22:00:27 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 16. Distância 2: 39. Range: 9. SkillId: 39
+22:00:28 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 16. Distância 2: 39. Range: 9. SkillId: 35
+22:00:29 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 16. Distância 2: 39. Range: 9. SkillId: 38
+22:00:30 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 11. Distância 2: 16. Range: 9. SkillId: 36
+22:00:31 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 11. Distância 2: 16. Range: 9. SkillId: 33
+22:00:32 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 11. Distância 2: 16. Range: 9. SkillId: 34
+22:00:46 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7601. HP Atual: 8248
+22:00:47 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6478. HP Atual: 1770
+22:00:48 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7077. HP Atual: 22923
+22:00:49 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7629. HP Atual: 15294
+22:00:50 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7719. HP Atual: 7575
+22:00:51 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7492. HP Atual: 83
+22:00:52 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7523. HP Atual: 0
+22:00:52 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3784
+22:00:54 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 39. Distância 2: 39. Range: 9. SkillId: 35
+22:00:55 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 39. Distância 2: 39. Range: 9. SkillId: 38
+22:01:04 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7704. HP Atual: 22296
+22:01:08 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6712. HP Atual: 23288
+22:01:09 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7926. HP Atual: 14370
+22:01:10 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7601. HP Atual: 15687
+22:01:11 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7626. HP Atual: 22374
+22:01:12 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7155. HP Atual: 15219
+22:01:13 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 8226. HP Atual: 6993
+22:01:14 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7000. HP Atual: 0
+22:01:14 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3772
+22:01:15 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7637. HP Atual: 22363
+22:01:16 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7987. HP Atual: 14376
+22:01:16 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6704. HP Atual: 8983
+22:01:17 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7554. HP Atual: 6822
+22:01:17 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7124. HP Atual: 1859
+22:01:17 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7359. HP Atual: 0
+22:01:17 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3785
+22:01:18 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7930. HP Atual: 0
+22:01:18 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3846
+22:01:30 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7033. HP Atual: 8032
+22:01:31 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7431. HP Atual: 0
+22:01:31 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3846
+22:01:31 : [Shaaaaari] - Dropado item Resto_de_Oriharucon [419] [59 112 59 34 202 50] em 3381x 1635y - Elfo Lutador (1/98)
+22:01:37 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7387. HP Atual: 6983
+22:01:38 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7928. HP Atual: 0
+22:01:38 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3784
+22:01:44 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6784. HP Atual: 23216
+22:01:45 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7564. HP Atual: 15652
+22:01:46 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7137. HP Atual: 8515
+22:01:47 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7554. HP Atual: 961
+22:01:51 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7310. HP Atual: 15958
+22:01:52 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7555. HP Atual: 5354
+22:02:03 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6712. HP Atual: 21277
+22:02:04 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6912. HP Atual: 14365
+22:02:05 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7292. HP Atual: 5183
+22:02:07 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7124. HP Atual: 0
+22:02:07 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3784
+22:02:14 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7620. HP Atual: 22380
+22:02:15 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 8002. HP Atual: 14378
+22:02:16 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6928. HP Atual: 7450
+22:02:17 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7564. HP Atual: 0
+22:02:17 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3784
+22:02:24 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7910. HP Atual: 22090
+22:02:25 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6478. HP Atual: 15612
+22:02:26 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7620. HP Atual: 7992
+22:02:27 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 8002. HP Atual: 0
+22:02:27 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3784
+22:02:41 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7934. HP Atual: 22066
+22:02:42 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7202. HP Atual: 14864
+22:02:43 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7214. HP Atual: 22786
+22:02:44 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7196. HP Atual: 15590
+22:02:45 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7077. HP Atual: 8513
+22:02:46 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6958. HP Atual: 7906
+22:02:47 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7647. HP Atual: 259
+22:02:48 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7781. HP Atual: 0
+22:02:48 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3784
+22:03:02 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7369. HP Atual: 22631
+22:03:03 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7052. HP Atual: 15579
+22:03:04 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7232. HP Atual: 8347
+22:03:05 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7779. HP Atual: 568
+22:03:06 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6928. HP Atual: 0
+22:03:06 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3784
+22:03:15 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7419. HP Atual: 22581
+22:03:16 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 8451. HP Atual: 62
+22:03:17 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6980. HP Atual: 0
+22:03:17 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3846
+22:03:40 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 8162. HP Atual: 14419
+22:03:41 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7331. HP Atual: 7088
+22:03:42 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6640. HP Atual: 448
+22:03:43 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6694. HP Atual: 0
+22:03:43 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3784
+22:03:50 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7852. HP Atual: 22148
+22:03:51 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 8002. HP Atual: 14146
+22:04:00 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7790. HP Atual: 6356
+22:04:09 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7129. HP Atual: 22871
+22:04:10 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7164. HP Atual: 15707
+22:04:11 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7554. HP Atual: 8153
+22:04:13 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7232. HP Atual: 921
+22:04:13 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7108. HP Atual: 0
+22:04:13 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3845
+22:04:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 713. HP Atual: 41287
+22:04:19 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 557. HP Atual: 40730
+22:04:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 564. HP Atual: 40166
+22:04:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 595. HP Atual: 39571
+22:04:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 596. HP Atual: 38975
+22:04:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 552. HP Atual: 40986
+22:04:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 38439
+22:04:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 542. HP Atual: 37897
+22:04:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 527. HP Atual: 37370
+22:04:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 519. HP Atual: 36851
+22:04:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 503. HP Atual: 40483
+22:04:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 36254
+22:04:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 41266
+22:04:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 590. HP Atual: 40676
+22:04:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 565. HP Atual: 35689
+22:04:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 498. HP Atual: 40178
+22:04:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 476. HP Atual: 40007
+22:04:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 523. HP Atual: 35166
+22:04:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 496. HP Atual: 39682
+22:04:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 573. HP Atual: 34593
+22:04:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 567. HP Atual: 34026
+22:04:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 541. HP Atual: 39466
+22:04:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 574. HP Atual: 39108
+22:04:40 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7431. HP Atual: 22569
+22:04:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 514. HP Atual: 33512
+22:04:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 503. HP Atual: 33009
+22:04:41 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 585. HP Atual: 32424
+22:04:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 553. HP Atual: 31871
+22:04:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 508. HP Atual: 38600
+22:04:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 490. HP Atual: 38976
+22:04:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 529. HP Atual: 31342
+22:04:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 516. HP Atual: 38084
+22:04:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 546. HP Atual: 30796
+22:04:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 544. HP Atual: 30252
+22:04:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 591. HP Atual: 29661
+22:04:48 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 546. HP Atual: 29115
+22:04:48 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 591. HP Atual: 38385
+22:04:48 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 530. HP Atual: 37554
+22:04:48 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7359. HP Atual: 15210
+22:04:48 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 508. HP Atual: 28607
+22:04:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 535. HP Atual: 28072
+22:04:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 508. HP Atual: 37046
+22:04:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 519. HP Atual: 37866
+22:04:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 523. HP Atual: 27549
+22:04:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 36510
+22:04:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 600. HP Atual: 26949
+22:04:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 602. HP Atual: 26347
+22:04:53 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 608. HP Atual: 25739
+22:04:54 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 501. HP Atual: 25238
+22:04:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 630. HP Atual: 24608
+22:04:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 487. HP Atual: 36023
+22:04:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 500. HP Atual: 37366
+22:04:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 600. HP Atual: 24008
+22:04:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 545. HP Atual: 35478
+22:04:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 574. HP Atual: 36792
+22:04:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 574. HP Atual: 34904
+22:04:56 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6784. HP Atual: 8426
+22:04:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 552. HP Atual: 23456
+22:04:57 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 507. HP Atual: 22949
+22:04:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 602. HP Atual: 22347
+22:04:59 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 586. HP Atual: 21761
+22:05:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 596. HP Atual: 21165
+22:05:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 600. HP Atual: 20565
+22:05:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 514. HP Atual: 34390
+22:05:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 523. HP Atual: 36269
+22:05:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 578. HP Atual: 19987
+22:05:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 486. HP Atual: 33904
+22:05:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 556. HP Atual: 19431
+22:05:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 550. HP Atual: 18881
+22:05:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 35700
+22:05:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 586. HP Atual: 33318
+22:05:04 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7862. HP Atual: 564
+22:05:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 574. HP Atual: 18307
+22:05:05 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 541. HP Atual: 17766
+22:05:06 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 585. HP Atual: 17181
+22:05:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 600. HP Atual: 16581
+22:05:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 567. HP Atual: 32751
+22:05:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 466. HP Atual: 35234
+22:05:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 518. HP Atual: 16063
+22:05:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 32215
+22:05:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 567. HP Atual: 15496
+22:05:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 556. HP Atual: 14940
+22:05:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 497. HP Atual: 14443
+22:05:12 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 546. HP Atual: 13897
+22:05:12 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 519. HP Atual: 34715
+22:05:12 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 31679
+22:05:12 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 6496. HP Atual: 0
+22:05:12 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 503. HP Atual: 13394
+22:05:12 : [Shaaaaari] - Matou o mob Elfo Lutador. GenerID: 3782
+22:05:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 571. HP Atual: 12823
+22:05:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 519. HP Atual: 31160
+22:05:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 519. HP Atual: 34196
+22:05:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 573. HP Atual: 12250
+22:05:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 540. HP Atual: 30620
+22:05:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 562. HP Atual: 11688
+22:05:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 539. HP Atual: 11149
+22:05:17 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 519. HP Atual: 10630
+22:05:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 568. HP Atual: 10062
+22:05:19 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 612. HP Atual: 9450
+22:05:19 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 551. HP Atual: 30069
+22:05:19 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 462. HP Atual: 33734
+22:05:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 501. HP Atual: 8949
+22:05:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 476. HP Atual: 29593
+22:05:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 574. HP Atual: 33160
+22:05:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 29057
+22:05:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 525. HP Atual: 8424
+22:05:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 556. HP Atual: 7868
+22:05:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 613. HP Atual: 7255
+22:05:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 552. HP Atual: 6703
+22:05:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 579. HP Atual: 6124
+22:05:25 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 600. HP Atual: 5524
+22:05:25 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 503. HP Atual: 28554
+22:05:25 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 509. HP Atual: 32651
+22:05:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 540. HP Atual: 4984
+22:05:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 456. HP Atual: 28098
+22:05:27 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 562. HP Atual: 4422
+22:05:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 613. HP Atual: 3809
+22:05:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 32093
+22:05:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 547. HP Atual: 27551
+22:05:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 497. HP Atual: 3312
+22:05:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 591. HP Atual: 2721
+22:05:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 524. HP Atual: 2197
+22:05:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 571. HP Atual: 1626
+22:05:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 589. HP Atual: 26962
+22:05:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 438. HP Atual: 31655
+22:05:32 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 512. HP Atual: 1114
+22:05:32 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 26426
+22:05:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 562. HP Atual: 552
+22:05:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 533. HP Atual: 19
+22:05:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 580. HP Atual: 0
+22:05:35 : [Shaaaaari] - Matou o mob LichCruntKing. GenerID: 175
+22:05:41 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 574. HP Atual: 41426
+22:05:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 600. HP Atual: 40826
+22:05:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 508. HP Atual: 41492
+22:05:42 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 19. Distância 2: 17. Range: 9. SkillId: 39
+22:05:42 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 5112. HP Atual: 24888
+22:05:42 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 4756. HP Atual: 25244
+22:05:48 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 496. HP Atual: 41504
+22:05:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 513. HP Atual: 40991
+22:05:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 579. HP Atual: 40412
+22:05:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 608. HP Atual: 39804
+22:05:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 608. HP Atual: 39196
+22:06:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 518. HP Atual: 38425
+22:06:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 602. HP Atual: 37823
+22:06:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 594. HP Atual: 36985
+22:06:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 557. HP Atual: 41443
+22:06:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 573. HP Atual: 36174
+22:06:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 521. HP Atual: 40922
+22:06:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 589. HP Atual: 40333
+22:06:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 619. HP Atual: 35419
+22:06:05 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 34715
+22:06:06 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 563. HP Atual: 34021
+22:06:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 535. HP Atual: 33237
+22:06:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 551. HP Atual: 40275
+22:06:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 496. HP Atual: 32508
+22:06:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 525. HP Atual: 31761
+22:06:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 602. HP Atual: 39673
+22:06:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 551. HP Atual: 31210
+22:06:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 619. HP Atual: 30334
+22:06:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 574. HP Atual: 29626
+22:06:12 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 546. HP Atual: 28860
+22:06:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 583. HP Atual: 28146
+22:06:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 482. HP Atual: 39191
+22:06:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 540. HP Atual: 27465
+22:06:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 526. HP Atual: 38665
+22:06:17 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 608. HP Atual: 26372
+22:06:17 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 541. HP Atual: 38124
+22:06:19 : [Shaaaaari] - [Mensagem do servidor]> Compra concluída!
+22:06:21 : [Shaaaaari] - Item Frango_Assado [3314] [61 10 0 0 0 0] utilizado em 3436x 1635y
+22:06:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 524. HP Atual: 25608
+22:06:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 595. HP Atual: 25013
+22:06:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 24416
+22:06:25 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 590. HP Atual: 23826
+22:06:25 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 630. HP Atual: 23196
+22:06:25 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 580. HP Atual: 37544
+22:06:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 634. HP Atual: 22562
+22:06:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 547. HP Atual: 36997
+22:06:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 562. HP Atual: 21729
+22:06:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 36439
+22:06:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 519. HP Atual: 21069
+22:06:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 652. HP Atual: 20189
+22:06:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 542. HP Atual: 19515
+22:06:32 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 535. HP Atual: 18756
+22:06:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 611. HP Atual: 18005
+22:06:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 531. HP Atual: 35908
+22:06:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 547. HP Atual: 17458
+22:06:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 608. HP Atual: 35300
+22:06:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 595. HP Atual: 16625
+22:06:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 474. HP Atual: 34826
+22:06:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 546. HP Atual: 15833
+22:06:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 572. HP Atual: 15021
+22:06:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 14350
+22:06:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 540. HP Atual: 13810
+22:06:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 652. HP Atual: 13022
+22:06:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 547. HP Atual: 34279
+22:06:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 579. HP Atual: 12301
+22:06:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 33721
+22:06:41 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 622. HP Atual: 11451
+22:06:41 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 10662
+22:06:41 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 591. HP Atual: 33130
+22:06:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 555. HP Atual: 10107
+22:06:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 619. HP Atual: 9353
+22:06:44 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 624. HP Atual: 8496
+22:06:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 605. HP Atual: 7645
+22:06:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 504. HP Atual: 32626
+22:06:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 546. HP Atual: 6864
+22:06:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 568. HP Atual: 32058
+22:06:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 584. HP Atual: 6031
+22:06:48 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 561. HP Atual: 5238
+22:06:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 575. HP Atual: 4532
+22:06:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 553. HP Atual: 3979
+22:06:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 553. HP Atual: 31505
+22:06:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 557. HP Atual: 3190
+22:06:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 676. HP Atual: 2259
+22:06:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 30969
+22:06:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 617. HP Atual: 1396
+22:06:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 493. HP Atual: 30476
+22:06:53 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 562. HP Atual: 601
+22:06:54 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 561. HP Atual: 0
+22:06:54 : [Shaaaaari] - Matou o mob LichCruntKing. GenerID: 175
+22:07:05 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 553. HP Atual: 41447
+22:07:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 579. HP Atual: 40868
+22:07:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 640. HP Atual: 40228
+22:07:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 605. HP Atual: 41395
+22:07:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 524. HP Atual: 39704
+22:07:12 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 600. HP Atual: 39104
+22:07:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 624. HP Atual: 38480
+22:07:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 619. HP Atual: 41381
+22:07:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 602. HP Atual: 41398
+22:07:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 41442
+22:07:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 630. HP Atual: 40765
+22:07:17 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 617. HP Atual: 37419
+22:07:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 572. HP Atual: 36715
+22:07:19 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 613. HP Atual: 35966
+22:07:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 607. HP Atual: 35135
+22:07:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 676. HP Atual: 34328
+22:07:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 557. HP Atual: 40208
+22:07:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 612. HP Atual: 33573
+22:07:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 591. HP Atual: 40790
+22:07:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 608. HP Atual: 40790
+22:07:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 624. HP Atual: 40818
+22:07:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 547. HP Atual: 39661
+22:07:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 546. HP Atual: 32785
+22:07:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 612. HP Atual: 32031
+22:07:25 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 520. HP Atual: 31511
+22:07:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 629. HP Atual: 30747
+22:07:27 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 581. HP Atual: 30028
+22:07:27 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 39125
+22:07:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 535. HP Atual: 29355
+22:07:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 519. HP Atual: 28606
+22:07:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 635. HP Atual: 27837
+22:07:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 564. HP Atual: 40226
+22:07:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 575. HP Atual: 40215
+22:07:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 624. HP Atual: 40194
+22:07:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 619. HP Atual: 38506
+22:07:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 27036
+22:07:32 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 635. HP Atual: 26168
+22:07:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 623. HP Atual: 25296
+22:07:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 547. HP Atual: 37959
+22:07:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 562. HP Atual: 24479
+22:07:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 579. HP Atual: 23762
+22:07:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 567. HP Atual: 23053
+22:07:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 580. HP Atual: 22236
+22:07:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 540. HP Atual: 21553
+22:07:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 39629
+22:07:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 525. HP Atual: 39690
+22:07:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 564. HP Atual: 39630
+22:07:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 37390
+22:07:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 599. HP Atual: 20813
+22:07:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 552. HP Atual: 36838
+22:07:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 573. HP Atual: 19991
+22:07:41 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 584. HP Atual: 19154
+22:07:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 618. HP Atual: 18299
+22:07:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 564. HP Atual: 17593
+22:07:44 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 535. HP Atual: 16923
+22:07:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 646. HP Atual: 16037
+22:07:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 579. HP Atual: 36259
+22:07:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 518. HP Atual: 15275
+22:07:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 580. HP Atual: 39049
+22:07:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 547. HP Atual: 39143
+22:07:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 630. HP Atual: 39000
+22:07:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 580. HP Atual: 35679
+22:07:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 622. HP Atual: 14516
+22:07:48 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 641. HP Atual: 13640
+22:07:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 520. HP Atual: 12863
+22:07:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 535. HP Atual: 12185
+22:07:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 587. HP Atual: 11370
+22:07:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 573. HP Atual: 35106
+22:07:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 617. HP Atual: 10753
+22:07:53 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 611. HP Atual: 9916
+22:07:54 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 590. HP Atual: 9082
+22:07:54 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 630. HP Atual: 38419
+22:07:54 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 38574
+22:07:54 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 531. HP Atual: 38469
+22:07:54 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 586. HP Atual: 34520
+22:07:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 591. HP Atual: 8240
+22:07:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 596. HP Atual: 7513
+22:07:57 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 563. HP Atual: 6704
+22:07:57 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 605. HP Atual: 33915
+22:07:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 568. HP Atual: 5903
+22:08:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 590. HP Atual: 5097
+22:08:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 624. HP Atual: 4473
+22:08:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 525. HP Atual: 37894
+22:08:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 580. HP Atual: 37994
+22:08:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 37933
+22:08:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 630. HP Atual: 33285
+22:08:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 3876
+22:08:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 629. HP Atual: 3247
+22:08:05 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 629. HP Atual: 2618
+22:08:05 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 600. HP Atual: 32685
+22:08:06 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 590. HP Atual: 2028
+22:08:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 606. HP Atual: 1422
+22:08:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 567. HP Atual: 855
+22:08:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 547. HP Atual: 308
+22:08:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 535. HP Atual: 0
+22:08:10 : [Shaaaaari] - Matou o mob LichCruntKing. GenerID: 175
+22:08:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 557. HP Atual: 41443
+22:08:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 552. HP Atual: 41448
+22:08:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 451. HP Atual: 41549
+22:08:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 406. HP Atual: 41594
+22:08:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 415. HP Atual: 41585
+22:08:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 40980
+22:08:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 41027
+22:08:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 624. HP Atual: 40819
+22:08:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 586. HP Atual: 41008
+22:08:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 553. HP Atual: 40895
+22:08:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 540. HP Atual: 40355
+22:08:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 548. HP Atual: 40271
+22:08:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 481. HP Atual: 40499
+22:08:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 378. HP Atual: 40630
+22:08:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 367. HP Atual: 40660
+22:08:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 611. HP Atual: 39744
+22:08:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 618. HP Atual: 38900
+22:08:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 520. HP Atual: 38246
+22:08:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 39902
+22:08:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 553. HP Atual: 40107
+22:08:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 602. HP Atual: 39669
+22:08:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 40061
+22:08:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 619. HP Atual: 37383
+22:08:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 618. HP Atual: 36765
+22:08:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 575. HP Atual: 35958
+22:08:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 584. HP Atual: 39085
+22:08:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 484. HP Atual: 39418
+22:08:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 455. HP Atual: 39606
+22:08:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 394. HP Atual: 39713
+22:08:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 562. HP Atual: 35396
+22:08:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 489. HP Atual: 38596
+22:08:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 441. HP Atual: 38977
+22:08:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 439. HP Atual: 39167
+22:08:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 360. HP Atual: 39353
+22:08:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 590. HP Atual: 34555
+22:08:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 544. HP Atual: 33877
+22:08:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 33082
+22:08:41 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 635. HP Atual: 32307
+22:08:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 640. HP Atual: 31412
+22:08:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 579. HP Atual: 38017
+22:08:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 498. HP Atual: 41502
+22:08:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 426. HP Atual: 38551
+22:08:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 344. HP Atual: 38823
+22:08:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 335. HP Atual: 39018
+22:08:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 595. HP Atual: 30674
+22:08:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 543. HP Atual: 37474
+22:08:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 472. HP Atual: 41030
+22:08:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 389. HP Atual: 38162
+22:08:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 340. HP Atual: 38483
+22:08:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 298. HP Atual: 38720
+22:08:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 602. HP Atual: 37560
+22:08:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 520. HP Atual: 38200
+22:08:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 36916
+22:08:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 613. HP Atual: 37870
+22:08:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 30105
+22:08:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 547. HP Atual: 40483
+22:08:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 606. HP Atual: 29037
+22:08:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 561. HP Atual: 28334
+22:08:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 564. HP Atual: 27548
+22:08:48 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 607. HP Atual: 26725
+22:08:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 587. HP Atual: 25996
+22:08:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 605. HP Atual: 36311
+22:08:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 541. HP Atual: 39942
+22:08:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 410. HP Atual: 37150
+22:08:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 358. HP Atual: 37512
+22:08:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 329. HP Atual: 37871
+22:08:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 568. HP Atual: 25296
+22:08:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 469. HP Atual: 35842
+22:08:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 437. HP Atual: 39505
+22:08:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 374. HP Atual: 36776
+22:08:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 327. HP Atual: 37185
+22:08:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 290. HP Atual: 37581
+22:08:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 573. HP Atual: 24723
+22:08:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 550. HP Atual: 24036
+22:08:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 36218
+22:08:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 36984
+22:08:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 564. HP Atual: 35278
+22:08:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 630. HP Atual: 36555
+22:08:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 525. HP Atual: 23511
+22:08:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 591. HP Atual: 38914
+22:08:53 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 520. HP Atual: 22740
+22:08:54 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 568. HP Atual: 21917
+22:08:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 557. HP Atual: 21126
+22:08:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 584. HP Atual: 34694
+22:08:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 546. HP Atual: 38368
+22:08:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 397. HP Atual: 35821
+22:08:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 387. HP Atual: 36168
+22:08:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 323. HP Atual: 36661
+22:08:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 529. HP Atual: 20340
+22:08:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 34136
+22:08:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 424. HP Atual: 37944
+22:08:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 408. HP Atual: 35413
+22:08:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 324. HP Atual: 35844
+22:08:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 276. HP Atual: 36385
+22:08:57 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 557. HP Atual: 19555
+22:08:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 630. HP Atual: 18695
+22:08:59 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 591. HP Atual: 17878
+22:09:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 579. HP Atual: 17073
+22:09:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 34816
+22:09:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 531. HP Atual: 35854
+22:09:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 525. HP Atual: 33611
+22:09:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 608. HP Atual: 35236
+22:09:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 602. HP Atual: 16471
+22:09:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 542. HP Atual: 37402
+22:09:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 611. HP Atual: 15724
+22:09:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 552. HP Atual: 33059
+22:09:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 460. HP Atual: 41540
+22:09:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 476. HP Atual: 36926
+22:09:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 376. HP Atual: 34440
+22:09:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 305. HP Atual: 34931
+22:09:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 244. HP Atual: 35610
+22:09:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 628. HP Atual: 14860
+22:09:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 489. HP Atual: 32570
+22:09:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 450. HP Atual: 41090
+22:09:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 397. HP Atual: 36529
+22:09:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 330. HP Atual: 34110
+22:09:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 304. HP Atual: 34627
+22:09:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 246. HP Atual: 35364
+22:09:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 546. HP Atual: 14171
+22:09:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 555. HP Atual: 13388
+22:09:05 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 12591
+22:09:06 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 629. HP Atual: 11734
+22:09:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 640. HP Atual: 11094
+22:09:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 605. HP Atual: 31965
+22:09:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 517. HP Atual: 40573
+22:09:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 476. HP Atual: 36053
+22:09:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 355. HP Atual: 33755
+22:09:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 332. HP Atual: 34295
+22:09:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 285. HP Atual: 35079
+22:09:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 557. HP Atual: 10284
+22:09:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 508. HP Atual: 31457
+22:09:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 481. HP Atual: 40092
+22:09:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 374. HP Atual: 35679
+22:09:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 330. HP Atual: 33425
+22:09:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 315. HP Atual: 33980
+22:09:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 232. HP Atual: 34847
+22:09:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 32889
+22:09:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 564. HP Atual: 34283
+22:09:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 619. HP Atual: 30838
+22:09:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 608. HP Atual: 33372
+22:09:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 613. HP Atual: 9531
+22:09:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 564. HP Atual: 35115
+22:09:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 513. HP Atual: 9018
+22:09:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 567. HP Atual: 8451
+22:09:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 7893
+22:09:12 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 624. HP Atual: 7269
+22:09:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 557. HP Atual: 6712
+22:09:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 611. HP Atual: 30227
+22:09:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 512. HP Atual: 39580
+22:09:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 468. HP Atual: 34647
+22:09:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 369. HP Atual: 32520
+22:09:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 294. HP Atual: 33078
+22:09:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 268. HP Atual: 34015
+22:09:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 590. HP Atual: 6122
+22:09:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 543. HP Atual: 29684
+22:09:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 472. HP Atual: 39108
+22:09:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 397. HP Atual: 34250
+22:09:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 380. HP Atual: 32140
+22:09:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 312. HP Atual: 32766
+22:09:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 230. HP Atual: 33785
+22:09:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 557. HP Atual: 5565
+22:09:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 561. HP Atual: 5004
+22:09:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 4446
+22:09:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 31571
+22:09:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 33249
+22:09:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 553. HP Atual: 29131
+22:09:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 613. HP Atual: 32153
+22:09:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 531. HP Atual: 3915
+22:09:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 520. HP Atual: 33730
+22:09:19 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 540. HP Atual: 3375
+22:09:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 563. HP Atual: 2812
+22:09:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 595. HP Atual: 28536
+22:09:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 527. HP Atual: 38581
+22:09:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 464. HP Atual: 33266
+22:09:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 397. HP Atual: 31174
+22:09:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 341. HP Atual: 31812
+22:09:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 254. HP Atual: 32995
+22:09:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 568. HP Atual: 2244
+22:09:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 563. HP Atual: 27973
+22:09:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 481. HP Atual: 38100
+22:09:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 381. HP Atual: 32885
+22:09:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 347. HP Atual: 30827
+22:09:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 271. HP Atual: 31541
+22:09:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 235. HP Atual: 32760
+22:09:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 573. HP Atual: 1671
+22:09:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 538. HP Atual: 1133
+22:09:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 575. HP Atual: 558
+22:09:25 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 629. HP Atual: 0
+22:09:25 : [Shaaaaari] - Matou o mob LichCruntKing. GenerID: 175
+22:09:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 519. HP Atual: 41481
+22:09:32 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 607. HP Atual: 40874
+22:09:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 547. HP Atual: 40327
+22:09:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 629. HP Atual: 39698
+22:09:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 619. HP Atual: 41381
+22:09:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 580. HP Atual: 41420
+22:09:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 41431
+22:09:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 553. HP Atual: 41447
+22:09:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 525. HP Atual: 39173
+22:09:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 619. HP Atual: 41381
+22:09:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 557. HP Atual: 38616
+22:09:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 515. HP Atual: 41485
+22:09:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 512. HP Atual: 40869
+22:09:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 397. HP Atual: 41023
+22:09:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 369. HP Atual: 41062
+22:09:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 341. HP Atual: 41106
+22:09:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 266. HP Atual: 41115
+22:09:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 623. HP Atual: 37993
+22:09:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 523. HP Atual: 40346
+22:09:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 450. HP Atual: 40573
+22:09:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 401. HP Atual: 40661
+22:09:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 373. HP Atual: 40733
+22:09:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 293. HP Atual: 40822
+22:09:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 519. HP Atual: 40966
+22:09:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 624. HP Atual: 40342
+22:09:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 580. HP Atual: 39762
+22:09:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 546. HP Atual: 39216
+22:09:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 40264
+22:09:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 553. HP Atual: 40020
+22:09:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 547. HP Atual: 40114
+22:09:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 40197
+22:09:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 591. HP Atual: 37402
+22:09:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 542. HP Atual: 39804
+22:09:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 587. HP Atual: 38236
+22:09:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 520. HP Atual: 39284
+22:09:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 503. HP Atual: 39694
+22:09:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 439. HP Atual: 41561
+22:09:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 606. HP Atual: 37398
+22:09:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 38726
+22:09:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 551. HP Atual: 36631
+22:09:48 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 544. HP Atual: 35832
+22:09:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 35019
+22:09:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 574. HP Atual: 34192
+22:09:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 608. HP Atual: 39656
+22:09:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 575. HP Atual: 39445
+22:09:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 39517
+22:09:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 39158
+22:09:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 624. HP Atual: 36778
+22:09:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 542. HP Atual: 38184
+22:09:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 580. HP Atual: 33612
+22:09:53 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 609. HP Atual: 33003
+22:09:54 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 598. HP Atual: 32405
+22:09:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 537. HP Atual: 31868
+22:09:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 642. HP Atual: 30994
+22:09:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 501. HP Atual: 37683
+22:09:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 514. HP Atual: 38644
+22:09:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 473. HP Atual: 41088
+22:09:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 626. HP Atual: 39030
+22:09:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 598. HP Atual: 38847
+22:09:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 555. HP Atual: 38962
+22:09:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 516. HP Atual: 38128
+22:09:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 549. HP Atual: 36229
+22:09:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 555. HP Atual: 37128
+22:09:59 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 30257
+22:09:59 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 485. HP Atual: 36643
+22:09:59 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 430. HP Atual: 40658
+22:10:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 532. HP Atual: 29472
+22:10:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 614. HP Atual: 28728
+22:10:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 571. HP Atual: 28020
+22:10:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 609. HP Atual: 27167
+22:10:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 654. HP Atual: 26276
+22:10:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 522. HP Atual: 36121
+22:10:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 523. HP Atual: 41477
+22:10:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 407. HP Atual: 37721
+22:10:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 381. HP Atual: 40277
+22:10:05 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 613. HP Atual: 25527
+22:10:05 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 481. HP Atual: 35640
+22:10:05 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 504. HP Atual: 39773
+22:10:06 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 564. HP Atual: 24827
+22:10:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 527. HP Atual: 38503
+22:10:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 527. HP Atual: 38320
+22:10:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 615. HP Atual: 38347
+22:10:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 615. HP Atual: 37106
+22:10:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 615. HP Atual: 35614
+22:10:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 620. HP Atual: 35020
+22:10:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 603. HP Atual: 23967
+22:10:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 598. HP Atual: 23239
+22:10:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 625. HP Atual: 22479
+22:10:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 625. HP Atual: 21636
+22:10:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 501. HP Atual: 34519
+22:10:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 528. HP Atual: 40949
+22:10:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 449. HP Atual: 36657
+22:10:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 406. HP Atual: 39367
+22:10:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 602. HP Atual: 20897
+22:10:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 505. HP Atual: 34014
+22:10:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 434. HP Atual: 38933
+22:10:12 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 618. HP Atual: 20022
+22:10:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 614. HP Atual: 19184
+22:10:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 582. HP Atual: 18365
+22:10:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 598. HP Atual: 37905
+22:10:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 533. HP Atual: 37787
+22:10:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 615. HP Atual: 37732
+22:10:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 555. HP Atual: 36102
+22:10:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 533. HP Atual: 35081
+22:10:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 576. HP Atual: 33438
+22:10:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 620. HP Atual: 17510
+22:10:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 595. HP Atual: 16778
+22:10:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 565. HP Atual: 32873
+22:10:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 486. HP Atual: 40463
+22:10:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 424. HP Atual: 35678
+22:10:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 413. HP Atual: 38520
+22:10:17 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 515. HP Atual: 16019
+22:10:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 544. HP Atual: 32329
+22:10:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 421. HP Atual: 38099
+22:10:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 607. HP Atual: 15282
+22:10:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 637. HP Atual: 14408
+22:10:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 620. HP Atual: 13648
+22:10:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 603. HP Atual: 12913
+22:10:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 631. HP Atual: 12151
+22:10:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 591. HP Atual: 31738
+22:10:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 523. HP Atual: 39940
+22:10:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 436. HP Atual: 35242
+22:10:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 384. HP Atual: 37715
+22:10:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 538. HP Atual: 37367
+22:10:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 609. HP Atual: 37178
+22:10:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 615. HP Atual: 37117
+22:10:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 560. HP Atual: 34682
+22:10:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 587. HP Atual: 34494
+22:10:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 560. HP Atual: 31178
+22:10:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 520. HP Atual: 11489
+22:10:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 466. HP Atual: 30712
+22:10:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 487. HP Atual: 37228
+22:10:25 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 559. HP Atual: 10706
+22:10:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 620. HP Atual: 9858
+22:10:27 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 598. HP Atual: 9260
+22:10:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 554. HP Atual: 8472
+22:10:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 584. HP Atual: 7651
+22:10:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 602. HP Atual: 30110
+22:10:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 523. HP Atual: 39417
+22:10:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 416. HP Atual: 34266
+22:10:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 349. HP Atual: 36879
+22:10:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 619. HP Atual: 6792
+22:10:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 554. HP Atual: 29556
+22:10:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 434. HP Atual: 36445
+22:10:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 559. HP Atual: 5997
+22:10:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 626. HP Atual: 36741
+22:10:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 527. HP Atual: 36651
+22:10:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 626. HP Atual: 36491
+22:10:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 615. HP Atual: 33651
+22:10:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 576. HP Atual: 33918
+22:10:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 604. HP Atual: 28952
+22:10:32 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 541. HP Atual: 5315
+22:10:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 560. HP Atual: 4506
+22:10:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 592. HP Atual: 3782
+22:10:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 601. HP Atual: 2951
+22:10:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 528. HP Atual: 28424
+22:10:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 453. HP Atual: 38964
+22:10:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 399. HP Atual: 33252
+22:10:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 356. HP Atual: 36089
+22:10:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 537. HP Atual: 2414
+22:10:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 520. HP Atual: 27904
+22:10:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 425. HP Atual: 35664
+22:10:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 515. HP Atual: 1899
+22:10:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 586. HP Atual: 1313
+22:10:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 538. HP Atual: 36203
+22:10:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 604. HP Atual: 36047
+22:10:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 544. HP Atual: 35947
+22:10:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 560. HP Atual: 32692
+22:10:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 538. HP Atual: 33380
+22:10:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 587. HP Atual: 27317
+22:10:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 587. HP Atual: 726
+22:10:41 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 548. HP Atual: 178
+22:10:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 589. HP Atual: 0
+22:10:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 575. HP Atual: 26742
+22:10:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 486. HP Atual: 38478
+22:10:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 461. HP Atual: 32231
+22:10:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 370. HP Atual: 35294
+22:10:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 586. HP Atual: 37892
+22:10:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 485. HP Atual: 26257
+22:10:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 473. HP Atual: 35574
+22:10:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 379. HP Atual: 35568
+22:10:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 332. HP Atual: 33048
+22:10:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 308. HP Atual: 31923
+22:10:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 257. HP Atual: 35037
+22:10:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 553. HP Atual: 37339
+22:10:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 603. HP Atual: 36736
+22:10:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 566. HP Atual: 35637
+22:10:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 549. HP Atual: 35025
+22:10:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 620. HP Atual: 34948
+22:10:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 626. HP Atual: 31297
+22:10:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 576. HP Atual: 32472
+22:10:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 593. HP Atual: 25664
+22:10:48 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 544. HP Atual: 36192
+22:10:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 531. HP Atual: 35661
+22:10:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 660. HP Atual: 35001
+22:10:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 565. HP Atual: 25099
+22:10:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 509. HP Atual: 34516
+22:10:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 477. HP Atual: 34471
+22:10:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 406. HP Atual: 32066
+22:10:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 301. HP Atual: 30996
+22:10:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 269. HP Atual: 35368
+22:10:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 211. HP Atual: 34826
+22:10:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 548. HP Atual: 34453
+22:10:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 500. HP Atual: 24599
+22:10:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 482. HP Atual: 34034
+22:10:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 444. HP Atual: 34027
+22:10:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 381. HP Atual: 31685
+22:10:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 321. HP Atual: 30675
+22:10:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 257. HP Atual: 34569
+22:10:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 532. HP Atual: 33921
+22:10:53 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 626. HP Atual: 33295
+22:10:54 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 533. HP Atual: 32762
+22:10:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 571. HP Atual: 34797
+22:10:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 522. HP Atual: 33512
+22:10:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 626. HP Atual: 33401
+22:10:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 516. HP Atual: 30159
+22:10:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 522. HP Atual: 31163
+22:10:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 516. HP Atual: 24083
+22:11:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 542. HP Atual: 31776
+22:11:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 672. HP Atual: 30964
+22:11:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 575. HP Atual: 23508
+22:11:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 462. HP Atual: 33050
+22:11:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 411. HP Atual: 32990
+22:11:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 377. HP Atual: 30786
+22:11:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 301. HP Atual: 29858
+22:11:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 278. HP Atual: 34519
+22:11:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 204. HP Atual: 34365
+22:11:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 608. HP Atual: 30101
+22:11:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 535. HP Atual: 22973
+22:11:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 504. HP Atual: 32546
+22:11:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 387. HP Atual: 32603
+22:11:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 322. HP Atual: 30464
+22:11:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 302. HP Atual: 29556
+22:11:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 246. HP Atual: 34119
+22:11:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 548. HP Atual: 29421
+22:11:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 527. HP Atual: 33992
+22:11:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 571. HP Atual: 31975
+22:11:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 533. HP Atual: 32070
+22:11:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 516. HP Atual: 29040
+22:11:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 620. HP Atual: 29844
+22:11:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 533. HP Atual: 22440
+22:11:05 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 591. HP Atual: 28472
+22:11:06 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 631. HP Atual: 27589
+22:11:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 516. HP Atual: 26856
+22:11:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 570. HP Atual: 26069
+22:11:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 642. HP Atual: 25192
+22:11:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 21843
+22:11:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 505. HP Atual: 31470
+22:11:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 424. HP Atual: 31646
+22:11:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 356. HP Atual: 29488
+22:11:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 307. HP Atual: 28733
+22:11:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 281. HP Atual: 33711
+22:11:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 188. HP Atual: 33931
+22:11:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 520. HP Atual: 24455
+22:11:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 559. HP Atual: 21284
+22:11:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 421. HP Atual: 31049
+22:11:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 402. HP Atual: 31244
+22:11:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 354. HP Atual: 29134
+22:11:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 308. HP Atual: 28425
+22:11:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 238. HP Atual: 33693
+22:11:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 531. HP Atual: 23687
+22:11:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 609. HP Atual: 33102
+22:11:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 626. HP Atual: 30423
+22:11:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 544. HP Atual: 30700
+22:11:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 620. HP Atual: 27805
+22:11:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 587. HP Atual: 28547
+22:11:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 604. HP Atual: 20680
+22:11:12 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 546. HP Atual: 22910
+22:11:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 571. HP Atual: 22106
+22:11:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 614. HP Atual: 21353
+22:11:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 595. HP Atual: 20616
+22:11:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 581. HP Atual: 20099
+22:11:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 462. HP Atual: 29961
+22:11:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 420. HP Atual: 30280
+22:11:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 413. HP Atual: 28134
+22:11:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 324. HP Atual: 27481
+22:11:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 276. HP Atual: 32826
+22:11:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 218. HP Atual: 33475
+22:11:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 574. HP Atual: 19910
+22:11:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 535. HP Atual: 19564
+22:11:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 460. HP Atual: 29501
+22:11:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 421. HP Atual: 29859
+22:11:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 341. HP Atual: 27793
+22:11:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 291. HP Atual: 27190
+22:11:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 255. HP Atual: 33220
+22:11:17 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 612. HP Atual: 19059
+22:11:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 608. HP Atual: 18318
+22:11:19 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 598. HP Atual: 17491
+22:11:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 544. HP Atual: 32282
+22:11:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 620. HP Atual: 28881
+22:11:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 598. HP Atual: 29261
+22:11:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 582. HP Atual: 26608
+22:11:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 587. HP Atual: 27206
+22:11:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 593. HP Atual: 18971
+22:11:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 608. HP Atual: 16749
+22:11:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 577. HP Atual: 15937
+22:11:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 565. HP Atual: 18406
+22:11:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 514. HP Atual: 28367
+22:11:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 403. HP Atual: 28858
+22:11:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 384. HP Atual: 26822
+22:11:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 333. HP Atual: 26275
+22:11:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 262. HP Atual: 32020
+22:11:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 199. HP Atual: 33021
+22:11:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 613. HP Atual: 15099
+22:11:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 544. HP Atual: 17862
+22:11:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 421. HP Atual: 27946
+22:11:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 371. HP Atual: 28487
+22:11:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 377. HP Atual: 26445
+22:11:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 308. HP Atual: 25967
+22:11:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 262. HP Atual: 32759
+22:11:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 547. HP Atual: 14325
+22:11:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 625. HP Atual: 13566
+22:11:25 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 609. HP Atual: 12736
+22:11:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 614. HP Atual: 11907
+22:11:27 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 630. HP Atual: 11032
+22:11:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 533. HP Atual: 17329
+22:11:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 538. HP Atual: 27408
+22:11:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 432. HP Atual: 28055
+22:11:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 399. HP Atual: 26046
+22:11:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 345. HP Atual: 25622
+22:11:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 255. HP Atual: 31765
+22:11:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 201. HP Atual: 32558
+22:11:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 615. HP Atual: 31150
+22:11:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 533. HP Atual: 26875
+22:11:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 609. HP Atual: 27446
+22:11:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 560. HP Atual: 25062
+22:11:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 576. HP Atual: 25470
+22:11:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 533. HP Atual: 16796
+22:11:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 10496
+22:11:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 539. HP Atual: 16257
+22:11:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 430. HP Atual: 26445
+22:11:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 368. HP Atual: 27078
+22:11:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 371. HP Atual: 25099
+22:11:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 324. HP Atual: 24738
+22:11:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 235. HP Atual: 32323
+22:11:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 520. HP Atual: 9728
+22:11:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 591. HP Atual: 8898
+22:11:32 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 625. HP Atual: 8030
+22:11:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 564. HP Atual: 7232
+22:11:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 554. HP Atual: 6461
+22:11:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 506. HP Atual: 15751
+22:11:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 490. HP Atual: 25955
+22:11:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 449. HP Atual: 26629
+22:11:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 381. HP Atual: 24718
+22:11:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 348. HP Atual: 24390
+22:11:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 250. HP Atual: 30900
+22:11:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 186. HP Atual: 32137
+22:11:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 5655
+22:11:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 544. HP Atual: 15207
+22:11:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 438. HP Atual: 25517
+22:11:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 429. HP Atual: 26200
+22:11:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 328. HP Atual: 24390
+22:11:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 302. HP Atual: 24088
+22:11:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 220. HP Atual: 31917
+22:11:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 553. HP Atual: 4877
+22:11:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 576. HP Atual: 30324
+22:11:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 544. HP Atual: 24973
+22:11:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 516. HP Atual: 25684
+22:11:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 549. HP Atual: 23539
+22:11:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 571. HP Atual: 23819
+22:11:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 566. HP Atual: 14641
+22:11:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 580. HP Atual: 4064
+22:11:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 521. HP Atual: 3186
+22:11:41 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 625. HP Atual: 2561
+22:11:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 571. HP Atual: 1990
+22:11:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 14044
+22:11:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 453. HP Atual: 24520
+22:11:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 457. HP Atual: 25227
+22:11:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 356. HP Atual: 23463
+22:11:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 330. HP Atual: 23209
+22:11:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 278. HP Atual: 30046
+22:11:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 216. HP Atual: 31701
+22:11:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 580. HP Atual: 1410
+22:11:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 481. HP Atual: 13563
+22:11:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 438. HP Atual: 41562
+22:11:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 429. HP Atual: 24091
+22:11:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 332. HP Atual: 24895
+22:11:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 299. HP Atual: 23164
+22:11:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 255. HP Atual: 22954
+22:11:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 179. HP Atual: 31522
+22:11:44 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 618. HP Atual: 792
+22:11:44 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 527. HP Atual: 29519
+22:11:44 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 538. HP Atual: 23553
+22:11:44 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 620. HP Atual: 24275
+22:11:44 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 620. HP Atual: 22334
+22:11:44 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 593. HP Atual: 22571
+22:11:44 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 544. HP Atual: 13019
+22:11:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 631. HP Atual: 161
+22:11:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 549. HP Atual: 0
+22:11:46 : [Shaaaaari] - Matou o mob LichCruntKing. GenerID: 175
+22:11:54 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 587. HP Atual: 41413
+22:11:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 619. HP Atual: 40794
+22:11:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 602. HP Atual: 41398
+22:11:58 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 15. Distância 2: 15. Range: 9. SkillId: 39
+22:11:59 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 542. HP Atual: 40252
+22:12:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 591. HP Atual: 39661
+22:12:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 582. HP Atual: 40816
+22:12:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 546. HP Atual: 39115
+22:12:05 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 516. HP Atual: 38335
+22:12:06 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 554. HP Atual: 37543
+22:12:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 560. HP Atual: 40256
+22:12:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 554. HP Atual: 35533
+22:12:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 537. HP Atual: 34766
+22:12:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 560. HP Atual: 39696
+22:12:17 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 570. HP Atual: 33722
+22:12:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 33022
+22:12:19 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 533. HP Atual: 32347
+22:12:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 587. HP Atual: 31544
+22:12:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 631. HP Atual: 30662
+22:12:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 613. HP Atual: 29815
+22:12:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 580. HP Atual: 29002
+22:12:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 555. HP Atual: 39141
+22:12:25 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 28193
+22:12:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 615. HP Atual: 27447
+22:12:27 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 554. HP Atual: 26640
+22:12:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 572. HP Atual: 25842
+22:12:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 24992
+22:12:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 548. HP Atual: 24189
+22:12:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 23483
+22:12:32 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 533. HP Atual: 22699
+22:12:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 571. HP Atual: 38570
+22:12:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 537. HP Atual: 21938
+22:12:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 566. HP Atual: 21137
+22:12:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 526. HP Atual: 20385
+22:12:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 602. HP Atual: 19541
+22:12:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 637. HP Atual: 18762
+22:12:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 593. HP Atual: 17914
+22:12:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 587. HP Atual: 17083
+22:12:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 560. HP Atual: 16279
+22:12:41 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 604. HP Atual: 37966
+22:12:41 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 619. HP Atual: 15522
+22:12:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 586. HP Atual: 14716
+22:12:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 13897
+22:12:44 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 626. HP Atual: 13031
+22:12:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 548. HP Atual: 12234
+22:12:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 672. HP Atual: 11336
+22:12:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 520. HP Atual: 10680
+22:12:48 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 515. HP Atual: 9916
+22:12:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 533. HP Atual: 37433
+22:12:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 9113
+22:12:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 549. HP Atual: 8428
+22:12:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 548. HP Atual: 7739
+22:12:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 642. HP Atual: 6848
+22:12:53 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 559. HP Atual: 6289
+22:12:54 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 5549
+22:12:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 631. HP Atual: 4696
+22:12:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 544. HP Atual: 3932
+22:12:57 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 620. HP Atual: 36813
+22:12:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 591. HP Atual: 2872
+22:13:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 618. HP Atual: 1888
+22:13:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 535. HP Atual: 1219
+22:13:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 555. HP Atual: 431
+22:13:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 609. HP Atual: 0
+22:13:03 : [Shaaaaari] - Matou o mob LichCruntKing. GenerID: 175
+22:13:09 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 11. Distância 2: 15. Range: 8. SkillId: 32
+22:13:14 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 16. Distância 2: 16. Range: 8. SkillId: 32
+22:13:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 580. HP Atual: 41420
+22:13:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 533. HP Atual: 40887
+22:13:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 571. HP Atual: 40316
+22:13:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 531. HP Atual: 39785
+22:13:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 613. HP Atual: 39172
+22:13:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 613. HP Atual: 38559
+22:13:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 591. HP Atual: 37838
+22:13:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 587. HP Atual: 37116
+22:13:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 620. HP Atual: 36496
+22:13:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 582. HP Atual: 35777
+22:13:32 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 631. HP Atual: 35146
+22:13:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 625. HP Atual: 34283
+22:13:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 608. HP Atual: 33544
+22:13:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 570. HP Atual: 32739
+22:13:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 575. HP Atual: 32030
+22:13:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 549. HP Atual: 31345
+22:13:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 582. HP Atual: 30545
+22:13:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 625. HP Atual: 29920
+22:13:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 601. HP Atual: 29176
+22:13:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 520. HP Atual: 28522
+22:13:41 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 548. HP Atual: 27839
+22:13:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 592. HP Atual: 27013
+22:13:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 527. HP Atual: 26246
+22:13:44 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 542. HP Atual: 25453
+22:13:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 648. HP Atual: 24589
+22:13:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 593. HP Atual: 23770
+22:13:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 564. HP Atual: 23206
+22:13:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 618. HP Atual: 22346
+22:13:48 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 603. HP Atual: 21490
+22:13:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 609. HP Atual: 20624
+22:13:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 526. HP Atual: 19858
+22:13:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 554. HP Atual: 19082
+22:13:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 624. HP Atual: 18316
+22:13:53 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 564. HP Atual: 17514
+22:13:54 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 560. HP Atual: 16954
+22:13:54 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 609. HP Atual: 16123
+22:13:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 626. HP Atual: 15251
+22:13:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 609. HP Atual: 14414
+22:13:57 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 631. HP Atual: 13563
+22:13:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 624. HP Atual: 12682
+22:13:59 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 618. HP Atual: 11829
+22:14:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 11125
+22:14:01 : [Shaaaaari] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+22:14:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 593. HP Atual: 10279
+22:14:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 609. HP Atual: 9670
+22:14:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 609. HP Atual: 8819
+22:14:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 648. HP Atual: 8040
+22:14:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 526. HP Atual: 7296
+22:14:05 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 586. HP Atual: 6494
+22:14:06 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 563. HP Atual: 5687
+22:14:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 538. HP Atual: 4913
+22:14:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 592. HP Atual: 4321
+22:14:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 613. HP Atual: 3577
+22:14:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 522. HP Atual: 2806
+22:14:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 575. HP Atual: 2231
+22:14:12 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 537. HP Atual: 1457
+22:14:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 609. HP Atual: 848
+22:14:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 560. HP Atual: 288
+22:14:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 620. HP Atual: 0
+22:14:15 : [Shaaaaari] - Matou o mob LichCruntKing. GenerID: 175
+22:14:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 566. HP Atual: 41434
+22:14:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 520. HP Atual: 40914
+22:14:25 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 607. HP Atual: 40307
+22:14:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 604. HP Atual: 39703
+22:14:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 637. HP Atual: 39066
+22:14:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 598. HP Atual: 38240
+22:14:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 526. HP Atual: 37580
+22:14:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 625. HP Atual: 36733
+22:14:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 528. HP Atual: 41472
+22:14:32 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 575. HP Atual: 35705
+22:14:32 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 481. HP Atual: 40991
+22:14:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 564. HP Atual: 34915
+22:14:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 620. HP Atual: 34063
+22:14:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 544. HP Atual: 33519
+22:14:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 538. HP Atual: 40453
+22:14:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 626. HP Atual: 32750
+22:14:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 554. HP Atual: 31970
+22:14:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 607. HP Atual: 31363
+22:14:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 517. HP Atual: 39936
+22:14:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 624. HP Atual: 30609
+22:14:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 471. HP Atual: 39465
+22:14:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 521. HP Atual: 29948
+22:14:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 546. HP Atual: 29402
+22:14:41 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 538. HP Atual: 28729
+22:14:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 592. HP Atual: 27911
+22:14:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 560. HP Atual: 27119
+22:14:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 626. HP Atual: 38839
+22:14:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 666. HP Atual: 26453
+22:14:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 538. HP Atual: 38301
+22:14:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 619. HP Atual: 25203
+22:14:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 500. HP Atual: 37801
+22:14:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 515. HP Atual: 24454
+22:14:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 535. HP Atual: 23777
+22:14:48 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 587. HP Atual: 23060
+22:14:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 542. HP Atual: 22380
+22:14:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 560. HP Atual: 21586
+22:14:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 576. HP Atual: 37225
+22:14:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 642. HP Atual: 20944
+22:14:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 602. HP Atual: 36623
+22:14:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 510. HP Atual: 20054
+22:14:53 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 614. HP Atual: 19298
+22:14:54 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 560. HP Atual: 18502
+22:14:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 554. HP Atual: 17704
+22:14:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 566. HP Atual: 17002
+22:14:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 506. HP Atual: 36117
+22:14:57 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 16262
+22:14:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 525. HP Atual: 35592
+22:14:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 555. HP Atual: 15707
+22:14:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 571. HP Atual: 35021
+22:14:59 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 515. HP Atual: 15051
+22:15:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 631. HP Atual: 14198
+22:15:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 566. HP Atual: 13392
+22:15:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 587. HP Atual: 12579
+22:15:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 666. HP Atual: 11913
+22:15:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 549. HP Atual: 34472
+22:15:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 559. HP Atual: 41441
+22:15:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 495. HP Atual: 33977
+22:15:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 491. HP Atual: 11280
+22:15:05 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 526. HP Atual: 10505
+22:15:06 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 614. HP Atual: 9642
+22:15:06 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 576. HP Atual: 8844
+22:15:06 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 555. HP Atual: 33422
+22:15:06 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 560. HP Atual: 40881
+22:15:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 593. HP Atual: 8251
+22:15:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 603. HP Atual: 7648
+22:15:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 560. HP Atual: 7088
+22:15:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 565. HP Atual: 32857
+22:15:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 519. HP Atual: 40362
+22:15:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 526. HP Atual: 6562
+22:15:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 466. HP Atual: 32391
+22:15:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 500. HP Atual: 39862
+22:15:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 570. HP Atual: 5992
+22:15:12 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 603. HP Atual: 5389
+22:15:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 527. HP Atual: 4862
+22:15:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 531. HP Atual: 4331
+22:15:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 533. HP Atual: 3798
+22:15:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 522. HP Atual: 31869
+22:15:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 604. HP Atual: 39258
+22:15:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 625. HP Atual: 3173
+22:15:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 543. HP Atual: 31326
+22:15:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 457. HP Atual: 38801
+22:15:15 : [Shaaaaari] - Teleportado para a posição 3298 1686
+22:17:46 : [Shaaaaari] - Comando "/gm +item 5134"
+22:17:46 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Pista_de_Runas
+22:17:46 : [Shaaaaari] - Shaaaaari criou o item Pista_de_Runas [5134] [0 0 0 0 0 0]
+22:17:48 : [Shaaaaari] - Clicado no NPC [Uxmal]. Face 11. Race: 3. GenerateId: 3762. Posição do usuário: 3296x 1692y. Posição do NPC: 3296x 1696y
+22:17:48 : [Shaaaaari] - Pista de Runas 0 registrada. Shaaaaari
+22:17:48 : [Shaaaaari] - Pista de Runas +0 - 0 - Shaaari
+22:18:01 : [Shaaaaari] - [Mensagem do servidor]> Compra concluída!
+22:20:01 : [Shaaaaari] - Teleportado para a posição 3349 1654
+22:20:01 : [Shaaaaari] - Teleportado para pista 0 - 3350x 1655x
+22:20:01 : [Shaaaaari] - Grupo com Shaaari(ADMIN4) para a pista +0
+Grupo com Shaaaaari(ADMIN6) para a pista +0
+
+22:20:47 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7141. HP Atual: 22859
+22:20:47 : [Shaaaaari] - Removido o Hp do mob Elfo Lutador. HP removido: 7285. HP Atual: 22715
+22:20:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 622. HP Atual: 41378
+22:20:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 601. HP Atual: 40777
+22:20:57 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 40208
+22:20:58 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 529. HP Atual: 39679
+22:21:00 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 69. HP Atual: 39610
+22:21:01 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 70. HP Atual: 39540
+22:21:02 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 43. HP Atual: 39497
+22:21:03 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 575. HP Atual: 38922
+22:21:05 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 513. HP Atual: 38409
+22:21:06 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 572. HP Atual: 37680
+22:21:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 586. HP Atual: 36856
+22:21:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 540. HP Atual: 36056
+22:21:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 634. HP Atual: 35163
+22:21:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 535. HP Atual: 34469
+22:21:11 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 622. HP Atual: 33693
+22:21:12 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 647. HP Atual: 32773
+22:21:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 564. HP Atual: 32057
+22:21:14 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 613. HP Atual: 31189
+22:21:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 593. HP Atual: 30434
+22:21:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 546. HP Atual: 29733
+22:21:17 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 524. HP Atual: 29046
+22:21:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 544. HP Atual: 28246
+22:21:19 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 27411
+22:21:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 579. HP Atual: 26552
+22:21:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 569. HP Atual: 25727
+22:21:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 617. HP Atual: 24951
+22:21:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 617. HP Atual: 24063
+22:21:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 555. HP Atual: 23235
+22:21:25 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 547. HP Atual: 22434
+22:21:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 590. HP Atual: 21583
+22:21:27 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 611. HP Atual: 20720
+22:21:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 568. HP Atual: 19883
+22:21:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 551. HP Atual: 19171
+22:21:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 635. HP Atual: 18294
+22:21:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 525. HP Atual: 17505
+22:21:32 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 574. HP Atual: 16766
+22:21:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 593. HP Atual: 16017
+22:21:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 606. HP Atual: 15250
+22:21:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 590. HP Atual: 14398
+22:21:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 538. HP Atual: 13599
+22:21:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 12731
+22:21:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 535. HP Atual: 11946
+22:21:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 623. HP Atual: 11069
+22:21:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 535. HP Atual: 10369
+22:21:41 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 622. HP Atual: 9492
+22:21:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 601. HP Atual: 8727
+22:21:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 553. HP Atual: 8016
+22:21:44 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 568. HP Atual: 7210
+22:21:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 658. HP Atual: 6396
+22:21:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 573. HP Atual: 5671
+22:21:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 595. HP Atual: 4814
+22:21:48 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 578. HP Atual: 3980
+22:21:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 525. HP Atual: 3293
+22:21:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 590. HP Atual: 2539
+22:21:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 664. HP Atual: 1625
+22:21:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 573. HP Atual: 891
+22:21:53 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 590. HP Atual: 147
+22:22:04 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 595. HP Atual: 41405
+22:22:06 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 40847
+22:22:07 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 551. HP Atual: 40296
+22:22:08 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 630. HP Atual: 39666
+22:22:09 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 590. HP Atual: 39076
+22:22:10 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 624. HP Atual: 38298
+22:22:12 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 586. HP Atual: 37450
+22:22:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 624. HP Atual: 36674
+22:22:13 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 623. HP Atual: 35624
+22:22:15 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 546. HP Atual: 34807
+22:22:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 590. HP Atual: 33937
+22:22:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 613. HP Atual: 33324
+22:22:16 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 595. HP Atual: 32489
+22:22:18 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 602. HP Atual: 31632
+22:22:19 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 563. HP Atual: 30915
+22:22:20 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 676. HP Atual: 29966
+22:22:21 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 518. HP Atual: 29175
+22:22:22 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 546. HP Atual: 28467
+22:22:23 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 635. HP Atual: 27572
+22:22:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 520. HP Atual: 26895
+22:22:24 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 26337
+22:22:25 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 590. HP Atual: 25747
+22:22:26 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 652. HP Atual: 24855
+22:22:27 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 595. HP Atual: 23994
+22:22:28 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 541. HP Atual: 23209
+22:22:29 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 584. HP Atual: 22370
+22:22:30 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 536. HP Atual: 21578
+22:22:31 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 590. HP Atual: 20729
+22:22:32 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 587. HP Atual: 19979
+22:22:32 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 619. HP Atual: 19360
+22:22:33 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 584. HP Atual: 18526
+22:22:34 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 513. HP Atual: 17850
+22:22:35 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 630. HP Atual: 16959
+22:22:36 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 619. HP Atual: 16090
+22:22:37 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 563. HP Atual: 15371
+22:22:38 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 557. HP Atual: 14650
+22:22:39 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 551. HP Atual: 13828
+22:22:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 595. HP Atual: 13071
+22:22:40 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 520. HP Atual: 12551
+22:22:41 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 584. HP Atual: 11812
+22:22:42 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 558. HP Atual: 11004
+22:22:43 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 607. HP Atual: 10243
+22:22:44 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 563. HP Atual: 9421
+22:22:45 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 573. HP Atual: 8848
+22:22:46 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 551. HP Atual: 8051
+22:22:47 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 647. HP Atual: 7162
+22:22:48 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 542. HP Atual: 6459
+22:22:48 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 586. HP Atual: 5873
+22:22:49 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 635. HP Atual: 5238
+22:22:50 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 670. HP Atual: 4304
+22:22:51 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 579. HP Atual: 3725
+22:22:52 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 573. HP Atual: 2896
+22:22:53 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 550. HP Atual: 2346
+22:22:54 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 597. HP Atual: 1749
+22:22:55 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 524. HP Atual: 987
+22:22:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 593. HP Atual: 394
+22:22:56 : [Shaaaaari] - Removido o Hp do mob LichCruntKing. HP removido: 630. HP Atual: 0
+22:22:56 : [Shaaaaari] - Matou o mob LichCruntKing. GenerID: 175
+22:22:56 : [Shaaaaari] - Recebeu a runa Fehu. Sala 0 ( 5113 )
+22:23:08 : [Shaaaaari] - Moveu item Pista_de_Runas [5134] [43 1 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo INVENTÁRIO slot 5
+22:27:15 : [Shaaaaari] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shaaaaari
+Gold atual: 19417
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:29:41 horas
+Posição atual: 3440x 1636y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[27] [43 0 27 2 1 1]
+[01] - Cythera_Arcana[3507] [43 250 0 0 0 0]
+[02] - Armadura[1506] [43 253 60 20 0 0]
+[03] - Calça[1507] [43 253 60 20 0 0]
+[04] - Luvas[1508] [43 253 60 20 0 0]
+[05] - Botas[1509] [43 253 60 20 0 0]
+[06] - Eirenus(Anct)[2866] [43 253 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Tigre_de_Fogo[2379] [24 121 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Resto_de_Oriharucon[419] [59 112 59 34 202 50]
+[01] - Frango_Assado[3314] [61 9 0 0 0 0]
+[02] - Ração_de_Tigre_de_Fogo[2427] [96 1 61 119 0 0]
+[03] - Fehu[5113] [0 0 0 0 0 0]
+[05] - Pista_de_Runas[5134] [43 1 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 7 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 7 110 3 109 121]
+[63] - Marca_do_Assassino[547] [84 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN4]	USER_PLAY	[Shaaari] (level: 199 ev: 2)	
+
+22:28:02 : [Shaaaaari] - ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:28:02 : [Shaaaaari] - 3 Personagem foi desconectado. Permaneceu 00:30:27 minutos online
+22:28:02 : [Shaaaaari] - Recebeu 19417 de gold em 8 mobs no total. Total de gold: 19417
+22:30:07 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.183.185 Mac: (0D:02:2C:B1:FF:4E). ClientId: 4
+22:30:07 : Usuário logou no jogo com clientId 4. - Servidor 2. Gold do banco: 0
+22:30:07 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+22:30:13 : Solicitou ir ao mundo...
+22:30:13 : Recebido pedido para entrar no jogo
+22:30:13 : Recebido informação do personagem completa.
+22:30:13 : [Shaaaaari] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shaaaaari
+Gold atual: 0
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2098x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[27] [43 0 27 2 1 1]
+[01] - Cythera_Arcana[3507] [43 250 0 0 0 0]
+[02] - Armadura[1506] [43 253 60 20 0 0]
+[03] - Calça[1507] [43 253 60 20 0 0]
+[04] - Luvas[1508] [43 253 60 20 0 0]
+[05] - Botas[1509] [43 253 60 20 0 0]
+[06] - Eirenus(Anct)[2866] [43 253 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Tigre_de_Fogo[2379] [24 121 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Resto_de_Oriharucon[419] [59 112 59 34 202 50]
+[01] - Frango_Assado[3314] [61 9 0 0 0 0]
+[02] - Ração_de_Tigre_de_Fogo[2427] [96 1 61 119 0 0]
+[03] - Fehu[5113] [0 0 0 0 0 0]
+[05] - Pista_de_Runas[5134] [43 1 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 7 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 7 110 3 109 121]
+[63] - Marca_do_Assassino[547] [84 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:30:13 : [Shaaaaari] - Personagem Shaaaaari enviado ao mundo 2098x 2103y - Canal 2 - Cash da conta: 8379. PowerLevel: 12220
+22:30:13 : [Shaaaaari] - Gold atual: 0. Classe: 1 Evolução: 2. Experiência: 4000000000. Nível: 199. Info: 496. GuildID: 0. CP: 9. Pontos de Contribuição: 0. Limite: 0
+22:30:13 : [Shaaaaari] - Logou no personagem Shaaaaari com poção divina ativo. Validade: 7/3/2021 20:30:24
+22:30:13 : [Shaaaaari] - Logou no personagem Shaaaaari com frango ativo. Tempo: 1640
+22:30:13 : [Shaaaaari] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+22:30:13 : [Shaaaaari] - Enviado informações do personagem
+22:30:14 : [Shaaaaari] - Comando "/day "
+22:30:14 : [Shaaaaari] - [Mensagem do servidor]> !#11 2
+22:30:19 : [Shaaaaari] - ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:30:20 : [Shaaaaari] - 4 Personagem foi desconectado. Permaneceu 00:00:12 minutos online
+22:30:32 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.183.185 Mac: (0D:02:2C:B1:FF:4E). ClientId: 4
+22:30:32 : Usuário logou no jogo com clientId 4. - Servidor 2. Gold do banco: 0
+22:30:32 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+22:30:37 : Solicitou ir ao mundo...
+22:30:37 : Recebido pedido para entrar no jogo
+22:30:37 : Recebido informação do personagem completa.
+22:30:37 : [Shaaaaari] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shaaaaari
+Gold atual: 0
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2086x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[27] [43 0 27 2 1 1]
+[01] - Cythera_Arcana[3507] [43 250 0 0 0 0]
+[02] - Armadura[1506] [43 253 60 20 0 0]
+[03] - Calça[1507] [43 253 60 20 0 0]
+[04] - Luvas[1508] [43 253 60 20 0 0]
+[05] - Botas[1509] [43 253 60 20 0 0]
+[06] - Eirenus(Anct)[2866] [43 253 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Tigre_de_Fogo[2379] [24 121 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Resto_de_Oriharucon[419] [59 112 59 34 202 50]
+[01] - Frango_Assado[3314] [61 9 0 0 0 0]
+[02] - Ração_de_Tigre_de_Fogo[2427] [96 1 61 119 0 0]
+[03] - Fehu[5113] [0 0 0 0 0 0]
+[05] - Pista_de_Runas[5134] [43 1 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 7 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 7 110 3 109 121]
+[63] - Marca_do_Assassino[547] [84 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:30:37 : [Shaaaaari] - Personagem Shaaaaari enviado ao mundo 2086x 2094y - Canal 2 - Cash da conta: 8379. PowerLevel: 12220
+22:30:37 : [Shaaaaari] - Gold atual: 0. Classe: 1 Evolução: 2. Experiência: 4000000000. Nível: 199. Info: 496. GuildID: 0. CP: 9. Pontos de Contribuição: 0. Limite: 0
+22:30:37 : [Shaaaaari] - Logou no personagem Shaaaaari com poção divina ativo. Validade: 7/3/2021 20:30:24
+22:30:37 : [Shaaaaari] - Logou no personagem Shaaaaari com frango ativo. Tempo: 1639
+22:30:37 : [Shaaaaari] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+22:30:37 : [Shaaaaari] - Enviado informações do personagem
+22:30:38 : [Shaaaaari] - Comando "/day "
+22:30:38 : [Shaaaaari] - [Mensagem do servidor]> !#11 2
+22:30:47 : [Shaaaaari] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:30:59 : [Shaaaaari] - O login admin4 tentou logar na conta com o mesmo mac.
+22:34:07 : [Shaaaaari] - ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:34:07 : [Shaaaaari] - 4 Personagem foi desconectado. Permaneceu 00:03:31 minutos online

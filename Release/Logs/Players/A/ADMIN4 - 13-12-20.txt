@@ -1,0 +1,748 @@
+
+14:59:29 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.5.144.212 Mac: (E4:85:11:E9:7D:40). ClientId: 2
+14:59:29 : Conta LOSSNOIA logado na conta
+Status da conta: JOGANDO
+Personagem: wefwef
+
+14:59:29 : Usuário logou no jogo com clientId 2. - Servidor 1. Gold do banco: 123456789
+14:59:29 : [INFORMAÇÕES DO BANCO]
+Gold: 123456789
+
+14:59:30 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+[LOSSNOIA]	USER_PLAY	[wefwef] (level: 1010 ev: -1)	
+
+14:59:35 : Solicitou ir ao mundo...
+14:59:35 : Recebido pedido para entrar no jogo
+14:59:35 : Recebido informação do personagem completa.
+14:59:35 : [TEEKAAAA] - [INFORMAÇÕES DA CONTA]
+Personagem online: TEEKAAAA
+Gold atual: 373455189
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2089x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[06] - Lança_do_Triunfo[855] [0 0 0 0 0 0]
+[14] - Unicórnio[2381] [50 50 120 30 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Vibrant_Coins[3396] [96 55 96 39 0 0]
+[01] - Frango_Assado[3314] [61 9 0 0 0 0]
+[02] - Kit_de_Cura_(20_M.)[682] [61 10 0 0 0 0]
+[04] - Ração_de_Porco[2420] [61 115 0 0 0 0]
+[05] - Trombeta_Mágica[3330] [61 116 0 0 0 0]
+[13] - Lobo_Polar[3980] [106 3 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 6 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[LOSSNOIA]	USER_PLAY	[wefwef] (level: 1010 ev: -1)	
+
+14:59:35 : [TEEKAAAA] - Personagem TEEKAAAA enviado ao mundo 2089x 2100y - Canal 1 - Cash da conta: 88120. OverPower: 2560
+14:59:35 : [TEEKAAAA] - Gold atual: 373455189. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 3. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:59:35 : [TEEKAAAA] - Logou no personagem TEEKAAAA com poção divina ativo. Validade: 14/12/2020 19:39:22
+14:59:35 : [TEEKAAAA] - Logou no personagem TEEKAAAA com frango ativo. Tempo: 1683
+14:59:35 : [TEEKAAAA] - Resetado a contagem de entradas água! Day: 345-347. Total: 0
+14:59:35 : [TEEKAAAA] - Enviado informações do personagem
+14:59:36 : [TEEKAAAA] - Comando "/day "
+14:59:36 : [TEEKAAAA] - [Mensagem do servidor]> !#11 2
+14:59:51 : [TEEKAAAA] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:59:53 : [TEEKAAAA] - Moveu item Frango_Assado [3314] [61 9 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo BANCO slot 80
+14:59:55 : [TEEKAAAA] - Moveu item Ração_de_Porco [2420] [61 115 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo BANCO slot 85
+15:00:01 : [TEEKAAAA] - Informações dos itens da loja
+Nome da loja: 2evc3
+Posição criada: 2092x 2102
+Total de itens com valor superior a 10 milhões: 0
+[ITENS]
+Slot [85] - Ração_de_Porco [2420] [61 115 0 0 0 0]. Preço de 111
+
+15:00:24 : [TEEKAAAA] - O AutoTrade foi fechado
+15:01:02 : [TEEKAAAA] - Informações dos itens da loja
+Nome da loja: gtrgt
+Posição criada: 2089x 2102
+Total de itens com valor superior a 10 milhões: 0
+[ITENS]
+Slot [85] - Ração_de_Porco [2420] [61 115 0 0 0 0]. Preço de 1
+
+15:02:22 : [TEEKAAAA] - O AutoTrade foi fechado
+15:04:28 : [TEEKAAAA] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:04:28 : [TEEKAAAA] - 2 Personagem foi desconectado. Permaneceu 00:04:55 minutos online
+18:02:24 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 2
+18:02:24 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 123456789
+18:02:24 : [INFORMAÇÕES DO BANCO]
+Gold: 123456789
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 85] - Ração_de_Porco[2420] [61 115 0 0 0 0]
+
+18:02:24 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:02:40 : ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:02:40 : Personagem foi desconectado. Permaneceu 00:00:16 minutos online
+18:13:17 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+18:13:17 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 123456789
+18:13:17 : [INFORMAÇÕES DO BANCO]
+Gold: 123456789
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 85] - Ração_de_Porco[2420] [61 115 0 0 0 0]
+
+18:13:29 : Solicitou ir ao mundo...
+18:13:29 : Recebido pedido para entrar no jogo
+18:13:29 : Recebido informação do personagem completa.
+18:13:29 : [HTzin] - [INFORMAÇÕES DA CONTA]
+Personagem online: HTzin
+Gold atual: 9448
+Level atual: 19
+Experiência atual: 37345
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:12 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Huntress[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 8 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 8 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 8 0 0 0 0]
+[06] - Arco_Curto[816] [43 8 0 0 0 0]
+[14] - Porco[2360] [252 255 1 20 0 0]
+
+[INVENTÁRIO]
+[00] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[08] - Arco_de_Madeira[817] [43 0 26 15 74 9]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[12] - Lobo_Polar[3980] [106 3 0 0 0 0]
+[13] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[63] - Marca_do_Assassino[547] [132 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:13:29 : [HTzin] - Personagem HTzin enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 88120. OverPower: 240
+18:13:29 : [HTzin] - Gold atual: 9448. Classe: 3 Evolução: 0. Experiência: 37345. Nível: 19. Info: 0. GuildID: 0. CP: 57. Pontos de Contribuição: 0. Limite: 0
+18:13:29 : [HTzin] - Logou no personagem HTzin com poção divina ativo. Validade: 14/12/2020 19:39:22
+18:13:29 : [HTzin] - Enviado informações do personagem
+18:13:30 : [HTzin] - Comando "/day "
+18:13:30 : [HTzin] - [Mensagem do servidor]> !#11 2
+18:13:36 : [HTzin] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:14:14 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4421
+18:14:16 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4419
+18:14:17 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4423
+18:14:26 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4420
+18:14:32 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4419
+18:14:33 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4423
+18:14:33 : [HTzin] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2124x 2038y - Porco de Guerra (1/30)
+18:14:34 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4424
+18:14:36 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4425
+18:14:37 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4423
+18:14:37 : [HTzin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+18:15:56 : [HTzin] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:15:56 : [HTzin] - 1 Personagem foi desconectado. Permaneceu 00:02:37 minutos online
+18:16:37 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+18:16:37 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 123456789
+18:16:37 : [INFORMAÇÕES DO BANCO]
+Gold: 123456789
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 85] - Ração_de_Porco[2420] [61 115 0 0 0 0]
+
+18:16:47 : Solicitou ir ao mundo...
+18:16:47 : Recebido pedido para entrar no jogo
+18:16:47 : Recebido informação do personagem completa.
+18:16:47 : [TEEKAAAA] - [INFORMAÇÕES DA CONTA]
+Personagem online: TEEKAAAA
+Gold atual: 373455189
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2086x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 1 0 1 1]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[06] - Lança_do_Triunfo[855] [0 0 0 0 0 0]
+[14] - Unicórnio[2381] [50 50 120 30 0 0]
+
+[INVENTÁRIO]
+[00] - Barra_de_Vibrant_Coins[3396] [96 55 96 39 0 0]
+[02] - Kit_de_Cura_(20_M.)[682] [61 10 0 0 0 0]
+[05] - Trombeta_Mágica[3330] [61 116 0 0 0 0]
+[13] - Lobo_Polar[3980] [106 3 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 6 110 1 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:16:47 : [TEEKAAAA] - Personagem TEEKAAAA enviado ao mundo 2086x 2098y - Canal 2 - Cash da conta: 88120. OverPower: 2560
+18:16:47 : [TEEKAAAA] - Gold atual: 373455189. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 3. CP: 75. Pontos de Contribuição: 0. Limite: 0
+18:16:47 : [TEEKAAAA] - Logou no personagem TEEKAAAA com poção divina ativo. Validade: 14/12/2020 19:39:22
+18:16:47 : [TEEKAAAA] - Logou no personagem TEEKAAAA com frango ativo. Tempo: 1647
+18:16:47 : [TEEKAAAA] - Enviado informações do personagem
+18:16:47 : [TEEKAAAA] - Comando "/day "
+18:16:47 : [TEEKAAAA] - [Mensagem do servidor]> !#11 2
+18:17:00 : [TEEKAAAA] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:18:10 : [TEEKAAAA] - Comando "/gm +set 16 3204"
+18:18:15 : [TEEKAAAA] - Comando "/gm +set 16 3204"
+18:18:23 : [TEEKAAAA] - Comando "/gm +set 16 320"
+18:18:26 : [TEEKAAAA] - Comando "/gm +set 16 3201"
+18:18:27 : [TEEKAAAA] - Comando "/gm +set 16 3201"
+18:18:43 : [TEEKAAAA] - Comando "/gmgm +set 16 3200"
+18:18:43 : [TEEKAAAA] - [Mensagem do servidor]> Este personagem não está conectado.
+18:18:56 : [TEEKAAAA] - Comando "/gm +set 16 3200"
+18:19:02 : [TEEKAAAA] - Comando "/gm +set 16 2100"
+18:19:07 : [TEEKAAAA] - Comando "/gm +set 16 2101"
+18:19:31 : [TEEKAAAA] - Comando "/gm +set 16 3100"
+18:19:34 : [TEEKAAAA] - Comando "/gm +set 16 3101"
+18:19:41 : [TEEKAAAA] - Comando "/gm +set 16 3102"
+18:19:44 : [TEEKAAAA] - Comando "/gm +set 16 3103"
+18:19:47 : [TEEKAAAA] - Comando "/gm +set 16 3104"
+18:19:50 : [TEEKAAAA] - Comando "/gm +set 16 3102"
+18:20:01 : [TEEKAAAA] - Comando "/gm +set 16 3103"
+18:20:05 : [TEEKAAAA] - Moveu item Unicórnio [2381] [50 50 120 30 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 7
+18:20:11 : [TEEKAAAA] - Comando "/gm +set 16 3103"
+18:20:13 : [TEEKAAAA] - Comando "/gm +set 16 3101"
+18:20:45 : [TEEKAAAA] - Moveu item Unicórnio [2381] [50 50 120 30 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 14
+18:21:45 : [TEEKAAAA] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2123x 2107y
+18:21:45 : [TEEKAAAA] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+18:24:07 : [TEEKAAAA] - Comando "/gm +set 16 3101"
+18:24:09 : [TEEKAAAA] - Comando "/gm +set 16 3103"
+18:24:31 : [TEEKAAAA] - Personagem deu personagem
+18:24:36 : Solicitou ir ao mundo...
+18:24:36 : Recebido pedido para entrar no jogo
+18:24:36 : Recebido informação do personagem completa.
+18:24:36 : [HTzin] - [INFORMAÇÕES DA CONTA]
+Personagem online: HTzin
+Gold atual: 9448
+Level atual: 19
+Experiência atual: 38515
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:07:54 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Huntress[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral_de_Ferro(N)[1569] [43 8 0 0 0 0]
+[03] - Calça_de_Ferro(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 8 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 8 0 0 0 0]
+[06] - Arco_Curto[816] [43 8 0 0 0 0]
+[14] - Porco[2360] [252 255 1 20 0 0]
+
+[INVENTÁRIO]
+[00] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[01] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Arco_de_Madeira[817] [43 0 26 15 74 9]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[10] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[12] - Lobo_Polar[3980] [106 3 0 0 0 0]
+[13] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[63] - Marca_do_Assassino[547] [132 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:24:36 : [HTzin] - Personagem HTzin enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 98159. OverPower: 240
+18:24:36 : [HTzin] - Gold atual: 9448. Classe: 3 Evolução: 0. Experiência: 38515. Nível: 19. Info: 0. GuildID: 0. CP: 57. Pontos de Contribuição: 0. Limite: 0
+18:24:36 : [HTzin] - Logou no personagem HTzin com poção divina ativo. Validade: 14/12/2020 19:39:22
+18:24:36 : [HTzin] - Enviado informações do personagem
+18:24:37 : [HTzin] - Comando "/day "
+18:24:37 : [HTzin] - [Mensagem do servidor]> !#11 2
+18:24:48 : [HTzin] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:24:49 : [HTzin] - Comando "/gm +set 16 3101"
+18:24:55 : [HTzin] - Comando "/gm +set 16 3102"
+18:24:58 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4421
+18:24:59 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4419
+18:25:37 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4419
+18:25:45 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4424
+18:25:46 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4423
+18:25:49 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4423
+18:25:52 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4419
+18:25:54 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4424
+18:25:55 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4426
+18:25:55 : [HTzin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+18:25:56 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4425
+18:26:05 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:26:09 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4426
+18:26:10 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:26:14 : [HTzin] - Matou o mob Aguia. GenerID: 4434
+18:26:21 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:26:21 : [HTzin] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2126x 2023y - Porco de Guerra (1/30)
+18:26:23 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:26:24 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:26:24 : [HTzin] - Dropado item Calça_Pele_de_Animal(A) [1409] [43 0 71 70 2 24] em 2123x 2023y - Porco de Guerra (1/67)
+18:26:26 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:26:30 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4424
+18:26:30 : [HTzin] - Pontos CP subiu em 3. CP novo: 135
+18:26:30 : [HTzin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+18:26:30 : [HTzin] - Level UP para level 20. Ev: 0 - 2125x 2036y
+18:26:32 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4419
+18:26:32 : [HTzin] - AddCrackError, dam!= -2 -1 0 : 0
+18:26:32 : [HTzin] - CrackError - Points: 10 type: 20
+18:26:41 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4423
+18:26:48 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4426
+18:26:59 : [HTzin] - Moveu item Poção_de_Cura [400] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo INVENTÁRIO slot 6
+18:27:00 : [HTzin] - Moveu item Poção_de_Cura [400] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo INVENTÁRIO slot 1
+18:27:02 : [HTzin] - Moveu item Kit_de_Cura_(20_M.) [682] [61 20 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo INVENTÁRIO slot 1
+18:27:03 : [HTzin] - Moveu item Poção_de_Cura [400] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo INVENTÁRIO slot 1
+18:27:38 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4426
+18:27:39 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:27:40 : [HTzin] - Matou o mob Aguia. GenerID: 4433
+18:27:42 : [HTzin] - Matou o mob Aguia. GenerID: 4435
+18:27:43 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:27:45 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:27:46 : [HTzin] - Matou o mob Aguia. GenerID: 4434
+18:27:48 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4424
+18:27:48 : [HTzin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+18:27:49 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:27:51 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:27:52 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4426
+18:27:54 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4424
+18:27:55 : [HTzin] - Matou o mob Aguia. GenerID: 4435
+18:27:57 : [HTzin] - Matou o mob Aguia. GenerID: 4434
+18:27:58 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:27:58 : [HTzin] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2123x 2028y - Porco de Guerra (1/30)
+18:27:59 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4425
+18:28:00 : [HTzin] - Matou o mob Aguia. GenerID: 4435
+18:28:00 : [HTzin] - Dropado item Luvas_de_Seda(A) [1292] [43 0 72 20 60 6] em 2123x 2028y - Aguia (1/30)
+18:28:00 : [HTzin] - Dropado item Jaqueta_Acolchoada(A) [1556] [43 2 71 60 2 18] em 2123x 2028y - Aguia (1/30)
+18:28:01 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:28:02 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:28:02 : [HTzin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+18:28:02 : [HTzin] - Dropado item Jaqueta_Acolchoada(A) [1556] [10 11 71 50 59 0] em 2123x 2028y - Porco de Guerra (1/67)
+18:28:03 : [HTzin] - Matou o mob Aguia. GenerID: 4435
+18:28:04 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:28:06 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:28:07 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4426
+18:28:08 : [HTzin] - Matou o mob Aguia. GenerID: 4434
+18:28:10 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4425
+18:28:10 : [HTzin] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2123x 2028y - Porco de Guerra (1/30)
+18:28:12 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:28:14 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:28:15 : [HTzin] - Matou o mob Aguia. GenerID: 4435
+18:28:16 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:28:16 : [HTzin] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2123x 2028y - Porco de Guerra (1/30)
+18:28:17 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:28:18 : [HTzin] - Matou o mob Aguia. GenerID: 4434
+18:28:18 : [HTzin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+18:28:18 : [HTzin] - Dropado item Luvas_de_Seda(A) [1292] [4 49 72 30 74 15] em 2123x 2028y - Aguia (1/30)
+18:28:18 : [HTzin] - Dropado item Botas_de_Couro_Duro(A) [1154] [43 0 73 18 60 6] em 2123x 2028y - Aguia (1/30)
+18:28:19 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4426
+18:28:20 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4425
+18:28:24 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:28:25 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:28:27 : [HTzin] - Matou o mob Aguia. GenerID: 4435
+18:28:28 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:28:28 : [HTzin] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2123x 2028y - Porco de Guerra (1/30)
+18:28:28 : [HTzin] - Dropado item Calça_Acolchoada(A) [1559] [43 0 71 70 60 8] em 2123x 2028y - Porco de Guerra (1/89)
+18:28:29 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:28:31 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4425
+18:28:32 : [HTzin] - Matou o mob Aguia. GenerID: 4434
+18:28:34 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4426
+18:28:36 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:28:36 : [HTzin] - Pontos CP subiu em 3. CP novo: 138
+18:28:36 : [HTzin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+18:28:36 : [HTzin] - Level UP para level 21. Ev: 0 - 2123x 2028y
+18:28:38 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:28:39 : [HTzin] - Matou o mob Aguia. GenerID: 4434
+18:28:41 : [HTzin] - Matou o mob Aguia. GenerID: 4435
+18:28:42 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4436
+18:28:44 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:28:45 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4426
+18:28:48 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:28:50 : [HTzin] - Matou o mob Aguia. GenerID: 4435
+18:28:51 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:28:52 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:28:54 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4425
+18:28:55 : [HTzin] - Matou o mob Aguia. GenerID: 4434
+18:28:57 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:28:57 : [HTzin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+18:28:57 : [HTzin] - Dropado item Calça_Pele_de_Animal(A) [1409] [43 0 71 50 60 6] em 2123x 2028y - Porco de Guerra (1/67)
+18:28:58 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:29:00 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:29:02 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:29:03 : [HTzin] - Matou o mob Aguia. GenerID: 4435
+18:29:05 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:29:06 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:29:07 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4426
+18:29:10 : [HTzin] - Matou o mob Aguia. GenerID: 4434
+18:29:12 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:29:14 : [HTzin] - Matou o mob Aguia. GenerID: 4435
+18:29:15 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:29:16 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:29:16 : [HTzin] - Dropado item Calça_Pele_de_Animal(A) [1409] [11 23 3 20 2 18] em 2123x 2028y - Porco de Guerra (1/67)
+18:29:19 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:29:19 : [HTzin] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+18:29:20 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4424
+18:29:22 : [HTzin] - Matou o mob Aguia. GenerID: 4434
+18:29:22 : [HTzin] - Dropado item Sapatos_Pele_de_Animal(A) [1415] [43 0 73 30 74 12] em 2123x 2028y - Aguia (1/30)
+18:29:23 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4426
+18:29:24 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:29:26 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:29:27 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:29:29 : [HTzin] - Matou o mob Aguia. GenerID: 4434
+18:29:30 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4426
+18:29:32 : [HTzin] - Matou o mob Aguia. GenerID: 4435
+18:29:33 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:29:36 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:29:36 : [HTzin] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2123x 2028y - Porco de Guerra (1/30)
+18:29:37 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:29:38 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:29:38 : [HTzin] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+18:29:38 : [HTzin] - Dropado item Robe_Pele_de_Animal(A) [1406] [43 1 71 50 3 15] em 2123x 2028y - Porco de Guerra (1/67)
+18:29:39 : [HTzin] - Matou o mob Aguia. GenerID: 4434
+18:29:44 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4426
+18:29:46 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4424
+18:29:48 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:29:50 : [HTzin] - Matou o mob Aguia. GenerID: 4434
+18:29:50 : [HTzin] - Dropado item Botas_Acolchoadas(A) [1565] [43 0 73 18 60 10] em 2123x 2028y - Aguia (1/30)
+18:29:50 : [HTzin] - Dropado item Botas_de_Couro_Duro(A) [1154] [43 0 73 12 59 0] em 2123x 2028y - Aguia (1/30)
+18:29:51 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4425
+18:29:52 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4426
+18:29:53 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:29:53 : [HTzin] - Dropado item Calça_Acolchoada(A) [1559] [43 1 3 15 2 24] em 2123x 2028y - Porco de Guerra (1/89)
+18:29:58 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:29:59 : [HTzin] - Matou o mob Aguia. GenerID: 4436
+18:30:00 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4436
+18:30:01 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4436
+18:30:03 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4436
+18:30:03 : [HTzin] - Pontos CP subiu em 3. CP novo: 141
+18:30:03 : [HTzin] - [Mensagem do servidor]> + + + LEVEL UP + + +
+18:30:03 : [HTzin] - Level UP para level 22. Ev: 0 - 2118x 2023y
+18:30:04 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:30:05 : [HTzin] - Matou o mob Aguia. GenerID: 4435
+18:30:07 : [HTzin] - Matou o mob Aguia. GenerID: 4436
+18:30:07 : [HTzin] - Dropado item Chapéu_Pele_de_Animal(A) [1403] [43 0 59 0 4 50] em 2118x 2023y - Aguia (1/30)
+18:30:08 : [HTzin] - Matou o mob Aguia. GenerID: 4435
+18:30:09 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:30:12 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4436
+18:30:14 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4436
+18:30:15 : [HTzin] - Matou o mob Aguia. GenerID: 4436
+18:30:15 : [HTzin] - Dropado item Chapéu_Pele_de_Animal(A) [1403] [43 0 59 0 59 0] em 2118x 2023y - Aguia (1/30)
+18:30:16 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:30:17 : [HTzin] - Matou o mob Aguia. GenerID: 4435
+18:30:21 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:30:21 : [HTzin] - Dropado item Armadura_Couro_Duro(A) [1118] [43 2 71 40 60 4] em 2118x 2023y - Porco de Guerra (1/300)
+18:30:24 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4436
+18:30:26 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:30:27 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4435
+18:30:29 : [HTzin] - Matou o mob Aguia. GenerID: 4436
+18:30:30 : [HTzin] - Matou o mob Aguia. GenerID: 4435
+18:30:30 : [HTzin] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+18:30:34 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4434
+18:30:37 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4419
+18:30:40 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4417
+18:30:42 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4421
+18:30:43 : [HTzin] - Vendeu o item Luvas_de_Seda(A) [1292] [43 0 72 20 60 6] por 1615. Gold atual: 11063. Valor do imposto: 285
+18:30:43 : [HTzin] - Vendido item no NPC Ajudante
+18:30:46 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4415
+18:30:46 : [HTzin] - Vendeu o item Jaqueta_Acolchoada(A) [1556] [10 11 71 50 59 0] por 489. Gold atual: 11552. Valor do imposto: 86
+18:30:46 : [HTzin] - Vendido item no NPC Ajudante
+18:30:49 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4417
+18:30:50 : [HTzin] - Matou o mob Porco de Guerra. GenerID: 4415
+18:30:53 : [HTzin] - Moveu item Jaqueta_Acolchoada(A) [1556] [43 2 71 60 2 18] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 2
+18:31:17 : [HTzin] - [Mensagem do servidor]> Não possui espaço para negociar
+18:31:33 : [HTzin] - [Mensagem do servidor]> Não possui espaço para negociar
+18:31:37 : [HTzin] - Item Poção_de_Cura deletado [400] [0 0 0 0 0 0]. Slot 6
+18:31:39 : [HTzin] - Item Poção_de_Cura deletado [400] [0 0 0 0 0 0]. Slot 11
+18:31:39 : [HTzin] - Item Poção_de_Cura deletado [400] [0 0 0 0 0 0]. Slot 14
+18:31:45 : [HTzin] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+18:32:53 : [HTzin] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 17. Distância 2: 6. Range: 5.
+18:32:56 : [HTzin] - Matou o mob Gremlin. GenerID: 427
+18:32:57 : [HTzin] - Matou o mob Gremlin. GenerID: 419
+18:32:57 : [HTzin] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2191x 2093y - Gremlin (1/30)
+18:33:14 : [HTzin] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 3425. Posição do usuário: 2202x 2105y. Posição do NPC: 2204x 2106y
+18:33:45 : [HTzin] - Teleportado para a posição 960 1761
+18:34:05 : [HTzin] - Clicado no NPC [God Government]. Face 101. Race: 4. GenerateId: 3276. Posição do usuário: 1048x 1711y. Posição do NPC: 1051x 1713y
+18:39:20 : [HTzin] - CrackError - Points: 2 type: 20
+18:39:20 : [HTzin] - Clicado no NPC Kibita fora do range 2135x 2105y 1314x 1902y. Distância: 822
+18:39:22 : [HTzin] - CrackError - Points: 2 type: 20
+18:39:22 : [HTzin] - Clicado no NPC Kibita fora do range 2135x 2105y 1313x 1903y. Distância: 823
+18:39:23 : [HTzin] - CrackError - Points: 2 type: 20
+18:39:23 : [HTzin] - Clicado no NPC Kibita fora do range 2135x 2105y 1314x 1903y. Distância: 822
+18:39:24 : [HTzin] - CrackError - Points: 2 type: 20
+18:39:24 : [HTzin] - Clicado no NPC Kibita fora do range 2135x 2105y 1314x 1903y. Distância: 822
+18:39:28 : [HTzin] - CrackError - Points: 2 type: 20
+18:39:28 : [HTzin] - Clicado no NPC Kibita fora do range 2135x 2105y 1313x 1902y. Distância: 823
+18:39:41 : [HTzin] - Removido o Hp do mob Cav. Lugefer. HP removido: 0. HP Atual: 32000
+18:39:42 : [HTzin] - Removido o Hp do mob Cav. Lugefer. HP removido: 0. HP Atual: 32000
+18:39:43 : [HTzin] - Removido o Hp do mob Cav. Lugefer. HP removido: 0. HP Atual: 32000
+18:39:44 : [HTzin] - Removido o Hp do mob Cav. Lugefer. HP removido: 0. HP Atual: 32000
+18:39:45 : [HTzin] - Removido o Hp do mob Cav. Lugefer. HP removido: 0. HP Atual: 32000
+18:39:46 : [HTzin] - Removido o Hp do mob Cav. Lugefer. HP removido: 0. HP Atual: 32000
+18:39:47 : [HTzin] - Removido o Hp do mob Cav. Lugefer. HP removido: 0. HP Atual: 32000
+18:39:48 : [HTzin] - Removido o Hp do mob Cav. Lugefer. HP removido: 0. HP Atual: 32000
+18:39:49 : [HTzin] - Removido o Hp do mob Cav. Lugefer. HP removido: 0. HP Atual: 32000
+18:39:50 : [HTzin] - Removido o Hp do mob Cav. Lugefer. HP removido: 0. HP Atual: 32000
+18:39:51 : [HTzin] - Removido o Hp do mob Cav. Lugefer. HP removido: 0. HP Atual: 32000
+18:39:52 : [HTzin] - Removido o Hp do mob Cav. Lugefer. HP removido: 0. HP Atual: 32000
+18:39:53 : [HTzin] - Removido o Hp do mob Cav. Lugefer. HP removido: 0. HP Atual: 32000
+18:39:54 : [HTzin] - Removido o Hp do mob Cav. Lugefer. HP removido: 0. HP Atual: 32000
+18:39:55 : [HTzin] - Removido o Hp do mob Cav. Lugefer. HP removido: 0. HP Atual: 32000
+18:39:56 : [HTzin] - Removido o Hp do mob Cav. Lugefer. HP removido: 0. HP Atual: 32000
+18:40:59 : [HTzin] - Removido o Hp do mob Manticora. HP removido: 0. HP Atual: 32000
+18:41:00 : [HTzin] - Removido o Hp do mob Manticora. HP removido: 0. HP Atual: 32000
+18:41:01 : [HTzin] - Removido o Hp do mob Manticora. HP removido: 0. HP Atual: 32000
+18:41:02 : [HTzin] - Removido o Hp do mob Manticora. HP removido: 0. HP Atual: 32000
+18:41:03 : [HTzin] - Removido o Hp do mob Manticora. HP removido: 0. HP Atual: 32000
+18:41:04 : [HTzin] - Removido o Hp do mob Manticora. HP removido: 0. HP Atual: 32000
+18:41:05 : [HTzin] - Removido o Hp do mob Manticora. HP removido: 0. HP Atual: 32000
+18:41:06 : [HTzin] - Removido o Hp do mob Manticora. HP removido: 0. HP Atual: 32000
+18:41:07 : [HTzin] - Removido o Hp do mob Manticora. HP removido: 0. HP Atual: 32000
+18:41:08 : [HTzin] - Removido o Hp do mob Manticora. HP removido: 0. HP Atual: 32000
+18:41:09 : [HTzin] - Removido o Hp do mob Manticora. HP removido: 0. HP Atual: 32000
+18:41:27 : [HTzin] - Personagem deu personagem
+18:42:02 : Solicitou ir ao mundo...
+18:42:02 : Recebido pedido para entrar no jogo
+18:42:02 : Recebido informação do personagem completa.
+18:42:02 : [HTzin] - [INFORMAÇÕES DA CONTA]
+Personagem online: HTzin
+Gold atual: 10552
+Level atual: 22
+Experiência atual: 54891
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:25:07 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Huntress[31] [43 0 31 0 1 1]
+[01] - Chapéu_Acolchoado(A)[1553] [43 0 0 0 0 0]
+[02] - Jaqueta_Acolchoada(A)[1556] [43 2 71 60 2 18]
+[03] - Calça_de_Ferro(N)[1572] [43 8 0 0 0 0]
+[04] - Braçadeira_de_Ferro(N)[1575] [43 8 0 0 0 0]
+[05] - Botas_de_Ferro(N)[1578] [43 8 0 0 0 0]
+[06] - Arco_Curto[816] [43 8 0 0 0 0]
+[14] - Porco[2360] [252 255 1 20 0 0]
+[16] - [3102] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[01] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[02] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[03] - Calça_Pele_de_Animal(A)[1409] [43 0 71 70 2 24]
+[04] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[05] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[06] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[07] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[08] - Arco_de_Madeira[817] [43 0 26 15 74 9]
+[09] - Chave_da_Primeira_Porta[451] [0 0 0 0 0 0]
+[12] - Lobo_Polar[3980] [106 3 0 0 0 0]
+[13] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[15] - Luvas_de_Seda(A)[1292] [4 49 72 30 74 15]
+[16] - Botas_de_Couro_Duro(A)[1154] [43 0 73 18 60 6]
+[17] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[18] - Calça_Acolchoada(A)[1559] [43 0 71 70 60 8]
+[19] - Calça_Pele_de_Animal(A)[1409] [43 0 71 50 60 6]
+[20] - Calça_Pele_de_Animal(A)[1409] [11 23 3 20 2 18]
+[21] - Sapatos_Pele_de_Animal(A)[1415] [43 0 73 30 74 12]
+[22] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[23] - Robe_Pele_de_Animal(A)[1406] [43 1 71 50 3 15]
+[24] - Botas_Acolchoadas(A)[1565] [43 0 73 18 60 10]
+[25] - Botas_de_Couro_Duro(A)[1154] [43 0 73 12 59 0]
+[26] - Calça_Acolchoada(A)[1559] [43 1 3 15 2 24]
+[27] - Chapéu_Pele_de_Animal(A)[1403] [43 0 59 0 4 50]
+[28] - Chapéu_Pele_de_Animal(A)[1403] [43 0 59 0 59 0]
+[29] - Armadura_Couro_Duro(A)[1118] [43 2 71 40 60 4]
+[63] - Marca_do_Assassino[547] [141 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:42:02 : [HTzin] - Personagem HTzin enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 98159. OverPower: 216
+18:42:02 : [HTzin] - Gold atual: 10552. Classe: 3 Evolução: 0. Experiência: 54891. Nível: 22. Info: 0. GuildID: 0. CP: 66. Pontos de Contribuição: 0. Limite: 0
+18:42:02 : [HTzin] - Logou no personagem HTzin com poção divina ativo. Validade: 14/12/2020 19:39:22
+18:42:02 : [HTzin] - Enviado informações do personagem
+18:42:03 : [HTzin] - Comando "/day "
+18:42:03 : [HTzin] - [Mensagem do servidor]> !#11 2
+18:42:13 : [HTzin] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:42:33 : [HTzin] - Teleportado para a posição 2590 2098
+18:42:33 : [HTzin] - Solicitado teleporte na posição 2141x 2070y e teleportado para 2590x 2098y
+18:43:30 : [HTzin] - Teleportado para a posição 147 3776
+18:43:30 : [HTzin] - Solicitado teleporte na posição 2670x 2157y e teleportado para 147x 3776y
+18:43:37 : [HTzin] - Removido o Hp do mob Caveira. HP removido: 0. HP Atual: 3300
+18:43:38 : [HTzin] - Removido o Hp do mob Caveira. HP removido: 0. HP Atual: 3300
+18:50:36 : [HTzin] - Teleportado para a posição 1007 4064
+18:50:36 : [HTzin] - Solicitado teleporte na posição 409x 4073y e teleportado para 1007x 4064y
+18:55:41 : [HTzin] - Teleportado para a posição 917 3822
+18:55:41 : [HTzin] - Solicitado teleporte na posição 680x 4077y e teleportado para 917x 3822y
+18:56:46 : [HTzin] - Removido o Hp do mob Copper Dragon. HP removido: 0. HP Atual: 15000
+18:56:47 : [HTzin] - Removido o Hp do mob Copper Dragon. HP removido: 0. HP Atual: 15000
+18:56:48 : [HTzin] - Removido o Hp do mob Copper Dragon. HP removido: 1. HP Atual: 14999
+18:56:49 : [HTzin] - Removido o Hp do mob Copper Dragon. HP removido: 0. HP Atual: 14999
+18:56:50 : [HTzin] - Removido o Hp do mob Copper Dragon. HP removido: 0. HP Atual: 14999
+18:56:51 : [HTzin] - Removido o Hp do mob Copper Dragon. HP removido: 0. HP Atual: 14999
+18:56:52 : [HTzin] - Removido o Hp do mob Copper Dragon. HP removido: 1. HP Atual: 14998
+18:56:53 : [HTzin] - Removido o Hp do mob Copper Dragon. HP removido: 0. HP Atual: 14998
+18:58:56 : [HTzin] - Removido o Hp do mob Cav. Mortal. HP removido: 0. HP Atual: 28000
+18:58:57 : [HTzin] - Removido o Hp do mob Cav. Mortal. HP removido: 0. HP Atual: 28000
+18:58:58 : [HTzin] - Removido o Hp do mob Cav. Mortal. HP removido: 1. HP Atual: 27999
+18:59:48 : [HTzin] - Removido o Hp do mob Cav. Mortal. HP removido: 0. HP Atual: 28000
+18:59:49 : [HTzin] - Removido o Hp do mob Cav. Mortal. HP removido: 0. HP Atual: 28000
+19:00:29 : [HTzin] - Removido o Hp do mob Demon Lord. HP removido: 0. HP Atual: 30000
+19:00:30 : [HTzin] - Removido o Hp do mob Demon Lord. HP removido: 1. HP Atual: 29999
+19:00:31 : [HTzin] - Removido o Hp do mob Demon Lord. HP removido: 0. HP Atual: 29999
+19:00:32 : [HTzin] - Removido o Hp do mob Demon Lord. HP removido: 0. HP Atual: 29999
+19:00:33 : [HTzin] - Removido o Hp do mob Demon Lord. HP removido: 0. HP Atual: 29999
+19:00:34 : [HTzin] - Removido o Hp do mob Demon Lord. HP removido: 1. HP Atual: 29998
+19:00:35 : [HTzin] - Removido o Hp do mob Demon Lord. HP removido: 0. HP Atual: 29998
+19:00:36 : [HTzin] - Removido o Hp do mob Demon Lord. HP removido: 0. HP Atual: 29998
+19:00:37 : [HTzin] - Removido o Hp do mob Demon Lord. HP removido: 0. HP Atual: 29998
+19:00:38 : [HTzin] - Removido o Hp do mob Demon Lord. HP removido: 1. HP Atual: 29997
+19:00:47 : [HTzin] - Removido o Hp do mob Cav. Mortal. HP removido: 0. HP Atual: 28000
+19:00:49 : [HTzin] - Removido o Hp do mob Cav. Mortal. HP removido: 0. HP Atual: 28000
+19:01:50 : [HTzin] - Removido o Hp do mob Dragao Lich. HP removido: 0. HP Atual: 28340
+19:01:55 : [HTzin] - Removido o Hp do mob Dragao Lich. HP removido: 1. HP Atual: 28339
+19:02:10 : [HTzin] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+19:02:10 : [HTzin] - 1 Personagem foi desconectado. Permaneceu 00:44:59 minutos online
+23:58:35 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.5.144.220 Mac: (E4:85:11:E9:7D:40). ClientId: 2
+23:58:35 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 123456789
+23:58:35 : [INFORMAÇÕES DO BANCO]
+Gold: 123456789
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 85] - Ração_de_Porco[2420] [61 115 0 0 0 0]
+
+23:58:35 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:59:18 : Solicitou ir ao mundo...
+23:59:18 : Recebido pedido para entrar no jogo
+23:59:18 : Recebido informação do personagem completa.
+23:59:18 : [Do1Ao400] - [INFORMAÇÕES DA CONTA]
+Personagem online: Do1Ao400
+Gold atual: 1234
+Level atual: 1010
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:44 horas
+Posição atual: 2091x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[17] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 8 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 8 0 0 0 0]
+[04] - Luvas_de_Couro_Duro(N)[1140] [43 8 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 8 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Botas_Lupinas(N)[1428] [43 1 73 6 59 0]
+[01] - Sapatos_Pele_de_Animal(A)[1415] [43 0 73 12 59 0]
+[02] - Calça_Acolchoada(A)[1559] [43 1 3 20 2 24]
+[03] - Katana[939] [43 9 0 0 0 0]
+[04] - Chave_da_Segunda_Porta[452] [0 0 0 0 0 0]
+[05] - Chave_da_Ultima_Porta[453] [0 0 0 0 0 0]
+[06] - Âmago_de_Porco[2390] [61 20 43 9 0 0]
+[07] - Armadura_Couro_Duro(N)[1116] [43 8 0 0 0 0]
+[08] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[09] - Ração_de_Porco[2420] [61 120 0 0 0 0]
+[10] - Jaqueta_Acolchoada(N)[1554] [43 0 3 10 60 4]
+[11] - Katana[939] [43 9 0 0 0 0]
+[13] - Jaqueta_Acolchoada(A)[1556] [7 12 71 40 59 0]
+[14] - Emblema_Orc[524] [0 0 0 0 0 0]
+[29] - Foice_de_Argos[942] [43 9 0 0 0 0]
+[63] - Marca_do_Assassino[547] [129 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:59:18 : [Do1Ao400] - Personagem Do1Ao400 enviado ao mundo 2091x 2095y - Canal 2 - Cash da conta: 98159. OverPower: 2180
+23:59:18 : [Do1Ao400] - Gold atual: 1234. Classe: 0 Evolução: 0. Experiência: 0. Nível: 1010. Info: 0. GuildID: 0. CP: 54. Pontos de Contribuição: 0. Limite: 0
+23:59:18 : [Do1Ao400] - Logou no personagem Do1Ao400 com poção divina ativo. Validade: 14/12/2020 19:39:22
+23:59:18 : [Do1Ao400] - Enviado informações do personagem
+23:59:19 : [Do1Ao400] - Comando "/day "
+23:59:19 : [Do1Ao400] - [Mensagem do servidor]> !#11 2
+23:59:25 : [Do1Ao400] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2107x 2106y. Posição do NPC: 2110x 2110y
+23:59:35 : [Do1Ao400] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2108x 2112y. Posição do NPC: 2110x 2110y
+23:59:35 : [Do1Ao400] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress

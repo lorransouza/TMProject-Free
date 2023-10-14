@@ -1,0 +1,858 @@
+
+15:55:55 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+15:55:55 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 125805
+15:55:55 : [INFORMAÇÕES DO BANCO]
+Gold: 125805
+
+15:55:56 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:56:01 : Solicitou ir ao mundo...
+15:56:01 : Recebido pedido para entrar no jogo
+15:56:01 : Recebido informação do personagem completa.
+15:56:01 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997650900
+Level atual: 1010
+Experiência atual: 6600
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2091x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Porrete[801] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luna[910] [0 0 0 0 0 0]
+[01] - Espada_Larga[908] [0 0 0 0 0 0]
+[02] - Luna[910] [0 0 0 0 0 0]
+[03] - Lâmina_Dupla[909] [0 0 0 0 0 0]
+[04] - Solaris[911] [0 0 0 0 0 0]
+[05] - Espada_Longa[906] [0 0 0 0 0 0]
+[07] - Espada_Bastarda[907] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:56:01 : [ffff] - Personagem ffff enviado ao mundo 2091x 2099y - Canal 2 - Cash da conta: 0. OverPower: 2020
+15:56:01 : [ffff] - Gold atual: 997650900. Classe: 0 Evolução: 0. Experiência: 6600. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+15:56:01 : [ffff] - Resetado a contagem de entradas água! Day: 335-336. Total: 0
+15:56:01 : [ffff] - Enviado informações do personagem
+15:56:03 : [ffff] - Comando "/day "
+15:56:03 : [ffff] - [Mensagem do servidor]> !#11 2
+15:56:10 : [ffff] - Moveu item Espada_Longa [906] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 7
+15:56:13 : [ffff] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+15:59:43 : [ffff] - Matou o mob Esqueleto. GenerID: 4247
+15:59:47 : [ffff] - Matou o mob Javali. GenerID: 600
+15:59:49 : [ffff] - Matou o mob Rei Gremlin. GenerID: 599
+15:59:55 : [ffff] - Matou o mob Esqueleto. GenerID: 4247
+16:00:21 : [ffff] - Moveu item Espada_Longa [906] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 7 para tipo INVENTÁRIO slot 6
+16:00:22 : [ffff] - Moveu item Solaris [911] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 6
+16:00:25 : [ffff] - Matou o mob Esqueleto. GenerID: 4247
+16:00:25 : [ffff] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2389x 2130y - Esqueleto (1/4)
+16:00:31 : [ffff] - Matou o mob Esqueleto. GenerID: 4247
+16:00:39 : [ffff] - Matou o mob Chefe Krill. GenerID: 616
+16:00:41 : [ffff] - Matou o mob Chefe Krill. GenerID: 609
+16:00:43 : [ffff] - Matou o mob Javali. GenerID: 601
+16:00:44 : [ffff] - Matou o mob Rei Gremlin . GenerID: 600
+16:00:47 : [ffff] - Matou o mob Javali. GenerID: 601
+16:00:48 : [ffff] - Matou o mob Rei Gremlin. GenerID: 601
+16:00:50 : [ffff] - Matou o mob Javali. GenerID: 602
+16:00:57 : [ffff] - Matou o mob Rei Gremlin. GenerID: 601
+16:00:59 : [ffff] - Matou o mob Rei Gremlin. GenerID: 602
+16:01:01 : [ffff] - Matou o mob Rei Gremlin. GenerID: 603
+16:01:03 : [ffff] - Matou o mob Chefe Krill. GenerID: 608
+16:01:05 : [ffff] - Matou o mob Javali. GenerID: 603
+16:01:06 : [ffff] - Matou o mob Rei Gremlin . GenerID: 604
+16:01:07 : [ffff] - Matou o mob Rei Gremlin. GenerID: 603
+16:01:09 : [ffff] - Matou o mob Lobo. GenerID: 607
+16:01:10 : [ffff] - Matou o mob Javali. GenerID: 604
+16:01:10 : [ffff] - Dropado item Luvas_de_Seda(A) [1834] [43 1 72 15 2 6] em 2371x 2093y - Javali (1/90)
+16:01:13 : [ffff] - Matou o mob Rei Gremlin. GenerID: 603
+16:01:15 : [ffff] - Matou o mob Javali. GenerID: 603
+16:01:15 : [ffff] - Dropado item Luvas_de_Seda(A) [1834] [43 1 72 15 59 0] em 2372x 2094y - Javali (1/90)
+16:01:19 : [ffff] - Matou o mob Javali. GenerID: 604
+16:01:22 : [ffff] - Matou o mob Javali. GenerID: 587
+16:01:23 : [ffff] - AddCrackError, dam!= -2 -1 0 : 0
+16:01:23 : [ffff] - CrackError - Points: 10 type: 20
+16:01:25 : [ffff] - Matou o mob Rei Gremlin. GenerID: 587
+16:01:29 : [ffff] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:01:29 : [ffff] - 1 Personagem foi desconectado. Permaneceu 00:05:29 minutos online
+16:01:52 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+16:01:52 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 125805
+16:01:52 : [INFORMAÇÕES DO BANCO]
+Gold: 125805
+
+16:01:59 : Solicitou ir ao mundo...
+16:01:59 : Recebido pedido para entrar no jogo
+16:01:59 : Recebido informação do personagem completa.
+16:01:59 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997650900
+Level atual: 1010
+Experiência atual: 7410
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2095x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Solaris[911] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luna[910] [0 0 0 0 0 0]
+[01] - Espada_Larga[908] [0 0 0 0 0 0]
+[02] - Luna[910] [0 0 0 0 0 0]
+[03] - Lâmina_Dupla[909] [0 0 0 0 0 0]
+[04] - Porrete[801] [0 0 0 0 0 0]
+[05] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[06] - Espada_Longa[906] [0 0 0 0 0 0]
+[07] - Espada_Bastarda[907] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(A)[1834] [43 1 72 15 2 6]
+[09] - Luvas_de_Seda(A)[1834] [43 1 72 15 59 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:01:59 : [ffff] - Personagem ffff enviado ao mundo 2095x 2101y - Canal 2 - Cash da conta: 0. OverPower: 2020
+16:01:59 : [ffff] - Gold atual: 997650900. Classe: 0 Evolução: 0. Experiência: 7410. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+16:01:59 : [ffff] - Enviado informações do personagem
+16:02:00 : [ffff] - Comando "/day "
+16:02:00 : [ffff] - [Mensagem do servidor]> !#11 2
+16:02:10 : [ffff] - Moveu item Espada_Longa [906] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 6
+16:02:10 : [ffff] - [Mensagem do servidor]> Level permitido: [40 - 115]
+16:02:13 : [ffff] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:02:15 : [ffff] - Moveu item Solaris [911] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 6
+16:02:28 : [ffff] - Comando "/gm + 3209 2100"
+16:02:37 : [ffff] - Comando "/gm +move 3209 2100"
+16:02:37 : [ffff] - Teleportado para a posição 3209 2100
+16:02:50 : [ffff] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:02:50 : [ffff] - 1 Personagem foi desconectado. Permaneceu 00:00:58 minutos online
+16:03:20 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+16:03:20 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 125805
+16:03:20 : [INFORMAÇÕES DO BANCO]
+Gold: 125805
+
+16:03:27 : Solicitou ir ao mundo...
+16:03:27 : Recebido pedido para entrar no jogo
+16:03:27 : Recebido informação do personagem completa.
+16:03:27 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997650900
+Level atual: 1010
+Experiência atual: 7410
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2090x 2098y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Solaris[911] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luna[910] [0 0 0 0 0 0]
+[01] - Espada_Larga[908] [0 0 0 0 0 0]
+[02] - Luna[910] [0 0 0 0 0 0]
+[03] - Lâmina_Dupla[909] [0 0 0 0 0 0]
+[04] - Porrete[801] [0 0 0 0 0 0]
+[06] - Espada_Longa[906] [0 0 0 0 0 0]
+[07] - Espada_Bastarda[907] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(A)[1834] [43 1 72 15 2 6]
+[09] - Luvas_de_Seda(A)[1834] [43 1 72 15 59 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:03:27 : [ffff] - Personagem ffff enviado ao mundo 2090x 2098y - Canal 2 - Cash da conta: 0. OverPower: 2020
+16:03:27 : [ffff] - Gold atual: 997650900. Classe: 0 Evolução: 0. Experiência: 7410. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+16:03:27 : [ffff] - Enviado informações do personagem
+16:03:28 : [ffff] - Comando "/day "
+16:03:28 : [ffff] - [Mensagem do servidor]> !#11 2
+16:03:37 : [ffff] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:03:50 : [ffff] - Comando "/gm +move 2250 3902"
+16:03:50 : [ffff] - Teleportado para a posição 2250 3902
+16:03:58 : [ffff] - Moveu item Espada_Longa [906] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 6
+16:03:58 : [ffff] - Moveu item Solaris [911] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 6
+16:04:10 : [ffff] - Removido o Hp do mob FunerSicker. HP removido: 992. HP Atual: 8008
+16:04:11 : [ffff] - Removido o Hp do mob FunerSicker. HP removido: 1021. HP Atual: 6987
+16:04:12 : [ffff] - Removido o Hp do mob FunerSicker. HP removido: 973. HP Atual: 6014
+16:04:16 : [ffff] - Removido o Hp do mob FunerScyther. HP removido: 0. HP Atual: 30000
+16:04:17 : [ffff] - Removido o Hp do mob FunerScyther. HP removido: 0. HP Atual: 30000
+16:04:18 : [ffff] - Removido o Hp do mob FunerScyther. HP removido: 0. HP Atual: 30000
+16:04:19 : [ffff] - Removido o Hp do mob FunerScyther. HP removido: 0. HP Atual: 30000
+16:04:20 : [ffff] - Removido o Hp do mob FunerScyther. HP removido: 0. HP Atual: 30000
+16:04:21 : [ffff] - Removido o Hp do mob FunerScyther. HP removido: 0. HP Atual: 30000
+16:27:37 : [ffff] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:27:37 : [ffff] - 1 Personagem foi desconectado. Permaneceu 00:24:00 minutos online
+16:31:26 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+16:31:26 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 125805
+16:31:26 : [INFORMAÇÕES DO BANCO]
+Gold: 125805
+
+16:31:33 : Solicitou ir ao mundo...
+16:31:33 : Recebido pedido para entrar no jogo
+16:31:33 : Recebido informação do personagem completa.
+16:31:33 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997650900
+Level atual: 1010
+Experiência atual: 7410
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2096x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Solaris[911] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luna[910] [0 0 0 0 0 0]
+[01] - Espada_Larga[908] [0 0 0 0 0 0]
+[02] - Luna[910] [0 0 0 0 0 0]
+[03] - Lâmina_Dupla[909] [0 0 0 0 0 0]
+[04] - Porrete[801] [0 0 0 0 0 0]
+[06] - Espada_Longa[906] [0 0 0 0 0 0]
+[07] - Espada_Bastarda[907] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(A)[1834] [43 1 72 15 2 6]
+[09] - Luvas_de_Seda(A)[1834] [43 1 72 15 59 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:31:33 : [ffff] - Personagem ffff enviado ao mundo 2096x 2101y - Canal 2 - Cash da conta: 0. OverPower: 2020
+16:31:33 : [ffff] - Gold atual: 997650900. Classe: 0 Evolução: 0. Experiência: 7410. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+16:31:33 : [ffff] - Enviado informações do personagem
+16:31:35 : [ffff] - Comando "/day "
+16:31:35 : [ffff] - [Mensagem do servidor]> !#11 2
+16:31:38 : [ffff] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:32:05 : [ffff] - Comando "/gm +move 2100 3902"
+16:32:05 : [ffff] - Teleportado para a posição 2100 3902
+16:32:14 : [ffff] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:32:14 : [ffff] - 1 Personagem foi desconectado. Permaneceu 00:00:47 minutos online
+16:32:41 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (MATEUS) - IP: 191.177.185.117 Mac: (CD:D9:76:F1:7C:4C). ClientId: 1
+16:32:41 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 125805
+16:32:41 : [INFORMAÇÕES DO BANCO]
+Gold: 125805
+
+16:32:47 : Solicitou ir ao mundo...
+16:32:47 : Recebido pedido para entrar no jogo
+16:32:47 : Recebido informação do personagem completa.
+16:32:47 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997650900
+Level atual: 1010
+Experiência atual: 7410
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2092x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Solaris[911] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luna[910] [0 0 0 0 0 0]
+[01] - Espada_Larga[908] [0 0 0 0 0 0]
+[02] - Luna[910] [0 0 0 0 0 0]
+[03] - Lâmina_Dupla[909] [0 0 0 0 0 0]
+[04] - Porrete[801] [0 0 0 0 0 0]
+[06] - Espada_Longa[906] [0 0 0 0 0 0]
+[07] - Espada_Bastarda[907] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(A)[1834] [43 1 72 15 2 6]
+[09] - Luvas_de_Seda(A)[1834] [43 1 72 15 59 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:32:47 : [ffff] - Personagem ffff enviado ao mundo 2092x 2100y - Canal 2 - Cash da conta: 0. OverPower: 2020
+16:32:47 : [ffff] - Gold atual: 997650900. Classe: 0 Evolução: 0. Experiência: 7410. Nível: 1010. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+16:32:47 : [ffff] - Enviado informações do personagem
+16:32:49 : [ffff] - Comando "/day "
+16:32:49 : [ffff] - [Mensagem do servidor]> !#11 2
+16:32:56 : [ffff] - Comando "/gm +move 2250 3902"
+16:32:56 : [ffff] - Teleportado para a posição 2250 3902
+16:33:02 : [ffff] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:33:04 : [ffff] - Moveu item Espada_Longa [906] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 6
+16:33:59 : [ffff] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 21. Distância 2: 3. Range: 2.
+16:34:00 : [ffff] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 22. Distância 2: 3. Range: 2.
+16:34:32 : [ffff] - Removido o Hp do mob Aranha Rubra. HP removido: 254. HP Atual: 27346
+16:34:33 : [ffff] - Removido o Hp do mob Aranha Rubra. HP removido: 125. HP Atual: 27221
+16:34:37 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 229. HP Atual: 24771
+16:34:38 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 232. HP Atual: 24539
+16:34:39 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 217. HP Atual: 24322
+16:34:40 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 114. HP Atual: 24208
+16:34:41 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 225. HP Atual: 23983
+16:34:42 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 215. HP Atual: 23768
+16:34:43 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 217. HP Atual: 23551
+16:34:44 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 116. HP Atual: 23435
+16:34:45 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 208. HP Atual: 23227
+16:34:46 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 208. HP Atual: 23019
+16:34:47 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 232. HP Atual: 22787
+16:34:48 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 109. HP Atual: 22678
+16:34:49 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 227. HP Atual: 22451
+16:34:50 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 229. HP Atual: 22222
+16:34:52 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 225. HP Atual: 21997
+16:34:53 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 108. HP Atual: 21889
+16:34:54 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 225. HP Atual: 21664
+16:34:55 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 215. HP Atual: 21449
+16:34:56 : [ffff] - Removido o Hp do mob Aranha Dourada. HP removido: 217. HP Atual: 21232
+16:54:02 : [ffff] - Comando "/gm +armia"
+16:54:02 : [ffff] - Teleportado para a posição 2100 2100
+16:55:29 : [ffff] - Comando "/gm +move 2250 3902"
+16:55:29 : [ffff] - Teleportado para a posição 2250 3902
+17:02:48 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997650900
+Level atual: 1010
+Experiência atual: 7410
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:45 horas
+Posição atual: 2375x 4040y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Espada_Longa[906] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luna[910] [0 0 0 0 0 0]
+[01] - Espada_Larga[908] [0 0 0 0 0 0]
+[02] - Luna[910] [0 0 0 0 0 0]
+[03] - Lâmina_Dupla[909] [0 0 0 0 0 0]
+[04] - Porrete[801] [0 0 0 0 0 0]
+[06] - Solaris[911] [0 0 0 0 0 0]
+[07] - Espada_Bastarda[907] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(A)[1834] [43 1 72 15 2 6]
+[09] - Luvas_de_Seda(A)[1834] [43 1 72 15 59 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:32:48 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997650900
+Level atual: 1010
+Experiência atual: 7410
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:59:23 horas
+Posição atual: 2347x 4011y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Espada_Longa[906] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Luna[910] [0 0 0 0 0 0]
+[01] - Espada_Larga[908] [0 0 0 0 0 0]
+[02] - Luna[910] [0 0 0 0 0 0]
+[03] - Lâmina_Dupla[909] [0 0 0 0 0 0]
+[04] - Porrete[801] [0 0 0 0 0 0]
+[06] - Solaris[911] [0 0 0 0 0 0]
+[07] - Espada_Bastarda[907] [0 0 0 0 0 0]
+[08] - Luvas_de_Seda(A)[1834] [43 1 72 15 2 6]
+[09] - Luvas_de_Seda(A)[1834] [43 1 72 15 59 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:38:37 : [ffff] - Comando "/gm +armia"
+17:38:37 : [ffff] - Teleportado para a posição 2100 2100
+17:39:31 : [ffff] - Comando "/gm +item 916"
+17:39:31 : [ffff] - [Mensagem do servidor]> Criou o item Machado_Apocalíptico
+17:39:31 : [ffff] - ffff criou o item Machado_Apocalíptico [916] [0 0 0 0 0 0]
+17:39:34 : [ffff] - Moveu item Machado_Apocalíptico [916] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 7
+17:39:34 : [ffff] - Comando "/day "
+17:39:34 : [ffff] - [Mensagem do servidor]> !#11 2
+17:40:54 : [ffff] - Comando "/gm +item 932"
+17:40:54 : [ffff] - [Mensagem do servidor]> Criou o item Martelo_de_Guerra
+17:40:54 : [ffff] - ffff criou o item Martelo_de_Guerra [932] [0 0 0 0 0 0]
+17:44:17 : [ffff] - Comando "/gm +set 7 0"
+17:44:23 : [ffff] - Comando "/gm +set 6 0"
+17:44:59 : [ffff] - Comando "/gm +item 932"
+17:44:59 : [ffff] - [Mensagem do servidor]> Criou o item Martelo_de_Guerra
+17:44:59 : [ffff] - ffff criou o item Martelo_de_Guerra [932] [0 0 0 0 0 0]
+17:45:01 : [ffff] - Moveu item Martelo_de_Guerra [932] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 6
+17:48:10 : [ffff] - Comando "/gm +clearinv"
+17:48:10 : [ffff] - [Mensagem do servidor]> CLEARINV
+17:48:16 : [ffff] - Comando "/gm "
+17:48:16 : [ffff] - [Mensagem do servidor]> Utilize /gm +command
+17:48:19 : [ffff] - Comando "/gm +item 931"
+17:48:19 : [ffff] - [Mensagem do servidor]> Criou o item Martelo
+17:48:19 : [ffff] - ffff criou o item Martelo [931] [0 0 0 0 0 0]
+17:48:21 : [ffff] - Comando "/gm +item 932"
+17:48:21 : [ffff] - [Mensagem do servidor]> Criou o item Martelo_de_Guerra
+17:48:21 : [ffff] - ffff criou o item Martelo_de_Guerra [932] [0 0 0 0 0 0]
+17:48:21 : [ffff] - Comando "/gm "
+17:48:21 : [ffff] - [Mensagem do servidor]> Utilize /gm +command
+17:48:26 : [ffff] - Comando "/gm +item 933"
+17:48:26 : [ffff] - [Mensagem do servidor]> Criou o item Machado_de_Batalha
+17:48:26 : [ffff] - ffff criou o item Machado_de_Batalha [933] [0 0 0 0 0 0]
+17:48:33 : [ffff] - Comando "/gm +item 934"
+17:48:33 : [ffff] - [Mensagem do servidor]> Criou o item Grande_Machado
+17:48:33 : [ffff] - ffff criou o item Grande_Machado [934] [0 0 0 0 0 0]
+17:48:35 : [ffff] - Comando "/gm +item 935"
+17:48:35 : [ffff] - [Mensagem do servidor]> Criou o item Martelo_Psíquico
+17:48:35 : [ffff] - ffff criou o item Martelo_Psíquico [935] [0 0 0 0 0 0]
+17:48:38 : [ffff] - Comando "/gm +item 936"
+17:48:38 : [ffff] - [Mensagem do servidor]> Criou o item Mjolnir
+17:48:38 : [ffff] - ffff criou o item Mjolnir [936] [0 0 0 0 0 0]
+17:48:41 : [ffff] - Comando "/gm +item 937"
+17:48:41 : [ffff] - [Mensagem do servidor]> Criou o item Basileus
+17:48:41 : [ffff] - ffff criou o item Basileus [937] [0 0 0 0 0 0]
+17:48:47 : [ffff] - Comando "/gm +item 938"
+17:48:47 : [ffff] - [Mensagem do servidor]> Criou o item Martelo_de_Pedra
+17:48:47 : [ffff] - ffff criou o item Martelo_de_Pedra [938] [0 0 0 0 0 0]
+17:50:00 : [ffff] - Comando "/gm +item 946"
+17:50:00 : [ffff] - [Mensagem do servidor]> Criou o item Machado_Cav_Orc
+17:50:00 : [ffff] - ffff criou o item Machado_Cav_Orc [946] [0 0 0 0 0 0]
+17:50:03 : [ffff] - Item Machado_Cav_Orc deletado [946] [0 0 0 0 0 0]. Slot 8
+17:50:33 : [ffff] - Comando "/gm +item 949"
+17:50:33 : [ffff] - [Mensagem do servidor]> Criou o item Machado_Troll
+17:50:33 : [ffff] - ffff criou o item Machado_Troll [949] [0 0 0 0 0 0]
+17:50:37 : [ffff] - Item Machado_Troll deletado [949] [0 0 0 0 0 0]. Slot 8
+17:50:49 : [ffff] - Comando "/gm +item 951"
+17:50:49 : [ffff] - [Mensagem do servidor]> Criou o item Stiletto
+17:50:49 : [ffff] - ffff criou o item Stiletto [951] [0 0 0 0 0 0]
+17:50:52 : [ffff] - [Mensagem do servidor]> Guild Chatting : Off
+17:50:53 : [ffff] - Moveu item Stiletto [951] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 6
+18:02:48 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997650900
+Level atual: 1010
+Experiência atual: 7410
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:29:01 horas
+Posição atual: 2116x 2120y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Stiletto[951] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Martelo[931] [0 0 0 0 0 0]
+[01] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[02] - Machado_de_Batalha[933] [0 0 0 0 0 0]
+[03] - Grande_Machado[934] [0 0 0 0 0 0]
+[04] - Martelo_Psíquico[935] [0 0 0 0 0 0]
+[05] - Mjolnir[936] [0 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+[07] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[08] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:32:48 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997650900
+Level atual: 1010
+Experiência atual: 7410
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:58:40 horas
+Posição atual: 2116x 2120y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Stiletto[951] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Martelo[931] [0 0 0 0 0 0]
+[01] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[02] - Machado_de_Batalha[933] [0 0 0 0 0 0]
+[03] - Grande_Machado[934] [0 0 0 0 0 0]
+[04] - Martelo_Psíquico[935] [0 0 0 0 0 0]
+[05] - Mjolnir[936] [0 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+[07] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[08] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:47:41 : [ffff] - Comando "/gm +item 921"
+18:47:41 : [ffff] - [Mensagem do servidor]> Criou o item Garra_Tripla
+18:47:41 : [ffff] - ffff criou o item Garra_Tripla [921] [0 0 0 0 0 0]
+18:47:45 : [ffff] - [Mensagem do servidor]> Guild Chatting : On
+18:47:46 : [ffff] - Moveu item Garra_Tripla [921] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 6
+18:47:46 : [ffff] - Comando "/day "
+18:47:46 : [ffff] - [Mensagem do servidor]> !#11 2
+18:48:20 : [ffff] - Teleportado para a posição 2458 2017
+18:48:31 : [ffff] - Clicado no NPC de Imposto
+18:49:11 : [ffff] - Teleportado para a posição 960 1761
+18:51:51 : [ffff] - Removido o Hp do mob Treant. HP removido: 0. HP Atual: 31000
+18:51:52 : [ffff] - Removido o Hp do mob Treant. HP removido: 0. HP Atual: 31000
+18:51:53 : [ffff] - Removido o Hp do mob Treant. HP removido: 0. HP Atual: 31000
+18:51:54 : [ffff] - Removido o Hp do mob Treant. HP removido: 0. HP Atual: 31000
+18:51:55 : [ffff] - Removido o Hp do mob Treant. HP removido: 0. HP Atual: 31000
+18:51:56 : [ffff] - Removido o Hp do mob Treant. HP removido: 0. HP Atual: 31000
+18:51:58 : [ffff] - Removido o Hp do mob Treant. HP removido: 0. HP Atual: 31000
+18:51:59 : [ffff] - Removido o Hp do mob Treant. HP removido: 0. HP Atual: 31000
+19:02:48 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997648300
+Level atual: 1010
+Experiência atual: 7410
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 02:28:19 horas
+Posição atual: 1764x 1734y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Garra_Tripla[921] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Martelo[931] [0 0 0 0 0 0]
+[01] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[02] - Machado_de_Batalha[933] [0 0 0 0 0 0]
+[03] - Grande_Machado[934] [0 0 0 0 0 0]
+[04] - Martelo_Psíquico[935] [0 0 0 0 0 0]
+[05] - Mjolnir[936] [0 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+[07] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[08] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[09] - Stiletto[951] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:32:49 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997648300
+Level atual: 1010
+Experiência atual: 7410
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 02:57:58 horas
+Posição atual: 1764x 1734y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Garra_Tripla[921] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Martelo[931] [0 0 0 0 0 0]
+[01] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[02] - Machado_de_Batalha[933] [0 0 0 0 0 0]
+[03] - Grande_Machado[934] [0 0 0 0 0 0]
+[04] - Martelo_Psíquico[935] [0 0 0 0 0 0]
+[05] - Mjolnir[936] [0 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+[07] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[08] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[09] - Stiletto[951] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:00:00 : [ffff] - [Mensagem do servidor]: !Coliseu Normal será iniciado em 3 minutos. Disponível apenas para mortais.
+20:00:00 : [ffff] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+20:02:50 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997648300
+Level atual: 1010
+Experiência atual: 7410
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 03:27:36 horas
+Posição atual: 1764x 1734y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Garra_Tripla[921] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Martelo[931] [0 0 0 0 0 0]
+[01] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[02] - Machado_de_Batalha[933] [0 0 0 0 0 0]
+[03] - Grande_Machado[934] [0 0 0 0 0 0]
+[04] - Martelo_Psíquico[935] [0 0 0 0 0 0]
+[05] - Mjolnir[936] [0 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+[07] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[08] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[09] - Stiletto[951] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:08:04 : [ffff] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+20:30:00 : [ffff] - [Mensagem do servidor]: !Coliseu Místico será iniciado em 3 minutos. Disponível para Arch ou superior
+20:30:00 : [ffff] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+20:32:50 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997648300
+Level atual: 1010
+Experiência atual: 7410
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 03:57:15 horas
+Posição atual: 1764x 1734y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Garra_Tripla[921] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Martelo[931] [0 0 0 0 0 0]
+[01] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[02] - Machado_de_Batalha[933] [0 0 0 0 0 0]
+[03] - Grande_Machado[934] [0 0 0 0 0 0]
+[04] - Martelo_Psíquico[935] [0 0 0 0 0 0]
+[05] - Mjolnir[936] [0 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+[07] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[08] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[09] - Stiletto[951] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:38:04 : [ffff] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+20:55:00 : [ffff] - [Mensagem do servidor]: A guerra de reinos iniciarï¿½ em 5 minutos. Acesse o teleporte de Noatun.
+21:00:00 : [ffff] - [Mensagem do servidor]: Guerra entre Reinos iniciada. Acesse o teleporte de Noatun!
+21:02:51 : [ffff] - [INFORMAÇÕES DA CONTA]
+Personagem online: ffff
+Gold atual: 997648300
+Level atual: 1010
+Experiência atual: 7410
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 04:26:53 horas
+Posição atual: 1764x 1734y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[1] [43 0 0 0 0 0]
+[01] - Elmo_de_Couro_Duro(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura_Couro_Duro(N)[1116] [43 0 0 0 0 0]
+[03] - Calça_de_Couro_Duro(N)[1128] [43 0 0 0 0 0]
+[05] - Botas_de_Couro_Duro(N)[1152] [43 0 0 0 0 0]
+[06] - Garra_Tripla[921] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Martelo[931] [0 0 0 0 0 0]
+[01] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[02] - Machado_de_Batalha[933] [0 0 0 0 0 0]
+[03] - Grande_Machado[934] [0 0 0 0 0 0]
+[04] - Martelo_Psíquico[935] [0 0 0 0 0 0]
+[05] - Mjolnir[936] [0 0 0 0 0 0]
+[06] - Basileus[937] [0 0 0 0 0 0]
+[07] - Martelo_de_Pedra[938] [0 0 0 0 0 0]
+[08] - Martelo_de_Guerra[932] [0 0 0 0 0 0]
+[09] - Stiletto[951] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [75 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:19:18 : [ffff] - MATEUS Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:19:18 : [ffff] - 1 Personagem foi desconectado. Permaneceu 04:43:07 minutos online

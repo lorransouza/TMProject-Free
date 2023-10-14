@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<bosses>
+    <boss>
+        <timeToReborn>3600</timeToReborn>
+        <maxTimeIngame>1800</maxTimeIngame>
+        <fame>0</fame>
+        <geners>
+            <gener>245</gener>
+        </geners>
+    </boss>
+	<boss>
+        <timeToReborn>10800‬</timeToReborn>
+        <maxTimeIngame>1800</maxTimeIngame>
+        <fame>0</fame>
+        <geners>
+            <gener>387</gener>
+        </geners>
+    </boss>
+	<boss>
+        <timeToReborn>14400‬</timeToReborn>
+        <maxTimeIngame>1800</maxTimeIngame>
+        <fame>0</fame>
+        <geners>
+            <gener>388</gener>
+        </geners>
+    </boss>
+</bosses>

@@ -1,0 +1,2674 @@
+
+21:29:10 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD8) - IP: 179.252.58.184 Mac: (2A:E9:7C:4E:BF:47). ClientId: 3
+21:29:10 : [Mensagem do servidor]> Servidor se encontra em manutenção. Volte mais tarde!
+21:29:10 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:29:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD8) - IP: 179.252.58.184 Mac: (2A:E9:7C:4E:BF:47). ClientId: 1
+21:29:22 : [Mensagem do servidor]> Senha incorreta.
+21:29:22 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+21:29:39 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD8) - IP: 179.252.58.184 Mac: (2A:E9:7C:4E:BF:47). ClientId: 1
+21:29:39 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+21:29:39 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+21:31:49 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:02:09 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:50:02 : Solicitou ir ao mundo...
+21:50:03 : Recebido pedido para entrar no jogo
+21:50:03 : Recebido informação do personagem completa.
+21:50:03 : [SLIME] - [INFORMAÇÕES DA CONTA]
+Personagem online: SLIME
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:19:51 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(N)[1104] [43 0 0 0 0 0]
+[02] - Armadura(N)[1116] [43 0 0 0 0 0]
+[03] - Calça(N)[1128] [43 0 0 0 0 0]
+[04] - Luvas(N)[1140] [43 0 0 0 0 0]
+[05] - Botas(N)[1152] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:50:03 : [SLIME] - Personagem SLIME enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. PowerLevel: 0
+21:50:03 : [SLIME] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+21:50:03 : [SLIME] - Resetado a contagem de entradas água! Day: 0-19. Total: 0
+21:50:03 : [SLIME] - Enviado informações do personagem
+21:50:05 : [SLIME] - Comando "/day "
+21:50:05 : [SLIME] - [Mensagem do servidor]> !#11 2
+21:50:16 : [SLIME] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 4610. Posição do usuário: 2112x 2042y. Posição do NPC: 2107x 2042y
+21:50:19 : [SLIME] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:50:25 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4421
+21:50:25 : [SLIME] - Pontos CP subiu em 3. CP novo: 78
+21:50:25 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:50:25 : [SLIME] - Level UP para level 1. Ev: 0/0 - 2116x 2040y
+21:50:30 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4420
+21:50:30 : [SLIME] - Pontos CP subiu em 3. CP novo: 81
+21:50:30 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:50:30 : [SLIME] - Level UP para level 2. Ev: 0/0 - 2120x 2045y
+21:50:30 : [SLIME] - Pontos CP subiu em 3. CP novo: 84
+21:50:30 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:50:30 : [SLIME] - Level UP para level 3. Ev: 0/0 - 2120x 2045y
+21:50:34 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4419
+21:50:34 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:50:43 : [SLIME] - Matou o mob Aguia. GenerID: 4427
+21:50:43 : [SLIME] - Pontos CP subiu em 3. CP novo: 87
+21:50:43 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:50:43 : [SLIME] - Level UP para level 4. Ev: 0/0 - 2134x 2027y
+21:51:01 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:51:01 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:51:03 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:51:03 : [SLIME] - Pontos CP subiu em 3. CP novo: 90
+21:51:03 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:51:03 : [SLIME] - Level UP para level 5. Ev: 0/0 - 2087x 2026y
+21:51:22 : [SLIME] - Matou o mob Krill. GenerID: 4441
+21:51:22 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:51:29 : [SLIME] - Matou o mob Krill. GenerID: 4441
+21:51:29 : [SLIME] - Pontos CP subiu em 3. CP novo: 93
+21:51:29 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:51:29 : [SLIME] - Level UP para level 6. Ev: 0/0 - 2089x 2031y
+21:51:34 : [SLIME] - Matou o mob Gremlin. GenerID: 4442
+21:51:34 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:51:51 : [SLIME] - Matou o mob Gremlin. GenerID: 4442
+21:51:51 : [SLIME] - Pontos CP subiu em 3. CP novo: 96
+21:51:51 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:51:51 : [SLIME] - Level UP para level 7. Ev: 0/0 - 2089x 2028y
+21:51:57 : [SLIME] - Matou o mob Gremlin. GenerID: 4442
+21:51:57 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:51:59 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:51:59 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:52:04 : [SLIME] - Matou o mob Gremlin. GenerID: 4441
+21:52:07 : [SLIME] - Matou o mob Gremlin. GenerID: 4441
+21:52:07 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:52:16 : [SLIME] - Matou o mob Gremlin. GenerID: 4441
+21:52:16 : [SLIME] - Pontos CP subiu em 3. CP novo: 99
+21:52:16 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:52:16 : [SLIME] - Level UP para level 8. Ev: 0/0 - 2089x 2028y
+21:52:19 : [SLIME] - Matou o mob Gremlin. GenerID: 4441
+21:52:19 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:52:25 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:52:25 : [SLIME] - Dropado item Sapatos(N) [1413] [43 0 73 18 59 0] em 2089x 2028y - Gremlin (1/89)
+21:52:30 : [SLIME] - Matou o mob Krill. GenerID: 4441
+21:52:30 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:52:31 : [SLIME] - Matou o mob Krill. GenerID: 4441
+21:52:31 : [SLIME] - Pontos CP subiu em 3. CP novo: 102
+21:52:31 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:52:31 : [SLIME] - Level UP para level 9. Ev: 0/0 - 2089x 2028y
+21:52:37 : [SLIME] - Matou o mob Gremlin. GenerID: 4441
+21:52:37 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:52:40 : [SLIME] - Matou o mob Gremlin. GenerID: 4441
+21:52:40 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:52:45 : [SLIME] - Matou o mob Krill. GenerID: 4441
+21:52:45 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:52:47 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:52:50 : [SLIME] - [Mensagem do servidor]> Limite máximo de pontos.
+21:52:50 : [SLIME] - [Mensagem do servidor]> Limite máximo de pontos.
+21:52:50 : [SLIME] - [Mensagem do servidor]> Limite máximo de pontos.
+21:52:51 : [SLIME] - Matou o mob Gremlin. GenerID: 4441
+21:52:51 : [SLIME] - Pontos CP subiu em 3. CP novo: 105
+21:52:51 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:52:51 : [SLIME] - Level UP para level 10. Ev: 0/0 - 2090x 2028y
+21:52:51 : [SLIME] - Dropado item Elmo(A) [1801] [43 1 60 4 59 0] em 2090x 2028y - Gremlin (1/300)
+21:52:54 : [SLIME] - Matou o mob Gremlin. GenerID: 4441
+21:52:54 : [SLIME] - Dropado item Armadura(A) [1805] [14 15 71 40 3 5] em 2090x 2028y - Gremlin (1/67)
+21:52:55 : [SLIME] - Matou o mob Krill. GenerID: 4441
+21:52:55 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:53:01 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:53:01 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:53:08 : [SLIME] - Clicado no NPC [Treinador1]. Face 60. Race: 2. GenerateId: 4408. Posição do usuário: 2088x 2025y. Posição do NPC: 2084x 2019y
+21:53:11 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:53:13 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4440
+21:53:13 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:53:18 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:53:18 : [SLIME] - Pontos CP subiu em 3. CP novo: 108
+21:53:18 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:53:18 : [SLIME] - Level UP para level 11. Ev: 0/0 - 2088x 2026y
+21:53:22 : [SLIME] - Matou o mob Aguia. GenerID: 4440
+21:53:22 : [SLIME] - Dropado item Botas(A) [1154] [43 0 73 18 59 0] em 2097x 2020y - Aguia (1/30)
+21:53:27 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:53:27 : [SLIME] - Dropado item Armadura(A) [1805] [43 0 71 50 60 2] em 2091x 2023y - Gremlin (1/67)
+21:53:30 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:53:30 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:53:32 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:53:32 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:53:33 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4440
+21:53:38 : [SLIME] - Matou o mob Gremlin. GenerID: 4441
+21:53:40 : [SLIME] - Matou o mob Gremlin. GenerID: 4441
+21:53:40 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:53:43 : [SLIME] - Matou o mob Krill. GenerID: 4441
+21:53:44 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:53:44 : [SLIME] - Pontos CP subiu em 3. CP novo: 111
+21:53:44 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:53:44 : [SLIME] - Level UP para level 12. Ev: 0/0 - 2089x 2027y
+21:53:46 : [SLIME] - Matou o mob Krill. GenerID: 4444
+21:53:49 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:53:49 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:53:51 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:53:54 : [SLIME] - Matou o mob Gremlin. GenerID: 4441
+21:53:54 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:53:55 : [SLIME] - Matou o mob Gremlin. GenerID: 4441
+21:53:59 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:54:00 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:54:00 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:54:02 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:54:06 : [SLIME] - Matou o mob Krill. GenerID: 4444
+21:54:06 : [SLIME] - Pontos CP subiu em 3. CP novo: 114
+21:54:06 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:54:06 : [SLIME] - Level UP para level 13. Ev: 0/0 - 2086x 2028y
+21:54:09 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:54:11 : [SLIME] - Matou o mob Gremlin. GenerID: 4441
+21:54:15 : [SLIME] - Matou o mob Gremlin. GenerID: 4441
+21:54:16 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:54:16 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:54:19 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:54:21 : [SLIME] - Matou o mob Krill. GenerID: 4444
+21:54:24 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:54:26 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:54:26 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:54:31 : [SLIME] - Matou o mob Krill. GenerID: 4441
+21:54:31 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:54:34 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:54:36 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:54:39 : [SLIME] - Matou o mob Gremlin. GenerID: 4441
+21:54:41 : [SLIME] - Matou o mob Gremlin. GenerID: 4441
+21:54:45 : [SLIME] - Matou o mob Krill. GenerID: 4444
+21:54:45 : [SLIME] - Pontos CP subiu em 3. CP novo: 117
+21:54:45 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:54:45 : [SLIME] - Level UP para level 14. Ev: 0/0 - 2089x 2025y
+21:54:50 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:54:53 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:54:54 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:54:54 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:54:57 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:55:00 : [SLIME] - Matou o mob Krill. GenerID: 4442
+21:55:02 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:55:02 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:55:04 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:55:07 : [SLIME] - Matou o mob Krill. GenerID: 4442
+21:55:08 : [SLIME] - Matou o mob Gremlin. GenerID: 4442
+21:55:10 : [SLIME] - Matou o mob Gremlin. GenerID: 4442
+21:55:10 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:55:13 : [SLIME] - Matou o mob Krill. GenerID: 4442
+21:55:13 : [SLIME] - Dropado item Jaqueta(N) [1554] [43 0 71 50 2 6] em 2086x 2026y - Krill (1/67)
+21:55:19 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:55:20 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:55:20 : [SLIME] - Pontos CP subiu em 3. CP novo: 120
+21:55:20 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:55:20 : [SLIME] - Level UP para level 15. Ev: 0/0 - 2089x 2023y
+21:55:25 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:55:29 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:55:33 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:55:33 : [SLIME] - Dropado item Calça(N) [1557] [43 0 3 10 3 5] em 2092x 2023y - Krill (1/67)
+21:55:37 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:55:38 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:55:38 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:55:40 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:55:40 : [SLIME] - Dropado item Túnica(N) [1263] [43 0 3 15 59 0] em 2093x 2022y - Krill (1/300)
+21:55:43 : [SLIME] - Matou o mob Gremlin. GenerID: 4442
+21:55:45 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:55:49 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:55:49 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:55:50 : [SLIME] - Matou o mob Gremlin. GenerID: 4442
+21:55:52 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:55:54 : [SLIME] - Matou o mob Krill. GenerID: 4444
+21:55:54 : [SLIME] - Dropado item Luvas(A) [1813] [43 0 72 25 59 0] em 2093x 2024y - Krill (1/89)
+21:55:57 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:56:00 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:56:00 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:56:00 : [SLIME] - Dropado item Luvas(N) [1560] [43 1 72 15 2 18] em 2089x 2028y - Gremlin (1/67)
+21:56:02 : [SLIME] - Matou o mob Gremlin. GenerID: 4442
+21:56:04 : [SLIME] - Matou o mob Krill. GenerID: 4444
+21:56:06 : [SLIME] - Matou o mob Gremlin. GenerID: 4442
+21:56:06 : [SLIME] - Dropado item Luvas(N) [1560] [43 0 72 10 74 6] em 2089x 2028y - Gremlin (1/67)
+21:56:09 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:56:10 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:56:10 : [SLIME] - Pontos CP subiu em 3. CP novo: 123
+21:56:10 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:56:10 : [SLIME] - Level UP para level 16. Ev: 0/0 - 2088x 2023y
+21:56:15 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:56:16 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:56:19 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:56:21 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:56:21 : [SLIME] - Dropado item Botas(N) [1563] [43 0 73 6 59 0] em 2087x 2025y - Gremlin (1/1200)
+21:56:25 : [SLIME] - Matou o mob Krill. GenerID: 4444
+21:56:25 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:56:26 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:56:30 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:56:33 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:56:35 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:56:38 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:56:38 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:56:39 : [SLIME] - Matou o mob Krill. GenerID: 4442
+21:56:41 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:56:44 : [SLIME] - Matou o mob Krill. GenerID: 4444
+21:56:49 : [SLIME] - Matou o mob Krill. GenerID: 4442
+21:56:49 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:56:50 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:56:53 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:56:54 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:56:58 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:56:59 : [SLIME] - Matou o mob Gremlin. GenerID: 4442
+21:56:59 : [SLIME] - Pontos CP subiu em 3. CP novo: 126
+21:56:59 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:56:59 : [SLIME] - Level UP para level 17. Ev: 0/0 - 2092x 2023y
+21:57:03 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:57:06 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:57:10 : [SLIME] - Matou o mob Krill. GenerID: 4444
+21:57:11 : [SLIME] - Matou o mob Gremlin. GenerID: 4442
+21:57:15 : [SLIME] - Matou o mob Krill. GenerID: 4442
+21:57:17 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:57:17 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+21:57:22 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:57:23 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:57:24 : [SLIME] - Matou o mob Aguia. GenerID: 4440
+21:57:27 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:57:30 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:57:33 : [SLIME] - Matou o mob Krill. GenerID: 4444
+21:57:33 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:57:38 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:57:41 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:57:42 : [SLIME] - Matou o mob Gremlin. GenerID: 4442
+21:57:43 : [SLIME] - Matou o mob Gremlin. GenerID: 4442
+21:57:45 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:57:48 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:57:52 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:57:54 : [SLIME] - Matou o mob Krill. GenerID: 4442
+21:57:54 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:57:56 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:57:59 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:58:02 : [SLIME] - Matou o mob Krill. GenerID: 4444
+21:58:05 : [SLIME] - Matou o mob Krill. GenerID: 4443
+21:58:07 : [SLIME] - Matou o mob Gremlin. GenerID: 4442
+21:58:07 : [SLIME] - Pontos CP subiu em 3. CP novo: 129
+21:58:07 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:58:07 : [SLIME] - Level UP para level 18. Ev: 0/0 - 2087x 2026y
+21:58:09 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:58:11 : [SLIME] - Matou o mob Gremlin. GenerID: 4442
+21:58:12 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:58:16 : [SLIME] - Matou o mob Krill. GenerID: 4444
+21:58:21 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:58:22 : [SLIME] - Matou o mob Gremlin. GenerID: 4443
+21:58:24 : [SLIME] - Matou o mob Gremlin. GenerID: 4444
+21:59:09 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+21:59:15 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+21:59:18 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+21:59:21 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+21:59:27 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+21:59:27 : [SLIME] - Gold atual: 0.
+21:59:28 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+21:59:28 : [SLIME] - Gold atual: 100000000.
+21:59:29 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+21:59:29 : [SLIME] - Gold atual: 200000000.
+21:59:29 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+21:59:29 : [SLIME] - Gold atual: 300000000.
+21:59:30 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+21:59:30 : [SLIME] - Gold atual: 400000000.
+21:59:30 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+21:59:30 : [SLIME] - O usuário usou itens muito rapidamente. Tempo para usar o item: 148. Item: Barra_de_Prata(100Mi)
+21:59:30 : [SLIME] - Gold atual: 500000000.
+21:59:31 : [SLIME] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2142x 2083y. Posição do NPC: 2141x 2082y
+21:59:38 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+21:59:40 : [SLIME] - [Mensagem do servidor]> Citizen Chatting : Off
+21:59:40 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+21:59:42 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+21:59:45 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+21:59:47 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+21:59:49 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+21:59:54 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+21:59:58 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:00:00 : [SLIME] - [Mensagem do servidor]: A batalha do acampamento avançado do reino foi iniciada.
+22:00:00 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+22:00:00 : [SLIME] - Gold atual: 600000000.
+22:00:01 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+22:00:01 : [SLIME] - Gold atual: 700000000.
+22:00:01 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+22:00:01 : [SLIME] - Gold atual: 800000000.
+22:00:01 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+22:00:01 : [SLIME] - Gold atual: 900000000.
+22:00:02 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+22:00:02 : [SLIME] - Gold atual: 1000000000.
+22:00:03 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+22:00:03 : [SLIME] - Gold atual: 1100000000.
+22:00:03 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+22:00:03 : [SLIME] - Gold atual: 1200000000.
+22:00:03 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+22:00:03 : [SLIME] - Gold atual: 1300000000.
+22:00:04 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+22:00:04 : [SLIME] - Gold atual: 1400000000.
+22:00:04 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+22:00:04 : [SLIME] - Gold atual: 1500000000.
+22:00:04 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+22:00:04 : [SLIME] - O usuário usou itens muito rapidamente. Tempo para usar o item: 158. Item: Barra_de_Prata(100Mi)
+22:00:04 : [SLIME] - Gold atual: 1600000000.
+22:00:05 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+22:00:05 : [SLIME] - Gold atual: 1700000000.
+22:00:05 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2142x 2083y
+22:00:05 : [SLIME] - Gold atual: 1800000000.
+22:00:23 : [SLIME] - Comprou o item Classe_A [4016] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 3450. Imposto: 450. Gold: 1900000000 anterior. Gold após a compra: 1899996550
+22:00:23 : [SLIME] - Comprou o item Classe_A [4016] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 3450. Imposto: 450. Gold: 1899996550 anterior. Gold após a compra: 1899993100
+22:00:24 : [SLIME] - Comprou o item Classe_A [4016] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 3450. Imposto: 450. Gold: 1899993100 anterior. Gold após a compra: 1899989650
+22:00:24 : [SLIME] - Comprou o item Classe_A [4016] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 3450. Imposto: 450. Gold: 1899989650 anterior. Gold após a compra: 1899986200
+22:00:25 : [SLIME] - Comprou o item Classe_A [4016] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 3450. Imposto: 450. Gold: 1899986200 anterior. Gold após a compra: 1899982750
+22:00:26 : [SLIME] - Comprou o item Classe_A [4016] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 3450. Imposto: 450. Gold: 1899982750 anterior. Gold após a compra: 1899979300
+22:00:33 : [SLIME] - Moveu item Armadura(N) [1116] [43 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 2
+22:00:35 : [SLIME] - Item Classe_A [4016] [0 0 0 0 0 0] utilizado em 0x 0y
+22:00:35 : [SLIME] - [Mensagem do servidor]> O item não confere
+22:00:42 : [SLIME] - Item Classe_A [4016] [0 0 0 0 0 0] utilizado em 0x 0y
+22:00:42 : [SLIME] - [Mensagem do servidor]> O item não confere
+22:00:47 : [SLIME] - Comprou o item Armadura(A) [1118] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 14490. Imposto: 1890. Gold: 1899979300 anterior. Gold após a compra: 1899964810
+22:00:49 : [SLIME] - Item Classe_A [4016] [0 0 0 0 0 0] utilizado em 0x 0y
+22:00:49 : [SLIME] - [Mensagem do servidor]> O item não confere
+22:00:52 : [SLIME] - Item Classe_A [4016] [0 0 0 0 0 0] utilizado em 0x 0y
+22:00:52 : [SLIME] - [Mensagem do servidor]> O item não confere
+22:00:58 : [SLIME] - Item Classe_A [4016] [0 0 0 0 0 0] utilizado em 0x 0y
+22:00:58 : [SLIME] - [Mensagem do servidor]> O item não confere
+22:01:12 : [SLIME] - Comprou o item Armadura(A) [1118] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 14490. Imposto: 1890. Gold: 1899964810 anterior. Gold após a compra: 1899950320
+22:01:12 : [SLIME] - Comprou o item Armadura(A) [1118] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 14490. Imposto: 1890. Gold: 1899950320 anterior. Gold após a compra: 1899935830
+22:01:13 : [SLIME] - Comprou o item Armadura(A) [1118] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 14490. Imposto: 1890. Gold: 1899935830 anterior. Gold após a compra: 1899921340
+22:01:14 : [SLIME] - Comprou o item Armadura(A) [1118] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 14490. Imposto: 1890. Gold: 1899921340 anterior. Gold após a compra: 1899906850
+22:01:26 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:01:28 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:01:30 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:01:31 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:01:33 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:01:35 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:01:38 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:01:39 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:01:42 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:01:44 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:01:45 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:01:47 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:01:50 : [SLIME] - [Mensagem do servidor]> 1 itens decompostos com sucesso!
+22:01:53 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2081y
+22:01:53 : [SLIME] - Gold atual: 1899906850.
+22:01:53 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2081y
+22:01:53 : [SLIME] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+22:01:54 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2081y
+22:01:54 : [SLIME] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+22:01:54 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2081y
+22:01:54 : [SLIME] - O usuário usou itens muito rapidamente. Tempo para usar o item: 146. Item: Barra_de_Prata(100Mi)
+22:01:54 : [SLIME] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+22:01:54 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2081y
+22:01:54 : [SLIME] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+22:01:55 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2081y
+22:01:55 : [SLIME] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+22:01:55 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2081y
+22:01:55 : [SLIME] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+22:01:55 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2081y
+22:01:55 : [SLIME] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+22:01:55 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2081y
+22:01:55 : [SLIME] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+22:01:56 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2081y
+22:01:56 : [SLIME] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+22:01:56 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2081y
+22:01:56 : [SLIME] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+22:01:57 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2140x 2081y
+22:01:57 : [SLIME] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+22:02:00 : [SLIME] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2141x 2081y. Posição do NPC: 2144x 2080y
+22:02:01 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo BANCO slot 0
+22:02:02 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo BANCO slot 5
+22:02:02 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo BANCO slot 10
+22:02:03 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo BANCO slot 10
+22:02:03 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo BANCO slot 15
+22:02:03 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo BANCO slot 15
+22:02:03 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo BANCO slot 20
+22:02:04 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo BANCO slot 20
+22:02:04 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo BANCO slot 25
+22:02:04 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo BANCO slot 25
+22:02:04 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo BANCO slot 30
+22:02:05 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo BANCO slot 30
+22:02:05 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo BANCO slot 35
+22:02:05 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo BANCO slot 35
+22:02:05 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo BANCO slot 35
+22:02:06 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo BANCO slot 1
+22:02:06 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo BANCO slot 1
+22:02:07 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo BANCO slot 6
+22:02:07 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo BANCO slot 11
+22:02:07 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo BANCO slot 11
+22:02:08 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo BANCO slot 16
+22:02:08 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo BANCO slot 16
+22:02:10 : [SLIME] - Moveu item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo BANCO slot 21
+22:02:20 : [SLIME] - Comprou o item Elmo(A) [1106] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 10695. Imposto: 1395. Gold: 1999906850 anterior. Gold após a compra: 1999896155
+22:02:20 : [SLIME] - Comprou o item Armadura(A) [1118] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 14490. Imposto: 1890. Gold: 1999896155 anterior. Gold após a compra: 1999881665
+22:02:21 : [SLIME] - Comprou o item Calça(A) [1130] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 12650. Imposto: 1650. Gold: 1999881665 anterior. Gold após a compra: 1999869015
+22:02:22 : [SLIME] - Comprou o item Luvas(A) [1142] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 9200. Imposto: 1200. Gold: 1999869015 anterior. Gold após a compra: 1999859815
+22:02:25 : [SLIME] - Comprou o item Botas(A) [1154] [0 0 0 0 0 0] na loja de Ferreiro. Preço total: 11040. Imposto: 1440. Gold: 1999859815 anterior. Gold após a compra: 1999848775
+22:02:31 : [SLIME] - Moveu item Armadura(A) [1118] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+22:02:31 : [SLIME] - Moveu item Calça(A) [1130] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 3
+22:02:32 : [SLIME] - Moveu item Calça(N) [1128] [43 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 3
+22:02:33 : [SLIME] - Moveu item Calça(A) [1130] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 3
+22:02:35 : [SLIME] - Moveu item Botas(A) [1154] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 5
+22:02:36 : [SLIME] - Moveu item Luvas(A) [1142] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 4
+22:02:37 : [SLIME] - Moveu item Elmo(A) [1106] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+22:02:40 : [SLIME] - Item Elmo(N) deletado [1104] [43 0 0 0 0 0]. Slot 0
+22:02:42 : [SLIME] - Item Botas(N) deletado [1152] [43 0 0 0 0 0]. Slot 6
+22:02:44 : [SLIME] - Item Calça(N) deletado [1128] [43 0 0 0 0 0]. Slot 10
+22:02:45 : [SLIME] - Item Luvas(N) deletado [1140] [43 0 0 0 0 0]. Slot 1
+22:02:57 : [SLIME] - Comprou uma skill Mestre_das_Armas. Learn antigo: 2199172676540, Learn atual: 42214460458271232. Learn da skill: 1124.
+22:02:57 : [SLIME] - [Mensagem do servidor]> Habilidade Mestre_das_Armas aprendida com sucesso
+22:03:10 : [SLIME] - Clicado no NPC [Mestre Grifo]. Face 21. Race: 2. GenerateId: 3418. Posição do usuário: 2115x 2081y. Posição do NPC: 2115x 2080y
+22:03:20 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4417
+22:03:20 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:03:22 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4414
+22:03:23 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4418
+22:03:26 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4415
+22:03:32 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4417
+22:03:32 : [SLIME] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2104x 2042y - Porco de Guerra (1/30)
+22:03:34 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4418
+22:03:36 : [SLIME] - Comprou o item Skeleton_Dart [942] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 11500. Imposto: 1500. Gold: 1999848775 anterior. Gold após a compra: 1999837275
+22:03:36 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4415
+22:03:42 : [SLIME] - Comprou o item Martelo [938] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 11500. Imposto: 1500. Gold: 1999837275 anterior. Gold após a compra: 1999825775
+22:03:43 : [SLIME] - Comprou o item Martelo [938] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 11500. Imposto: 1500. Gold: 1999825775 anterior. Gold após a compra: 1999814275
+22:03:43 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4420
+22:03:45 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4415
+22:03:45 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:03:46 : [SLIME] - Moveu item Martelo [938] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 7
+22:03:47 : [SLIME] - Moveu item Martelo [938] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 7
+22:03:47 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4418
+22:03:48 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4417
+22:03:49 : [SLIME] - Moveu item Martelo [938] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 6
+22:03:50 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4414
+22:03:50 : [SLIME] - Dropado item Robe(A) [1406] [43 1 71 70 59 0] em 2102x 2043y - Porco de Guerra (1/67)
+22:03:53 : [SLIME] - Item Adaga deletado [861] [43 0 0 0 0 0]. Slot 1
+22:03:55 : [SLIME] - Moveu item Robe(A) [1406] [43 1 71 70 59 0] do tipo INVENTÁRIO do slot 2 para tipo INVENTÁRIO slot 10
+22:03:56 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4418
+22:03:57 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4417
+22:03:58 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4415
+22:04:06 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4431
+22:04:07 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4429
+22:04:09 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4432
+22:04:09 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:04:10 : [SLIME] - Matou o mob Aguia. GenerID: 4432
+22:04:21 : [SLIME] - Matou o mob Gremlin Artif. GenerID: 4449
+22:04:21 : [SLIME] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2076x 2025y - Gremlin Artif (1/1)
+22:04:23 : [SLIME] - Matou o mob Gremlin. GenerID: 4447
+22:04:24 : [SLIME] - Matou o mob Gremlin. GenerID: 4447
+22:04:31 : [SLIME] - Clicado no NPC [Treinador1]. Face 60. Race: 2. GenerateId: 4408. Posição do usuário: 2082x 2018y. Posição do NPC: 2084x 2019y
+22:04:31 : [SLIME] - [Mensagem do servidor]> Recebeu Poção de Cura como recompensa.
+22:04:43 : [SLIME] - Matou o mob Serpente. GenerID: 4461
+22:04:44 : [SLIME] - Matou o mob Serpente. GenerID: 4461
+22:04:44 : [SLIME] - Pontos CP subiu em 3. CP novo: 132
+22:04:44 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:04:44 : [SLIME] - Level UP para level 19. Ev: 0/0 - 2107x 1997y
+22:04:45 : [SLIME] - Matou o mob Serpente. GenerID: 4461
+22:04:46 : [SLIME] - Matou o mob Serpente. GenerID: 4461
+22:04:46 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:04:57 : [SLIME] - Matou o mob Rei Gremlin  . GenerID: 4473
+22:05:01 : [SLIME] - Matou o mob Krill Gigante. GenerID: 4476
+22:05:01 : [SLIME] - Dropado item Chave_da_Segunda_Porta [452] [0 0 0 0 0 0] em 2141x 2000y - Krill Gigante (1/1)
+22:05:02 : [SLIME] - Matou o mob Rei Gremlin  . GenerID: 4470
+22:05:03 : [SLIME] - Matou o mob Rei Gremlin  . GenerID: 4470
+22:05:03 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:05:06 : [SLIME] - Matou o mob Rei Gremlin  . GenerID: 4472
+22:05:08 : [SLIME] - Matou o mob Rei Gremlin  . GenerID: 4475
+22:05:08 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:05:11 : [SLIME] - Matou o mob Rei Gremlin  . GenerID: 4474
+22:05:20 : [SLIME] - Clicado no NPC [Treinador2]. Face 60. Race: 2. GenerateId: 4409. Posição do usuário: 2143x 1991y. Posição do NPC: 2142x 1990y
+22:05:20 : [SLIME] - [Mensagem do servidor]> Como recompensa foi atribuída uma opção adicional em sua arma.
+22:05:32 : [SLIME] - Matou o mob Krill. GenerID: 4482
+22:05:40 : [SLIME] - Matou o mob Rei Gremlin  . GenerID: 4491
+22:05:48 : [SLIME] - Matou o mob Orc Sniper. GenerID: 4494
+22:05:48 : [SLIME] - Pontos CP subiu em 3. CP novo: 135
+22:05:48 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:05:48 : [SLIME] - Level UP para level 20. Ev: 0/0 - 2077x 1975y
+22:05:48 : [SLIME] - Dropado item Chave_da_Ultima_Porta [453] [0 0 0 0 0 0] em 2077x 1975y - Orc Sniper (1/1)
+22:05:52 : [SLIME] - Clicado no NPC [Treinador3]. Face 60. Race: 2. GenerateId: 4410. Posição do usuário: 2077x 1964y. Posição do NPC: 2078x 1966y
+22:05:52 : [SLIME] - [Mensagem do servidor]> Como recompensa a sua arma e armadura foram refinadas.
+22:06:12 : [SLIME] - Matou o mob Orc Guerreiro  . GenerID: 4514
+22:06:12 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:06:12 : [SLIME] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2135x 1948y - Orc Guerreiro   (1/1)
+22:06:13 : [SLIME] - Matou o mob Chefe Krill . GenerID: 4513
+22:06:15 : [SLIME] - Matou o mob Chefe Krill . GenerID: 4508
+22:06:15 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:06:16 : [SLIME] - Matou o mob Rei Gremlin  . GenerID: 4508
+22:06:18 : [SLIME] - Matou o mob Rei Gremlin  . GenerID: 4507
+22:06:19 : [SLIME] - Matou o mob Chefe Krill . GenerID: 4507
+22:06:19 : [SLIME] - Pontos CP subiu em 3. CP novo: 138
+22:06:19 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:06:19 : [SLIME] - Level UP para level 21. Ev: 0/0 - 2130x 1951y
+22:06:19 : [SLIME] - Dropado item Botas(N) [1428] [43 0 73 18 59 0] em 2130x 1951y - Chefe Krill  (1/300)
+22:06:24 : [SLIME] - Matou o mob Orc Guerreiro  . GenerID: 4514
+22:06:24 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:06:24 : [SLIME] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2136x 1949y - Orc Guerreiro   (1/1)
+22:06:30 : [SLIME] - Matou o mob Chefe Krill . GenerID: 4513
+22:06:30 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:06:32 : [SLIME] - Matou o mob Rei Gremlin  . GenerID: 4513
+22:06:32 : [SLIME] - Dropado item Robe(A) [1253] [13 20 59 0 59 0] em 2138x 1952y - Rei Gremlin   (1/300)
+22:06:34 : [SLIME] - Matou o mob Rei Gremlin  . GenerID: 4507
+22:06:34 : [SLIME] - Dropado item Calça(A) [1127] [14 19 71 40 60 4] em 2130x 1959y - Rei Gremlin   (1/90)
+22:06:45 : [SLIME] - Matou o mob Rei Gremlin  . GenerID: 4513
+22:06:45 : [SLIME] - Dropado item Sapatos(A) [1415] [43 1 73 6 60 2] em 2135x 1955y - Rei Gremlin   (1/90)
+22:07:26 : [SLIME] - Matou o mob Orc Guerreiro  . GenerID: 4514
+22:07:26 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:07:26 : [SLIME] - Pontos CP subiu em 3. CP novo: 141
+22:07:26 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:26 : [SLIME] - Level UP para level 22. Ev: 0/0 - 2136x 1950y
+22:07:26 : [SLIME] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2136x 1950y - Orc Guerreiro   (1/1)
+22:07:28 : [SLIME] - Matou o mob Chefe Krill . GenerID: 4513
+22:07:31 : [SLIME] - Matou o mob Rei Gremlin  . GenerID: 4508
+22:07:31 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:07:32 : [SLIME] - Matou o mob Chefe Krill . GenerID: 4508
+22:07:33 : [SLIME] - Matou o mob Rei Gremlin  . GenerID: 4508
+22:07:33 : [SLIME] - Dropado item Dardo [877] [43 1 2 9 2 9] em 2130x 1951y - Rei Gremlin   (1/300)
+22:07:34 : [SLIME] - Matou o mob Chefe Krill . GenerID: 4507
+22:07:37 : [SLIME] - Matou o mob Orc Guerreiro  . GenerID: 4514
+22:07:37 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:07:37 : [SLIME] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2136x 1951y - Orc Guerreiro   (1/1)
+22:07:38 : [SLIME] - Matou o mob Rei Gremlin  . GenerID: 4513
+22:07:44 : [SLIME] - Matou o mob Chefe Krill . GenerID: 4512
+22:07:44 : [SLIME] - Pontos CP subiu em 3. CP novo: 144
+22:07:44 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:07:44 : [SLIME] - Level UP para level 23. Ev: 0/0 - 2142x 1952y
+22:07:48 : [SLIME] - Matou o mob Chefe Krill . GenerID: 4513
+22:07:53 : [SLIME] - Matou o mob Orc Guerreiro  . GenerID: 4514
+22:07:53 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:07:53 : [SLIME] - Dropado item Armadura(N) [1119] [43 0 71 40 59 0] em 2133x 1946y - Orc Guerreiro   (1/300)
+22:07:53 : [SLIME] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2133x 1946y - Orc Guerreiro   (1/1)
+22:07:54 : [SLIME] - Matou o mob Rei Gremlin  . GenerID: 4512
+22:07:59 : [SLIME] - Moveu item Aranha [2360] [88 27 1 20 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 14
+22:08:02 : [SLIME] - Matou o mob Orc Guerreiro  . GenerID: 4514
+22:08:02 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:08:02 : [SLIME] - Dropado item Emblema_Orc [524] [0 0 0 0 0 0] em 2133x 1946y - Orc Guerreiro   (1/1)
+22:08:05 : [SLIME] - Matou o mob Chefe Krill . GenerID: 4513
+22:08:13 : [SLIME] - Personagem deu personagem
+22:08:16 : Solicitou ir ao mundo...
+22:08:16 : Recebido pedido para entrar no jogo
+22:08:16 : Recebido informação do personagem completa.
+22:08:16 : [SLIME] - [INFORMAÇÕES DA CONTA]
+Personagem online: SLIME
+Gold atual: 1999814275
+Level atual: 23
+Experiência atual: 64961
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:37:50 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1106] [0 0 0 0 0 0]
+[02] - Armadura(A)[1118] [0 0 0 0 0 0]
+[03] - Calça(A)[1130] [0 0 0 0 0 0]
+[04] - Luvas(A)[1142] [0 0 0 0 0 0]
+[05] - Botas(A)[1154] [0 0 0 0 0 0]
+[06] - Martelo[938] [43 9 0 0 0 0]
+[07] - Martelo[938] [43 9 0 0 0 0]
+[14] - Aranha[2360] [82 27 1 20 0 0]
+
+[INVENTÁRIO]
+[01] - Emblema_Orc[524] [0 0 0 0 0 0]
+[02] - Kit_de_Cura_(20_M.)[682] [61 20 0 0 0 0]
+[03] - Emblema_Orc[524] [0 0 0 0 0 0]
+[04] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[05] - Skeleton_Dart[942] [43 9 0 0 0 0]
+[06] - Botas(N)[1428] [43 0 73 18 59 0]
+[07] - Emblema_Orc[524] [0 0 0 0 0 0]
+[08] - Robe(A)[1253] [13 20 59 0 59 0]
+[09] - Calça(A)[1127] [14 19 71 40 60 4]
+[10] - Robe(A)[1406] [43 1 71 70 59 0]
+[11] - Sapatos(A)[1415] [43 1 73 6 60 2]
+[12] - Emblema_Orc[524] [0 0 0 0 0 0]
+[13] - Dardo[877] [43 1 2 9 2 9]
+[14] - Emblema_Orc[524] [0 0 0 0 0 0]
+[15] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[16] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[17] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[18] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[19] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[20] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[21] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[22] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[23] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[24] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[25] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[26] - Armadura(N)[1119] [43 0 71 40 59 0]
+[27] - Emblema_Orc[524] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [144 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:08:16 : [SLIME] - Personagem SLIME enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. PowerLevel: 17
+22:08:16 : [SLIME] - Gold atual: 1999814275. Classe: 0 Evolução: 0. Experiência: 64961. Nível: 23. Info: 0. GuildID: 0. CP: 69. Pontos de Contribuição: 0. Limite: 0
+22:08:16 : [SLIME] - Enviado informações do personagem
+22:08:17 : [SLIME] - Comando "/day "
+22:08:17 : [SLIME] - [Mensagem do servidor]> !#11 2
+22:08:20 : [SLIME] - Matou o mob Porco de Guerra. GenerID: 4421
+22:08:32 : [SLIME] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:08:43 : [SLIME] - Clicado no NPC [Troca1]. Face 60. Race: 2. GenerateId: 4786. Posição do usuário: 2108x 2107y. Posição do NPC: 2110x 2110y
+22:08:47 : [SLIME] - Moveu item Sapatos(A) [1415] [43 1 73 6 60 2] do tipo INVENTÁRIO do slot 11 para tipo INVENTÁRIO slot 0
+22:10:33 : [SLIME] - Item Barra_de_Prata(100Mi) [4010] [0 0 0 0 0 0] utilizado em 2112x 2115y
+22:10:33 : [SLIME] - [Mensagem do servidor]> Não é possível carregar mais que 2 bilhões de gold.
+22:10:35 : [SLIME] - Item Barra_de_Prata(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 20
+22:10:36 : [SLIME] - Item Barra_de_Prata(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 23
+22:10:44 : [SLIME] - Item Barra_de_Prata(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 24
+22:10:45 : [SLIME] - Item Barra_de_Prata(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 22
+22:10:46 : [SLIME] - Item Barra_de_Prata(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 21
+22:10:47 : [SLIME] - Item Barra_de_Prata(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 25
+22:10:49 : [SLIME] - Item Barra_de_Prata(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 19
+22:10:50 : [SLIME] - Item Barra_de_Prata(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 18
+22:10:52 : [SLIME] - Item Barra_de_Prata(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 17
+22:10:52 : [SLIME] - Item Barra_de_Prata(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 16
+22:10:55 : [SLIME] - Item Barra_de_Prata(100Mi) deletado [4010] [0 0 0 0 0 0]. Slot 15
+22:11:01 : [SLIME] - Item Emblema_Orc deletado [524] [0 0 0 0 0 0]. Slot 27
+22:11:23 : [SLIME] - Moveu item Amuleto_de_Prata [551] [43 9 2 99 0 0] do tipo INVENTÁRIO do slot 11 para tipo INVENTÁRIO slot 29
+22:11:25 : [SLIME] - Item Dardo deletado [877] [43 1 2 9 2 9]. Slot 13
+22:11:26 : [SLIME] - Item Emblema_Orc deletado [524] [0 0 0 0 0 0]. Slot 14
+22:11:27 : [SLIME] - Item Emblema_Orc deletado [524] [0 0 0 0 0 0]. Slot 12
+22:11:28 : [SLIME] - Item Robe(A) deletado [1253] [13 20 59 0 59 0]. Slot 8
+22:11:28 : [SLIME] - Item Emblema_Orc deletado [524] [0 0 0 0 0 0]. Slot 7
+22:11:30 : [SLIME] - Moveu item Skeleton_Dart [942] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 10
+22:11:31 : [SLIME] - Item Botas(N) deletado [1428] [43 0 73 18 59 0]. Slot 6
+22:11:32 : [SLIME] - Item Robe(A) deletado [1406] [43 1 71 70 59 0]. Slot 5
+22:11:34 : [SLIME] - Moveu item Skeleton_Dart [942] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo INVENTÁRIO slot 24
+22:11:36 : [SLIME] - Moveu item Armadura(N) [1119] [43 0 71 40 59 0] do tipo INVENTÁRIO do slot 26 para tipo INVENTÁRIO slot 5
+22:11:41 : [SLIME] - Item Sapatos(A) deletado [1415] [43 1 73 6 60 2]. Slot 0
+22:11:42 : [SLIME] - Item Emblema_Orc deletado [524] [0 0 0 0 0 0]. Slot 1
+22:11:44 : [SLIME] - Item Calça(A) deletado [1127] [14 19 71 40 60 4]. Slot 9
+22:11:45 : [SLIME] - Item Emblema_Orc deletado [524] [0 0 0 0 0 0]. Slot 3
+22:11:46 : [SLIME] - Moveu item Kit_de_Cura_(20_M.) [682] [61 20 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo INVENTÁRIO slot 9
+22:11:48 : [SLIME] - Moveu item Armadura(N) [1119] [43 0 71 40 59 0] do tipo INVENTÁRIO do slot 5 para tipo INVENTÁRIO slot 14
+22:11:52 : [SLIME] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3255. Posição do usuário: 2105x 2107y. Posição do NPC: 2102x 2113y
+22:11:59 : [SLIME] - Teleportado para a posição 960 1761
+22:12:07 : [SLIME] - Teleportado para a posição 2458 2017
+22:12:13 : [SLIME] - Clicado no NPC [Perzen Normal]. Face 11. Race: 2. GenerateId: 3274. Posição do usuário: 2469x 2012y. Posição do NPC: 2465x 2009y
+22:12:14 : [SLIME] - [Mensagem do servidor]> Saia do grupo para criar um.
+22:12:26 : [SLIME] - Clicado no NPC [Guarda Carga ]. Face 106. Race: 2. GenerateId: 3271. Posição do usuário: 2462x 1990y. Posição do NPC: 2466x 1990y
+22:12:37 : [SLIME] - Matou o mob Meio Orc. GenerID: 873
+22:12:47 : [SLIME] - Matou o mob Meio Orc. GenerID: 873
+22:12:47 : [SLIME] - Pontos CP subiu em 3. CP novo: 147
+22:12:47 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:12:47 : [SLIME] - Level UP para level 24. Ev: 0/0 - 2495x 2009y
+22:12:47 : [SLIME] - Recebeu o item Lactolerium_100 [4141] [0 0 0 0 0 0]. STR: 53. INT: 4. DEX: 7. CON: 6
+22:12:48 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:12:51 : [SLIME] - Matou o mob Troll. GenerID: 874
+22:12:52 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 876
+22:12:54 : [SLIME] - Matou o mob Meio Orc. GenerID: 875
+22:12:56 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 876
+22:12:57 : [SLIME] - Matou o mob Meio Orc. GenerID: 876
+22:12:57 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:13:03 : [SLIME] - Matou o mob Meio Orc. GenerID: 888
+22:13:05 : [SLIME] - Matou o mob Meio Orc. GenerID: 887
+22:13:06 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 888
+22:13:07 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 887
+22:13:09 : [SLIME] - Matou o mob Meio Orc. GenerID: 887
+22:13:09 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:13:11 : [SLIME] - Moveu item Lactolerium_100 [4141] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo INVENTÁRIO slot 19
+22:13:12 : [SLIME] - Matou o mob Troll. GenerID: 878
+22:13:13 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 888
+22:13:15 : [SLIME] - Matou o mob Meio Orc. GenerID: 888
+22:13:16 : [SLIME] - Matou o mob Meio Orc. GenerID: 888
+22:13:18 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 887
+22:13:20 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 888
+22:13:20 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:13:20 : [SLIME] - Dropado item Saia(A) [1831] [43 1 71 40 59 0] em 2509x 1999y - Orc Cavaleiro (1/300)
+22:13:21 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 888
+22:13:21 : [SLIME] - Pontos CP subiu em 3. CP novo: 150
+22:13:21 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:13:21 : [SLIME] - Level UP para level 25. Ev: 0/0 - 2510x 1998y
+22:13:24 : [SLIME] - Matou o mob Meio Orc. GenerID: 887
+22:13:24 : [SLIME] - Item Saia(A) deletado [1831] [43 1 71 40 59 0]. Slot 0
+22:13:25 : [SLIME] - Matou o mob Meio Orc. GenerID: 888
+22:13:26 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 887
+22:13:26 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:13:26 : [SLIME] - Level UP para level 26. Ev: 0/0 - 2507x 1997y
+22:13:28 : [SLIME] - Matou o mob Meio Orc. GenerID: 887
+22:13:30 : [SLIME] - Matou o mob Meio Orc. GenerID: 890
+22:13:30 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:13:32 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 876
+22:13:32 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:13:32 : [SLIME] - Level UP para level 27. Ev: 0/0 - 2503x 2002y
+22:13:33 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:13:33 : [SLIME] - Level UP para level 28. Ev: 0/0 - 2503x 2002y
+22:13:34 : [SLIME] - Matou o mob Meio Orc. GenerID: 876
+22:13:36 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 888
+22:13:37 : [SLIME] - Matou o mob Meio Orc. GenerID: 888
+22:13:39 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 887
+22:13:41 : [SLIME] - Matou o mob Meio Orc. GenerID: 887
+22:13:44 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 885
+22:13:44 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:13:45 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 869
+22:13:47 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 869
+22:13:50 : [SLIME] - Matou o mob Meio Orc. GenerID: 885
+22:13:52 : [SLIME] - Matou o mob Meio Orc. GenerID: 869
+22:13:54 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 885
+22:13:57 : [SLIME] - Matou o mob Meio Orc. GenerID: 885
+22:13:59 : [SLIME] - Matou o mob Meio Orc. GenerID: 869
+22:14:01 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 869
+22:14:05 : [SLIME] - Matou o mob Meio Orc . GenerID: 862
+22:14:05 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:14:05 : [SLIME] - Dropado item Botas(A) [1819] [43 0 73 18 59 0] em 2512x 2033y - Meio Orc  (1/135)
+22:14:07 : [SLIME] - Matou o mob Dragao Menor. GenerID: 861
+22:14:09 : [SLIME] - Matou o mob Dragao Menor. GenerID: 861
+22:14:11 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 869
+22:14:13 : [SLIME] - Matou o mob Meio Orc. GenerID: 869
+22:14:14 : [SLIME] - Matou o mob Meio Orc. GenerID: 860
+22:14:18 : [SLIME] - Matou o mob Dragao Menor. GenerID: 853
+22:14:20 : [SLIME] - Matou o mob Meio Orc . GenerID: 852
+22:14:21 : [SLIME] - Matou o mob Dragao Menor. GenerID: 853
+22:14:21 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:14:21 : [SLIME] - Level UP para level 29. Ev: 0/0 - 2496x 2036y
+22:14:21 : [SLIME] - Recebeu o item Luvas(M) [1147] [43 0 2 20 53 3]. STR: 53. INT: 4. DEX: 7. CON: 6
+22:14:25 : [SLIME] - Matou o mob Meio Orc. GenerID: 851
+22:14:28 : [SLIME] - Matou o mob Meio Orc. GenerID: 858
+22:14:29 : [SLIME] - Matou o mob Meio Orc. GenerID: 859
+22:14:34 : [SLIME] - Matou o mob Meio Orc. GenerID: 873
+22:14:36 : [SLIME] - Matou o mob Meio Orc. GenerID: 873
+22:14:36 : [SLIME] - Dropado item Luvas(A) [1835] [43 0 72 10 59 0] em 2491x 2017y - Meio Orc (1/135)
+22:14:37 : [SLIME] - Matou o mob Meio Orc . GenerID: 866
+22:14:38 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 876
+22:14:42 : [SLIME] - Matou o mob Troll. GenerID: 874
+22:14:42 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:14:46 : [SLIME] - Matou o mob Troll. GenerID: 874
+22:14:49 : [SLIME] - Matou o mob Meio Orc . GenerID: 868
+22:14:56 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:14:56 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:14:57 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:15:00 : [SLIME] - Matou o mob Meio Orc. GenerID: 873
+22:15:01 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:15:02 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:15:05 : [SLIME] - Matou o mob Meio Orc. GenerID: 867
+22:15:05 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:15:05 : [SLIME] - Level UP para level 30. Ev: 0/0 - 2490x 2018y
+22:15:09 : [SLIME] - Moveu item Botas(A) [1819] [43 0 73 18 59 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 5
+22:15:09 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:15:11 : [SLIME] - Moveu item Luvas(M) [1147] [43 0 2 20 53 3] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 4
+22:15:14 : [SLIME] - Matou o mob Troll. GenerID: 874
+22:15:19 : [SLIME] - Matou o mob Meio Orc. GenerID: 873
+22:15:20 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:15:22 : [SLIME] - Matou o mob Meio Orc. GenerID: 875
+22:15:25 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:15:26 : [SLIME] - Matou o mob Meio Orc. GenerID: 873
+22:15:26 : [SLIME] - Item Botas(A) deletado [1154] [0 0 0 0 0 0]. Slot 0
+22:15:29 : [SLIME] - Item Luvas(A) deletado [1142] [0 0 0 0 0 0]. Slot 1
+22:15:29 : [SLIME] - Matou o mob Meio Orc. GenerID: 875
+22:15:32 : [SLIME] - Matou o mob Meio Orc. GenerID: 876
+22:15:32 : [SLIME] - Item Luvas(A) deletado [1835] [43 0 72 10 59 0]. Slot 2
+22:15:33 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 873
+22:15:35 : [SLIME] - Matou o mob Meio Orc. GenerID: 873
+22:15:35 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:15:38 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 876
+22:15:39 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:15:41 : [SLIME] - Matou o mob Meio Orc. GenerID: 875
+22:15:42 : [SLIME] - Matou o mob Meio Orc. GenerID: 876
+22:15:43 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 877
+22:15:45 : [SLIME] - Matou o mob Meio Orc. GenerID: 877
+22:15:47 : [SLIME] - Matou o mob Meio Orc. GenerID: 875
+22:15:48 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:15:50 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 876
+22:15:50 : [SLIME] - Dropado item Dardo [881] [43 0 2 18 2 9] em 2491x 2009y - Orc Cavaleiro (1/300)
+22:15:52 : [SLIME] - Matou o mob Meio Orc. GenerID: 876
+22:15:54 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:15:54 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:15:56 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:15:59 : [SLIME] - Matou o mob Meio Orc. GenerID: 875
+22:16:02 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 877
+22:16:02 : [SLIME] - [Mensagem do servidor]> Limite máximo de pontos.
+22:16:02 : [SLIME] - [Mensagem do servidor]> Limite máximo de pontos.
+22:16:02 : [SLIME] - [Mensagem do servidor]> Limite máximo de pontos.
+22:16:03 : [SLIME] - Matou o mob Meio Orc. GenerID: 877
+22:16:05 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 879
+22:16:07 : [SLIME] - Matou o mob Meio Orc. GenerID: 877
+22:16:10 : [SLIME] - Matou o mob Meio Orc. GenerID: 879
+22:16:11 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 877
+22:16:11 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:16:11 : [SLIME] - Level UP para level 31. Ev: 0/0 - 2486x 1992y
+22:16:14 : [SLIME] - Matou o mob Meio Orc. GenerID: 877
+22:16:17 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:16:19 : [SLIME] - Matou o mob Meio Orc. GenerID: 876
+22:16:21 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 876
+22:16:22 : [SLIME] - Matou o mob Meio Orc. GenerID: 876
+22:16:26 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:16:28 : [SLIME] - Matou o mob Meio Orc. GenerID: 875
+22:16:28 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:16:28 : [SLIME] - Level UP para level 32. Ev: 0/0 - 2492x 2013y
+22:16:29 : [SLIME] - Matou o mob Meio Orc. GenerID: 875
+22:16:31 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 876
+22:16:33 : [SLIME] - Matou o mob Meio Orc. GenerID: 876
+22:16:35 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 876
+22:16:37 : [SLIME] - Matou o mob Meio Orc. GenerID: 877
+22:16:38 : [SLIME] - Matou o mob Meio Orc. GenerID: 876
+22:16:40 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 877
+22:16:41 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:16:44 : [SLIME] - Matou o mob Meio Orc. GenerID: 875
+22:16:47 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 876
+22:16:50 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 877
+22:16:51 : [SLIME] - Matou o mob Meio Orc. GenerID: 876
+22:16:54 : [SLIME] - Matou o mob Meio Orc. GenerID: 877
+22:16:54 : [SLIME] - Item Dardo deletado [881] [43 0 2 18 2 9]. Slot 0
+22:16:56 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 877
+22:16:56 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:16:59 : [SLIME] - Matou o mob Meio Orc. GenerID: 877
+22:17:00 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 877
+22:17:03 : [SLIME] - Matou o mob Meio Orc. GenerID: 877
+22:17:05 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:17:07 : [SLIME] - Matou o mob Meio Orc. GenerID: 875
+22:17:10 : [SLIME] - Matou o mob Troll. GenerID: 878
+22:17:11 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 877
+22:17:11 : [SLIME] - Dropado item Amuleto_de_Prata [554] [0 0 0 0 0 0] em 2496x 1993y - Orc Cavaleiro (1/2400)
+22:17:13 : [SLIME] - Matou o mob Meio Orc. GenerID: 877
+22:17:14 : [SLIME] - Matou o mob Orc Cavaleiro . GenerID: 880
+22:17:16 : [SLIME] - Matou o mob Meio Orc . GenerID: 880
+22:17:18 : [SLIME] - Matou o mob Meio Orc . GenerID: 880
+22:17:20 : [SLIME] - Matou o mob Orc Cavaleiro . GenerID: 880
+22:17:24 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 887
+22:17:24 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:17:26 : [SLIME] - Matou o mob Meio Orc. GenerID: 890
+22:17:30 : [SLIME] - Matou o mob Meio Orc. GenerID: 887
+22:17:31 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 876
+22:17:33 : [SLIME] - Matou o mob Meio Orc. GenerID: 876
+22:17:35 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 887
+22:17:38 : [SLIME] - Matou o mob Meio Orc. GenerID: 887
+22:17:40 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 890
+22:17:44 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 888
+22:17:46 : [SLIME] - Matou o mob Meio Orc. GenerID: 888
+22:17:47 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 887
+22:17:50 : [SLIME] - Matou o mob Orc Cavaleiro . GenerID: 889
+22:17:51 : [SLIME] - Matou o mob Meio Orc. GenerID: 886
+22:17:51 : [SLIME] - Dropado item Luvas(A) [1835] [13 9 72 10 54 9] em 2524x 2004y - Meio Orc (1/135)
+22:17:53 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 886
+22:17:55 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 885
+22:17:55 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:17:57 : [SLIME] - Matou o mob Meio Orc. GenerID: 885
+22:17:58 : [SLIME] - Matou o mob Meio Orc. GenerID: 885
+22:17:59 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 888
+22:18:02 : [SLIME] - Matou o mob Meio Orc. GenerID: 888
+22:18:04 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 886
+22:18:08 : [SLIME] - Matou o mob Meio Orc. GenerID: 886
+22:18:09 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 885
+22:18:11 : [SLIME] - Matou o mob Meio Orc. GenerID: 885
+22:18:13 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 871
+22:18:14 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 885
+22:18:16 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 886
+22:18:18 : [SLIME] - Matou o mob Dragao Menor. GenerID: 861
+22:18:20 : [SLIME] - Matou o mob Meio Orc. GenerID: 869
+22:18:24 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 885
+22:18:24 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:18:24 : [SLIME] - Level UP para level 33. Ev: 0/0 - 2516x 2019y
+22:18:26 : [SLIME] - Matou o mob Meio Orc . GenerID: 862
+22:18:28 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 886
+22:18:30 : [SLIME] - Matou o mob Meio Orc. GenerID: 886
+22:18:32 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 885
+22:18:33 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 885
+22:18:35 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 888
+22:18:36 : [SLIME] - Matou o mob Meio Orc. GenerID: 885
+22:18:39 : [SLIME] - Matou o mob Meio Orc. GenerID: 885
+22:18:41 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 888
+22:18:44 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 886
+22:18:46 : [SLIME] - Matou o mob Meio Orc. GenerID: 886
+22:18:47 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 885
+22:18:48 : [SLIME] - Matou o mob Meio Orc. GenerID: 888
+22:18:51 : [SLIME] - Matou o mob Meio Orc. GenerID: 885
+22:18:51 : [SLIME] - Item Amuleto_de_Prata deletado [554] [0 0 0 0 0 0]. Slot 0
+22:18:52 : [SLIME] - Matou o mob Meio Orc. GenerID: 888
+22:18:52 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:18:54 : [SLIME] - Item Luvas(A) deletado [1835] [13 9 72 10 54 9]. Slot 1
+22:18:57 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 888
+22:18:59 : [SLIME] - Matou o mob Meio Orc. GenerID: 888
+22:19:07 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 886
+22:19:07 : [SLIME] - Dropado item Armadura(A) [1962] [13 14 3 10 3 10] em 2521x 2013y - Orc Cavaleiro (1/300)
+22:19:08 : [SLIME] - Matou o mob Meio Orc. GenerID: 886
+22:19:10 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 885
+22:19:11 : [SLIME] - Moveu item Aranha [2360] [63 27 1 20 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+22:19:12 : [SLIME] - Matou o mob Meio Orc. GenerID: 885
+22:19:16 : [SLIME] - Matou o mob Meio Orc. GenerID: 886
+22:19:17 : [SLIME] - Moveu item Aranha [2360] [63 27 1 20 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 14
+22:19:18 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 885
+22:19:19 : [SLIME] - Matou o mob Meio Orc. GenerID: 885
+22:19:22 : [SLIME] - Matou o mob Troll. GenerID: 870
+22:19:24 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 885
+22:19:25 : [SLIME] - Matou o mob Meio Orc. GenerID: 885
+22:19:30 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 887
+22:19:33 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:19:34 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 876
+22:19:34 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:19:35 : [SLIME] - Matou o mob Meio Orc. GenerID: 876
+22:19:38 : [SLIME] - Matou o mob Meio Orc. GenerID: 877
+22:19:39 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 876
+22:19:40 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 877
+22:19:42 : [SLIME] - Matou o mob Meio Orc. GenerID: 875
+22:19:43 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 875
+22:19:45 : [SLIME] - Matou o mob Meio Orc. GenerID: 877
+22:19:47 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 877
+22:19:47 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:19:47 : [SLIME] - Level UP para level 34. Ev: 0/0 - 2490x 1993y
+22:19:47 : [SLIME] - Recebeu o item Botas(M) [1159] [43 0 73 18 74 12]. STR: 60. INT: 4. DEX: 7. CON: 50
+22:19:49 : [SLIME] - Matou o mob Meio Orc. GenerID: 879
+22:19:50 : [SLIME] - Item Armadura(A) deletado [1962] [13 14 3 10 3 10]. Slot 0
+22:19:51 : [SLIME] - Matou o mob Meio Orc . GenerID: 880
+22:19:53 : [SLIME] - Matou o mob Orc Cavaleiro . GenerID: 880
+22:19:54 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 879
+22:19:56 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:19:56 : [SLIME] - Level UP para level 35. Ev: 0/0 - 2485x 1983y
+22:19:58 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 879
+22:19:58 : [SLIME] - Dropado item Luvas(A) [1815] [43 2 72 15 59 0] em 2485x 1983y - Orc Cavaleiro (1/300)
+22:19:59 : [SLIME] - Matou o mob Meio Orc. GenerID: 879
+22:20:00 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 879
+22:20:02 : [SLIME] - Matou o mob Meio Orc. GenerID: 879
+22:20:03 : [SLIME] - Moveu item Botas(M) [1159] [43 0 73 18 74 12] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 5
+22:20:06 : [SLIME] - Matou o mob Troll. GenerID: 881
+22:20:06 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:20:10 : [SLIME] - Matou o mob Meio Orc. GenerID: 882
+22:20:12 : [SLIME] - Matou o mob Troll. GenerID: 881
+22:20:13 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 883
+22:20:15 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 883
+22:20:17 : [SLIME] - Matou o mob Troll. GenerID: 894
+22:20:20 : [SLIME] - Matou o mob Meio Orc. GenerID: 884
+22:20:22 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 884
+22:20:23 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 882
+22:20:34 : [SLIME] - Matou o mob Troll. GenerID: 895
+22:20:38 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 884
+22:20:39 : [SLIME] - Matou o mob Meio Orc. GenerID: 884
+22:20:42 : [SLIME] - Matou o mob Meio Orc. GenerID: 883
+22:20:43 : [SLIME] - Matou o mob Troll. GenerID: 881
+22:20:44 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 882
+22:20:46 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 884
+22:20:48 : [SLIME] - Matou o mob Meio Orc. GenerID: 883
+22:20:48 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:20:49 : [SLIME] - Matou o mob Meio Orc. GenerID: 884
+22:20:51 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 883
+22:20:53 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 882
+22:20:54 : [SLIME] - Matou o mob Meio Orc. GenerID: 883
+22:20:56 : [SLIME] - Matou o mob Meio Orc. GenerID: 882
+22:20:59 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 884
+22:21:01 : [SLIME] - Matou o mob Meio Orc. GenerID: 882
+22:21:04 : [SLIME] - Matou o mob Meio Orc. GenerID: 884
+22:21:05 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 883
+22:21:07 : [SLIME] - Matou o mob Meio Orc. GenerID: 883
+22:21:11 : [SLIME] - Matou o mob Orc Cavaleiro. GenerID: 884
+22:21:13 : [SLIME] - Matou o mob Meio Orc. GenerID: 884
+22:21:17 : [SLIME] - Matou o mob Troll. GenerID: 900
+22:21:17 : [SLIME] - Dropado item Dardo [877] [43 2 59 0 59 0] em 2496x 1954y - Troll (1/300)
+22:21:21 : [SLIME] - Matou o mob Troll. GenerID: 895
+22:21:21 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:21:21 : [SLIME] - Level UP para level 36. Ev: 0/0 - 2496x 1952y
+22:21:22 : [SLIME] - Matou o mob Troll. GenerID: 894
+22:21:22 : [SLIME] - Dropado item Espada [953] [43 1 74 6 2 18] em 2496x 1952y - Troll (1/70)
+22:21:26 : [SLIME] - Matou o mob Troll. GenerID: 900
+22:21:26 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:21:26 : [SLIME] - Level UP para level 37. Ev: 0/0 - 2493x 1949y
+22:21:34 : [SLIME] - Matou o mob Troll. GenerID: 900
+22:21:37 : [SLIME] - Matou o mob Troll. GenerID: 895
+22:21:41 : [SLIME] - Matou o mob Troll . GenerID: 901
+22:21:41 : [SLIME] - Dropado item Dardo [992] [43 0 59 115 74 3] em 2495x 1945y - Troll  (1/70)
+22:21:46 : [SLIME] - Matou o mob Troll . GenerID: 906
+22:21:47 : [SLIME] - Matou o mob Troll. GenerID: 905
+22:21:51 : [SLIME] - Matou o mob Meio Orc. GenerID: 934
+22:21:52 : [SLIME] - Matou o mob Troll. GenerID: 928
+22:21:55 : [SLIME] - Matou o mob Meio Orc. GenerID: 934
+22:21:57 : [SLIME] - Matou o mob Troll. GenerID: 935
+22:21:57 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:21:57 : [SLIME] - Dropado item Espada [953] [43 0 2 18 74 12] em 2497x 1924y - Troll (1/70)
+22:21:58 : [SLIME] - Matou o mob Meio Orc. GenerID: 927
+22:22:01 : [SLIME] - Matou o mob Troll. GenerID: 934
+22:22:01 : [SLIME] - Dropado item Garra [836] [43 1 26 15 74 12] em 2492x 1923y - Troll (1/70)
+22:22:02 : [SLIME] - Matou o mob Troll. GenerID: 934
+22:22:05 : [SLIME] - Matou o mob Meio Orc. GenerID: 934
+22:22:06 : [SLIME] - Matou o mob Meio Orc. GenerID: 928
+22:22:09 : [SLIME] - Matou o mob Troll. GenerID: 934
+22:22:11 : [SLIME] - Matou o mob Meio Orc. GenerID: 934
+22:22:14 : [SLIME] - Matou o mob Troll. GenerID: 934
+22:22:16 : [SLIME] - Matou o mob Troll. GenerID: 928
+22:22:20 : [SLIME] - Matou o mob Troll . GenerID: 906
+22:22:20 : [SLIME] - Dropado item Botas(M) [1159] [43 0 73 0 59 0] em 2490x 1932y - Troll  (1/70)
+22:22:21 : [SLIME] - Matou o mob Troll. GenerID: 927
+22:22:25 : [SLIME] - Matou o mob Meio Orc. GenerID: 928
+22:22:26 : [SLIME] - Matou o mob Troll. GenerID: 928
+22:22:26 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:22:27 : [SLIME] - Matou o mob Meio Orc. GenerID: 927
+22:22:29 : [SLIME] - Matou o mob Meio Orc. GenerID: 928
+22:22:30 : [SLIME] - [Mensagem do servidor]: Jogador Nixtty falhou a composição do item Elmo(A) +10
+22:22:32 : [SLIME] - Matou o mob Troll. GenerID: 905
+22:22:35 : [SLIME] - Matou o mob Meio Orc. GenerID: 927
+22:22:37 : [SLIME] - Matou o mob Troll. GenerID: 927
+22:22:42 : [SLIME] - Matou o mob Cacador Troll. GenerID: 933
+22:22:46 : [SLIME] - Matou o mob Troll. GenerID: 926
+22:22:46 : [SLIME] - Dropado item Garra [836] [43 0 26 9 59 0] em 2477x 1927y - Troll (1/70)
+22:22:47 : [SLIME] - Matou o mob Troll. GenerID: 927
+22:22:47 : [SLIME] - Dropado item Botas(M) [1159] [11 14 73 18 59 0] em 2477x 1927y - Troll (1/70)
+22:22:49 : [SLIME] - Matou o mob Troll. GenerID: 927
+22:22:49 : [SLIME] - Dropado item Pedaço_do_Círc_Div_Comp [692] [59 121 59 150 59 242] em 2482x 1932y - Troll (1/70)
+22:22:53 : [SLIME] - Matou o mob Troll. GenerID: 928
+22:22:53 : [SLIME] - Dropado item Espada [953] [43 0 74 9 26 15] em 2486x 1928y - Troll (1/70)
+22:22:54 : [SLIME] - Matou o mob Meio Orc. GenerID: 928
+22:22:54 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:22:54 : [SLIME] - Level UP para level 38. Ev: 0/0 - 2486x 1928y
+22:22:54 : [SLIME] - Dropado item Botas(A) [1839] [43 1 73 6 60 4] em 2486x 1928y - Meio Orc (1/135)
+22:22:55 : [SLIME] - [Mensagem do servidor]: Jogador Nixtty falhou a composição do item Elmo(A) +10
+22:22:56 : [SLIME] - Matou o mob Meio Orc. GenerID: 927
+22:22:58 : [SLIME] - Matou o mob Meio Orc. GenerID: 927
+22:23:01 : [SLIME] - Matou o mob Meio Orc. GenerID: 928
+22:23:01 : [SLIME] - Dropado item Arco [974] [43 0 59 0 59 0] em 2486x 1928y - Meio Orc (1/2400)
+22:23:01 : [SLIME] - Dropado item Elmo(A) [1961] [43 1 60 6 59 0] em 2486x 1928y - Meio Orc (1/300)
+22:23:03 : [SLIME] - Matou o mob Troll. GenerID: 928
+22:23:06 : [SLIME] - Matou o mob Meio Orc. GenerID: 928
+22:23:09 : [SLIME] - [Mensagem do servidor]: Jogador Nixtty falhou a composição do item Elmo(A) +10
+22:23:09 : [SLIME] - Matou o mob Troll . GenerID: 906
+22:23:12 : [SLIME] - Matou o mob Troll. GenerID: 905
+22:23:14 : [SLIME] - Matou o mob Meio Orc. GenerID: 934
+22:23:16 : [SLIME] - Matou o mob Meio Orc. GenerID: 928
+22:23:18 : [SLIME] - Matou o mob Troll. GenerID: 934
+22:23:22 : [SLIME] - Matou o mob Meio Orc. GenerID: 934
+22:23:23 : [SLIME] - Matou o mob Troll. GenerID: 928
+22:23:23 : [SLIME] - Dropado item Calça(M) [1285] [43 1 71 40 3 5] em 2490x 1928y - Troll (1/70)
+22:23:26 : [SLIME] - Matou o mob Troll. GenerID: 934
+22:23:27 : [SLIME] - Matou o mob Meio Orc. GenerID: 927
+22:23:29 : [SLIME] - Matou o mob Troll. GenerID: 927
+22:23:31 : [SLIME] - Matou o mob Troll. GenerID: 928
+22:23:31 : [SLIME] - Dropado item Espada [953] [43 1 74 9 59 0] em 2490x 1928y - Troll (1/70)
+22:23:31 : [SLIME] - Dropado item Lança [847] [43 0 59 0 59 0] em 2490x 1928y - Troll (1/300)
+22:23:34 : [SLIME] - Matou o mob Troll. GenerID: 928
+22:23:36 : [SLIME] - Matou o mob Meio Orc. GenerID: 928
+22:23:38 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:23:38 : [SLIME] - Level UP para level 39. Ev: 0/0 - 2497x 1923y
+22:23:38 : [SLIME] - Recebeu o item Elmo(M) [1111] [43 0 4 20 0 0]. STR: 60. INT: 4. DEX: 7. CON: 50
+22:23:39 : [SLIME] - Matou o mob Troll. GenerID: 934
+22:23:41 : [SLIME] - Matou o mob Meio Orc. GenerID: 935
+22:23:43 : [SLIME] - Matou o mob Meio Orc. GenerID: 934
+22:23:45 : [SLIME] - Matou o mob Troll. GenerID: 935
+22:23:48 : [SLIME] - Matou o mob Troll. GenerID: 934
+22:23:50 : [SLIME] - Matou o mob Meio Orc. GenerID: 928
+22:23:52 : [SLIME] - Matou o mob Troll. GenerID: 928
+22:23:52 : [SLIME] - Dropado item Espada [953] [43 0 26 12 59 0] em 2495x 1924y - Troll (1/70)
+22:23:54 : [SLIME] - Matou o mob Meio Orc. GenerID: 934
+22:23:56 : [SLIME] - Matou o mob Meio Orc. GenerID: 935
+22:24:00 : [SLIME] - Matou o mob Meio Orc. GenerID: 935
+22:24:04 : [SLIME] - Matou o mob Troll. GenerID: 935
+22:24:06 : [SLIME] - Matou o mob Meio Orc. GenerID: 934
+22:24:06 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:24:08 : [SLIME] - Matou o mob Troll. GenerID: 934
+22:24:10 : [SLIME] - Matou o mob Troll. GenerID: 935
+22:24:14 : [SLIME] - Matou o mob Meio Orc. GenerID: 935
+22:24:15 : [SLIME] - Matou o mob Meio Orc. GenerID: 934
+22:24:16 : [SLIME] - Matou o mob Meio Orc. GenerID: 935
+22:24:21 : [SLIME] - Matou o mob Troll. GenerID: 935
+22:24:22 : [SLIME] - Matou o mob Meio Orc. GenerID: 930
+22:24:23 : [SLIME] - Item Lança deletado [847] [43 0 59 0 59 0]. Slot 21
+22:24:25 : [SLIME] - Matou o mob Meio Orc. GenerID: 930
+22:24:26 : [SLIME] - Moveu item Elmo(M) [1111] [43 0 4 20 0 0] do tipo INVENTÁRIO do slot 22 para tipo EQUIPAMENTO slot 1
+22:24:29 : [SLIME] - Matou o mob Troll. GenerID: 937
+22:24:30 : [SLIME] - Item Elmo(A) deletado [1106] [0 0 0 0 0 0]. Slot 22
+22:24:33 : [SLIME] - Matou o mob Cacador Troll. GenerID: 936
+22:24:35 : [SLIME] - Matou o mob Troll. GenerID: 930
+22:24:38 : [SLIME] - Item Elmo(A) deletado [1961] [43 1 60 6 59 0]. Slot 17
+22:24:38 : [SLIME] - Matou o mob Meio Orc. GenerID: 935
+22:24:40 : [SLIME] - Matou o mob Meio Orc. GenerID: 930
+22:24:40 : [SLIME] - Item Espada deletado [953] [43 0 26 12 59 0]. Slot 23
+22:24:42 : [SLIME] - Item Espada deletado [953] [43 1 74 9 59 0]. Slot 20
+22:24:43 : [SLIME] - Item Botas(A) deletado [1839] [43 1 73 6 60 4]. Slot 15
+22:24:44 : [SLIME] - Matou o mob Troll. GenerID: 935
+22:24:45 : [SLIME] - Item Arco deletado [974] [43 0 59 0 59 0]. Slot 16
+22:24:46 : [SLIME] - Item Calça(M) deletado [1285] [43 1 71 40 3 5]. Slot 18
+22:24:46 : [SLIME] - Matou o mob Meio Orc. GenerID: 935
+22:24:46 : [SLIME] - Dropado item Calça(A) [2053] [43 1 3 10 59 0] em 2507x 1918y - Meio Orc (1/178)
+22:24:49 : [SLIME] - Item Botas(M) deletado [1159] [11 14 73 18 59 0]. Slot 11
+22:24:50 : [SLIME] - Item Pedaço_do_Círc_Div_Comp deletado [692] [59 121 59 150 59 242]. Slot 12
+22:24:52 : [SLIME] - Matou o mob Cacador Troll. GenerID: 936
+22:24:52 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:24:52 : [SLIME] - Level UP para level 40. Ev: 0/0 - 2510x 1922y
+22:24:52 : [SLIME] - Item Garra deletado [836] [43 0 26 9 59 0]. Slot 10
+22:24:53 : [SLIME] - Item Espada deletado [953] [43 0 74 9 26 15]. Slot 13
+22:24:54 : [SLIME] - Item Botas(M) deletado [1159] [43 0 73 0 59 0]. Slot 8
+22:24:57 : [SLIME] - Matou o mob Troll. GenerID: 935
+22:24:59 : [SLIME] - Matou o mob Meio Orc. GenerID: 935
+22:25:01 : [SLIME] - Matou o mob Troll. GenerID: 935
+22:25:02 : [SLIME] - Item Garra deletado [836] [43 1 26 15 74 12]. Slot 7
+22:25:03 : [SLIME] - Item Espada deletado [953] [43 0 2 18 74 12]. Slot 6
+22:25:05 : [SLIME] - Item Dardo deletado [992] [43 0 59 115 74 3]. Slot 5
+22:25:05 : [SLIME] - Matou o mob Meio Orc. GenerID: 928
+22:25:08 : [SLIME] - Matou o mob Troll. GenerID: 928
+22:25:10 : [SLIME] - Matou o mob Troll. GenerID: 934
+22:25:13 : [SLIME] - Matou o mob Meio Orc. GenerID: 928
+22:25:15 : [SLIME] - Matou o mob Troll. GenerID: 928
+22:25:17 : [SLIME] - Matou o mob Meio Orc. GenerID: 934
+22:25:19 : [SLIME] - Matou o mob Troll. GenerID: 934
+22:25:22 : [SLIME] - Matou o mob Troll. GenerID: 928
+22:25:25 : [SLIME] - Matou o mob Meio Orc. GenerID: 928
+22:25:27 : [SLIME] - Matou o mob Troll. GenerID: 928
+22:25:29 : [SLIME] - Matou o mob Meio Orc. GenerID: 928
+22:25:31 : [SLIME] - Matou o mob Troll . GenerID: 906
+22:25:37 : [SLIME] - Matou o mob Troll . GenerID: 906
+22:25:39 : [SLIME] - Matou o mob Troll. GenerID: 929
+22:25:40 : [SLIME] - Matou o mob Meio Orc. GenerID: 929
+22:25:40 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:25:46 : [SLIME] - [Mensagem do servidor]: Jogador Nixtty falhou a composição do item Armadura(A) +10
+22:25:51 : [SLIME] - Matou o mob Troll. GenerID: 903
+22:25:54 : [SLIME] - Matou o mob Troll. GenerID: 902
+22:25:55 : [SLIME] - Matou o mob Troll . GenerID: 901
+22:25:58 : [SLIME] - Matou o mob Troll . GenerID: 909
+22:26:00 : [SLIME] - [Mensagem do servidor]: Jogador Nixtty falhou a composição do item Armadura(A) +10
+22:26:01 : [SLIME] - Matou o mob Troll. GenerID: 930
+22:26:03 : [SLIME] - Matou o mob Meio Orc. GenerID: 930
+22:26:05 : [SLIME] - Matou o mob Troll. GenerID: 930
+22:26:05 : [SLIME] - Dropado item Elmo(M) [2152] [43 1 59 0 59 0] em 2515x 1933y - Troll (1/70)
+22:26:14 : [SLIME] - Matou o mob Troll. GenerID: 903
+22:26:17 : [SLIME] - Matou o mob Meio Orc. GenerID: 930
+22:26:19 : [SLIME] - Matou o mob Troll. GenerID: 908
+22:26:22 : [SLIME] - Matou o mob Troll. GenerID: 930
+22:26:24 : [SLIME] - Matou o mob Meio Orc. GenerID: 930
+22:26:27 : [SLIME] - Matou o mob Troll . GenerID: 909
+22:26:30 : [SLIME] - Matou o mob Troll. GenerID: 930
+22:26:30 : [SLIME] - Dropado item Calça(M) [1285] [43 0 3 15 3 5] em 2516x 1932y - Troll (1/70)
+22:26:33 : [SLIME] - Matou o mob Meio Orc. GenerID: 937
+22:26:36 : [SLIME] - Matou o mob Meio Orc. GenerID: 930
+22:26:36 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:26:36 : [SLIME] - Level UP para level 41. Ev: 0/0 - 2515x 1931y
+22:26:38 : [SLIME] - Matou o mob Troll. GenerID: 930
+22:26:41 : [SLIME] - Matou o mob Troll. GenerID: 937
+22:26:43 : [SLIME] - Matou o mob Meio Orc. GenerID: 937
+22:26:48 : [SLIME] - Matou o mob Cacador Troll. GenerID: 936
+22:26:50 : [SLIME] - Matou o mob Meio Orc. GenerID: 937
+22:26:53 : [SLIME] - Matou o mob Troll. GenerID: 937
+22:26:55 : [SLIME] - Matou o mob Meio Orc. GenerID: 930
+22:26:56 : [SLIME] - Matou o mob Troll. GenerID: 930
+22:26:58 : [SLIME] - Matou o mob Meio Orc. GenerID: 930
+22:27:01 : [SLIME] - Matou o mob Meio Orc. GenerID: 937
+22:27:04 : [SLIME] - Matou o mob Troll. GenerID: 937
+22:27:07 : [SLIME] - Matou o mob Troll. GenerID: 912
+22:27:07 : [SLIME] - Dropado item Calça(M) [1285] [43 0 71 30 2 6] em 2525x 1923y - Troll (1/70)
+22:27:10 : [SLIME] - Matou o mob Troll. GenerID: 930
+22:27:14 : [SLIME] - Matou o mob Meio Orc. GenerID: 937
+22:27:15 : [SLIME] - Matou o mob Troll. GenerID: 937
+22:27:18 : [SLIME] - Matou o mob Troll. GenerID: 912
+22:27:20 : [SLIME] - Item Calça(A) deletado [2053] [43 1 3 10 59 0]. Slot 15
+22:27:21 : [SLIME] - Matou o mob Troll. GenerID: 938
+22:27:23 : [SLIME] - Matou o mob Meio Orc. GenerID: 938
+22:27:26 : [SLIME] - Matou o mob Troll. GenerID: 912
+22:27:29 : [SLIME] - Matou o mob Troll. GenerID: 911
+22:27:30 : [SLIME] - Item Dardo deletado [877] [43 2 59 0 59 0]. Slot 2
+22:27:32 : [SLIME] - Matou o mob Meio Orc. GenerID: 937
+22:27:32 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:27:32 : [SLIME] - Level UP para level 42. Ev: 0/0 - 2522x 1925y
+22:27:36 : [SLIME] - Matou o mob Troll. GenerID: 938
+22:27:36 : [SLIME] - Dropado item Pedaço_do_Círc_Div_Comp [692] [59 205 59 40 59 196] em 2522x 1925y - Troll (1/70)
+22:27:37 : [SLIME] - Matou o mob Troll. GenerID: 937
+22:27:40 : [SLIME] - Matou o mob Meio Orc. GenerID: 938
+22:27:42 : [SLIME] - Matou o mob Meio Orc. GenerID: 937
+22:27:44 : [SLIME] - Matou o mob Meio Orc. GenerID: 938
+22:27:46 : [SLIME] - Matou o mob Meio Orc. GenerID: 938
+22:27:48 : [SLIME] - Matou o mob Troll. GenerID: 938
+22:30:00 : [SLIME] - [Mensagem do servidor]: A batalha de acampamento avançado do reino foi finalizada
+22:31:20 : [SLIME] - [Mensagem do servidor]: Nixtty falhou na composição do item Machado para Ancient
+22:35:21 : [SLIME] - [Mensagem do servidor]: Jogador Nixtty falhou a composição do item Calça(A) +10
+22:35:52 : [SLIME] - [Mensagem do servidor]: Jogador Nixtty falhou a composição do item Botas(A) +10
+22:38:16 : [SLIME] - [INFORMAÇÕES DA CONTA]
+Personagem online: SLIME
+Gold atual: 1999811666
+Level atual: 42
+Experiência atual: 504077
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 01:07:29 horas
+Posição atual: 2465x 2000y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(M)[1111] [43 0 4 20 0 0]
+[02] - Armadura(A)[1118] [0 0 0 0 0 0]
+[03] - Calça(A)[1130] [0 0 0 0 0 0]
+[04] - Luvas(M)[1147] [43 0 2 20 53 3]
+[05] - Botas(M)[1159] [43 0 73 18 74 12]
+[06] - Martelo[938] [43 9 0 0 0 0]
+[07] - Martelo[938] [43 9 0 0 0 0]
+[14] - Aranha[2360] [231 26 1 20 0 0]
+
+[INVENTÁRIO]
+[00] - Luvas(A)[1815] [43 2 72 15 59 0]
+[01] - Botas(A)[1819] [43 0 73 18 59 0]
+[02] - Pedaço_do_Círc_Div_Comp[692] [59 205 59 40 59 196]
+[03] - Espada[953] [43 1 74 6 2 18]
+[04] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[05] - Elmo(M)[2152] [43 1 59 0 59 0]
+[06] - Calça(M)[1285] [43 0 3 15 3 5]
+[07] - Calça(M)[1285] [43 0 71 30 2 6]
+[09] - Kit_de_Cura_(20_M.)[682] [61 18 0 0 0 0]
+[14] - Armadura(N)[1119] [43 0 71 40 59 0]
+[19] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[24] - Skeleton_Dart[942] [43 9 0 0 0 0]
+[29] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:39:47 : [SLIME] - [Mensagem do servidor]: Jogador Nixtty obteve sucesso na composição de Martelo_Assassino(Anct)
+22:40:34 : [SLIME] - [Mensagem do servidor]: Nixtty falhou na composição do item Machado para Ancient
+22:40:45 : [SLIME] - [Mensagem do servidor]: Jogador Nixtty obteve sucesso na composição de Martelo_Assassino(Anct)
+22:41:09 : [SLIME] - Item Calça(M) deletado [1285] [43 0 3 15 3 5]. Slot 6
+22:41:10 : [SLIME] - Item Calça(M) deletado [1285] [43 0 71 30 2 6]. Slot 7
+22:41:11 : [SLIME] - Item Elmo(M) deletado [2152] [43 1 59 0 59 0]. Slot 5
+22:41:12 : [SLIME] - Item Botas(A) deletado [1819] [43 0 73 18 59 0]. Slot 1
+22:41:13 : [SLIME] - Item Pedaço_do_Círc_Div_Comp deletado [692] [59 205 59 40 59 196]. Slot 2
+22:41:14 : [SLIME] - Item Espada deletado [953] [43 1 74 6 2 18]. Slot 3
+22:41:15 : [SLIME] - Item Luvas(A) deletado [1815] [43 2 72 15 59 0]. Slot 0
+22:41:31 : [SLIME] - Matou o mob Orc Arqueiro. GenerID: 750
+22:41:31 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:41:31 : [SLIME] - Level UP para level 43. Ev: 0/0 - 2445x 2074y
+22:41:31 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:41:31 : [SLIME] - Level UP para level 44. Ev: 0/0 - 2445x 2074y
+22:41:31 : [SLIME] - Recebeu o item Calça(M) [1135] [43 0 2 20 3 20]. STR: 60. INT: 4. DEX: 7. CON: 50
+22:41:32 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:41:32 : [SLIME] - Level UP para level 45. Ev: 0/0 - 2438x 2082y
+22:41:35 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:41:35 : [SLIME] - Level UP para level 46. Ev: 0/0 - 2415x 2078y
+22:41:36 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:41:36 : [SLIME] - Level UP para level 47. Ev: 0/0 - 2415x 2078y
+22:41:39 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:41:39 : [SLIME] - Level UP para level 48. Ev: 0/0 - 2399x 2076y
+22:41:39 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:41:39 : [SLIME] - Level UP para level 49. Ev: 0/0 - 2399x 2076y
+22:41:39 : [SLIME] - Recebeu o item Armadura(M) [1123] [43 0 2 20 3 20]. STR: 60. INT: 4. DEX: 7. CON: 50
+22:41:41 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:41:41 : [SLIME] - Level UP para level 50. Ev: 0/0 - 2384x 2076y
+22:41:46 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:41:49 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:41:51 : [SLIME] - Clicado no NPC [Coveiro]. Face 58. Race: 2. GenerateId: 3282. Posição do usuário: 2370x 2098y. Posição do NPC: 2372x 2097y
+22:41:51 : [SLIME] - Teleportado para a posição 2397 2105
+22:41:51 : [SLIME] - SLIME entrou na quest [Coveiro].
+22:41:51 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:41:51 : [SLIME] - Level UP para level 51. Ev: 0/0 - 2397x 2105y
+22:41:56 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:41:59 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:41:59 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+22:42:00 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:42:01 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:42:01 : [SLIME] - Level UP para level 52. Ev: 0/0 - 2396x 2105y
+22:42:02 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:42:03 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:42:04 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:42:05 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:42:05 : [SLIME] - Level UP para level 53. Ev: 0/0 - 2396x 2105y
+22:42:05 : [SLIME] - Moveu item Armadura(M) [1123] [43 0 2 20 3 20] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 2
+22:42:08 : [SLIME] - Moveu item Calça(M) [1135] [43 0 2 20 3 20] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 3
+22:42:08 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:42:08 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+22:42:08 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:42:08 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2396x 2105y - Esqueleto (1/4)
+22:42:10 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:42:12 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:42:12 : [SLIME] - Level UP para level 54. Ev: 0/0 - 2387x 2109y
+22:42:15 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:42:18 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:42:20 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:42:22 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:42:22 : [SLIME] - Level UP para level 55. Ev: 0/0 - 2385x 2120y
+22:42:24 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:42:27 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:42:27 : [SLIME] - Matou o mob Esqueleto. GenerID: 4244
+22:42:27 : [SLIME] - Item Armadura(A) deletado [1118] [0 0 0 0 0 0]. Slot 1
+22:42:27 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:42:27 : [SLIME] - Level UP para level 56. Ev: 0/0 - 2385x 2120y
+22:42:29 : [SLIME] - Item Calça(A) deletado [1130] [0 0 0 0 0 0]. Slot 0
+22:42:33 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:42:37 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:42:38 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:42:38 : [SLIME] - Level UP para level 57. Ev: 0/0 - 2385x 2120y
+22:42:41 : [SLIME] - Matou o mob Esqueleto. GenerID: 4244
+22:42:41 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:42:42 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+22:42:42 : [SLIME] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 2385x 2120y - Esqueleto (1/2520)
+22:42:47 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:42:49 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+22:42:49 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:42:51 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:42:51 : [SLIME] - Level UP para level 58. Ev: 0/0 - 2385x 2120y
+22:42:54 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:42:56 : [SLIME] - Matou o mob Aparicao. GenerID: 4241
+22:42:56 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:42:56 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2385x 2120y - Aparicao (1/1)
+22:42:59 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:43:01 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:43:01 : [SLIME] - Level UP para level 59. Ev: 0/0 - 2385x 2120y
+22:43:02 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:43:03 : [SLIME] - Matou o mob Esqueleto. GenerID: 4240
+22:43:03 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2385x 2120y - Esqueleto (1/4)
+22:43:12 : [SLIME] - Matou o mob Esqueleto. GenerID: 4246
+22:43:19 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:43:21 : [SLIME] - Matou o mob Esqueleto. GenerID: 4246
+22:43:23 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:43:23 : [SLIME] - Level UP para level 60. Ev: 0/0 - 2383x 2124y
+22:43:29 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:43:29 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+22:43:29 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2383x 2124y - Esqueleto (1/4)
+22:43:30 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:43:39 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:43:43 : [SLIME] - Matou o mob Esqueleto. GenerID: 4246
+22:43:46 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:43:46 : [SLIME] - Level UP para level 61. Ev: 0/0 - 2383x 2124y
+22:43:49 : [SLIME] - Matou o mob Esqueleto. GenerID: 4246
+22:43:50 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:43:52 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+22:43:52 : [SLIME] - Dropado item Luvas(M) [1171] [43 0 72 20 2 18] em 2383x 2124y - Esqueleto (1/300)
+22:43:53 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:44:00 : [SLIME] - Matou o mob Esqueleto. GenerID: 4242
+22:44:02 : [SLIME] - Enviado para a cidade através do ClearArea. Posição: 2386x 2126y - Quest Coveiro
+22:44:02 : [SLIME] - DoRecall - Enviado para cidade: 2087x 2094y
+22:45:05 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:45:05 : [SLIME] - Level UP para level 62. Ev: 0/0 - 2083x 2101y
+22:45:09 : [SLIME] - Item Luvas(M) deletado [1171] [43 0 72 20 2 18]. Slot 5
+22:45:11 : [SLIME] - Item Armadura(N) deletado [1119] [43 0 71 40 59 0]. Slot 14
+22:45:20 : [SLIME] - Teleportado para a posição 960 1761
+22:45:24 : [SLIME] - Teleportado para a posição 2117 2102
+22:45:26 : [SLIME] - Teleportado para a posição 960 1761
+22:45:31 : [SLIME] - Teleportado para a posição 2458 2017
+22:45:49 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:45:56 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:46:03 : [SLIME] - Matou o mob Javali. GenerID: 601
+22:46:04 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:46:04 : [SLIME] - Level UP para level 63. Ev: 0/0 - 2374x 2101y
+22:46:05 : [SLIME] - Clicado no NPC [Coveiro]. Face 58. Race: 2. GenerateId: 3282. Posição do usuário: 2374x 2098y. Posição do NPC: 2372x 2097y
+22:46:05 : [SLIME] - Teleportado para a posição 2397 2105
+22:46:05 : [SLIME] - SLIME entrou na quest [Coveiro].
+22:46:15 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:46:21 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:46:25 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:46:28 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:46:29 : [SLIME] - [Mensagem do servidor]: Nixtty falhou na composição do item Machado para Ancient
+22:46:30 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:46:36 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+22:46:36 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2413x 2101y - Aparicao (1/1)
+22:46:38 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:46:38 : [SLIME] - Level UP para level 64. Ev: 0/0 - 2413x 2101y
+22:46:39 : [SLIME] - [Mensagem do servidor]: Nixtty falhou na composição do item Machado para Ancient
+22:46:43 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:46:46 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:46:52 : [SLIME] - [Mensagem do servidor]: Nixtty falhou na composição do item Machado para Ancient
+22:46:56 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:46:56 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:46:56 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2413x 2101y - Esqueleto (1/4)
+22:46:59 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:47:01 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:47:03 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:47:03 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2413x 2101y - Esqueleto (1/4)
+22:47:04 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:47:04 : [SLIME] - Level UP para level 65. Ev: 0/0 - 2413x 2101y
+22:47:09 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:47:11 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:47:16 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:47:18 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:47:25 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:47:31 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:47:31 : [SLIME] - Level UP para level 66. Ev: 0/0 - 2410x 2104y
+22:47:39 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:47:41 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:47:46 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:47:46 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2410x 2104y - Esqueleto (1/4)
+22:47:48 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:47:48 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:47:51 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:47:51 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2410x 2104y - Esqueleto (1/4)
+22:47:55 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:48:00 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+22:48:00 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2410x 2104y - Aparicao (1/1)
+22:48:02 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:48:02 : [SLIME] - Level UP para level 67. Ev: 0/0 - 2410x 2104y
+22:48:05 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+22:48:05 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2410x 2104y - Aparicao (1/1)
+22:48:11 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:48:17 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:48:19 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:48:19 : [SLIME] - Dropado item Braçadeira(M) [1606] [43 1 72 20 2 18] em 2410x 2104y - Esqueleto (1/300)
+22:48:20 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:48:28 : [SLIME] - Matou o mob Esqueleto. GenerID: 4261
+22:48:29 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:48:36 : [SLIME] - Matou o mob Esqueleto. GenerID: 4261
+22:48:37 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:48:37 : [SLIME] - Level UP para level 68. Ev: 0/0 - 2415x 2101y
+22:48:45 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:48:52 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:48:52 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2414x 2102y - Esqueleto (1/4)
+22:48:54 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:49:01 : [SLIME] - [Mensagem do servidor]: Jogador Nixtty obteve sucesso na composição de Martelo_Assassino(Anct)
+22:49:01 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:49:01 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:49:01 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2410x 2105y - Esqueleto (1/4)
+22:49:07 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:49:12 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:49:12 : [SLIME] - Level UP para level 69. Ev: 0/0 - 2410x 2105y
+22:49:24 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:49:27 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:49:28 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:49:28 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2410x 2105y - Esqueleto (1/4)
+22:49:34 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:49:34 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2410x 2105y - Esqueleto (1/4)
+22:49:39 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:49:39 : [SLIME] - Dropado item Luvas(M) [1171] [43 1 72 15 54 9] em 2410x 2105y - Esqueleto (1/300)
+22:49:43 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:49:43 : [SLIME] - Level UP para level 70. Ev: 0/0 - 2410x 2105y
+22:49:49 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+22:49:49 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2410x 2105y - Aparicao (1/1)
+22:49:52 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:49:58 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:50:03 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:50:03 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:50:04 : [SLIME] - [Mensagem do servidor]: Nixtty falhou na composição do item Machado para Ancient
+22:50:10 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+22:50:10 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2410x 2105y - Aparicao (1/1)
+22:50:14 : [SLIME] - [Mensagem do servidor]: Nixtty falhou na composição do item Machado para Ancient
+22:50:22 : [SLIME] - Matou o mob Esqueleto. GenerID: 4237
+22:50:24 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:50:24 : [SLIME] - Level UP para level 71. Ev: 0/0 - 2405x 2100y
+22:50:28 : [SLIME] - Matou o mob Aparicao. GenerID: 4237
+22:50:28 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:50:28 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2100y - Aparicao (1/1)
+22:50:29 : [SLIME] - [Mensagem do servidor]: Jogador Nixtty obteve sucesso na composição de Martelo_Assassino(Anct)
+22:50:30 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:50:36 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:50:36 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:50:36 : [SLIME] - Level UP para level 72. Ev: 0/0 - 2413x 2101y
+22:50:39 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:50:39 : [SLIME] - Level UP para level 73. Ev: 0/0 - 2413x 2101y
+22:50:39 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:50:42 : [SLIME] - Item Braçadeira(M) deletado [1606] [43 1 72 20 2 18]. Slot 10
+22:50:47 : [SLIME] - Item Luvas(M) deletado [1171] [43 1 72 15 54 9]. Slot 15
+22:50:47 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:50:47 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2413x 2101y - Esqueleto (1/4)
+22:50:56 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:50:56 : [SLIME] - Level UP para level 74. Ev: 0/0 - 2409x 2105y
+22:50:59 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:50:59 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2409x 2105y - Esqueleto (1/4)
+22:51:10 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:51:12 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+22:51:13 : [SLIME] - [Mensagem do servidor]: Jogador Nixtty falhou a composição do item Martelo_Assassino(Anct) +10
+22:51:13 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:51:14 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:51:20 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+22:51:20 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2413x 2104y - Aparicao (1/1)
+22:51:21 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+22:51:26 : [SLIME] - Matou o mob Esqueleto. GenerID: 4261
+22:51:31 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:51:31 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:51:31 : [SLIME] - Level UP para level 75. Ev: 0/0 - 2414x 2098y
+22:51:34 : [SLIME] - Matou o mob Esqueleto. GenerID: 4261
+22:51:41 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:51:41 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2415x 2103y - Esqueleto (1/4)
+22:51:41 : [SLIME] - Moveu item Amuleto_de_Prata [551] [43 9 2 99 0 0] do tipo INVENTÁRIO do slot 29 para tipo EQUIPAMENTO slot 9
+22:51:46 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+22:51:53 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:51:53 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2408x 2104y - Esqueleto (1/4)
+22:51:58 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:52:03 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+22:52:03 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2408x 2104y - Aparicao (1/1)
+22:52:12 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+22:52:12 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2108y - Aparicao (1/1)
+22:52:12 : [SLIME] - [Mensagem do servidor]: Jogador Nixtty falhou a composição do item Martelo_Assassino(Anct) +10
+22:52:18 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:52:18 : [SLIME] - Dropado item Peitoral(M) [1600] [43 1 71 50 59 0] em 2406x 2106y - Esqueleto (1/300)
+22:52:21 : [SLIME] - [Mensagem do servidor]: Jogador Nixtty falhou a composição do item Martelo_Assassino(Anct) +10
+22:52:22 : [SLIME] - Item Peitoral(M) deletado [1600] [43 1 71 50 59 0]. Slot 5
+22:52:24 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:52:30 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+22:52:30 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2406x 2106y - Aparicao (1/1)
+22:52:35 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+22:52:35 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2108y - Aparicao (1/1)
+22:52:39 : [SLIME] - [Mensagem do servidor]: Jogador Nixtty falhou a composição do item Martelo_Assassino(Anct) +10
+22:52:41 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+22:52:44 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+22:52:49 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+22:52:49 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2105y - Aparicao (1/1)
+22:52:51 : [SLIME] - Moveu item Botas(M) [1159] [43 0 73 18 74 12] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 10
+22:52:56 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:53:01 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:53:05 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+22:53:05 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+22:53:05 : [SLIME] - Level UP para level 76. Ev: 0/0 - 2405x 2104y
+22:53:05 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2104y - Aparicao (1/1)
+22:53:05 : [SLIME] - [Mensagem do servidor]> Limite máximo de pontos.
+22:53:09 : [SLIME] - Moveu item Botas(M) [1159] [43 0 73 18 74 12] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 5
+22:53:09 : [SLIME] - Matou o mob Aparicao. GenerID: 4237
+22:53:09 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2104y - Aparicao (1/1)
+22:53:12 : [SLIME] - Moveu item Amuleto_de_Prata [551] [43 9 2 99 0 0] do tipo EQUIPAMENTO do slot 9 para tipo INVENTÁRIO slot 11
+22:53:14 : [SLIME] - Moveu item Amuleto_de_Prata [551] [43 9 2 99 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 9
+22:53:17 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+22:53:20 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+22:53:25 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+22:53:25 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2401x 2106y - Aparicao (1/1)
+22:53:30 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+22:53:30 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2401x 2106y - Aparicao (1/1)
+22:53:35 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:53:40 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+22:53:49 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+22:53:49 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2406x 2105y - Aparicao (1/1)
+22:53:50 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+22:53:50 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2406x 2105y - Aparicao (1/1)
+22:53:54 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+22:54:01 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+22:54:01 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+22:54:01 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2401x 2105y - Esqueleto (1/4)
+22:54:05 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+22:54:05 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2401x 2105y - Aparicao (1/1)
+22:54:08 : [SLIME] - Enviado para a cidade através do ClearArea. Posição: 2404x 2104y - Quest Coveiro
+22:54:08 : [SLIME] - DoRecall - Enviado para cidade: 2100x 2100y
+22:54:09 : [SLIME] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 307. Distância 2: 308. Range: 2.
+22:54:14 : [SLIME] - BETASD8 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+22:54:14 : [SLIME] - 1 Personagem foi desconectado. Permaneceu 01:23:15 minutos online
+23:04:05 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD8) - IP: 179.252.58.184 Mac: (2A:E9:7C:4E:BF:47). ClientId: 1
+23:04:05 : [Mensagem do servidor]> Senha incorreta.
+23:04:05 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+23:04:15 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD8) - IP: 179.252.58.184 Mac: (2A:E9:7C:4E:BF:47). ClientId: 1
+23:04:15 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+23:04:15 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[  1] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[  5] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[  6] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 10] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 11] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 15] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 16] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 20] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 21] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 25] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 30] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 35] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+
+23:04:24 : Solicitou ir ao mundo...
+23:04:24 : Recebido pedido para entrar no jogo
+23:04:24 : Recebido informação do personagem completa.
+23:04:24 : [SLIME] - [INFORMAÇÕES DA CONTA]
+Personagem online: SLIME
+Gold atual: 1999992266
+Level atual: 76
+Experiência atual: 2796776
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:09 horas
+Posição atual: 2088x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(M)[1111] [43 0 4 20 0 0]
+[02] - Armadura(M)[1123] [43 0 2 20 3 20]
+[03] - Calça(M)[1135] [43 0 2 20 3 20]
+[04] - Luvas(M)[1147] [43 0 2 20 53 3]
+[05] - Botas(M)[1159] [43 0 73 18 74 12]
+[06] - Martelo[938] [43 9 0 0 0 0]
+[07] - Martelo[938] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[14] - Aranha[2360] [231 26 1 20 0 0]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[01] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[02] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[03] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[04] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[05] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[06] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[09] - Kit_de_Cura_(20_M.)[682] [61 16 0 0 0 0]
+[19] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[24] - Skeleton_Dart[942] [43 9 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:04:24 : [SLIME] - Personagem SLIME enviado ao mundo 2088x 2106y - Canal 1 - Cash da conta: 0. PowerLevel: 52
+23:04:24 : [SLIME] - Gold atual: 1999992266. Classe: 0 Evolução: 0. Experiência: 2796776. Nível: 76. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+23:04:24 : [SLIME] - Enviado informações do personagem
+23:04:25 : [SLIME] - Comando "/day "
+23:04:25 : [SLIME] - [Mensagem do servidor]> !#11 2
+23:04:34 : [SLIME] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:04:36 : [SLIME] - Teleportado para a posição 960 1761
+23:04:40 : [SLIME] - Teleportado para a posição 2458 2017
+23:04:45 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:04:45 : [SLIME] - Level UP para level 77. Ev: 0/0 - 2469x 2006y
+23:05:21 : [SLIME] - Clicado no NPC [Coveiro]. Face 58. Race: 2. GenerateId: 3282. Posição do usuário: 2372x 2098y. Posição do NPC: 2372x 2097y
+23:05:21 : [SLIME] - Teleportado para a posição 2397 2105
+23:05:21 : [SLIME] - SLIME entrou na quest [Coveiro].
+23:05:32 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:05:32 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2397x 2105y - Esqueleto (1/4)
+23:05:41 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:05:45 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:05:45 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2396x 2105y - Aparicao (1/1)
+23:05:50 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:05:56 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:05:56 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2396x 2105y - Esqueleto (1/4)
+23:06:02 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:06:02 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2396x 2105y - Aparicao (1/1)
+23:06:06 : [SLIME] - Matou o mob Esqueleto. GenerID: 4238
+23:06:13 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:06:13 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2401x 2110y - Aparicao (1/1)
+23:06:15 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:06:19 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:06:24 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:06:24 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:06:24 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2106y - Aparicao (1/1)
+23:06:29 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:06:29 : [SLIME] - Level UP para level 78. Ev: 0/0 - 2401x 2104y
+23:06:32 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:06:35 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:06:42 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:06:42 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2401x 2104y - Aparicao (1/1)
+23:06:47 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:06:47 : [SLIME] - Dropado item Luvas(M) [1297] [43 0 72 30 54 12] em 2405x 2104y - Esqueleto (1/300)
+23:06:51 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:06:58 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:06:58 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2104y - Aparicao (1/1)
+23:06:58 : [SLIME] - Dropado item Resto_de_Oriharucon [419] [59 1 59 116 59 81] em 2405x 2104y - Aparicao (1/225)
+23:07:00 : [SLIME] - Matou o mob Esqueleto. GenerID: 4237
+23:07:07 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:07:07 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:07:07 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2399x 2103y - Esqueleto (1/4)
+23:07:09 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:07:13 : [SLIME] - Item Luvas(M) deletado [1297] [43 0 72 30 54 12]. Slot 2
+23:07:13 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:07:13 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2399x 2103y - Aparicao (1/1)
+23:07:15 : [SLIME] - Item Resto_de_Oriharucon deletado [419] [59 1 59 116 59 81]. Slot 5
+23:07:19 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:07:19 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2402x 2107y - Aparicao (1/1)
+23:07:25 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:07:25 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2105y - Esqueleto (1/4)
+23:07:29 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:07:29 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2105y - Esqueleto (1/4)
+23:07:29 : [SLIME] - Dropado item Braçadeira(M) [1606] [8 14 72 20 2 24] em 2404x 2105y - Esqueleto (1/300)
+23:07:33 : [SLIME] - Item Braçadeira(M) deletado [1606] [8 14 72 20 2 24]. Slot 2
+23:07:33 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:07:33 : [SLIME] - Level UP para level 79. Ev: 0/0 - 2403x 2108y
+23:07:34 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:07:34 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2108y - Aparicao (1/1)
+23:07:43 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:07:44 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:07:49 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:07:49 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2399x 2106y - Aparicao (1/1)
+23:07:49 : [SLIME] - Dropado item Resto_de_Lactolerium [420] [59 68 59 107 59 9] em 2399x 2106y - Aparicao (1/297)
+23:07:54 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:07:58 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:07:58 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2104y - Esqueleto (1/4)
+23:08:02 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:08:02 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:08:02 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2108y - Aparicao (1/1)
+23:08:04 : [SLIME] - Moveu item Botas(M) [1159] [43 0 73 18 74 12] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 10
+23:08:07 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:08:07 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2108y - Aparicao (1/1)
+23:08:08 : [SLIME] - [Mensagem do servidor]> Limite máximo de pontos.
+23:08:08 : [SLIME] - [Mensagem do servidor]> Limite máximo de pontos.
+23:08:08 : [SLIME] - [Mensagem do servidor]> Limite máximo de pontos.
+23:08:08 : [SLIME] - [Mensagem do servidor]> Limite máximo de pontos.
+23:08:11 : [SLIME] - Moveu item Botas(M) [1159] [43 0 73 18 74 12] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 5
+23:08:13 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:08:13 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2106y - Aparicao (1/1)
+23:08:18 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:08:18 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2398x 2103y - Esqueleto (1/4)
+23:08:22 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:08:27 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:08:27 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2398x 2103y - Aparicao (1/1)
+23:08:39 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:08:39 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2108y - Aparicao (1/1)
+23:08:43 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:08:43 : [SLIME] - Level UP para level 80. Ev: 0/0 - 2403x 2108y
+23:08:46 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:08:50 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:08:53 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:08:53 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2108y - Aparicao (1/1)
+23:08:58 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:09:03 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:09:08 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:09:08 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2106y - Aparicao (1/1)
+23:09:14 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:09:14 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2108y - Aparicao (1/1)
+23:09:17 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:09:17 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:09:17 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2108y - Aparicao (1/1)
+23:09:25 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:09:27 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:09:34 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:09:38 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:09:42 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:09:42 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2104y - Aparicao (1/1)
+23:09:47 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:09:51 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:09:51 : [SLIME] - Dropado item Calça(M) [1285] [43 1 3 15 3 20] em 2405x 2104y - Esqueleto (1/300)
+23:09:56 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:09:56 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2104y - Aparicao (1/1)
+23:10:01 : [SLIME] - Matou o mob Aparicao. GenerID: 4237
+23:10:01 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2104y - Aparicao (1/1)
+23:10:04 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:10:09 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:10:13 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:10:13 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2105y - Aparicao (1/1)
+23:10:21 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:10:25 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:10:25 : [SLIME] - Dropado item Resto_de_Oriharucon [419] [59 17 59 29 59 23] em 2405x 2104y - Esqueleto (1/225)
+23:10:30 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:10:30 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2104y - Aparicao (1/1)
+23:10:31 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:10:31 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2104y - Aparicao (1/1)
+23:10:40 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:10:40 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:10:41 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:10:44 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:10:44 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2399x 2104y - Aparicao (1/1)
+23:10:44 : [SLIME] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 2399x 2104y - Aparicao (1/2520)
+23:10:50 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:10:54 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:10:59 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:10:59 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2105y - Aparicao (1/1)
+23:11:04 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:11:04 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2107y - Aparicao (1/1)
+23:11:16 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:11:18 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:11:23 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:11:23 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2106y - Aparicao (1/1)
+23:11:28 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:11:31 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:11:36 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:11:36 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2104y - Aparicao (1/1)
+23:11:42 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:11:42 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2402x 2107y - Aparicao (1/1)
+23:11:51 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:11:51 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2106y - Esqueleto (1/4)
+23:11:54 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:11:58 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:11:58 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:11:58 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2106y - Aparicao (1/1)
+23:12:04 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:12:08 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:12:13 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:12:13 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2106y - Aparicao (1/1)
+23:12:18 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:12:18 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2107y - Aparicao (1/1)
+23:12:26 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:12:31 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:12:34 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:12:34 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2106y - Aparicao (1/1)
+23:12:40 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:12:40 : [SLIME] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2404x 2105y - Esqueleto (1/4)
+23:12:40 : [SLIME] - [Mensagem do servidor]> Seu inventário está cheio
+23:12:43 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:12:43 : [SLIME] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2404x 2105y - Esqueleto (1/4)
+23:12:43 : [SLIME] - [Mensagem do servidor]> Seu inventário está cheio
+23:12:47 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:12:47 : [SLIME] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2404x 2105y - Aparicao (1/1)
+23:12:47 : [SLIME] - [Mensagem do servidor]> Seu inventário está cheio
+23:12:52 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:12:52 : [SLIME] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2402x 2107y - Aparicao (1/1)
+23:12:52 : [SLIME] - [Mensagem do servidor]> Seu inventário está cheio
+23:13:05 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:13:07 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:13:13 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:13:13 : [SLIME] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2400x 2106y - Aparicao (1/1)
+23:13:13 : [SLIME] - [Mensagem do servidor]> Seu inventário está cheio
+23:13:17 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:13:17 : [SLIME] - Level UP para level 81. Ev: 0/0 - 2403x 2105y
+23:13:19 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:13:22 : [SLIME] - Item Calça(M) deletado [1285] [43 1 3 15 3 20]. Slot 8
+23:13:23 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:13:23 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2105y - Esqueleto (1/4)
+23:13:25 : [SLIME] - Item Resto_de_Oriharucon deletado [419] [59 17 59 29 59 23]. Slot 13
+23:13:26 : [SLIME] - Item Resto_de_Lactolerium deletado [420] [59 68 59 107 59 9]. Slot 2
+23:13:29 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:13:29 : [SLIME] - Level UP para level 82. Ev: 0/0 - 2403x 2105y
+23:13:34 : [SLIME] - Moveu item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo INVENTÁRIO slot 29
+23:13:35 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:13:35 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2105y - Aparicao (1/1)
+23:13:37 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:13:37 : [SLIME] - Level UP para level 83. Ev: 0/0 - 2403x 2105y
+23:13:37 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:13:37 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2105y - Aparicao (1/1)
+23:13:38 : [SLIME] - Agrupando o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] com o item Poeira_de_Lactolerium [413] [0 0 0 0 0 0]
+23:13:38 : [SLIME] - O agrupamento foi efetuado de slot 0 tipo INVENTÁRIO para slot 29 tipo INVENTÁRIO
+23:13:43 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:13:50 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:14:06 : [SLIME] - Matou o mob Esqueleto. GenerID: 4260
+23:14:07 : [SLIME] - Matou o mob Esqueleto. GenerID: 4260
+23:14:12 : [SLIME] - Matou o mob Esqueleto. GenerID: 4261
+23:14:14 : [SLIME] - Matou o mob Esqueleto. GenerID: 4261
+23:14:23 : [SLIME] - Enviado para a cidade através do ClearArea. Posição: 2414x 2102y - Quest Coveiro
+23:14:23 : [SLIME] - DoRecall - Enviado para cidade: 2091x 2096y
+23:15:25 : [SLIME] - Clicado no NPC [Troca1]. Face 60. Race: 2. GenerateId: 4786. Posição do usuário: 2112x 2108y. Posição do NPC: 2110x 2110y
+23:17:10 : [SLIME] - Item Concentração deletado [670] [0 0 0 0 0 0]. Slot 5
+23:17:12 : [SLIME] - Item Ressurreição deletado [669] [0 0 0 0 0 0]. Slot 3
+23:17:49 : [SLIME] - Teleportado para a posição 960 1761
+23:17:53 : [SLIME] - Teleportado para a posição 2458 2017
+23:18:36 : [SLIME] - Moveu item Elmo(M) [1111] [43 0 4 20 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 10
+23:18:37 : [SLIME] - Item Classe_B [4017] [0 0 0 0 0 0] utilizado em 0x 0y
+23:18:37 : [SLIME] - [Mensagem do servidor]> O item não confere
+23:18:40 : [SLIME] - Item Classe_B [4017] [0 0 0 0 0 0] utilizado em 0x 0y
+23:18:40 : [SLIME] - [Mensagem do servidor]> O item não confere
+23:19:34 : [SLIME] - Item Classe_B [4017] [0 0 0 0 0 0] utilizado em 0x 0y
+23:19:34 : [SLIME] - [Mensagem do servidor]> O item não confere
+23:19:36 : [SLIME] - Moveu item Elmo(M) [1111] [43 0 4 20 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 1
+23:19:39 : [SLIME] - Item Classe_B deletado [4017] [0 0 0 0 0 0]. Slot 5
+23:19:39 : [SLIME] - Item Baú_de_Experiência [4140] [61 240 0 0 0 0] utilizado em 2462x 2005y
+23:19:40 : [SLIME] - Item Baú_de_Caça [4139] [61 240 0 0 0 0] utilizado em 2462x 2005y
+23:19:44 : [SLIME] - Item Frango_Assado [3314] [61 240 0 0 0 0] utilizado em 2462x 2005y
+23:19:45 : [SLIME] - Item Remédio_da_Coragem [646] [0 0 0 0 0 0] utilizado em 2462x 2005y
+23:20:16 : [SLIME] - Matou o mob Javali. GenerID: 602
+23:20:19 : [SLIME] - Clicado no NPC [Coveiro]. Face 58. Race: 2. GenerateId: 3282. Posição do usuário: 2373x 2097y. Posição do NPC: 2372x 2097y
+23:20:19 : [SLIME] - Teleportado para a posição 2396 2104
+23:20:19 : [SLIME] - SLIME entrou na quest [Coveiro].
+23:20:25 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:20:28 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:20:29 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:20:29 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:20:29 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2396x 2104y - Aparicao (1/1)
+23:20:33 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:20:33 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2396x 2104y - Aparicao (1/1)
+23:20:38 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:20:38 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2406x 2105y - Esqueleto (1/4)
+23:20:43 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:20:43 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2406x 2105y - Aparicao (1/1)
+23:20:47 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:20:51 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:20:51 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2406x 2105y - Aparicao (1/1)
+23:20:52 : [SLIME] - Item Poeira_de_Lactolerium [413] [61 2 0 0 0 0] utilizado em 0x 0y
+23:20:52 : [SLIME] - [Mensagem do servidor]> Impossível refinar mais este item.
+23:20:55 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:20:56 : [SLIME] - Item Lactolerium_100 [4141] [0 0 0 0 0 0] utilizado em 0x 0y
+23:20:56 : [SLIME] - [Mensagem do servidor]> Não é possível refinar este item
+23:20:59 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:20:59 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2401x 2105y - Esqueleto (1/4)
+23:21:02 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:21:02 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2105y - Esqueleto (1/4)
+23:21:06 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:21:06 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2105y - Esqueleto (1/4)
+23:21:11 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:21:11 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:21:11 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2105y - Aparicao (1/1)
+23:21:13 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:21:13 : [SLIME] - Level UP para level 84. Ev: 0/0 - 2403x 2107y
+23:21:13 : [SLIME] - Recebeu o item Luvas(M) [1186] [43 0 2 20 53 3]. STR: 150. INT: 4. DEX: 7. CON: 200
+23:21:15 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:21:15 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:21:15 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2107y - Aparicao (1/1)
+23:21:20 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:21:20 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2399x 2104y - Aparicao (1/1)
+23:21:25 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:21:31 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:21:34 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:21:34 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2399x 2104y - Aparicao (1/1)
+23:21:39 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:21:43 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:21:43 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2105y - Esqueleto (1/4)
+23:21:47 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:21:47 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2105y - Aparicao (1/1)
+23:21:51 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:21:51 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2108y - Aparicao (1/1)
+23:22:05 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:22:07 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:22:07 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:22:11 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:22:11 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2106y - Aparicao (1/1)
+23:22:15 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:22:19 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:22:19 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2106y - Esqueleto (1/4)
+23:22:24 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:22:24 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2106y - Aparicao (1/1)
+23:22:28 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:22:28 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2108y - Aparicao (1/1)
+23:22:39 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:22:39 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2106y - Esqueleto (1/4)
+23:22:40 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:22:44 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:22:44 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2106y - Aparicao (1/1)
+23:22:50 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:22:53 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:22:53 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:22:53 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2106y - Esqueleto (1/4)
+23:22:57 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:22:57 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2106y - Aparicao (1/1)
+23:23:02 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:23:02 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2108y - Aparicao (1/1)
+23:23:15 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:23:15 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2106y - Esqueleto (1/4)
+23:23:17 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:23:17 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2106y - Esqueleto (1/4)
+23:23:21 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:23:21 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2106y - Aparicao (1/1)
+23:23:25 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:23:25 : [SLIME] - Dropado item Botas(M) [1174] [43 0 73 30 59 0] em 2405x 2105y - Esqueleto (1/300)
+23:23:29 : [SLIME] - [Mensagem do servidor]: Jogador Nettoco falhou a composição do item Elmo(A) +10
+23:23:29 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:23:33 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:23:33 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2405x 2105y - Aparicao (1/1)
+23:23:35 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:23:35 : [SLIME] - Level UP para level 85. Ev: 0/0 - 2403x 2108y
+23:23:39 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:23:39 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2108y - Aparicao (1/1)
+23:23:43 : [SLIME] - [Mensagem do servidor]: Jogador Nettoco falhou a composição do item Elmo(A) +10
+23:23:52 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:23:52 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:23:53 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:23:53 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2106y - Esqueleto (1/4)
+23:23:57 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:23:57 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2400x 2106y - Aparicao (1/1)
+23:24:02 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:24:05 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:24:05 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:24:05 : [SLIME] - Level UP para level 86. Ev: 0/0 - 2404x 2106y
+23:24:09 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:24:09 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2404x 2106y - Aparicao (1/1)
+23:24:14 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:24:14 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2108y - Aparicao (1/1)
+23:24:27 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:24:31 : [SLIME] - Enviado para a cidade através do ClearArea. Posição: 2400x 2106y - Quest Coveiro
+23:24:31 : [SLIME] - DoRecall - Enviado para cidade: 2092x 2107y
+23:24:31 : [SLIME] - Enviando ataque com o distancia maior que o range do ataque básico. Distância: 308. Distância 2: 306. Range: 2.
+23:24:43 : [SLIME] - Moveu item Aranha [2360] [231 26 1 20 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+23:24:53 : [SLIME] - Moveu item Luvas(M) [1186] [43 0 2 20 53 3] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 4
+23:25:17 : [SLIME] - Comprou uma skill Assalto. Learn antigo: 10995265698748, Learn atual: 42214460458272768. Learn da skill: 1124.
+23:25:17 : [SLIME] - [Mensagem do servidor]> Habilidade Assalto aprendida com sucesso
+23:25:19 : [SLIME] - Comprou uma skill Possuído. Learn antigo: 46179637787580, Learn atual: 42214460458278912. Learn da skill: 1124.
+23:25:19 : [SLIME] - [Mensagem do servidor]> Habilidade Possuído aprendida com sucesso
+23:25:38 : [SLIME] - [Mensagem do servidor]: Jogador Nettoco falhou a composição do item Armadura(A) +10
+23:25:58 : [SLIME] - Teleportado para a posição 960 1761
+23:26:01 : [SLIME] - Clicado no NPC [Angela]. Face 107. Race: 2. GenerateId: 4369. Posição do usuário: 960x 1759y. Posição do NPC: 963x 1773y
+23:26:04 : [SLIME] - Clicado no NPC [Angela]. Face 107. Race: 2. GenerateId: 4369. Posição do usuário: 964x 1773y. Posição do NPC: 963x 1773y
+23:26:05 : [SLIME] - [Mensagem do servidor]: Jogador Nettoco falhou a composição do item Calça(A) +10
+23:26:12 : [SLIME] - Teleportado para a posição 2458 2017
+23:26:14 : [SLIME] - [Mensagem do servidor]: Jogador Nettoco falhou a composição do item Calça(A) +10
+23:26:45 : [SLIME] - Matou o mob Rei Gremlin. GenerID: 602
+23:26:46 : [SLIME] - Matou o mob Rei Gremlin. GenerID: 602
+23:26:48 : [SLIME] - Clicado no NPC [Coveiro]. Face 58. Race: 2. GenerateId: 3282. Posição do usuário: 2373x 2098y. Posição do NPC: 2372x 2097y
+23:26:48 : [SLIME] - Teleportado para a posição 2397 2105
+23:26:48 : [SLIME] - SLIME entrou na quest [Coveiro].
+23:26:52 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:26:52 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2397x 2105y - Aparicao (1/1)
+23:26:53 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:26:53 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:26:58 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:26:58 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2401x 2109y - Aparicao (1/1)
+23:27:02 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:27:08 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:27:08 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2402x 2108y - Esqueleto (1/4)
+23:27:09 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:27:09 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2402x 2108y - Aparicao (1/1)
+23:27:14 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:27:14 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2402x 2108y - Aparicao (1/1)
+23:27:18 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:27:23 : [SLIME] - Matou o mob Esqueleto. GenerID: 4241
+23:27:23 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2390x 2114y - Esqueleto (1/4)
+23:27:26 : [SLIME] - Matou o mob Aparicao. GenerID: 4241
+23:27:26 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2390x 2114y - Aparicao (1/1)
+23:27:28 : [SLIME] - Matou o mob Esqueleto. GenerID: 4239
+23:27:32 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+23:27:32 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2384x 2120y - Esqueleto (1/4)
+23:27:36 : [SLIME] - Matou o mob Esqueleto. GenerID: 4246
+23:27:36 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:27:39 : [SLIME] - Matou o mob Esqueleto. GenerID: 4246
+23:27:41 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:27:41 : [SLIME] - Level UP para level 87. Ev: 0/0 - 2384x 2124y
+23:27:42 : [SLIME] - Matou o mob Esqueleto. GenerID: 4242
+23:27:45 : [SLIME] - Item Luvas(M) deletado [1147] [43 0 2 20 53 3]. Slot 3
+23:27:46 : [SLIME] - Matou o mob Esqueleto. GenerID: 4242
+23:27:52 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+23:27:52 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2384x 2124y - Esqueleto (1/4)
+23:27:54 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+23:27:56 : [SLIME] - Moveu item Botas(M) [1174] [43 0 73 30 59 0] do tipo INVENTÁRIO do slot 26 para tipo EQUIPAMENTO slot 5
+23:27:58 : [SLIME] - Matou o mob Esqueleto. GenerID: 4242
+23:27:58 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:28:00 : [SLIME] - Item Botas(M) deletado [1159] [43 0 73 18 74 12]. Slot 26
+23:28:02 : [SLIME] - Matou o mob Esqueleto. GenerID: 4246
+23:28:04 : [SLIME] - Matou o mob Esqueleto. GenerID: 4242
+23:28:05 : [SLIME] - [Mensagem do servidor]: Jogador Nettoco falhou a composição do item Calça(A) +10
+23:28:07 : [SLIME] - Matou o mob Esqueleto. GenerID: 4242
+23:28:10 : [SLIME] - Matou o mob Esqueleto. GenerID: 4246
+23:28:17 : [SLIME] - [Mensagem do servidor]: Jogador Nettoco falhou a composição do item Calça(A) +10
+23:28:25 : [SLIME] - Matou o mob Esqueleto. GenerID: 4242
+23:28:28 : [SLIME] - Matou o mob Esqueleto. GenerID: 4242
+23:28:31 : [SLIME] - Matou o mob Esqueleto. GenerID: 4242
+23:28:31 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:28:31 : [SLIME] - Level UP para level 88. Ev: 0/0 - 2390x 2127y
+23:28:31 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2390x 2127y - Esqueleto (1/4)
+23:28:38 : [SLIME] - Matou o mob Esqueleto. GenerID: 4246
+23:28:41 : [SLIME] - Matou o mob Esqueleto. GenerID: 4246
+23:28:45 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+23:28:45 : [SLIME] - [Mensagem do servidor]: Jogador Nettoco falhou a composição do item Botas(A) +10
+23:28:48 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+23:28:48 : [SLIME] - Dropado item Luvas(M) [1297] [43 0 72 30 54 12] em 2382x 2122y - Esqueleto (1/300)
+23:28:52 : [SLIME] - Matou o mob Esqueleto. GenerID: 4241
+23:29:01 : [SLIME] - Matou o mob Esqueleto. GenerID: 4242
+23:29:04 : [SLIME] - Matou o mob Esqueleto. GenerID: 4242
+23:29:07 : [SLIME] - Matou o mob Esqueleto. GenerID: 4242
+23:29:11 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+23:29:11 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2384x 2122y - Esqueleto (1/4)
+23:29:15 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+23:29:15 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2384x 2122y - Esqueleto (1/4)
+23:29:18 : [SLIME] - Matou o mob Esqueleto. GenerID: 4246
+23:29:21 : [SLIME] - Matou o mob Esqueleto. GenerID: 4246
+23:29:37 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+23:29:40 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+23:29:40 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:29:40 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2383x 2123y - Esqueleto (1/4)
+23:29:45 : [SLIME] - Matou o mob Aparicao. GenerID: 4241
+23:29:45 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2388x 2118y - Aparicao (1/1)
+23:29:48 : [SLIME] - Matou o mob Esqueleto. GenerID: 4244
+23:29:48 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2388x 2118y - Esqueleto (1/4)
+23:29:48 : [SLIME] - Dropado item Botas(M) [1174] [43 0 73 18 60 6] em 2388x 2118y - Esqueleto (1/300)
+23:29:52 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:29:55 : [SLIME] - Matou o mob Esqueleto. GenerID: 4243
+23:29:58 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:29:58 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2393x 2115y - Esqueleto (1/4)
+23:30:01 : [SLIME] - Matou o mob Esqueleto. GenerID: 4239
+23:30:04 : [SLIME] - Matou o mob Esqueleto. GenerID: 4241
+23:30:04 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2390x 2114y - Esqueleto (1/4)
+23:30:05 : [SLIME] - [Mensagem do servidor]: Jogador Nettoco falhou a composição do item Botas(A) +10
+23:30:08 : [SLIME] - Matou o mob Aparicao. GenerID: 4241
+23:30:08 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2390x 2114y - Aparicao (1/1)
+23:30:13 : [SLIME] - Matou o mob Esqueleto. GenerID: 4240
+23:30:16 : [SLIME] - [Mensagem do servidor]: Jogador Nettoco falhou a composição do item Botas(A) +10
+23:30:17 : [SLIME] - Matou o mob Esqueleto. GenerID: 4239
+23:30:17 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2389x 2111y - Esqueleto (1/4)
+23:30:21 : [SLIME] - Matou o mob Esqueleto. GenerID: 4239
+23:30:21 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2389x 2111y - Esqueleto (1/4)
+23:30:27 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:30:27 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2393x 2115y - Esqueleto (1/4)
+23:30:28 : [SLIME] - [Mensagem do servidor]: Jogador Nettoco falhou a composição do item Botas(A) +10
+23:30:28 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:30:33 : [SLIME] - Matou o mob Esqueleto. GenerID: 4243
+23:30:33 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:30:38 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+23:30:41 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+23:30:41 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2385x 2121y - Esqueleto (1/4)
+23:30:44 : [SLIME] - Matou o mob Esqueleto. GenerID: 4242
+23:30:50 : [SLIME] - [Mensagem do servidor]: Jogador Nettoco falhou a composição do item Luvas(A) +10
+23:30:51 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+23:30:53 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+23:30:54 : [SLIME] - Matou o mob Esqueleto. GenerID: 4242
+23:30:57 : [SLIME] - Matou o mob Esqueleto. GenerID: 4242
+23:31:01 : [SLIME] - Matou o mob Esqueleto. GenerID: 4241
+23:31:05 : [SLIME] - Matou o mob Aparicao. GenerID: 4241
+23:31:05 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2389x 2117y - Aparicao (1/1)
+23:31:08 : [SLIME] - Matou o mob Esqueleto. GenerID: 4243
+23:31:13 : [SLIME] - Matou o mob Esqueleto. GenerID: 4241
+23:31:18 : [SLIME] - Matou o mob Aparicao. GenerID: 4241
+23:31:18 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2389x 2117y - Aparicao (1/1)
+23:31:19 : [SLIME] - Matou o mob Esqueleto. GenerID: 4244
+23:31:23 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:31:23 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:31:23 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2394x 2116y - Esqueleto (1/4)
+23:31:27 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:31:31 : [SLIME] - Matou o mob Esqueleto. GenerID: 4239
+23:31:34 : [SLIME] - Matou o mob Esqueleto. GenerID: 4239
+23:31:34 : [SLIME] - Dropado item Resto_de_Oriharucon [419] [59 55 59 16 59 31] em 2391x 2111y - Esqueleto (1/225)
+23:31:38 : [SLIME] - Matou o mob Esqueleto. GenerID: 4240
+23:31:38 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2386x 2111y - Esqueleto (1/4)
+23:31:41 : [SLIME] - Matou o mob Esqueleto. GenerID: 4240
+23:31:48 : [SLIME] - Matou o mob Esqueleto. GenerID: 4238
+23:31:53 : [SLIME] - Matou o mob Esqueleto. GenerID: 4223
+23:31:57 : [SLIME] - Matou o mob Esqueleto. GenerID: 4223
+23:31:58 : [SLIME] - Matou o mob Esqueleto. GenerID: 4223
+23:31:58 : [SLIME] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2384x 2099y - Esqueleto (1/4)
+23:31:58 : [SLIME] - [Mensagem do servidor]> Seu inventário está cheio
+23:32:01 : [SLIME] - Matou o mob Esqueleto. GenerID: 4227
+23:32:04 : [SLIME] - Matou o mob Esqueleto. GenerID: 4227
+23:32:04 : [SLIME] - [Mensagem do servidor]: Jogador Nettoco falhou a composição do item Luvas(A) +10
+23:32:07 : [SLIME] - Matou o mob Esqueleto. GenerID: 4227
+23:32:12 : [SLIME] - Matou o mob Esqueleto. GenerID: 4233
+23:32:13 : [SLIME] - Matou o mob Aparicao. GenerID: 4233
+23:32:13 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:32:13 : [SLIME] - Level UP para level 89. Ev: 0/0 - 2384x 2099y
+23:32:13 : [SLIME] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2384x 2099y - Aparicao (1/1)
+23:32:13 : [SLIME] - [Mensagem do servidor]> Seu inventário está cheio
+23:32:18 : [SLIME] - Matou o mob Esqueleto. GenerID: 4233
+23:32:18 : [SLIME] - Não dropou o item Caixa_da_Sabedoria por falta de espaço [4117] [0 0 0 0 0 0] em 2384x 2099y - Esqueleto (1/4)
+23:32:18 : [SLIME] - [Mensagem do servidor]> Seu inventário está cheio
+23:32:22 : [SLIME] - Matou o mob Aparicao. GenerID: 4232
+23:32:22 : [SLIME] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+23:32:22 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2384x 2099y - Aparicao (1/1)
+23:32:25 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:32:25 : [SLIME] - Level UP para level 90. Ev: 0/0 - 2384x 2099y
+23:32:25 : [SLIME] - Matou o mob Aparicao. GenerID: 4232
+23:32:25 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2384x 2099y - Aparicao (1/1)
+23:32:28 : [SLIME] - Item Resto_de_Oriharucon deletado [419] [59 55 59 16 59 31]. Slot 27
+23:32:29 : [SLIME] - Item Skeleton_Dart deletado [942] [43 9 0 0 0 0]. Slot 24
+23:32:31 : [SLIME] - Item Poeira_de_Lactolerium deletado [413] [61 2 0 0 0 0]. Slot 29
+23:32:31 : [SLIME] - Matou o mob Esqueleto. GenerID: 4238
+23:32:32 : [SLIME] - Matou o mob Esqueleto. GenerID: 4238
+23:32:32 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:32:35 : [SLIME] - Item Luvas(M) deletado [1297] [43 0 72 30 54 12]. Slot 7
+23:32:37 : [SLIME] - Matou o mob Esqueleto. GenerID: 4227
+23:32:37 : [SLIME] - Dropado item Peitoral(M) [1600] [43 0 71 70 3 20] em 2385x 2099y - Esqueleto (1/300)
+23:32:40 : [SLIME] - Matou o mob Esqueleto. GenerID: 4227
+23:32:40 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2385x 2099y - Esqueleto (1/4)
+23:32:43 : [SLIME] - Item Botas(M) deletado [1174] [43 0 73 18 60 6]. Slot 14
+23:32:44 : [SLIME] - Matou o mob Aparicao. GenerID: 4233
+23:32:44 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2385x 2099y - Aparicao (1/1)
+23:32:45 : [SLIME] - Item Peitoral(M) deletado [1600] [43 0 71 70 3 20]. Slot 3
+23:32:46 : [SLIME] - Matou o mob Esqueleto. GenerID: 4227
+23:32:48 : [SLIME] - Moveu item Aranha [2360] [231 26 1 20 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 14
+23:32:49 : [SLIME] - Matou o mob Esqueleto. GenerID: 4233
+23:32:52 : [SLIME] - Matou o mob Esqueleto. GenerID: 4233
+23:32:52 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2385x 2099y - Esqueleto (1/4)
+23:32:57 : [SLIME] - Matou o mob Esqueleto. GenerID: 4223
+23:32:58 : [SLIME] - Matou o mob Esqueleto. GenerID: 4223
+23:33:01 : [SLIME] - Matou o mob Aparicao. GenerID: 4232
+23:33:01 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2385x 2099y - Aparicao (1/1)
+23:33:06 : [SLIME] - Matou o mob Esqueleto. GenerID: 4238
+23:33:10 : [SLIME] - Matou o mob Esqueleto. GenerID: 4238
+23:33:11 : [SLIME] - Matou o mob Esqueleto. GenerID: 4223
+23:33:15 : [SLIME] - Matou o mob Esqueleto. GenerID: 4233
+23:33:15 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2384x 2104y - Esqueleto (1/4)
+23:33:18 : [SLIME] - Matou o mob Esqueleto. GenerID: 4233
+23:33:21 : [SLIME] - Matou o mob Aparicao. GenerID: 4233
+23:33:21 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:33:21 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2384x 2104y - Aparicao (1/1)
+23:33:26 : [SLIME] - Matou o mob Esqueleto. GenerID: 4239
+23:33:28 : [SLIME] - Matou o mob Esqueleto. GenerID: 4239
+23:33:34 : [SLIME] - Matou o mob Esqueleto. GenerID: 4240
+23:33:37 : [SLIME] - Matou o mob Esqueleto. GenerID: 4240
+23:33:37 : [SLIME] - Dropado item Calça(M) [1453] [43 1 71 50 2 18] em 2384x 2111y - Esqueleto (1/300)
+23:33:41 : [SLIME] - Matou o mob Aparicao. GenerID: 4241
+23:33:41 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2384x 2111y - Aparicao (1/1)
+23:33:48 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:33:51 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:33:53 : [SLIME] - [Mensagem do servidor]: Parabéns Begins pela criação do personagem Arch
+23:33:58 : [SLIME] - Matou o mob Esqueleto. GenerID: 4239
+23:33:59 : [SLIME] - Matou o mob Esqueleto. GenerID: 4239
+23:33:59 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2391x 2112y - Esqueleto (1/4)
+23:34:01 : [SLIME] - Matou o mob Esqueleto. GenerID: 4241
+23:34:05 : [SLIME] - Matou o mob Esqueleto. GenerID: 4240
+23:34:08 : [SLIME] - Matou o mob Esqueleto. GenerID: 4240
+23:34:15 : [SLIME] - Matou o mob Esqueleto. GenerID: 4241
+23:34:15 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2388x 2115y - Esqueleto (1/4)
+23:34:17 : [SLIME] - Matou o mob Aparicao. GenerID: 4241
+23:34:17 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2388x 2115y - Aparicao (1/1)
+23:34:22 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+23:34:22 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:34:22 : [SLIME] - Level UP para level 91. Ev: 0/0 - 2384x 2119y
+23:34:24 : [SLIME] - [INFORMAÇÕES DA CONTA]
+Personagem online: SLIME
+Gold atual: 1998647752
+Level atual: 91
+Experiência atual: 5488901
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:29:48 horas
+Posição atual: 2384x 2119y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(M)[1111] [43 0 4 20 0 0]
+[02] - Armadura(M)[1123] [43 0 2 20 3 20]
+[03] - Calça(M)[1135] [43 0 2 20 3 20]
+[04] - Luvas(M)[1186] [43 0 2 20 53 3]
+[05] - Botas(M)[1174] [43 0 73 30 59 0]
+[06] - Martelo[938] [43 9 0 0 0 0]
+[07] - Martelo[938] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[14] - Aranha[2360] [231 26 1 20 0 0]
+
+[INVENTÁRIO]
+[00] - Baú_de_Experiência[4140] [61 239 0 0 0 0]
+[01] - Baú_de_Caça[4139] [61 239 0 0 0 0]
+[02] - Frango_Assado[3314] [61 239 0 0 0 0]
+[03] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[04] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[05] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[06] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[07] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[08] - Calça(M)[1453] [43 1 71 50 2 18]
+[09] - Kit_de_Cura_(20_M.)[682] [61 16 0 0 0 0]
+[10] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[11] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[12] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[13] - Caixa_da_Sabedoria[4117] [0 0 0 0 0 0]
+[19] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:34:25 : [SLIME] - Matou o mob Esqueleto. GenerID: 4245
+23:34:25 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2384x 2119y - Esqueleto (1/4)
+23:34:29 : [SLIME] - Matou o mob Esqueleto. GenerID: 4243
+23:34:32 : [SLIME] - Matou o mob Esqueleto. GenerID: 4246
+23:34:32 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2382x 2124y - Esqueleto (1/4)
+23:34:32 : [SLIME] - Dropado item Elmo(M) [1447] [43 1 59 0 4 40] em 2382x 2124y - Esqueleto (1/300)
+23:34:35 : [SLIME] - Matou o mob Esqueleto. GenerID: 4246
+23:34:35 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2382x 2124y - Esqueleto (1/4)
+23:34:37 : [SLIME] - Enviado para a cidade através do ClearArea. Posição: 2382x 2124y - Quest Coveiro
+23:34:37 : [SLIME] - DoRecall - Enviado para cidade: 2091x 2100y
+23:37:33 : [SLIME] - Item Calça(M) deletado [1453] [43 1 71 50 2 18]. Slot 8
+23:37:40 : [SLIME] - Item Elmo(M) deletado [1447] [43 1 59 0 4 40]. Slot 16
+23:38:13 : [SLIME] - Teleportado para a posição 1046 1725
+23:38:13 : [SLIME] - Solicitado teleporte na posição 2115x 2102y e teleportado para 1046x 1725y
+23:38:38 : [SLIME] - BETASD8 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+23:38:38 : [SLIME] - 1 Personagem foi desconectado. Permaneceu 00:33:58 minutos online
+23:41:21 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (BETASD8) - IP: 179.252.58.184 Mac: (2A:E9:7C:4E:BF:47). ClientId: 1
+23:41:21 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+23:41:21 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[  1] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[  5] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[  6] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 10] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 11] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 15] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 16] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 20] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 21] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 25] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 30] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+[ 35] - Barra_de_Prata(100Mi)[4010] [0 0 0 0 0 0]
+
+23:41:29 : Solicitou ir ao mundo...
+23:41:29 : Recebido pedido para entrar no jogo
+23:41:29 : Recebido informação do personagem completa.
+23:41:29 : [SLIME] - [INFORMAÇÕES DA CONTA]
+Personagem online: SLIME
+Gold atual: 1998713052
+Level atual: 91
+Experiência atual: 5668861
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2095x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(M)[1111] [43 0 4 20 0 0]
+[02] - Armadura(M)[1123] [43 0 2 20 3 20]
+[03] - Calça(M)[1135] [43 0 2 20 3 20]
+[04] - Luvas(M)[1186] [43 0 2 20 53 3]
+[05] - Botas(M)[1174] [43 0 73 30 59 0]
+[06] - Martelo[938] [43 9 0 0 0 0]
+[07] - Martelo[938] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[14] - Aranha[2360] [231 26 1 20 0 0]
+
+[INVENTÁRIO]
+[00] - Baú_de_Experiência[4140] [61 239 0 0 0 0]
+[01] - Baú_de_Caça[4139] [61 239 0 0 0 0]
+[02] - Frango_Assado[3314] [61 239 0 0 0 0]
+[04] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[09] - Kit_de_Cura_(20_M.)[682] [61 16 0 0 0 0]
+[19] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:41:29 : [SLIME] - Personagem SLIME enviado ao mundo 2095x 2105y - Canal 1 - Cash da conta: 0. PowerLevel: 62
+23:41:29 : [SLIME] - Gold atual: 1998713052. Classe: 0 Evolução: 0. Experiência: 5668861. Nível: 91. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+23:41:29 : [SLIME] - Logou no personagem SLIME com baú de experiência ativo. Tempo: 759
+23:41:29 : [SLIME] - Logou no personagem SLIME com frango ativo. Tempo: 310
+23:41:29 : [SLIME] - Enviado informações do personagem
+23:41:32 : [SLIME] - Comando "/day "
+23:41:32 : [SLIME] - [Mensagem do servidor]> !#11 2
+23:41:35 : [SLIME] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:41:43 : [SLIME] - Teleportado para a posição 960 1761
+23:41:43 : [SLIME] - CrackError - Points: 1 type: 5
+23:41:50 : [SLIME] - Teleportado para a posição 2458 2017
+23:42:32 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 754
+23:42:35 : [SLIME] - Matou o mob Orc Cavaleiro . GenerID: 769
+23:42:39 : [SLIME] - Matou o mob Guarda Orc . GenerID: 839
+23:42:39 : [SLIME] - Dropado item Chave_Portão_Orc_Sul [465] [0 0 0 0 0 0] em 2468x 2134y - Guarda Orc  (1/1)
+23:42:52 : [SLIME] - Matou o mob Orc Guard . GenerID: 829
+23:42:52 : [SLIME] - Dropado item Última_Chave_Orc [467] [0 0 0 0 0 0] em 2497x 2118y - Orc Guard  (1/1)
+23:43:08 : [SLIME] - Matou o mob Chefe Orc . GenerID: 846
+23:43:08 : [SLIME] - Dropado item Última_Chave_Orc_Leste [469] [0 0 0 0 0 0] em 2531x 2155y - Chefe Orc  (1/1)
+23:43:23 : [SLIME] - Matou o mob Orc Lord. GenerID: 832
+23:43:23 : [SLIME] - Dropado item Pilula_do_Poder_Mágico [470] [0 0 0 0 0 0] em 2534x 2122y - Orc Lord (1/1)
+23:43:25 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 831
+23:43:28 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 831
+23:43:30 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 838
+23:43:32 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 830
+23:43:41 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 837
+23:43:41 : [SLIME] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+23:43:47 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 830
+23:43:48 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 830
+23:43:49 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 831
+23:43:51 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 831
+23:43:54 : [SLIME] - Matou o mob Meio Orc . GenerID: 838
+23:43:56 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 833
+23:43:58 : [SLIME] - Matou o mob Meio Orc . GenerID: 834
+23:44:00 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 837
+23:44:01 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 837
+23:44:04 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 833
+23:44:10 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 830
+23:44:13 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 830
+23:44:17 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 831
+23:44:19 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 831
+23:44:25 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 837
+23:44:26 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 837
+23:44:29 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 837
+23:44:47 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 837
+23:44:48 : [SLIME] - Matou o mob Meio Orc . GenerID: 834
+23:44:50 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 834
+23:44:51 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 834
+23:44:59 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 831
+23:45:00 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 830
+23:45:01 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 830
+23:45:02 : [SLIME] - Matou o mob Meio Orc . GenerID: 838
+23:45:05 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 831
+23:45:13 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 838
+23:45:14 : [SLIME] - Item Pilula_do_Poder_Mágico [470] [0 0 0 0 0 0] utilizado em 2532x 2115y
+23:45:14 : [SLIME] - [Mensagem do servidor]> Foi adicionado 9 pontos de skill.
+23:45:18 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 830
+23:45:20 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 830
+23:45:23 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 833
+23:45:26 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 833
+23:45:29 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 831
+23:45:30 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 831
+23:45:38 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 838
+23:45:39 : [SLIME] - Matou o mob Meio Orc . GenerID: 838
+23:45:42 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 830
+23:45:45 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 830
+23:45:47 : [SLIME] - Matou o mob Orc Cavaleiro . GenerID: 836
+23:45:48 : [SLIME] - Matou o mob Orc Cavaleiro . GenerID: 836
+23:45:50 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 837
+23:45:52 : [SLIME] - Matou o mob Meio Orc . GenerID: 836
+23:46:05 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 833
+23:46:07 : [SLIME] - Matou o mob Meio Orc . GenerID: 838
+23:46:08 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 838
+23:46:10 : [SLIME] - Matou o mob Meio Orc . GenerID: 834
+23:46:19 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 833
+23:46:21 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 834
+23:46:22 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 834
+23:46:25 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 838
+23:46:26 : [SLIME] - Matou o mob Meio Orc . GenerID: 838
+23:46:29 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 831
+23:46:30 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 831
+23:46:31 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 830
+23:46:33 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 830
+23:46:38 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 833
+23:46:39 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 833
+23:46:41 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 834
+23:46:42 : [SLIME] - Matou o mob Meio Orc . GenerID: 834
+23:46:43 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 837
+23:46:46 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 837
+23:46:49 : [SLIME] - Matou o mob Meio Orc . GenerID: 834
+23:46:51 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 834
+23:46:52 : [SLIME] - Matou o mob Orc Arqueiro. GenerID: 835
+23:46:54 : [SLIME] - Matou o mob Orc Arqueiro. GenerID: 835
+23:46:55 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 835
+23:47:06 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 830
+23:47:08 : [SLIME] - Matou o mob Orc Lord. GenerID: 832
+23:47:08 : [SLIME] - Dropado item Pilula_do_Poder_Mágico [470] [0 0 0 0 0 0] em 2535x 2121y - Orc Lord (1/1)
+23:47:09 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 831
+23:47:19 : [SLIME] - [Mensagem do servidor]> Você não possui a chave.
+23:47:19 : [SLIME] - Matou o mob Orc Arqueiro . GenerID: 833
+23:47:20 : [SLIME] - Matou o mob Orc Guerreiro . GenerID: 833
+23:47:22 : [SLIME] - Matou o mob Meio Orc . GenerID: 834
+23:47:28 : [SLIME] - Personagem deu personagem
+23:47:54 : Solicitou ir ao mundo...
+23:47:54 : Recebido pedido para entrar no jogo
+23:47:54 : Recebido informação do personagem completa.
+23:47:54 : [SLIME] - [INFORMAÇÕES DA CONTA]
+Personagem online: SLIME
+Gold atual: 1998710452
+Level atual: 91
+Experiência atual: 5710669
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:06:08 horas
+Posição atual: 2087x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 16777216
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(M)[1111] [43 0 4 20 0 0]
+[02] - Armadura(M)[1123] [43 0 2 20 3 20]
+[03] - Calça(M)[1135] [43 0 2 20 3 20]
+[04] - Luvas(M)[1186] [43 0 2 20 53 3]
+[05] - Botas(M)[1174] [43 0 73 30 59 0]
+[06] - Martelo[938] [43 9 0 0 0 0]
+[07] - Martelo[938] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[14] - Aranha[2360] [184 26 1 20 0 0]
+
+[INVENTÁRIO]
+[00] - Baú_de_Experiência[4140] [61 239 0 0 0 0]
+[01] - Baú_de_Caça[4139] [61 239 0 0 0 0]
+[02] - Frango_Assado[3314] [61 239 0 0 0 0]
+[03] - Última_Chave_Orc[467] [0 0 0 0 0 0]
+[04] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[05] - Pilula_do_Poder_Mágico[470] [0 0 0 0 0 0]
+[09] - Kit_de_Cura_(20_M.)[682] [61 16 0 0 0 0]
+[19] - Lactolerium_100[4141] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:47:54 : [SLIME] - Personagem SLIME enviado ao mundo 2087x 2095y - Canal 1 - Cash da conta: 0. PowerLevel: 62
+23:47:54 : [SLIME] - Gold atual: 1998710452. Classe: 0 Evolução: 0. Experiência: 5710669. Nível: 91. Info: 16777216. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+23:47:54 : [SLIME] - Logou no personagem SLIME com baú de experiência ativo. Tempo: 717
+23:47:54 : [SLIME] - Logou no personagem SLIME com frango ativo. Tempo: 268
+23:47:54 : [SLIME] - Enviado informações do personagem
+23:47:55 : [SLIME] - Comando "/day "
+23:47:55 : [SLIME] - [Mensagem do servidor]> !#11 2
+23:48:11 : [SLIME] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:50:56 : [SLIME] - [Mensagem do servidor]: Nettoco falhou na composição do item Machado para Ancient
+23:51:06 : [SLIME] - [Mensagem do servidor]: Nettoco falhou na composição do item Machado para Ancient
+23:51:30 : [SLIME] - [Mensagem do servidor]: Jogador Nettoco obteve sucesso na composição de Martelo_Assassino(Anct)
+23:51:51 : [SLIME] - [Mensagem do servidor]: Jogador Nettoco obteve sucesso na composição de Martelo_Assassino(Anct)
+23:52:50 : [SLIME] - Item Pilula_do_Poder_Mágico [470] [0 0 0 0 0 0] utilizado em 2078x 2098y
+23:52:50 : [SLIME] - [Mensagem do servidor]> Você ja completou esta quest.
+23:52:52 : [SLIME] - Item Última_Chave_Orc deletado [467] [0 0 0 0 0 0]. Slot 3
+23:52:59 : [SLIME] - Clicado no NPC [Troca1]. Face 60. Race: 2. GenerateId: 4786. Posição do usuário: 2110x 2103y. Posição do NPC: 2110x 2110y
+23:53:09 : [SLIME] - Teleportado para a posição 960 1761
+23:53:09 : [SLIME] - CrackError - Points: 1 type: 5
+23:53:13 : [SLIME] - Teleportado para a posição 2458 2017
+23:53:16 : [SLIME] - Clicado no NPC [Perzen Normal]. Face 11. Race: 2. GenerateId: 3274. Posição do usuário: 2459x 2013y. Posição do NPC: 2465x 2009y
+23:53:26 : [SLIME] - Clicado no NPC [Perzen Normal]. Face 11. Race: 2. GenerateId: 3274. Posição do usuário: 2466x 2017y. Posição do NPC: 2465x 2009y
+23:53:53 : [SLIME] - Clicado no NPC [Coveiro]. Face 58. Race: 2. GenerateId: 3282. Posição do usuário: 2371x 2099y. Posição do NPC: 2372x 2097y
+23:53:53 : [SLIME] - Teleportado para a posição 2397 2105
+23:53:53 : [SLIME] - SLIME entrou na quest [Coveiro].
+23:54:00 : [SLIME] - Matou o mob Esqueleto. GenerID: 4261
+23:54:00 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2412x 2099y - Esqueleto (1/4)
+23:54:04 : [SLIME] - Matou o mob Esqueleto. GenerID: 4261
+23:54:04 : [SLIME] - Dropado item Luvas(M) [1171] [43 1 72 20 74 12] em 2412x 2099y - Esqueleto (1/300)
+23:54:08 : [SLIME] - Matou o mob Aparicao. GenerID: 4235
+23:54:08 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2412x 2099y - Aparicao (1/1)
+23:54:09 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+23:54:09 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2412x 2099y - Esqueleto (1/4)
+23:54:09 : [SLIME] - Dropado item Calça(M) [1285] [43 0 71 50 60 6] em 2412x 2099y - Esqueleto (1/300)
+23:54:12 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:54:16 : [SLIME] - Matou o mob Esqueleto. GenerID: 4235
+23:54:17 : [SLIME] - Matou o mob Esqueleto. GenerID: 4256
+23:54:17 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2408x 2103y - Esqueleto (1/4)
+23:54:21 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:54:21 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:54:21 : [SLIME] - Level UP para level 92. Ev: 0/0 - 2403x 2108y
+23:54:21 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2403x 2108y - Aparicao (1/1)
+23:54:24 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:54:24 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2397x 2114y - Esqueleto (1/4)
+23:54:28 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:54:33 : [SLIME] - Matou o mob Esqueleto. GenerID: 4239
+23:54:33 : [SLIME] - Dropado item Botas(M) [1459] [4 33 73 18 60 6] em 2392x 2111y - Esqueleto (1/300)
+23:54:36 : [SLIME] - Matou o mob Esqueleto. GenerID: 4239
+23:54:40 : [SLIME] - Matou o mob Esqueleto. GenerID: 4241
+23:54:40 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2390x 2113y - Esqueleto (1/4)
+23:54:43 : [SLIME] - Matou o mob Aparicao. GenerID: 4241
+23:54:43 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2390x 2113y - Aparicao (1/1)
+23:54:46 : [SLIME] - Matou o mob Esqueleto. GenerID: 4244
+23:54:49 : [SLIME] - Matou o mob Esqueleto. GenerID: 4243
+23:54:49 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2389x 2120y - Esqueleto (1/4)
+23:54:52 : [SLIME] - Matou o mob Esqueleto. GenerID: 4244
+23:54:56 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:54:59 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:55:04 : [SLIME] - Matou o mob Esqueleto. GenerID: 4243
+23:55:06 : [SLIME] - Matou o mob Esqueleto. GenerID: 4243
+23:55:06 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2390x 2119y - Esqueleto (1/4)
+23:55:06 : [SLIME] - [Mensagem do servidor]: Nettoco falhou na composição do item Machado para Ancient
+23:55:13 : [SLIME] - Matou o mob Esqueleto. GenerID: 4244
+23:55:13 : [SLIME] - Enviado para a cidade através do ClearArea. Posição: 2388x 2121y - Quest Coveiro
+23:55:13 : [SLIME] - DoRecall - Enviado para cidade: 2089x 2099y
+23:55:17 : [SLIME] - [Mensagem do servidor]: Nettoco falhou na composição do item Machado para Ancient
+23:56:02 : [SLIME] - [Mensagem do servidor]: Nettoco falhou na composição do item Machado para Ancient
+23:56:05 : [SLIME] - Item Luvas(M) deletado [1171] [43 1 72 20 74 12]. Slot 5
+23:56:09 : [SLIME] - Item Calça(M) deletado [1285] [43 0 71 50 60 6]. Slot 8
+23:56:10 : [SLIME] - Item Botas(M) deletado [1459] [4 33 73 18 60 6]. Slot 13
+23:56:25 : [SLIME] - Teleportado para a posição 960 1761
+23:56:29 : [SLIME] - Teleportado para a posição 2458 2017
+23:56:58 : [SLIME] - Matou o mob Javali. GenerID: 585
+23:57:02 : [SLIME] - Matou o mob Chefe Krill. GenerID: 586
+23:57:03 : [SLIME] - Matou o mob Rei Gremlin. GenerID: 585
+23:57:05 : [SLIME] - Matou o mob Javali. GenerID: 585
+23:57:05 : [SLIME] - Dropado item Peitoral(A) [2047] [43 0 3 10 3 5] em 2370x 2065y - Javali (1/300)
+23:57:12 : [SLIME] - Matou o mob Rei Gremlin. GenerID: 585
+23:57:13 : [SLIME] - Matou o mob Javali. GenerID: 585
+23:57:14 : [SLIME] - Matou o mob Rei Gremlin. GenerID: 585
+23:57:24 : [SLIME] - Clicado no NPC [Coveiro]. Face 58. Race: 2. GenerateId: 3282. Posição do usuário: 2374x 2098y. Posição do NPC: 2372x 2097y
+23:57:24 : [SLIME] - Teleportado para a posição 2397 2105
+23:57:24 : [SLIME] - SLIME entrou na quest [Coveiro].
+23:57:27 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:57:29 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:57:34 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:57:34 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2397x 2105y - Aparicao (1/1)
+23:57:38 : [SLIME] - Matou o mob Esqueleto. GenerID: 4239
+23:57:40 : [SLIME] - Matou o mob Esqueleto. GenerID: 4239
+23:57:40 : [SLIME] - [Mensagem do servidor]: Nettoco falhou na composição do item Machado para Ancient
+23:57:43 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:57:45 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:57:49 : [SLIME] - Matou o mob Aparicao. GenerID: 4236
+23:57:49 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2401x 2111y - Aparicao (1/1)
+23:57:51 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:57:51 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2398x 2114y - Esqueleto (1/4)
+23:57:54 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:57:54 : [SLIME] - Level UP para level 93. Ev: 0/0 - 2397x 2115y
+23:57:55 : [SLIME] - Matou o mob Esqueleto. GenerID: 4248
+23:57:57 : [SLIME] - Item Peitoral(A) deletado [2047] [43 0 3 10 3 5]. Slot 3
+23:58:00 : [SLIME] - Matou o mob Esqueleto. GenerID: 4239
+23:58:02 : [SLIME] - Matou o mob Esqueleto. GenerID: 4239
+23:58:07 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:58:07 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2396x 2106y - Esqueleto (1/4)
+23:58:09 : [SLIME] - Matou o mob Esqueleto. GenerID: 4234
+23:58:12 : [SLIME] - Matou o mob Aparicao. GenerID: 4234
+23:58:12 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2397x 2105y - Aparicao (1/1)
+23:58:16 : [SLIME] - Matou o mob Esqueleto. GenerID: 4238
+23:58:19 : [SLIME] - Matou o mob Esqueleto. GenerID: 4238
+23:58:19 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2392x 2104y - Esqueleto (1/4)
+23:58:23 : [SLIME] - Matou o mob Aparicao. GenerID: 4232
+23:58:23 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2387x 2099y - Aparicao (1/1)
+23:58:26 : [SLIME] - Matou o mob Esqueleto. GenerID: 4227
+23:58:26 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2387x 2099y - Esqueleto (1/4)
+23:58:29 : [SLIME] - Matou o mob Aparicao. GenerID: 4233
+23:58:29 : [SLIME] - [Mensagem do servidor]> Adquiriu 1/4 de bônus.
+23:58:29 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2387x 2099y - Aparicao (1/1)
+23:58:31 : [SLIME] - Matou o mob Esqueleto. GenerID: 4223
+23:58:31 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2387x 2099y - Esqueleto (1/4)
+23:58:34 : [SLIME] - Matou o mob Esqueleto. GenerID: 4233
+23:58:37 : [SLIME] - Matou o mob Esqueleto. GenerID: 4233
+23:58:37 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2387x 2099y - Esqueleto (1/4)
+23:58:39 : [SLIME] - Matou o mob Esqueleto. GenerID: 4227
+23:58:39 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2387x 2099y - Esqueleto (1/4)
+23:58:42 : [SLIME] - Matou o mob Esqueleto. GenerID: 4223
+23:58:45 : [SLIME] - Matou o mob Esqueleto. GenerID: 4223
+23:58:45 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2387x 2099y - Esqueleto (1/4)
+23:58:55 : [SLIME] - Matou o mob Aparicao. GenerID: 4232
+23:58:55 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2387x 2092y - Aparicao (1/1)
+23:58:57 : [SLIME] - Matou o mob Esqueleto. GenerID: 4223
+23:58:57 : [SLIME] - Dropado item Chapéu(M) [1597] [43 1 59 0 4 30] em 2387x 2092y - Esqueleto (1/300)
+23:58:59 : [SLIME] - Matou o mob Esqueleto. GenerID: 4223
+23:58:59 : [SLIME] - [Mensagem do servidor]> + + + LEVEL UP + + +
+23:58:59 : [SLIME] - Level UP para level 94. Ev: 0/0 - 2387x 2092y
+23:58:59 : [SLIME] - Recebeu o item Elmo(M) [1177] [43 0 4 20 0 0]. STR: 200. INT: 4. DEX: 7. CON: 200
+23:59:02 : [SLIME] - Matou o mob Esqueleto. GenerID: 4223
+23:59:03 : [SLIME] - Matou o mob Esqueleto. GenerID: 4227
+23:59:03 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2387x 2092y - Esqueleto (1/4)
+23:59:05 : [SLIME] - Matou o mob Esqueleto. GenerID: 4224
+23:59:08 : [SLIME] - Matou o mob Esqueleto. GenerID: 4224
+23:59:08 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2387x 2092y - Esqueleto (1/4)
+23:59:08 : [SLIME] - Dropado item Resto_de_Oriharucon [419] [59 23 59 46 59 83] em 2387x 2092y - Esqueleto (1/225)
+23:59:11 : [SLIME] - Matou o mob Esqueleto. GenerID: 4227
+23:59:13 : [SLIME] - Matou o mob Esqueleto. GenerID: 4227
+23:59:16 : [SLIME] - Matou o mob Esqueleto. GenerID: 4227
+23:59:20 : [SLIME] - Matou o mob Esqueleto. GenerID: 4226
+23:59:23 : [SLIME] - Matou o mob Esqueleto. GenerID: 4226
+23:59:23 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2387x 2092y - Esqueleto (1/4)
+23:59:25 : [SLIME] - Matou o mob Esqueleto. GenerID: 4226
+23:59:28 : [SLIME] - Matou o mob Esqueleto. GenerID: 4226
+23:59:31 : [SLIME] - Matou o mob Esqueleto. GenerID: 4226
+23:59:33 : [SLIME] - Matou o mob Aparicao. GenerID: 4230
+23:59:33 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2387x 2092y - Aparicao (1/1)
+23:59:38 : [SLIME] - Matou o mob Aparicao. GenerID: 4230
+23:59:38 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2387x 2092y - Aparicao (1/1)
+23:59:41 : [SLIME] - Matou o mob Esqueleto. GenerID: 4224
+23:59:45 : [SLIME] - Matou o mob Esqueleto. GenerID: 4224
+23:59:46 : [SLIME] - Matou o mob Esqueleto. GenerID: 4224
+23:59:46 : [SLIME] - Dropado item Caixa_da_Sabedoria [4117] [0 0 0 0 0 0] em 2387x 2092y - Esqueleto (1/4)
+23:59:47 : [SLIME] - Matou o mob Esqueleto. GenerID: 4226
+23:59:49 : [SLIME] - Moveu item Elmo(M) [1177] [43 0 4 20 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 1
+23:59:50 : [SLIME] - Matou o mob Esqueleto. GenerID: 4227
+23:59:50 : [SLIME] - [Mensagem do servidor]: Jogador Nettoco obteve sucesso na composição de Martelo_Assassino(Anct)
+23:59:54 : [SLIME] - Matou o mob Esqueleto. GenerID: 4227
+23:59:57 : [SLIME] - Matou o mob Esqueleto. GenerID: 4227

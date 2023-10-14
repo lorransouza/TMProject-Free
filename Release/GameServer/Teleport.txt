@@ -1,0 +1,85 @@
+# 
+#	TeleportList
+# 
+# Source X, Source Y, Destiny X, Destiny Y, Price, Teleport Name(Not used)
+
+# Armia
+2118, 2102, 1046, 1725, 700, Armia para Noatum
+2141, 2069, 2590, 2098,   0, Armia para Campo Armia
+
+# Notaum
+1044, 1724, 2117, 2102,   0, Noatum para Armia
+1044, 1717, 2481, 1717,   0, Noatum para Arzan
+1044, 1709, 2457, 2018,   0, Noatum para Erion
+1053, 1709, 3650, 3109,   0, Noatum para Gelo
+1058, 1725, 4000, 4000, 700, Noatum para Casino
+1049, 1765, 1097, 1711,   0, Noatum para Guerra
+
+# Erion
+2458, 2018, 1045, 1709, 700, Erion para Notaum
+
+# Gelo
+3650, 3109, 1054, 1709,1000, Gelo para Noatun
+
+# Arzan
+2482, 1717, 1045, 1717, 700, Arzan para Notaum
+2469, 1717, 2248, 1558,   0, Arzan para Campo Arzan
+2453, 1717, 1969, 1711,   0, Arzan para Campo Arzan 2
+
+# Kefra
+2366, 3925, 3250, 1703,   0, Hall Kefra para Cidade Kefra
+2366, 3893, 2366, 3910,   0, Kefra para Hall
+2366, 4073, 1314, 1900,   0, Kefra para Deserto
+1314, 1901, 2366, 4073,   0, Deserto para Kefra
+
+# Campo de Armia
+2669, 2157,  146, 3775,   0, Campo armia para Dungeon 1
+ 146, 3775, 2669, 2157,   0, Dungeon para Campo armia 1
+ 145, 3788, 2363, 2284,   0, Campo armia para Dungeon 2
+2363, 2284,  145, 3788,   0, Dungeon para Campo armia 2
+
+# Dungeon
+ 147, 3781, 1006, 4030,   0, Dungeon para Dungeon
+1006, 4030,  147, 3781,   0, Dungeon para Dungeon
+1006, 3993,  747, 3817,   0, Dungeon para Dungeon
+ 747, 3817, 1006, 3993,   0, Dungeon para Dungeon
+ 681, 4077,  917, 3822,   0, Dungeon para Dungeon
+ 917, 3822,  681, 4077,   0, Dungeon para Dungeon
+ 917, 3822,  681, 4077,   0, Dungeon para Dungeon
+ 933, 3822,  877, 3874,   0, Dungeon para Dungeon
+ 877, 3874,  933, 3822,   0, Dungeon para Dungeon
+ 912, 3811,  747, 3806,   0, Dungeon para Dungeon
+ 747, 3806,  912, 3811,   0, Dungeon para Dungeon
+ 410, 4072, 1006, 4064,	  0, Dungeon para Dungeon
+ 1006, 4064, 410, 4072,	  0, Dungeon para Dungeon
+# Campo Arzan
+1173, 4079, 1825, 1775,   0, Submundo para Campo arzan
+1826, 1775, 1174, 4080,   0, Submundo para Campo arzan
+1518, 3997, 1305, 3818,   0, Submundo para Submundo2
+1305, 3818, 1518, 3997,   0, Submundo2 para Submundo
+
+# Erion
+2454, 1990, 2454, 1900,   0, Erion para Campo de Arzan
+
+#RvR
+1711, 1982, 1726, 1981, 0, Base para área PvP RvR
+1753, 1981, 1739, 1981, 0, Base para área PvP RvR
+
+#NewRvR
+1235, 1957, 1207, 1989, 0, Base do Reino Red para o Centro
+1064, 2138, 1094, 2106, 0, Base do Reino Red para o Centro
+
+#Área do Vale
+2551, 1741, 2284, 3688, 0, Arzan para o local do Vale
+
+#Área do Evento
+2073, 2092, 1130, 1512, 0, Galford
+2082, 2127, 1130, 1499, 0, SkillBM
+2148, 2123, 1131, 1451, 0, SkillTK
+2152, 2068, 1131, 1437, 0, M Habilidade
+
+#Arena Real
+190, 559, 190, 572, 0, Teleport 1
+147, 559, 147, 572, 0, Teleport 2
+190, 618, 190, 606, 0, Teleport 3
+147, 618, 147, 606, 0, Teleport 4

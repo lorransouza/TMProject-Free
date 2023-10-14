@@ -1,0 +1,86 @@
+
+17:35:32 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+17:35:32 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+17:35:32 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+17:35:32 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 2
+17:35:32 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+17:35:33 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+17:35:33 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+17:35:33 : CONTAJOAO Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+17:35:33 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+17:35:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (CONTAJOAO) - IP: 191.250.9.69 Mac: (57:97:A2:B8:71:46). ClientId: 1
+17:35:36 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 0
+17:35:36 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+[  0] - Unicórnio[2381] [1 1 120 60 0 1]
+[  5] - Unicórnio[2381] [1 1 120 60 1 1]
+[ 10] - Eirenus(Anct)[2864] [43 251 0 0 0 0]
+[186] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[200] - Peerage_Lift[3479] [106 9 110 11 109 120]
+[201] - Peerage_Lift[3479] [106 9 110 11 109 120]
+
+17:35:36 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:35:39 : Solicitou ir ao mundo...
+17:35:39 : Recebido pedido para entrar no jogo
+17:35:39 : Recebido informação do personagem completa.
+17:35:39 : [28jdi] - [INFORMAÇÕES DA CONTA]
+Personagem online: 28jdi
+Gold atual: 1194939000
+Level atual: 399
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2096x 2101y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - TransKnight[7] [43 0 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [0 0 0 0 0 0]
+[14] - Unicórnio[2381] [1 1 120 60 0 0]
+[15] - Mestre_de_Akelonia[3198] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Elmo_do_Corvo[1510] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [147 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:35:39 : [28jdi] - Personagem 28jdi enviado ao mundo 2096x 2101y - Canal 2 - Cash da conta: 0. OverPower: 1168
+17:35:39 : [28jdi] - Gold atual: 1194939000. Classe: 0 Evolução: 0. Experiência: 0. Nível: 399. Info: 0. GuildID: 0. CP: 72. Pontos de Contribuição: 0. Limite: 0
+17:35:39 : [28jdi] - Resetado a contagem de entradas água! Day: 328-329. Total: 0
+17:35:39 : [28jdi] - Enviado informações do personagem
+17:35:40 : [28jdi] - Comando "/day "
+17:35:40 : [28jdi] - [Mensagem do servidor]> !#11 2
+17:35:44 : [28jdi] - Comando "/gm +gelo"
+17:35:44 : [28jdi] - Teleportado para a posição 3648 3117
+17:35:50 : [28jdi] - Comprou o item Pedido_de_Caça(Armia) [3432] [61 100 0 0 0 0] na loja de Martin . Preço total: 1265000. Imposto: 165000. Gold: 1194939000 anterior. Gold após a compra: 1193674000
+17:35:51 : [28jdi] - Comprou o item Pedido_de_Caça(Dung) [3433] [61 100 0 0 0 0] na loja de Martin . Preço total: 1265000. Imposto: 165000. Gold: 1193674000 anterior. Gold após a compra: 1192409000
+17:35:56 : [28jdi] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:35:59 : [28jdi] - Item Pedido_de_Caça(Armia) [3432] [61 100 0 0 0 0] utilizado em 3644x 3112y
+17:35:59 : [28jdi] - Teleportado para a posição 1989 1755
+17:36:17 : [28jdi] - Item Pedido_de_Caça(Armia) [3432] [61 99 0 0 0 0] utilizado em 1970x 1760y
+17:36:17 : [28jdi] - Teleportado para a posição 2250 1316
+17:36:27 : [28jdi] - Comando "/gm +azran"
+17:36:27 : [28jdi] - Teleportado para a posição 2482 1709
+17:36:56 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino blue nasceu
+17:37:08 : [28jdi] - [Mensagem do servidor]: A Torre Guardiã do reino red nasceu

@@ -1,3 +1,24 @@
 *.vcxproj
+*.tlog
+*.pch
+*.obj
+*.exe
+*.ilk
+*.recipe
+*.res
+*.idb
 *.obj
 *.vcxproj.filters
+*.lock
+*.db
+*.vsidx
+*.VC.db-shm
+*.VC.db-wal
+*.VC.opendb
+/Debug/
+*.Vs
+*.log
+*.pdb
+Source servidor/DataServer/Debug/Base.obj
+*.obj
+*.obj

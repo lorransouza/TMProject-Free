@@ -1,0 +1,781 @@
+
+21:11:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN4) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+21:11:23 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1211697703
+21:11:23 : [INFORMAÇÕES DO BANCO]
+Gold: 1211697703
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1147] [43 3 60 6 53 3]
+[  2] - Botas(M)[1159] [43 3 60 6 74 12]
+[  3] - Elmo(M)[1111] [43 3 4 20 0 0]
+[  4] - Calça(M)[1135] [43 3 60 6 3 20]
+[  5] - Armadura(M)[1123] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1186] [43 3 60 6 53 3]
+[  7] - Botas(M)[1189] [43 3 60 6 74 12]
+[  8] - Elmo(M)[1177] [43 3 4 20 0 0]
+[  9] - Calça(M)[1183] [43 3 60 6 3 20]
+[ 10] - Armadura(M)[1180] [43 3 60 6 3 20]
+[ 11] - Manopla(M)[1201] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1204] [43 3 60 6 74 12]
+[ 13] - Elmo(M)[1192] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1198] [43 3 60 6 3 20]
+[ 15] - Armadura(M)[1195] [43 3 60 6 3 20]
+[ 16] - Cythera_Arcana[3507] [43 250 4 70 3 50]
+[ 17] - Lança[854] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1216] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1219] [43 3 60 6 74 12]
+[ 20] - Elmo(M)[1207] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1213] [43 3 60 6 3 20]
+[ 22] - Armadura(M)[1210] [43 3 60 6 3 20]
+[ 23] - Foice_Platinada[3566] [43 6 60 16 0 0]
+[ 24] - Fênix[2389] [20 0 120 105 1 2]
+[ 25] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 26] - [4646] [0 0 0 0 0 0]
+[ 27] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 28] - Armadura[1221] [43 6 0 0 0 0]
+[ 29] - Calça[1222] [43 6 0 0 0 0]
+[ 30] - Luvas[1223] [43 6 0 0 0 0]
+[ 31] - Botas[1224] [43 6 0 0 0 0]
+[ 32] - [4642] [0 0 0 0 0 0]
+[ 33] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 34] - Hrimfaxi[2366] [16 39 120 117 46 0]
+[ 35] - Lança[856] [43 9 61 28 0 0]
+[ 36] - Luvas(M)[1456] [43 3 2 20 53 3]
+[ 37] - Botas(M)[1459] [43 3 73 18 74 12]
+[ 38] - Elmo(M)[1447] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1453] [43 3 2 20 3 20]
+[ 40] - Cria_de_Aranha[2330] [10 10 10 10 0 0]
+[ 41] - Cria_de_Cavalo_Leve_N[2338] [10 10 10 10 0 0]
+[ 42] - Cria_de_Fenrir[2346] [10 10 10 10 0 0]
+[ 43] - Cria_de_Grifo[2354] [10 10 10 10 0 0]
+[ 44] - Armadura(M)[1450] [43 3 2 20 3 20]
+[ 45] - Cria_de_Javali[2331] [10 10 10 10 0 0]
+[ 46] - Cria_de_Cavalo_Equip_N[2339] [10 10 10 10 0 0]
+[ 47] - Cria_de_Dragão[2347] [10 10 10 10 0 0]
+[ 48] - Cria_de_Hipogrifo[2355] [10 10 10 10 0 0]
+[ 49] - Luvas(M)[1471] [43 3 2 20 53 3]
+[ 50] - Cria_de_Lobo[2332] [10 10 10 10 0 0]
+[ 51] - Cria_de_Andaluz_N[2340] [10 10 10 10 0 0]
+[ 52] - Cria_de_Fenrir_das_Sombras[2348] [10 10 10 10 0 0]
+[ 53] - Cria_de_Grifo_Sangrento[2356] [10 10 10 10 0 0]
+[ 54] - Botas(M)[1474] [43 3 73 18 74 12]
+[ 55] - Cria_de_Dragão_Menor[2333] [10 10 10 10 0 0]
+[ 56] - Cria_de_Skinfaxi[2341] [10 10 10 10 0 0]
+[ 57] - Cria_de_Tigre_de_Fogo[2349] [10 10 10 10 0 0]
+[ 58] - Cria_de_Svadilfari[2357] [10 10 10 10 0 0]
+[ 59] - Elmo(M)[1462] [43 3 4 20 0 0]
+[ 60] - Cria_de_Urso[2334] [10 10 10 10 0 0]
+[ 61] - Cria_de_Cavalo_Fantasm_B[2342] [10 10 10 10 0 0]
+[ 62] - Cria_de_Dragão_Vermelho[2350] [10 10 10 10 0 0]
+[ 63] - Cria_de_Sleipnir[2358] [10 10 10 10 0 0]
+[ 64] - Calça(M)[1468] [43 3 2 20 3 20]
+[ 65] - Cria_Dente_de_Sabre[2335] [10 10 10 10 0 0]
+[ 66] - Cria_de_Cavalo_Leve_B[2343] [10 10 10 10 0 0]
+[ 67] - Cria_de_Unicórnio[2351] [10 10 10 10 0 0]
+[ 68] - Cria_de_Fênix[2359] [10 10 10 10 0 0]
+[ 69] - Armadura(M)[1465] [43 3 2 20 3 20]
+[ 70] - Cria_de_Hrimfaxi[2336] [10 10 10 10 0 0]
+[ 71] - Cria_de_Cavalo_Equip_B[2344] [10 10 10 10 0 0]
+[ 72] - Cria_de_Pegasus[2352] [10 10 10 10 0 0]
+[ 73] - Luvas(M)[1486] [43 3 2 20 53 3]
+[ 74] - Botas(M)[1489] [43 3 73 18 74 12]
+[ 75] - Cria_de_Cavalo_Fantasm_N[2337] [10 10 10 10 0 0]
+[ 76] - Cria_de_Andaluz_B[2345] [10 10 10 10 0 0]
+[ 77] - Cria_de_Unisus[2353] [10 10 10 10 0 0]
+[ 78] - Elmo(M)[1477] [43 3 4 20 0 0]
+[ 79] - Calça(M)[1483] [43 3 2 20 3 20]
+[ 80] - Frango_Assado[3314] [61 9 0 0 0 0]
+[ 81] - Armadura(M)[1480] [43 3 2 20 3 20]
+[ 82] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 83] - Dardo[884] [43 6 2 36 0 0]
+[ 84] - Luvas(M)[1501] [43 3 2 20 53 3]
+[ 85] - Ração_de_Aranha[2420] [61 115 0 0 0 0]
+[ 86] - Botas(M)[1504] [43 3 73 18 74 12]
+[ 87] - Elmo(M)[1492] [43 3 4 20 0 0]
+[ 88] - Calça(M)[1498] [43 3 2 20 3 20]
+[ 89] - Armadura(M)[1495] [43 3 2 20 3 20]
+[ 90] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 91] - Asa_Draconiana[3551] [43 6 2 36 0 0]
+[ 92] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 93] - [4646] [0 0 0 0 0 0]
+[ 94] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 98] - Fada_Vermelha(3dias)[3902] [106 2 107 23 108 9]
+[ 99] - Dardo(Anct)[2751] [43 250 2 90 26 200]
+[107] - Cérberus[2378] [0 0 120 119 0 0]
+[108] - Jóia_da_Sagacidade[3200] [61 119 0 0 0 0]
+[109] - Jóia_do_Poder[3206] [61 118 0 0 0 0]
+[111] - Cristal_Noas[4109] [8 0 0 0 0 0]
+[112] - Cristal_Thelion[4108] [0 0 0 0 0 0]
+[113] - Cristal_Elime[4106] [0 0 0 0 0 0]
+[114] - Cristal_Sylphed[4107] [0 0 0 0 0 0]
+[116] - Pergaminho_da_Água(A)LV1[3182] [61 117 0 0 0 0]
+[117] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[118] - Pedra_Espiritual[633] [43 250 2 144 0 0]
+
+21:11:23 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:11:54 : Solicitado deletar personagem Czar
+21:12:09 : Solicitou ir ao mundo...
+21:12:09 : Recebido pedido para entrar no jogo
+21:12:09 : Recebido informação do personagem completa.
+21:12:09 : [Shariiiiii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariiiiii
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:46 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1553] [43 0 0 0 0 0]
+[02] - Peitoral(N)[1569] [43 0 0 0 0 0]
+[03] - Calça(N)[1572] [43 0 0 0 0 0]
+[04] - Braçadeira(N)[1575] [43 0 0 0 0 0]
+[05] - Botas(N)[1578] [43 0 0 0 0 0]
+[06] - Arco[816] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:12:09 : [Shariiiiii] - Personagem Shariiiiii enviado ao mundo 2112x 2042y - Canal 2 - Cash da conta: 62466. OverPower: 0
+21:12:09 : [Shariiiiii] - Gold atual: 0. Classe: 3 Evolução: 0. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+21:12:09 : [Shariiiiii] - Logou no personagem Shariiiiii com poção divina ativo. Validade: 7/2/2021 14:38:51
+21:12:09 : [Shariiiiii] - Resetado a contagem de entradas água! Day: 7-10. Total: 0
+21:12:09 : [Shariiiiii] - Enviado informações do personagem
+21:12:10 : [Shariiiiii] - Comando "/day "
+21:12:10 : [Shariiiiii] - [Mensagem do servidor]> !#11 2
+21:12:19 : [Shariiiiii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+21:12:25 : [Shariiiiii] - Comando "/gm +set level 300"
+21:14:21 : [Shariiiiii] - Comando "/gm +item 1641"
+21:14:21 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Chapéu(N)
+21:14:21 : [Shariiiiii] - Shariiiiii criou o item Chapéu(N) [1641] [0 0 0 0 0 0]
+21:14:22 : [Shariiiiii] - Comando "/gm +item 1642"
+21:14:22 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Chapéu(M)
+21:14:22 : [Shariiiiii] - Shariiiiii criou o item Chapéu(M) [1642] [0 0 0 0 0 0]
+21:14:23 : [Shariiiiii] - Comando "/gm +item 1643"
+21:14:23 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Chapéu(A)
+21:14:23 : [Shariiiiii] - Shariiiiii criou o item Chapéu(A) [1643] [0 0 0 0 0 0]
+21:14:24 : [Shariiiiii] - Comando "/gm +item 1644"
+21:14:24 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(N)
+21:14:24 : [Shariiiiii] - Shariiiiii criou o item Peitoral(N) [1644] [0 0 0 0 0 0]
+21:14:25 : [Shariiiiii] - Comando "/gm +item 1645"
+21:14:25 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(M)
+21:14:25 : [Shariiiiii] - Shariiiiii criou o item Peitoral(M) [1645] [0 0 0 0 0 0]
+21:14:27 : [Shariiiiii] - Comando "/gm +item 1646"
+21:14:27 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(A)
+21:14:27 : [Shariiiiii] - Shariiiiii criou o item Peitoral(A) [1646] [0 0 0 0 0 0]
+21:14:27 : [Shariiiiii] - Comando "/gm +item 1647"
+21:14:27 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(N)
+21:14:27 : [Shariiiiii] - Shariiiiii criou o item Calça(N) [1647] [0 0 0 0 0 0]
+21:14:28 : [Shariiiiii] - Comando "/gm +item 1648"
+21:14:28 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(M)
+21:14:28 : [Shariiiiii] - Shariiiiii criou o item Calça(M) [1648] [0 0 0 0 0 0]
+21:14:29 : [Shariiiiii] - Comando "/gm +item 1649"
+21:14:29 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(A)
+21:14:29 : [Shariiiiii] - Shariiiiii criou o item Calça(A) [1649] [0 0 0 0 0 0]
+21:14:32 : [Shariiiiii] - Comando "/gm +item 1650"
+21:14:32 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Braçadeira(N)
+21:14:32 : [Shariiiiii] - Shariiiiii criou o item Braçadeira(N) [1650] [0 0 0 0 0 0]
+21:14:33 : [Shariiiiii] - Comando "/gm +item 1651"
+21:14:33 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Braçadeira(M)
+21:14:33 : [Shariiiiii] - Shariiiiii criou o item Braçadeira(M) [1651] [0 0 0 0 0 0]
+21:14:35 : [Shariiiiii] - Comando "/gm +item 1652"
+21:14:35 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Braçadeira(A)
+21:14:35 : [Shariiiiii] - Shariiiiii criou o item Braçadeira(A) [1652] [0 0 0 0 0 0]
+21:14:36 : [Shariiiiii] - Comando "/gm +item 1653"
+21:14:36 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(N)
+21:14:36 : [Shariiiiii] - Shariiiiii criou o item Botas(N) [1653] [0 0 0 0 0 0]
+21:14:37 : [Shariiiiii] - Comando "/gm +item 1654"
+21:14:37 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(M)
+21:14:37 : [Shariiiiii] - Shariiiiii criou o item Botas(M) [1654] [0 0 0 0 0 0]
+21:14:38 : [Shariiiiii] - Comando "/gm +item 1655"
+21:14:38 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(A)
+21:14:38 : [Shariiiiii] - Shariiiiii criou o item Botas(A) [1655] [0 0 0 0 0 0]
+21:14:40 : [Shariiiiii] - Comando "/gm +item 1656"
+21:14:40 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Armadura
+21:14:40 : [Shariiiiii] - Shariiiiii criou o item Armadura [1656] [0 0 0 0 0 0]
+21:14:44 : [Shariiiiii] - Item Armadura deletado [1656] [0 0 0 0 0 0]. Slot 15
+21:14:47 : [Shariiiiii] - Moveu item Chapéu(N) [1641] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+21:14:48 : [Shariiiiii] - Moveu item Chapéu(M) [1642] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 1
+21:14:49 : [Shariiiiii] - Moveu item Chapéu(A) [1643] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 1
+21:14:50 : [Shariiiiii] - Moveu item Peitoral(N) [1644] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 2
+21:14:51 : [Shariiiiii] - Moveu item Peitoral(M) [1645] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 2
+21:14:51 : [Shariiiiii] - Moveu item Peitoral(A) [1646] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+21:14:52 : [Shariiiiii] - Moveu item Calça(N) [1647] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 3
+21:14:53 : [Shariiiiii] - Moveu item Calça(M) [1648] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 3
+21:14:53 : [Shariiiiii] - Moveu item Calça(A) [1649] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 3
+21:14:54 : [Shariiiiii] - Moveu item Braçadeira(N) [1650] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 4
+21:14:55 : [Shariiiiii] - Moveu item Braçadeira(M) [1651] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 4
+21:14:56 : [Shariiiiii] - Moveu item Braçadeira(A) [1652] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 4
+21:14:57 : [Shariiiiii] - Moveu item Botas(N) [1653] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 5
+21:14:58 : [Shariiiiii] - Moveu item Botas(M) [1654] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 5
+21:14:58 : [Shariiiiii] - Moveu item Botas(A) [1655] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 5
+21:15:03 : [Shariiiiii] - Item Botas(M) deletado [1654] [0 0 0 0 0 0]. Slot 14
+21:15:04 : [Shariiiiii] - Moveu item Botas(N) [1653] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo INVENTÁRIO slot 12
+21:15:05 : [Shariiiiii] - Item Botas(N) deletado [1653] [0 0 0 0 0 0]. Slot 12
+21:15:05 : [Shariiiiii] - Item Botas(N) deletado [1578] [43 0 0 0 0 0]. Slot 13
+21:15:06 : [Shariiiiii] - Item Braçadeira(N) deletado [1575] [43 0 0 0 0 0]. Slot 9
+21:15:06 : [Shariiiiii] - Item Calça(M) deletado [1648] [0 0 0 0 0 0]. Slot 8
+21:15:07 : [Shariiiiii] - Item Calça(N) deletado [1647] [0 0 0 0 0 0]. Slot 7
+21:15:08 : [Shariiiiii] - Item Peitoral(N) deletado [1644] [0 0 0 0 0 0]. Slot 4
+21:15:08 : [Shariiiiii] - Item Peitoral(N) deletado [1569] [43 0 0 0 0 0]. Slot 3
+21:15:09 : [Shariiiiii] - Item Chapéu(M) deletado [1642] [0 0 0 0 0 0]. Slot 2
+21:15:10 : [Shariiiiii] - Item Calça(N) deletado [1572] [43 0 0 0 0 0]. Slot 6
+21:15:10 : [Shariiiiii] - Item Braçadeira(M) deletado [1651] [0 0 0 0 0 0]. Slot 11
+21:15:11 : [Shariiiiii] - Item Braçadeira(N) deletado [1650] [0 0 0 0 0 0]. Slot 10
+21:15:12 : [Shariiiiii] - Item Peitoral(M) deletado [1645] [0 0 0 0 0 0]. Slot 5
+21:15:13 : [Shariiiiii] - Item Chapéu(N) deletado [1641] [0 0 0 0 0 0]. Slot 1
+21:15:15 : [Shariiiiii] - Item Chapéu(A) deletado [1553] [43 0 0 0 0 0]. Slot 0
+21:22:20 : [Shariiiiii] - Comando "/gm +item 1626"
+21:22:20 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Chapéu(N)
+21:22:20 : [Shariiiiii] - Shariiiiii criou o item Chapéu(N) [1626] [0 0 0 0 0 0]
+21:22:21 : [Shariiiiii] - Comando "/gm +item 1627"
+21:22:21 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Chapéu(M)
+21:22:21 : [Shariiiiii] - Shariiiiii criou o item Chapéu(M) [1627] [0 0 0 0 0 0]
+21:22:23 : [Shariiiiii] - Comando "/gm +item 1628"
+21:22:23 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Chapéu(A)
+21:22:23 : [Shariiiiii] - Shariiiiii criou o item Chapéu(A) [1628] [0 0 0 0 0 0]
+21:22:24 : [Shariiiiii] - Comando "/gm +item 1629"
+21:22:24 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(N)
+21:22:24 : [Shariiiiii] - Shariiiiii criou o item Peitoral(N) [1629] [0 0 0 0 0 0]
+21:22:26 : [Shariiiiii] - Comando "/gm +item 1630"
+21:22:26 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(M)
+21:22:26 : [Shariiiiii] - Shariiiiii criou o item Peitoral(M) [1630] [0 0 0 0 0 0]
+21:22:27 : [Shariiiiii] - Comando "/gm +item 1631"
+21:22:27 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(A)
+21:22:27 : [Shariiiiii] - Shariiiiii criou o item Peitoral(A) [1631] [0 0 0 0 0 0]
+21:22:27 : [Shariiiiii] - Comando "/gm +item 1632"
+21:22:27 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(N)
+21:22:27 : [Shariiiiii] - Shariiiiii criou o item Calça(N) [1632] [0 0 0 0 0 0]
+21:22:29 : [Shariiiiii] - Comando "/gm +item 1633"
+21:22:29 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(M)
+21:22:29 : [Shariiiiii] - Shariiiiii criou o item Calça(M) [1633] [0 0 0 0 0 0]
+21:22:31 : [Shariiiiii] - Comando "/gm +item 1634"
+21:22:31 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(A)
+21:22:31 : [Shariiiiii] - Shariiiiii criou o item Calça(A) [1634] [0 0 0 0 0 0]
+21:22:32 : [Shariiiiii] - Comando "/gm +item 1635"
+21:22:32 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Luvas(N)
+21:22:32 : [Shariiiiii] - Shariiiiii criou o item Luvas(N) [1635] [0 0 0 0 0 0]
+21:22:34 : [Shariiiiii] - Comando "/gm +item 1636"
+21:22:34 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Luvas(M)
+21:22:34 : [Shariiiiii] - Shariiiiii criou o item Luvas(M) [1636] [0 0 0 0 0 0]
+21:22:36 : [Shariiiiii] - Comando "/gm +item 1637"
+21:22:36 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Luvas(A)
+21:22:36 : [Shariiiiii] - Shariiiiii criou o item Luvas(A) [1637] [0 0 0 0 0 0]
+21:22:37 : [Shariiiiii] - Comando "/gm +item 1638"
+21:22:37 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(N)
+21:22:37 : [Shariiiiii] - Shariiiiii criou o item Botas(N) [1638] [0 0 0 0 0 0]
+21:22:39 : [Shariiiiii] - Comando "/gm +item 1639"
+21:22:39 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(M)
+21:22:39 : [Shariiiiii] - Shariiiiii criou o item Botas(M) [1639] [0 0 0 0 0 0]
+21:22:41 : [Shariiiiii] - Comando "/gm +item 1640"
+21:22:41 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(A)
+21:22:41 : [Shariiiiii] - Shariiiiii criou o item Botas(A) [1640] [0 0 0 0 0 0]
+21:22:49 : [Shariiiiii] - Moveu item Chapéu(N) [1626] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+21:22:50 : [Shariiiiii] - Moveu item Chapéu(M) [1627] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 1
+21:22:51 : [Shariiiiii] - Moveu item Chapéu(A) [1628] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 1
+21:22:52 : [Shariiiiii] - Moveu item Peitoral(N) [1629] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 2
+21:22:53 : [Shariiiiii] - Moveu item Peitoral(M) [1630] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 2
+21:22:54 : [Shariiiiii] - Moveu item Peitoral(A) [1631] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+21:22:55 : [Shariiiiii] - Moveu item Calça(N) [1632] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 3
+21:22:56 : [Shariiiiii] - Moveu item Calça(M) [1633] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 3
+21:22:57 : [Shariiiiii] - Moveu item Calça(A) [1634] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 3
+21:22:58 : [Shariiiiii] - Moveu item Luvas(N) [1635] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 4
+21:22:59 : [Shariiiiii] - Moveu item Luvas(M) [1636] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 4
+21:22:59 : [Shariiiiii] - Moveu item Luvas(A) [1637] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 4
+21:23:00 : [Shariiiiii] - Moveu item Botas(N) [1638] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 5
+21:23:01 : [Shariiiiii] - Moveu item Botas(M) [1639] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 5
+21:23:02 : [Shariiiiii] - Moveu item Botas(A) [1655] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 5
+21:23:03 : [Shariiiiii] - Moveu item Botas(M) [1639] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 5
+21:23:03 : [Shariiiiii] - Moveu item Botas(N) [1638] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 5
+21:23:04 : [Shariiiiii] - Moveu item Botas(A) [1640] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 5
+21:23:05 : [Shariiiiii] - Moveu item Botas(N) [1638] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 5
+21:23:07 : [Shariiiiii] - Item Botas(A) deletado [1640] [0 0 0 0 0 0]. Slot 14
+21:23:07 : [Shariiiiii] - Item Botas(M) deletado [1639] [0 0 0 0 0 0]. Slot 13
+21:23:08 : [Shariiiiii] - Item Botas(A) deletado [1655] [0 0 0 0 0 0]. Slot 12
+21:23:09 : [Shariiiiii] - Item Braçadeira(A) deletado [1652] [0 0 0 0 0 0]. Slot 9
+21:23:09 : [Shariiiiii] - Item Calça(M) deletado [1633] [0 0 0 0 0 0]. Slot 8
+21:23:10 : [Shariiiiii] - Item Peitoral(N) deletado [1629] [0 0 0 0 0 0]. Slot 4
+21:23:10 : [Shariiiiii] - Item Peitoral(A) deletado [1646] [0 0 0 0 0 0]. Slot 3
+21:23:11 : [Shariiiiii] - Item Calça(N) deletado [1632] [0 0 0 0 0 0]. Slot 7
+21:23:12 : [Shariiiiii] - Item Chapéu(M) deletado [1627] [0 0 0 0 0 0]. Slot 2
+21:23:12 : [Shariiiiii] - Item Luvas(M) deletado [1636] [0 0 0 0 0 0]. Slot 11
+21:23:13 : [Shariiiiii] - Item Luvas(N) deletado [1635] [0 0 0 0 0 0]. Slot 10
+21:23:14 : [Shariiiiii] - Item Calça(A) deletado [1649] [0 0 0 0 0 0]. Slot 6
+21:23:15 : [Shariiiiii] - Item Peitoral(M) deletado [1630] [0 0 0 0 0 0]. Slot 5
+21:23:16 : [Shariiiiii] - Item Chapéu(N) deletado [1626] [0 0 0 0 0 0]. Slot 1
+21:23:17 : [Shariiiiii] - Item Chapéu(A) deletado [1643] [0 0 0 0 0 0]. Slot 0
+21:24:25 : [Shariiiiii] - Moveu item Botas(N) [1638] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 0
+21:24:25 : [Shariiiiii] - Moveu item Calça(A) [1634] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 5
+21:24:25 : [Shariiiiii] - Moveu item Luvas(A) [1637] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 10
+21:24:26 : [Shariiiiii] - Moveu item Peitoral(A) [1631] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 1
+21:24:26 : [Shariiiiii] - Moveu item Chapéu(A) [1628] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 6
+21:24:28 : [Shariiiiii] - Item Chapéu(A) deletado [1628] [0 0 0 0 0 0]. Slot 6
+21:24:29 : [Shariiiiii] - Item Luvas(A) deletado [1637] [0 0 0 0 0 0]. Slot 10
+21:24:30 : [Shariiiiii] - Item Calça(A) deletado [1634] [0 0 0 0 0 0]. Slot 5
+21:24:31 : [Shariiiiii] - Item Peitoral(A) deletado [1631] [0 0 0 0 0 0]. Slot 1
+21:24:32 : [Shariiiiii] - Item Botas(N) deletado [1638] [0 0 0 0 0 0]. Slot 0
+21:24:43 : [Shariiiiii] - Comando "/gm +item 1611"
+21:24:43 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Elmo(N)
+21:24:43 : [Shariiiiii] - Shariiiiii criou o item Elmo(N) [1611] [0 0 0 0 0 0]
+21:24:44 : [Shariiiiii] - Comando "/gm +item 1612"
+21:24:44 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Elmo(M)
+21:24:44 : [Shariiiiii] - Shariiiiii criou o item Elmo(M) [1612] [0 0 0 0 0 0]
+21:24:45 : [Shariiiiii] - Comando "/gm +item 1613"
+21:24:45 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Elmo(A)
+21:24:45 : [Shariiiiii] - Shariiiiii criou o item Elmo(A) [1613] [0 0 0 0 0 0]
+21:24:46 : [Shariiiiii] - Comando "/gm +item 1614"
+21:24:46 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(N)
+21:24:46 : [Shariiiiii] - Shariiiiii criou o item Peitoral(N) [1614] [0 0 0 0 0 0]
+21:24:47 : [Shariiiiii] - Comando "/gm +item 1615"
+21:24:47 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(M)
+21:24:47 : [Shariiiiii] - Shariiiiii criou o item Peitoral(M) [1615] [0 0 0 0 0 0]
+21:24:48 : [Shariiiiii] - Comando "/gm +item 1616"
+21:24:48 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(A)
+21:24:48 : [Shariiiiii] - Shariiiiii criou o item Peitoral(A) [1616] [0 0 0 0 0 0]
+21:24:49 : [Shariiiiii] - Comando "/gm +item 1617"
+21:24:49 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(N)
+21:24:49 : [Shariiiiii] - Shariiiiii criou o item Calça(N) [1617] [0 0 0 0 0 0]
+21:24:52 : [Shariiiiii] - Comando "/gm +item 1618"
+21:24:52 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(M)
+21:24:52 : [Shariiiiii] - Shariiiiii criou o item Calça(M) [1618] [0 0 0 0 0 0]
+21:24:53 : [Shariiiiii] - Comando "/gm +item 1619"
+21:24:53 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(A)
+21:24:53 : [Shariiiiii] - Shariiiiii criou o item Calça(A) [1619] [0 0 0 0 0 0]
+21:24:55 : [Shariiiiii] - Comando "/gm +item 1620"
+21:24:55 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Braçadeira(N)
+21:24:55 : [Shariiiiii] - Shariiiiii criou o item Braçadeira(N) [1620] [0 0 0 0 0 0]
+21:24:57 : [Shariiiiii] - Comando "/gm +item 1621"
+21:24:57 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Braçadeira(M)
+21:24:57 : [Shariiiiii] - Shariiiiii criou o item Braçadeira(M) [1621] [0 0 0 0 0 0]
+21:24:58 : [Shariiiiii] - Comando "/gm +item 1622"
+21:24:58 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Braçadeira(A)
+21:24:58 : [Shariiiiii] - Shariiiiii criou o item Braçadeira(A) [1622] [0 0 0 0 0 0]
+21:24:59 : [Shariiiiii] - Comando "/gm +item 1623"
+21:24:59 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(N)
+21:24:59 : [Shariiiiii] - Shariiiiii criou o item Botas(N) [1623] [0 0 0 0 0 0]
+21:25:00 : [Shariiiiii] - Comando "/gm +item 1624"
+21:25:00 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(M)
+21:25:00 : [Shariiiiii] - Shariiiiii criou o item Botas(M) [1624] [0 0 0 0 0 0]
+21:25:01 : [Shariiiiii] - Comando "/gm +item 1625"
+21:25:01 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(A)
+21:25:01 : [Shariiiiii] - Shariiiiii criou o item Botas(A) [1625] [0 0 0 0 0 0]
+21:25:03 : [Shariiiiii] - Moveu item Elmo(N) [1611] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+21:25:04 : [Shariiiiii] - Moveu item Elmo(M) [1612] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 1
+21:25:05 : [Shariiiiii] - Moveu item Elmo(A) [1613] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 1
+21:25:06 : [Shariiiiii] - Moveu item Peitoral(N) [1614] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 2
+21:25:07 : [Shariiiiii] - Moveu item Peitoral(M) [1615] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 2
+21:25:08 : [Shariiiiii] - Moveu item Peitoral(A) [1616] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+21:25:09 : [Shariiiiii] - Moveu item Calça(N) [1617] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 3
+21:25:10 : [Shariiiiii] - Moveu item Calça(M) [1618] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 3
+21:25:11 : [Shariiiiii] - Moveu item Calça(N) [1617] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 3
+21:25:11 : [Shariiiiii] - Moveu item Braçadeira(N) [1620] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 4
+21:25:13 : [Shariiiiii] - Moveu item Braçadeira(M) [1621] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 4
+21:25:13 : [Shariiiiii] - Moveu item Braçadeira(A) [1622] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 4
+21:25:14 : [Shariiiiii] - Moveu item Botas(N) [1623] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 5
+21:25:15 : [Shariiiiii] - Moveu item Botas(M) [1624] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 5
+21:25:16 : [Shariiiiii] - Moveu item Botas(A) [1625] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 5
+21:25:49 : [Shariiiiii] - Moveu item Botas(A) [1625] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 0
+21:25:49 : [Shariiiiii] - Moveu item Calça(N) [1617] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 6
+21:25:50 : [Shariiiiii] - Moveu item Braçadeira(A) [1622] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 12
+21:25:50 : [Shariiiiii] - Moveu item Peitoral(A) [1616] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 3
+21:25:51 : [Shariiiiii] - Moveu item Elmo(A) [1613] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 9
+21:25:52 : [Shariiiiii] - Item Botas(M) deletado [1624] [0 0 0 0 0 0]. Slot 14
+21:25:53 : [Shariiiiii] - Item Botas(N) deletado [1623] [0 0 0 0 0 0]. Slot 13
+21:25:53 : [Shariiiiii] - Item Braçadeira(A) deletado [1622] [0 0 0 0 0 0]. Slot 12
+21:25:54 : [Shariiiiii] - Item Braçadeira(M) deletado [1621] [0 0 0 0 0 0]. Slot 11
+21:25:55 : [Shariiiiii] - Item Braçadeira(N) deletado [1620] [0 0 0 0 0 0]. Slot 10
+21:25:55 : [Shariiiiii] - Item Elmo(A) deletado [1613] [0 0 0 0 0 0]. Slot 9
+21:25:56 : [Shariiiiii] - Item Calça(A) deletado [1619] [0 0 0 0 0 0]. Slot 8
+21:25:57 : [Shariiiiii] - Item Calça(M) deletado [1618] [0 0 0 0 0 0]. Slot 7
+21:25:57 : [Shariiiiii] - Item Calça(N) deletado [1617] [0 0 0 0 0 0]. Slot 6
+21:25:58 : [Shariiiiii] - Item Peitoral(N) deletado [1614] [0 0 0 0 0 0]. Slot 4
+21:25:59 : [Shariiiiii] - Item Peitoral(A) deletado [1616] [0 0 0 0 0 0]. Slot 3
+21:26:00 : [Shariiiiii] - Item Elmo(M) deletado [1612] [0 0 0 0 0 0]. Slot 2
+21:26:01 : [Shariiiiii] - Item Elmo(N) deletado [1611] [0 0 0 0 0 0]. Slot 1
+21:26:02 : [Shariiiiii] - Item Peitoral(M) deletado [1615] [0 0 0 0 0 0]. Slot 5
+21:26:02 : [Shariiiiii] - Item Botas(A) deletado [1625] [0 0 0 0 0 0]. Slot 0
+21:28:30 : [Shariiiiii] - Comando "/gm +item 1596"
+21:28:30 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Chapéu(N)
+21:28:30 : [Shariiiiii] - Shariiiiii criou o item Chapéu(N) [1596] [0 0 0 0 0 0]
+21:28:33 : [Shariiiiii] - Comando "/gm +item 1597"
+21:28:33 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Chapéu(M)
+21:28:33 : [Shariiiiii] - Shariiiiii criou o item Chapéu(M) [1597] [0 0 0 0 0 0]
+21:28:34 : [Shariiiiii] - Comando "/gm +item 1598"
+21:28:34 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Chapéu(A)
+21:28:34 : [Shariiiiii] - Shariiiiii criou o item Chapéu(A) [1598] [0 0 0 0 0 0]
+21:28:37 : [Shariiiiii] - Comando "/gm +item 1599"
+21:28:37 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(N)
+21:28:37 : [Shariiiiii] - Shariiiiii criou o item Peitoral(N) [1599] [0 0 0 0 0 0]
+21:28:46 : [Shariiiiii] - Comando "/gm +item 1600"
+21:28:46 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(M)
+21:28:46 : [Shariiiiii] - Shariiiiii criou o item Peitoral(M) [1600] [0 0 0 0 0 0]
+21:28:47 : [Shariiiiii] - Comando "/gm +item 1601"
+21:28:47 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(A)
+21:28:47 : [Shariiiiii] - Shariiiiii criou o item Peitoral(A) [1601] [0 0 0 0 0 0]
+21:28:48 : [Shariiiiii] - Comando "/gm +item 1602"
+21:28:48 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(N)
+21:28:48 : [Shariiiiii] - Shariiiiii criou o item Calça(N) [1602] [0 0 0 0 0 0]
+21:28:49 : [Shariiiiii] - Comando "/gm +item 1603"
+21:28:49 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(M)
+21:28:49 : [Shariiiiii] - Shariiiiii criou o item Calça(M) [1603] [0 0 0 0 0 0]
+21:28:51 : [Shariiiiii] - Comando "/gm +item 1604"
+21:28:51 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(A)
+21:28:51 : [Shariiiiii] - Shariiiiii criou o item Calça(A) [1604] [0 0 0 0 0 0]
+21:28:52 : [Shariiiiii] - Comando "/gm +item 1605"
+21:28:52 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Braçadeira(N)
+21:28:52 : [Shariiiiii] - Shariiiiii criou o item Braçadeira(N) [1605] [0 0 0 0 0 0]
+21:28:53 : [Shariiiiii] - Comando "/gm +item 1606"
+21:28:53 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Braçadeira(M)
+21:28:53 : [Shariiiiii] - Shariiiiii criou o item Braçadeira(M) [1606] [0 0 0 0 0 0]
+21:28:54 : [Shariiiiii] - Comando "/gm +item 1607"
+21:28:54 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Braçadeira(A)
+21:28:54 : [Shariiiiii] - Shariiiiii criou o item Braçadeira(A) [1607] [0 0 0 0 0 0]
+21:28:55 : [Shariiiiii] - Comando "/gm +item 1608"
+21:28:55 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(N)
+21:28:55 : [Shariiiiii] - Shariiiiii criou o item Botas(N) [1608] [0 0 0 0 0 0]
+21:28:57 : [Shariiiiii] - Comando "/gm +item 1609"
+21:28:57 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(M)
+21:28:57 : [Shariiiiii] - Shariiiiii criou o item Botas(M) [1609] [0 0 0 0 0 0]
+21:28:59 : [Shariiiiii] - Comando "/gm +item 1610"
+21:28:59 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(A)
+21:28:59 : [Shariiiiii] - Shariiiiii criou o item Botas(A) [1610] [0 0 0 0 0 0]
+21:29:17 : [Shariiiiii] - Moveu item Chapéu(N) [1596] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+21:29:18 : [Shariiiiii] - Moveu item Chapéu(M) [1597] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 1
+21:29:19 : [Shariiiiii] - Moveu item Chapéu(A) [1598] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 1
+21:29:19 : [Shariiiiii] - Moveu item Peitoral(N) [1599] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 2
+21:29:20 : [Shariiiiii] - Moveu item Peitoral(M) [1600] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 2
+21:29:21 : [Shariiiiii] - Moveu item Peitoral(A) [1601] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+21:29:22 : [Shariiiiii] - Moveu item Calça(N) [1602] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 3
+21:29:23 : [Shariiiiii] - Moveu item Calça(M) [1603] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 3
+21:29:24 : [Shariiiiii] - Moveu item Calça(A) [1604] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 3
+21:29:26 : [Shariiiiii] - Moveu item Braçadeira(N) [1605] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 4
+21:29:27 : [Shariiiiii] - Moveu item Braçadeira(M) [1606] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 4
+21:29:28 : [Shariiiiii] - Moveu item Braçadeira(A) [1607] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 4
+21:29:29 : [Shariiiiii] - Moveu item Botas(N) [1608] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 5
+21:29:30 : [Shariiiiii] - Moveu item Botas(M) [1609] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 5
+21:29:30 : [Shariiiiii] - Moveu item Botas(A) [1610] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 5
+21:29:49 : [Shariiiiii] - Moveu item Botas(A) [1610] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 0
+21:29:49 : [Shariiiiii] - Moveu item Calça(A) [1604] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 6
+21:29:50 : [Shariiiiii] - Moveu item Braçadeira(A) [1607] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 12
+21:29:51 : [Shariiiiii] - Moveu item Peitoral(A) [1601] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 3
+21:29:51 : [Shariiiiii] - Moveu item Chapéu(A) [1598] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 9
+21:29:53 : [Shariiiiii] - Item Botas(M) deletado [1609] [0 0 0 0 0 0]. Slot 14
+21:29:54 : [Shariiiiii] - Item Botas(N) deletado [1608] [0 0 0 0 0 0]. Slot 13
+21:29:54 : [Shariiiiii] - Item Braçadeira(A) deletado [1607] [0 0 0 0 0 0]. Slot 12
+21:29:55 : [Shariiiiii] - Item Braçadeira(M) deletado [1606] [0 0 0 0 0 0]. Slot 11
+21:29:56 : [Shariiiiii] - Item Braçadeira(N) deletado [1605] [0 0 0 0 0 0]. Slot 10
+21:29:57 : [Shariiiiii] - Item Chapéu(A) deletado [1598] [0 0 0 0 0 0]. Slot 9
+21:29:57 : [Shariiiiii] - Item Calça(M) deletado [1603] [0 0 0 0 0 0]. Slot 8
+21:29:58 : [Shariiiiii] - Item Calça(N) deletado [1602] [0 0 0 0 0 0]. Slot 7
+21:29:59 : [Shariiiiii] - Item Calça(A) deletado [1604] [0 0 0 0 0 0]. Slot 6
+21:30:00 : [Shariiiiii] - Item Peitoral(M) deletado [1600] [0 0 0 0 0 0]. Slot 5
+21:30:00 : [Shariiiiii] - Item Peitoral(N) deletado [1599] [0 0 0 0 0 0]. Slot 4
+21:30:01 : [Shariiiiii] - Item Peitoral(A) deletado [1601] [0 0 0 0 0 0]. Slot 3
+21:30:02 : [Shariiiiii] - Item Chapéu(M) deletado [1597] [0 0 0 0 0 0]. Slot 2
+21:30:03 : [Shariiiiii] - Item Chapéu(N) deletado [1596] [0 0 0 0 0 0]. Slot 1
+21:30:03 : [Shariiiiii] - Item Botas(A) deletado [1610] [0 0 0 0 0 0]. Slot 0
+21:30:38 : [Shariiiiii] - Comando "/gm +item 1608"
+21:30:38 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(N)
+21:30:38 : [Shariiiiii] - Shariiiiii criou o item Botas(N) [1608] [0 0 0 0 0 0]
+21:30:58 : [Shariiiiii] - Item Botas(N) deletado [1608] [0 0 0 0 0 0]. Slot 0
+21:31:05 : [Shariiiiii] - Comando "/gm +item 1581"
+21:31:05 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Chapéu(N)
+21:31:05 : [Shariiiiii] - Shariiiiii criou o item Chapéu(N) [1581] [0 0 0 0 0 0]
+21:31:06 : [Shariiiiii] - Comando "/gm +item 1582"
+21:31:06 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Chapéu(M)
+21:31:06 : [Shariiiiii] - Shariiiiii criou o item Chapéu(M) [1582] [0 0 0 0 0 0]
+21:31:06 : [Shariiiiii] - Comando "/gm +item 1583"
+21:31:06 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Chapéu(A)
+21:31:06 : [Shariiiiii] - Shariiiiii criou o item Chapéu(A) [1583] [0 0 0 0 0 0]
+21:31:07 : [Shariiiiii] - Comando "/gm +item 1584"
+21:31:07 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(N)
+21:31:07 : [Shariiiiii] - Shariiiiii criou o item Peitoral(N) [1584] [0 0 0 0 0 0]
+21:31:13 : [Shariiiiii] - Comando "/gm +item 1583"
+21:31:13 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Chapéu(A)
+21:31:13 : [Shariiiiii] - Shariiiiii criou o item Chapéu(A) [1583] [0 0 0 0 0 0]
+21:31:18 : [Shariiiiii] - Item Chapéu(A) deletado [1583] [0 0 0 0 0 0]. Slot 4
+21:31:26 : [Shariiiiii] - Comando "/gm +item 1584"
+21:31:26 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(N)
+21:31:26 : [Shariiiiii] - Shariiiiii criou o item Peitoral(N) [1584] [0 0 0 0 0 0]
+21:31:30 : [Shariiiiii] - Item Peitoral(N) deletado [1584] [0 0 0 0 0 0]. Slot 4
+21:31:32 : [Shariiiiii] - Comando "/gm +item 1585"
+21:31:32 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(M)
+21:31:32 : [Shariiiiii] - Shariiiiii criou o item Peitoral(M) [1585] [0 0 0 0 0 0]
+21:31:34 : [Shariiiiii] - Comando "/gm +item 1586"
+21:31:34 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(A)
+21:31:34 : [Shariiiiii] - Shariiiiii criou o item Peitoral(A) [1586] [0 0 0 0 0 0]
+21:31:36 : [Shariiiiii] - Comando "/gm +item 1587"
+21:31:36 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(N)
+21:31:36 : [Shariiiiii] - Shariiiiii criou o item Calça(N) [1587] [0 0 0 0 0 0]
+21:31:37 : [Shariiiiii] - Comando "/gm +item 1588"
+21:31:37 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(M)
+21:31:37 : [Shariiiiii] - Shariiiiii criou o item Calça(M) [1588] [0 0 0 0 0 0]
+21:31:38 : [Shariiiiii] - Comando "/gm +item 1589"
+21:31:38 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(A)
+21:31:38 : [Shariiiiii] - Shariiiiii criou o item Calça(A) [1589] [0 0 0 0 0 0]
+21:31:41 : [Shariiiiii] - Comando "/gm +item 1560"
+21:31:41 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Luvas(N)
+21:31:41 : [Shariiiiii] - Shariiiiii criou o item Luvas(N) [1560] [0 0 0 0 0 0]
+21:31:42 : [Shariiiiii] - Comando "/gm +item 1561"
+21:31:42 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Luvas(M)
+21:31:42 : [Shariiiiii] - Shariiiiii criou o item Luvas(M) [1561] [0 0 0 0 0 0]
+21:31:43 : [Shariiiiii] - Comando "/gm +item 1562"
+21:31:43 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Luvas(A)
+21:31:43 : [Shariiiiii] - Shariiiiii criou o item Luvas(A) [1562] [0 0 0 0 0 0]
+21:31:44 : [Shariiiiii] - Comando "/gm +item 1563"
+21:31:44 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(N)
+21:31:44 : [Shariiiiii] - Shariiiiii criou o item Botas(N) [1563] [0 0 0 0 0 0]
+21:31:45 : [Shariiiiii] - Comando "/gm +item 1564"
+21:31:45 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(M)
+21:31:45 : [Shariiiiii] - Shariiiiii criou o item Botas(M) [1564] [0 0 0 0 0 0]
+21:31:46 : [Shariiiiii] - Comando "/gm +item 1565"
+21:31:46 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(A)
+21:31:46 : [Shariiiiii] - Shariiiiii criou o item Botas(A) [1565] [0 0 0 0 0 0]
+21:32:05 : [Shariiiiii] - Item Botas(A) deletado [1565] [0 0 0 0 0 0]. Slot 14
+21:32:05 : [Shariiiiii] - Item Botas(M) deletado [1564] [0 0 0 0 0 0]. Slot 13
+21:32:06 : [Shariiiiii] - Item Botas(N) deletado [1563] [0 0 0 0 0 0]. Slot 12
+21:32:07 : [Shariiiiii] - Item Luvas(A) deletado [1562] [0 0 0 0 0 0]. Slot 11
+21:32:08 : [Shariiiiii] - Item Luvas(M) deletado [1561] [0 0 0 0 0 0]. Slot 10
+21:32:09 : [Shariiiiii] - Item Luvas(N) deletado [1560] [0 0 0 0 0 0]. Slot 9
+21:32:16 : [Shariiiiii] - Comando "/gm +item 1590"
+21:32:16 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Manopla(N)
+21:32:16 : [Shariiiiii] - Shariiiiii criou o item Manopla(N) [1590] [0 0 0 0 0 0]
+21:32:17 : [Shariiiiii] - Comando "/gm +item 1591"
+21:32:17 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Manopla(M)
+21:32:17 : [Shariiiiii] - Shariiiiii criou o item Manopla(M) [1591] [0 0 0 0 0 0]
+21:32:18 : [Shariiiiii] - Comando "/gm +item 1592"
+21:32:18 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Manopla(A)
+21:32:18 : [Shariiiiii] - Shariiiiii criou o item Manopla(A) [1592] [0 0 0 0 0 0]
+21:32:19 : [Shariiiiii] - Comando "/gm +item 1593"
+21:32:19 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(N)
+21:32:19 : [Shariiiiii] - Shariiiiii criou o item Botas(N) [1593] [0 0 0 0 0 0]
+21:32:22 : [Shariiiiii] - Comando "/gm +item 1594"
+21:32:22 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(M)
+21:32:22 : [Shariiiiii] - Shariiiiii criou o item Botas(M) [1594] [0 0 0 0 0 0]
+21:32:22 : [Shariiiiii] - Comando "/gm +item 1595"
+21:32:22 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(A)
+21:32:22 : [Shariiiiii] - Shariiiiii criou o item Botas(A) [1595] [0 0 0 0 0 0]
+21:32:24 : [Shariiiiii] - Moveu item Botas(A) [1595] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 5
+21:32:25 : [Shariiiiii] - Moveu item Botas(M) [1594] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 5
+21:32:26 : [Shariiiiii] - Moveu item Botas(N) [1593] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 5
+21:32:27 : [Shariiiiii] - Moveu item Manopla(A) [1592] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 4
+21:32:27 : [Shariiiiii] - Moveu item Manopla(M) [1591] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 4
+21:32:29 : [Shariiiiii] - Moveu item Peitoral(A) [1586] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+21:32:30 : [Shariiiiii] - Moveu item Calça(N) [1587] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 3
+21:32:31 : [Shariiiiii] - Moveu item Calça(M) [1588] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 3
+21:32:32 : [Shariiiiii] - Moveu item Calça(A) [1589] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 3
+21:32:32 : [Shariiiiii] - Moveu item Manopla(N) [1590] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 4
+21:32:33 : [Shariiiiii] - Moveu item Peitoral(M) [1585] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 2
+21:32:34 : [Shariiiiii] - Moveu item Peitoral(N) [1584] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 2
+21:32:35 : [Shariiiiii] - Moveu item Chapéu(A) [1583] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 1
+21:32:36 : [Shariiiiii] - Moveu item Chapéu(M) [1582] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 1
+21:32:37 : [Shariiiiii] - Moveu item Chapéu(N) [1581] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+21:32:41 : [Shariiiiii] - Moveu item Chapéu(N) [1581] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 5
+21:32:41 : [Shariiiiii] - Moveu item Manopla(N) [1590] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 6
+21:32:42 : [Shariiiiii] - Moveu item Calça(A) [1589] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 11
+21:32:43 : [Shariiiiii] - Moveu item Peitoral(N) [1584] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 2
+21:32:43 : [Shariiiiii] - Moveu item Botas(N) [1593] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 14
+21:32:46 : [Shariiiiii] - Item Botas(N) deletado [1593] [0 0 0 0 0 0]. Slot 14
+21:32:46 : [Shariiiiii] - Item Botas(A) deletado [1595] [0 0 0 0 0 0]. Slot 13
+21:32:48 : [Shariiiiii] - Item Botas(M) deletado [1594] [0 0 0 0 0 0]. Slot 12
+21:32:48 : [Shariiiiii] - O usuário deletou itens muito rapidamente. Tempo para deletar: 392
+21:32:48 : [Shariiiiii] - Item Manopla(M) deletado [1591] [0 0 0 0 0 0]. Slot 9
+21:32:49 : [Shariiiiii] - Item Calça(M) deletado [1588] [0 0 0 0 0 0]. Slot 8
+21:32:49 : [Shariiiiii] - Item Calça(N) deletado [1587] [0 0 0 0 0 0]. Slot 7
+21:32:50 : [Shariiiiii] - Item Peitoral(A) deletado [1586] [0 0 0 0 0 0]. Slot 4
+21:32:51 : [Shariiiiii] - Item Peitoral(M) deletado [1585] [0 0 0 0 0 0]. Slot 3
+21:32:52 : [Shariiiiii] - Item Peitoral(N) deletado [1584] [0 0 0 0 0 0]. Slot 2
+21:32:53 : [Shariiiiii] - Item Calça(A) deletado [1589] [0 0 0 0 0 0]. Slot 11
+21:32:54 : [Shariiiiii] - Item Manopla(N) deletado [1590] [0 0 0 0 0 0]. Slot 6
+21:32:55 : [Shariiiiii] - Item Manopla(A) deletado [1592] [0 0 0 0 0 0]. Slot 10
+21:32:56 : [Shariiiiii] - Item Chapéu(N) deletado [1581] [0 0 0 0 0 0]. Slot 5
+21:32:57 : [Shariiiiii] - Item Chapéu(A) deletado [1583] [0 0 0 0 0 0]. Slot 1
+21:32:58 : [Shariiiiii] - Item Chapéu(M) deletado [1582] [0 0 0 0 0 0]. Slot 0
+21:33:27 : [Shariiiiii] - Comando "/gm +item 1595"
+21:33:27 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(A)
+21:33:27 : [Shariiiiii] - Shariiiiii criou o item Botas(A) [1595] [0 0 0 0 0 0]
+21:34:00 : [Shariiiiii] - Item Botas(A) deletado [1595] [0 0 0 0 0 0]. Slot 0
+21:34:03 : [Shariiiiii] - Comando "/gm +item 1566"
+21:34:03 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Elmo(N)
+21:34:03 : [Shariiiiii] - Shariiiiii criou o item Elmo(N) [1566] [0 0 0 0 0 0]
+21:34:04 : [Shariiiiii] - Comando "/gm +item 1567"
+21:34:04 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Elmo(M)
+21:34:04 : [Shariiiiii] - Shariiiiii criou o item Elmo(M) [1567] [0 0 0 0 0 0]
+21:34:05 : [Shariiiiii] - Comando "/gm +item 1568"
+21:34:05 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Elmo(A)
+21:34:05 : [Shariiiiii] - Shariiiiii criou o item Elmo(A) [1568] [0 0 0 0 0 0]
+21:34:06 : [Shariiiiii] - Comando "/gm +item 1569"
+21:34:06 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(N)
+21:34:06 : [Shariiiiii] - Shariiiiii criou o item Peitoral(N) [1569] [0 0 0 0 0 0]
+21:34:08 : [Shariiiiii] - Comando "/gm +item 1570"
+21:34:08 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(M)
+21:34:08 : [Shariiiiii] - Shariiiiii criou o item Peitoral(M) [1570] [0 0 0 0 0 0]
+21:34:09 : [Shariiiiii] - Comando "/gm +item 1571"
+21:34:09 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Peitoral(A)
+21:34:09 : [Shariiiiii] - Shariiiiii criou o item Peitoral(A) [1571] [0 0 0 0 0 0]
+21:34:10 : [Shariiiiii] - Comando "/gm +item 1572"
+21:34:10 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(N)
+21:34:10 : [Shariiiiii] - Shariiiiii criou o item Calça(N) [1572] [0 0 0 0 0 0]
+21:34:11 : [Shariiiiii] - Comando "/gm +item 1573"
+21:34:11 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(M)
+21:34:11 : [Shariiiiii] - Shariiiiii criou o item Calça(M) [1573] [0 0 0 0 0 0]
+21:34:13 : [Shariiiiii] - Comando "/gm +item 1574"
+21:34:13 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(A)
+21:34:13 : [Shariiiiii] - Shariiiiii criou o item Calça(A) [1574] [0 0 0 0 0 0]
+21:34:14 : [Shariiiiii] - Comando "/gm +item 1575"
+21:34:14 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Braçadeira(N)
+21:34:14 : [Shariiiiii] - Shariiiiii criou o item Braçadeira(N) [1575] [0 0 0 0 0 0]
+21:34:15 : [Shariiiiii] - Comando "/gm +item 1576"
+21:34:15 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Braçadeira(M)
+21:34:15 : [Shariiiiii] - Shariiiiii criou o item Braçadeira(M) [1576] [0 0 0 0 0 0]
+21:34:16 : [Shariiiiii] - Comando "/gm +item 1577"
+21:34:16 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Braçadeira(A)
+21:34:16 : [Shariiiiii] - Shariiiiii criou o item Braçadeira(A) [1577] [0 0 0 0 0 0]
+21:34:17 : [Shariiiiii] - Comando "/gm +item 1578"
+21:34:17 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(N)
+21:34:17 : [Shariiiiii] - Shariiiiii criou o item Botas(N) [1578] [0 0 0 0 0 0]
+21:34:18 : [Shariiiiii] - Comando "/gm +item 1579"
+21:34:18 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(M)
+21:34:18 : [Shariiiiii] - Shariiiiii criou o item Botas(M) [1579] [0 0 0 0 0 0]
+21:34:22 : [Shariiiiii] - Comando "/gm +item 1580"
+21:34:22 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(A)
+21:34:22 : [Shariiiiii] - Shariiiiii criou o item Botas(A) [1580] [0 0 0 0 0 0]
+21:34:25 : [Shariiiiii] - Moveu item Elmo(N) [1566] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+21:34:26 : [Shariiiiii] - Moveu item Elmo(M) [1567] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 1
+21:34:27 : [Shariiiiii] - Moveu item Elmo(A) [1568] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 1
+21:34:28 : [Shariiiiii] - Moveu item Peitoral(N) [1569] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 2
+21:34:28 : [Shariiiiii] - Moveu item Peitoral(M) [1570] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 2
+21:34:29 : [Shariiiiii] - Moveu item Peitoral(A) [1571] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+21:34:30 : [Shariiiiii] - Moveu item Calça(N) [1572] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 3
+21:34:30 : [Shariiiiii] - Moveu item Calça(M) [1573] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 3
+21:34:31 : [Shariiiiii] - Moveu item Calça(A) [1574] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 3
+21:34:32 : [Shariiiiii] - Moveu item Braçadeira(N) [1575] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 4
+21:34:33 : [Shariiiiii] - Moveu item Braçadeira(M) [1576] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 4
+21:34:34 : [Shariiiiii] - Moveu item Braçadeira(A) [1577] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 4
+21:34:34 : [Shariiiiii] - Moveu item Botas(N) [1578] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 5
+21:34:35 : [Shariiiiii] - Moveu item Botas(M) [1579] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 5
+21:34:36 : [Shariiiiii] - Moveu item Botas(A) [1580] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 5
+21:35:45 : [Shariiiiii] - Item Botas(N) deletado [1578] [0 0 0 0 0 0]. Slot 13
+21:35:46 : [Shariiiiii] - Item Botas(M) deletado [1579] [0 0 0 0 0 0]. Slot 14
+21:35:46 : [Shariiiiii] - Item Calça(M) deletado [1573] [0 0 0 0 0 0]. Slot 8
+21:35:47 : [Shariiiiii] - Item Peitoral(N) deletado [1569] [0 0 0 0 0 0]. Slot 4
+21:35:48 : [Shariiiiii] - Item Calça(N) deletado [1572] [0 0 0 0 0 0]. Slot 7
+21:35:49 : [Shariiiiii] - Item Elmo(M) deletado [1567] [0 0 0 0 0 0]. Slot 2
+21:35:49 : [Shariiiiii] - Item Elmo(N) deletado [1566] [0 0 0 0 0 0]. Slot 1
+21:35:50 : [Shariiiiii] - Item Braçadeira(M) deletado [1576] [0 0 0 0 0 0]. Slot 11
+21:35:51 : [Shariiiiii] - Item Braçadeira(N) deletado [1575] [0 0 0 0 0 0]. Slot 10
+21:35:52 : [Shariiiiii] - Item Peitoral(M) deletado [1570] [0 0 0 0 0 0]. Slot 5
+21:35:54 : [Shariiiiii] - Moveu item Botas(A) [1580] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 0
+21:35:54 : [Shariiiiii] - Moveu item Calça(A) [1574] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 5
+21:35:55 : [Shariiiiii] - Moveu item Braçadeira(A) [1577] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 10
+21:35:55 : [Shariiiiii] - Moveu item Peitoral(A) [1571] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 1
+21:35:56 : [Shariiiiii] - Moveu item Elmo(A) [1568] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 6
+21:35:58 : [Shariiiiii] - Item Elmo(A) deletado [1568] [0 0 0 0 0 0]. Slot 6
+21:36:00 : [Shariiiiii] - Item Peitoral(A) deletado [1571] [0 0 0 0 0 0]. Slot 1
+21:36:01 : [Shariiiiii] - Item Braçadeira(A) deletado [1577] [0 0 0 0 0 0]. Slot 10
+21:36:01 : [Shariiiiii] - Item Calça(A) deletado [1574] [0 0 0 0 0 0]. Slot 5
+21:36:02 : [Shariiiiii] - Item Botas(A) deletado [1580] [0 0 0 0 0 0]. Slot 0
+21:36:07 : [Shariiiiii] - Comando "/gm +item 1551"
+21:36:07 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Chapéu(N)
+21:36:07 : [Shariiiiii] - Shariiiiii criou o item Chapéu(N) [1551] [0 0 0 0 0 0]
+21:36:09 : [Shariiiiii] - Comando "/gm +item 1552"
+21:36:09 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Chapéu(M)
+21:36:09 : [Shariiiiii] - Shariiiiii criou o item Chapéu(M) [1552] [0 0 0 0 0 0]
+21:36:10 : [Shariiiiii] - Comando "/gm +item 1553"
+21:36:10 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Chapéu(A)
+21:36:10 : [Shariiiiii] - Shariiiiii criou o item Chapéu(A) [1553] [0 0 0 0 0 0]
+21:36:11 : [Shariiiiii] - Comando "/gm +item 1554"
+21:36:11 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Jaqueta(N)
+21:36:11 : [Shariiiiii] - Shariiiiii criou o item Jaqueta(N) [1554] [0 0 0 0 0 0]
+21:36:12 : [Shariiiiii] - Comando "/gm +item 1555"
+21:36:12 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Jaqueta(M)
+21:36:12 : [Shariiiiii] - Shariiiiii criou o item Jaqueta(M) [1555] [0 0 0 0 0 0]
+21:36:14 : [Shariiiiii] - Comando "/gm +item 1556"
+21:36:14 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Jaqueta(A)
+21:36:14 : [Shariiiiii] - Shariiiiii criou o item Jaqueta(A) [1556] [0 0 0 0 0 0]
+21:36:16 : [Shariiiiii] - Comando "/gm +item 1557"
+21:36:16 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(N)
+21:36:16 : [Shariiiiii] - Shariiiiii criou o item Calça(N) [1557] [0 0 0 0 0 0]
+21:36:17 : [Shariiiiii] - Comando "/gm +item 1558"
+21:36:17 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(M)
+21:36:17 : [Shariiiiii] - Shariiiiii criou o item Calça(M) [1558] [0 0 0 0 0 0]
+21:36:18 : [Shariiiiii] - Comando "/gm +item 1559"
+21:36:18 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Calça(A)
+21:36:18 : [Shariiiiii] - Shariiiiii criou o item Calça(A) [1559] [0 0 0 0 0 0]
+21:36:20 : [Shariiiiii] - Comando "/gm +item 1560"
+21:36:20 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Luvas(N)
+21:36:20 : [Shariiiiii] - Shariiiiii criou o item Luvas(N) [1560] [0 0 0 0 0 0]
+21:36:21 : [Shariiiiii] - Comando "/gm +item 1561"
+21:36:21 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Luvas(M)
+21:36:21 : [Shariiiiii] - Shariiiiii criou o item Luvas(M) [1561] [0 0 0 0 0 0]
+21:36:22 : [Shariiiiii] - Comando "/gm +item 1562"
+21:36:22 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Luvas(A)
+21:36:22 : [Shariiiiii] - Shariiiiii criou o item Luvas(A) [1562] [0 0 0 0 0 0]
+21:36:24 : [Shariiiiii] - Comando "/gm +item 1563"
+21:36:24 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(N)
+21:36:24 : [Shariiiiii] - Shariiiiii criou o item Botas(N) [1563] [0 0 0 0 0 0]
+21:36:25 : [Shariiiiii] - Comando "/gm +item 1564"
+21:36:25 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(M)
+21:36:25 : [Shariiiiii] - Shariiiiii criou o item Botas(M) [1564] [0 0 0 0 0 0]
+21:36:26 : [Shariiiiii] - Comando "/gm +item 1565"
+21:36:26 : [Shariiiiii] - [Mensagem do servidor]> Criou o item Botas(A)
+21:36:26 : [Shariiiiii] - Shariiiiii criou o item Botas(A) [1565] [0 0 0 0 0 0]
+21:36:28 : [Shariiiiii] - Moveu item Chapéu(N) [1551] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+21:36:28 : [Shariiiiii] - Moveu item Chapéu(M) [1552] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 1
+21:36:29 : [Shariiiiii] - Moveu item Chapéu(A) [1553] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 1
+21:36:30 : [Shariiiiii] - Moveu item Jaqueta(N) [1554] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 2
+21:36:30 : [Shariiiiii] - Moveu item Jaqueta(M) [1555] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 4 para tipo EQUIPAMENTO slot 2
+21:36:31 : [Shariiiiii] - Moveu item Jaqueta(A) [1556] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+21:36:31 : [Shariiiiii] - Moveu item Calça(N) [1557] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 3
+21:36:32 : [Shariiiiii] - Moveu item Calça(M) [1558] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 3
+21:36:33 : [Shariiiiii] - Moveu item Calça(A) [1559] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 3
+21:36:34 : [Shariiiiii] - Moveu item Luvas(N) [1560] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 9 para tipo EQUIPAMENTO slot 4
+21:36:34 : [Shariiiiii] - Moveu item Luvas(M) [1561] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 4
+21:36:35 : [Shariiiiii] - Moveu item Luvas(A) [1562] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 4
+21:36:36 : [Shariiiiii] - Moveu item Botas(N) [1563] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 12 para tipo EQUIPAMENTO slot 5
+21:36:36 : [Shariiiiii] - Moveu item Botas(M) [1564] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 13 para tipo EQUIPAMENTO slot 5
+21:36:37 : [Shariiiiii] - Moveu item Botas(A) [1565] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 5
+21:36:38 : [Shariiiiii] - Moveu item Botas(M) [1564] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 14 para tipo EQUIPAMENTO slot 5
+21:37:16 : [Shariiiiii] - Moveu item Botas(M) [1564] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 5 para tipo INVENTÁRIO slot 0
+21:37:16 : [Shariiiiii] - Moveu item Calça(A) [1559] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 6
+21:37:17 : [Shariiiiii] - Moveu item Luvas(A) [1562] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 12
+21:37:17 : [Shariiiiii] - Moveu item Jaqueta(A) [1556] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 3
+21:37:18 : [Shariiiiii] - Moveu item Chapéu(A) [1553] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 9
+21:37:19 : [Shariiiiii] - Item Botas(A) deletado [1565] [0 0 0 0 0 0]. Slot 14
+21:37:20 : [Shariiiiii] - Item Botas(N) deletado [1563] [0 0 0 0 0 0]. Slot 13
+21:37:21 : [Shariiiiii] - Item Luvas(A) deletado [1562] [0 0 0 0 0 0]. Slot 12
+21:37:22 : [Shariiiiii] - Item Luvas(M) deletado [1561] [0 0 0 0 0 0]. Slot 11
+21:37:23 : [Shariiiiii] - Item Luvas(N) deletado [1560] [0 0 0 0 0 0]. Slot 10
+21:37:23 : [Shariiiiii] - Item Chapéu(A) deletado [1553] [0 0 0 0 0 0]. Slot 9
+21:37:24 : [Shariiiiii] - Item Calça(M) deletado [1558] [0 0 0 0 0 0]. Slot 8
+21:37:25 : [Shariiiiii] - Item Calça(N) deletado [1557] [0 0 0 0 0 0]. Slot 7
+21:37:26 : [Shariiiiii] - Item Calça(A) deletado [1559] [0 0 0 0 0 0]. Slot 6
+21:37:26 : [Shariiiiii] - Item Jaqueta(M) deletado [1555] [0 0 0 0 0 0]. Slot 5
+21:37:27 : [Shariiiiii] - Item Jaqueta(N) deletado [1554] [0 0 0 0 0 0]. Slot 4
+21:37:28 : [Shariiiiii] - Item Jaqueta(A) deletado [1556] [0 0 0 0 0 0]. Slot 3
+21:37:29 : [Shariiiiii] - Item Chapéu(M) deletado [1552] [0 0 0 0 0 0]. Slot 2
+21:37:30 : [Shariiiiii] - Item Chapéu(N) deletado [1551] [0 0 0 0 0 0]. Slot 1
+21:37:31 : [Shariiiiii] - Item Botas(M) deletado [1564] [0 0 0 0 0 0]. Slot 0
+21:37:52 : [Shariiiiii] - ADMIN4 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:37:52 : [Shariiiiii] - 1 Personagem foi desconectado. Permaneceu 00:26:11 minutos online

@@ -1,0 +1,2156 @@
+
+13:55:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+13:55:22 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1829750000
+13:55:22 : [INFORMAÇÕES DO BANCO]
+Gold: 1829750000
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1297] [43 3 60 6 53 3]
+[  2] - Botas(M)[1309] [43 3 60 6 74 12]
+[  3] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[  4] - Calça(M)[1285] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1321] [43 3 60 6 53 3]
+[  7] - Botas(M)[1324] [43 3 60 6 74 12]
+[  9] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 10] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 11] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 13] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 15] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 16] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 17] - Cajado[899] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 20] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 22] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 23] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 24] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 25] - [4646] [0 0 0 0 0 0]
+[ 26] - Armadura[1506] [43 6 0 0 0 0]
+[ 27] - Calça[1507] [43 6 0 0 0 0]
+[ 28] - Luvas[1508] [43 6 0 0 0 0]
+[ 29] - Botas[1509] [43 6 0 0 0 0]
+[ 30] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 31] - Luvas(M)[1297] [43 3 60 6 53 3]
+[ 32] - Botas(M)[1309] [43 3 60 6 74 12]
+[ 33] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[ 34] - Calça(M)[1285] [43 3 60 6 3 20]
+[ 35] - Robe(M)[1273] [43 3 60 6 3 20]
+[ 36] - Luvas(M)[1321] [43 3 60 6 53 3]
+[ 37] - Botas(M)[1324] [43 3 60 6 74 12]
+[ 38] - Chapéu(M)[1312] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 40] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 41] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 42] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 43] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 44] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 45] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 46] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 47] - Cajado[899] [43 6 60 16 0 0]
+[ 48] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 49] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 50] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 51] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 52] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 53] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 54] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 55] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 56] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 57] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 58] - Botas(M)[1159] [43 3 73 18 74 12]
+[ 59] - Elmo(M)[1111] [43 3 4 20 0 0]
+[ 60] - Calça(M)[1135] [43 3 2 20 3 20]
+[ 61] - Armadura(M)[1123] [43 3 2 20 3 20]
+[ 62] - Luvas(M)[1186] [43 3 2 20 53 3]
+[ 63] - Botas(M)[1189] [43 3 73 18 74 12]
+[ 64] - Elmo(M)[1177] [43 3 4 20 0 0]
+[ 65] - Calça(M)[1183] [43 3 2 20 3 20]
+[ 66] - Armadura(M)[1180] [43 3 2 20 3 20]
+[ 67] - Manopla(M)[1201] [43 3 2 20 53 3]
+
+13:55:22 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:55:37 : Solicitou ir ao mundo...
+13:55:37 : Recebido pedido para entrar no jogo
+13:55:37 : Recebido informação do personagem completa.
+13:55:37 : [Shariii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariii
+Gold atual: 1659000
+Level atual: 220
+Experiência atual: 106362070
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:15 horas
+Posição atual: 2098x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+[14] - Pegasus[2382] [120 120 120 120 0 0]
+
+[INVENTÁRIO]
+[00] - Peitoral(M)[1600] [43 0 3 15 60 2]
+[01] - Braçadeira(M)[1606] [9 11 72 10 74 15]
+[02] - Arco[972] [43 1 26 9 2 9]
+[03] - Emblema_do_Reino[4081] [0 0 0 0 0 0]
+[04] - Coração_do_Kaizen[4119] [61 199 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:55:37 : [Shariii] - Personagem Shariii enviado ao mundo 2098x 2103y - Canal 2 - Cash da conta: 0. OverPower: 780
+13:55:37 : [Shariii] - Gold atual: 1659000. Classe: 2 Evolução: 0. Experiência: 106362070. Nível: 220. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:55:37 : [Shariii] - Logou no personagem Shariii com frango ativo. Tempo: 1591
+13:55:37 : [Shariii] - Logou no personagem Shariii com baú de experiência ativo. Tempo: 692
+13:55:37 : [Shariii] - Resetado a contagem de entradas água! Day: 6-7. Total: 36
+13:55:37 : [Shariii] - Enviado informações do personagem
+13:55:38 : [Shariii] - Comando "/day "
+13:55:38 : [Shariii] - [Mensagem do servidor]> !#11 2
+13:55:48 : [Shariii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:03:59 : [Shariii] - Moveu item Pegasus [2382] [120 120 120 120 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+14:04:02 : [Shariii] - Moveu item Pegasus [2382] [120 120 120 120 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 14
+14:04:04 : [Shariii] - Moveu item Pegasus [2382] [120 120 120 120 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 5
+14:04:08 : [Shariii] - Moveu item Pegasus [2382] [120 120 120 120 0 0] do tipo INVENTÁRIO do slot 5 para tipo BANCO slot 5
+14:04:14 : [Shariii] - Personagem deu personagem
+14:06:28 : Solicitou ir ao mundo...
+14:06:28 : Recebido pedido para entrar no jogo
+14:06:28 : Recebido informação do personagem completa.
+14:06:28 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 744569930
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:10:58 horas
+Posição atual: 2504x 1715y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 68719477232
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 0
+Experiência atual: 0
+Learn: 1073741824
+SecLearn: 0
+Info: 496
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[18] [43 0 18 2 1 1]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 253 0 0 0 0]
+[04] - Luvass[1358] [43 253 0 0 0 0]
+[05] - Botass[1359] [43 253 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Cérberus[2378] [120 120 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 5 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 93 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 3 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Cérberus[2378] [0 0 0 0 0 0]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 4 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 9 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Âmago_de_Cérberus[2408] [61 1 43 2 0 0]
+[10] - Cérberus[2378] [10 10 17 10 0 0]
+[11] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[12] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[13] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[16] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[17] - Pergaminho_da_Água(M)LV3[779] [0 0 0 0 0 0]
+[18] - Pergaminho_da_Água(M)LV1[777] [61 9 0 0 0 0]
+[25] - Pergaminho_da_Água(N)LV1[3173] [61 9 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:06:28 : [Sharii] - Personagem Sharii enviado ao mundo 2504x 1715y - Canal 2 - Cash da conta: 0. OverPower: 2868
+14:06:28 : [Sharii] - Gold atual: 744569930. Classe: 2 Evolução: 2. Experiência: 4000000000. Nível: 199. Info: 68719477232. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:06:28 : [Sharii] - Evolução logada: 2
+14:06:28 : [Sharii] - Dados da capa um: [3199] [0 0 0 0 0 0]
+14:06:28 : [Sharii] - Dados da capa dois: [0] [0 0 0 0 0 0]
+14:06:28 : [Sharii] - Não foi efetuado a troca pois a refinação atual é maior
+14:06:28 : [Sharii] - Enviado informações do personagem
+14:06:29 : [Sharii] - Comando "/day "
+14:06:29 : [Sharii] - [Mensagem do servidor]> !#11 2
+14:06:36 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:06:41 : [Sharii] - CrackError - Points: 2 type: 20
+14:06:44 : [Sharii] - Moveu item Pegasus [2382] [120 120 120 120 0 0] do tipo BANCO do slot 5 para tipo INVENTÁRIO slot 20
+14:06:46 : [Sharii] - Moveu item Pegasus [2382] [120 120 120 120 0 0] do tipo INVENTÁRIO do slot 20 para tipo EQUIPAMENTO slot 14
+14:07:15 : [Sharii] - Item Pedra_Misteriosa [4148] [61 3 0 0 0 0] utilizado em 2480x 1711y
+14:07:15 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 744569930
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:11:44 horas
+Posição atual: 2480x 1711y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 68719477232
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 0
+Experiência atual: 0
+Learn: 1073741824
+SecLearn: 0
+Info: 496
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[18] [43 0 18 2 1 1]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 253 0 0 0 0]
+[04] - Luvass[1358] [43 253 0 0 0 0]
+[05] - Botass[1359] [43 253 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Pegasus[2382] [120 120 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 5 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 93 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 3 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Cérberus[2378] [0 0 0 0 0 0]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 4 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 9 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Âmago_de_Cérberus[2408] [61 1 43 2 0 0]
+[10] - Cérberus[2378] [10 10 17 10 0 0]
+[11] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[12] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[13] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[16] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[17] - Pergaminho_da_Água(M)LV3[779] [0 0 0 0 0 0]
+[18] - Pergaminho_da_Água(M)LV1[777] [61 9 0 0 0 0]
+[20] - Cérberus[2378] [120 120 120 120 0 0]
+[25] - Pergaminho_da_Água(N)LV1[3173] [61 9 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:07:15 : [Sharii] - Classe 1 gerada através da face 17
+14:07:18 : [Sharii] - Teleportado para a posição 2117 2102
+14:07:59 : [Sharii] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:07:59 : [Sharii] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:08:07 : [Sharii] - Comprou uma skill Ataque_de_Fogo. Learn antigo: 4611687118072625548, Learn atual: 1249742230806069504. Learn da skill: 1124.
+14:08:07 : [Sharii] - [Mensagem do servidor]> Habilidade Ataque_de_Fogo aprendida com sucesso
+14:08:07 : [Sharii] - Comprou uma skill Relâmpago. Learn antigo: 4611689317095881100, Learn atual: 1249742230806069760. Learn da skill: 1124.
+14:08:07 : [Sharii] - [Mensagem do servidor]> Habilidade Relâmpago aprendida com sucesso
+14:08:08 : [Sharii] - Comprou uma skill Lança_de_Gelo. Learn antigo: 4611693715142392204, Learn atual: 1249742230806070272. Learn da skill: 1124.
+14:08:08 : [Sharii] - [Mensagem do servidor]> Habilidade Lança_de_Gelo aprendida com sucesso
+14:08:09 : [Sharii] - Comprou uma skill Tempestade_de_Meteoro. Learn antigo: 4611702511235414412, Learn atual: 1249742230806071296. Learn da skill: 1124.
+14:08:09 : [Sharii] - [Mensagem do servidor]> Habilidade Tempestade_de_Meteoro aprendida com sucesso
+14:08:09 : [Sharii] - Comprou uma skill Nevasca. Learn antigo: 4611720103421458828, Learn atual: 1249742230806073344. Learn da skill: 1124.
+14:08:09 : [Sharii] - [Mensagem do servidor]> Habilidade Nevasca aprendida com sucesso
+14:08:10 : [Sharii] - Comprou uma skill Trovão. Learn antigo: 4611755287793547660, Learn atual: 1249742230806077440. Learn da skill: 1124.
+14:08:10 : [Sharii] - [Mensagem do servidor]> Habilidade Trovão aprendida com sucesso
+14:08:10 : [Sharii] - Comprou uma skill Fênix_de_Fogo. Learn antigo: 4611825656537725324, Learn atual: 1249742230806085632. Learn da skill: 1124.
+14:08:10 : [Sharii] - [Mensagem do servidor]> Habilidade Fênix_de_Fogo aprendida com sucesso
+14:08:11 : [Sharii] - Comprou uma skill Inferno. Learn antigo: 4611966394026080652, Learn atual: 1249742230806102016. Learn da skill: 1124.
+14:08:11 : [Sharii] - [Mensagem do servidor]> Habilidade Inferno aprendida com sucesso
+14:08:21 : [Sharii] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:08:21 : [Sharii] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:08:21 : [Sharii] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:09:09 : [Sharii] - Item Jóia_da_Sagacidade [3200] [61 5 0 0 0 0] utilizado em 2107x 2104y
+14:09:22 : [Sharii] - Personagem deu personagem
+14:09:31 : Solicitou ir ao mundo...
+14:09:31 : Recebido pedido para entrar no jogo
+14:09:31 : Recebido informação do personagem completa.
+14:09:31 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 694568130
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:13:58 horas
+Posição atual: 2086x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 253 0 0 0 0]
+[04] - Luvass[1358] [43 253 0 0 0 0]
+[05] - Botass[1359] [43 253 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Pegasus[2382] [120 120 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 4 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 93 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Cérberus[2378] [0 0 0 0 0 0]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 4 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 9 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Âmago_de_Cérberus[2408] [61 1 43 2 0 0]
+[10] - Cérberus[2378] [10 10 17 10 0 0]
+[11] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[12] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[13] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[16] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[17] - Pergaminho_da_Água(M)LV3[779] [0 0 0 0 0 0]
+[18] - Pergaminho_da_Água(M)LV1[777] [61 9 0 0 0 0]
+[20] - Cérberus[2378] [120 120 120 120 0 0]
+[25] - Pergaminho_da_Água(N)LV1[3173] [61 9 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:09:31 : [Sharii] - Personagem Sharii enviado ao mundo 2086x 2105y - Canal 2 - Cash da conta: 0. OverPower: 2470
+14:09:31 : [Sharii] - Gold atual: 694568130. Classe: 1 Evolução: 3. Experiência: 0. Nível: 0. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:09:31 : [Sharii] - Evolução logada: 3
+14:09:31 : [Sharii] - Dados da capa um: [3199] [0 0 0 0 0 0]
+14:09:31 : [Sharii] - Dados da capa dois: [0] [0 0 0 0 0 0]
+14:09:31 : [Sharii] - Não foi efetuado a troca pois a refinação atual é maior
+14:09:31 : [Sharii] - Enviado informações do personagem
+14:09:32 : [Sharii] - Comando "/day "
+14:09:32 : [Sharii] - [Mensagem do servidor]> !#11 2
+14:09:36 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:10:28 : [Sharii] - Teleportado para a posição 2482 1717
+14:11:02 : [Sharii] - Teleportado para a posição 2117 2102
+14:11:35 : [Sharii] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:11:35 : [Sharii] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:11:35 : [Sharii] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:11:35 : [Sharii] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:11:35 : [Sharii] - [Mensagem do servidor]> Limite de 200 pontos em cada linhagem.
+14:11:40 : [Sharii] - Comprou uma skill Controle_de_Mana. Learn antigo: 4629980792535562636, Learn atual: 1249742230810263552. Learn da skill: 1124.
+14:11:40 : [Sharii] - [Mensagem do servidor]> Habilidade Controle_de_Mana aprendida com sucesso
+14:11:41 : [Sharii] - Comprou uma skill Toque_da_Athena. Learn antigo: 4638987991790303628, Learn atual: 1249742230808166400. Learn da skill: 1124.
+14:11:41 : [Sharii] - [Mensagem do servidor]> Habilidade Toque_da_Athena aprendida com sucesso
+14:11:43 : [Sharii] - Comprou uma skill Arma_Mágica. Learn antigo: 4643491591417674124, Learn atual: 1249742230807117824. Learn da skill: 1124.
+14:11:43 : [Sharii] - [Mensagem do servidor]> Habilidade Arma_Mágica aprendida com sucesso
+14:11:44 : [Sharii] - Comprou uma skill Escudo_Mágico. Learn antigo: 4645743391231359372, Learn atual: 1249742230806593536. Learn da skill: 1124.
+14:11:44 : [Sharii] - [Mensagem do servidor]> Habilidade Escudo_Mágico aprendida com sucesso
+14:11:45 : [Sharii] - Comprou uma skill Velocidade. Learn antigo: 4646306341184780684, Learn atual: 1249742230806200320. Learn da skill: 1124.
+14:11:45 : [Sharii] - [Mensagem do servidor]> Habilidade Velocidade aprendida com sucesso
+14:12:22 : [Sharii] - Item Pedido_de_Caça(Kult) [3435] [61 93 0 0 0 0] utilizado em 2113x 2101y
+14:12:22 : [Sharii] - Teleportado para a posição 1182 1714
+14:12:26 : [Sharii] - Matou o mob Tauron. GenerID: 4372
+14:12:26 : [Sharii] - Matou o mob Tauron Bandido. GenerID: 4372
+14:12:26 : [Sharii] - Matou o mob Tauron. GenerID: 4372
+14:12:26 : [Sharii] - Dropado item Gema_da_Siren [658] [0 0 0 0 0 0] em 1182x 1714y - Tauron (1/300)
+14:12:26 : [Sharii] - Matou o mob Tauron. GenerID: 4372
+14:12:30 : [Sharii] - Matou o mob Tauron. GenerID: 4371
+14:12:31 : [Sharii] - Matou o mob Tauron Bandido. GenerID: 4371
+14:12:31 : [Sharii] - Matou o mob Tauron. GenerID: 4371
+14:12:31 : [Sharii] - Matou o mob Tauron. GenerID: 4371
+14:12:33 : [Sharii] - Matou o mob Tauron. GenerID: 3999
+14:12:33 : [Sharii] - Matou o mob Tauron Bandido. GenerID: 3999
+14:12:33 : [Sharii] - Matou o mob Tauron. GenerID: 3999
+14:12:33 : [Sharii] - Matou o mob Tauron. GenerID: 3999
+14:12:36 : [Sharii] - Matou o mob Tauron. GenerID: 4000
+14:12:37 : [Sharii] - Matou o mob Tauron. GenerID: 4000
+14:12:38 : [Sharii] - Matou o mob Tauron Bandido. GenerID: 4000
+14:12:40 : [Sharii] - Matou o mob Tauron. GenerID: 4000
+14:12:42 : [Sharii] - Matou o mob Tauron. GenerID: 3999
+14:12:42 : [Sharii] - Matou o mob Tauron. GenerID: 3999
+14:12:42 : [Sharii] - Matou o mob Tauron. GenerID: 3999
+14:12:42 : [Sharii] - Matou o mob Tauron Bandido. GenerID: 3999
+14:12:53 : [Sharii] - Matou o mob Tauron Bandido. GenerID: 4003
+14:13:01 : [Sharii] - Matou o mob Tauron Bandido. GenerID: 4004
+14:13:01 : [Sharii] - Dropado item Luvas(M) [1501] [43 0 72 20 2 12] em 1185x 1751y - Tauron Bandido (1/300)
+14:13:01 : [Sharii] - Matou o mob Tauron. GenerID: 4003
+14:13:01 : [Sharii] - Dropado item Poeira_de_Oriharucon [412] [0 0 0 0 0 0] em 1185x 1751y - Tauron (1/570)
+14:13:09 : [Sharii] - Matou o mob Tauron. GenerID: 4003
+14:13:15 : [Sharii] - Personagem deu personagem
+14:13:15 : [Sharii] - Recebeu 6773 de gold em 4 mobs no total. Total de gold: 694571303
+14:13:20 : Solicitou ir ao mundo...
+14:13:24 : Solicitou ir ao mundo...
+14:13:27 : Solicitou ir ao mundo...
+14:13:28 : ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+14:13:28 : Personagem foi desconectado. Permaneceu 00:17:53 minutos online
+14:13:31 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+14:13:31 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1829750000
+14:13:31 : [INFORMAÇÕES DO BANCO]
+Gold: 1829750000
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1297] [43 3 60 6 53 3]
+[  2] - Botas(M)[1309] [43 3 60 6 74 12]
+[  3] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[  4] - Calça(M)[1285] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1321] [43 3 60 6 53 3]
+[  7] - Botas(M)[1324] [43 3 60 6 74 12]
+[  9] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 10] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 11] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 13] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 15] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 16] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 17] - Cajado[899] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 20] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 22] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 23] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 24] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 25] - [4646] [0 0 0 0 0 0]
+[ 26] - Armadura[1506] [43 6 0 0 0 0]
+[ 27] - Calça[1507] [43 6 0 0 0 0]
+[ 28] - Luvas[1508] [43 6 0 0 0 0]
+[ 29] - Botas[1509] [43 6 0 0 0 0]
+[ 30] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 31] - Luvas(M)[1297] [43 3 60 6 53 3]
+[ 32] - Botas(M)[1309] [43 3 60 6 74 12]
+[ 33] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[ 34] - Calça(M)[1285] [43 3 60 6 3 20]
+[ 35] - Robe(M)[1273] [43 3 60 6 3 20]
+[ 36] - Luvas(M)[1321] [43 3 60 6 53 3]
+[ 37] - Botas(M)[1324] [43 3 60 6 74 12]
+[ 38] - Chapéu(M)[1312] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 40] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 41] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 42] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 43] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 44] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 45] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 46] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 47] - Cajado[899] [43 6 60 16 0 0]
+[ 48] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 49] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 50] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 51] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 52] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 53] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 54] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 55] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 56] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 57] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 58] - Botas(M)[1159] [43 3 73 18 74 12]
+[ 59] - Elmo(M)[1111] [43 3 4 20 0 0]
+[ 60] - Calça(M)[1135] [43 3 2 20 3 20]
+[ 61] - Armadura(M)[1123] [43 3 2 20 3 20]
+[ 62] - Luvas(M)[1186] [43 3 2 20 53 3]
+[ 63] - Botas(M)[1189] [43 3 73 18 74 12]
+[ 64] - Elmo(M)[1177] [43 3 4 20 0 0]
+[ 65] - Calça(M)[1183] [43 3 2 20 3 20]
+[ 66] - Armadura(M)[1180] [43 3 2 20 3 20]
+[ 67] - Manopla(M)[1201] [43 3 2 20 53 3]
+
+14:13:37 : Solicitou ir ao mundo...
+14:13:37 : Recebido pedido para entrar no jogo
+14:13:37 : Recebido informação do personagem completa.
+14:13:37 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 920319900
+Level atual: 399
+Experiência atual: 4002399534
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2088x 2103y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 8610906112
+Soul: 8
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(N)[1254] [43 8 0 0 0 0]
+[02] - Robe(N)[1266] [43 8 0 0 0 0]
+[03] - Saia(N)[1278] [43 8 0 0 0 0]
+[04] - Luvas(N)[1290] [43 8 0 0 0 0]
+[05] - Botas(M)[1306] [43 4 73 0 60 2]
+[08] - Brinco_de_Athena[591] [0 0 0 0 0 0]
+[11] - Pedra_Espiritual[633] [54 10 43 9 0 0]
+[14] - Aranha[2360] [88 27 21 18 0 0]
+[15] - Véu_do_Campeão_(Andarilho)[574] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Lobo_Polar[3980] [106 3 0 0 0 0]
+[01] - Frango_Assado[3314] [61 13 0 0 0 0]
+[02] - Botas(N)[1302] [43 8 0 0 0 0]
+[03] - Ração_de_Aranha[2420] [61 112 0 0 0 0]
+[04] - Arco[816] [43 0 0 0 0 0]
+[05] - Pergaminho_de_Portal(10)[776] [61 8 0 0 0 0]
+[06] - Skeleton_Bow[943] [43 9 0 0 0 0]
+[07] - Emblema_da_Aprendizagem[4080] [0 0 0 0 0 0]
+[08] - Pedaço_de_Chance[4123] [0 0 0 0 0 0]
+[09] - Brinco_de_Athena[591] [0 0 0 0 0 0]
+[11] - Cajado_Caótico(Anct)[3728] [43 9 0 0 0 0]
+[12] - Barra_de_Prata(1Bi)[4011] [0 0 0 0 0 0]
+[13] - Estabilizador_de_Crescimento[3461] [61 10 0 0 0 0]
+[14] - Garnet[2444] [0 0 0 0 0 0]
+[25] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[26] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[27] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[28] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[29] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:13:37 : [Sharii] - Personagem Sharii enviado ao mundo 2088x 2103y - Canal 2 - Cash da conta: 0. OverPower: 1065
+14:13:37 : [Sharii] - Gold atual: 920319900. Classe: 1 Evolução: 0. Experiência: 4002399534. Nível: 399. Info: 8610906112. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:13:37 : [Sharii] - Enviado informações do personagem
+14:13:38 : [Sharii] - Comando "/day "
+14:13:38 : [Sharii] - [Mensagem do servidor]> !#11 2
+14:13:48 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:14:16 : [Sharii] - Personagem deu personagem
+14:14:24 : Solicitou ir ao mundo...
+14:14:24 : Recebido pedido para entrar no jogo
+14:14:24 : Recebido informação do personagem completa.
+14:14:25 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 694571303
+Level atual: 0
+Experiência atual: 1124328
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:52 horas
+Posição atual: 2097x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 253 0 0 0 0]
+[04] - Luvass[1358] [43 253 0 0 0 0]
+[05] - Botass[1359] [43 253 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Pegasus[2382] [120 120 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 4 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 92 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Cérberus[2378] [0 0 0 0 0 0]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 4 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 9 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Âmago_de_Cérberus[2408] [61 1 43 2 0 0]
+[10] - Cérberus[2378] [10 10 17 10 0 0]
+[11] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[12] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[13] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[16] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[17] - Pergaminho_da_Água(M)LV3[779] [0 0 0 0 0 0]
+[18] - Pergaminho_da_Água(M)LV1[777] [61 9 0 0 0 0]
+[19] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[20] - Cérberus[2378] [120 120 120 120 0 0]
+[21] - Luvas(M)[1501] [43 0 72 20 2 12]
+[22] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[25] - Pergaminho_da_Água(N)LV1[3173] [61 9 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:14:25 : [Sharii] - Personagem Sharii enviado ao mundo 2097x 2095y - Canal 2 - Cash da conta: 0. OverPower: 2470
+14:14:25 : [Sharii] - Gold atual: 694571303. Classe: 1 Evolução: 3. Experiência: 1124328. Nível: 0. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:14:25 : [Sharii] - Evolução logada: 3
+14:14:25 : [Sharii] - Dados da capa um: [3199] [0 0 0 0 0 0]
+14:14:25 : [Sharii] - Dados da capa dois: [0] [0 0 0 0 0 0]
+14:14:25 : [Sharii] - Não foi efetuado a troca pois a refinação atual é maior
+14:14:25 : [Sharii] - Enviado informações do personagem
+14:14:25 : [Sharii] - Comando "/day "
+14:14:25 : [Sharii] - [Mensagem do servidor]> !#11 2
+14:14:36 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:15:17 : [Sharii] - ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+14:15:17 : [Sharii] - 1 Personagem foi desconectado. Permaneceu 00:01:45 minutos online
+14:15:20 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+14:15:20 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1829750000
+14:15:20 : [INFORMAÇÕES DO BANCO]
+Gold: 1829750000
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1297] [43 3 60 6 53 3]
+[  2] - Botas(M)[1309] [43 3 60 6 74 12]
+[  3] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[  4] - Calça(M)[1285] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1321] [43 3 60 6 53 3]
+[  7] - Botas(M)[1324] [43 3 60 6 74 12]
+[  9] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 10] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 11] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 13] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 15] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 16] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 17] - Cajado[899] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 20] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 22] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 23] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 24] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 25] - [4646] [0 0 0 0 0 0]
+[ 26] - Armadura[1506] [43 6 0 0 0 0]
+[ 27] - Calça[1507] [43 6 0 0 0 0]
+[ 28] - Luvas[1508] [43 6 0 0 0 0]
+[ 29] - Botas[1509] [43 6 0 0 0 0]
+[ 30] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 31] - Luvas(M)[1297] [43 3 60 6 53 3]
+[ 32] - Botas(M)[1309] [43 3 60 6 74 12]
+[ 33] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[ 34] - Calça(M)[1285] [43 3 60 6 3 20]
+[ 35] - Robe(M)[1273] [43 3 60 6 3 20]
+[ 36] - Luvas(M)[1321] [43 3 60 6 53 3]
+[ 37] - Botas(M)[1324] [43 3 60 6 74 12]
+[ 38] - Chapéu(M)[1312] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 40] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 41] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 42] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 43] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 44] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 45] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 46] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 47] - Cajado[899] [43 6 60 16 0 0]
+[ 48] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 49] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 50] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 51] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 52] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 53] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 54] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 55] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 56] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 57] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 58] - Botas(M)[1159] [43 3 73 18 74 12]
+[ 59] - Elmo(M)[1111] [43 3 4 20 0 0]
+[ 60] - Calça(M)[1135] [43 3 2 20 3 20]
+[ 61] - Armadura(M)[1123] [43 3 2 20 3 20]
+[ 62] - Luvas(M)[1186] [43 3 2 20 53 3]
+[ 63] - Botas(M)[1189] [43 3 73 18 74 12]
+[ 64] - Elmo(M)[1177] [43 3 4 20 0 0]
+[ 65] - Calça(M)[1183] [43 3 2 20 3 20]
+[ 66] - Armadura(M)[1180] [43 3 2 20 3 20]
+[ 67] - Manopla(M)[1201] [43 3 2 20 53 3]
+
+14:15:27 : Solicitou ir ao mundo...
+14:15:27 : Recebido pedido para entrar no jogo
+14:15:27 : Recebido informação do personagem completa.
+14:15:27 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 694571303
+Level atual: 0
+Experiência atual: 1124328
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2087x 2099y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 253 0 0 0 0]
+[04] - Luvass[1358] [43 253 0 0 0 0]
+[05] - Botass[1359] [43 253 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Pegasus[2382] [120 120 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 4 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 92 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Cérberus[2378] [0 0 0 0 0 0]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 4 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 9 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Âmago_de_Cérberus[2408] [61 1 43 2 0 0]
+[10] - Cérberus[2378] [10 10 17 10 0 0]
+[11] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[12] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[13] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[16] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[17] - Pergaminho_da_Água(M)LV3[779] [0 0 0 0 0 0]
+[18] - Pergaminho_da_Água(M)LV1[777] [61 9 0 0 0 0]
+[19] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[20] - Cérberus[2378] [120 120 120 120 0 0]
+[21] - Luvas(M)[1501] [43 0 72 20 2 12]
+[22] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[25] - Pergaminho_da_Água(N)LV1[3173] [61 9 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:15:27 : [Sharii] - Personagem Sharii enviado ao mundo 2087x 2099y - Canal 2 - Cash da conta: 0. OverPower: 2470
+14:15:27 : [Sharii] - Gold atual: 694571303. Classe: 1 Evolução: 3. Experiência: 1124328. Nível: 0. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:15:27 : [Sharii] - Evolução logada: 3
+14:15:27 : [Sharii] - Dados da capa um: [3199] [0 0 0 0 0 0]
+14:15:27 : [Sharii] - Dados da capa dois: [0] [0 0 0 0 0 0]
+14:15:27 : [Sharii] - Não foi efetuado a troca pois a refinação atual é maior
+14:15:27 : [Sharii] - Enviado informações do personagem
+14:15:28 : [Sharii] - Comando "/day "
+14:15:28 : [Sharii] - [Mensagem do servidor]> !#11 2
+14:15:36 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:16:32 : [Sharii] - Personagem deu personagem
+14:16:39 : Solicitou ir ao mundo...
+14:16:39 : Recebido pedido para entrar no jogo
+14:16:39 : Recebido informação do personagem completa.
+14:16:39 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 694571303
+Level atual: 0
+Experiência atual: 1124328
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:01:18 horas
+Posição atual: 2086x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 253 0 0 0 0]
+[04] - Luvass[1358] [43 253 0 0 0 0]
+[05] - Botass[1359] [43 253 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Pegasus[2382] [120 120 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 4 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 92 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Cérberus[2378] [0 0 0 0 0 0]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 4 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 9 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Âmago_de_Cérberus[2408] [61 1 43 2 0 0]
+[10] - Cérberus[2378] [10 10 17 10 0 0]
+[11] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[12] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[13] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[16] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[17] - Pergaminho_da_Água(M)LV3[779] [0 0 0 0 0 0]
+[18] - Pergaminho_da_Água(M)LV1[777] [61 9 0 0 0 0]
+[19] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[20] - Cérberus[2378] [120 120 120 120 0 0]
+[21] - Luvas(M)[1501] [43 0 72 20 2 12]
+[22] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[25] - Pergaminho_da_Água(N)LV1[3173] [61 9 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:16:39 : [Sharii] - Personagem Sharii enviado ao mundo 2086x 2095y - Canal 2 - Cash da conta: 0. OverPower: 2470
+14:16:39 : [Sharii] - Gold atual: 694571303. Classe: 1 Evolução: 3. Experiência: 1124328. Nível: 0. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:16:39 : [Sharii] - Evolução logada: 3
+14:16:39 : [Sharii] - Dados da capa um: [3199] [0 0 0 0 0 0]
+14:16:39 : [Sharii] - Dados da capa dois: [0] [0 0 0 0 0 0]
+14:16:39 : [Sharii] - Não foi efetuado a troca pois a refinação atual é maior
+14:16:39 : [Sharii] - Enviado informações do personagem
+14:16:40 : [Sharii] - Comando "/day "
+14:16:40 : [Sharii] - [Mensagem do servidor]> !#11 2
+14:16:48 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:17:07 : [Sharii] - Personagem deu personagem
+14:17:48 : Solicitou ir ao mundo...
+14:17:48 : Recebido pedido para entrar no jogo
+14:17:48 : Recebido informação do personagem completa.
+14:17:48 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 694571303
+Level atual: 0
+Experiência atual: 1124328
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:02:26 horas
+Posição atual: 2093x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 253 0 0 0 0]
+[04] - Luvass[1358] [43 253 0 0 0 0]
+[05] - Botass[1359] [43 253 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Pegasus[2382] [120 120 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 4 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 92 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Cérberus[2378] [0 0 0 0 0 0]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 4 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 9 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Âmago_de_Cérberus[2408] [61 1 43 2 0 0]
+[10] - Cérberus[2378] [10 10 17 10 0 0]
+[11] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[12] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[13] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[16] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[17] - Pergaminho_da_Água(M)LV3[779] [0 0 0 0 0 0]
+[18] - Pergaminho_da_Água(M)LV1[777] [61 9 0 0 0 0]
+[19] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[20] - Cérberus[2378] [120 120 120 120 0 0]
+[21] - Luvas(M)[1501] [43 0 72 20 2 12]
+[22] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[25] - Pergaminho_da_Água(N)LV1[3173] [61 9 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:17:48 : [Sharii] - Personagem Sharii enviado ao mundo 2093x 2095y - Canal 2 - Cash da conta: 0. OverPower: 2470
+14:17:48 : [Sharii] - Gold atual: 694571303. Classe: 1 Evolução: 3. Experiência: 1124328. Nível: 0. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+14:17:48 : [Sharii] - Evolução logada: 3
+14:17:48 : [Sharii] - Dados da capa um: [3199] [0 0 0 0 0 0]
+14:17:48 : [Sharii] - Dados da capa dois: [0] [0 0 0 0 0 0]
+14:17:48 : [Sharii] - Não foi efetuado a troca pois a refinação atual é maior
+14:17:48 : [Sharii] - Enviado informações do personagem
+14:17:49 : [Sharii] - Comando "/day "
+14:17:49 : [Sharii] - [Mensagem do servidor]> !#11 2
+14:18:01 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+14:18:12 : [Sharii] - Teleportado para a posição 2482 1717
+14:18:18 : [Sharii] - Teleportado para a posição 1970 1711
+14:18:18 : [Sharii] - Solicitado teleporte na posição 2455x 1718y e teleportado para 1970x 1711y
+14:18:34 : [Sharii] - Item Pergaminho_da_Água(A)LV1 [3182] [61 4 0 0 0 0] utilizado em 1966x 1775y
+14:18:34 : [Sharii] - Teleportado para a posição 1305 3552
+14:18:34 : [Sharii] - Água 3182 - Grupo teleportado para a área. Entradas restantes: 1080
+14:18:39 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:39 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:39 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:39 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:39 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:40 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:40 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:40 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:40 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:40 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:41 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:41 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:41 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:41 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:41 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:41 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:41 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:42 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:43 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:44 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:45 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:45 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:45 : [Sharii] - Matou o mob Gargula    . GenerID: 34
+14:18:50 : [Sharii] - Item Pergaminho_da_Água(A)LV2 [3183] [0 0 0 0 0 0] utilizado em 1305x 3552y
+14:18:50 : [Sharii] - Teleportado para a posição 1305 3516
+14:18:50 : [Sharii] - Água 3183 - Grupo teleportado para a área. Entradas restantes: 1079
+14:18:50 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:18:50 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:18:50 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:18:51 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:18:52 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:18:53 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:18:54 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:18:55 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:18:55 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:18:55 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:18:56 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:18:56 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:18:56 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:18:56 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:18:56 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:18:56 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:18:57 : [Sharii] - Matou o mob Golem de Fogo . GenerID: 35
+14:19:00 : [Sharii] - Item Pergaminho_da_Água(A)LV3 [3184] [0 0 0 0 0 0] utilizado em 1305x 3516y
+14:19:00 : [Sharii] - Teleportado para a posição 1305 3480
+14:19:00 : [Sharii] - Água 3184 - Grupo teleportado para a área. Entradas restantes: 1078
+14:19:01 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:02 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:03 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:04 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:04 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:04 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:05 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:05 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:05 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:05 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:05 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:06 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:06 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:06 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:06 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:06 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:06 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:07 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:08 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:09 : [Sharii] - Matou o mob Cav. Negro  . GenerID: 36
+14:19:10 : [Sharii] - Item Pergaminho_da_Água(A)LV4 [3185] [0 0 0 0 0 0] utilizado em 1305x 3480y
+14:19:10 : [Sharii] - Teleportado para a posição 1341 3480
+14:19:10 : [Sharii] - Água 3185 - Grupo teleportado para a área. Entradas restantes: 1077
+14:19:11 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:11 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:11 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:11 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:11 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:12 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:12 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:12 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:14 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:14 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:14 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:14 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:14 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:15 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:16 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:17 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:17 : [Sharii] - Matou o mob Dragao Lich  . GenerID: 37
+14:19:19 : [Sharii] - Item Pergaminho_da_Água(A)LV5 [3186] [0 0 0 0 0 0] utilizado em 1341x 3480y
+14:19:19 : [Sharii] - Teleportado para a posição 1377 3480
+14:19:19 : [Sharii] - Água 3186 - Grupo teleportado para a área. Entradas restantes: 1076
+14:19:19 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 23448. HP Atual: 0
+14:19:19 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 22920. HP Atual: 0
+14:19:19 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 21388. HP Atual: 0
+14:19:19 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 16440. HP Atual: 0
+14:19:19 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 14104. HP Atual: 0
+14:19:19 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 11643. HP Atual: 2357
+14:19:19 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 9734. HP Atual: 4266
+14:19:19 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 7398. HP Atual: 6602
+14:19:19 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 5213. HP Atual: 8787
+14:19:19 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 2752. HP Atual: 11248
+14:19:20 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 27004. HP Atual: 0
+14:19:20 : [Sharii] - Matou o mob Tauron      . GenerID: 38
+14:19:21 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 25158. HP Atual: 0
+14:19:21 : [Sharii] - Matou o mob Tauron      . GenerID: 38
+14:19:22 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 25779. HP Atual: 0
+14:19:22 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 24519. HP Atual: 0
+14:19:22 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 27038. HP Atual: 0
+14:19:22 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 24016. HP Atual: 0
+14:19:22 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 27794. HP Atual: 0
+14:19:22 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 25779. HP Atual: 0
+14:19:22 : [Sharii] - Matou o mob Tauron      . GenerID: 38
+14:19:22 : [Sharii] - Matou o mob Tauron      . GenerID: 38
+14:19:22 : [Sharii] - Matou o mob Tauron      . GenerID: 38
+14:19:22 : [Sharii] - Matou o mob Tauron      . GenerID: 38
+14:19:22 : [Sharii] - Matou o mob Tauron      . GenerID: 38
+14:19:22 : [Sharii] - Matou o mob Tauron      . GenerID: 38
+14:19:22 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 27290. HP Atual: 0
+14:19:22 : [Sharii] - Matou o mob Tauron      . GenerID: 38
+14:19:23 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 29678. HP Atual: 0
+14:19:23 : [Sharii] - Matou o mob Tauron      . GenerID: 38
+14:19:24 : [Sharii] - Removido o Hp do mob Tauron      . HP removido: 25270. HP Atual: 0
+14:19:24 : [Sharii] - Matou o mob Tauron      . GenerID: 38
+14:19:26 : [Sharii] - Item Pergaminho_da_Água(A)LV6 [3187] [0 0 0 0 0 0] utilizado em 1377x 3480y
+14:19:26 : [Sharii] - Teleportado para a posição 1377 3516
+14:19:26 : [Sharii] - Água 3187 - Grupo teleportado para a área. Entradas restantes: 1075
+14:19:28 : [Sharii] - Matou o mob Morlock    . GenerID: 39
+14:19:28 : [Sharii] - Matou o mob Morlock    . GenerID: 39
+14:19:28 : [Sharii] - Matou o mob Morlock    . GenerID: 39
+14:19:28 : [Sharii] - Matou o mob Morlock    . GenerID: 39
+14:19:28 : [Sharii] - Matou o mob Morlock    . GenerID: 39
+14:19:29 : [Sharii] - Matou o mob Morlock    . GenerID: 39
+14:19:30 : [Sharii] - Matou o mob Morlock    . GenerID: 39
+14:19:30 : [Sharii] - Matou o mob Morlock    . GenerID: 39
+14:19:30 : [Sharii] - Matou o mob Morlock    . GenerID: 39
+14:19:30 : [Sharii] - Matou o mob Morlock    . GenerID: 39
+14:19:30 : [Sharii] - Matou o mob Morlock    . GenerID: 39
+14:19:30 : [Sharii] - Recebeu 21988 de gold em 10 mobs no total. Total de gold: 694591491
+14:19:30 : [Sharii] - Matou o mob Morlock    . GenerID: 39
+14:19:30 : [Sharii] - Matou o mob Morlock    . GenerID: 39
+14:19:31 : [Sharii] - Matou o mob Morlock    . GenerID: 39
+14:19:32 : [Sharii] - Matou o mob Morlock    . GenerID: 39
+14:19:32 : [Sharii] - Matou o mob Morlock    . GenerID: 39
+14:19:34 : [Sharii] - Item Pergaminho_da_Água(A)LV7 [3188] [0 0 0 0 0 0] utilizado em 1377x 3516y
+14:19:34 : [Sharii] - Teleportado para a posição 1376 3552
+14:19:34 : [Sharii] - Água 3188 - Grupo teleportado para a área. Entradas restantes: 1074
+14:19:35 : [Sharii] - Matou o mob Anc. Ciclope. GenerID: 40
+14:19:36 : [Sharii] - Matou o mob Anc. Ciclope. GenerID: 40
+14:19:37 : [Sharii] - Matou o mob Anc. Ciclope. GenerID: 40
+14:19:38 : [Sharii] - Matou o mob Anc. Ciclope. GenerID: 40
+14:19:38 : [Sharii] - Matou o mob Anc. Ciclope. GenerID: 40
+14:19:38 : [Sharii] - Matou o mob Anc. Ciclope. GenerID: 40
+14:19:38 : [Sharii] - Matou o mob Anc. Ciclope. GenerID: 40
+14:19:38 : [Sharii] - Matou o mob Anc. Ciclope. GenerID: 40
+14:19:38 : [Sharii] - Matou o mob Anc. Ciclope. GenerID: 40
+14:19:52 : [Sharii] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1376x 3552y. Teleportado para ""
+14:19:52 : [Sharii] - Teleportado para a posição 1965 1770
+14:19:57 : [Sharii] - Item Pergaminho_da_Água(A)LV8 [3189] [0 0 0 0 0 0] utilizado em 1966x 1775y
+14:19:57 : [Sharii] - Teleportado para a posição 1342 3555
+14:19:57 : [Sharii] - Água 3189 - Grupo teleportado para a área. Entradas restantes: 1073
+14:19:57 : [Sharii] - Removido o Hp do mob Verme da Areia. HP removido: 29175. HP Atual: 0
+14:19:57 : [Sharii] - Matou o mob Verme da Areia. GenerID: 41
+14:19:58 : [Sharii] - Removido o Hp do mob Verme da Areia. HP removido: 24492. HP Atual: 0
+14:19:58 : [Sharii] - Removido o Hp do mob Verme da Areia. HP removido: 26199. HP Atual: 0
+14:19:58 : [Sharii] - Removido o Hp do mob Verme da Areia. HP removido: 23516. HP Atual: 0
+14:19:58 : [Sharii] - Removido o Hp do mob Verme da Areia. HP removido: 18689. HP Atual: 0
+14:19:58 : [Sharii] - Removido o Hp do mob Verme da Areia. HP removido: 14731. HP Atual: 269
+14:19:58 : [Sharii] - Removido o Hp do mob Verme da Areia. HP removido: 13375. HP Atual: 1625
+14:19:58 : [Sharii] - Removido o Hp do mob Verme da Areia. HP removido: 11152. HP Atual: 3848
+14:19:58 : [Sharii] - Removido o Hp do mob Verme da Areia. HP removido: 7980. HP Atual: 7020
+14:19:58 : [Sharii] - Matou o mob Verme da Areia. GenerID: 41
+14:19:59 : [Sharii] - Removido o Hp do mob Verme da Areia. HP removido: 26501. HP Atual: 0
+14:19:59 : [Sharii] - Removido o Hp do mob Verme da Areia. HP removido: 21596. HP Atual: 0
+14:19:59 : [Sharii] - Matou o mob Verme da Areia. GenerID: 41
+14:19:59 : [Sharii] - Matou o mob Verme da Areia. GenerID: 41
+14:20:00 : [Sharii] - Removido o Hp do mob Verme da Areia. HP removido: 24501. HP Atual: 0
+14:20:00 : [Sharii] - Matou o mob Verme da Areia. GenerID: 41
+14:20:01 : [Sharii] - Removido o Hp do mob Verme da Areia. HP removido: 25717. HP Atual: 0
+14:20:01 : [Sharii] - Matou o mob Verme da Areia. GenerID: 41
+14:20:02 : [Sharii] - Removido o Hp do mob Verme da Areia. HP removido: 27078. HP Atual: 0
+14:20:02 : [Sharii] - Matou o mob Verme da Areia. GenerID: 41
+14:20:02 : [Sharii] - Removido o Hp do mob Verme da Areia. HP removido: 24304. HP Atual: 0
+14:20:02 : [Sharii] - Matou o mob Verme da Areia. GenerID: 41
+14:20:05 : [Sharii] - Item Evocação_Neses(A) [3190] [0 0 0 0 0 0] utilizado em 1342x 3555y
+14:20:05 : [Sharii] - Teleportado para a posição 1342 3517
+14:20:05 : [Sharii] - Água 3190 - Grupo teleportado para a área. Entradas restantes: 1072
+14:20:06 : [Sharii] - Matou o mob Gargula . GenerID: 42
+14:20:07 : [Sharii] - Removido o Hp do mob Lugefer Maligno. HP removido: 8063. HP Atual: 21937
+14:20:07 : [Sharii] - Matou o mob Gargula . GenerID: 42
+14:20:08 : [Sharii] - Removido o Hp do mob Lugefer Maligno. HP removido: 8683. HP Atual: 13254
+14:20:09 : [Sharii] - Removido o Hp do mob Lugefer Maligno. HP removido: 7972. HP Atual: 5282
+14:20:10 : [Sharii] - Removido o Hp do mob Lugefer Maligno. HP removido: 7874. HP Atual: 0
+14:20:10 : [Sharii] - Matou o mob Lugefer Maligno. GenerID: 42
+14:20:16 : [Sharii] - Item Pergaminho_da_Água(N)LV1 [3173] [61 9 0 0 0 0] utilizado em 1342x 3517y
+14:20:16 : [Sharii] - [Mensagem do servidor]> Use na Zona Elemental da Água!
+14:20:22 : [Sharii] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1342x 3517y. Teleportado para ""
+14:20:22 : [Sharii] - Teleportado para a posição 1965 1770
+14:20:26 : [Sharii] - Item Pergaminho_da_Água(N)LV1 [3173] [61 9 0 0 0 0] utilizado em 1965x 1775y
+14:20:26 : [Sharii] - Teleportado para a posição 1048 3553
+14:20:26 : [Sharii] - Água 3173 - Grupo teleportado para a área. Entradas restantes: 1071
+14:20:26 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 27479. HP Atual: 0
+14:20:26 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 25450. HP Atual: 0
+14:20:26 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 25704. HP Atual: 0
+14:20:26 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 25957. HP Atual: 0
+14:20:26 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 25704. HP Atual: 0
+14:20:26 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 24943. HP Atual: 0
+14:20:26 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:26 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:26 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:26 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:26 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:26 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:27 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 24182. HP Atual: 0
+14:20:27 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:28 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 25497. HP Atual: 0
+14:20:28 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:29 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 28976. HP Atual: 0
+14:20:29 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 25351. HP Atual: 0
+14:20:29 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 22544. HP Atual: 0
+14:20:29 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 17830. HP Atual: 0
+14:20:29 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 15132. HP Atual: 0
+14:20:29 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 12489. HP Atual: 0
+14:20:29 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 11535. HP Atual: 0
+14:20:29 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:29 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:29 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:29 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:29 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:29 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:29 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:30 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 24875. HP Atual: 0
+14:20:30 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 22624. HP Atual: 0
+14:20:30 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 21132. HP Atual: 0
+14:20:30 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 18679. HP Atual: 0
+14:20:30 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 15871. HP Atual: 0
+14:20:30 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 14000. HP Atual: 0
+14:20:30 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:30 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:30 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:30 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:30 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:30 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:31 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 25145. HP Atual: 0
+14:20:31 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:32 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 25064. HP Atual: 0
+14:20:32 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:33 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 24436. HP Atual: 0
+14:20:33 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:34 : [Sharii] - Removido o Hp do mob Meio Orc   . HP removido: 29322. HP Atual: 0
+14:20:34 : [Sharii] - Matou o mob Meio Orc   . GenerID: 22
+14:20:35 : [Sharii] - Item Pergaminho_da_Água(N)LV2 [3174] [0 0 0 0 0 0] utilizado em 1048x 3553y
+14:20:35 : [Sharii] - Teleportado para a posição 1050 3518
+14:20:35 : [Sharii] - Água 3174 - Grupo teleportado para a área. Entradas restantes: 1070
+14:20:36 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:36 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:36 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:36 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:36 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:36 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:37 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:37 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:37 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:37 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:38 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:39 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:40 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:41 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:42 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:42 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:43 : [Sharii] - Matou o mob Troll Cacador  . GenerID: 23
+14:20:45 : [Sharii] - Item Pergaminho_da_Água(N)LV3 [3175] [0 0 0 0 0 0] utilizado em 1050x 3518y
+14:20:45 : [Sharii] - Teleportado para a posição 1049 3481
+14:20:45 : [Sharii] - Água 3175 - Grupo teleportado para a área. Entradas restantes: 1069
+14:20:46 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:46 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:47 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:49 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:50 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:50 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:50 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:50 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:50 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:50 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:50 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:50 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:50 : [Sharii] - Recebeu 16912 de gold em 10 mobs no total. Total de gold: 694608403
+14:20:50 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:50 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:51 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:51 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:51 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:51 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:52 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:53 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:54 : [Sharii] - Matou o mob Chefe Ghoul  . GenerID: 24
+14:20:56 : [Sharii] - Item Pergaminho_da_Água(N)LV4 [3176] [0 0 0 0 0 0] utilizado em 1049x 3481y
+14:20:56 : [Sharii] - Teleportado para a posição 1085 3481
+14:20:56 : [Sharii] - Água 3176 - Grupo teleportado para a área. Entradas restantes: 1068
+14:20:56 : [Sharii] - Matou o mob Ciclope Arq  . GenerID: 25
+14:20:57 : [Sharii] - Matou o mob Ciclope Arq  . GenerID: 25
+14:20:57 : [Sharii] - Matou o mob Ciclope Arq  . GenerID: 25
+14:20:57 : [Sharii] - Matou o mob Ciclope Arq  . GenerID: 25
+14:20:57 : [Sharii] - Matou o mob Ciclope Arq  . GenerID: 25
+14:20:57 : [Sharii] - Matou o mob Ciclope Arq  . GenerID: 25
+14:20:57 : [Sharii] - Matou o mob Ciclope Arq  . GenerID: 25
+14:20:57 : [Sharii] - Matou o mob Ciclope Arq  . GenerID: 25
+14:20:57 : [Sharii] - Matou o mob Ciclope Arq  . GenerID: 25
+14:20:57 : [Sharii] - Matou o mob Ciclope Arq  . GenerID: 25
+14:20:57 : [Sharii] - Matou o mob Ciclope Arq  . GenerID: 25
+14:20:58 : [Sharii] - Matou o mob Ciclope Arq  . GenerID: 25
+14:20:58 : [Sharii] - Matou o mob Ciclope Arq  . GenerID: 25
+14:20:58 : [Sharii] - Matou o mob Ciclope Arq  . GenerID: 25
+14:20:58 : [Sharii] - Matou o mob Ciclope Arq  . GenerID: 25
+14:20:59 : [Sharii] - Matou o mob Ciclope Arq  . GenerID: 25
+14:21:02 : [Sharii] - Item Pergaminho_da_Água(N)LV5 [3177] [0 0 0 0 0 0] utilizado em 1085x 3481y
+14:21:02 : [Sharii] - Teleportado para a posição 1122 3482
+14:21:02 : [Sharii] - Água 3177 - Grupo teleportado para a área. Entradas restantes: 1067
+14:21:03 : [Sharii] - Matou o mob Conj Caveira . GenerID: 26
+14:21:04 : [Sharii] - Matou o mob Conj Caveira . GenerID: 26
+14:21:04 : [Sharii] - Recebeu 15194 de gold em 10 mobs no total. Total de gold: 694623597
+14:21:05 : [Sharii] - Matou o mob Conj Caveira . GenerID: 26
+14:21:06 : [Sharii] - Matou o mob Conj Caveira . GenerID: 26
+14:21:06 : [Sharii] - Matou o mob Conj Caveira . GenerID: 26
+14:21:06 : [Sharii] - Matou o mob Conj Caveira . GenerID: 26
+14:21:07 : [Sharii] - Matou o mob Conj Caveira . GenerID: 26
+14:21:07 : [Sharii] - Matou o mob Conj Caveira . GenerID: 26
+14:21:07 : [Sharii] - Matou o mob Conj Caveira . GenerID: 26
+14:21:07 : [Sharii] - Matou o mob Conj Caveira . GenerID: 26
+14:21:07 : [Sharii] - Matou o mob Conj Caveira . GenerID: 26
+14:21:07 : [Sharii] - Matou o mob Conj Caveira . GenerID: 26
+14:21:07 : [Sharii] - Matou o mob Conj Caveira . GenerID: 26
+14:21:09 : [Sharii] - Item Pergaminho_da_Água(N)LV6 [3178] [0 0 0 0 0 0] utilizado em 1122x 3482y
+14:21:09 : [Sharii] - Teleportado para a posição 1122 3518
+14:21:09 : [Sharii] - Água 3178 - Grupo teleportado para a área. Entradas restantes: 1066
+14:21:10 : [Sharii] - Matou o mob Grim Lock  . GenerID: 27
+14:21:11 : [Sharii] - Matou o mob Grim Lock  . GenerID: 27
+14:21:12 : [Sharii] - Matou o mob Grim Lock  . GenerID: 27
+14:21:13 : [Sharii] - Matou o mob Grim Lock  . GenerID: 27
+14:21:14 : [Sharii] - Matou o mob Grim Lock  . GenerID: 27
+14:21:14 : [Sharii] - Matou o mob Grim Lock  . GenerID: 27
+14:21:14 : [Sharii] - Matou o mob Grim Lock  . GenerID: 27
+14:21:14 : [Sharii] - Matou o mob Grim Lock  . GenerID: 27
+14:21:14 : [Sharii] - Matou o mob Grim Lock  . GenerID: 27
+14:21:15 : [Sharii] - Matou o mob Grim Lock  . GenerID: 27
+14:21:15 : [Sharii] - Matou o mob Grim Lock  . GenerID: 27
+14:21:15 : [Sharii] - Matou o mob Grim Lock  . GenerID: 27
+14:21:15 : [Sharii] - Matou o mob Grim Lock  . GenerID: 27
+14:21:19 : [Sharii] - Item Pergaminho_da_Água(N)LV7 [3179] [0 0 0 0 0 0] utilizado em 1122x 3518y
+14:21:19 : [Sharii] - Teleportado para a posição 1122 3555
+14:21:19 : [Sharii] - Água 3179 - Grupo teleportado para a área. Entradas restantes: 1065
+14:21:20 : [Sharii] - Matou o mob Ciclope Anc. GenerID: 28
+14:21:21 : [Sharii] - Matou o mob Ciclope Anc. GenerID: 28
+14:21:22 : [Sharii] - Matou o mob Ciclope Anc. GenerID: 28
+14:21:23 : [Sharii] - Matou o mob Ciclope Anc. GenerID: 28
+14:21:23 : [Sharii] - Matou o mob Ciclope Anc. GenerID: 28
+14:21:23 : [Sharii] - Matou o mob Ciclope Anc. GenerID: 28
+14:21:23 : [Sharii] - Matou o mob Ciclope Anc. GenerID: 28
+14:21:23 : [Sharii] - Matou o mob Ciclope Anc. GenerID: 28
+14:21:24 : [Sharii] - Matou o mob Ciclope Anc. GenerID: 28
+14:21:24 : [Sharii] - Matou o mob Ciclope Anc. GenerID: 28
+14:21:25 : [Sharii] - Matou o mob Ciclope Anc. GenerID: 28
+14:21:25 : [Sharii] - Matou o mob Ciclope Anc. GenerID: 28
+14:21:25 : [Sharii] - Matou o mob Ciclope Anc. GenerID: 28
+14:21:26 : [Sharii] - Item Pergaminho_da_Água(N)LV8 [3180] [0 0 0 0 0 0] utilizado em 1122x 3555y
+14:21:26 : [Sharii] - Teleportado para a posição 1085 3554
+14:21:26 : [Sharii] - Água 3180 - Grupo teleportado para a área. Entradas restantes: 1064
+14:21:26 : [Sharii] - Matou o mob Anf Assassino . GenerID: 29
+14:21:27 : [Sharii] - Matou o mob Anf Assassino . GenerID: 29
+14:21:28 : [Sharii] - Matou o mob Anf Assassino . GenerID: 29
+14:21:30 : [Sharii] - Matou o mob Anf Assassino . GenerID: 29
+14:21:30 : [Sharii] - Matou o mob Anf Assassino . GenerID: 29
+14:21:30 : [Sharii] - Matou o mob Anf Assassino . GenerID: 29
+14:21:30 : [Sharii] - Matou o mob Anf Assassino . GenerID: 29
+14:21:30 : [Sharii] - Matou o mob Anf Assassino . GenerID: 29
+14:21:30 : [Sharii] - Matou o mob Anf Assassino . GenerID: 29
+14:21:31 : [Sharii] - Matou o mob Anf Assassino . GenerID: 29
+14:21:31 : [Sharii] - Matou o mob Anf Assassino . GenerID: 29
+14:21:31 : [Sharii] - Matou o mob Anf Assassino . GenerID: 29
+14:21:31 : [Sharii] - Matou o mob Anf Assassino . GenerID: 29
+14:21:34 : [Sharii] - Item Evocação_Neses(N) [3181] [0 0 0 0 0 0] utilizado em 1085x 3554y
+14:21:34 : [Sharii] - Teleportado para a posição 1086 3518
+14:21:34 : [Sharii] - Água 3181 - Grupo teleportado para a área. Entradas restantes: 1063
+14:21:34 : [Sharii] - Matou o mob Argos . GenerID: 31
+14:21:35 : [Sharii] - Matou o mob Argos . GenerID: 31
+14:21:36 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 31
+14:21:37 : [Sharii] - Matou o mob Argos . GenerID: 31
+14:21:51 : [Sharii] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1086x 3518y. Teleportado para ""
+14:21:51 : [Sharii] - Teleportado para a posição 1965 1770
+14:21:56 : [Sharii] - Item Pergaminho_da_Água(M)LV1 [777] [61 9 0 0 0 0] utilizado em 1966x 1775y
+14:21:56 : [Sharii] - Teleportado para a posição 1177 3680
+14:21:56 : [Sharii] - Água 777 - Grupo teleportado para a área. Entradas restantes: 1062
+14:21:57 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:57 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:57 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:57 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:57 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:57 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:57 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:57 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:57 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:57 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:58 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:58 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:58 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:58 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:58 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:58 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:58 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:58 : [Sharii] - Recebeu 14516 de gold em 10 mobs no total. Total de gold: 694638113
+14:21:58 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:21:59 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:22:00 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:22:01 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:22:02 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:22:03 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:22:03 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:22:03 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:22:14 : [Sharii] - Item Pergaminho_da_Água(M)LV2 [778] [0 0 0 0 0 0] utilizado em 1177x 3680y
+14:22:14 : [Sharii] - Teleportado para a posição 1177 3645
+14:22:14 : [Sharii] - Água 778 - Grupo teleportado para a área. Entradas restantes: 1061
+14:22:15 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:15 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:15 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:15 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:16 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:16 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:16 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:16 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:16 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:16 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:16 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:17 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:18 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:19 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:20 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:20 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:20 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:20 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:20 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:22:21 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:23:37 : [Sharii] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1182x 3644y. Teleportado para ""
+14:23:37 : [Sharii] - Teleportado para a posição 1965 1770
+14:23:37 : [Sharii] - CrackError - Points: 1 type: 5
+14:23:45 : [Sharii] - Item Pergaminho_da_Água(M)LV3 [779] [0 0 0 0 0 0] utilizado em 1966x 1775y
+14:23:45 : [Sharii] - Teleportado para a posição 1177 3609
+14:23:45 : [Sharii] - Água 779 - Grupo teleportado para a área. Entradas restantes: 1060
+14:23:45 : [Sharii] - Matou o mob Anf Ninja  . GenerID: 12
+14:23:45 : [Sharii] - Matou o mob Anf Ninja  . GenerID: 12
+14:23:45 : [Sharii] - Matou o mob Anf Ninja  . GenerID: 12
+14:23:45 : [Sharii] - Matou o mob Anf Ninja  . GenerID: 12
+14:23:46 : [Sharii] - Matou o mob Anf Ninja  . GenerID: 12
+14:23:47 : [Sharii] - Matou o mob Anf Ninja  . GenerID: 12
+14:23:48 : [Sharii] - Matou o mob Anf Ninja  . GenerID: 12
+14:23:49 : [Sharii] - Matou o mob Anf Ninja  . GenerID: 12
+14:23:49 : [Sharii] - Matou o mob Anf Ninja  . GenerID: 12
+14:23:49 : [Sharii] - Matou o mob Anf Ninja  . GenerID: 12
+14:23:49 : [Sharii] - Matou o mob Anf Ninja  . GenerID: 12
+14:23:49 : [Sharii] - Matou o mob Anf Ninja  . GenerID: 12
+14:23:49 : [Sharii] - Matou o mob Anf Ninja  . GenerID: 12
+14:23:50 : [Sharii] - Matou o mob Anf Ninja  . GenerID: 12
+14:23:50 : [Sharii] - Matou o mob Anf Ninja  . GenerID: 12
+14:23:51 : [Sharii] - Matou o mob Anf Ninja  . GenerID: 12
+14:23:55 : [Sharii] - Item Pergaminho_da_Água(M)LV4 [780] [0 0 0 0 0 0] utilizado em 1177x 3609y
+14:23:55 : [Sharii] - Teleportado para a posição 1213 3609
+14:23:55 : [Sharii] - Água 780 - Grupo teleportado para a área. Entradas restantes: 1059
+14:23:57 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:23:57 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:23:57 : [Sharii] - Recebeu 13399 de gold em 10 mobs no total. Total de gold: 694651512
+14:23:57 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:23:57 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:23:57 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:23:57 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:23:57 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:23:57 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:23:57 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:23:57 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:23:58 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:23:59 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:24:00 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:24:01 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:24:02 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:24:02 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:24:03 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:24:04 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:24:05 : [Sharii] - Matou o mob ElfoNegro  . GenerID: 13
+14:24:08 : [Sharii] - Item Pergaminho_da_Água(M)LV5 [781] [0 0 0 0 0 0] utilizado em 1213x 3609y
+14:24:08 : [Sharii] - Teleportado para a posição 1249 3608
+14:24:08 : [Sharii] - Água 781 - Grupo teleportado para a área. Entradas restantes: 1058
+14:24:08 : [Sharii] - Matou o mob GrimLock. GenerID: 14
+14:24:09 : [Sharii] - Matou o mob GrimLock. GenerID: 14
+14:24:10 : [Sharii] - Matou o mob GrimLock. GenerID: 14
+14:24:10 : [Sharii] - Matou o mob GrimLock. GenerID: 14
+14:24:10 : [Sharii] - Matou o mob GrimLock. GenerID: 14
+14:24:10 : [Sharii] - Matou o mob GrimLock. GenerID: 14
+14:24:10 : [Sharii] - Matou o mob GrimLock. GenerID: 14
+14:24:10 : [Sharii] - Matou o mob GrimLock. GenerID: 14
+14:24:10 : [Sharii] - Matou o mob GrimLock. GenerID: 14
+14:24:11 : [Sharii] - Matou o mob GrimLock. GenerID: 14
+14:24:11 : [Sharii] - Matou o mob GrimLock. GenerID: 14
+14:24:11 : [Sharii] - Matou o mob GrimLock. GenerID: 14
+14:24:12 : [Sharii] - Matou o mob GrimLock. GenerID: 14
+14:24:13 : [Sharii] - Matou o mob GrimLock. GenerID: 14
+14:24:13 : [Sharii] - Matou o mob GrimLock. GenerID: 14
+14:24:13 : [Sharii] - Matou o mob GrimLock. GenerID: 14
+14:24:16 : [Sharii] - Item Pergaminho_da_Água(M)LV6 [782] [0 0 0 0 0 0] utilizado em 1249x 3608y
+14:24:16 : [Sharii] - Teleportado para a posição 1250 3647
+14:24:16 : [Sharii] - Água 782 - Grupo teleportado para a área. Entradas restantes: 1057
+14:24:16 : [Sharii] - Matou o mob BruxaElfica. GenerID: 15
+14:24:17 : [Sharii] - Matou o mob BruxaElfica. GenerID: 15
+14:24:18 : [Sharii] - Matou o mob BruxaElfica. GenerID: 15
+14:24:18 : [Sharii] - Matou o mob BruxaElfica. GenerID: 15
+14:24:18 : [Sharii] - Matou o mob BruxaElfica. GenerID: 15
+14:24:18 : [Sharii] - Matou o mob BruxaElfica. GenerID: 15
+14:24:18 : [Sharii] - Matou o mob BruxaElfica. GenerID: 15
+14:24:18 : [Sharii] - Matou o mob BruxaElfica. GenerID: 15
+14:24:18 : [Sharii] - Matou o mob BruxaElfica. GenerID: 15
+14:24:19 : [Sharii] - Matou o mob BruxaElfica. GenerID: 15
+14:24:19 : [Sharii] - Matou o mob BruxaElfica. GenerID: 15
+14:24:19 : [Sharii] - Matou o mob BruxaElfica. GenerID: 15
+14:24:19 : [Sharii] - Matou o mob BruxaElfica. GenerID: 15
+14:24:19 : [Sharii] - Matou o mob BruxaElfica. GenerID: 15
+14:24:20 : [Sharii] - Matou o mob BruxaElfica. GenerID: 15
+14:24:21 : [Sharii] - Matou o mob BruxaElfica. GenerID: 15
+14:24:21 : [Sharii] - Recebeu 13272 de gold em 10 mobs no total. Total de gold: 694664784
+14:24:35 : [Sharii] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1250x 3647y. Teleportado para ""
+14:24:35 : [Sharii] - Teleportado para a posição 1965 1770
+14:24:50 : [Sharii] - Item Pergaminho_da_Água(M)LV7 [783] [0 0 0 0 0 0] utilizado em 1965x 1775y
+14:24:50 : [Sharii] - Teleportado para a posição 1250 3683
+14:24:50 : [Sharii] - Água 783 - Grupo teleportado para a área. Entradas restantes: 1056
+14:24:50 : [Sharii] - Matou o mob  Gargula. GenerID: 16
+14:24:51 : [Sharii] - Matou o mob  Gargula. GenerID: 16
+14:24:52 : [Sharii] - Matou o mob  Gargula. GenerID: 16
+14:24:52 : [Sharii] - Matou o mob  Gargula. GenerID: 16
+14:24:52 : [Sharii] - Matou o mob  Gargula. GenerID: 16
+14:24:52 : [Sharii] - Matou o mob  Gargula. GenerID: 16
+14:24:52 : [Sharii] - Matou o mob  Gargula. GenerID: 16
+14:24:52 : [Sharii] - Matou o mob  Gargula. GenerID: 16
+14:24:52 : [Sharii] - Matou o mob  Gargula. GenerID: 16
+14:24:54 : [Sharii] - Matou o mob  Gargula. GenerID: 16
+14:24:54 : [Sharii] - Matou o mob  Gargula. GenerID: 16
+14:25:03 : [Sharii] - Item Pergaminho_da_Água(M)LV8 [784] [0 0 0 0 0 0] utilizado em 1250x 3683y
+14:25:03 : [Sharii] - Teleportado para a posição 1215 3683
+14:25:03 : [Sharii] - Água 784 - Grupo teleportado para a área. Entradas restantes: 1055
+14:25:03 : [Sharii] - Matou o mob AquaGolem . GenerID: 17
+14:25:04 : [Sharii] - Matou o mob AquaGolem . GenerID: 17
+14:25:05 : [Sharii] - Matou o mob AquaGolem . GenerID: 17
+14:25:06 : [Sharii] - Matou o mob AquaGolem . GenerID: 17
+14:25:06 : [Sharii] - Matou o mob AquaGolem . GenerID: 17
+14:25:07 : [Sharii] - Matou o mob AquaGolem . GenerID: 17
+14:25:07 : [Sharii] - Matou o mob AquaGolem . GenerID: 17
+14:25:08 : [Sharii] - Matou o mob AquaGolem . GenerID: 17
+14:25:15 : [Sharii] - Item Evocação_Neses(M) [785] [0 0 0 0 0 0] utilizado em 1215x 3683y
+14:25:15 : [Sharii] - Teleportado para a posição 1215 3647
+14:25:15 : [Sharii] - Água 785 - Grupo teleportado para a área. Entradas restantes: 1054
+14:25:15 : [Sharii] - Matou o mob Hidra Dourada . GenerID: 21
+14:25:16 : [Sharii] - Matou o mob Hidra Dourada . GenerID: 21
+14:25:18 : [Sharii] - Matou o mob Hidra Dourada . GenerID: 21
+14:25:19 : [Sharii] - Matou o mob Hidra Dourada . GenerID: 21
+14:25:19 : [Sharii] - Matou o mob Hidra Dourada . GenerID: 21
+14:25:19 : [Sharii] - Matou o mob Hidra Dourada . GenerID: 21
+14:25:19 : [Sharii] - Matou o mob Hidra Dourada . GenerID: 21
+14:25:20 : [Sharii] - Matou o mob Hidra Dourada . GenerID: 21
+14:25:20 : [Sharii] - Matou o mob Hidra Dourada . GenerID: 21
+14:25:21 : [Sharii] - Matou o mob Hidra Dourada . GenerID: 21
+14:25:34 : [Sharii] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1215x 3644y. Teleportado para ""
+14:25:34 : [Sharii] - Teleportado para a posição 1965 1770
+14:26:11 : [Sharii] - Item Pergaminho_da_Água(M)LV1 [777] [61 8 0 0 0 0] utilizado em 1966x 1775y
+14:26:11 : [Sharii] - Teleportado para a posição 1177 3680
+14:26:11 : [Sharii] - Água 777 - Grupo teleportado para a área. Entradas restantes: 1053
+14:26:11 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:12 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:13 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:14 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:14 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:14 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:14 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:14 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:14 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:14 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:14 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:15 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:15 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:15 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:15 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:15 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:15 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:15 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:16 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:17 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:18 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:19 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:20 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:20 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:20 : [Sharii] - Matou o mob Arqueiro Elfo. GenerID: 10
+14:26:22 : [Sharii] - Item Pergaminho_da_Água(M)LV2 [778] [0 0 0 0 0 0] utilizado em 1177x 3680y
+14:26:22 : [Sharii] - Teleportado para a posição 1177 3645
+14:26:22 : [Sharii] - Água 778 - Grupo teleportado para a área. Entradas restantes: 1052
+14:26:22 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:22 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:22 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:22 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:22 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:22 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:22 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:23 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:23 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:23 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:23 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:23 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:23 : [Sharii] - Recebeu 13784 de gold em 10 mobs no total. Total de gold: 694678568
+14:26:23 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:23 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:24 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:25 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:26 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:27 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:28 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:29 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:30 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:26:31 : [Sharii] - Matou o mob Troll Ghoul  . GenerID: 11
+14:27:44 : [Sharii] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1177x 3645y. Teleportado para ""
+14:27:44 : [Sharii] - Teleportado para a posição 1965 1770
+14:31:47 : [Sharii] - O login admin4 tentou logar na conta com o mesmo mac.
+14:36:27 : [Sharii] - O login admin4 tentou logar na conta com o mesmo mac.
+14:36:35 : [Sharii] - O login admin4 tentou logar na conta com o mesmo mac.
+14:36:36 : [Sharii] - O login admin4 tentou logar na conta com o mesmo mac.
+14:36:38 : [Sharii] - O login admin4 tentou logar na conta com o mesmo mac.
+14:47:49 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 694679811
+Level atual: 0
+Experiência atual: 2273258
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:31:56 horas
+Posição atual: 1965x 1770y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 253 0 0 0 0]
+[04] - Luvass[1358] [43 253 0 0 0 0]
+[05] - Botass[1359] [43 253 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Pegasus[2382] [120 120 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 4 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 92 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Cérberus[2378] [0 0 0 0 0 0]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 3 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 9 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Âmago_de_Cérberus[2408] [61 1 43 2 0 0]
+[10] - Cérberus[2378] [10 10 17 10 0 0]
+[11] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[12] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[13] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[16] - Pergaminho_da_Água(A)LV2[3183] [0 0 0 0 0 0]
+[17] - Pergaminho_da_Água(M)LV3[779] [0 0 0 0 0 0]
+[18] - Pergaminho_da_Água(M)LV1[777] [61 7 0 0 0 0]
+[19] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[20] - Cérberus[2378] [120 120 120 120 0 0]
+[21] - Luvas(M)[1501] [43 0 72 20 2 12]
+[22] - Poeira_de_Oriharucon[412] [0 0 0 0 0 0]
+[23] - Pergaminho_da_Água(M)LV3[779] [0 0 0 0 0 0]
+[25] - Pergaminho_da_Água(N)LV1[3173] [61 8 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+[ADMIN4]	USER_PLAY	[Shariiiii] (level: 23 ev: -1)	
+
+15:00:00 : [Sharii] - [Mensagem do servidor]: !Coliseu Normal será iniciado em 3 minutos. Disponível apenas para mortais.
+15:00:00 : [Sharii] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+15:02:13 : [Sharii] - Matou o mob Orc Medico. GenerID: 1637
+15:02:28 : [Sharii] - Removido o Hp do mob Ciclope Sang. HP removido: 24982. HP Atual: 0
+15:02:28 : [Sharii] - Matou o mob Ciclope Sang. GenerID: 1637
+15:02:32 : [Sharii] - Comando "/gm +item 4021"
+15:02:32 : [Sharii] - [Mensagem do servidor]> Criou o item Essência_Mithril_A
+15:02:32 : [Sharii] - Sharii criou o item Essência_Mithril_A [4021] [0 0 0 0 0 0]
+15:03:15 : [Sharii] - Comando "/gm +item 1278 43 9"
+15:03:15 : [Sharii] - [Mensagem do servidor]> Criou o item Saia(N)
+15:03:15 : [Sharii] - Sharii criou o item Saia(N) [1278] [43 9 0 0 0 0]
+15:03:21 : [Sharii] - Moveu item Saia(N) [1278] [43 9 0 0 0 0] do tipo INVENTÁRIO do slot 26 para tipo EQUIPAMENTO slot 3
+15:03:23 : [Sharii] - Moveu item Calça [1357] [43 253 0 0 0 0] do tipo INVENTÁRIO do slot 26 para tipo EQUIPAMENTO slot 3
+15:03:25 : [Sharii] - Item Essência_Mithril_A [4021] [0 0 0 0 0 0] utilizado em 0x 0y
+15:03:25 : [Sharii] - [Mensagem do servidor]> Somente em itens menores ou igual a +6.
+15:03:31 : [Sharii] - Comando "/gm +item 1278 43 3"
+15:03:31 : [Sharii] - [Mensagem do servidor]> Criou o item Saia(N)
+15:03:31 : [Sharii] - Sharii criou o item Saia(N) [1278] [43 3 0 0 0 0]
+15:03:36 : [Sharii] - Item Saia(N) deletado [1278] [43 9 0 0 0 0]. Slot 26
+15:03:37 : [Sharii] - Item Essência_Mithril_A [4021] [0 0 0 0 0 0] utilizado em 0x 0y
+15:03:37 : [Sharii] - Essencia Mythril usado em Saia(N) [1278] [43 3 0 0 0 0]
+15:03:37 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:03:58 : [Sharii] - Comando "/gm +item 1280 43 3"
+15:03:58 : [Sharii] - [Mensagem do servidor]> Criou o item Saia(A)
+15:03:58 : [Sharii] - Sharii criou o item Saia(A) [1280] [43 3 0 0 0 0]
+15:04:01 : [Sharii] - Item Essência_Mithril_A [4021] [0 0 0 0 0 0] utilizado em 0x 0y
+15:04:01 : [Sharii] - Essencia Mythril usado em Saia(A) [1280] [43 3 0 0 0 0]
+15:04:01 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:04:03 : [Sharii] - Moveu item Saia(N) [1278] [43 3 0 0 0 0] do tipo INVENTÁRIO do slot 27 para tipo INVENTÁRIO slot 28
+15:04:06 : [Sharii] - Item Essência_Mithril_A [4021] [0 0 0 0 0 0] utilizado em 0x 0y
+15:04:06 : [Sharii] - Essencia Mythril usado em Saia(A) [1280] [43 3 0 0 0 0]
+15:04:06 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:04:30 : [Sharii] - Comando "/gm +item 1802 43 3"
+15:04:30 : [Sharii] - [Mensagem do servidor]> Criou o item Elmo(A)
+15:04:30 : [Sharii] - Sharii criou o item Elmo(A) [1802] [43 3 0 0 0 0]
+15:04:36 : [Sharii] - Item Essência_Mithril_A [4021] [0 0 0 0 0 0] utilizado em 0x 0y
+15:04:36 : [Sharii] - Essencia Mythril usado em Elmo(A) [1802] [43 3 0 0 0 0]
+15:04:36 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:04:40 : [Sharii] - Item Essência_Mithril_A [4021] [0 0 0 0 0 0] utilizado em 0x 0y
+15:04:40 : [Sharii] - Essencia Mythril usado em Elmo(A) [1802] [43 3 0 0 0 0]
+15:04:40 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:04:59 : [Sharii] - Item Pergaminho_da_Água(M)LV3 deletado [779] [0 0 0 0 0 0]. Slot 23
+15:05:02 : [Sharii] - Moveu item Pergaminho_da_Água(M)LV1 [777] [61 7 0 0 0 0] do tipo INVENTÁRIO do slot 18 para tipo INVENTÁRIO slot 12
+15:05:04 : [Sharii] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 18
+15:05:05 : [Sharii] - Item Gema_da_Siren deletado [658] [0 0 0 0 0 0]. Slot 19
+15:05:06 : [Sharii] - Item Poeira_de_Oriharucon deletado [412] [0 0 0 0 0 0]. Slot 22
+15:05:08 : [Sharii] - Moveu item Pergaminho_da_Água(N)LV1 [3173] [61 8 0 0 0 0] do tipo INVENTÁRIO do slot 25 para tipo INVENTÁRIO slot 13
+15:05:09 : [Sharii] - Item Pergaminho_da_Água(A)LV2 deletado [3183] [0 0 0 0 0 0]. Slot 25
+15:05:11 : [Sharii] - Item Luvas(M) deletado [1501] [43 0 72 20 2 12]. Slot 21
+15:05:13 : [Sharii] - Moveu item Cérberus [2378] [120 120 120 120 0 0] do tipo INVENTÁRIO do slot 20 para tipo INVENTÁRIO slot 9
+15:05:19 : [Sharii] - Item Âmago_de_Cérberus deletado [2408] [61 1 43 2 0 0]. Slot 20
+15:05:21 : [Sharii] - Item Pergaminho_da_Água(M)LV3 deletado [779] [0 0 0 0 0 0]. Slot 17
+15:05:22 : [Sharii] - Item Pergaminho_da_Água(A)LV2 deletado [3183] [0 0 0 0 0 0]. Slot 16
+15:05:23 : [Sharii] - Item Pergaminho_da_Água(A)LV2 deletado [3183] [0 0 0 0 0 0]. Slot 15
+15:05:29 : [Sharii] - Moveu item Saia(A) [1280] [43 3 0 0 0 0] do tipo INVENTÁRIO do slot 26 para tipo INVENTÁRIO slot 15
+15:05:31 : [Sharii] - Moveu item Essência_Mithril_A [4021] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 24 para tipo INVENTÁRIO slot 19
+15:05:32 : [Sharii] - Moveu item Elmo(A) [1802] [43 3 0 0 0 0] do tipo INVENTÁRIO do slot 27 para tipo INVENTÁRIO slot 16
+15:05:34 : [Sharii] - Item Saia(N) deletado [1278] [43 3 0 0 0 0]. Slot 28
+15:05:58 : [Sharii] - Comando "/gm +item 4022"
+15:05:58 : [Sharii] - [Mensagem do servidor]> Criou o item Essência_Mithril_B
+15:05:58 : [Sharii] - Sharii criou o item Essência_Mithril_B [4022] [0 0 0 0 0 0]
+15:06:05 : [Sharii] - Moveu item Essência_Mithril_B [4022] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo INVENTÁRIO slot 24
+15:06:09 : [Sharii] - Comando "/gm +item 4023"
+15:06:09 : [Sharii] - [Mensagem do servidor]> Criou o item Essência_Mithril_C
+15:06:09 : [Sharii] - Sharii criou o item Essência_Mithril_C [4023] [0 0 0 0 0 0]
+15:06:13 : [Sharii] - Moveu item Essência_Mithril_C [4023] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 17 para tipo INVENTÁRIO slot 29
+15:06:41 : [Sharii] - Comando "/gm +item 1956 43 3"
+15:06:41 : [Sharii] - [Mensagem do servidor]> Criou o item Elmo(A)
+15:06:41 : [Sharii] - Sharii criou o item Elmo(A) [1956] [43 3 0 0 0 0]
+15:06:44 : [Sharii] - Item Essência_Mithril_A [4021] [0 0 0 0 0 0] utilizado em 0x 0y
+15:06:44 : [Sharii] - Essencia Mythril usado em Elmo(A) [1956] [43 3 0 0 0 0]
+15:06:44 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:07:02 : [Sharii] - Comando "/gm +item 2047 43 3"
+15:07:02 : [Sharii] - [Mensagem do servidor]> Criou o item Peitoral(A)
+15:07:02 : [Sharii] - Sharii criou o item Peitoral(A) [2047] [43 3 0 0 0 0]
+15:07:05 : [Sharii] - Item Essência_Mithril_A [4021] [0 0 0 0 0 0] utilizado em 0x 0y
+15:07:05 : [Sharii] - Essencia Mythril usado em Peitoral(A) [2047] [43 3 0 0 0 0]
+15:07:05 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:07:06 : [Sharii] - Item Essência_Mithril_A [4021] [0 0 0 0 0 0] utilizado em 0x 0y
+15:07:06 : [Sharii] - Essencia Mythril usado em Peitoral(A) [2047] [43 3 0 0 0 0]
+15:07:06 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:07:34 : [Sharii] - Comando "/gm +item 2159 43 3"
+15:07:34 : [Sharii] - [Mensagem do servidor]> Criou o item Botas(M)
+15:07:34 : [Sharii] - Sharii criou o item Botas(M) [2159] [43 3 0 0 0 0]
+15:07:39 : [Sharii] - Item Essência_Mithril_B [4022] [0 0 0 0 0 0] utilizado em 0x 0y
+15:07:39 : [Sharii] - Essencia Mythril usado em Botas(M) [2159] [43 3 0 0 0 0]
+15:07:39 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:08:00 : [Sharii] - Comando "/gm +item 2164 43 3"
+15:08:00 : [Sharii] - [Mensagem do servidor]> Criou o item Robe(M)
+15:08:00 : [Sharii] - Sharii criou o item Robe(M) [2164] [43 3 0 0 0 0]
+15:08:03 : [Sharii] - Item Essência_Mithril_B [4022] [0 0 0 0 0 0] utilizado em 0x 0y
+15:08:03 : [Sharii] - Essencia Mythril usado em Robe(M) [2164] [43 3 0 0 0 0]
+15:08:03 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:08:04 : [Sharii] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+15:08:49 : [Sharii] - Comando "/gm +item 1434 43 3"
+15:08:49 : [Sharii] - [Mensagem do servidor]> Criou o item Armadura(N)
+15:08:49 : [Sharii] - Sharii criou o item Armadura(N) [1434] [43 3 0 0 0 0]
+15:08:52 : [Sharii] - Item Essência_Mithril_B [4022] [0 0 0 0 0 0] utilizado em 0x 0y
+15:08:52 : [Sharii] - Essencia Mythril usado em Armadura(N) [1434] [43 3 0 0 0 0]
+15:08:52 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:09:27 : [Sharii] - Comando "/gm +item 1582 43 2"
+15:09:27 : [Sharii] - [Mensagem do servidor]> Criou o item Chapéu(M)
+15:09:27 : [Sharii] - Sharii criou o item Chapéu(M) [1582] [43 2 0 0 0 0]
+15:09:30 : [Sharii] - Item Essência_Mithril_B [4022] [0 0 0 0 0 0] utilizado em 0x 0y
+15:09:30 : [Sharii] - Essencia Mythril usado em Chapéu(M) [1582] [43 2 0 0 0 0]
+15:09:30 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:10:05 : [Sharii] - Comando "/gm +item 1862 43 3"
+15:10:05 : [Sharii] - [Mensagem do servidor]> Criou o item Armadura(A)
+15:10:05 : [Sharii] - Sharii criou o item Armadura(A) [1862] [43 3 0 0 0 0]
+15:10:08 : [Sharii] - Item Essência_Mithril_C [4023] [0 0 0 0 0 0] utilizado em 0x 0y
+15:10:08 : [Sharii] - Essencia Mythril usado em Armadura(A) [1862] [43 3 0 0 0 0]
+15:10:08 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:10:26 : [Sharii] - Comando "/gm +item 1881 43 3"
+15:10:26 : [Sharii] - [Mensagem do servidor]> Criou o item Elmo(A)
+15:10:26 : [Sharii] - Sharii criou o item Elmo(A) [1881] [43 3 0 0 0 0]
+15:10:28 : [Sharii] - Item Essência_Mithril_C [4023] [0 0 0 0 0 0] utilizado em 0x 0y
+15:10:28 : [Sharii] - Essencia Mythril usado em Elmo(A) [1881] [43 3 0 0 0 0]
+15:10:28 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:10:40 : [Sharii] - Comando "/gm +item 1972 43 3"
+15:10:40 : [Sharii] - [Mensagem do servidor]> Criou o item Armadura(A)
+15:10:40 : [Sharii] - Sharii criou o item Armadura(A) [1972] [43 3 0 0 0 0]
+15:10:42 : [Sharii] - Item Essência_Mithril_C [4023] [0 0 0 0 0 0] utilizado em 0x 0y
+15:10:42 : [Sharii] - Essencia Mythril usado em Armadura(A) [1972] [43 3 0 0 0 0]
+15:10:42 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:11:09 : [Sharii] - Comando "/gm +item 1625 43 3"
+15:11:09 : [Sharii] - [Mensagem do servidor]> Criou o item Botas(A)
+15:11:09 : [Sharii] - Sharii criou o item Botas(A) [1625] [43 3 0 0 0 0]
+15:11:11 : [Sharii] - Item Essência_Mithril_C [4023] [0 0 0 0 0 0] utilizado em 0x 0y
+15:11:11 : [Sharii] - Essencia Mythril usado em Botas(A) [1625] [43 3 0 0 0 0]
+15:11:11 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:12:06 : [Sharii] - Item Essência_Mithril_C [4023] [0 0 0 0 0 0] utilizado em 0x 0y
+15:12:06 : [Sharii] - Essencia Mythril usado em Botas(A) [1625] [43 3 0 0 0 0]
+15:12:06 : [Sharii] - [Mensagem do servidor]> Este item não pode ser aprimorado
+15:17:50 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 694679811
+Level atual: 0
+Experiência atual: 2273262
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 01:01:34 horas
+Posição atual: 1970x 1768y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 253 0 0 0 0]
+[04] - Luvass[1358] [43 253 0 0 0 0]
+[05] - Botass[1359] [43 253 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Pegasus[2382] [120 120 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 4 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 92 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Cérberus[2378] [0 0 0 0 0 0]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 3 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 9 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [120 120 120 120 0 0]
+[10] - Cérberus[2378] [10 10 17 10 0 0]
+[11] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 7 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 8 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Saia(A)[1280] [43 3 0 0 0 0]
+[16] - Elmo(A)[1802] [43 3 0 0 0 0]
+[17] - Elmo(A)[1956] [43 3 0 0 0 0]
+[18] - Peitoral(A)[2047] [43 3 0 0 0 0]
+[19] - Essência_Mithril_A[4021] [0 0 0 0 0 0]
+[20] - Botas(M)[2159] [43 3 0 0 0 0]
+[21] - Robe(M)[2164] [43 3 0 0 0 0]
+[22] - Armadura(N)[1434] [43 3 0 0 0 0]
+[23] - Chapéu(M)[1582] [43 2 0 0 0 0]
+[24] - Essência_Mithril_B[4022] [0 0 0 0 0 0]
+[25] - Armadura(A)[1862] [43 3 0 0 0 0]
+[26] - Elmo(A)[1881] [43 3 0 0 0 0]
+[27] - Armadura(A)[1972] [43 3 0 0 0 0]
+[28] - Botas(A)[1625] [43 3 0 0 0 0]
+[29] - Essência_Mithril_C[4023] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:20:18 : [Sharii] - Comando "/day "
+15:20:18 : [Sharii] - [Mensagem do servidor]> !#11 2
+15:30:00 : [Sharii] - [Mensagem do servidor]: !Coliseu Místico será iniciado em 3 minutos. Disponível para Arch ou superior
+15:30:00 : [Sharii] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+15:38:04 : [Sharii] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+15:42:39 : [Sharii] - ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:42:39 : [Sharii] - 1 Personagem foi desconectado. Permaneceu 01:26:04 minutos online
+15:42:39 : [Sharii] - Recebeu 1243 de gold em 1 mobs no total. Total de gold: 694679811
+16:30:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+16:30:13 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1829750000
+16:30:13 : [INFORMAÇÕES DO BANCO]
+Gold: 1829750000
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1297] [43 3 60 6 53 3]
+[  2] - Botas(M)[1309] [43 3 60 6 74 12]
+[  3] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[  4] - Calça(M)[1285] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1321] [43 3 60 6 53 3]
+[  7] - Botas(M)[1324] [43 3 60 6 74 12]
+[  9] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 10] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 11] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 13] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 15] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 16] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 17] - Cajado[899] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 20] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 22] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 23] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 24] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 25] - [4646] [0 0 0 0 0 0]
+[ 26] - Armadura[1506] [43 6 0 0 0 0]
+[ 27] - Calça[1507] [43 6 0 0 0 0]
+[ 28] - Luvas[1508] [43 6 0 0 0 0]
+[ 29] - Botas[1509] [43 6 0 0 0 0]
+[ 30] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 31] - Luvas(M)[1297] [43 3 60 6 53 3]
+[ 32] - Botas(M)[1309] [43 3 60 6 74 12]
+[ 33] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[ 34] - Calça(M)[1285] [43 3 60 6 3 20]
+[ 35] - Robe(M)[1273] [43 3 60 6 3 20]
+[ 36] - Luvas(M)[1321] [43 3 60 6 53 3]
+[ 37] - Botas(M)[1324] [43 3 60 6 74 12]
+[ 38] - Chapéu(M)[1312] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 40] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 41] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 42] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 43] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 44] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 45] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 46] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 47] - Cajado[899] [43 6 60 16 0 0]
+[ 48] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 49] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 50] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 51] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 52] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 53] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 54] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 55] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 56] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 57] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 58] - Botas(M)[1159] [43 3 73 18 74 12]
+[ 59] - Elmo(M)[1111] [43 3 4 20 0 0]
+[ 60] - Calça(M)[1135] [43 3 2 20 3 20]
+[ 61] - Armadura(M)[1123] [43 3 2 20 3 20]
+[ 62] - Luvas(M)[1186] [43 3 2 20 53 3]
+[ 63] - Botas(M)[1189] [43 3 73 18 74 12]
+[ 64] - Elmo(M)[1177] [43 3 4 20 0 0]
+[ 65] - Calça(M)[1183] [43 3 2 20 3 20]
+[ 66] - Armadura(M)[1180] [43 3 2 20 3 20]
+[ 67] - Manopla(M)[1201] [43 3 2 20 53 3]
+
+16:30:19 : Solicitou ir ao mundo...
+16:30:19 : Recebido pedido para entrar no jogo
+16:30:19 : Recebido informação do personagem completa.
+16:30:19 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 694679811
+Level atual: 0
+Experiência atual: 2273262
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2506x 1714y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 253 0 0 0 0]
+[04] - Luvass[1358] [43 253 0 0 0 0]
+[05] - Botass[1359] [43 253 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Pegasus[2382] [120 120 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 4 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 92 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Cérberus[2378] [0 0 0 0 0 0]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 3 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 9 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [120 120 120 120 0 0]
+[10] - Cérberus[2378] [10 10 17 10 0 0]
+[11] - Cythera_Mística[3502] [0 0 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 7 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 8 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Saia(A)[1280] [43 3 0 0 0 0]
+[16] - Elmo(A)[1802] [43 3 0 0 0 0]
+[17] - Elmo(A)[1956] [43 3 0 0 0 0]
+[18] - Peitoral(A)[2047] [43 3 0 0 0 0]
+[19] - Essência_Mithril_A[4021] [0 0 0 0 0 0]
+[20] - Botas(M)[2159] [43 3 0 0 0 0]
+[21] - Robe(M)[2164] [43 3 0 0 0 0]
+[22] - Armadura(N)[1434] [43 3 0 0 0 0]
+[23] - Chapéu(M)[1582] [43 2 0 0 0 0]
+[24] - Essência_Mithril_B[4022] [0 0 0 0 0 0]
+[25] - Armadura(A)[1862] [43 3 0 0 0 0]
+[26] - Elmo(A)[1881] [43 3 0 0 0 0]
+[27] - Armadura(A)[1972] [43 3 0 0 0 0]
+[28] - Botas(A)[1625] [43 3 0 0 0 0]
+[29] - Essência_Mithril_C[4023] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:30:20 : [Sharii] - Personagem Sharii enviado ao mundo 2506x 1714y - Canal 2 - Cash da conta: 0. OverPower: 2470
+16:30:20 : [Sharii] - Gold atual: 694679811. Classe: 1 Evolução: 3. Experiência: 2273262. Nível: 0. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+16:30:20 : [Sharii] - Evolução logada: 3
+16:30:20 : [Sharii] - Dados da capa um: [3199] [0 0 0 0 0 0]
+16:30:20 : [Sharii] - Dados da capa dois: [0] [0 0 0 0 0 0]
+16:30:20 : [Sharii] - Não foi efetuado a troca pois a refinação atual é maior
+16:30:20 : [Sharii] - Enviado informações do personagem
+16:30:20 : [Sharii] - Comando "/day "
+16:30:20 : [Sharii] - [Mensagem do servidor]> !#11 2
+16:30:29 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:30:34 : [Sharii] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 3
+16:30:36 : [Sharii] - Moveu item Pegasus [2382] [120 120 120 120 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 3
+16:30:47 : [Sharii] - Item Cythera_Mística deletado [3502] [0 0 0 0 0 0]. Slot 11
+16:30:48 : [Sharii] - Moveu item Gleipnir(Anct) [2674] [43 250 60 100 0 0] do tipo EQUIPAMENTO do slot 6 para tipo INVENTÁRIO slot 11
+16:32:47 : [Sharii] - Item Cérberus deletado [2378] [0 0 0 0 0 0]. Slot 5
+16:32:48 : [Sharii] - Comprou o item Gema_de_Esmeralda [3387] [0 0 0 0 0 0] na loja de Lucy. Preço total: 1150000. Imposto: 150000. Gold: 694679811 anterior. Gold após a compra: 693529811
+16:33:16 : [Sharii] - Item Gema_de_Esmeralda [3387] [0 0 0 0 0 0] utilizado em 0x 0y
+16:33:16 : [Sharii] - Usado Gema no item Calça [1357] [43 251 0 0 0 0]
+16:39:09 : [Sharii] - Comprou o item Gema_de_Coral [3388] [0 0 0 0 0 0] na loja de Lucy. Preço total: 1150000. Imposto: 150000. Gold: 693529811 anterior. Gold após a compra: 692379811
+16:39:13 : [Sharii] - Item Gema_de_Coral [3388] [0 0 0 0 0 0] utilizado em 0x 0y
+16:39:13 : [Sharii] - Usado Gema no item Calça [1357] [43 252 0 0 0 0]
+16:39:50 : [Sharii] - Comprou o item Gema_de_Coral [3388] [0 0 0 0 0 0] na loja de Lucy. Preço total: 1150000. Imposto: 150000. Gold: 692379811 anterior. Gold após a compra: 691229811
+16:39:56 : [Sharii] - Item Gema_de_Coral [3388] [0 0 0 0 0 0] utilizado em 0x 0y
+16:39:56 : [Sharii] - Usado Gema no item Túnica [1356] [43 252 0 0 0 0]
+16:39:58 : [Sharii] - Comprou o item Gema_de_Coral [3388] [0 0 0 0 0 0] na loja de Lucy. Preço total: 1150000. Imposto: 150000. Gold: 691229811 anterior. Gold após a compra: 690079811
+16:40:01 : [Sharii] - Item Gema_de_Coral [3388] [0 0 0 0 0 0] utilizado em 0x 0y
+16:40:01 : [Sharii] - Usado Gema no item Botass [1359] [43 252 0 0 0 0]
+16:40:03 : [Sharii] - Comprou o item Gema_de_Coral [3388] [0 0 0 0 0 0] na loja de Lucy. Preço total: 1150000. Imposto: 150000. Gold: 690079811 anterior. Gold após a compra: 688929811
+16:40:09 : [Sharii] - Item Gema_de_Coral [3388] [0 0 0 0 0 0] utilizado em 0x 0y
+16:40:09 : [Sharii] - Usado Gema no item Luvass [1358] [43 252 0 0 0 0]
+16:40:36 : [Sharii] - Moveu item Pegasus [2382] [120 120 120 120 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 14
+16:40:38 : [Sharii] - Moveu item Gleipnir(Anct) [2674] [43 250 60 100 0 0] do tipo INVENTÁRIO do slot 11 para tipo EQUIPAMENTO slot 6
+16:40:42 : [Sharii] - Teleportado para a posição 2117 2102
+16:43:39 : [Sharii] - ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:43:39 : [Sharii] - 1 Personagem foi desconectado. Permaneceu 00:13:15 minutos online
+18:29:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+18:29:36 : ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:29:36 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:29:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 2
+18:29:36 : ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:29:36 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:29:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+18:29:36 : ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:29:36 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:29:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+18:29:36 : ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:29:36 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+18:29:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.185.199 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+18:29:36 : ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+18:29:37 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online

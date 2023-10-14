@@ -1,0 +1,596 @@
+
+01:10:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.183.185 Mac: (0D:02:2C:B1:FF:4E). ClientId: 5
+01:10:22 : [Mensagem do servidor]> Senha incorreta.
+01:10:22 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+01:11:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.183.185 Mac: (0D:02:2C:B1:FF:4E). ClientId: 5
+01:11:03 : [Mensagem do servidor]> Senha incorreta.
+01:11:03 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+01:14:17 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.183.185 Mac: (0D:02:2C:B1:FF:4E). ClientId: 18
+01:14:17 : Usuário logou no jogo com clientId 18. - Servidor 1. Gold do banco: 0
+01:14:17 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+01:14:18 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+01:14:22 : Errou senha numérica: 1.
+01:14:41 : ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+01:14:41 : Personagem foi desconectado. Permaneceu 00:00:24 minutos online
+16:27:05 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+16:27:05 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+16:27:05 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+16:27:14 : Solicitou ir ao mundo...
+16:27:14 : Recebido pedido para entrar no jogo
+16:27:14 : Recebido informação do personagem completa.
+16:27:14 : [Shaaaaari] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shaaaaari
+Gold atual: 48530352
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:08 horas
+Posição atual: 2090x 2106y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[27] [43 0 27 2 1 1]
+[01] - Cythera_Arcana[3507] [43 250 0 0 0 0]
+[02] - Armadura[1506] [116 252 0 0 0 0]
+[03] - Calça[1507] [116 252 0 0 0 0]
+[04] - Luvas[1508] [116 252 0 0 0 0]
+[05] - Botas[1509] [116 252 0 0 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Tigre_de_Fogo[2379] [24 121 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+[01] - Frango_Assado[3314] [61 9 0 0 0 0]
+[02] - Ração_de_Tigre_de_Fogo[2427] [96 1 61 119 0 0]
+[03] - Fehu[5113] [0 0 0 0 0 0]
+[04] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[05] - Pista_de_Runas[5134] [43 1 0 0 0 0]
+[06] - Pedra_de_Adamantita[578] [0 0 0 0 0 0]
+[07] - Armadura(A)[1805] [43 0 71 30 2 12]
+[08] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Braçadeira(M)[1606] [43 0 72 20 74 6]
+[11] - Poeira_de_Lactolerium[413] [61 3 204 204 204 204]
+[12] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Pedido_de_Caça(Nipple)[3437] [61 7 0 0 0 0]
+[15] - Sapatos(N)[1413] [43 0 73 12 59 0]
+[16] - Luvas(N)[1560] [43 0 72 15 54 15]
+[17] - Armadura(A)[1805] [43 0 3 10 59 0]
+[18] - Feijão_Mágico(Preto)[3411] [0 0 0 0 0 0]
+[19] - Tintura_Preta[3401] [0 0 0 0 0 0]
+[20] - Luvas(N)[1560] [43 1 72 10 59 0]
+[21] - Armadura(A)[1805] [43 0 71 40 59 0]
+[22] - Elmo(A)[1801] [43 0 59 0 59 67]
+[23] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[24] - Gema_de_Garnet[3389] [0 0 0 0 0 0]
+[25] - Calça[1507] [43 252 60 20 0 0]
+[26] - Armadura[1506] [120 253 60 20 0 0]
+[27] - Luvas[1508] [43 252 60 20 0 0]
+[28] - Botas[1509] [43 251 60 20 0 0]
+[29] - Gema_de_Coral[3388] [0 0 0 0 0 0]
+[30] - Resto_de_Oriharucon[419] [59 112 59 34 202 50]
+[35] - Tintura_Preta[3401] [0 0 0 0 0 0]
+[40] - Eirenus(Anct)[2866] [43 253 60 100 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 7 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 7 110 3 109 121]
+[63] - Marca_do_Assassino[547] [84 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:27:14 : [Shaaaaari] - Personagem Shaaaaari enviado ao mundo 2090x 2106y - Canal 2 - Cash da conta: 7579. PowerLevel: 10252
+16:27:14 : [Shaaaaari] - Gold atual: 48530352. Classe: 1 Evolução: 2. Experiência: 4000000000. Nível: 199. Info: 496. GuildID: 0. CP: 9. Pontos de Contribuição: 0. Limite: 0
+16:27:14 : [Shaaaaari] - Logou no personagem Shaaaaari com poção divina ativo. Validade: 7/3/2021 20:30:24
+16:27:14 : [Shaaaaari] - Resetado a contagem de entradas água! Day: 41-43. Total: 0
+16:27:14 : [Shaaaaari] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+16:27:14 : [Shaaaaari] - Enviado informações do personagem
+16:27:15 : [Shaaaaari] - Comando "/day "
+16:27:15 : [Shaaaaari] - [Mensagem do servidor]> !#11 2
+16:27:23 : [Shaaaaari] - Moveu item Eirenus(Anct) [2866] [43 253 60 100 0 0] do tipo INVENTÁRIO do slot 40 para tipo EQUIPAMENTO slot 6
+16:27:23 : [Shaaaaari] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:27:42 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 14. Distância 2: 16. Range: 8. SkillId: 32
+16:27:44 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 32. Distância 2: 14. Range: 9. SkillId: 36
+16:27:45 : [Shaaaaari] - Enviando skill com o distancia maior que o range da skill. Distância: 32. Distância 2: 14. Range: 9. SkillId: 33
+16:27:57 : [Shaaaaari] - Matou o mob Gremlin. GenerID: 419
+16:28:00 : [Shaaaaari] - Matou o mob Gremlin. GenerID: 427
+16:28:01 : [Shaaaaari] - Matou o mob Gremlin. GenerID: 419
+16:28:07 : [Shaaaaari] - Comando "/gm +move agua"
+16:28:07 : [Shaaaaari] - Teleportado para a posição 1972 1767
+16:28:10 : [Shaaaaari] - Comando "/gm +item 3182"
+16:28:10 : [Shaaaaari] - [Mensagem do servidor]> Criou o item Pergaminho_da_Água(A)LV1
+16:28:10 : [Shaaaaari] - Shaaaaari criou o item Pergaminho_da_Água(A)LV1 [3182] [0 0 0 0 0 0]
+16:28:13 : [Shaaaaari] - Item Pergaminho_da_Água(A)LV1 [3182] [0 0 0 0 0 0] utilizado em 1966x 1775y
+16:28:13 : [Shaaaaari] - Teleportado para a posição 1086 3518
+16:28:13 : [Shaaaaari] - Água 3182 - Grupo teleportado para a área. Entradas restantes: 1080
+16:28:14 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:15 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:16 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:17 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:17 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:17 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:17 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:17 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:17 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:17 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:18 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:18 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:18 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:18 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:18 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:18 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:18 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:19 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:19 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:20 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:21 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:22 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:23 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:24 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:28:36 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:36 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:36 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:36 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:36 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:37 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:37 : [Shaaaaari] - Recebeu 22456 de gold em 10 mobs no total. Total de gold: 48552808
+16:28:38 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:39 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:40 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:41 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:41 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:41 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:41 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:41 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:41 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:41 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:42 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:42 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:42 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:42 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:42 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:42 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:42 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:43 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:28:54 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:55 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:56 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:57 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:57 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:57 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:57 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:57 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:57 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:58 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:58 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:58 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:58 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:58 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:58 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:58 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:58 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:28:59 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:29:00 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:29:01 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:29:02 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:29:03 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:29:03 : [Shaaaaari] - Recebeu 20828 de gold em 10 mobs no total. Total de gold: 48573636
+16:29:16 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:29:16 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:29:17 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:29:18 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:29:19 : [Shaaaaari] - ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+16:29:19 : [Shaaaaari] - 2 Personagem foi desconectado. Permaneceu 00:02:11 minutos online
+16:29:19 : [Shaaaaari] - Recebeu 6332 de gold em 3 mobs no total. Total de gold: 48579968
+16:39:00 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 84.123.38.2 Mac: (B4:B1:20:6F:AD:44). ClientId: 2
+16:39:00 : Usuário logou no jogo com clientId 2. - Servidor 2. Gold do banco: 0
+16:39:00 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+16:39:04 : Solicitou ir ao mundo...
+16:39:04 : Recebido pedido para entrar no jogo
+16:39:04 : Recebido informação do personagem completa.
+16:39:04 : [Shaaaaari] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shaaaaari
+Gold atual: 48579968
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:04 horas
+Posição atual: 2096x 2100y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[27] [43 0 27 2 1 1]
+[01] - Cythera_Arcana[3507] [43 250 0 0 0 0]
+[02] - Armadura[1506] [116 252 0 0 0 0]
+[03] - Calça[1507] [116 252 0 0 0 0]
+[04] - Luvas[1508] [116 252 0 0 0 0]
+[05] - Botas[1509] [116 252 0 0 0 0]
+[06] - Eirenus(Anct)[2866] [43 253 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[09] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[14] - Tigre_de_Fogo[2379] [24 121 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Poeira_de_Lactolerium[413] [61 3 0 0 0 0]
+[01] - Frango_Assado[3314] [61 9 0 0 0 0]
+[02] - Ração_de_Tigre_de_Fogo[2427] [96 1 61 119 0 0]
+[03] - Fehu[5113] [0 0 0 0 0 0]
+[04] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[05] - Pista_de_Runas[5134] [43 1 0 0 0 0]
+[06] - Pedra_de_Adamantita[578] [0 0 0 0 0 0]
+[07] - Armadura(A)[1805] [43 0 71 30 2 12]
+[08] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[09] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[10] - Braçadeira(M)[1606] [43 0 72 20 74 6]
+[11] - Poeira_de_Lactolerium[413] [61 3 204 204 204 204]
+[12] - Poeira_de_Lactolerium[413] [61 4 204 204 204 204]
+[13] - Poção_de_Cura[400] [0 0 0 0 0 0]
+[14] - Pedido_de_Caça(Nipple)[3437] [61 7 0 0 0 0]
+[15] - Sapatos(N)[1413] [43 0 73 12 59 0]
+[16] - Luvas(N)[1560] [43 0 72 15 54 15]
+[17] - Armadura(A)[1805] [43 0 3 10 59 0]
+[18] - Feijão_Mágico(Preto)[3411] [0 0 0 0 0 0]
+[19] - Tintura_Preta[3401] [0 0 0 0 0 0]
+[20] - Luvas(N)[1560] [43 1 72 10 59 0]
+[21] - Armadura(A)[1805] [43 0 71 40 59 0]
+[22] - Elmo(A)[1801] [43 0 59 0 59 67]
+[23] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[24] - Gema_de_Garnet[3389] [0 0 0 0 0 0]
+[25] - Calça[1507] [43 252 60 20 0 0]
+[26] - Armadura[1506] [120 253 60 20 0 0]
+[27] - Luvas[1508] [43 252 60 20 0 0]
+[28] - Botas[1509] [43 251 60 20 0 0]
+[29] - Gema_de_Coral[3388] [0 0 0 0 0 0]
+[30] - Resto_de_Oriharucon[419] [59 112 59 34 202 50]
+[35] - Tintura_Preta[3401] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 7 110 3 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 7 110 3 109 121]
+[63] - Marca_do_Assassino[547] [84 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:39:04 : [Shaaaaari] - Personagem Shaaaaari enviado ao mundo 2096x 2100y - Canal 2 - Cash da conta: 7579. PowerLevel: 13132
+16:39:04 : [Shaaaaari] - Gold atual: 48579968. Classe: 1 Evolução: 2. Experiência: 4000000000. Nível: 199. Info: 496. GuildID: 0. CP: 9. Pontos de Contribuição: 0. Limite: 0
+16:39:04 : [Shaaaaari] - Logou no personagem Shaaaaari com poção divina ativo. Validade: 7/3/2021 20:30:24
+16:39:04 : [Shaaaaari] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+16:39:04 : [Shaaaaari] - Enviado informações do personagem
+16:39:05 : [Shaaaaari] - Comando "/day "
+16:39:05 : [Shaaaaari] - [Mensagem do servidor]> !#11 2
+16:39:06 : [Shaaaaari] - [Mensagem do servidor]: Jogador SkBilly obteve sucesso na composição de Fúria_Divina(Anct)
+16:39:10 : [Shaaaaari] - [Mensagem do servidor]: ZeBebum falhou na composição do item Cajado para Ancient
+16:39:12 : [Shaaaaari] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:39:15 : [Shaaaaari] - Comando "/gm +move agua"
+16:39:15 : [Shaaaaari] - Teleportado para a posição 1972 1767
+16:39:19 : [Shaaaaari] - Item Pergaminho_da_Água(A)LV1 [3182] [61 2 0 0 0 0] utilizado em 1966x 1773y
+16:39:19 : [Shaaaaari] - Teleportado para a posição 1088 3516
+16:39:19 : [Shaaaaari] - Água 3182 - Grupo teleportado para a área. Entradas restantes: 1079
+16:39:21 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:21 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:21 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:21 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:21 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:21 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:22 : [Shaaaaari] - [Mensagem do servidor]: ZeBebum falhou na composição do item Cajado para Ancient
+16:39:23 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:23 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:23 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:23 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:24 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:24 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:24 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:24 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:24 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:24 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:24 : [Shaaaaari] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na composição de Lança_do_Triunfo(Anct)
+16:39:25 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:26 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:27 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:29 : [Shaaaaari] - Matou o mob Gargula    . GenerID: -1
+16:39:30 : [Shaaaaari] - [Mensagem do servidor]: Jogador SkBilly obteve sucesso na composição de Varinha_Falcon(Anct)
+16:39:41 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:41 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:42 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:43 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:43 : [Shaaaaari] - [Mensagem do servidor]: TETEU- falhou na composição do item Lança para Ancient
+16:39:44 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:45 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:45 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:45 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:45 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:45 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:45 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:45 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:46 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:46 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:47 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:47 : [Shaaaaari] - Recebeu 21868 de gold em 10 mobs no total. Total de gold: 48601836
+16:39:47 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:47 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:47 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:47 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:48 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:49 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:50 : [Shaaaaari] - Matou o mob Golem de Fogo . GenerID: -1
+16:39:52 : [Shaaaaari] - [Mensagem do servidor]: TETEU- falhou na composição do item Lança para Ancient
+16:40:02 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:40:03 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:40:03 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:40:03 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:40:03 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:40:03 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:40:03 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:40:03 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:40:04 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:40:05 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:40:06 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:40:07 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:40:08 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:40:09 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:40:09 : [Shaaaaari] - Matou o mob Cav. Negro  . GenerID: -1
+16:40:22 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:23 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:24 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:25 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:26 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:26 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:26 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:26 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:26 : [Shaaaaari] - Recebeu 20934 de gold em 10 mobs no total. Total de gold: 48622770
+16:40:26 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:26 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:26 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:26 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:26 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:26 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:27 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:27 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:28 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:29 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:30 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:31 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:32 : [Shaaaaari] - Matou o mob Dragao Lich  . GenerID: -1
+16:40:43 : [Shaaaaari] - Removido o Hp do mob Tauron      . HP removido: 23452. HP Atual: 0
+16:40:43 : [Shaaaaari] - Removido o Hp do mob Tauron      . HP removido: 22502. HP Atual: 0
+16:40:43 : [Shaaaaari] - Removido o Hp do mob Tauron      . HP removido: 21450. HP Atual: 0
+16:40:43 : [Shaaaaari] - Removido o Hp do mob Tauron      . HP removido: 18061. HP Atual: 0
+16:40:43 : [Shaaaaari] - Removido o Hp do mob Tauron      . HP removido: 15031. HP Atual: 0
+16:40:43 : [Shaaaaari] - Removido o Hp do mob Tauron      . HP removido: 12028. HP Atual: 1972
+16:40:43 : [Shaaaaari] - Matou o mob Tauron      . GenerID: -1
+16:40:43 : [Shaaaaari] - Matou o mob Tauron      . GenerID: -1
+16:40:44 : [Shaaaaari] - Removido o Hp do mob Tauron      . HP removido: 27048. HP Atual: 0
+16:40:44 : [Shaaaaari] - Matou o mob Tauron      . GenerID: -1
+16:40:45 : [Shaaaaari] - Removido o Hp do mob Tauron      . HP removido: 27827. HP Atual: 0
+16:40:45 : [Shaaaaari] - Matou o mob Tauron      . GenerID: -1
+16:40:46 : [Shaaaaari] - Removido o Hp do mob Tauron      . HP removido: 27891. HP Atual: 0
+16:40:46 : [Shaaaaari] - Matou o mob Tauron      . GenerID: -1
+16:40:47 : [Shaaaaari] - Removido o Hp do mob Tauron      . HP removido: 23962. HP Atual: 0
+16:40:47 : [Shaaaaari] - Matou o mob Tauron      . GenerID: -1
+16:40:47 : [Shaaaaari] - Recebeu 21938 de gold em 10 mobs no total. Total de gold: 48644708
+16:40:48 : [Shaaaaari] - Removido o Hp do mob Tauron      . HP removido: 28828. HP Atual: 0
+16:40:48 : [Shaaaaari] - Removido o Hp do mob Tauron      . HP removido: 24213. HP Atual: 0
+16:40:48 : [Shaaaaari] - Removido o Hp do mob Tauron      . HP removido: 22638. HP Atual: 0
+16:40:48 : [Shaaaaari] - Removido o Hp do mob Tauron      . HP removido: 19239. HP Atual: 0
+16:40:48 : [Shaaaaari] - Removido o Hp do mob Tauron      . HP removido: 15011. HP Atual: 0
+16:40:48 : [Shaaaaari] - Removido o Hp do mob Tauron      . HP removido: 12663. HP Atual: 0
+16:40:48 : [Shaaaaari] - Matou o mob Tauron      . GenerID: -1
+16:40:48 : [Shaaaaari] - Matou o mob Tauron      . GenerID: -1
+16:40:48 : [Shaaaaari] - Matou o mob Tauron      . GenerID: -1
+16:40:48 : [Shaaaaari] - Matou o mob Tauron      . GenerID: -1
+16:40:48 : [Shaaaaari] - Matou o mob Tauron      . GenerID: -1
+16:40:48 : [Shaaaaari] - Matou o mob Tauron      . GenerID: -1
+16:41:00 : [Shaaaaari] - Matou o mob Morlock    . GenerID: -1
+16:41:00 : [Shaaaaari] - Matou o mob Morlock    . GenerID: -1
+16:41:00 : [Shaaaaari] - Matou o mob Morlock    . GenerID: -1
+16:41:00 : [Shaaaaari] - Matou o mob Morlock    . GenerID: -1
+16:41:00 : [Shaaaaari] - Matou o mob Morlock    . GenerID: -1
+16:41:00 : [Shaaaaari] - Matou o mob Morlock    . GenerID: -1
+16:41:00 : [Shaaaaari] - Matou o mob Morlock    . GenerID: -1
+16:41:01 : [Shaaaaari] - Matou o mob Morlock    . GenerID: -1
+16:41:02 : [Shaaaaari] - Matou o mob Morlock    . GenerID: -1
+16:41:03 : [Shaaaaari] - Matou o mob Morlock    . GenerID: -1
+16:41:04 : [Shaaaaari] - Matou o mob Morlock    . GenerID: -1
+16:41:05 : [Shaaaaari] - Matou o mob Morlock    . GenerID: -1
+16:41:05 : [Shaaaaari] - Matou o mob Morlock    . GenerID: -1
+16:41:06 : [Shaaaaari] - Matou o mob Morlock    . GenerID: -1
+16:41:06 : [Shaaaaari] - Matou o mob Morlock    . GenerID: -1
+16:41:18 : [Shaaaaari] - Matou o mob Anc. Ciclope. GenerID: -1
+16:41:19 : [Shaaaaari] - Matou o mob Anc. Ciclope. GenerID: -1
+16:41:20 : [Shaaaaari] - Matou o mob Anc. Ciclope. GenerID: -1
+16:41:21 : [Shaaaaari] - Matou o mob Anc. Ciclope. GenerID: -1
+16:41:21 : [Shaaaaari] - [Mensagem do servidor]: TETEU- falhou na composição do item Lança para Ancient
+16:41:23 : [Shaaaaari] - Matou o mob Anc. Ciclope. GenerID: -1
+16:41:23 : [Shaaaaari] - Matou o mob Anc. Ciclope. GenerID: -1
+16:41:23 : [Shaaaaari] - Matou o mob Anc. Ciclope. GenerID: -1
+16:41:33 : [Shaaaaari] - [Mensagem do servidor]: TETEU- falhou na composição do item Lança para Ancient
+16:41:35 : [Shaaaaari] - Removido o Hp do mob Verme da Areia. HP removido: 28107. HP Atual: 0
+16:41:35 : [Shaaaaari] - Matou o mob Verme da Areia. GenerID: -1
+16:41:36 : [Shaaaaari] - Removido o Hp do mob Verme da Areia. HP removido: 28934. HP Atual: 0
+16:41:36 : [Shaaaaari] - Matou o mob Verme da Areia. GenerID: -1
+16:41:37 : [Shaaaaari] - Removido o Hp do mob Verme da Areia. HP removido: 23292. HP Atual: 0
+16:41:37 : [Shaaaaari] - Matou o mob Verme da Areia. GenerID: -1
+16:41:37 : [Shaaaaari] - Recebeu 22234 de gold em 10 mobs no total. Total de gold: 48666942
+16:41:38 : [Shaaaaari] - Removido o Hp do mob Verme da Areia. HP removido: 25816. HP Atual: 0
+16:41:38 : [Shaaaaari] - Matou o mob Verme da Areia. GenerID: -1
+16:41:39 : [Shaaaaari] - Removido o Hp do mob Verme da Areia. HP removido: 24838. HP Atual: 0
+16:41:39 : [Shaaaaari] - Removido o Hp do mob Verme da Areia. HP removido: 28190. HP Atual: 0
+16:41:39 : [Shaaaaari] - Removido o Hp do mob Verme da Areia. HP removido: 25354. HP Atual: 0
+16:41:39 : [Shaaaaari] - Removido o Hp do mob Verme da Areia. HP removido: 24838. HP Atual: 0
+16:41:39 : [Shaaaaari] - Removido o Hp do mob Verme da Areia. HP removido: 26643. HP Atual: 0
+16:41:39 : [Shaaaaari] - Matou o mob Verme da Areia. GenerID: -1
+16:41:39 : [Shaaaaari] - Matou o mob Verme da Areia. GenerID: -1
+16:41:39 : [Shaaaaari] - Matou o mob Verme da Areia. GenerID: -1
+16:41:39 : [Shaaaaari] - Matou o mob Verme da Areia. GenerID: -1
+16:41:39 : [Shaaaaari] - Matou o mob Verme da Areia. GenerID: -1
+16:41:39 : [Shaaaaari] - Removido o Hp do mob Verme da Areia. HP removido: 20234. HP Atual: 0
+16:41:39 : [Shaaaaari] - Matou o mob Verme da Areia. GenerID: -1
+16:41:43 : [Shaaaaari] - [Mensagem do servidor]: Jogador TETEU- obteve sucesso na composição de Gleipnir(Anct)
+16:41:50 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:41:50 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:41:50 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:41:50 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:41:51 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:41:52 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:41:53 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:41:54 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:41:55 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:41:55 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:41:56 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:41:56 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:41:57 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:41:58 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:41:58 : [Shaaaaari] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1088x 3516y - Ladrao Tauron  (1/1)
+16:41:59 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:00 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:01 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:01 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:01 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:02 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:02 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:03 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:04 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:04 : [Shaaaaari] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1088x 3516y - Ladrao Tauron  (1/1)
+16:42:05 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:06 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:07 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:07 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:08 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:09 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:10 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:10 : [Shaaaaari] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1088x 3516y - Ladrao Tauron  (1/1)
+16:42:11 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:12 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:13 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:14 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:15 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:16 : [Shaaaaari] - Matou o mob Ladrao Tauron . GenerID: -1
+16:42:16 : [Shaaaaari] - Dropado item Poeira_de_Lactolerium [413] [0 0 0 0 0 0] em 1088x 3516y - Ladrao Tauron  (1/1)
+16:42:26 : [Shaaaaari] - [Mensagem do servidor]: Jogador ZeBebum obteve sucesso na composição de Eirenus(Anct)
+16:42:27 : [Shaaaaari] - Enviado para a cidade através do ClearAreaTeleport. Posição: 1088x 3516y. Teleportado para ""
+16:42:27 : [Shaaaaari] - Teleportado para a posição 1965 1770
+16:42:40 : [Shaaaaari] - [Mensagem do servidor]: Jogador ZeBebum obteve sucesso na composição de Eirenus(Anct)
+16:43:02 : [Shaaaaari] - [Mensagem do servidor]: Jogador ZeBebum obteve sucesso na composição de Fúria_Divina(Anct)
+16:43:30 : [Shaaaaari] - Personagem deu personagem
+16:43:30 : [Shaaaaari] - Recebeu 11426 de gold em 5 mobs no total. Total de gold: 48678368
+16:43:38 : Solicitou ir ao mundo...
+16:43:38 : Recebido pedido para entrar no jogo
+16:43:38 : Recebido informação do personagem completa.
+16:43:38 : [Shaaaaari] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shaaaaari
+Gold atual: 979287600
+Level atual: 399
+Experiência atual: 4000000000
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:04:34 horas
+Posição atual: 2086x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Elmo[1510] [43 253 0 0 0 0]
+[02] - Armadura[1511] [43 253 0 0 0 0]
+[03] - Calça[1512] [43 253 0 0 0 0]
+[04] - Luvas[1513] [43 253 0 0 0 0]
+[05] - Botas[1514] [43 253 0 0 0 0]
+[16] - Asa_de_Fênix[3103] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Armadura[1506] [43 250 0 0 0 0]
+[01] - Elmo(N)[1416] [43 0 0 0 0 0]
+[02] - Armadura(N)[1419] [43 0 0 0 0 0]
+[03] - Calça(N)[1422] [43 0 0 0 0 0]
+[04] - Luvas(N)[1425] [43 0 0 0 0 0]
+[05] - Botas(N)[1428] [43 0 0 0 0 0]
+[06] - Pegasus[2382] [120 120 120 120 0 0]
+[07] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[08] - Cruz_Sagrada[2143] [0 0 0 0 0 0]
+[10] - Adaga[861] [43 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [78 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:43:38 : [Shaaaaari] - Personagem Shaaaaari enviado ao mundo 2086x 2104y - Canal 2 - Cash da conta: 7579. PowerLevel: 1466
+16:43:38 : [Shaaaaari] - Gold atual: 979287600. Classe: 2 Evolução: 0. Experiência: 4000000000. Nível: 399. Info: 0. GuildID: 0. CP: 3. Pontos de Contribuição: 0. Limite: 0
+16:43:38 : [Shaaaaari] - Logou no personagem Shaaaaari com poção divina ativo. Validade: 7/3/2021 20:30:24
+16:43:38 : [Shaaaaari] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+16:43:38 : [Shaaaaari] - Enviado informações do personagem
+16:43:38 : [Shaaaaari] - Comando "/day "
+16:43:38 : [Shaaaaari] - [Mensagem do servidor]> !#11 2
+16:43:48 : [Shaaaaari] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:45:21 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +13
+16:45:36 : [Shaaaaari] - [Mensagem do servidor]: Jogador ZeBebum obteve sucesso na composição de Fúria_Divina(Anct)
+16:45:46 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +14
+16:45:57 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +15
+16:46:31 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +12
+16:46:42 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +13
+16:47:12 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +14
+16:47:30 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +15
+16:47:55 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +12
+16:48:49 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +13
+16:48:59 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +14
+16:49:11 : [Shaaaaari] - [Mensagem do servidor]: Gandra falhou a refinação de Armadura(A) para 15
+16:49:24 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +14
+16:50:12 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +15
+16:50:34 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +12
+16:50:48 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +13
+16:51:14 : [Shaaaaari] - [Mensagem do servidor]: Gandra falhou a refinação de Calça(A) para 14
+16:51:37 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +13
+16:52:01 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +14
+16:52:38 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +15
+16:52:48 : [Shaaaaari] - [Mensagem do servidor]: Jogador Celo obteve sucesso na composição de Eirenus(Anct)
+16:53:02 : [Shaaaaari] - [Mensagem do servidor]: Jogador Gandra obteve sucesso na refinação item +12
+16:53:18 : [Shaaaaari] - Personagem deu personagem
+16:59:36 : ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+16:59:36 : Personagem foi desconectado. Permaneceu 00:20:20 minutos online

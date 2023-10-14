@@ -1,0 +1,575 @@
+
+17:52:51 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+17:52:51 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 1000000000
+17:52:51 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+17:53:02 : Solicitou ir ao mundo...
+17:53:02 : Recebido pedido para entrar no jogo
+17:53:02 : Recebido informação do personagem completa.
+17:53:02 : [AeroDynamik] - [INFORMAÇÕES DA CONTA]
+Personagem online: AeroDynamik
+Gold atual: 497649239
+Level atual: 399
+Experiência atual: 4114860243
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:11 horas
+Posição atual: 2464x 2010y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1643] [43 237 3 25 26 18]
+[02] - Peitoral(A)[1646] [43 237 2 30 71 70]
+[03] - Calça(A)[1649] [43 237 2 30 71 70]
+[04] - Braçadeira(A)[1652] [43 237 54 18 72 30]
+[05] - Botas(A)[1655] [43 237 73 30 74 18]
+[06] - Arco[825] [2 45 43 1 0 0]
+[08] - Brinco_de_Titã[592] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[12] - Conjunto_Esqueleto[4153] [96 21 2 21 0 32]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(3dias)[3902] [106 2 107 22 108 59]
+[02] - [S]Caixa_Poção_de_Cura[3322] [61 27 0 0 0 0]
+[03] - Trombeta_Mágica[3330] [61 119 0 0 0 0]
+[04] - Ração_de_Fenrir[2436] [61 5 0 0 0 0]
+[05] - Fenrir[2376] [128 55 100 60 10 0]
+[06] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[07] - Chapéu(M)[1342] [43 0 59 0 59 0]
+[08] - Baú_de_Experiência[4140] [61 235 0 0 0 0]
+[09] - Ração_de_Fenrir[2436] [61 5 0 0 0 0]
+[10] - Chapéu(M)[1342] [43 1 60 4 59 0]
+[11] - Luvas(M)[1501] [43 1 72 15 2 24]
+[12] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[13] - Baú_de_Caça[4139] [61 236 0 0 0 0]
+[14] - Frango_Assado[3314] [61 235 0 0 0 0]
+[15] - Calça(A)[1809] [43 0 71 50 59 0]
+[16] - Jóia_da_Absorção[3204] [61 6 0 0 0 0]
+[17] - Jóia_da_Proteção[3205] [61 6 0 0 0 0]
+[18] - Jóia_do_Poder[3206] [61 6 0 0 0 0]
+[19] - Jóia_da_Precisão[3208] [61 6 0 0 0 0]
+[20] - Armadura(A)[1805] [43 0 71 40 60 4]
+[21] - Jaqueta(N)[1554] [43 0 71 30 59 0]
+[22] - Chapéu(N)[1551] [43 0 26 15 59 0]
+[23] - Pedaço_do_Círculo_Divino[447] [59 59 59 122 59 77]
+[24] - Dardo[877] [43 0 2 18 2 9]
+[25] - Poeira_de_Lactolerium[413] [61 25 0 0 0 0]
+[26] - Grifo_Sangrento[2386] [116 97 100 60 10 0]
+[28] - Pesadelo_(N/Grupo)[3324] [61 198 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 21 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 21 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:53:02 : [AeroDynamik] - Personagem AeroDynamik enviado ao mundo 2464x 2010y - Canal 1 - Cash da conta: 15918. PowerLevel: 1697
+17:53:02 : [AeroDynamik] - Gold atual: 497649239. Classe: 3 Evolução: 0. Experiência: 4114860243. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+17:53:02 : [AeroDynamik] - Logou no personagem AeroDynamik com poção divina ativo. Validade: 21/2/2021 9:16:26
+17:53:02 : [AeroDynamik] - Logou no personagem AeroDynamik com frango ativo. Tempo: 1430
+17:53:02 : [AeroDynamik] - Logou no personagem AeroDynamik com baú de experiência ativo. Tempo: 2596
+17:53:02 : [AeroDynamik] - Resetado a contagem de entradas água! Day: 35-38. Total: 0
+17:53:02 : [AeroDynamik] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+17:53:02 : [AeroDynamik] - Enviado informações do personagem
+17:53:04 : [AeroDynamik] - Comando "/day "
+17:53:04 : [AeroDynamik] - [Mensagem do servidor]> !#11 2
+17:53:09 : [AeroDynamik] - Teleportado para a posição 2117 2102
+17:53:16 : [AeroDynamik] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+17:53:22 : [AeroDynamik] - Teleportado para a posição 960 1761
+17:53:56 : [AeroDynamik] - Usado buff Escudo Dourado. Gold consumido: 25500. Gold atual: 497620939
+17:54:10 : [AeroDynamik] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 0. Desconectando o usuário.
+17:54:10 : [AeroDynamik] - 1 Personagem foi desconectado. Permaneceu 00:01:17 minutos online
+18:02:21 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+18:02:21 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 1000000000
+18:02:21 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+18:02:26 : Solicitou ir ao mundo...
+18:02:26 : Recebido pedido para entrar no jogo
+18:02:26 : Recebido informação do personagem completa.
+18:02:26 : [Wozzzzzzzzz] - [INFORMAÇÕES DA CONTA]
+Personagem online: Wozzzzzzzzz
+Gold atual: 300062543
+Level atual: 1010
+Experiência atual: 1720878211
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2095x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1208] [43 9 3 25 26 18]
+[02] - Armadura(A)[1211] [43 9 2 30 71 70]
+[03] - Calça(A)[1214] [43 9 2 30 71 70]
+[04] - Luvas(A)[1217] [43 9 54 18 72 30]
+[05] - Botas(A)[1220] [43 9 73 30 74 18]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Cajado[977] [43 1 60 4 59 0]
+[01] - Âmago_de_Aranha[2390] [61 40 0 0 0 0]
+[02] - Dragão_Vermelho[2380] [10 10 120 30 0 0]
+[03] - Jóia_da_Armazenagem[3207] [61 11 0 0 0 0]
+[04] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[05] - Rinoceronte[2363] [10 10 120 30 0 0]
+[06] - Chapéu(M)[1642] [7 6 26 6 59 0]
+[07] - Chapéu(M)[1642] [43 0 59 0 59 0]
+[08] - Luvas(M)[1501] [43 1 72 10 60 2]
+[09] - Elmo(M)[1492] [43 0 59 0 59 0]
+[10] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[11] - Chapéu(M)[1342] [43 1 59 0 4 30]
+[12] - Pegasus[2382] [10 10 120 30 0 0]
+[13] - Espada[911] [2 45 0 0 0 0]
+[63] - Marca_do_Assassino[547] [81 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:02:26 : [Wozzzzzzzzz] - Personagem Wozzzzzzzzz enviado ao mundo 2095x 2105y - Canal 1 - Cash da conta: 15918. PowerLevel: 1109
+18:02:26 : [Wozzzzzzzzz] - Gold atual: 300062543. Classe: 0 Evolução: 0. Experiência: 1720878211. Nível: 1010. Info: 0. GuildID: 0. CP: 6. Pontos de Contribuição: 0. Limite: 0
+18:02:26 : [Wozzzzzzzzz] - Logou no personagem Wozzzzzzzzz com poção divina ativo. Validade: 21/2/2021 9:16:26
+18:02:26 : [Wozzzzzzzzz] - Logou no personagem Wozzzzzzzzz com baú de experiência ativo. Tempo: 1276
+18:02:26 : [Wozzzzzzzzz] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+18:02:26 : [Wozzzzzzzzz] - Enviado informações do personagem
+18:02:27 : [Wozzzzzzzzz] - Comando "/day "
+18:02:27 : [Wozzzzzzzzz] - [Mensagem do servidor]> !#11 2
+18:02:29 : [Wozzzzzzzzz] - Comando "/gm +server 1"
+18:02:29 : [Wozzzzzzzzz] - [Mensagem do servidor]> Servidor foi fechado
+18:02:37 : [Wozzzzzzzzz] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:02:37 : [Wozzzzzzzzz] - 1 Personagem foi desconectado. Permaneceu 00:00:16 minutos online
+18:06:05 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+18:06:05 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 1000000000
+18:06:05 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+18:06:12 : Solicitou ir ao mundo...
+18:06:12 : Recebido pedido para entrar no jogo
+18:06:12 : Recebido informação do personagem completa.
+18:06:12 : [Wozzzzzzzzz] - [INFORMAÇÕES DA CONTA]
+Personagem online: Wozzzzzzzzz
+Gold atual: 300062543
+Level atual: 1010
+Experiência atual: 1720878211
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2099x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1208] [43 9 3 25 26 18]
+[02] - Armadura(A)[1211] [43 9 2 30 71 70]
+[03] - Calça(A)[1214] [43 9 2 30 71 70]
+[04] - Luvas(A)[1217] [43 9 54 18 72 30]
+[05] - Botas(A)[1220] [43 9 73 30 74 18]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Cajado[977] [43 1 60 4 59 0]
+[01] - Âmago_de_Aranha[2390] [61 40 0 0 0 0]
+[02] - Dragão_Vermelho[2380] [10 10 120 30 0 0]
+[03] - Jóia_da_Armazenagem[3207] [61 11 0 0 0 0]
+[04] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[05] - Rinoceronte[2363] [10 10 120 30 0 0]
+[06] - Chapéu(M)[1642] [7 6 26 6 59 0]
+[07] - Chapéu(M)[1642] [43 0 59 0 59 0]
+[08] - Luvas(M)[1501] [43 1 72 10 60 2]
+[09] - Elmo(M)[1492] [43 0 59 0 59 0]
+[10] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[11] - Chapéu(M)[1342] [43 1 59 0 4 30]
+[12] - Pegasus[2382] [10 10 120 30 0 0]
+[13] - Espada[911] [2 45 0 0 0 0]
+[63] - Marca_do_Assassino[547] [81 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:06:12 : [Wozzzzzzzzz] - Personagem Wozzzzzzzzz enviado ao mundo 2099x 2095y - Canal 1 - Cash da conta: 15918. PowerLevel: 1109
+18:06:12 : [Wozzzzzzzzz] - Gold atual: 300062543. Classe: 0 Evolução: 0. Experiência: 1720878211. Nível: 1010. Info: 0. GuildID: 0. CP: 6. Pontos de Contribuição: 0. Limite: 0
+18:06:12 : [Wozzzzzzzzz] - Logou no personagem Wozzzzzzzzz com poção divina ativo. Validade: 21/2/2021 9:16:26
+18:06:12 : [Wozzzzzzzzz] - Logou no personagem Wozzzzzzzzz com baú de experiência ativo. Tempo: 1274
+18:06:12 : [Wozzzzzzzzz] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+18:06:12 : [Wozzzzzzzzz] - Enviado informações do personagem
+18:06:13 : [Wozzzzzzzzz] - Comando "/day "
+18:06:13 : [Wozzzzzzzzz] - [Mensagem do servidor]> !#11 2
+18:06:25 : [Wozzzzzzzzz] - Teleportado para a posição 2458 2017
+18:06:28 : [Wozzzzzzzzz] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:06:32 : [Wozzzzzzzzz] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2457x 2006y. Posição do NPC: 2455x 2001y
+18:06:33 : [Wozzzzzzzzz] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2457x 2006y. Posição do NPC: 2455x 2001y
+18:06:47 : [Wozzzzzzzzz] - Comando "/gm +move armia"
+18:06:47 : [Wozzzzzzzzz] - Teleportado para a posição 2100 2100
+18:07:11 : [Wozzzzzzzzz] - Clicado no NPC [Kibita]. Face 102. Race: 3. GenerateId: 3288. Posição do usuário: 2136x 2099y. Posição do NPC: 2135x 2105y
+18:07:22 : [Wozzzzzzzzz] - Comando "/srv 2"
+18:07:22 : [Wozzzzzzzzz] - Solicitou trocar para o servidor 2
+18:07:22 : [Wozzzzzzzzz] - 1 Personagem foi desconectado. Permaneceu 00:01:15 minutos online
+18:07:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+18:07:22 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1000000000
+18:07:22 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+18:07:22 : Recebido informação do personagem completa.
+18:07:22 : [Wozzzzzzzzz] - [INFORMAÇÕES DA CONTA]
+Personagem online: Wozzzzzzzzz
+Gold atual: 0
+Level atual: 1010
+Experiência atual: 1720878211
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:00 horas
+Posição atual: 2459x 2007y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Warrior[1] [43 0 1 0 1 1]
+[01] - Elmo(A)[1208] [43 9 3 25 26 18]
+[02] - Armadura(A)[1211] [43 9 2 30 71 70]
+[03] - Calça(A)[1214] [43 9 2 30 71 70]
+[04] - Luvas(A)[1217] [43 9 54 18 72 30]
+[05] - Botas(A)[1220] [43 9 73 30 74 18]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Cajado[977] [43 1 60 4 59 0]
+[01] - Âmago_de_Aranha[2390] [61 40 0 0 0 0]
+[02] - Dragão_Vermelho[2380] [10 10 120 30 0 0]
+[03] - Jóia_da_Armazenagem[3207] [61 11 0 0 0 0]
+[04] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[05] - Rinoceronte[2363] [10 10 120 30 0 0]
+[06] - Chapéu(M)[1642] [7 6 26 6 59 0]
+[07] - Chapéu(M)[1642] [43 0 59 0 59 0]
+[08] - Luvas(M)[1501] [43 1 72 10 60 2]
+[09] - Elmo(M)[1492] [43 0 59 0 59 0]
+[10] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[11] - Chapéu(M)[1342] [43 1 59 0 4 30]
+[12] - Pegasus[2382] [10 10 120 30 0 0]
+[13] - Espada[911] [2 45 0 0 0 0]
+[63] - Marca_do_Assassino[547] [81 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:07:22 : [Wozzzzzzzzz] - Personagem Wozzzzzzzzz enviado ao mundo 2459x 2007y - Canal 2 - Cash da conta: 15918. PowerLevel: 1109
+18:07:22 : [Wozzzzzzzzz] - Gold atual: 0. Classe: 0 Evolução: 0. Experiência: 1720878211. Nível: 1010. Info: 0. GuildID: 0. CP: 6. Pontos de Contribuição: 0. Limite: 0
+18:07:22 : [Wozzzzzzzzz] - Logou no personagem Wozzzzzzzzz com poção divina ativo. Validade: 21/2/2021 9:16:26
+18:07:22 : [Wozzzzzzzzz] - Logou no personagem Wozzzzzzzzz com baú de experiência ativo. Tempo: 1265
+18:07:22 : [Wozzzzzzzzz] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+18:07:23 : [Wozzzzzzzzz] - Comando "/day "
+18:07:23 : [Wozzzzzzzzz] - [Mensagem do servidor]> !#11 2
+18:07:28 : [Wozzzzzzzzz] - Clicado no NPC [Ehre]. Face 68. Race: 2. GenerateId: 3273. Posição do usuário: 2458x 2005y. Posição do NPC: 2455x 2001y
+18:07:30 : [Wozzzzzzzzz] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:07:32 : [Wozzzzzzzzz] - Comando "/gm +move armia"
+18:07:32 : [Wozzzzzzzzz] - Teleportado para a posição 2100 2100
+18:07:52 : [Wozzzzzzzzz] - Clicado no NPC [Aki]. Face 107. Race: 1. GenerateId: 3248. Posição do usuário: 2138x 2089y. Posição do NPC: 2144x 2086y
+18:07:56 : [Wozzzzzzzzz] - Clicado no NPC [Aki]. Face 107. Race: 1. GenerateId: 3248. Posição do usuário: 2142x 2088y. Posição do NPC: 2144x 2086y
+18:07:59 : [Wozzzzzzzzz] - Clicado no NPC [Aki]. Face 107. Race: 1. GenerateId: 3248. Posição do usuário: 2142x 2088y. Posição do NPC: 2145x 2085y
+18:08:02 : [Wozzzzzzzzz] - Clicado no NPC [Guarda Carga]. Face 106. Race: 2. GenerateId: 3250. Posição do usuário: 2141x 2084y. Posição do NPC: 2144x 2077y
+18:08:08 : [Wozzzzzzzzz] - Moveu item Rinoceronte [2363] [10 10 120 30 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 14
+18:08:37 : [Wozzzzzzzzz] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:08:37 : [Wozzzzzzzzz] - 1 Personagem foi desconectado. Permaneceu 00:01:14 minutos online
+18:09:28 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+18:09:28 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1000000000
+18:09:28 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+18:09:34 : Solicitou ir ao mundo...
+18:09:34 : Recebido pedido para entrar no jogo
+18:09:34 : Recebido informação do personagem completa.
+18:09:34 : [AeroDynamik] - [INFORMAÇÕES DA CONTA]
+Personagem online: AeroDynamik
+Gold atual: 0
+Level atual: 399
+Experiência atual: 4114860243
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:06 horas
+Posição atual: 2096x 2095y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1643] [43 237 3 25 26 18]
+[02] - Peitoral(A)[1646] [43 237 2 30 71 70]
+[03] - Calça(A)[1649] [43 237 2 30 71 70]
+[04] - Braçadeira(A)[1652] [43 237 54 18 72 30]
+[05] - Botas(A)[1655] [43 237 73 30 74 18]
+[06] - Arco[825] [2 45 43 1 0 0]
+[08] - Brinco_de_Titã[592] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[12] - Conjunto_Esqueleto[4153] [96 21 2 21 0 32]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(3dias)[3902] [106 2 107 22 108 59]
+[02] - [S]Caixa_Poção_de_Cura[3322] [61 26 0 0 0 0]
+[03] - Trombeta_Mágica[3330] [61 119 0 0 0 0]
+[04] - Ração_de_Fenrir[2436] [61 5 0 0 0 0]
+[05] - Fenrir[2376] [128 55 100 60 10 0]
+[06] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[07] - Chapéu(M)[1342] [43 0 59 0 59 0]
+[08] - Baú_de_Experiência[4140] [61 235 0 0 0 0]
+[09] - Ração_de_Fenrir[2436] [61 5 0 0 0 0]
+[10] - Chapéu(M)[1342] [43 1 60 4 59 0]
+[11] - Luvas(M)[1501] [43 1 72 15 2 24]
+[12] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[13] - Baú_de_Caça[4139] [61 236 0 0 0 0]
+[14] - Frango_Assado[3314] [61 235 0 0 0 0]
+[15] - Calça(A)[1809] [43 0 71 50 59 0]
+[16] - Jóia_da_Absorção[3204] [61 6 0 0 0 0]
+[17] - Jóia_da_Proteção[3205] [61 6 0 0 0 0]
+[18] - Jóia_do_Poder[3206] [61 6 0 0 0 0]
+[19] - Jóia_da_Precisão[3208] [61 6 0 0 0 0]
+[20] - Armadura(A)[1805] [43 0 71 40 60 4]
+[21] - Jaqueta(N)[1554] [43 0 71 30 59 0]
+[22] - Chapéu(N)[1551] [43 0 26 15 59 0]
+[23] - Pedaço_do_Círculo_Divino[447] [59 59 59 122 59 77]
+[24] - Dardo[877] [43 0 2 18 2 9]
+[25] - Poeira_de_Lactolerium[413] [61 25 0 0 0 0]
+[26] - Grifo_Sangrento[2386] [116 97 100 60 10 0]
+[28] - Pesadelo_(N/Grupo)[3324] [61 198 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 21 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 21 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:09:34 : [AeroDynamik] - Personagem AeroDynamik enviado ao mundo 2096x 2095y - Canal 2 - Cash da conta: 15918. PowerLevel: 1697
+18:09:34 : [AeroDynamik] - Gold atual: 0. Classe: 3 Evolução: 0. Experiência: 4114860243. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+18:09:34 : [AeroDynamik] - Logou no personagem AeroDynamik com poção divina ativo. Validade: 21/2/2021 9:16:26
+18:09:34 : [AeroDynamik] - Logou no personagem AeroDynamik com frango ativo. Tempo: 1422
+18:09:34 : [AeroDynamik] - Logou no personagem AeroDynamik com baú de experiência ativo. Tempo: 2588
+18:09:34 : [AeroDynamik] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+18:09:34 : [AeroDynamik] - Enviado informações do personagem
+18:09:36 : [AeroDynamik] - Comando "/day "
+18:09:36 : [AeroDynamik] - [Mensagem do servidor]> !#11 2
+18:09:42 : [AeroDynamik] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:09:46 : [AeroDynamik] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:09:46 : [AeroDynamik] - 1 Personagem foi desconectado. Permaneceu 00:00:18 minutos online
+18:12:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN5) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 1
+18:12:16 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1000000000
+18:12:16 : [INFORMAÇÕES DO BANCO]
+Gold: 1000000000
+[  0] - Arco_Guardião[3556] [43 9 2 36 0 0]
+[ 80] - Andaluz_N[2370] [10 10 100 60 10 0]
+[ 85] - Aranha[2360] [245 26 39 20 0 0]
+[ 90] - Ração_de_Aranha[2420] [61 120 0 0 0 0]
+[ 95] - Resto_de_Oriharucon[419] [61 10 0 0 0 0]
+[100] - Resto_de_Lactolerium[420] [59 46 59 14 59 61]
+[105] - Poeira_de_Lactolerium[413] [61 214 0 0 0 0]
+[200] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+[201] - Caixa_do_Andarilho[3479] [106 21 110 2 109 121]
+
+18:12:21 : Solicitou ir ao mundo...
+18:12:21 : Recebido pedido para entrar no jogo
+18:12:21 : Recebido informação do personagem completa.
+18:12:21 : [AeroDynamik] - [INFORMAÇÕES DA CONTA]
+Personagem online: AeroDynamik
+Gold atual: 0
+Level atual: 399
+Experiência atual: 4114860243
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:00:05 horas
+Posição atual: 2091x 2104y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Rogue[31] [43 0 31 0 1 1]
+[01] - Chapéu(A)[1643] [43 237 3 25 26 18]
+[02] - Peitoral(A)[1646] [43 237 2 30 71 70]
+[03] - Calça(A)[1649] [43 237 2 30 71 70]
+[04] - Braçadeira(A)[1652] [43 237 54 18 72 30]
+[05] - Botas(A)[1655] [43 237 73 30 74 18]
+[06] - Arco[825] [2 45 43 1 0 0]
+[08] - Brinco_de_Titã[592] [43 9 0 0 0 0]
+[09] - Amuleto_de_Prata[551] [43 9 2 99 0 0]
+[10] - Pedra_Espiritual[633] [43 9 0 0 0 0]
+[11] - Ankh_da_Glória[663] [43 9 0 0 0 0]
+[12] - Conjunto_Esqueleto[4153] [96 21 2 21 0 32]
+[15] - Manto_do_Guerreiro[543] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Fada_Vermelha(3dias)[3902] [106 2 107 22 108 59]
+[02] - [S]Caixa_Poção_de_Cura[3322] [61 26 0 0 0 0]
+[03] - Trombeta_Mágica[3330] [61 119 0 0 0 0]
+[04] - Ração_de_Fenrir[2436] [61 5 0 0 0 0]
+[05] - Fenrir[2376] [128 55 100 60 10 0]
+[06] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[07] - Chapéu(M)[1342] [43 0 59 0 59 0]
+[08] - Baú_de_Experiência[4140] [61 235 0 0 0 0]
+[09] - Ração_de_Fenrir[2436] [61 5 0 0 0 0]
+[10] - Chapéu(M)[1342] [43 1 60 4 59 0]
+[11] - Luvas(M)[1501] [43 1 72 15 2 24]
+[12] - Pedido_de_Caça(Kult)[3435] [61 9 0 0 0 0]
+[13] - Baú_de_Caça[4139] [61 236 0 0 0 0]
+[14] - Frango_Assado[3314] [61 235 0 0 0 0]
+[15] - Calça(A)[1809] [43 0 71 50 59 0]
+[16] - Jóia_da_Absorção[3204] [61 6 0 0 0 0]
+[17] - Jóia_da_Proteção[3205] [61 6 0 0 0 0]
+[18] - Jóia_do_Poder[3206] [61 6 0 0 0 0]
+[19] - Jóia_da_Precisão[3208] [61 6 0 0 0 0]
+[20] - Armadura(A)[1805] [43 0 71 40 60 4]
+[21] - Jaqueta(N)[1554] [43 0 71 30 59 0]
+[22] - Chapéu(N)[1551] [43 0 26 15 59 0]
+[23] - Pedaço_do_Círculo_Divino[447] [59 59 59 122 59 77]
+[24] - Dardo[877] [43 0 2 18 2 9]
+[25] - Poeira_de_Lactolerium[413] [61 25 0 0 0 0]
+[26] - Grifo_Sangrento[2386] [116 97 100 60 10 0]
+[28] - Pesadelo_(N/Grupo)[3324] [61 198 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 21 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 21 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:12:21 : [AeroDynamik] - Personagem AeroDynamik enviado ao mundo 2091x 2104y - Canal 2 - Cash da conta: 15918. PowerLevel: 1697
+18:12:21 : [AeroDynamik] - Gold atual: 0. Classe: 3 Evolução: 0. Experiência: 4114860243. Nível: 399. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+18:12:21 : [AeroDynamik] - Logou no personagem AeroDynamik com poção divina ativo. Validade: 21/2/2021 9:16:26
+18:12:21 : [AeroDynamik] - Logou no personagem AeroDynamik com frango ativo. Tempo: 1421
+18:12:21 : [AeroDynamik] - Logou no personagem AeroDynamik com baú de experiência ativo. Tempo: 2587
+18:12:21 : [AeroDynamik] - [Mensagem do servidor]> A guild [Teste123] derrotou Kefra
+18:12:21 : [AeroDynamik] - Enviado informações do personagem
+18:12:22 : [AeroDynamik] - Comando "/day "
+18:12:22 : [AeroDynamik] - [Mensagem do servidor]> !#11 2
+18:12:30 : [AeroDynamik] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+18:12:32 : [AeroDynamik] - [Mensagem do servidor]> Não possui GOLD suficiente
+18:12:39 : [AeroDynamik] - Comando "/gm +coin 10000"
+18:12:44 : [AeroDynamik] - Comando "/gm +item 4011 61 120"
+18:12:44 : [AeroDynamik] - [Mensagem do servidor]> Criou o item Barra_de_Prata_(1Bi)
+18:12:44 : [AeroDynamik] - AeroDynamik criou o item Barra_de_Prata_(1Bi) [4011] [61 120 0 0 0 0]
+18:12:54 : [AeroDynamik] - Comando "/gm +item 4029 61 120"
+18:12:54 : [AeroDynamik] - [Mensagem do servidor]> Criou o item Moeda_de_Bronze(50Mi)
+18:12:54 : [AeroDynamik] - AeroDynamik criou o item Moeda_de_Bronze(50Mi) [4029] [61 120 0 0 0 0]
+18:12:57 : [AeroDynamik] - Item Moeda_de_Bronze(50Mi) [4029] [61 120 0 0 0 0] utilizado em 2116x 2102y
+18:12:57 : [AeroDynamik] - Gold atual: 0.
+18:12:58 : [AeroDynamik] - Item Moeda_de_Bronze(50Mi) [4029] [61 119 0 0 0 0] utilizado em 2116x 2102y
+18:12:58 : [AeroDynamik] - Gold atual: 50000000.
+18:12:59 : [AeroDynamik] - Item Moeda_de_Bronze(50Mi) [4029] [61 118 0 0 0 0] utilizado em 2116x 2102y
+18:12:59 : [AeroDynamik] - Gold atual: 100000000.
+18:12:59 : [AeroDynamik] - Item Moeda_de_Bronze(50Mi) [4029] [61 117 0 0 0 0] utilizado em 2116x 2102y
+18:12:59 : [AeroDynamik] - Gold atual: 150000000.
+18:13:00 : [AeroDynamik] - Item Moeda_de_Bronze(50Mi) [4029] [61 116 0 0 0 0] utilizado em 2116x 2102y
+18:13:00 : [AeroDynamik] - Gold atual: 200000000.
+18:13:01 : [AeroDynamik] - Item Moeda_de_Bronze(50Mi) [4029] [61 115 0 0 0 0] utilizado em 2116x 2102y
+18:13:01 : [AeroDynamik] - Gold atual: 250000000.
+18:13:01 : [AeroDynamik] - Item Moeda_de_Bronze(50Mi) [4029] [61 114 0 0 0 0] utilizado em 2116x 2102y
+18:13:01 : [AeroDynamik] - Gold atual: 300000000.
+18:13:02 : [AeroDynamik] - Item Moeda_de_Bronze(50Mi) [4029] [61 113 0 0 0 0] utilizado em 2116x 2102y
+18:13:02 : [AeroDynamik] - Gold atual: 350000000.
+18:13:02 : [AeroDynamik] - Item Moeda_de_Bronze(50Mi) [4029] [61 112 0 0 0 0] utilizado em 2116x 2102y
+18:13:02 : [AeroDynamik] - Gold atual: 400000000.
+18:13:03 : [AeroDynamik] - Item Moeda_de_Bronze(50Mi) [4029] [61 111 0 0 0 0] utilizado em 2116x 2102y
+18:13:03 : [AeroDynamik] - Gold atual: 450000000.
+18:13:06 : [AeroDynamik] - Teleportado para a posição 960 1761
+18:14:21 : [AeroDynamik] - ADMIN5 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:14:22 : [AeroDynamik] - 1 Personagem foi desconectado. Permaneceu 00:02:04 minutos online

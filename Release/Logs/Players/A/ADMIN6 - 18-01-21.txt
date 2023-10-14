@@ -1,0 +1,2405 @@
+
+13:34:31 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.183.185 Mac: (0D:02:2C:B1:FF:4E). ClientId: 4
+13:34:31 : Usuário logou no jogo com clientId 4. - Servidor 2. Gold do banco: 1829750000
+13:34:31 : [INFORMAÇÕES DO BANCO]
+Gold: 1829750000
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1297] [43 3 60 6 53 3]
+[  2] - Botas(M)[1309] [43 3 60 6 74 12]
+[  3] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[  4] - Calça(M)[1285] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1321] [43 3 60 6 53 3]
+[  7] - Botas(M)[1324] [43 3 60 6 74 12]
+[  9] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 10] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 11] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 13] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 15] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 16] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 17] - Cajado[899] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 20] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 22] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 23] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 24] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 25] - [4646] [0 0 0 0 0 0]
+[ 26] - Armadura[1506] [43 6 0 0 0 0]
+[ 27] - Calça[1507] [43 6 0 0 0 0]
+[ 28] - Luvas[1508] [43 6 0 0 0 0]
+[ 29] - Botas[1509] [43 6 0 0 0 0]
+[ 30] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 31] - Luvas(M)[1297] [43 3 60 6 53 3]
+[ 32] - Botas(M)[1309] [43 3 60 6 74 12]
+[ 33] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[ 34] - Calça(M)[1285] [43 3 60 6 3 20]
+[ 35] - Robe(M)[1273] [43 3 60 6 3 20]
+[ 36] - Luvas(M)[1321] [43 3 60 6 53 3]
+[ 37] - Botas(M)[1324] [43 3 60 6 74 12]
+[ 38] - Chapéu(M)[1312] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 40] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 41] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 42] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 43] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 44] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 45] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 46] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 47] - Cajado[899] [43 6 60 16 0 0]
+[ 48] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 49] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 50] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 51] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 52] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 53] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 54] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 55] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 56] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 57] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 58] - Botas(M)[1159] [43 3 73 18 74 12]
+[ 59] - Elmo(M)[1111] [43 3 4 20 0 0]
+[ 60] - Calça(M)[1135] [43 3 2 20 3 20]
+[ 61] - Armadura(M)[1123] [43 3 2 20 3 20]
+[ 62] - Luvas(M)[1186] [43 3 2 20 53 3]
+[ 63] - Botas(M)[1189] [43 3 73 18 74 12]
+[ 64] - Elmo(M)[1177] [43 3 4 20 0 0]
+[ 65] - Calça(M)[1183] [43 3 2 20 3 20]
+[ 66] - Armadura(M)[1180] [43 3 2 20 3 20]
+[ 67] - Manopla(M)[1201] [43 3 2 20 53 3]
+
+13:34:32 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:34:45 : Solicitou ir ao mundo...
+13:34:45 : Recebido pedido para entrar no jogo
+13:34:45 : Recebido informação do personagem completa.
+13:34:45 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 570733234
+Level atual: 0
+Experiência atual: 8059408
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:14 horas
+Posição atual: 2096x 2102y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 252 0 0 0 0]
+[04] - Luvass[1358] [43 252 0 0 0 0]
+[05] - Botass[1359] [43 252 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[14] - Pegasus[2382] [120 120 120 120 0 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Calça[1357] [43 250 2 42 71 90]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 8 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [10 10 17 10 0 0]
+[10] - Poeira_de_Lactolerium[413] [0 0 0 0 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Saia(A)[1280] [43 3 0 0 0 0]
+[16] - Elmo(A)[1802] [43 3 0 0 0 0]
+[17] - Elmo(A)[1956] [43 3 0 0 0 0]
+[18] - Peitoral(A)[2047] [43 3 0 0 0 0]
+[19] - Armadura(A)[1466] [43 3 3 10 0 0]
+[20] - Botas(M)[2159] [43 3 0 0 0 0]
+[21] - Robe(M)[2164] [43 3 0 0 0 0]
+[22] - Armadura(N)[1434] [43 3 0 0 0 0]
+[23] - Chapéu(M)[1582] [43 2 0 0 0 0]
+[24] - Skytalos(Anct)[2551] [171 10 0 0 0 0]
+[25] - Armadura(A)[1862] [43 3 0 0 0 0]
+[26] - Elmo(A)[1881] [43 3 0 0 0 0]
+[27] - Armadura(A)[1972] [43 3 0 0 0 0]
+[28] - Botas(A)[1625] [43 3 0 0 0 0]
+[29] - Botas(M)[1309] [43 1 73 18 59 0]
+[30] - Botas(A)[1355] [0 0 0 0 0 0]
+[31] - Cérberus[2378] [120 120 120 120 0 0]
+[32] - Chapéu(M)[1342] [43 0 60 10 59 0]
+[33] - Arco[826] [0 0 0 0 0 0]
+[34] - Chapéu(M)[1642] [43 0 59 0 59 0]
+[35] - [2939] [0 0 0 0 0 0]
+[36] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[37] - Gema_da_Siren[658] [0 0 0 0 0 0]
+[38] - Chapéu(M)[1642] [9 13 26 15 59 0]
+[39] - Alma_do_Anubis[4529] [61 120 0 0 0 0]
+[40] - Escudo[1712] [0 0 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:34:45 : [Sharii] - Personagem Sharii enviado ao mundo 2096x 2102y - Canal 2 - Cash da conta: 0. OverPower: 2445
+13:34:45 : [Sharii] - Gold atual: 570733234. Classe: 1 Evolução: 3. Experiência: 8059408. Nível: 0. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:34:45 : [Sharii] - Resetado a contagem de entradas água! Day: 16-17. Total: 0
+13:34:45 : [Sharii] - Evolução logada: 3
+13:34:45 : [Sharii] - Dados da capa um: [3199] [43 230 47 10 0 0]
+13:34:45 : [Sharii] - Dados da capa dois: [0] [0 0 0 0 0 0]
+13:34:45 : [Sharii] - Não foi efetuado a troca pois a refinação atual é maior
+13:34:45 : [Sharii] - Enviado informações do personagem
+13:34:47 : [Sharii] - Comando "/day "
+13:34:47 : [Sharii] - [Mensagem do servidor]> !#11 2
+13:34:56 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:35:24 : [Sharii] - Item Alma_do_Anubis deletado [4529] [61 120 0 0 0 0]. Slot 39
+13:35:25 : [Sharii] - Item Chapéu(M) deletado [1642] [9 13 26 15 59 0]. Slot 38
+13:35:25 : [Sharii] - Item Gema_da_Siren deletado [658] [0 0 0 0 0 0]. Slot 37
+13:35:26 : [Sharii] - Item Chapéu(M) deletado [1642] [43 0 59 0 59 0]. Slot 34
+13:35:27 : [Sharii] - Item Arco deletado [826] [0 0 0 0 0 0]. Slot 33
+13:35:27 : [Sharii] - Item Gema_da_Siren deletado [658] [0 0 0 0 0 0]. Slot 36
+13:35:28 : [Sharii] - Item Chapéu(M) deletado [1342] [43 0 60 10 59 0]. Slot 32
+13:35:29 : [Sharii] - Item Escudo deletado [1712] [0 0 0 0 0 0]. Slot 40
+13:35:29 : [Sharii] - Item  deletado [2939] [0 0 0 0 0 0]. Slot 35
+13:35:30 : [Sharii] - Item Botas(A) deletado [1355] [0 0 0 0 0 0]. Slot 30
+13:35:33 : [Sharii] - Item Botas(M) deletado [1309] [43 1 73 18 59 0]. Slot 29
+13:35:33 : [Sharii] - Item Botas(A) deletado [1625] [43 3 0 0 0 0]. Slot 28
+13:35:34 : [Sharii] - Item Skytalos(Anct) deletado [2551] [171 10 0 0 0 0]. Slot 24
+13:35:35 : [Sharii] - Item Chapéu(M) deletado [1582] [43 2 0 0 0 0]. Slot 23
+13:35:35 : [Sharii] - Item Armadura(A) deletado [1466] [43 3 3 10 0 0]. Slot 19
+13:35:36 : [Sharii] - Item Peitoral(A) deletado [2047] [43 3 0 0 0 0]. Slot 18
+13:35:36 : [Sharii] - Item Armadura(A) deletado [1972] [43 3 0 0 0 0]. Slot 27
+13:35:37 : [Sharii] - Item Armadura(N) deletado [1434] [43 3 0 0 0 0]. Slot 22
+13:35:38 : [Sharii] - Item Elmo(A) deletado [1956] [43 3 0 0 0 0]. Slot 17
+13:35:40 : [Sharii] - Item Elmo(A) deletado [1881] [43 3 0 0 0 0]. Slot 26
+13:35:40 : [Sharii] - Item Robe(M) deletado [2164] [43 3 0 0 0 0]. Slot 21
+13:35:42 : [Sharii] - Item Elmo(A) deletado [1802] [43 3 0 0 0 0]. Slot 16
+13:35:43 : [Sharii] - Item Armadura(A) deletado [1862] [43 3 0 0 0 0]. Slot 25
+13:35:44 : [Sharii] - Item Botas(M) deletado [2159] [43 3 0 0 0 0]. Slot 20
+13:35:45 : [Sharii] - Item Saia(A) deletado [1280] [43 3 0 0 0 0]. Slot 15
+13:35:51 : [Sharii] - Item Cérberus deletado [2378] [120 120 120 120 0 0]. Slot 31
+13:35:55 : [Sharii] - Item Poeira_de_Lactolerium deletado [413] [0 0 0 0 0 0]. Slot 10
+13:35:57 : [Sharii] - Moveu item Pegasus [2382] [120 120 120 120 0 0] do tipo EQUIPAMENTO do slot 14 para tipo INVENTÁRIO slot 10
+13:36:11 : [Sharii] - Comando "/gm +ferreiro"
+13:36:40 : [Sharii] - Comprou o item Martelo [938] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 11500. Imposto: 1500. Gold: 570733234 anterior. Gold após a compra: 570721734
+13:36:41 : [Sharii] - Comprou o item Skeleton_Dagger [939] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 11500. Imposto: 1500. Gold: 570721734 anterior. Gold após a compra: 570710234
+13:36:42 : [Sharii] - Comprou o item Skeleton_Staff [940] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 11500. Imposto: 1500. Gold: 570710234 anterior. Gold após a compra: 570698734
+13:36:42 : [Sharii] - Comprou o item Skeleton_Hammer [941] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 11500. Imposto: 1500. Gold: 570698734 anterior. Gold após a compra: 570687234
+13:36:43 : [Sharii] - Comprou o item Skeleton_Dart [942] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 11500. Imposto: 1500. Gold: 570687234 anterior. Gold após a compra: 570675734
+13:36:44 : [Sharii] - Comprou o item Skeleton_Bow [943] [43 9 0 0 0 0] na loja de Ajudante. Preço total: 11500. Imposto: 1500. Gold: 570675734 anterior. Gold após a compra: 570664234
+13:37:02 : [Sharii] - Comando "/gm +ferreiro"
+13:37:40 : [Sharii] - Comando "/gm +item 943 43 8"
+13:37:40 : [Sharii] - [Mensagem do servidor]> Criou o item Skeleton_Bow
+13:37:40 : [Sharii] - Sharii criou o item Skeleton_Bow [943] [43 8 0 0 0 0]
+13:37:44 : [Sharii] - Comando "/gm +ferreiro"
+13:38:14 : [Sharii] - Item Skeleton_Bow deletado [943] [43 9 0 0 0 0]. Slot 26
+13:38:16 : [Sharii] - Item Skeleton_Staff deletado [940] [43 9 0 0 0 0]. Slot 25
+13:38:17 : [Sharii] - Item Skeleton_Dart deletado [942] [43 9 0 0 0 0]. Slot 21
+13:38:19 : [Sharii] - Item Skeleton_Dagger deletado [939] [43 9 0 0 0 0]. Slot 20
+13:38:20 : [Sharii] - Item Skeleton_Bow deletado [943] [43 8 0 0 0 0]. Slot 17
+13:38:21 : [Sharii] - Item Skeleton_Hammer deletado [941] [43 9 0 0 0 0]. Slot 16
+13:38:22 : [Sharii] - Item Martelo deletado [938] [43 9 0 0 0 0]. Slot 15
+13:38:25 : [Sharii] - Comando "/gm +ferreiro"
+13:39:20 : [Sharii] - Comando "/gm +item 861 43 8"
+13:39:20 : [Sharii] - [Mensagem do servidor]> Criou o item Adaga
+13:39:20 : [Sharii] - Sharii criou o item Adaga [861] [43 8 0 0 0 0]
+13:39:25 : [Sharii] - Comando "/gm +ferreiro"
+13:39:56 : [Sharii] - Comando "/gm +item 862 43 8"
+13:39:56 : [Sharii] - [Mensagem do servidor]> Criou o item Adaga
+13:39:56 : [Sharii] - Sharii criou o item Adaga [862] [43 8 0 0 0 0]
+13:40:00 : [Sharii] - Comando "/gm +ferreiro"
+13:40:09 : [Sharii] - Item Adaga deletado [862] [43 8 0 0 0 0]. Slot 16
+13:40:10 : [Sharii] - Item Adaga deletado [861] [43 8 0 0 0 0]. Slot 15
+13:40:21 : [Sharii] - Comando "/gm +ferreiro"
+13:40:54 : [Sharii] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2114y
+13:40:54 : [Sharii] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+13:40:55 : [Sharii] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2114y
+13:40:55 : [Sharii] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+13:40:55 : [Sharii] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2114y
+13:40:55 : [Sharii] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+13:40:55 : [Sharii] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2114y
+13:40:55 : [Sharii] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+13:40:55 : [Sharii] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2114y
+13:40:55 : [Sharii] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+13:40:56 : [Sharii] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2114y
+13:40:56 : [Sharii] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+13:40:56 : [Sharii] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2114y
+13:40:56 : [Sharii] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+13:40:56 : [Sharii] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2114y
+13:40:56 : [Sharii] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+13:40:56 : [Sharii] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2114y
+13:40:56 : [Sharii] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+13:40:57 : [Sharii] - Item Barra_de_Vibrant_Coins [3396] [96 55 96 39 0 0] utilizado em 2116x 2114y
+13:40:57 : [Sharii] - [Mensagem do servidor]> 10039 VC foram adicionados à conta
+13:43:32 : [Sharii] - [Mensagem do servidor]> Não há unidades disponíveis
+13:43:38 : [Sharii] - Comando "/gm +item 413 61 240"
+13:43:38 : [Sharii] - [Mensagem do servidor]> Criou o item Poeira_de_Lactolerium
+13:43:38 : [Sharii] - Sharii criou o item Poeira_de_Lactolerium [413] [61 240 0 0 0 0]
+13:43:40 : [Sharii] - [Mensagem do servidor]> Não há unidades disponíveis
+13:43:45 : [Sharii] - [Mensagem do servidor]> Não há unidades disponíveis
+13:43:49 : [Sharii] - Desagrupando o item [413] [61 239 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 16
+13:43:54 : [Sharii] - [Mensagem do servidor]> Não há unidades disponíveis
+13:43:57 : [Sharii] - [Mensagem do servidor]> Não possui recursos para essa compra
+13:44:03 : [Sharii] - [Mensagem do servidor]> Não há unidades disponíveis
+13:45:08 : [Sharii] - ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+13:45:08 : [Sharii] - 4 Personagem foi desconectado. Permaneceu 00:10:31 minutos online
+13:45:22 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.183.185 Mac: (0D:02:2C:B1:FF:4E). ClientId: 4
+13:45:22 : Usuário logou no jogo com clientId 4. - Servidor 2. Gold do banco: 1829750000
+13:45:22 : [INFORMAÇÕES DO BANCO]
+Gold: 1829750000
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1297] [43 3 60 6 53 3]
+[  2] - Botas(M)[1309] [43 3 60 6 74 12]
+[  3] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[  4] - Calça(M)[1285] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1321] [43 3 60 6 53 3]
+[  7] - Botas(M)[1324] [43 3 60 6 74 12]
+[  9] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 10] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 11] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 13] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 15] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 16] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 17] - Cajado[899] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 20] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 22] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 23] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 24] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 25] - [4646] [0 0 0 0 0 0]
+[ 26] - Armadura[1506] [43 6 0 0 0 0]
+[ 27] - Calça[1507] [43 6 0 0 0 0]
+[ 28] - Luvas[1508] [43 6 0 0 0 0]
+[ 29] - Botas[1509] [43 6 0 0 0 0]
+[ 30] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 31] - Luvas(M)[1297] [43 3 60 6 53 3]
+[ 32] - Botas(M)[1309] [43 3 60 6 74 12]
+[ 33] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[ 34] - Calça(M)[1285] [43 3 60 6 3 20]
+[ 35] - Robe(M)[1273] [43 3 60 6 3 20]
+[ 36] - Luvas(M)[1321] [43 3 60 6 53 3]
+[ 37] - Botas(M)[1324] [43 3 60 6 74 12]
+[ 38] - Chapéu(M)[1312] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 40] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 41] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 42] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 43] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 44] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 45] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 46] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 47] - Cajado[899] [43 6 60 16 0 0]
+[ 48] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 49] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 50] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 51] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 52] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 53] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 54] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 55] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 56] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 57] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 58] - Botas(M)[1159] [43 3 73 18 74 12]
+[ 59] - Elmo(M)[1111] [43 3 4 20 0 0]
+[ 60] - Calça(M)[1135] [43 3 2 20 3 20]
+[ 61] - Armadura(M)[1123] [43 3 2 20 3 20]
+[ 62] - Luvas(M)[1186] [43 3 2 20 53 3]
+[ 63] - Botas(M)[1189] [43 3 73 18 74 12]
+[ 64] - Elmo(M)[1177] [43 3 4 20 0 0]
+[ 65] - Calça(M)[1183] [43 3 2 20 3 20]
+[ 66] - Armadura(M)[1180] [43 3 2 20 3 20]
+[ 67] - Manopla(M)[1201] [43 3 2 20 53 3]
+
+13:45:34 : Solicitou ir ao mundo...
+13:45:34 : Recebido pedido para entrar no jogo
+13:45:34 : Recebido informação do personagem completa.
+13:45:34 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 570664134
+Level atual: 0
+Experiência atual: 8059408
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:12 horas
+Posição atual: 2090x 2097y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 252 0 0 0 0]
+[04] - Luvass[1358] [43 252 0 0 0 0]
+[05] - Botass[1359] [43 252 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Calça[1357] [43 250 2 42 71 90]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 7 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [10 10 17 10 0 0]
+[10] - Pegasus[2382] [120 120 120 120 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[17] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+13:45:34 : [Sharii] - Personagem Sharii enviado ao mundo 2090x 2097y - Canal 2 - Cash da conta: 100390. OverPower: 2105
+13:45:34 : [Sharii] - Gold atual: 570664134. Classe: 1 Evolução: 3. Experiência: 8059408. Nível: 0. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+13:45:34 : [Sharii] - Evolução logada: 3
+13:45:34 : [Sharii] - Dados da capa um: [3199] [43 230 47 10 0 0]
+13:45:34 : [Sharii] - Dados da capa dois: [0] [0 0 0 0 0 0]
+13:45:34 : [Sharii] - Não foi efetuado a troca pois a refinação atual é maior
+13:45:34 : [Sharii] - Enviado informações do personagem
+13:45:37 : [Sharii] - Comando "/day "
+13:45:37 : [Sharii] - [Mensagem do servidor]> !#11 2
+13:45:44 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+13:45:52 : [Sharii] - [Mensagem do servidor]> Não há unidades disponíveis
+13:45:54 : [Sharii] - [Mensagem do servidor]> Não há unidades disponíveis
+13:46:29 : [Sharii] - Comando "/gm +ferreiro"
+13:54:28 : [Sharii] - [Mensagem do servidor]> Não há unidades disponíveis
+13:54:40 : [Sharii] - Comando "/gm +item 412 61 240"
+13:54:40 : [Sharii] - [Mensagem do servidor]> Criou o item Poeira_de_Oriharucon
+13:54:40 : [Sharii] - Sharii criou o item Poeira_de_Oriharucon [412] [61 240 0 0 0 0]
+13:54:43 : [Sharii] - Desagrupando o item [412] [61 239 0 0 0 0]. Tirando 1 unidades. Novo item colocado no slot 19
+13:55:03 : [Sharii] - Comando "/gm +joalheiro"
+13:55:33 : [Sharii] - Comando "/gm +joalheiro"
+13:56:09 : [Sharii] - Comando "/gm +joalheiro"
+13:56:53 : [Sharii] - Comando "/gm +joalheiro"
+13:59:52 : [Sharii] - Clicado no NPC [Troca1]. Face 60. Race: 8. GenerateId: 4786. Posição do usuário: 2109x 2106y. Posição do NPC: 2110x 2110y
+14:05:56 : [Sharii] - [Mensagem do servidor]> Não há unidades disponíveis
+14:06:02 : [Sharii] - [Mensagem do servidor]> Não há unidades disponíveis
+14:15:35 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 570664134
+Level atual: 0
+Experiência atual: 8059408
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:29:55 horas
+Posição atual: 2090x 2106y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 252 0 0 0 0]
+[04] - Luvass[1358] [43 252 0 0 0 0]
+[05] - Botass[1359] [43 252 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Calça[1357] [43 250 2 42 71 90]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [10 10 17 10 0 0]
+[10] - Pegasus[2382] [120 120 120 120 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[17] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 237 0 0 0 0]
+[19] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[20] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[21] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[22] - Essência_Comum[4503] [61 120 0 0 0 0]
+[23] - Osso_de_Tauron[4509] [61 120 0 0 0 0]
+[24] - Essência_Lendária[4506] [61 120 0 0 0 0]
+[25] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[26] - Essência_Rara[4505] [61 120 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+14:23:15 : [Sharii] - [Mensagem do servidor]> Não há unidades disponíveis
+14:45:36 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 570664134
+Level atual: 0
+Experiência atual: 8059408
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:59:38 horas
+Posição atual: 2086x 2107y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 252 0 0 0 0]
+[04] - Luvass[1358] [43 252 0 0 0 0]
+[05] - Botass[1359] [43 252 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Calça[1357] [43 250 2 42 71 90]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [10 10 17 10 0 0]
+[10] - Pegasus[2382] [120 120 120 120 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[17] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 237 0 0 0 0]
+[19] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[20] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[21] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[22] - Essência_Comum[4503] [61 120 0 0 0 0]
+[23] - Osso_de_Tauron[4509] [61 120 0 0 0 0]
+[24] - Essência_Lendária[4506] [61 120 0 0 0 0]
+[25] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[26] - Essência_Rara[4505] [61 120 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:00:00 : [Sharii] - [Mensagem do servidor]: !Coliseu Normal será iniciado em 3 minutos. Disponível apenas para mortais.
+15:00:00 : [Sharii] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+15:08:03 : [Sharii] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+15:15:37 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 570664134
+Level atual: 0
+Experiência atual: 8059408
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 01:29:15 horas
+Posição atual: 2086x 2107y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 252 0 0 0 0]
+[04] - Luvass[1358] [43 252 0 0 0 0]
+[05] - Botass[1359] [43 252 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Calça[1357] [43 250 2 42 71 90]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [10 10 17 10 0 0]
+[10] - Pegasus[2382] [120 120 120 120 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[17] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 237 0 0 0 0]
+[19] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[20] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[21] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[22] - Essência_Comum[4503] [61 120 0 0 0 0]
+[23] - Osso_de_Tauron[4509] [61 120 0 0 0 0]
+[24] - Essência_Lendária[4506] [61 120 0 0 0 0]
+[25] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[26] - Essência_Rara[4505] [61 120 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+15:29:55 : [Sharii] - [Mensagem do servidor]> Não há unidades disponíveis
+15:30:00 : [Sharii] - [Mensagem do servidor]: !Coliseu Místico será iniciado em 3 minutos. Disponível para Arch ou superior
+15:30:00 : [Sharii] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+15:35:10 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 6
+15:35:10 : Conta ADMIN5 logado na conta
+Status da conta: JOGANDO
+Personagem: menina
+
+15:35:10 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+15:35:12 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 84.123.38.2 Mac: (0B:A7:7A:4E:00:4C). ClientId: 6
+15:35:12 : Conta ADMIN5 logado na conta
+Status da conta: JOGANDO
+Personagem: menina
+
+15:35:12 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+15:35:16 : [Sharii] - ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+15:35:16 : [Sharii] - 4 Personagem foi desconectado. Permaneceu 01:48:43 minutos online
+16:34:36 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.183.185 Mac: (0D:02:2C:B1:FF:4E). ClientId: 4
+16:34:36 : Usuário logou no jogo com clientId 4. - Servidor 2. Gold do banco: 1829750000
+16:34:36 : [INFORMAÇÕES DO BANCO]
+Gold: 1829750000
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1297] [43 3 60 6 53 3]
+[  2] - Botas(M)[1309] [43 3 60 6 74 12]
+[  3] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[  4] - Calça(M)[1285] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1321] [43 3 60 6 53 3]
+[  7] - Botas(M)[1324] [43 3 60 6 74 12]
+[  9] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 10] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 11] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 13] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 15] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 16] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 17] - Cajado[899] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 20] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 22] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 23] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 24] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 25] - [4646] [0 0 0 0 0 0]
+[ 26] - Armadura[1506] [43 6 0 0 0 0]
+[ 27] - Calça[1507] [43 6 0 0 0 0]
+[ 28] - Luvas[1508] [43 6 0 0 0 0]
+[ 29] - Botas[1509] [43 6 0 0 0 0]
+[ 30] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 31] - Luvas(M)[1297] [43 3 60 6 53 3]
+[ 32] - Botas(M)[1309] [43 3 60 6 74 12]
+[ 33] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[ 34] - Calça(M)[1285] [43 3 60 6 3 20]
+[ 35] - Robe(M)[1273] [43 3 60 6 3 20]
+[ 36] - Luvas(M)[1321] [43 3 60 6 53 3]
+[ 37] - Botas(M)[1324] [43 3 60 6 74 12]
+[ 38] - Chapéu(M)[1312] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 40] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 41] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 42] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 43] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 44] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 45] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 46] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 47] - Cajado[899] [43 6 60 16 0 0]
+[ 48] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 49] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 50] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 51] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 52] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 53] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 54] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 55] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 56] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 57] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 58] - Botas(M)[1159] [43 3 73 18 74 12]
+[ 59] - Elmo(M)[1111] [43 3 4 20 0 0]
+[ 60] - Calça(M)[1135] [43 3 2 20 3 20]
+[ 61] - Armadura(M)[1123] [43 3 2 20 3 20]
+[ 62] - Luvas(M)[1186] [43 3 2 20 53 3]
+[ 63] - Botas(M)[1189] [43 3 73 18 74 12]
+[ 64] - Elmo(M)[1177] [43 3 4 20 0 0]
+[ 65] - Calça(M)[1183] [43 3 2 20 3 20]
+[ 66] - Armadura(M)[1180] [43 3 2 20 3 20]
+[ 67] - Manopla(M)[1201] [43 3 2 20 53 3]
+
+16:34:46 : Solicitou ir ao mundo...
+16:34:46 : Recebido pedido para entrar no jogo
+16:34:46 : Recebido informação do personagem completa.
+16:34:46 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 570664134
+Level atual: 0
+Experiência atual: 8059408
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:10 horas
+Posição atual: 2086x 2106y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 252 0 0 0 0]
+[04] - Luvass[1358] [43 252 0 0 0 0]
+[05] - Botass[1359] [43 252 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Calça[1357] [43 250 2 42 71 90]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [10 10 17 10 0 0]
+[10] - Pegasus[2382] [120 120 120 120 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[17] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 237 0 0 0 0]
+[19] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[20] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[21] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[22] - Essência_Comum[4503] [61 120 0 0 0 0]
+[23] - Osso_de_Tauron[4509] [61 120 0 0 0 0]
+[24] - Essência_Lendária[4506] [61 120 0 0 0 0]
+[25] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[26] - Essência_Rara[4505] [61 120 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+16:34:46 : [Sharii] - Personagem Sharii enviado ao mundo 2086x 2106y - Canal 2 - Cash da conta: 100390. OverPower: 2105
+16:34:46 : [Sharii] - Gold atual: 570664134. Classe: 1 Evolução: 3. Experiência: 8059408. Nível: 0. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+16:34:46 : [Sharii] - Evolução logada: 3
+16:34:46 : [Sharii] - Dados da capa um: [3199] [43 230 47 10 0 0]
+16:34:46 : [Sharii] - Dados da capa dois: [0] [0 0 0 0 0 0]
+16:34:46 : [Sharii] - Não foi efetuado a troca pois a refinação atual é maior
+16:34:46 : [Sharii] - Enviado informações do personagem
+16:34:47 : [Sharii] - Comando "/day "
+16:34:47 : [Sharii] - [Mensagem do servidor]> !#11 2
+16:34:59 : [Sharii] - [Mensagem do servidor]> Não há unidades disponíveis
+16:35:00 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+16:35:06 : [Sharii] - Comando "/gm +joalheiro"
+16:36:24 : [Sharii] - Moveu item Essência_Incomum [4504] [61 120 0 0 0 0] do tipo INVENTÁRIO do slot 25 para tipo INVENTÁRIO slot 20
+16:49:34 : [Sharii] - [Mensagem do servidor]> Compra concluída!
+16:49:39 : [Sharii] - [Mensagem do servidor]> Compra concluída!
+16:49:41 : [Sharii] - [Mensagem do servidor]> Compra concluída!
+16:49:44 : [Sharii] - Item Baú_de_Experiência [4140] [61 5 0 0 0 0] utilizado em 2109x 2107y
+16:49:45 : [Sharii] - Item Baú_de_Caça [4139] [61 2 0 0 0 0] utilizado em 2109x 2107y
+16:49:49 : [Sharii] - Comando "/nig "
+16:49:49 : [Sharii] - [Mensagem do servidor]> !!164949
+16:50:00 : [Sharii] - [Mensagem do servidor]> Compra concluída!
+16:50:03 : [Sharii] - Item Frango_Assado [3314] [61 10 0 0 0 0] utilizado em 2109x 2107y
+17:04:46 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 570664134
+Level atual: 0
+Experiência atual: 8059408
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:29:53 horas
+Posição atual: 2113x 2115y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 252 0 0 0 0]
+[04] - Luvass[1358] [43 252 0 0 0 0]
+[05] - Botass[1359] [43 252 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Calça[1357] [43 250 2 42 71 90]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [10 10 17 10 0 0]
+[10] - Pegasus[2382] [120 120 120 120 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[17] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 237 0 0 0 0]
+[19] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[20] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[21] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[22] - Essência_Comum[4503] [61 120 0 0 0 0]
+[23] - Osso_de_Tauron[4509] [61 120 0 0 0 0]
+[24] - Essência_Lendária[4506] [61 120 0 0 0 0]
+[25] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[26] - Essência_Rara[4505] [61 120 0 0 0 0]
+[27] - Baú_de_Experiência[4140] [61 4 0 0 0 0]
+[28] - Baú_de_Caça[4139] [61 1 0 0 0 0]
+[29] - Baú_de_Experiência[4140] [61 5 0 0 0 0]
+[30] - Frango_Assado[3314] [61 9 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+17:34:47 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 570664134
+Level atual: 0
+Experiência atual: 8059408
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:59:34 horas
+Posição atual: 2104x 2122y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 252 0 0 0 0]
+[04] - Luvass[1358] [43 252 0 0 0 0]
+[05] - Botass[1359] [43 252 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Calça[1357] [43 250 2 42 71 90]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [10 10 17 10 0 0]
+[10] - Pegasus[2382] [120 120 120 120 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[17] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 237 0 0 0 0]
+[19] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[20] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[21] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[22] - Essência_Comum[4503] [61 120 0 0 0 0]
+[23] - Osso_de_Tauron[4509] [61 120 0 0 0 0]
+[24] - Essência_Lendária[4506] [61 120 0 0 0 0]
+[25] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[26] - Essência_Rara[4505] [61 120 0 0 0 0]
+[27] - Baú_de_Experiência[4140] [61 4 0 0 0 0]
+[28] - Baú_de_Caça[4139] [61 1 0 0 0 0]
+[29] - Baú_de_Experiência[4140] [61 5 0 0 0 0]
+[30] - Frango_Assado[3314] [61 9 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+18:03:39 : [Sharii] - ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+18:03:39 : [Sharii] - 4 Personagem foi desconectado. Permaneceu 01:28:00 minutos online
+19:30:32 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.183.185 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+19:30:32 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1829750000
+19:30:32 : [INFORMAÇÕES DO BANCO]
+Gold: 1829750000
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1297] [43 3 60 6 53 3]
+[  2] - Botas(M)[1309] [43 3 60 6 74 12]
+[  3] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[  4] - Calça(M)[1285] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1321] [43 3 60 6 53 3]
+[  7] - Botas(M)[1324] [43 3 60 6 74 12]
+[  9] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 10] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 11] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 13] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 15] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 16] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 17] - Cajado[899] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 20] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 22] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 23] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 24] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 25] - [4646] [0 0 0 0 0 0]
+[ 26] - Armadura[1506] [43 6 0 0 0 0]
+[ 27] - Calça[1507] [43 6 0 0 0 0]
+[ 28] - Luvas[1508] [43 6 0 0 0 0]
+[ 29] - Botas[1509] [43 6 0 0 0 0]
+[ 30] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 31] - Luvas(M)[1297] [43 3 60 6 53 3]
+[ 32] - Botas(M)[1309] [43 3 60 6 74 12]
+[ 33] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[ 34] - Calça(M)[1285] [43 3 60 6 3 20]
+[ 35] - Robe(M)[1273] [43 3 60 6 3 20]
+[ 36] - Luvas(M)[1321] [43 3 60 6 53 3]
+[ 37] - Botas(M)[1324] [43 3 60 6 74 12]
+[ 38] - Chapéu(M)[1312] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 40] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 41] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 42] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 43] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 44] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 45] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 46] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 47] - Cajado[899] [43 6 60 16 0 0]
+[ 48] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 49] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 50] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 51] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 52] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 53] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 54] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 55] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 56] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 57] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 58] - Botas(M)[1159] [43 3 73 18 74 12]
+[ 59] - Elmo(M)[1111] [43 3 4 20 0 0]
+[ 60] - Calça(M)[1135] [43 3 2 20 3 20]
+[ 61] - Armadura(M)[1123] [43 3 2 20 3 20]
+[ 62] - Luvas(M)[1186] [43 3 2 20 53 3]
+[ 63] - Botas(M)[1189] [43 3 73 18 74 12]
+[ 64] - Elmo(M)[1177] [43 3 4 20 0 0]
+[ 65] - Calça(M)[1183] [43 3 2 20 3 20]
+[ 66] - Armadura(M)[1180] [43 3 2 20 3 20]
+[ 67] - Manopla(M)[1201] [43 3 2 20 53 3]
+
+19:30:39 : Solicitou ir ao mundo...
+19:30:39 : Recebido pedido para entrar no jogo
+19:30:39 : Recebido informação do personagem completa.
+19:30:39 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 570664134
+Level atual: 0
+Experiência atual: 8059408
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:00:07 horas
+Posição atual: 2086x 2106y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 252 0 0 0 0]
+[04] - Luvass[1358] [43 252 0 0 0 0]
+[05] - Botass[1359] [43 252 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Calça[1357] [43 250 2 42 71 90]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [10 10 17 10 0 0]
+[10] - Pegasus[2382] [120 120 120 120 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[17] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 237 0 0 0 0]
+[19] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[20] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[21] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[22] - Essência_Comum[4503] [61 120 0 0 0 0]
+[23] - Osso_de_Tauron[4509] [61 120 0 0 0 0]
+[24] - Essência_Lendária[4506] [61 120 0 0 0 0]
+[25] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[26] - Essência_Rara[4505] [61 120 0 0 0 0]
+[27] - Baú_de_Experiência[4140] [61 4 0 0 0 0]
+[28] - Baú_de_Caça[4139] [61 1 0 0 0 0]
+[29] - Baú_de_Experiência[4140] [61 5 0 0 0 0]
+[30] - Frango_Assado[3314] [61 9 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+19:30:39 : [Sharii] - Personagem Sharii enviado ao mundo 2086x 2106y - Canal 2 - Cash da conta: 99560. OverPower: 2105
+19:30:39 : [Sharii] - Gold atual: 570664134. Classe: 1 Evolução: 3. Experiência: 8059408. Nível: 0. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+19:30:39 : [Sharii] - Logou no personagem Sharii com baú de experiência ativo. Tempo: 352
+19:30:39 : [Sharii] - Logou no personagem Sharii com frango ativo. Tempo: 1255
+19:30:39 : [Sharii] - Evolução logada: 3
+19:30:39 : [Sharii] - Dados da capa um: [3199] [43 230 47 10 0 0]
+19:30:39 : [Sharii] - Dados da capa dois: [0] [0 0 0 0 0 0]
+19:30:39 : [Sharii] - Não foi efetuado a troca pois a refinação atual é maior
+19:30:39 : [Sharii] - Enviado informações do personagem
+19:30:39 : [Sharii] - Comando "/day "
+19:30:39 : [Sharii] - [Mensagem do servidor]> !#11 2
+19:30:47 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+20:00:00 : [Sharii] - [Mensagem do servidor]: !Coliseu Normal será iniciado em 3 minutos. Disponível apenas para mortais.
+20:00:00 : [Sharii] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+20:00:39 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 570664134
+Level atual: 0
+Experiência atual: 8059408
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:29:52 horas
+Posição atual: 2111x 2108y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 0 0 0 0]
+[03] - Calça[1357] [43 252 0 0 0 0]
+[04] - Luvass[1358] [43 252 0 0 0 0]
+[05] - Botass[1359] [43 252 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Calça[1357] [43 250 2 42 71 90]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [10 10 17 10 0 0]
+[10] - Pegasus[2382] [120 120 120 120 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[17] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 237 0 0 0 0]
+[19] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[20] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[21] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[22] - Essência_Comum[4503] [61 120 0 0 0 0]
+[23] - Osso_de_Tauron[4509] [61 120 0 0 0 0]
+[24] - Essência_Lendária[4506] [61 120 0 0 0 0]
+[25] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[26] - Essência_Rara[4505] [61 120 0 0 0 0]
+[27] - Baú_de_Experiência[4140] [61 4 0 0 0 0]
+[28] - Baú_de_Caça[4139] [61 1 0 0 0 0]
+[29] - Baú_de_Experiência[4140] [61 5 0 0 0 0]
+[30] - Frango_Assado[3314] [61 9 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:03:14 : [Sharii] - Comando "/gm +item 1356 43 250 28 100"
+20:03:14 : [Sharii] - [Mensagem do servidor]> Criou o item Túnica
+20:03:14 : [Sharii] - Sharii criou o item Túnica [1356] [43 250 28 100 0 0]
+20:03:27 : [Sharii] - Comando "/gm +item 1356 48 100"
+20:03:27 : [Sharii] - [Mensagem do servidor]> Criou o item Túnica
+20:03:27 : [Sharii] - Sharii criou o item Túnica [1356] [48 100 0 0 0 0]
+20:03:32 : [Sharii] - Agrupando o item Túnica [1356] [48 100 0 0 0 0] com o item Túnica [1356] [43 253 0 0 0 0]
+20:03:32 : [Sharii] - O agrupamento foi efetuado de slot 32 tipo INVENTÁRIO para slot 2 tipo EQUIPAMENTO
+20:03:35 : [Sharii] - Agrupando o item Túnica [1356] [43 250 28 100 0 0] com o item Túnica [1356] [43 253 61 2 0 0]
+20:03:35 : [Sharii] - O agrupamento foi efetuado de slot 31 tipo INVENTÁRIO para slot 2 tipo EQUIPAMENTO
+20:05:06 : [Sharii] - Agrupando o item Calça [1357] [43 250 2 42 71 90] com o item Calça [1357] [43 252 0 0 0 0]
+20:05:06 : [Sharii] - O agrupamento foi efetuado de slot 5 tipo INVENTÁRIO para slot 3 tipo EQUIPAMENTO
+20:05:48 : [Sharii] - Moveu item Calça [1357] [43 252 61 2 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 5
+20:05:50 : [Sharii] - Moveu item Calça [1357] [43 252 61 2 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 3
+20:05:51 : [Sharii] - Moveu item Calça [1357] [43 252 61 2 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 5
+20:05:53 : [Sharii] - Moveu item Calça [1357] [43 252 61 2 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 3
+20:06:04 : [Sharii] - Moveu item Túnica [1356] [43 253 61 3 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 5
+20:06:07 : [Sharii] - Moveu item Túnica [1356] [43 253 61 3 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+20:06:09 : [Sharii] - Moveu item Túnica [1356] [43 253 61 3 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 5
+20:06:12 : [Sharii] - Moveu item Túnica [1356] [43 253 61 3 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+20:08:03 : [Sharii] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+20:09:55 : [Sharii] - Moveu item Túnica [1356] [43 253 61 3 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 35
+20:09:59 : [Sharii] - Moveu item Túnica [1356] [43 253 61 3 0 0] do tipo INVENTÁRIO do slot 35 para tipo EQUIPAMENTO slot 2
+20:10:01 : [Sharii] - Moveu item Calça [1357] [43 252 61 2 0 0] do tipo EQUIPAMENTO do slot 3 para tipo INVENTÁRIO slot 35
+20:10:02 : [Sharii] - Moveu item Calça [1357] [43 252 61 2 0 0] do tipo INVENTÁRIO do slot 35 para tipo EQUIPAMENTO slot 3
+20:10:04 : [Sharii] - Moveu item Luvass [1358] [43 252 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 35
+20:10:05 : [Sharii] - Moveu item Luvass [1358] [43 252 0 0 0 0] do tipo INVENTÁRIO do slot 35 para tipo EQUIPAMENTO slot 4
+20:10:08 : [Sharii] - Comando "/gm +item 1356 48 100"
+20:10:08 : [Sharii] - [Mensagem do servidor]> Criou o item Túnica
+20:10:08 : [Sharii] - Sharii criou o item Túnica [1356] [48 100 0 0 0 0]
+20:10:16 : [Sharii] - Agrupando o item Túnica [1356] [48 100 0 0 0 0] com o item Túnica [1356] [43 253 61 3 0 0]
+20:10:16 : [Sharii] - O agrupamento foi efetuado de slot 5 tipo INVENTÁRIO para slot 2 tipo EQUIPAMENTO
+20:10:31 : [Sharii] - Comando "/gm +item 1356 43 250 28 100"
+20:10:31 : [Sharii] - [Mensagem do servidor]> Criou o item Túnica
+20:10:31 : [Sharii] - Sharii criou o item Túnica [1356] [43 250 28 100 0 0]
+20:10:33 : [Sharii] - Agrupando o item Túnica [1356] [43 250 28 100 0 0] com o item Túnica [1356] [43 253 61 4 0 0]
+20:10:33 : [Sharii] - O agrupamento foi efetuado de slot 5 tipo INVENTÁRIO para slot 2 tipo EQUIPAMENTO
+20:14:00 : [Sharii] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+20:17:40 : [Sharii] - Comando "/gm +item 1356 46 100"
+20:17:40 : [Sharii] - [Mensagem do servidor]> Criou o item Túnica
+20:17:40 : [Sharii] - Sharii criou o item Túnica [1356] [46 100 0 0 0 0]
+20:30:00 : [Sharii] - [Mensagem do servidor]: !Coliseu Místico será iniciado em 3 minutos. Disponível para Arch ou superior
+20:30:00 : [Sharii] - [Mensagem do servidor]: !Localização: Cidade de Arzan. 2615x 1724y
+20:30:40 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 570664134
+Level atual: 0
+Experiência atual: 8059408
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:59:34 horas
+Posição atual: 2109x 2109y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 61 5 0 0]
+[03] - Calça[1357] [43 252 61 2 0 0]
+[04] - Luvass[1358] [43 252 0 0 0 0]
+[05] - Botass[1359] [43 252 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 250 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Túnica[1356] [46 100 0 0 0 0]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [10 10 17 10 0 0]
+[10] - Pegasus[2382] [120 120 120 120 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[17] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 237 0 0 0 0]
+[19] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[20] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[21] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[22] - Essência_Comum[4503] [61 120 0 0 0 0]
+[23] - Osso_de_Tauron[4509] [61 120 0 0 0 0]
+[24] - Essência_Lendária[4506] [61 120 0 0 0 0]
+[25] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[26] - Essência_Rara[4505] [61 120 0 0 0 0]
+[27] - Baú_de_Experiência[4140] [61 4 0 0 0 0]
+[28] - Baú_de_Caça[4139] [61 1 0 0 0 0]
+[29] - Baú_de_Experiência[4140] [61 5 0 0 0 0]
+[30] - Frango_Assado[3314] [61 9 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+20:38:03 : [Sharii] - [Mensagem do servidor]: Coliseu finalizado. Não foi derrotado todos os monstros dentro do tempo
+20:43:31 : [Sharii] - Teleportado para a posição 2482 1717
+20:44:02 : [Sharii] - Item Gema_de_Coral [3388] [0 0 0 0 0 0] utilizado em 0x 0y
+20:44:11 : [Sharii] - Item Gema_de_Coral [3388] [0 0 0 0 0 0] utilizado em 0x 0y
+20:44:11 : [Sharii] - Usado Gema no item Túnica [1356] [43 252 61 5 0 0]
+20:44:12 : [Sharii] - Comando "/day "
+20:44:12 : [Sharii] - [Mensagem do servidor]> !#11 2
+20:44:17 : [Sharii] - Item Gema_de_Coral [3388] [0 0 0 0 0 0] utilizado em 0x 0y
+20:44:17 : [Sharii] - Usado Gema no item Gleipnir(Anct) [2673] [43 252 60 100 0 0]
+20:44:51 : [Sharii] - Moveu item Luvass [1358] [43 252 0 0 0 0] do tipo EQUIPAMENTO do slot 4 para tipo INVENTÁRIO slot 35
+20:45:10 : [Sharii] - Comando "/gm +item 3200"
+20:45:10 : [Sharii] - [Mensagem do servidor]> Criou o item Jóia_da_Sagacidade
+20:45:10 : [Sharii] - Sharii criou o item Jóia_da_Sagacidade [3200] [0 0 0 0 0 0]
+20:45:15 : [Sharii] - Item Jóia_da_Sagacidade [3200] [0 0 0 0 0 0] utilizado em 2544x 1716y
+20:45:17 : [Sharii] - Moveu item Luvass [1358] [43 252 0 0 0 0] do tipo INVENTÁRIO do slot 35 para tipo EQUIPAMENTO slot 4
+20:45:58 : [Sharii] - Item Gema_de_Esmeralda [3387] [0 0 0 0 0 0] utilizado em 0x 0y
+20:45:58 : [Sharii] - Usado Gema no item Túnica [1356] [43 251 61 5 0 0]
+20:46:00 : [Sharii] - Item Gema_de_Esmeralda [3387] [0 0 0 0 0 0] utilizado em 0x 0y
+20:46:00 : [Sharii] - Usado Gema no item Gleipnir(Anct) [2672] [43 251 60 100 0 0]
+20:46:46 : [Sharii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+20:46:46 : [Sharii] - Usado Gema no item Gleipnir(Anct) [2674] [43 253 60 100 0 0]
+20:46:47 : [Sharii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+20:46:47 : [Sharii] - Usado Gema no item Túnica [1356] [43 253 61 5 0 0]
+20:49:11 : [Sharii] - Comando "/gm +item 1356 128 100"
+20:49:11 : [Sharii] - [Mensagem do servidor]> Criou o item Túnica
+20:49:11 : [Sharii] - Sharii criou o item Túnica [1356] [128 100 0 0 0 0]
+20:49:15 : [Sharii] - Comando "/gm +item 1356 128 10"
+20:49:15 : [Sharii] - [Mensagem do servidor]> Criou o item Túnica
+20:49:15 : [Sharii] - Sharii criou o item Túnica [1356] [128 10 0 0 0 0]
+20:55:00 : [Sharii] - [Mensagem do servidor]: A guerra de reinos iniciarï¿½ em 5 minutos. Acesse o teleporte de Noatun.
+21:00:00 : [Sharii] - [Mensagem do servidor]: Guerra entre Reinos iniciada. Acesse o teleporte de Noatun!
+21:00:40 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 549950834
+Level atual: 0
+Experiência atual: 8059408
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 01:29:17 horas
+Posição atual: 2544x 1716y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 61 5 0 0]
+[03] - Calça[1357] [43 252 61 2 0 0]
+[04] - Luvass[1358] [43 252 0 0 0 0]
+[05] - Botass[1359] [43 252 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 253 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Túnica[1356] [46 100 0 0 0 0]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [10 10 17 10 0 0]
+[10] - Pegasus[2382] [120 120 120 120 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[17] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 237 0 0 0 0]
+[19] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[20] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[21] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[22] - Essência_Comum[4503] [61 120 0 0 0 0]
+[23] - Osso_de_Tauron[4509] [61 120 0 0 0 0]
+[24] - Essência_Lendária[4506] [61 120 0 0 0 0]
+[25] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[26] - Essência_Rara[4505] [61 120 0 0 0 0]
+[27] - Baú_de_Experiência[4140] [61 4 0 0 0 0]
+[28] - Baú_de_Caça[4139] [61 1 0 0 0 0]
+[29] - Baú_de_Experiência[4140] [61 5 0 0 0 0]
+[30] - Frango_Assado[3314] [61 9 0 0 0 0]
+[31] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[32] - Túnica[1356] [128 100 0 0 0 0]
+[33] - Túnica[1356] [128 10 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:12:41 : [Sharii] - ADMIN6 Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:12:41 : [Sharii] - 1 Personagem foi desconectado. Permaneceu 01:41:08 minutos online
+22:23:48 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.183.185 Mac: (0D:02:2C:B1:FF:4E). ClientId: 3
+22:23:48 : Usuário logou no jogo com clientId 3. - Servidor 2. Gold do banco: 1829750000
+22:23:48 : [INFORMAÇÕES DO BANCO]
+Gold: 1829750000
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1297] [43 3 60 6 53 3]
+[  2] - Botas(M)[1309] [43 3 60 6 74 12]
+[  3] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[  4] - Calça(M)[1285] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1321] [43 3 60 6 53 3]
+[  7] - Botas(M)[1324] [43 3 60 6 74 12]
+[  9] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 10] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 11] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 13] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 15] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 16] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 17] - Cajado[899] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 20] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 22] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 23] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 24] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 25] - [4646] [0 0 0 0 0 0]
+[ 26] - Armadura[1506] [43 6 0 0 0 0]
+[ 27] - Calça[1507] [43 6 0 0 0 0]
+[ 28] - Luvas[1508] [43 6 0 0 0 0]
+[ 29] - Botas[1509] [43 6 0 0 0 0]
+[ 30] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 31] - Luvas(M)[1297] [43 3 60 6 53 3]
+[ 32] - Botas(M)[1309] [43 3 60 6 74 12]
+[ 33] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[ 34] - Calça(M)[1285] [43 3 60 6 3 20]
+[ 35] - Robe(M)[1273] [43 3 60 6 3 20]
+[ 36] - Luvas(M)[1321] [43 3 60 6 53 3]
+[ 37] - Botas(M)[1324] [43 3 60 6 74 12]
+[ 38] - Chapéu(M)[1312] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 40] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 41] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 42] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 43] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 44] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 45] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 46] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 47] - Cajado[899] [43 6 60 16 0 0]
+[ 48] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 49] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 50] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 51] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 52] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 53] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 54] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 55] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 56] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 57] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 58] - Botas(M)[1159] [43 3 73 18 74 12]
+[ 59] - Elmo(M)[1111] [43 3 4 20 0 0]
+[ 60] - Calça(M)[1135] [43 3 2 20 3 20]
+[ 61] - Armadura(M)[1123] [43 3 2 20 3 20]
+[ 62] - Luvas(M)[1186] [43 3 2 20 53 3]
+[ 63] - Botas(M)[1189] [43 3 73 18 74 12]
+[ 64] - Elmo(M)[1177] [43 3 4 20 0 0]
+[ 65] - Calça(M)[1183] [43 3 2 20 3 20]
+[ 66] - Armadura(M)[1180] [43 3 2 20 3 20]
+[ 67] - Manopla(M)[1201] [43 3 2 20 53 3]
+
+22:24:54 : Solicitou ir ao mundo...
+22:24:54 : Recebido pedido para entrar no jogo
+22:24:54 : Recebido informação do personagem completa.
+22:24:54 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 549950834
+Level atual: 0
+Experiência atual: 8059408
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:01:05 horas
+Posição atual: 2496x 1714y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 61 5 0 0]
+[03] - Calça[1357] [43 252 61 2 0 0]
+[04] - Luvass[1358] [43 252 0 0 0 0]
+[05] - Botass[1359] [43 252 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 253 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Túnica[1356] [46 100 0 0 0 0]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [10 10 17 10 0 0]
+[10] - Pegasus[2382] [120 120 120 120 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[17] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 237 0 0 0 0]
+[19] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[20] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[21] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[22] - Essência_Comum[4503] [61 120 0 0 0 0]
+[23] - Osso_de_Tauron[4509] [61 120 0 0 0 0]
+[24] - Essência_Lendária[4506] [61 120 0 0 0 0]
+[25] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[26] - Essência_Rara[4505] [61 120 0 0 0 0]
+[27] - Baú_de_Experiência[4140] [61 4 0 0 0 0]
+[28] - Baú_de_Caça[4139] [61 1 0 0 0 0]
+[29] - Baú_de_Experiência[4140] [61 5 0 0 0 0]
+[30] - Frango_Assado[3314] [61 9 0 0 0 0]
+[31] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[32] - Túnica[1356] [128 100 0 0 0 0]
+[33] - Túnica[1356] [128 10 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:24:54 : [Sharii] - Personagem Sharii enviado ao mundo 2496x 1714y - Canal 2 - Cash da conta: 99560. PowerLevel: 3942
+22:24:54 : [Sharii] - Gold atual: 549950834. Classe: 1 Evolução: 3. Experiência: 8059408. Nível: 0. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+22:24:54 : [Sharii] - Logou no personagem Sharii com frango ativo. Tempo: 498
+22:24:54 : [Sharii] - Evolução logada: 3
+22:24:54 : [Sharii] - Dados da capa um: [3199] [43 230 47 10 0 0]
+22:24:54 : [Sharii] - Dados da capa dois: [0] [0 0 0 0 0 0]
+22:24:54 : [Sharii] - Não foi efetuado a troca pois a refinação atual é maior
+22:24:54 : [Sharii] - Enviado informações do personagem
+22:24:55 : [Sharii] - Comando "/day "
+22:24:55 : [Sharii] - [Mensagem do servidor]> !#11 2
+22:25:02 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:25:12 : [Sharii] - Personagem deu personagem
+22:25:52 : Solicitou ir ao mundo...
+22:25:52 : Recebido pedido para entrar no jogo
+22:25:52 : Recebido informação do personagem completa.
+22:25:52 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 549950834
+Level atual: 0
+Experiência atual: 8059408
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:02:03 horas
+Posição atual: 2094x 2097y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 61 5 0 0]
+[03] - Calça[1357] [43 252 61 2 0 0]
+[04] - Luvass[1358] [43 252 0 0 0 0]
+[05] - Botass[1359] [43 252 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 253 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Túnica[1356] [46 100 0 0 0 0]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [10 10 17 10 0 0]
+[10] - Pegasus[2382] [120 120 120 120 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[17] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 237 0 0 0 0]
+[19] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[20] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[21] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[22] - Essência_Comum[4503] [61 120 0 0 0 0]
+[23] - Osso_de_Tauron[4509] [61 120 0 0 0 0]
+[24] - Essência_Lendária[4506] [61 120 0 0 0 0]
+[25] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[26] - Essência_Rara[4505] [61 120 0 0 0 0]
+[27] - Baú_de_Experiência[4140] [61 4 0 0 0 0]
+[28] - Baú_de_Caça[4139] [61 1 0 0 0 0]
+[29] - Baú_de_Experiência[4140] [61 5 0 0 0 0]
+[30] - Frango_Assado[3314] [61 9 0 0 0 0]
+[31] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[32] - Túnica[1356] [128 100 0 0 0 0]
+[33] - Túnica[1356] [128 10 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:25:52 : [Sharii] - Personagem Sharii enviado ao mundo 2094x 2097y - Canal 2 - Cash da conta: 99560. PowerLevel: 3942
+22:25:52 : [Sharii] - Gold atual: 549950834. Classe: 1 Evolução: 3. Experiência: 8059408. Nível: 0. Info: 496. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+22:25:52 : [Sharii] - Logou no personagem Sharii com frango ativo. Tempo: 496
+22:25:52 : [Sharii] - Evolução logada: 3
+22:25:52 : [Sharii] - Dados da capa um: [3199] [43 230 47 10 0 0]
+22:25:52 : [Sharii] - Dados da capa dois: [0] [0 0 0 0 0 0]
+22:25:52 : [Sharii] - Não foi efetuado a troca pois a refinação atual é maior
+22:25:52 : [Sharii] - Enviado informações do personagem
+22:25:53 : [Sharii] - Comando "/day "
+22:25:53 : [Sharii] - [Mensagem do servidor]> !#11 2
+22:26:02 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:26:12 : [Sharii] - [Mensagem do servidor]> Compra concluída!
+22:26:14 : [Sharii] - Item Pedra_Misteriosa [4148] [61 100 0 0 0 0] utilizado em 2104x 2105y
+22:26:14 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 549950834
+Level atual: 0
+Experiência atual: 8059408
+Evolução atual: Celestial
+Tempo online até o momento: 00 dias e 00:02:24 horas
+Posição atual: 2104x 2105y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 496
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Celestial
+Level atual: 199
+Experiência atual: 4000000000
+Learn: 1073741829
+SecLearn: 0
+Info: 68719477232
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[17] [43 0 17 3 0 0]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[02] - Túnica[1356] [43 253 61 5 0 0]
+[03] - Calça[1357] [43 252 61 2 0 0]
+[04] - Luvass[1358] [43 252 0 0 0 0]
+[05] - Botass[1359] [43 252 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 253 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Túnica[1356] [46 100 0 0 0 0]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [10 10 17 10 0 0]
+[10] - Pegasus[2382] [120 120 120 120 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[17] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 237 0 0 0 0]
+[19] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[20] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[21] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[22] - Essência_Comum[4503] [61 120 0 0 0 0]
+[23] - Osso_de_Tauron[4509] [61 120 0 0 0 0]
+[24] - Essência_Lendária[4506] [61 120 0 0 0 0]
+[25] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[26] - Essência_Rara[4505] [61 120 0 0 0 0]
+[27] - Baú_de_Experiência[4140] [61 4 0 0 0 0]
+[28] - Baú_de_Caça[4139] [61 1 0 0 0 0]
+[29] - Baú_de_Experiência[4140] [61 5 0 0 0 0]
+[30] - Frango_Assado[3314] [61 9 0 0 0 0]
+[31] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[32] - Túnica[1356] [128 100 0 0 0 0]
+[33] - Túnica[1356] [128 10 0 0 0 0]
+[34] - Pedra_Misteriosa[4148] [61 100 0 0 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:26:14 : [Sharii] - Classe 2 gerada através da face 18
+22:27:29 : [Sharii] - Agrupando o item Túnica [1356] [128 100 0 0 0 0] com o item Túnica [1356] [43 253 61 5 0 0]
+22:27:29 : [Sharii] - O agrupamento foi efetuado de slot 32 tipo INVENTÁRIO para slot 2 tipo EQUIPAMENTO
+22:27:31 : [Sharii] - Moveu item Túnica [1356] [43 253 61 6 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 36
+22:27:32 : [Sharii] - Moveu item Túnica [1356] [43 253 61 6 0 0] do tipo INVENTÁRIO do slot 36 para tipo EQUIPAMENTO slot 2
+22:27:33 : [Sharii] - Moveu item Túnica [1356] [43 253 61 6 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 42
+22:27:35 : [Sharii] - Moveu item Túnica [1356] [43 253 61 6 0 0] do tipo INVENTÁRIO do slot 42 para tipo EQUIPAMENTO slot 2
+22:27:36 : [Sharii] - Moveu item Túnica [1356] [43 253 61 6 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 42
+22:27:37 : [Sharii] - Moveu item Cythera_Arcana [3507] [116 253 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 40
+22:27:39 : [Sharii] - Moveu item Cythera_Arcana [3507] [116 253 0 0 0 0] do tipo INVENTÁRIO do slot 40 para tipo EQUIPAMENTO slot 1
+22:27:41 : [Sharii] - Moveu item Cythera_Arcana [3507] [116 253 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 35
+22:28:05 : [Sharii] - Moveu item Cythera_Arcana [3507] [116 253 0 0 0 0] do tipo INVENTÁRIO do slot 35 para tipo EQUIPAMENTO slot 1
+22:28:07 : [Sharii] - Moveu item Cythera_Arcana [3507] [116 253 0 0 0 0] do tipo EQUIPAMENTO do slot 1 para tipo INVENTÁRIO slot 35
+22:29:04 : [Sharii] - Moveu item Cythera_Arcana [3507] [116 253 0 0 0 0] do tipo INVENTÁRIO do slot 35 para tipo EQUIPAMENTO slot 1
+22:30:00 : [Sharii] - [Mensagem do servidor]: A batalha de acampamento avançado do reino foi finalizada
+22:32:47 : [Sharii] - [Mensagem do servidor]> Não há unidades disponíveis
+22:59:13 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.183.185 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+22:59:13 : Personagem foi desconectado. Permaneceu 00:00:00 minutos online
+22:59:16 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta (ADMIN6) - IP: 191.177.183.185 Mac: (0D:02:2C:B1:FF:4E). ClientId: 1
+22:59:16 : Usuário logou no jogo com clientId 1. - Servidor 2. Gold do banco: 1829750000
+22:59:16 : [INFORMAÇÕES DO BANCO]
+Gold: 1829750000
+[  0] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[  1] - Luvas(M)[1297] [43 3 60 6 53 3]
+[  2] - Botas(M)[1309] [43 3 60 6 74 12]
+[  3] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[  4] - Calça(M)[1285] [43 3 60 6 3 20]
+[  6] - Luvas(M)[1321] [43 3 60 6 53 3]
+[  7] - Botas(M)[1324] [43 3 60 6 74 12]
+[  9] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 10] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 11] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 12] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 13] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 14] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 15] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 16] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 17] - Cajado[899] [43 6 60 16 0 0]
+[ 18] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 19] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 20] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 21] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 22] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 23] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 24] - Pedra_da_Imortalidade[1742] [0 0 0 0 0 0]
+[ 25] - [4646] [0 0 0 0 0 0]
+[ 26] - Armadura[1506] [43 6 0 0 0 0]
+[ 27] - Calça[1507] [43 6 0 0 0 0]
+[ 28] - Luvas[1508] [43 6 0 0 0 0]
+[ 29] - Botas[1509] [43 6 0 0 0 0]
+[ 30] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 31] - Luvas(M)[1297] [43 3 60 6 53 3]
+[ 32] - Botas(M)[1309] [43 3 60 6 74 12]
+[ 33] - Chapéu(M)[1261] [43 3 4 20 0 0]
+[ 34] - Calça(M)[1285] [43 3 60 6 3 20]
+[ 35] - Robe(M)[1273] [43 3 60 6 3 20]
+[ 36] - Luvas(M)[1321] [43 3 60 6 53 3]
+[ 37] - Botas(M)[1324] [43 3 60 6 74 12]
+[ 38] - Chapéu(M)[1312] [43 3 4 20 0 0]
+[ 39] - Calça(M)[1318] [43 3 60 6 3 20]
+[ 40] - Túnica(M)[1315] [43 3 60 6 3 20]
+[ 41] - Luvas(M)[1336] [43 3 60 6 53 3]
+[ 42] - Botas(M)[1339] [43 3 60 6 74 12]
+[ 43] - Chapéu(M)[1327] [43 3 4 20 0 0]
+[ 44] - Calça(M)[1333] [43 3 60 6 3 20]
+[ 45] - Túnica(M)[1330] [43 3 60 6 3 20]
+[ 46] - Cavalo_Fantasm_N[2367] [100 100 5 5 100 0]
+[ 47] - Cajado[899] [43 6 60 16 0 0]
+[ 48] - Luvas(M)[1351] [43 3 60 6 53 3]
+[ 49] - Botas(M)[1354] [43 3 60 6 74 12]
+[ 50] - Chapéu(M)[1342] [43 3 4 20 0 0]
+[ 51] - Calça(M)[1348] [43 3 60 6 3 20]
+[ 52] - Túnica(M)[1345] [43 3 60 6 3 20]
+[ 53] - Cajado_Caótico[3582] [43 6 60 16 0 0]
+[ 54] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 55] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 56] - Essência_de_Gema[4615] [0 0 0 0 0 0]
+[ 57] - Luvas(M)[1147] [43 3 2 20 53 3]
+[ 58] - Botas(M)[1159] [43 3 73 18 74 12]
+[ 59] - Elmo(M)[1111] [43 3 4 20 0 0]
+[ 60] - Calça(M)[1135] [43 3 2 20 3 20]
+[ 61] - Armadura(M)[1123] [43 3 2 20 3 20]
+[ 62] - Luvas(M)[1186] [43 3 2 20 53 3]
+[ 63] - Botas(M)[1189] [43 3 73 18 74 12]
+[ 64] - Elmo(M)[1177] [43 3 4 20 0 0]
+[ 65] - Calça(M)[1183] [43 3 2 20 3 20]
+[ 66] - Armadura(M)[1180] [43 3 2 20 3 20]
+[ 67] - Manopla(M)[1201] [43 3 2 20 53 3]
+
+22:59:30 : Solicitou ir ao mundo...
+22:59:30 : Recebido pedido para entrar no jogo
+22:59:30 : Recebido informação do personagem completa.
+22:59:30 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 549950834
+Level atual: 199
+Experiência atual: 4000000000
+Evolução atual: Arch
+Tempo online até o momento: 00 dias e 00:00:14 horas
+Posição atual: 2095x 2099y
+
+Pontos NT: 0
+Entradas Hall: 24
+Info: 68719477232
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+
+[PEDRA MISTERIOSA]
+Evolução: Arch
+Level atual: 0
+Experiência atual: 8059408
+Learn: 1081802496
+SecLearn: 0
+Info: 496
+Soul: 0
+
+[EQUIPAMENTOS]
+[00] - Mage[18] [43 0 18 2 1 1]
+[01] - Cythera_Arcana[3507] [116 253 0 0 0 0]
+[03] - Calça[1357] [43 252 61 2 0 0]
+[04] - Luvass[1358] [43 252 0 0 0 0]
+[05] - Botass[1359] [43 252 0 0 0 0]
+[06] - Gleipnir(Anct)[2674] [43 253 60 100 0 0]
+[08] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[10] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[11] - Pedra_Espiritual[633] [43 250 60 100 0 0]
+[13] - Fada_do_Vale[3916] [106 0 107 3 108 0]
+[15] - Mestre_dos_Aventureiros[3199] [43 230 47 10 0 0]
+
+[INVENTÁRIO]
+[00] - Jóia_da_Sagacidade[3200] [61 3 0 0 0 0]
+[01] - Pedido_de_Caça(Kult)[3435] [61 90 0 0 0 0]
+[02] - Pedra_Misteriosa[4148] [61 2 0 0 0 0]
+[03] - Túnica(Le)[2207] [43 250 0 0 0 0]
+[04] - Estabilizador_de_Crescimento[3461] [61 8 0 0 0 0]
+[05] - Túnica[1356] [46 100 0 0 0 0]
+[06] - Pergaminho_da_Água(A)LV1[3182] [61 2 0 0 0 0]
+[07] - Poeira_de_Lactolerium[413] [61 2 0 0 0 0]
+[08] - Âmago_de_Cérberus[2408] [61 88 0 0 0 0]
+[09] - Cérberus[2378] [10 10 17 10 0 0]
+[10] - Pegasus[2382] [120 120 120 120 0 0]
+[11] - Skytalos(Anct)[2551] [43 9 0 0 0 0]
+[12] - Pergaminho_da_Água(M)LV1[777] [61 6 0 0 0 0]
+[13] - Pergaminho_da_Água(N)LV1[3173] [61 6 0 0 0 0]
+[14] - Pergaminho_da_Água(A)LV3[3184] [0 0 0 0 0 0]
+[15] - Poeira_de_Lactolerium[413] [61 239 0 0 0 0]
+[16] - Poeira_de_Lactolerium[413] [61 1 0 0 0 0]
+[17] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[18] - Poeira_de_Oriharucon[412] [61 237 0 0 0 0]
+[19] - Poeira_de_Oriharucon[412] [61 1 0 0 0 0]
+[20] - Essência_Incomum[4504] [61 120 0 0 0 0]
+[21] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[22] - Essência_Comum[4503] [61 120 0 0 0 0]
+[23] - Osso_de_Tauron[4509] [61 120 0 0 0 0]
+[24] - Essência_Lendária[4506] [61 120 0 0 0 0]
+[25] - Página_de_Joalheiro_[F][4602] [61 120 0 0 0 0]
+[26] - Essência_Rara[4505] [61 120 0 0 0 0]
+[27] - Baú_de_Experiência[4140] [61 4 0 0 0 0]
+[28] - Baú_de_Caça[4139] [61 1 0 0 0 0]
+[29] - Baú_de_Experiência[4140] [61 5 0 0 0 0]
+[30] - Frango_Assado[3314] [61 9 0 0 0 0]
+[31] - Pergaminho_Retorno_10x[411] [61 10 0 0 0 0]
+[33] - Túnica[1356] [128 10 0 0 0 0]
+[34] - Pedra_Misteriosa[4148] [61 99 0 0 0 0]
+[42] - Túnica[1356] [43 253 61 6 0 0]
+[60] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[61] - Bolsa_do_Andarilho[3467] [106 8 110 2 109 121]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+22:59:30 : [Sharii] - Personagem Sharii enviado ao mundo 2095x 2099y - Canal 2 - Cash da conta: 99410. PowerLevel: 11199
+22:59:30 : [Sharii] - Gold atual: 549950834. Classe: 2 Evolução: 2. Experiência: 4000000000. Nível: 199. Info: 68719477232. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+22:59:30 : [Sharii] - Evolução logada: 2
+22:59:30 : [Sharii] - Dados da capa um: [3199] [43 230 47 10 0 0]
+22:59:30 : [Sharii] - Dados da capa dois: [0] [0 0 0 0 0 0]
+22:59:30 : [Sharii] - Não foi efetuado a troca pois a refinação atual é maior
+22:59:30 : [Sharii] - Enviado informações do personagem
+22:59:31 : [Sharii] - Comando "/day "
+22:59:31 : [Sharii] - [Mensagem do servidor]> !#11 2
+22:59:45 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+22:59:51 : [Sharii] - Moveu item Túnica(Le) [2207] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 2
+22:59:54 : [Sharii] - Moveu item Túnica [1356] [46 100 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+23:00:03 : [Sharii] - Agrupando o item Túnica [1356] [43 253 61 6 0 0] com o item Túnica [1356] [46 100 0 0 0 0]
+23:00:03 : [Sharii] - O agrupamento foi efetuado de slot 42 tipo INVENTÁRIO para slot 2 tipo EQUIPAMENTO
+23:00:06 : [Sharii] - Moveu item Túnica [1356] [46 100 61 7 0 0] do tipo EQUIPAMENTO do slot 2 para tipo INVENTÁRIO slot 35
+23:00:10 : [Sharii] - Moveu item Túnica [1356] [46 100 61 7 0 0] do tipo INVENTÁRIO do slot 35 para tipo EQUIPAMENTO slot 2
+23:00:18 : [Sharii] - Moveu item Pedra_Espiritual [633] [43 250 60 100 0 0] do tipo EQUIPAMENTO do slot 8 para tipo INVENTÁRIO slot 35
+23:00:20 : [Sharii] - Moveu item Pedra_Espiritual [633] [43 250 60 100 0 0] do tipo EQUIPAMENTO do slot 10 para tipo INVENTÁRIO slot 40
+23:00:22 : [Sharii] - Moveu item Pedra_Espiritual [633] [43 250 60 100 0 0] do tipo INVENTÁRIO do slot 40 para tipo EQUIPAMENTO slot 10
+23:00:23 : [Sharii] - Moveu item Pedra_Espiritual [633] [43 250 60 100 0 0] do tipo INVENTÁRIO do slot 35 para tipo EQUIPAMENTO slot 8
+23:00:24 : [Sharii] - Item Frango_Assado [3314] [61 9 0 0 0 0] utilizado em 2101x 2101y
+23:00:31 : [Sharii] - Moveu item Pegasus [2382] [120 120 120 120 0 0] do tipo INVENTÁRIO do slot 10 para tipo EQUIPAMENTO slot 14
+23:01:43 : [Sharii] - Moveu item Túnica(Le) [2207] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+23:01:57 : [Sharii] - Personagem deu personagem
+23:02:12 : Solicitou ir ao mundo...
+23:02:12 : Recebido pedido para entrar no jogo
+23:02:12 : Recebido informação do personagem completa.
+23:02:12 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 1920319900
+Level atual: 399
+Experiência atual: 4002399534
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:02:52 horas
+Posição atual: 2098x 2094y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 8610906112
+Soul: 8
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Robe(A)[1253] [0 0 0 0 0 0]
+[02] - Robe(N)[1266] [0 0 0 0 0 0]
+[03] - Saia(M)[1279] [0 0 0 0 0 0]
+[05] - Botas(A)[1304] [0 0 0 0 0 0]
+[08] - Brinco_de_Athena[591] [0 0 0 0 0 0]
+[11] - Pedra_Espiritual[633] [54 10 43 9 0 0]
+[15] - Véu_do_Campeão_(Andarilho)[574] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[19] - Luvas(M)[1321] [0 0 0 0 0 0]
+[29] - Aranha[2360] [88 27 21 18 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:02:12 : [Sharii] - Personagem Sharii enviado ao mundo 2098x 2094y - Canal 2 - Cash da conta: 99410. PowerLevel: 713
+23:02:12 : [Sharii] - Gold atual: 1920319900. Classe: 1 Evolução: 0. Experiência: 4002399534. Nível: 399. Info: 8610906112. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+23:02:12 : [Sharii] - Enviado informações do personagem
+23:02:13 : [Sharii] - Comando "/day "
+23:02:13 : [Sharii] - [Mensagem do servidor]> !#11 2
+23:02:21 : [Sharii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:10:31 : [Sharii] - Comando "/gm +item 1354 43 250"
+23:10:31 : [Sharii] - [Mensagem do servidor]> Criou o item Botas(M)
+23:10:31 : [Sharii] - Sharii criou o item Botas(M) [1354] [43 250 0 0 0 0]
+23:10:33 : [Sharii] - Moveu item Botas(M) [1354] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 5
+23:10:48 : [Sharii] - Comando "/gm +item 1352 43 250"
+23:10:48 : [Sharii] - [Mensagem do servidor]> Criou o item Luvas(A)
+23:10:48 : [Sharii] - Sharii criou o item Luvas(A) [1352] [43 250 0 0 0 0]
+23:10:55 : [Sharii] - Comando "/gm +item 1350 43 250"
+23:10:55 : [Sharii] - [Mensagem do servidor]> Criou o item Luvas(N)
+23:10:55 : [Sharii] - Sharii criou o item Luvas(N) [1350] [43 250 0 0 0 0]
+23:11:03 : [Sharii] - Comando "/gm +item 1359 43 250"
+23:11:03 : [Sharii] - [Mensagem do servidor]> Criou o item Botass
+23:11:03 : [Sharii] - Sharii criou o item Botass [1359] [43 250 0 0 0 0]
+23:11:13 : [Sharii] - Comando "/gm +item 1356 34 250"
+23:11:13 : [Sharii] - [Mensagem do servidor]> Criou o item Túnica
+23:11:13 : [Sharii] - Sharii criou o item Túnica [1356] [34 250 0 0 0 0]
+23:11:23 : [Sharii] - Comando "/gm +item 1346 43 250"
+23:11:23 : [Sharii] - [Mensagem do servidor]> Criou o item Túnica(A)
+23:11:23 : [Sharii] - Sharii criou o item Túnica(A) [1346] [43 250 0 0 0 0]
+23:11:33 : [Sharii] - Comando "/gm +item 1342 43 250"
+23:11:33 : [Sharii] - [Mensagem do servidor]> Criou o item Chapéu(M)
+23:11:33 : [Sharii] - Sharii criou o item Chapéu(M) [1342] [43 250 0 0 0 0]
+23:11:46 : [Sharii] - Comando "/gm +item 1342 43 250"
+23:11:46 : [Sharii] - [Mensagem do servidor]> Criou o item Chapéu(M)
+23:11:46 : [Sharii] - Sharii criou o item Chapéu(M) [1342] [43 250 0 0 0 0]
+23:11:52 : [Sharii] - Comando "/gm +item 1349 43 250"
+23:11:52 : [Sharii] - [Mensagem do servidor]> Criou o item Calça(A)
+23:11:52 : [Sharii] - Sharii criou o item Calça(A) [1349] [43 250 0 0 0 0]
+23:11:54 : [Sharii] - Moveu item Calça(A) [1349] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 8 para tipo EQUIPAMENTO slot 3
+23:11:56 : [Sharii] - Moveu item Túnica(A) [1346] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 2
+23:11:58 : [Sharii] - Moveu item Chapéu(M) [1342] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 1
+23:12:20 : [Sharii] - Moveu item Luvas(A) [1352] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 4
+23:14:00 : [Sharii] - [Mensagem do servidor]: Tauron nasceu no Pvp de Armia
+23:16:20 : [Sharii] - Teleportado para a posição 2482 1717
+23:17:37 : [Sharii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+23:17:37 : [Sharii] - Usado Gema no item Chapéu(M) [1342] [43 253 0 0 0 0]
+23:17:39 : [Sharii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+23:17:39 : [Sharii] - Usado Gema no item Túnica(A) [1346] [43 253 0 0 0 0]
+23:17:41 : [Sharii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+23:17:41 : [Sharii] - Usado Gema no item Luvas(A) [1352] [43 253 0 0 0 0]
+23:17:44 : [Sharii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+23:17:44 : [Sharii] - Usado Gema no item Calça(A) [1349] [43 253 0 0 0 0]
+23:17:45 : [Sharii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+23:17:45 : [Sharii] - Usado Gema no item Botas(M) [1354] [43 253 0 0 0 0]
+23:24:35 : [Sharii] - [Mensagem do servidor]> Compra concluída!
+23:24:38 : [Sharii] - Moveu item Tintura_Roxa [3402] [0 0 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 13
+23:24:54 : [Sharii] - Comando "/gm +item 412"
+23:24:54 : [Sharii] - [Mensagem do servidor]> Criou o item Poeira_de_Oriharucon
+23:24:54 : [Sharii] - Sharii criou o item Poeira_de_Oriharucon [412] [0 0 0 0 0 0]
+23:24:56 : [Sharii] - Item Poeira_de_Oriharucon [412] [0 0 0 0 0 0] utilizado em 0x 0y
+23:24:58 : [Sharii] - Moveu item Feijão_Mágico(Roxo) [3412] [0 0 0 0 0 0] do tipo EQUIPAMENTO do slot 13 para tipo INVENTÁRIO slot 11
+23:25:01 : [Sharii] - Item Feijão_Mágico(Roxo) [3412] [0 0 0 0 0 0] utilizado em 0x 0y
+23:25:01 : [Sharii] - [Mensagem do servidor]> Refinação sucedida.
+23:25:08 : [Sharii] - [Mensagem do servidor]> Compra concluída!
+23:25:12 : [Sharii] - Item Removedor_de_tintura [3417] [0 0 0 0 0 0] utilizado em 0x 0y
+23:25:12 : [Sharii] - [Mensagem do servidor]> Refinação sucedida.
+23:25:35 : [Sharii] - Item Gema_de_Esmeralda [3387] [0 0 0 0 0 0] utilizado em 0x 0y
+23:25:35 : [Sharii] - Usado Gema no item Chapéu(M) [1342] [43 251 0 0 0 0]
+23:25:37 : [Sharii] - Item Gema_de_Esmeralda [3387] [0 0 0 0 0 0] utilizado em 0x 0y
+23:25:37 : [Sharii] - Usado Gema no item Túnica(A) [1346] [43 251 0 0 0 0]
+23:25:42 : [Sharii] - Item Gema_de_Esmeralda [3387] [0 0 0 0 0 0] utilizado em 0x 0y
+23:25:42 : [Sharii] - Usado Gema no item Luvas(A) [1352] [43 251 0 0 0 0]
+23:25:43 : [Sharii] - Item Gema_de_Esmeralda [3387] [0 0 0 0 0 0] utilizado em 0x 0y
+23:25:43 : [Sharii] - Usado Gema no item Calça(A) [1349] [43 251 0 0 0 0]
+23:25:46 : [Sharii] - Item Gema_de_Esmeralda [3387] [0 0 0 0 0 0] utilizado em 0x 0y
+23:25:46 : [Sharii] - Usado Gema no item Botas(M) [1354] [43 251 0 0 0 0]
+23:26:12 : [Sharii] - Item Gema_de_Coral [3388] [0 0 0 0 0 0] utilizado em 0x 0y
+23:26:12 : [Sharii] - Usado Gema no item Chapéu(M) [1342] [43 252 0 0 0 0]
+23:26:13 : [Sharii] - Item Gema_de_Coral [3388] [0 0 0 0 0 0] utilizado em 0x 0y
+23:26:13 : [Sharii] - Usado Gema no item Túnica(A) [1346] [43 252 0 0 0 0]
+23:26:15 : [Sharii] - Item Gema_de_Coral [3388] [0 0 0 0 0 0] utilizado em 0x 0y
+23:26:15 : [Sharii] - Usado Gema no item Luvas(A) [1352] [43 252 0 0 0 0]
+23:26:16 : [Sharii] - Item Gema_de_Coral [3388] [0 0 0 0 0 0] utilizado em 0x 0y
+23:26:16 : [Sharii] - Usado Gema no item Calça(A) [1349] [43 252 0 0 0 0]
+23:26:18 : [Sharii] - Item Gema_de_Coral [3388] [0 0 0 0 0 0] utilizado em 0x 0y
+23:26:18 : [Sharii] - Usado Gema no item Botas(M) [1354] [43 252 0 0 0 0]
+23:32:12 : [Sharii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Sharii
+Gold atual: 1865118100
+Level atual: 399
+Experiência atual: 4002399534
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:32:36 horas
+Posição atual: 2540x 1702y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 8610906112
+Soul: 8
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Mage[11] [43 0 11 0 1 1]
+[01] - Chapéu(M)[1342] [43 252 0 0 0 0]
+[02] - Túnica(A)[1346] [43 252 0 0 0 0]
+[03] - Calça(A)[1349] [43 252 0 0 0 0]
+[04] - Luvas(A)[1352] [43 252 0 0 0 0]
+[05] - Botas(M)[1354] [43 252 0 0 0 0]
+[08] - Brinco_de_Athena[591] [0 0 0 0 0 0]
+[11] - Pedra_Espiritual[633] [54 10 43 9 0 0]
+[15] - Véu_do_Campeão_(Andarilho)[574] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[00] - Botas(A)[1304] [0 0 0 0 0 0]
+[01] - Gema_de_Coral[3388] [0 0 0 0 0 0]
+[02] - Luvas(N)[1350] [43 250 0 0 0 0]
+[03] - Botass[1359] [43 250 0 0 0 0]
+[04] - Túnica[1356] [34 250 0 0 0 0]
+[05] - Robe(N)[1266] [0 0 0 0 0 0]
+[06] - Chapéu(M)[1342] [43 250 0 0 0 0]
+[07] - Robe(A)[1253] [0 0 0 0 0 0]
+[08] - Saia(M)[1279] [0 0 0 0 0 0]
+[19] - Luvas(M)[1321] [0 0 0 0 0 0]
+[29] - Aranha[2360] [88 27 21 18 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:32:46 : [Sharii] - Personagem deu personagem
+23:32:52 : Solicitou ir ao mundo...
+23:32:52 : Recebido pedido para entrar no jogo
+23:32:52 : Recebido informação do personagem completa.
+23:32:52 : [Shariii] - [INFORMAÇÕES DA CONTA]
+Personagem online: Shariii
+Gold atual: 1659000
+Level atual: 400
+Experiência atual: 0
+Evolução atual: Unknown
+Tempo online até o momento: 00 dias e 00:33:14 horas
+Posição atual: 2091x 2105y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Guardian[21] [43 0 21 0 1 1]
+[01] - Chapéu(A)[1403] [0 0 0 0 0 0]
+[02] - Robe(A)[1406] [0 0 0 0 0 0]
+[03] - Calça(A)[1409] [0 0 0 0 0 0]
+[04] - Luvas(A)[1412] [0 0 0 0 0 0]
+[05] - Sapatos(A)[1415] [0 0 0 0 0 0]
+[06] - Adaga[861] [43 0 0 0 0 0]
+
+[INVENTÁRIO]
+[27] - Elmo(A)[1478] [0 0 0 0 0 0]
+[28] - Elmo(N)[1476] [0 0 0 0 0 0]
+[29] - Elmo(M)[1477] [0 0 0 0 0 0]
+[63] - Marca_do_Assassino[547] [150 0 0 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+23:32:52 : [Shariii] - Personagem Shariii enviado ao mundo 2091x 2105y - Canal 2 - Cash da conta: 99160. PowerLevel: 275
+23:32:52 : [Shariii] - Gold atual: 1659000. Classe: 2 Evolução: 0. Experiência: 0. Nível: 400. Info: 0. GuildID: 0. CP: 75. Pontos de Contribuição: 0. Limite: 0
+23:32:52 : [Shariii] - Logou no personagem Shariii com frango ativo. Tempo: 1261
+23:32:52 : [Shariii] - Logou no personagem Shariii com baú de experiência ativo. Tempo: 362
+23:32:52 : [Shariii] - Enviado informações do personagem
+23:32:53 : [Shariii] - Comando "/day "
+23:32:53 : [Shariii] - [Mensagem do servidor]> !#11 2
+23:32:58 : [Shariii] - O usuï¿½rio nï¿½o enviou o pacote de integridade de macaddress
+23:33:18 : [Shariii] - Comando "/gm +item 1493 43 250"
+23:33:18 : [Shariii] - [Mensagem do servidor]> Criou o item Elmo(A)
+23:33:18 : [Shariii] - Shariii criou o item Elmo(A) [1493] [43 250 0 0 0 0]
+23:33:25 : [Shariii] - Comando "/gm +item 1496 34 250"
+23:33:25 : [Shariii] - [Mensagem do servidor]> Criou o item Armadura(A)
+23:33:25 : [Shariii] - Shariii criou o item Armadura(A) [1496] [34 250 0 0 0 0]
+23:33:29 : [Shariii] - Comando "/gm +item 1496 43 250"
+23:33:29 : [Shariii] - [Mensagem do servidor]> Criou o item Armadura(A)
+23:33:29 : [Shariii] - Shariii criou o item Armadura(A) [1496] [43 250 0 0 0 0]
+23:33:38 : [Shariii] - Comando "/gm +item 1500 43 250"
+23:33:38 : [Shariii] - [Mensagem do servidor]> Criou o item Luvas(N)
+23:33:38 : [Shariii] - Shariii criou o item Luvas(N) [1500] [43 250 0 0 0 0]
+23:33:47 : [Shariii] - Comando "/gm +item 1503 43 250"
+23:33:47 : [Shariii] - [Mensagem do servidor]> Criou o item Botas(N)
+23:33:47 : [Shariii] - Shariii criou o item Botas(N) [1503] [43 250 0 0 0 0]
+23:33:55 : [Shariii] - Comando "/gm +item 1505 43 250"
+23:33:55 : [Shariii] - [Mensagem do servidor]> Criou o item Botas(A)
+23:33:55 : [Shariii] - Shariii criou o item Botas(A) [1505] [43 250 0 0 0 0]
+23:34:00 : [Shariii] - Comando "/gm +item 1506 43 250"
+23:34:00 : [Shariii] - [Mensagem do servidor]> Criou o item Armadura
+23:34:00 : [Shariii] - Shariii criou o item Armadura [1506] [43 250 0 0 0 0]
+23:34:11 : [Shariii] - Comando "/gm +item 1497 43 250"
+23:34:11 : [Shariii] - [Mensagem do servidor]> Criou o item Calça(N)
+23:34:11 : [Shariii] - Shariii criou o item Calça(N) [1497] [43 250 0 0 0 0]
+23:34:14 : [Shariii] - Moveu item Calça(N) [1497] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 7 para tipo EQUIPAMENTO slot 3
+23:34:16 : [Shariii] - Moveu item Botas(A) [1505] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 5
+23:34:17 : [Shariii] - Moveu item Elmo(A) [1493] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+23:34:19 : [Shariii] - Moveu item Armadura(A) [1496] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 2
+23:34:20 : [Shariii] - Moveu item Luvas(N) [1500] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo EQUIPAMENTO slot 4
+23:34:37 : [Shariii] - Teleportado para a posição 2482 1717
+23:35:13 : [Shariii] - Comando "/gm +item 4011"
+23:35:13 : [Shariii] - [Mensagem do servidor]> Criou o item Barra_de_Prata(1Bi)
+23:35:13 : [Shariii] - Shariii criou o item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0]
+23:35:15 : [Shariii] - Item Barra_de_Prata(1Bi) [4011] [0 0 0 0 0 0] utilizado em 2548x 1716y
+23:35:15 : [Shariii] - Gold atual: 1657200.
+23:35:17 : [Shariii] - Item Armadura deletado [1506] [43 250 0 0 0 0]. Slot 6
+23:35:19 : [Shariii] - Item Calça(A) deletado [1409] [0 0 0 0 0 0]. Slot 7
+23:35:20 : [Shariii] - Item Sapatos(A) deletado [1415] [0 0 0 0 0 0]. Slot 5
+23:35:21 : [Shariii] - Item Luvas(A) deletado [1412] [0 0 0 0 0 0]. Slot 3
+23:35:22 : [Shariii] - Item Robe(A) deletado [1406] [0 0 0 0 0 0]. Slot 2
+23:35:23 : [Shariii] - Item Chapéu(A) deletado [1403] [0 0 0 0 0 0]. Slot 0
+23:35:23 : [Shariii] - Item Armadura(A) deletado [1496] [34 250 0 0 0 0]. Slot 1
+23:35:33 : [Shariii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+23:35:33 : [Shariii] - Usado Gema no item Elmo(A) [1493] [43 253 0 0 0 0]
+23:35:35 : [Shariii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+23:35:35 : [Shariii] - Usado Gema no item Armadura(A) [1496] [43 253 0 0 0 0]
+23:35:37 : [Shariii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+23:35:37 : [Shariii] - Usado Gema no item Luvas(N) [1500] [43 253 0 0 0 0]
+23:35:38 : [Shariii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+23:35:38 : [Shariii] - Usado Gema no item Calça(N) [1497] [43 253 0 0 0 0]
+23:35:41 : [Shariii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+23:35:41 : [Shariii] - Usado Gema no item Botas(A) [1505] [43 253 0 0 0 0]
+23:36:29 : [Shariii] - Comando "/gm +item 1510 43 250"
+23:36:29 : [Shariii] - [Mensagem do servidor]> Criou o item Elmo
+23:36:29 : [Shariii] - Shariii criou o item Elmo [1510] [43 250 0 0 0 0]
+23:36:34 : [Shariii] - Comando "/gm +item 1511 43 250"
+23:36:34 : [Shariii] - [Mensagem do servidor]> Criou o item Armadura
+23:36:34 : [Shariii] - Shariii criou o item Armadura [1511] [43 250 0 0 0 0]
+23:36:38 : [Shariii] - Comando "/gm +item 1512 43 250"
+23:36:38 : [Shariii] - [Mensagem do servidor]> Criou o item Calça
+23:36:38 : [Shariii] - Shariii criou o item Calça [1512] [43 250 0 0 0 0]
+23:36:42 : [Shariii] - Comando "/gm +item 1513 43 250"
+23:36:42 : [Shariii] - [Mensagem do servidor]> Criou o item Luvas
+23:36:42 : [Shariii] - Shariii criou o item Luvas [1513] [43 250 0 0 0 0]
+23:36:48 : [Shariii] - Comando "/gm +item 1514 43 250"
+23:36:48 : [Shariii] - [Mensagem do servidor]> Criou o item Botas
+23:36:48 : [Shariii] - Shariii criou o item Botas [1514] [43 250 0 0 0 0]
+23:36:50 : [Shariii] - Moveu item Luvas [1513] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 3 para tipo INVENTÁRIO slot 6
+23:36:52 : [Shariii] - Moveu item Botas [1514] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 5 para tipo EQUIPAMENTO slot 5
+23:36:53 : [Shariii] - Moveu item Elmo [1510] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 0 para tipo EQUIPAMENTO slot 1
+23:36:55 : [Shariii] - Moveu item Armadura [1511] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 1 para tipo EQUIPAMENTO slot 2
+23:36:58 : [Shariii] - Moveu item Luvas [1513] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 6 para tipo EQUIPAMENTO slot 4
+23:37:00 : [Shariii] - Moveu item Calça [1512] [43 250 0 0 0 0] do tipo INVENTÁRIO do slot 2 para tipo EQUIPAMENTO slot 3
+23:37:30 : [Shariii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+23:37:30 : [Shariii] - Usado Gema no item Botas [1514] [43 253 0 0 0 0]
+23:37:34 : [Shariii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+23:37:34 : [Shariii] - Usado Gema no item Calça [1512] [43 253 0 0 0 0]
+23:37:35 : [Shariii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+23:37:35 : [Shariii] - Usado Gema no item Luvas [1513] [43 253 0 0 0 0]
+23:37:38 : [Shariii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+23:37:38 : [Shariii] - Usado Gema no item Armadura [1511] [43 253 0 0 0 0]
+23:37:40 : [Shariii] - Item Gema_de_Garnet [3389] [0 0 0 0 0 0] utilizado em 0x 0y
+23:37:40 : [Shariii] - Usado Gema no item Elmo [1510] [43 253 0 0 0 0]
+23:38:59 : [Shariii] - Teleportado para a posição 2117 2102
