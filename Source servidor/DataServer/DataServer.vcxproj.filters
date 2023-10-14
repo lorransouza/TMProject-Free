@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Arquivos de Origem">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Recurso">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Sock">
+      <UniqueIdentifier>{de2fddef-f289-4136-81ab-ea50613e8c6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\CUser">
+      <UniqueIdentifier>{c72d08bc-1bf2-4671-b63b-bd5be33dc416}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Base">
+      <UniqueIdentifier>{8fa84283-d80d-4b65-9b4b-8ca21fedc8e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Log">
+      <UniqueIdentifier>{ef8bf96a-8b4c-4013-8f63-e6d61c0f4e6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\CFileDB">
+      <UniqueIdentifier>{c50229f1-45a0-4b14-9466-334f2a573815}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\ProcessTimer">
+      <UniqueIdentifier>{6ddbb5b1-35fc-4802-8374-5a13cca460cb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CPSock.h">
+      <Filter>Arquivos de Origem\Sock</Filter>
+    </ClInclude>
+    <ClInclude Include="CUser.h">
+      <Filter>Arquivos de Origem\CUser</Filter>
+    </ClInclude>
+    <ClInclude Include="Base.h">
+      <Filter>Arquivos de Origem\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Arquivos de Origem\Log</Filter>
+    </ClInclude>
+    <ClInclude Include="DataServer.h">
+      <Filter>Arquivos de Origem</Filter>
+    </ClInclude>
+    <ClInclude Include="CFileDB.h">
+      <Filter>Arquivos de Origem\CFileDB</Filter>
+    </ClInclude>
+    <ClInclude Include="ProcessTimer.h">
+      <Filter>Arquivos de Origem\ProcessTimer</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DataServer.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="WinProc.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="CPSock.cpp">
+      <Filter>Arquivos de Origem\Sock</Filter>
+    </ClCompile>
+    <ClCompile Include="Base.cpp">
+      <Filter>Arquivos de Origem\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Log.cpp">
+      <Filter>Arquivos de Origem\Log</Filter>
+    </ClCompile>
+    <ClCompile Include="CUser.cpp">
+      <Filter>Arquivos de Origem\CUser</Filter>
+    </ClCompile>
+    <ClCompile Include="CFileDB.cpp">
+      <Filter>Arquivos de Origem\CFileDB</Filter>
+    </ClCompile>
+    <ClCompile Include="ProcessTimer.cpp">
+      <Filter>Arquivos de Origem\ProcessTimer</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DataServer.rc">
+      <Filter>Arquivos de Recurso</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="DataServer.ico">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="GameServer.ico">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>

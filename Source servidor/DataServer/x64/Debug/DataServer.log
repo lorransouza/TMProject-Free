@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: o diretório Output não termina com uma barra à direita. Essa instância de compilação adicionará a barra conforme necessário para permitir a avaliação adequada do Diretório Output.
+  Base.cpp

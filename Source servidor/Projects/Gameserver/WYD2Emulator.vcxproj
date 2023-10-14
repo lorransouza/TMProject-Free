@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Common\ItemEffect.h" />
+    <ClInclude Include="..\..\Common\KeyTable.h" />
+    <ClInclude Include="..\..\Common\pugixml.hpp" />
+    <ClInclude Include="..\..\Common\stBase.h" />
+    <ClInclude Include="..\..\Common\UOD_CRC32.h" />
+    <ClInclude Include="..\..\Common\UOD_GUID.h" />
+    <ClInclude Include="..\..\Common\UOD_Log.h" />
+    <ClInclude Include="..\..\Common\UOD_SEHTranslator.h" />
+    <ClInclude Include="AntiBot.h" />
+    <ClInclude Include="AntiBotPacketGenerator.h" />
+    <ClInclude Include="AntiBotPacketTest.h" />
+    <ClInclude Include="Basedef.h" />
+    <ClInclude Include="CMob.h" />
+    <ClInclude Include="CNPCGener.h" />
+    <ClInclude Include="cServer.h" />
+    <ClInclude Include="CUser.h" />
+    <ClInclude Include="EncDec.h" />
+    <ClInclude Include="GetFunc.h" />
+    <ClInclude Include="ItemsAction.h" />
+    <ClInclude Include="MessageSender.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="resource1.h" />
+    <ClInclude Include="SendFunc.h" />
+    <ClInclude Include="Socket.h" />
+    <ClInclude Include="UOD_Arena.h" />
+    <ClInclude Include="UOD_BossEvent.h" />
+    <ClInclude Include="UOD_ChristmasMission.h" />
+    <ClInclude Include="UOD_ChristmasTree.h" />
+    <ClInclude Include="UOD_DroplistGenerator.h" />
+    <ClInclude Include="UOD_DuelLetter.h" />
+    <ClInclude Include="UOD_Event.h" />
+    <ClInclude Include="UOD_EventManager.h" />
+    <ClInclude Include="UOD_HappyHarvest.h" />
+    <ClInclude Include="UOD_Mission.h" />
+    <ClInclude Include="UOD_PreWarBoss.h" />
+    <ClInclude Include="UOD_Quiz.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Common\pugixml.cpp" />
+    <ClCompile Include="..\..\Common\UOD_CRC32.cpp" />
+    <ClCompile Include="..\..\Common\UOD_GUID.cpp" />
+    <ClCompile Include="..\..\Common\UOD_Log.cpp" />
+    <ClCompile Include="..\..\Common\UOD_SEHTranslator.cpp" />
+    <ClCompile Include="AddMessage DB.cpp" />
+    <ClCompile Include="AddMessage.cpp" />
+    <ClCompile Include="AntiBot.cpp" />
+    <ClCompile Include="AntiBotPacketTest.cpp" />
+    <ClCompile Include="Basedef.cpp" />
+    <ClCompile Include="ChangeServer.cpp" />
+    <ClCompile Include="CMob.cpp" />
+    <ClCompile Include="CNPCGener.cpp" />
+    <ClCompile Include="Connect.cpp" />
+    <ClCompile Include="Create.cpp" />
+    <ClCompile Include="cServer.cpp" />
+    <ClCompile Include="CUser.cpp" />
+    <ClCompile Include="Decrypt.cpp" />
+    <ClCompile Include="Encrypt.cpp" />
+    <ClCompile Include="GetCharInfo.cpp" />
+    <ClCompile Include="GetFunc.cpp" />
+    <ClCompile Include="GuildInfo.cpp" />
+    <ClCompile Include="HandleMacAddressIntegrity.cpp" />
+    <ClCompile Include="HandleModulesInfo.cpp" />
+    <ClCompile Include="ItemsAction.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MainWndProc.cpp" />
+    <ClCompile Include="MessageSender.cpp" />
+    <ClCompile Include="NewShopDonate.cpp" />
+    <ClCompile Include="PacketControl.cpp" />
+    <ClCompile Include="ProcessTimer.cpp" />
+    <ClCompile Include="ReadMessage DB.cpp" />
+    <ClCompile Include="ReadMessage.cpp" />
+    <ClCompile Include="RequestAcceptParty.cpp" />
+    <ClCompile Include="RequestAcceptRecruit.cpp" />
+    <ClCompile Include="RequestAcceptRejectMission.cpp" />
+    <ClCompile Include="RequestAction.cpp" />
+    <ClCompile Include="RequestAddParty.cpp" />
+    <ClCompile Include="RequestAddPoint.cpp" />
+    <ClCompile Include="RequestAdminCommand.cpp" />
+    <ClCompile Include="RequestAgatha.cpp" />
+    <ClCompile Include="RequestAlchemy.cpp" />
+    <ClCompile Include="RequestAlly.cpp" />
+    <ClCompile Include="RequestAttack.cpp" />
+    <ClCompile Include="RequestAutoPartyAddRemoveName.cpp" />
+    <ClCompile Include="RequestAutoPartyEnableAll.cpp" />
+    <ClCompile Include="RequestAutoPartyEnterParty.cpp" />
+    <ClCompile Include="RequestAutoPartySetPassword.cpp" />
+    <ClCompile Include="RequestAylin.cpp" />
+    <ClCompile Include="RequestBlockItems.cpp" />
+    <ClCompile Include="RequestBuyAutoTrade.cpp" />
+    <ClCompile Include="RequestBuyDonateShop.cpp" />
+    <ClCompile Include="RequestBuyRvRStore.cpp" />
+    <ClCompile Include="RequestBuyShop.cpp" />
+    <ClCompile Include="RequestChallange.cpp" />
+    <ClCompile Include="RequestChangeCity.cpp" />
+    <ClCompile Include="RequestChangeSkillBar.cpp" />
+    <ClCompile Include="RequestChat.cpp" />
+    <ClCompile Include="RequestClientInfo.cpp" />
+    <ClCompile Include="RequestCloseAutoTrade.cpp" />
+    <ClCompile Include="RequestCollectDaily.cpp" />
+    <ClCompile Include="RequestCollectMission.cpp" />
+    <ClCompile Include="RequestCommand.cpp" />
+    <ClCompile Include="RequestCompounder.cpp" />
+    <ClCompile Include="RequestCreateAutoTrade.cpp" />
+    <ClCompile Include="RequestCreateChar.cpp" />
+    <ClCompile Include="RequestDeclareWar.cpp" />
+    <ClCompile Include="RequestDeleteChar.cpp" />
+    <ClCompile Include="RequestDeleteItem.cpp" />
+    <ClCompile Include="RequestDonateShop.cpp" />
+    <ClCompile Include="RequestDropItem.cpp" />
+    <ClCompile Include="RequestDuel.cpp" />
+    <ClCompile Include="RequestEhre.cpp" />
+    <ClCompile Include="RequestEssenceUse.cpp" />
+    <ClCompile Include="RequestExitParty.cpp" />
+    <ClCompile Include="RequestExtraction.cpp" />
+    <ClCompile Include="RequestFriendList.cpp" />
+    <ClCompile Include="RequestGriffinMaster.cpp" />
+    <ClCompile Include="RequestKickMember.cpp" />
+    <ClCompile Include="RequestLindy.cpp" />
+    <ClCompile Include="RequestLogin.cpp" />
+    <ClCompile Include="RequestMerchantNPC.cpp" />
+    <ClCompile Include="RequestMotion.cpp" />
+    <ClCompile Include="RequestMoveItem.cpp" />
+    <ClCompile Include="RequestMsvfw32Info.cpp" />
+    <ClCompile Include="RequestNightmareAccept.cpp" />
+    <ClCompile Include="RequestOdin.cpp" />
+    <ClCompile Include="RequestOpenAutoTrade.cpp" />
+    <ClCompile Include="RequestOpenGate.cpp" />
+    <ClCompile Include="RequestOpenShop.cpp" />
+    <ClCompile Include="RequestPickItem.cpp" />
+    <ClCompile Include="RequestPremierStore.cpp" />
+    <ClCompile Include="RequestPremierStoreBuy.cpp" />
+    <ClCompile Include="RequestPutOutSeal.cpp" />
+    <ClCompile Include="RequestRecruitMember.cpp" />
+    <ClCompile Include="RequestRedeemGriffin.cpp" />
+    <ClCompile Include="RequestRepurchase.cpp" />
+    <ClCompile Include="RequestReqChallange.cpp" />
+    <ClCompile Include="RequestRessuctPlayer.cpp" />
+    <ClCompile Include="RequestSealInfo.cpp" />
+    <ClCompile Include="RequestSellShop.cpp" />
+    <ClCompile Include="RequestShany.cpp" />
+    <ClCompile Include="RequestTeleport.cpp" />
+    <ClCompile Include="RequestTiny.cpp" />
+    <ClCompile Include="RequestTrade.cpp" />
+    <ClCompile Include="RequestTransferGold.cpp" />
+    <ClCompile Include="RequestUngroupItem.cpp" />
+    <ClCompile Include="RequestUseItem.cpp" />
+    <ClCompile Include="ResendCharList.cpp" />
+    <ClCompile Include="SendCharList.cpp" />
+    <ClCompile Include="SendCharToWorld.cpp" />
+    <ClCompile Include="SendFunc.cpp" />
+    <ClCompile Include="SendNumericToken.cpp" />
+    <ClCompile Include="UOD_Arena.cpp" />
+    <ClCompile Include="UOD_BossEvent.cpp" />
+    <ClCompile Include="UOD_ChristmasMission.cpp" />
+    <ClCompile Include="UOD_ChristmasTree.cpp" />
+    <ClCompile Include="UOD_DroplistGenerator.cpp" />
+    <ClCompile Include="UOD_HappyHarvest.cpp" />
+    <ClCompile Include="UOD_Mission.cpp" />
+    <ClCompile Include="UOD_PreWarBoss.cpp" />
+    <ClCompile Include="UOD_Quiz.cpp" />
+    <ClCompile Include="UOD_DuelLetter.cpp" />
+    <ClCompile Include="UOD_Event.cpp" />
+    <ClCompile Include="UOD_EventManager.cpp" />
+    <ClCompile Include="WindowsForm.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Language.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GameServer.rc" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{336501E9-C3EF-4E9E-A6D2-57C7E742E233}</ProjectGuid>
+    <RootNamespace>WYD2Emulator</RootNamespace>
+    <ProjectName>GameServer</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+    <SpectreMitigation>false</SpectreMitigation>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <SpectreMitigation>false</SpectreMitigation>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IntDir>$(Configuration)\</IntDir>
+    <IncludePath>$(SolutionDir)Common\;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>..\..\..\Release\GameServer</OutDir>
+    <IntDir>..\..\..\Release\GameServer</IntDir>
+    <IncludePath>$(SolutionDir)Common\;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <IntDir>$(SolutionDir)\obj\$(Platform)\$(ProjectName)\$(Configuration)\</IntDir>
+    <IncludePath>$(SolutionDir)Common\;$(IncludePath)</IncludePath>
+    <OutDir>$(SolutionDir)bin\$(Platform)\$(ProjectName)\$(Configuration)\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <IntDir>$(SolutionDir)\obj\$(Platform)\$(ProjectName)\$(Configuration)\</IntDir>
+    <IncludePath>$(SolutionDir)Common\;$(IncludePath)</IncludePath>
+    <OutDir>$(SolutionDir)bin\$(Platform)\$(ProjectName)\$(Configuration)\</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>false</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <PreprocessorDefinitions>_DEBUG;_MBCS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <MinimalRebuild />
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <LanguageStandard_C>Default</LanguageStandard_C>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>false</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <PreprocessorDefinitions>_DEBUG;_MBCS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <MinimalRebuild />
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>false</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <PreprocessorDefinitions>NDEBUG;WIN32;_MBCS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>false</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
